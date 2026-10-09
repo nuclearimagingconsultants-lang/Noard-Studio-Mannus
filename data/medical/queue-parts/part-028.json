@@ -1,0 +1,3899 @@
+[
+  {
+    "id": "MED-X109",
+    "programId": "med",
+    "title": "Complex Medical Dermatology Fellowship",
+    "level": "Clinical physician fellowship-aligned independent study",
+    "studyHours": {
+      "planHours": 72,
+      "breakdown": "36.0 h verified specialty video floor plus 1.1 h separate foundations, approximately 18 h reading/evidence review, 12 h case/assignment work, and 4.9 h question review/reflection. A study plan only, not measured institutional workload."
+    },
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
+    "syllabusUrl": "/manus-storage/MED-X109_43f2c723.pdf",
+    "pdfIds": [
+      "med-syllabus-MED-X109",
+      "med-reading-0273a06a0668"
+    ],
+    "lectures": [
+      {
+        "id": "Ou1mD-_Jqqo",
+        "title": "Dermatology basics: the fundamentals of diagnosis and history taking",
+        "url": "https://www.youtube.com/watch?v=Ou1mD-_Jqqo",
+        "provider": "DermNet",
+        "durationSeconds": 1892.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLjDvk8CGXBkgT5xo-Hsf_94KGLx3UxQsF",
+        "accessVerified": true
+      },
+      {
+        "id": "usvkbJATeo0",
+        "title": "Fungal infections of the skin",
+        "url": "https://www.youtube.com/watch?v=usvkbJATeo0",
+        "provider": "DermNet",
+        "durationSeconds": 1510.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLjDvk8CGXBkgT5xo-Hsf_94KGLx3UxQsF",
+        "accessVerified": true
+      },
+      {
+        "id": "wKXvE6Q9qYY",
+        "title": "Bacterial infections of the skin",
+        "url": "https://www.youtube.com/watch?v=wKXvE6Q9qYY",
+        "provider": "DermNet",
+        "durationSeconds": 1979.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLjDvk8CGXBkgT5xo-Hsf_94KGLx3UxQsF",
+        "accessVerified": true
+      },
+      {
+        "id": "qNElZzrB2-M",
+        "title": "Spotlight on Red Scaly Rashes: Dermatologist's Insights to Lichen Planus, Pityriasis Rosea, and More",
+        "url": "https://www.youtube.com/watch?v=qNElZzrB2-M",
+        "provider": "DermNet",
+        "durationSeconds": 1534.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLjDvk8CGXBkgT5xo-Hsf_94KGLx3UxQsF",
+        "accessVerified": true
+      },
+      {
+        "id": "XEMJTssM7P0",
+        "title": "Eczema: A Complete Overview",
+        "url": "https://www.youtube.com/watch?v=XEMJTssM7P0",
+        "provider": "DermNet",
+        "durationSeconds": 3480.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLjDvk8CGXBkgT5xo-Hsf_94KGLx3UxQsF",
+        "accessVerified": true
+      },
+      {
+        "id": "DjiQQUz1jCw",
+        "title": "Navigating Psoriasis: Clinical Perspectives on Features, Management, and Beyond",
+        "url": "https://www.youtube.com/watch?v=DjiQQUz1jCw",
+        "provider": "DermNet",
+        "durationSeconds": 2600.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLjDvk8CGXBkgT5xo-Hsf_94KGLx3UxQsF",
+        "accessVerified": true
+      },
+      {
+        "id": "xvBTdPl0uao",
+        "title": "Blisters unveiled: Definitions, Causes, and Treatment",
+        "url": "https://www.youtube.com/watch?v=xvBTdPl0uao",
+        "provider": "DermNet",
+        "durationSeconds": 1300.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLjDvk8CGXBkgT5xo-Hsf_94KGLx3UxQsF",
+        "accessVerified": true
+      },
+      {
+        "id": "kogMVDIr04I",
+        "title": "Skin cancers and precancers: essentials",
+        "url": "https://www.youtube.com/watch?v=kogMVDIr04I",
+        "provider": "DermNet",
+        "durationSeconds": 3545.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLjDvk8CGXBkgT5xo-Hsf_94KGLx3UxQsF",
+        "accessVerified": true
+      },
+      {
+        "id": "qVaP9skHsh0",
+        "title": "Understanding Drug Eruptions",
+        "url": "https://www.youtube.com/watch?v=qVaP9skHsh0",
+        "provider": "DermNet",
+        "durationSeconds": 3229.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLjDvk8CGXBkgT5xo-Hsf_94KGLx3UxQsF",
+        "accessVerified": true
+      },
+      {
+        "id": "oUXvx5X7KV8",
+        "title": "Skin in systemic disease: a specialised overview",
+        "url": "https://www.youtube.com/watch?v=oUXvx5X7KV8",
+        "provider": "DermNet",
+        "durationSeconds": 4230.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLjDvk8CGXBkgT5xo-Hsf_94KGLx3UxQsF",
+        "accessVerified": true
+      },
+      {
+        "id": "9RKwjYH9PXE",
+        "title": "Common dermatology treatments",
+        "url": "https://www.youtube.com/watch?v=9RKwjYH9PXE",
+        "provider": "DermNet",
+        "durationSeconds": 1901.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLjDvk8CGXBkgT5xo-Hsf_94KGLx3UxQsF",
+        "accessVerified": true
+      },
+      {
+        "id": "FLulWftTPBk",
+        "title": "Dermatological emergencies",
+        "url": "https://www.youtube.com/watch?v=FLulWftTPBk",
+        "provider": "DermNet",
+        "durationSeconds": 2619.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLjDvk8CGXBkgT5xo-Hsf_94KGLx3UxQsF",
+        "accessVerified": true
+      },
+      {
+        "id": "OCtxEY793DQ",
+        "title": "Interprofessional Approach to Patients on Biologics with a Focus on Psoriatic Disease",
+        "url": "https://www.youtube.com/watch?v=OCtxEY793DQ",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 6890.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R__Coqi5HHy092LWR8p5iTk",
+        "accessVerified": true
+      },
+      {
+        "id": "7U1gyTAt5HE",
+        "title": "Update in Treatment Medical Dermatologic Diseases",
+        "url": "https://www.youtube.com/watch?v=7U1gyTAt5HE",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 8198.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R__Coqi5HHy092LWR8p5iTk",
+        "accessVerified": true
+      },
+      {
+        "id": "BFsl5CDotcE",
+        "title": "Treatment of Psoriatic Disease",
+        "url": "https://www.youtube.com/watch?v=BFsl5CDotcE",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 4998.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R__Coqi5HHy092LWR8p5iTk",
+        "accessVerified": true
+      },
+      {
+        "id": "M_RPTny7mFs",
+        "title": "Rheum/Derm Overlap Diseases, IMIDs Involving the Skin- M. Elaine Husni, MD, MPH",
+        "url": "https://www.youtube.com/watch?v=M_RPTny7mFs",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 2083.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R__Coqi5HHy092LWR8p5iTk",
+        "accessVerified": true
+      },
+      {
+        "id": "ixzITcgaKkc",
+        "title": "Rheum/Derm Overlap Diseases  Immunologic Responses- Cassandra Calabrese, DO, Samantha Polly, MD",
+        "url": "https://www.youtube.com/watch?v=ixzITcgaKkc",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 3088.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R__Coqi5HHy092LWR8p5iTk",
+        "accessVerified": true
+      },
+      {
+        "id": "TjgnOy-4650",
+        "title": "Optimizing Interprofessional Collaboration to Improve Patient Care, 2024",
+        "url": "https://www.youtube.com/watch?v=TjgnOy-4650",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 7479.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R__Coqi5HHy092LWR8p5iTk",
+        "accessVerified": true
+      },
+      {
+        "id": "iL0V5oivcxo",
+        "title": "Rheum/Derm Overlap Diseases – Updates and Optimization of Medical Therapy, 2024",
+        "url": "https://www.youtube.com/watch?v=iL0V5oivcxo",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 10843.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R__Coqi5HHy092LWR8p5iTk",
+        "accessVerified": true
+      },
+      {
+        "id": "g7AjV24-AAQ",
+        "title": "Rheum/Derm Overlap Diseases  Past, Present, and Future Milestone Discoveries, 2024",
+        "url": "https://www.youtube.com/watch?v=g7AjV24-AAQ",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 13931.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R__Coqi5HHy092LWR8p5iTk",
+        "accessVerified": true
+      },
+      {
+        "id": "G0rY3051uh0",
+        "title": "Update in Treatment of Medical Dermatologic Diseases and Psoriatic, 2024",
+        "url": "https://www.youtube.com/watch?v=G0rY3051uh0",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 17056.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R__Coqi5HHy092LWR8p5iTk",
+        "accessVerified": true
+      },
+      {
+        "id": "oEd1GbI4OtY",
+        "title": "Update in Medical Treatment of Cutaneous Malignancies, Autoimmune Blistering Diseases, and Granuloma",
+        "url": "https://www.youtube.com/watch?v=oEd1GbI4OtY",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 14107.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R__Coqi5HHy092LWR8p5iTk",
+        "accessVerified": true
+      },
+      {
+        "id": "Ajnt_7pQZyo",
+        "title": "PPACMAN update (Rheumatology/Dermatology)",
+        "url": "https://www.youtube.com/watch?v=Ajnt_7pQZyo",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 977.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "pWqUlOSeM7Q",
+        "title": "New and Emerging Treatments of Cutaneous Lupus",
+        "url": "https://www.youtube.com/watch?v=pWqUlOSeM7Q",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1923.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "b7W6bQksMm8",
+        "title": "New and Emerging Treatments in Dermatomyositis",
+        "url": "https://www.youtube.com/watch?v=b7W6bQksMm8",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1739.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "k4BenSKi7wY",
+        "title": "New and Emerging Treatments in Fibrosing Skin Disorders",
+        "url": "https://www.youtube.com/watch?v=k4BenSKi7wY",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1689.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "Fe96qCbWoUo",
+        "title": "0900 Irfan   Phototherapy Youtube",
+        "url": "https://www.youtube.com/watch?v=Fe96qCbWoUo",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1160.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "iqPKOqOojJs",
+        "title": "New and Emerging Treatments in Cutaneous Vasculitis",
+        "url": "https://www.youtube.com/watch?v=iqPKOqOojJs",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1483.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "e1mPqEPoQng",
+        "title": "Traditional Topical Treatment Update",
+        "url": "https://www.youtube.com/watch?v=e1mPqEPoQng",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1266.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "4QCjxO87toM",
+        "title": "New and Emerging Topical Treatments",
+        "url": "https://www.youtube.com/watch?v=4QCjxO87toM",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 873.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "VwnQNLvTcj4",
+        "title": "Lupus and Dermatomyositis: Cases with the Masters",
+        "url": "https://www.youtube.com/watch?v=VwnQNLvTcj4",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1063.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "wOoucP1l_kY",
+        "title": "Traditional Systemic Treatment Update",
+        "url": "https://www.youtube.com/watch?v=wOoucP1l_kY",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1543.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "Z8pyWxhk2ts",
+        "title": "Fibrosing Skin Disease and Vasculitis: Cases with the Masters",
+        "url": "https://www.youtube.com/watch?v=Z8pyWxhk2ts",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1260.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "OG4jVzO_dxM",
+        "title": "New and Emerging Small Molecule Inhibitors",
+        "url": "https://www.youtube.com/watch?v=OG4jVzO_dxM",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1407.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "06jEPeM-1hc",
+        "title": "Burden of Cutaneous Malignancies in the United States",
+        "url": "https://www.youtube.com/watch?v=06jEPeM-1hc",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1189.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "usDzpZUBFBA",
+        "title": "Update in Medical Treatment of Squamous Cell Carcinoma",
+        "url": "https://www.youtube.com/watch?v=usDzpZUBFBA",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1435.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "JgKyYDiBOG8",
+        "title": "Update in Medical Treatment of Merkel Cell Carcinoma",
+        "url": "https://www.youtube.com/watch?v=JgKyYDiBOG8",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1630.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "LWRTaFG5EwI",
+        "title": "Pathology and Immunohistochemistry in Guiding Systemic Treatment of Advanced Cutaneous Malignancy",
+        "url": "https://www.youtube.com/watch?v=LWRTaFG5EwI",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1203.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "M_L99Cg-HAU",
+        "title": "Update in Molecular Diagnostics for Cutaneous Malignancies",
+        "url": "https://www.youtube.com/watch?v=M_L99Cg-HAU",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1231.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "3-H1lL-7gUA",
+        "title": "Targeted Treatment of Melanoma: Where Are We and Where Are We Going?",
+        "url": "https://www.youtube.com/watch?v=3-H1lL-7gUA",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1964.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "S8akYfVn4gM",
+        "title": "Update in Traditional Treatments (Topicals, UV Phototherapy, Systemics)",
+        "url": "https://www.youtube.com/watch?v=S8akYfVn4gM",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1527.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "KafmF43X_dw",
+        "title": "TNF-Inhibitors: “Classic” Biologics for Psoriatic Disease",
+        "url": "https://www.youtube.com/watch?v=KafmF43X_dw",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1364.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "SYkmZzNMoXM",
+        "title": "IL-12/23 Inhibitors and Small Molecule Inhibitors",
+        "url": "https://www.youtube.com/watch?v=SYkmZzNMoXM",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1512.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "JFI0gRpZ7CY",
+        "title": "IL-17 Inhibitors",
+        "url": "https://www.youtube.com/watch?v=JFI0gRpZ7CY",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1520.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "V7Xqqy9g0oI",
+        "title": "Update in Treatment of Psoriatic Arthritis",
+        "url": "https://www.youtube.com/watch?v=V7Xqqy9g0oI",
+        "provider": "Cleveland Clinic CME",
+        "durationSeconds": 1348.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8jLEQuQYQDrFY5d4xQM75n",
+        "accessVerified": true
+      },
+      {
+        "id": "1iFITbPE1_I",
+        "title": "Pathology Grand Rounds - Cutaneous T-Cell Lymphoma | Dr. Michi Shinohara",
+        "url": "https://www.youtube.com/watch?v=1iFITbPE1_I",
+        "provider": "University of Washington / academic grand rounds (YouTube channel owner on page)",
+        "durationSeconds": 2748.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=1iFITbPE1_I",
+        "accessVerified": true
+      },
+      {
+        "id": "QwISmO89b_E",
+        "title": "UofL Dept. of Medicine Grand Rounds: Dr. Alina Markova (2023 Jeffrey P. Callen Lecture)",
+        "url": "https://www.youtube.com/watch?v=QwISmO89b_E",
+        "provider": "UofLMedicine",
+        "durationSeconds": 3902.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=QwISmO89b_E",
+        "accessVerified": true
+      }
+    ],
+    "unitMap": [
+      {
+        "number": 1,
+        "text": "Complex dermatology consultation: morphology, acuity, and systems review",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "Ou1mD-_Jqqo",
+          "9RKwjYH9PXE",
+          "FLulWftTPBk",
+          "TjgnOy-4650"
+        ]
+      },
+      {
+        "number": 2,
+        "text": "Diagnostic strategy, biopsy planning, pathology and immunofluorescence",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "xvBTdPl0uao",
+          "oEd1GbI4OtY"
+        ]
+      },
+      {
+        "number": 3,
+        "text": "Autoimmune blistering disease and mucosal emergencies",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "xvBTdPl0uao",
+          "oEd1GbI4OtY"
+        ]
+      },
+      {
+        "number": 4,
+        "text": "Severe drug reactions and oncology-treatment toxicities",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "qVaP9skHsh0",
+          "FLulWftTPBk"
+        ]
+      },
+      {
+        "number": 5,
+        "text": "Cutaneous lupus, dermatomyositis and connective-tissue disease",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "oUXvx5X7KV8",
+          "M_RPTny7mFs",
+          "ixzITcgaKkc",
+          "iL0V5oivcxo",
+          "g7AjV24-AAQ",
+          "pWqUlOSeM7Q",
+          "b7W6bQksMm8",
+          "k4BenSKi7wY",
+          "iqPKOqOojJs",
+          "VwnQNLvTcj4",
+          "Z8pyWxhk2ts"
+        ]
+      },
+      {
+        "number": 6,
+        "text": "Cutaneous vasculitis, panniculitis and neutrophilic dermatoses",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "oUXvx5X7KV8",
+          "FLulWftTPBk",
+          "M_RPTny7mFs",
+          "ixzITcgaKkc",
+          "iL0V5oivcxo",
+          "g7AjV24-AAQ",
+          "pWqUlOSeM7Q",
+          "b7W6bQksMm8",
+          "k4BenSKi7wY",
+          "iqPKOqOojJs",
+          "VwnQNLvTcj4",
+          "Z8pyWxhk2ts"
+        ]
+      },
+      {
+        "number": 7,
+        "text": "Severe psoriasis, eczema and chronic inflammatory dermatoses",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "qNElZzrB2-M",
+          "XEMJTssM7P0",
+          "DjiQQUz1jCw",
+          "oUXvx5X7KV8",
+          "OCtxEY793DQ",
+          "7U1gyTAt5HE",
+          "BFsl5CDotcE",
+          "G0rY3051uh0",
+          "Ajnt_7pQZyo",
+          "Fe96qCbWoUo",
+          "e1mPqEPoQng",
+          "4QCjxO87toM",
+          "wOoucP1l_kY",
+          "OG4jVzO_dxM",
+          "LWRTaFG5EwI",
+          "S8akYfVn4gM",
+          "KafmF43X_dw",
+          "SYkmZzNMoXM",
+          "JFI0gRpZ7CY",
+          "V7Xqqy9g0oI"
+        ]
+      },
+      {
+        "number": 8,
+        "text": "Cutaneous complications of transplantation and immune dysregulation",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "qVaP9skHsh0",
+          "TjgnOy-4650",
+          "QwISmO89b_E"
+        ]
+      },
+      {
+        "number": 9,
+        "text": "Infectious dermatoses in medically complex and immunocompromised patients",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "usvkbJATeo0",
+          "wKXvE6Q9qYY",
+          "FLulWftTPBk",
+          "QwISmO89b_E"
+        ]
+      },
+      {
+        "number": 10,
+        "text": "Cutaneous lymphoma, malignancy and complex systemic therapy",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "kogMVDIr04I",
+          "06jEPeM-1hc",
+          "usDzpZUBFBA",
+          "JgKyYDiBOG8",
+          "M_L99Cg-HAU",
+          "3-H1lL-7gUA",
+          "1iFITbPE1_I"
+        ]
+      },
+      {
+        "number": 11,
+        "text": "Complex wounds, ulcers, pain, itch and inpatient consultation",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "TjgnOy-4650"
+        ]
+      },
+      {
+        "number": 12,
+        "text": "Synthesis: evidence appraisal, uncertainty and board-style clinical reasoning",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": []
+      }
+    ],
+    "family": "Dermatology",
+    "trackType": "Clinical physician fellowship",
+    "boardNames": [
+      "American Board of Dermatology (ABD) — primary specialty board; no separate complex medical dermatology board examination identified in reviewed official sources"
+    ],
+    "boardStatus": "Complex medical dermatology is an institutional fellowship focus, not a separately named ABD subspecialty exam on the current official ABD exam information reviewed. ABD lists dermatopathology, pediatric dermatology, and micrographic dermatologic surgery subspecialty exams. The ACGME Dermatology overview lists dermatopathology, micrographic surgery and dermatologic oncology, and pediatric dermatology as subspecialties; no complex medical dermatology fellowship category is listed there. This does not establish whether this specific fellowship is ACGME-accredited; the official BWH programme page does not state that.",
+    "boardEligibilityNotice": "This independent course confers no ABD eligibility, certification, CME, or clinical privileges. ABD certification and eligibility depend on its own current rules, accredited training and individual application; verify directly with ABD.",
+    "targetVideoHours": 36.0,
+    "verifiedExternalHours": 43.73555555555556,
+    "verifiedSpecialtyHours": 40.60444444444445,
+    "verifiedFoundationHours": 3.131111111111111,
+    "hoursGap": 0.0,
+    "clinicalTrainingNotReplaced": true,
+    "humanClinicalReviewStatus": "not performed",
+    "officialProgrammes": [
+      {
+        "institution": "Brigham and Women’s Hospital",
+        "name": "BWH Complex Medical Dermatology Fellowship Program"
+      }
+    ],
+    "directoryMedicalValidation": {
+      "source": "full-catalog",
+      "issues": [],
+      "unknownDurationCount": 0,
+      "lectureEvidenceValid": true,
+      "hasExternalLectureEvidence": true,
+      "isReady": true
+    }
+  },
+  {
+    "id": "MED-X110",
+    "programId": "med",
+    "title": "Contact Dermatitis and Occupational Dermatology Fellowship",
+    "level": "Clinical physician fellowship (institution-listed; ACGME accreditation not independently verified)-aligned independent study",
+    "studyHours": {
+      "plan": "90 hours self-study plan: 12 units x 5 hours (60), case/reading portfolio (18), practice/review (12). This is an independent study estimate, not verified institutional training time.",
+      "verifiedInstructionalVideoHours": 0
+    },
+    "coverageStatus": "incomplete_lecture_hours",
+    "syllabusUrl": "/manus-storage/MED-X110_e4b83580.pdf",
+    "pdfIds": [
+      "med-syllabus-MED-X110"
+    ],
+    "lectures": [
+      {
+        "id": "V-001",
+        "title": "Contact Dermatitis and Patch Testing (Fonacier)",
+        "url": "https://www.youtube.com/watch?v=Bg4nfc3LNSk",
+        "provider": "Conferences Online Allergy / Children’s Mercy Hospital (speaker Luz Fonacier)",
+        "durationSeconds": null,
+        "sourceUrl": "https://www.youtube.com/watch?v=Bg4nfc3LNSk",
+        "accessVerified": false
+      },
+      {
+        "id": "V-002",
+        "title": "ACDS public historical webinar archive (individual recordings not individually resolved)",
+        "url": "https://www.contactderm.org/events/acds-virtual-event/acds-past-virtual-events",
+        "provider": "American Contact Dermatitis Society",
+        "durationSeconds": null,
+        "sourceUrl": "https://www.contactderm.org/events/acds-virtual-event/acds-past-virtual-events",
+        "accessVerified": false
+      },
+      {
+        "id": "MED-X110-ADD-001",
+        "title": "Dermatology Grand Rounds - Mar 14, 2024",
+        "url": "https://www.youtube.com/watch?v=QKf8Z8tKQyo",
+        "provider": "Department of Medicine (YouTube publisher; recording page does not identify the institution)",
+        "durationSeconds": 3600.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=QKf8Z8tKQyo",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X110-ADD-002",
+        "title": "Contact Dermatitis and Patch Testing: 2026 Updates for Allergists",
+        "url": "https://www.youtube.com/watch?v=ecedr16ZdFk",
+        "provider": "Allergy & Asthma Network, with American College of Allergy, Asthma and Immunology (ACAAI) partnership/sponsorship stated on the network page",
+        "durationSeconds": 3565.0,
+        "sourceUrl": "https://allergyasthmanetwork.org/webinars-updates/contact-dermatitis-patch-testing-2026-updates/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X110-ADD-005",
+        "title": "Eczema: A Complete Overview",
+        "url": "https://www.youtube.com/watch?v=XEMJTssM7P0",
+        "provider": "DermNet, clinician-educator dermatology publisher",
+        "durationSeconds": 3479.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=XEMJTssM7P0",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X110-ADD-006",
+        "title": "Dermatology basics: the fundamentals of diagnosis and history taking",
+        "url": "https://www.youtube.com/watch?v=Ou1mD-_Jqqo",
+        "provider": "DermNet, clinician-educator dermatology publisher",
+        "durationSeconds": 1892.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLjDvk8CGXBkgT5xo-Hsf_94KGLx3UxQsF",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X110-ADD-007",
+        "title": "Understanding and Managing Contact Dermatitis",
+        "url": "https://www.youtube.com/watch?v=8ZfjVtpXvGg",
+        "provider": "Allergy & Asthma Network; presenter Ama Alexis, MD, FAAP, FACAAI",
+        "durationSeconds": 2562.0,
+        "sourceUrl": "https://allergyasthmanetwork.org/webinars-updates/understanding-and-managing-contact-dermatitis/",
+        "accessVerified": true
+      }
+    ],
+    "unitMap": [
+      {
+        "number": 1,
+        "text": "Mechanisms, morphology and differential diagnosis",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "V-001",
+          "V-002",
+          "MED-X110-ADD-001",
+          "MED-X110-ADD-002",
+          "MED-X110-ADD-005",
+          "MED-X110-ADD-006"
+        ]
+      },
+      {
+        "number": 2,
+        "text": "Structured exposure history and occupational causation",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "V-001",
+          "V-002",
+          "MED-X110-ADD-006"
+        ]
+      },
+      {
+        "number": 3,
+        "text": "Patch testing: indication, consent and planning",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "V-001",
+          "V-002",
+          "MED-X110-ADD-001",
+          "MED-X110-ADD-002"
+        ]
+      },
+      {
+        "number": 4,
+        "text": "Patch test application, reading and safety",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "V-001",
+          "V-002",
+          "MED-X110-ADD-001"
+        ]
+      },
+      {
+        "number": 5,
+        "text": "Interpretation: reaction morphology and clinical relevance",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "V-001",
+          "V-002",
+          "MED-X110-ADD-001",
+          "MED-X110-ADD-002"
+        ]
+      },
+      {
+        "number": 6,
+        "text": "Allergen groups and exposure-directed series",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "V-001",
+          "V-002",
+          "MED-X110-ADD-001",
+          "MED-X110-ADD-002",
+          "MED-X110-ADD-005"
+        ]
+      },
+      {
+        "number": 7,
+        "text": "Hand, face, eyelid and site-patterned dermatitis",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "V-001",
+          "V-002",
+          "MED-X110-ADD-001",
+          "MED-X110-ADD-002",
+          "MED-X110-ADD-005"
+        ]
+      },
+      {
+        "number": 8,
+        "text": "Healthcare, wet-work and glove dermatitis",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "V-001",
+          "V-002"
+        ]
+      },
+      {
+        "number": 9,
+        "text": "Industry-specific exposures and workplace investigation",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "V-001",
+          "V-002"
+        ]
+      },
+      {
+        "number": 10,
+        "text": "Management, avoidance and worker communication",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "V-001",
+          "V-002",
+          "MED-X110-ADD-002",
+          "MED-X110-ADD-005",
+          "MED-X110-ADD-007"
+        ]
+      },
+      {
+        "number": 11,
+        "text": "Causation, documentation, accommodation and ethics",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "V-001",
+          "V-002"
+        ]
+      },
+      {
+        "number": 12,
+        "text": "Synthesis, evidence appraisal and quality improvement",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "V-001",
+          "V-002",
+          "MED-X110-ADD-006"
+        ]
+      }
+    ],
+    "family": "Dermatology",
+    "trackType": "Clinical physician fellowship (institution-listed; ACGME accreditation not independently verified)",
+    "boardNames": [
+      "American Board of Dermatology (ABD) — Dermatology certification; adjacent base specialty only",
+      "American Board of Preventive Medicine (ABPM) — Occupational and Environmental Medicine; a separate primary specialty, not this fellowship credential"
+    ],
+    "boardStatus": "No separate Contact Dermatitis/Occupational Dermatology board examination was identified in the official ABD certification/fellowship sources reviewed. ACGME Dermatology page names three dermatology subspecialties—dermatopathology, micrographic surgery and dermatologic oncology, and pediatric dermatology—not this fellowship. The BWH listing does not establish ACGME accreditation. ABPM Occupational and Environmental Medicine has its own certification pathways and examination, but is not a contact-dermatology exam and this fellowship does not confer it.",
+    "boardEligibilityNotice": "Course completion does not create ABD/ABPM eligibility. ABD dermatology certification requires formal accredited training and examination; ABPM OEM requires specified clinical training, OEM residency/coursework/practice under applicable pathway. Verify current requirements with each board.",
+    "targetVideoHours": 36.0,
+    "verifiedExternalHours": 4.193888888888889,
+    "verifiedSpecialtyHours": 1.9902777777777778,
+    "verifiedFoundationHours": 2.203611111111111,
+    "hoursGap": 31.80611111111111,
+    "clinicalTrainingNotReplaced": true,
+    "humanClinicalReviewStatus": "not performed",
+    "officialProgrammes": [
+      {
+        "institution": "Brigham and Women’s Hospital (Mass General Brigham; Harvard-affiliated institution)",
+        "name": "BWH Contact Dermatitis and Occupational Dermatology Fellowship"
+      }
+    ],
+    "directoryMedicalValidation": {
+      "source": "full-catalog",
+      "issues": [],
+      "unknownDurationCount": 2,
+      "lectureEvidenceValid": false,
+      "hasExternalLectureEvidence": true,
+      "isReady": false
+    }
+  },
+  {
+    "id": "MED-X111",
+    "programId": "med",
+    "title": "Comprehensive Neurology Fellowship",
+    "level": "Clinical physician fellowship-aligned independent study",
+    "studyHours": {
+      "status": "Transparent self-study PLAN, not MGB programme hours or measured workload.",
+      "plannedTotalHours": 60,
+      "breakdown": {
+        "publicVideoViewingObserved": 1.8886111111,
+        "readingsAndGuidelineReviewPlanned": 18,
+        "caseReasoningAndAssignmentsPlanned": 20,
+        "questionsAndReflectionPlanned": 12,
+        "capstoneAndReviewPlanned": 8.1113888889
+      },
+      "note": "Only observed public video runtimes count in the video value; other values are learner planning estimates and vary."
+    },
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
+    "syllabusUrl": "/manus-storage/MED-X111_5ea19acb.pdf",
+    "pdfIds": [
+      "med-syllabus-MED-X111",
+      "med-reading-7a2998f4c9f8",
+      "med-reading-17818321a4ed",
+      "med-reading-e278e3998c4e",
+      "med-reading-1bad961465ef",
+      "med-reading-5dfc00a9e3bd"
+    ],
+    "lectures": [
+      {
+        "id": "AAN-HEADACHE-2021",
+        "title": "Virtual Resident Education Lecture Series: Headache Medicine",
+        "url": "https://www.youtube.com/watch?v=a332htjTrtk",
+        "provider": "American Academy of Neurology (AAN) YouTube channel",
+        "durationSeconds": 3230.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=a332htjTrtk",
+        "accessVerified": true
+      },
+      {
+        "id": "AAN-MOVEMENT-EMERGENCIES",
+        "title": "Virtual Resident Lecture Series: Movement Disorder Emergencies",
+        "url": "https://www.youtube.com/watch?v=z0EhEi2Ow7k",
+        "provider": "Public neurology education YouTube video; AAN resident-series title/context",
+        "durationSeconds": 3569.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=z0EhEi2Ow7k",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-001",
+        "title": "New Consensus Myoclonus Classification Scheme - John Caviness, MD",
+        "url": "https://www.youtube.com/watch?v=lolYx7gZFYw",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3115.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-004",
+        "title": "Masqueraders of Optic Neuritis/MS - Bonnie Keung, MD",
+        "url": "https://www.youtube.com/watch?v=JILS3IEmzlw",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 2996.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-005",
+        "title": "How Telemedicine Can Support Persons With Cognitive Impairment & Care Partners - Joel Salinas, MD",
+        "url": "https://www.youtube.com/watch?v=eDaOwLq9VqQ",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3436.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-007",
+        "title": "Nonepileptic Events and Attachment Styles - Lina Fine, MD & Michael Doherty, MD",
+        "url": "https://www.youtube.com/watch?v=dmaLMmGiXCY",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3936.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-008",
+        "title": "Guillain-Barré Syndrome - Amanda B. Steen, MD",
+        "url": "https://www.youtube.com/watch?v=OnAWn5qzUOg",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 2800.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-009",
+        "title": "Beyond Stenosis: Carotid Disease and Ischemic Stroke - Emily L. Ho, MD, ASN, PhD",
+        "url": "https://www.youtube.com/watch?v=k6YtELlHREw",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3312.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-011",
+        "title": "Deep Brain Stimulation of Thalamus for Epilepsy: What’s New? - Robert Fisher, MD, PhD",
+        "url": "https://www.youtube.com/watch?v=Y7nfXdVK1Rk",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 2841.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-012",
+        "title": "Sleep Apnea and Neuro-ophthalmology - Clare Fraser, MBBS, MMed, DMedSci, FRANZCO",
+        "url": "https://www.youtube.com/watch?v=IBrDOeArExo",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 2910.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-013",
+        "title": "Selected Topics in NeuroRehabilitation - Amanda B. Steen, MD",
+        "url": "https://www.youtube.com/watch?v=eQgcSt2BLSA",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3114.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-014",
+        "title": "Pediatric Autoimmune Encephalitis – Catherine Otten, MD",
+        "url": "https://www.youtube.com/watch?v=R0wRCj3-npg",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 2945.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-015",
+        "title": "Migraine Disorder Overview – Elena Robinson, MD",
+        "url": "https://www.youtube.com/watch?v=5KvxQutRiC0",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 2688.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-017",
+        "title": "Collaterals in Stroke – David Liebeskind, MD",
+        "url": "https://www.youtube.com/watch?v=zcNJKMR4Ea0",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3627.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-018",
+        "title": "Genetics of Parkinson's Disease – Cyrus Zabetian, MD",
+        "url": "https://www.youtube.com/watch?v=jJa87w7myCI",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3141.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-019",
+        "title": "Mitochondrial Optic Neuropathies: Most Common Hereditary Diseases – Joyce Liao, MD, PhD",
+        "url": "https://www.youtube.com/watch?v=kJgyATPERVE",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3900.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-022",
+        "title": "How to Improve Post-Stroke Adherence...or at Least Study It - Sandeep Khot, MD",
+        "url": "https://www.youtube.com/watch?v=uKZ6TeReQR8",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3754.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-023",
+        "title": "Aging in MS – Jennifer Graves, MD, PhD, MAS",
+        "url": "https://www.youtube.com/watch?v=JkpNrIYB-1M",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3765.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-024",
+        "title": "Cerebellar Ataxias: Case-Based Approach to Multidisciplinary Care – Pravin Khemani, MD",
+        "url": "https://www.youtube.com/watch?v=LFEhDPU_dUY",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3800.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-027",
+        "title": "ALS Clinical Trials 2012-2022: A Decade of Lessons in Humility and Hope – Collin Quinn, M.D",
+        "url": "https://www.youtube.com/watch?v=ckwl1Gs1k5A",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3427.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-028",
+        "title": "Spontaneous Intracranial Hypotension: What the Neurologist Needs to Know – Deborah Friedman, M.D",
+        "url": "https://www.youtube.com/watch?v=ENDyzSanLzE",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3636.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-032",
+        "title": "Venous Stenting for Idiopathic Intracranial Hypertension – Marc Dinkin, M.D.",
+        "url": "https://www.youtube.com/watch?v=TT0FqMW56cM",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3899.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-034",
+        "title": "Perfusion Imaging in Stroke: A Paradigm Shift in Acute Stroke Care – Soo Young Kwon, M.D.",
+        "url": "https://www.youtube.com/watch?v=1Jy6xsSvBV8",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3307.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-035",
+        "title": "Epstein Barr Virus & Multiple Sclerosis – Jeffrey Dunn, M.D.",
+        "url": "https://www.youtube.com/watch?v=9hJA0lGsIKI",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3774.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-037",
+        "title": "Elizabeth Coon, MD - Autonomic Failure in Parkinsonism",
+        "url": "https://www.youtube.com/watch?v=UI79woPakrQ",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3451.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-039",
+        "title": "Using Immunosuppressive Medications in Myasthenia Gravis - Christyn Edmundson, MD",
+        "url": "https://www.youtube.com/watch?v=QXi5Td19yuY",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3698.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-040",
+        "title": "Thalamic Stimulation For Complex Epilepsy Control – Mark Richardson, M.D.",
+        "url": "https://www.youtube.com/watch?v=xpgc7TISGK4",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3092.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-041",
+        "title": "Sex and Gender in Alzheimer's Disease Risk and Resilience - Jessica Caldwell, Ph.D.",
+        "url": "https://www.youtube.com/watch?v=Kyphvr0Q5Es",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3554.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-042",
+        "title": "How to Give Less Bad News: A Guide to ALS Mimics - David Ivanick, MD",
+        "url": "https://www.youtube.com/watch?v=lh3ZsSpFzho",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3461.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-043",
+        "title": "Brain on Fire & Other Lessons of Autoimmune Encephalitis - Pavel Repovic, MD",
+        "url": "https://www.youtube.com/watch?v=Ds5oYINeJGE",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3557.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-045",
+        "title": "Huntington's Disease Therapy : Possibilities Over the Horizon - Suman Jayadev M.D.",
+        "url": "https://www.youtube.com/watch?v=74fsIyu5vXk",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3486.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-046",
+        "title": "Autonomic Disorders in Clinical Practice - Svetlana Blitshteyn, M.D.",
+        "url": "https://www.youtube.com/watch?v=xRpB3ogtBr8",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3706.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-048",
+        "title": "Individualized Clinical Management of Patients at Risk for Alzheimer's Dementia-Richard Isaacson, MD",
+        "url": "https://www.youtube.com/watch?v=NRgphimjiKc",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3879.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-050",
+        "title": "Electroencephalographic Source Imaging to Localize the Epileptogenic Zone - Matt Lallas, M.D.",
+        "url": "https://www.youtube.com/watch?v=Un9i0nWj-uE",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 2859.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-051",
+        "title": "Emerging MRI Diagnostic Biomarkers for MS: Central Vein Sign & Paramagnetic Rims- Andrew Solomon, MD",
+        "url": "https://www.youtube.com/watch?v=FQ0dl-9ifho",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3452.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-053",
+        "title": "Optic Neuritis: It's not just multiple sclerosis anymore - John Chen, MD, PhD",
+        "url": "https://www.youtube.com/watch?v=6UyupRWyA7s",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3556.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-054",
+        "title": "Cluster Headache: Past Present and Future - Jerry Wei, MD",
+        "url": "https://www.youtube.com/watch?v=9jUdC4KeAyM",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 2423.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-066",
+        "title": "Parasomnias: An Overview - Morris B. Chang, M.D., M.B.A.",
+        "url": "https://www.youtube.com/watch?v=OtINzRvR3jQ",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 3383.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      },
+      {
+        "id": "NGR-068",
+        "title": "Unicorns, Dragons, Polymyositis, and other Mythological Beasts | The Truth About Polymyositis",
+        "url": "https://www.youtube.com/watch?v=w30ZAi46RhI",
+        "provider": "Seattle Science Foundation Neurology Grand Rounds",
+        "durationSeconds": 2879.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLyptnEaqO5i7g9ihRN-fgavZyyaa-Zrls",
+        "accessVerified": true
+      }
+    ],
+    "unitMap": [
+      {
+        "number": 1,
+        "text": "Academic general neurology: scope, safety, and clinical reasoning",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "AAN-HEADACHE-2021",
+          "AAN-MOVEMENT-EMERGENCIES",
+          "NGR-013",
+          "NGR-042"
+        ]
+      },
+      {
+        "number": 2,
+        "text": "Neuroanatomic localization and focused examination",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "NGR-017",
+          "NGR-019",
+          "NGR-024",
+          "NGR-034",
+          "NGR-046",
+          "NGR-050",
+          "NGR-051"
+        ]
+      },
+      {
+        "number": 3,
+        "text": "Diagnostic strategy, headache, and pain",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "AAN-HEADACHE-2021",
+          "NGR-015",
+          "NGR-028",
+          "NGR-032",
+          "NGR-054"
+        ]
+      },
+      {
+        "number": 4,
+        "text": "Epilepsy, first seizure, and episodic-event differentials",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "NGR-007",
+          "NGR-011",
+          "NGR-040",
+          "NGR-050"
+        ]
+      },
+      {
+        "number": 5,
+        "text": "Vascular neurology: recognition, prevention, recovery",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "NGR-009",
+          "NGR-013",
+          "NGR-017",
+          "NGR-022",
+          "NGR-028",
+          "NGR-034"
+        ]
+      },
+      {
+        "number": 6,
+        "text": "Movement disorders and functional neurologic disorder",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "AAN-MOVEMENT-EMERGENCIES",
+          "NGR-001",
+          "NGR-007",
+          "NGR-011",
+          "NGR-018",
+          "NGR-024",
+          "NGR-037",
+          "NGR-045"
+        ]
+      },
+      {
+        "number": 7,
+        "text": "Cognition, behavior, and episodic or progressive change",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "NGR-005",
+          "NGR-023",
+          "NGR-041",
+          "NGR-045",
+          "NGR-048"
+        ]
+      },
+      {
+        "number": 8,
+        "text": "Demyelinating, autoimmune, and neuroinfectious presentations",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "NGR-004",
+          "NGR-014",
+          "NGR-023",
+          "NGR-035",
+          "NGR-043",
+          "NGR-051",
+          "NGR-053"
+        ]
+      },
+      {
+        "number": 9,
+        "text": "Neuromuscular medicine and peripheral localization",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "NGR-001",
+          "NGR-008",
+          "NGR-024",
+          "NGR-027",
+          "NGR-039",
+          "NGR-042",
+          "NGR-068"
+        ]
+      },
+      {
+        "number": 10,
+        "text": "Neuro-ophthalmology, neuro-otology, and dizziness",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "NGR-004",
+          "NGR-012",
+          "NGR-019",
+          "NGR-032",
+          "NGR-053"
+        ]
+      },
+      {
+        "number": 11,
+        "text": "Sleep, autonomic symptoms, pain, and multimorbidity",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "NGR-012",
+          "NGR-018",
+          "NGR-037",
+          "NGR-046",
+          "NGR-066"
+        ]
+      },
+      {
+        "number": 12,
+        "text": "Academic practice, teaching, scholarship, and QI",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "NGR-005",
+          "NGR-013",
+          "NGR-022",
+          "NGR-027",
+          "NGR-048"
+        ]
+      }
+    ],
+    "family": "Neurology and neurosurgery",
+    "trackType": "Clinical physician fellowship",
+    "boardNames": [
+      "American Board of Psychiatry and Neurology (ABPN) — initial Neurology certification",
+      "Royal College of Physicians and Surgeons of Canada (RCPSC) — primary specialty certification (alternative named by MGB)"
+    ],
+    "boardStatus": {
+      "primaryBoard": "American Board of Psychiatry and Neurology (ABPN) for US initial Neurology certification",
+      "status": "This is a real institution-specific one-year post-residency clinical academic general-neurology fellowship, not a primary residency, combined adult-child residency, or ABPN-recognized subspecialty certification. ABPN lists recognized subspecialty exams separately. No separate Comprehensive Neurology board exam or credential was identified. The official RCPSC page describes a primary Neurology (adult and pediatric) certification examination, with written and applied components; it is not a fellowship-specific examination.",
+      "blueprintScope": "Mapped to ABPN Neurology Certification Content Specifications for initial certification, posted 2025-12-16: 400 questions, 80% adult/20% child and two interrelated dimensions (neurologic topics and competencies/mechanisms). Unit mapping is educational, not a weighting equivalence.",
+      "eligibilityContext": "MGB requires an ACGME- or RCPSC-accredited neurology residency graduate, primary ABPN/RCPSC certification or eligibility, and full Massachusetts license eligibility. ABPN eligibility separately depends on current board requirements. This course does not establish eligibility.",
+      "separateFellowshipExam": "No separate Comprehensive Neurology fellowship exam was found. ABPN primary Neurology certification is a separate board exam; RCPSC separately describes a primary Neurology (adult and pediatric) written plus applied certification exam. Neither source identifies a board exam specific to this MGB fellowship. Subspecialty exams have distinct eligibility rules."
+    },
+    "boardEligibilityNotice": "Independent self-study does not provide a medical degree, accredited residency/fellowship, supervision, competence, licensure, board eligibility, procedure authorization, or certification. Programme applicant requirements do not become course credentials. Verify current rules with ABPN/RCPSC and the programme; no passing outcome is promised.",
+    "targetVideoHours": 36.0,
+    "verifiedExternalHours": 36.48833333333334,
+    "verifiedSpecialtyHours": 36.48833333333334,
+    "verifiedFoundationHours": 0.0,
+    "hoursGap": 0.0,
+    "clinicalTrainingNotReplaced": true,
+    "humanClinicalReviewStatus": "not performed",
+    "officialProgrammes": [
+      {
+        "institution": "Mass General Brigham",
+        "name": "Comprehensive Neurology Fellowship"
+      },
+      {
+        "institution": "Mass General Brigham Neurology Fellowship Programs / Harvard Medical School context",
+        "name": "Mass General Brigham Combined Comprehensive Neurology fellowship at HMS"
+      }
+    ],
+    "directoryMedicalValidation": {
+      "source": "full-catalog",
+      "issues": [],
+      "unknownDurationCount": 0,
+      "lectureEvidenceValid": true,
+      "hasExternalLectureEvidence": true,
+      "isReady": true
+    }
+  },
+  {
+    "id": "MED-X112",
+    "programId": "med",
+    "title": "Headache Fellowship",
+    "level": "Clinical physician fellowship-aligned independent study",
+    "studyHours": {
+      "plan": "Approx. 110 total self-study hours beyond the counted recorded lectures: 36 planned video hours (not yet produced), 42 reading hours, 20 case/assignment hours and 12 spaced-retrieval hours. This is a transparent study plan, not observed programme time.",
+      "basis": "Learner schedule only; planned filming remains future production and is excluded from verified external lecture hours."
+    },
+    "coverageStatus": "incomplete_lecture_hours",
+    "syllabusUrl": "/manus-storage/MED-X112_5bdf3410.pdf",
+    "pdfIds": [
+      "med-syllabus-MED-X112",
+      "med-reading-5969c02640c6",
+      "med-reading-63e11c73e2e9",
+      "med-reading-c532ca4d2298",
+      "med-reading-3b28d9d4bb04",
+      "med-reading-5073c970a5f4",
+      "med-reading-17818321a4ed"
+    ],
+    "lectures": [
+      {
+        "id": "L001",
+        "title": "Virtual Resident Education Lecture Series: Headache Medicine",
+        "url": "https://www.youtube.com/watch?v=a332htjTrtk",
+        "provider": "American Academy of Neurology / UCNS; AAN Virtual Resident Education Lecture Series",
+        "durationSeconds": 3230.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=a332htjTrtk",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X112-ADD-001",
+        "title": "An Update in Migraine Pathophysiology and CGRP Targeted Therapies - Grand Rounds SJHH",
+        "url": "https://www.youtube.com/watch?v=v4b4TBNoWEs",
+        "provider": "McMaster University Department of Medicine Grand Rounds, in collaboration with Hamilton Health Sciences and St. Joseph's Healthcare Hamilton",
+        "durationSeconds": 3593.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=v4b4TBNoWEs",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X112-ADD-002",
+        "title": "Neurology Grand Rounds: Modeling the Complexity of Migraine: Challenges and Future Directions",
+        "url": "https://www.youtube.com/watch?v=e_YOeBxJLhU",
+        "provider": "Massachusetts General Hospital Department of Neurology Grand Rounds",
+        "durationSeconds": 3324.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=e_YOeBxJLhU",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X112-ADD-003",
+        "title": "Diagnosis and Management of Headache",
+        "url": "https://www.youtube.com/watch?v=qJynJ1PWjl4",
+        "provider": "Mount Sinai St. Luke's and Mount Sinai West Department of Medicine Grand Rounds",
+        "durationSeconds": 3610.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=qJynJ1PWjl4",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X112-ADD-004",
+        "title": "Neurology Pearls: Migraine & Tension Headache Evaluation & Treatment 4/17/19",
+        "url": "https://www.youtube.com/watch?v=cL7_LuDFZs4",
+        "provider": "Mary Greeley Medical Center Physician Grand Rounds",
+        "durationSeconds": 2841.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=cL7_LuDFZs4",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X112-ADD-005",
+        "title": "Therapies in Pediatric Migraine by Paul Gong, MD- UofL PGY5 Child Neurology Resident",
+        "url": "https://www.youtube.com/watch?v=Vo5WnVXM0Gc",
+        "provider": "University of Louisville Child Neurology Residency Neurology Grand Rounds",
+        "durationSeconds": 2346.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=Vo5WnVXM0Gc",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X112-ADD-006",
+        "title": "AHS First Contact - Migraine in Pediatrics Presentation",
+        "url": "https://www.youtube.com/watch?v=aVHKFFFiHc0",
+        "provider": "American Headache Society, First Contact: Headache in Primary Care",
+        "durationSeconds": 3777.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=aVHKFFFiHc0",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X112-ADD-007",
+        "title": "AHS First Contact - Menstrual Migraine Webinar",
+        "url": "https://www.youtube.com/watch?v=ND_TC9SOcAU",
+        "provider": "American Headache Society, First Contact: Headache in Primary Care",
+        "durationSeconds": 1935.0,
+        "sourceUrl": "https://americanheadachesociety.org/resources/primary-care/videos",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X112-ADD-008",
+        "title": "Neurology Grand Rounds: A 64-year-old Woman with Headaches, Memory Loss, and Cognitive Impairment",
+        "url": "https://www.youtube.com/watch?v=Zryelm8Eskg",
+        "provider": "Massachusetts General Hospital Department of Neurology Grand Rounds",
+        "durationSeconds": 3618.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=Zryelm8Eskg",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X112-ADD-009",
+        "title": "Migraine Disorder Overview – Elena Robinson, MD",
+        "url": "https://www.youtube.com/watch?v=5KvxQutRiC0",
+        "provider": "Seattle Science Foundation",
+        "durationSeconds": 2688.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=5KvxQutRiC0",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X112-ADD-010",
+        "title": "Types of Headaches | Primary vs. Secondary | Migraine, Cluster, Tension Headaches",
+        "url": "https://www.youtube.com/watch?v=d2vW_CHWqo4",
+        "provider": "Ninja Nerd medical education",
+        "durationSeconds": 4946.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=d2vW_CHWqo4",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X112-ADD-011",
+        "title": "Headache Series - Session A - Part 1",
+        "url": "https://www.youtube.com/watch?v=AuoikeT_h98",
+        "provider": "Duke Neurology",
+        "durationSeconds": 496.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=AuoikeT_h98",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X112-ADD-012",
+        "title": "Headache Series - Session A - Part 2",
+        "url": "https://www.youtube.com/watch?v=VbOg1ptyRGw",
+        "provider": "Duke Neurology",
+        "durationSeconds": 329.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=VbOg1ptyRGw",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X112-ADD-013",
+        "title": "Headache Series - Session A - Part 3",
+        "url": "https://www.youtube.com/watch?v=26pRaBBhodA",
+        "provider": "Duke Neurology",
+        "durationSeconds": 1004.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=26pRaBBhodA",
+        "accessVerified": true
+      }
+    ],
+    "unitMap": [
+      {
+        "number": 1,
+        "text": "Headache fellowship, certification, and evidence literacy",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": []
+      },
+      {
+        "number": 2,
+        "text": "Neurobiology, trigeminovascular pathways, and headache epidemiology",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "L001",
+          "MED-X112-ADD-001",
+          "MED-X112-ADD-002",
+          "MED-X112-ADD-006",
+          "MED-X112-ADD-009",
+          "MED-X112-ADD-010",
+          "MED-X112-ADD-011"
+        ]
+      },
+      {
+        "number": 3,
+        "text": "Structured history, phenotyping, and ICHD-3 diagnosis",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X112-ADD-003",
+          "MED-X112-ADD-004",
+          "MED-X112-ADD-006",
+          "MED-X112-ADD-007",
+          "MED-X112-ADD-010",
+          "MED-X112-ADD-011"
+        ]
+      },
+      {
+        "number": 4,
+        "text": "Secondary headache red flags and urgent triage reasoning",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X112-ADD-001",
+          "MED-X112-ADD-003",
+          "MED-X112-ADD-004",
+          "MED-X112-ADD-008",
+          "MED-X112-ADD-010",
+          "MED-X112-ADD-012"
+        ]
+      },
+      {
+        "number": 5,
+        "text": "Migraine with/without aura, complications, and differential",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "L001",
+          "MED-X112-ADD-001",
+          "MED-X112-ADD-003",
+          "MED-X112-ADD-004",
+          "MED-X112-ADD-006",
+          "MED-X112-ADD-009",
+          "MED-X112-ADD-010",
+          "MED-X112-ADD-011"
+        ]
+      },
+      {
+        "number": 6,
+        "text": "Tension-type headache, TACs, neuralgias, and other primary syndromes",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X112-ADD-003",
+          "MED-X112-ADD-004",
+          "MED-X112-ADD-010",
+          "MED-X112-ADD-011"
+        ]
+      },
+      {
+        "number": 7,
+        "text": "Diagnostic testing and interpretation",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "L001",
+          "MED-X112-ADD-008",
+          "MED-X112-ADD-010",
+          "MED-X112-ADD-012"
+        ]
+      },
+      {
+        "number": 8,
+        "text": "Acute migraine therapeutics and emergency care",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "L001",
+          "MED-X112-ADD-001",
+          "MED-X112-ADD-003",
+          "MED-X112-ADD-004",
+          "MED-X112-ADD-005",
+          "MED-X112-ADD-006",
+          "MED-X112-ADD-009",
+          "MED-X112-ADD-013"
+        ]
+      },
+      {
+        "number": 9,
+        "text": "Preventive migraine therapeutics and chronic migraine",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "L001",
+          "MED-X112-ADD-001",
+          "MED-X112-ADD-003",
+          "MED-X112-ADD-004",
+          "MED-X112-ADD-005",
+          "MED-X112-ADD-006",
+          "MED-X112-ADD-007",
+          "MED-X112-ADD-009",
+          "MED-X112-ADD-013"
+        ]
+      },
+      {
+        "number": 10,
+        "text": "Medication overuse, complex refractory disease, and advanced care",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "L001",
+          "MED-X112-ADD-001",
+          "MED-X112-ADD-003",
+          "MED-X112-ADD-004",
+          "MED-X112-ADD-013"
+        ]
+      },
+      {
+        "number": 11,
+        "text": "Pediatric, pregnancy, women’s health, older adult, and comorbidity",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X112-ADD-005",
+          "MED-X112-ADD-006",
+          "MED-X112-ADD-007"
+        ]
+      },
+      {
+        "number": 12,
+        "text": "Behavioral, integrative, communication, research, and practice systems",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X112-ADD-002",
+          "MED-X112-ADD-005"
+        ]
+      }
+    ],
+    "family": "Neurology and neurosurgery",
+    "trackType": "Clinical physician fellowship",
+    "boardNames": [
+      "UCNS Headache Medicine Certification Examination",
+      "Primary ABMS/RCPSC/AOA specialty certification (eligibility prerequisite in the UCNS pathways)",
+      "American Board of Headache Medicine (ABHM) certification examination (separate organization; explicitly not ABMS-recognized)"
+    ],
+    "boardStatus": "A formal UCNS subspecialty certification exam exists. The official UCNS page checked 2026-10-07 lists a 4-hour, 200-question exam and a 2026 exam schedule; biennial even-year administration is stated. The separate ABHM website describes a written plus oral/practical exam and expressly says ABHM is not recognized by ABMS. UCNS and ABHM are different credentials. Headache Medicine is not a standalone ABPN primary specialty board.",
+    "boardEligibilityNotice": "Educational course completion confers no exam eligibility. Current UCNS criteria (updated 2025-12-11) require primary board certification by ABMS/RCPSC/AOA (with specified alternate faculty pathway), unrestricted active physician licensure, and one of UCNS-defined pathways. Its accredited fellowship pathway requires successfully completing a >=12-month UCNS-accredited headache fellowship and applying within stated limits. The BWH page says its own applicants need an ACGME/RCPSC-accredited residency, primary ABMS/RCPSC board certified/eligible and Massachusetts licensure. Confirm current criteria directly with the certifier; no eligibility promise.",
+    "targetVideoHours": 36.0,
+    "verifiedExternalHours": 10.4825,
+    "verifiedSpecialtyHours": 6.6722222222222225,
+    "verifiedFoundationHours": 3.810277777777778,
+    "hoursGap": 25.5175,
+    "clinicalTrainingNotReplaced": true,
+    "humanClinicalReviewStatus": "not performed",
+    "officialProgrammes": [
+      {
+        "institution": "Brigham and Women's Hospital / Mass General Brigham / Harvard Medicine",
+        "name": "Mass General Brigham and Harvard Medicine Combined Headache Fellowship (BWH Headache Fellowship; centered at John R. Graham Headache Center, BWH Faulkner Hospital)"
+      }
+    ],
+    "directoryMedicalValidation": {
+      "source": "full-catalog",
+      "issues": [],
+      "unknownDurationCount": 0,
+      "lectureEvidenceValid": true,
+      "hasExternalLectureEvidence": true,
+      "isReady": false
+    }
+  },
+  {
+    "id": "MED-X113",
+    "programId": "med",
+    "title": "Clinical Fellowship in Dementia",
+    "level": "Supplementary clinical physician fellowship-aligned independent study",
+    "studyHours": {
+      "planOnly": true,
+      "estimatedHours": 120,
+      "breakdown": "36h target video curriculum, 42h guideline/free-reading study, 24h case exercises and assignments, 12h review/self-testing, 6h synthesis. Only 2.094 unique observed free video hours are currently ready; remaining video hours are a gap, not achieved study time."
+    },
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
+    "syllabusUrl": "/manus-storage/MED-X113_08c83d8f.pdf",
+    "pdfIds": [
+      "med-syllabus-MED-X113",
+      "med-reading-100f46d98e60",
+      "med-reading-0a9f9f05af8a",
+      "med-reading-c43b92c3fe8d",
+      "med-reading-d13d9bf60128",
+      "med-reading-d8bd4c679437",
+      "med-reading-84b585cdd5a0"
+    ],
+    "lectures": [
+      {
+        "id": "VID-001",
+        "title": "Developments in Alzheimer’s Disease: From Diagnosis to Treatment",
+        "url": "https://www.youtube.com/watch?v=RTXS6iwV7xI",
+        "provider": "Stanford Department of Medicine",
+        "durationSeconds": 3278.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=RTXS6iwV7xI",
+        "accessVerified": true
+      },
+      {
+        "id": "VID-002",
+        "title": "Johns Hopkins Psychiatry Grand Rounds: Three Hot Topics in Alzheimer’s Disease",
+        "url": "https://www.youtube.com/watch?v=dMPnyl9NO3w",
+        "provider": "Johns Hopkins Psychiatry and Behavioral Sciences",
+        "durationSeconds": 2409.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=dMPnyl9NO3w",
+        "accessVerified": true
+      },
+      {
+        "id": "VID-003",
+        "title": "2015 FTD Annual Seminar: An Overview of Frontotemporal Dementia",
+        "url": "https://www.youtube.com/watch?v=dmHInbnDjio",
+        "provider": "Frontotemporal Dementia (FTD) Annual Seminar / Dementia Research Centre, UCL (presenter identified as Camilla Clark)",
+        "durationSeconds": 1850.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=dmHInbnDjio",
+        "accessVerified": true
+      },
+      {
+        "id": "VID-004",
+        "title": "Under the Hood: Tracking Preclinical Alzheimer’s Disease with Biomarkers",
+        "url": "https://www.youtube.com/watch?v=pk2RNqCzUGs",
+        "provider": "University of Wisconsin–Madison Psychiatry and Behavioral Sciences Grand Rounds",
+        "durationSeconds": null,
+        "sourceUrl": "https://www.youtube.com/watch?v=pk2RNqCzUGs",
+        "accessVerified": false
+      },
+      {
+        "id": "VID-005",
+        "title": "Dr. Daniel I. Kaufer Lecture Series: Diagnosis and Management of Dementia with Lewy Bodies",
+        "url": "https://www.youtube.com/watch?v=rp5FHna3FWc",
+        "provider": "Wisconsin Alzheimer’s Disease Research Center / University of Wisconsin–Madison; presenter Bradley F. Boeve, MD",
+        "durationSeconds": null,
+        "sourceUrl": "https://www.youtube.com/watch?v=rp5FHna3FWc",
+        "accessVerified": false
+      },
+      {
+        "id": "ADD-MED-X113-001",
+        "title": "AFTD Webinar: CME: Neurologists and Genetic Counselors Partnering to Enhance Patient Care",
+        "url": "https://www.youtube.com/watch?v=RVRk6zUWA0g",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3498.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-002",
+        "title": "AFTD Webinar: Introduction to Frontotemporal Dementia (FTD) Biomarkers",
+        "url": "https://www.youtube.com/watch?v=ZvHqYtzITuc",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3438.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-003",
+        "title": "AFTD Webinar: Neurodegenerative Disease Biomarkers: What Can They Tell Us About FTD?",
+        "url": "https://www.youtube.com/watch?v=hcvCntvKKnI",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3602.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-004",
+        "title": "AFTD Webinar: FTD Research 2025: Paving the Path Towards Effective Treatments",
+        "url": "https://www.youtube.com/watch?v=Fh9kfI0Bg0Q",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3550.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-005",
+        "title": "AFTD Webinar: Talking to Family About Genetic FTD Risk",
+        "url": "https://www.youtube.com/watch?v=IHCDsBoPwAA",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3604.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-006",
+        "title": "AFTD Webinar: From Symptom Onset to Diagnosis -- Improving the FTD Diagnostic Journey",
+        "url": "https://www.youtube.com/watch?v=GPtuo-LjRrs",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3686.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-007",
+        "title": "AFTD Webinar: Speech Language Therapy -- A Promising Practice in FTD Treatment and Care",
+        "url": "https://www.youtube.com/watch?v=EU-DAIxEmfM",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 4111.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-008",
+        "title": "AFTD Webinar: At the Intersection of FTD and the Law",
+        "url": "https://www.youtube.com/watch?v=IThnLroA7Po",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 4384.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-009",
+        "title": "AFTD Webinar: Diagnosing Primary Progressive Aphasia",
+        "url": "https://www.youtube.com/watch?v=GmoDlNrQT1Y",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3958.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-010",
+        "title": "AFTD Webinar: FTD and ALS -- A Collaborative Approach to Diagnosis and Care",
+        "url": "https://www.youtube.com/watch?v=YAOcZ2pkudE",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3584.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-011",
+        "title": "AFTD Webinar: The Current State of FTD",
+        "url": "https://www.youtube.com/watch?v=wI1ykDKKrWE",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3467.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-012",
+        "title": "AFTD Webinar: Approaching a Cure -- FTD Genetics and Clinical Trials",
+        "url": "https://www.youtube.com/watch?v=xZZu6B_ks_g",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3697.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-013",
+        "title": "AFTD Webinar: Grief, Loss, and Hope -- Helping Families Living with FTD",
+        "url": "https://www.youtube.com/watch?v=DWGvPGAnI2c",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3584.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-014",
+        "title": "AFTD Webinar: Genetic FTD: To Test or Not to Test",
+        "url": "https://www.youtube.com/watch?v=zuKb35z7R1g",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3217.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-015",
+        "title": "AFTD Webinar: Treatment of Behavioral Variant Frontotemporal Degeneration",
+        "url": "https://www.youtube.com/watch?v=Gi389z4P2_U",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3874.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-016",
+        "title": "AFTD Webinar: Differentiating Behavioral Variant FTD from Alzheimer’s and Other Disorders",
+        "url": "https://www.youtube.com/watch?v=sCvBGBVOOdw",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3989.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-017",
+        "title": "AFTD Webinar: Person-Centered Care for Corticobasal Syndrome and Progressive Supranuclear Palsy",
+        "url": "https://www.youtube.com/watch?v=pTWxttVD8As",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3345.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-018",
+        "title": "AFTD Webinar: Maximizing Communication, Maintaining Connection -- Person-Centered Care for PPA",
+        "url": "https://www.youtube.com/watch?v=kk4eUGsgvd4",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3714.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-019",
+        "title": "AFTD Webinar: Person-Centered Care for bvFTD: Managing Symptoms and Providing Supportive Care",
+        "url": "https://www.youtube.com/watch?v=TihvKkKqZn0",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3579.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-020",
+        "title": "AFTD Webinar: The Role of Occupational Therapy in FTD Care",
+        "url": "https://www.youtube.com/watch?v=BbXcA7OLZYY",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3783.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-021",
+        "title": "AFTD Webinar: The Physical Therapist’s Role in FTD Care",
+        "url": "https://www.youtube.com/watch?v=bylVE2plCX8",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3742.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-022",
+        "title": "AFTD Webinar: The Role of Creative Arts Therapy and Engagement in FTD Care",
+        "url": "https://www.youtube.com/watch?v=9DDL1XqBQR8",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 4341.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-023",
+        "title": "AFTD Webinar: The Role of Neuropalliative Care in FTD",
+        "url": "https://www.youtube.com/watch?v=1fVgajeRf70",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3979.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-024",
+        "title": "AFTD Webinar: The Speech–Language Pathologist’s Role in FTD Care",
+        "url": "https://www.youtube.com/watch?v=Z06L0WN7N8Y",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 4501.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-025",
+        "title": "AFTD Webinar: Brain-Behavior Connections in Frontotemporal Degeneration",
+        "url": "https://www.youtube.com/watch?v=5ceuYxxNBDw",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 4079.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-026",
+        "title": "AFTD Webinar: Corticobasal Syndrome & Corticobasal Degeneration, Basics & What You Need to Know",
+        "url": "https://www.youtube.com/watch?v=fncGNT88YAw",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 5531.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-027",
+        "title": "AFTD Webinar: FTD and Genetic Testing -- A Practical Approach",
+        "url": "https://www.youtube.com/watch?v=NouiSNwM8kI",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 5531.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-028",
+        "title": "AFTD Webinar: Bringing the ALS-FTD Clinical Experience into Focus",
+        "url": "https://www.youtube.com/watch?v=04ZZ49SCtxI",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 5453.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-029",
+        "title": "AFTD Webinar: What You Should Know about Primary Progressive Aphasia (PPA)",
+        "url": "https://www.youtube.com/watch?v=rAikhxAHBOQ",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 5500.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-030",
+        "title": "AFTD Webinar: What You Should Know about Behavioral Variant FTD (bvFTD)",
+        "url": "https://www.youtube.com/watch?v=kje94W3gHB4",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 5693.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL0kAdIv_fhNeqZI627vVWKTX_NHMnbhgN",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-031",
+        "title": "What is Lewy body dementia and how is it treated?",
+        "url": "https://www.youtube.com/watch?v=Db5H0A_XiQw",
+        "provider": "UCSF Edward and Pearl Fein Memory and Aging Center",
+        "durationSeconds": 3679.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL3BRrqTEEZ5zTlwa6PglhQbjtQ7rlKyyG",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-032",
+        "title": "Behavior and mood symptoms in Lewy body dementia",
+        "url": "https://www.youtube.com/watch?v=DR_bWjhAzQs",
+        "provider": "UCSF Edward and Pearl Fein Memory and Aging Center",
+        "durationSeconds": 2612.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL3BRrqTEEZ5zTlwa6PglhQbjtQ7rlKyyG",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-033",
+        "title": "Managing daily activities and fall prevention",
+        "url": "https://www.youtube.com/watch?v=BsKMUCcfehk",
+        "provider": "UCSF Edward and Pearl Fein Memory and Aging Center",
+        "durationSeconds": 3666.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL3BRrqTEEZ5zTlwa6PglhQbjtQ7rlKyyG",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-034",
+        "title": "Advocacy in Health and Community Care Settings",
+        "url": "https://www.youtube.com/watch?v=31vOWEhbPOM",
+        "provider": "UCSF Edward and Pearl Fein Memory and Aging Center",
+        "durationSeconds": 3798.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL3BRrqTEEZ5zTlwa6PglhQbjtQ7rlKyyG",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-035",
+        "title": "Advanced Stage and End of Life Care",
+        "url": "https://www.youtube.com/watch?v=nskw0ACqnFU",
+        "provider": "UCSF Edward and Pearl Fein Memory and Aging Center",
+        "durationSeconds": 3684.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PL3BRrqTEEZ5zTlwa6PglhQbjtQ7rlKyyG",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-036",
+        "title": "Approach to the Patient with Suspected Dementia",
+        "url": "https://www.youtube.com/watch?v=kZymNUPNBNM",
+        "provider": "University of Washington Department of Neurology",
+        "durationSeconds": 3685.0,
+        "sourceUrl": "https://neurology.uw.edu/seminars/grandrounds/grand-round-videos/",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-037",
+        "title": "Neuropsychology in Dementia",
+        "url": "https://www.youtube.com/watch?v=CAoGmlTQIx8",
+        "provider": "University of Washington Department of Neurology",
+        "durationSeconds": 1977.0,
+        "sourceUrl": "https://neurology.uw.edu/seminars/grandrounds/grand-round-videos/",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-038",
+        "title": "The Lewy Body Dementias",
+        "url": "https://www.youtube.com/watch?v=QEqeyQ4v-As",
+        "provider": "University of Washington Department of Neurology",
+        "durationSeconds": 3523.0,
+        "sourceUrl": "https://neurology.uw.edu/seminars/grandrounds/grand-round-videos/",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-039",
+        "title": "Long-Term Dementia Risk in Parkinson’s Disease",
+        "url": "https://www.youtube.com/watch?v=KaP0BUGEYU8",
+        "provider": "University of Washington Department of Neurology",
+        "durationSeconds": 3036.0,
+        "sourceUrl": "https://neurology.uw.edu/seminars/grandrounds/grand-round-videos/",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-040",
+        "title": "3 8 2019 Clendening — Vascular Contributions to Brain Health",
+        "url": "https://www.youtube.com/watch?v=PglqhmYJufM",
+        "provider": "University of Kansas Medical Center, Neurology Grand Rounds",
+        "durationSeconds": 3642.0,
+        "sourceUrl": "https://www.kumc.edu/school-of-medicine/academics/departments/neurology/academics/grand-rounds.html",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-041",
+        "title": "A New Era for Alzheimer’s Disease Diagnostics and Treatment",
+        "url": "https://www.youtube.com/watch?v=wTUSTJx9N4I",
+        "provider": "University of Kansas Medical Center, Neurology Grand Rounds",
+        "durationSeconds": 3781.0,
+        "sourceUrl": "https://www.kumc.edu/school-of-medicine/academics/departments/neurology/academics/grand-rounds.html",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-042",
+        "title": "Public Lecture: Diagnosis and Treatment in a New Era for Dementia",
+        "url": "https://www.youtube.com/watch?v=-f4ggqLdB9A",
+        "provider": "The Florey Institute of Neuroscience and Mental Health",
+        "durationSeconds": 3643.0,
+        "sourceUrl": "https://florey.edu.au/our-research/missions-themes/dementia/",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED-X113-043",
+        "title": "Lewy Body Disease Community Education & Support Conference 6-2-2025",
+        "url": "https://www.youtube.com/watch?v=WyL4rhZNrOA",
+        "provider": "Mayo Clinic",
+        "durationSeconds": 7613.0,
+        "sourceUrl": "https://www.youtube.com/@MayoClinic",
+        "accessVerified": true
+      }
+    ],
+    "unitMap": [
+      {
+        "number": 1,
+        "text": "Cognitive aging, syndrome vocabulary and clinical reasoning",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "VID-001",
+          "VID-002",
+          "ADD-MED-X113-006",
+          "ADD-MED-X113-036",
+          "ADD-MED-X113-042"
+        ]
+      },
+      {
+        "number": 2,
+        "text": "History, examination, cognition and function",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "VID-001",
+          "ADD-MED-X113-006",
+          "ADD-MED-X113-009",
+          "ADD-MED-X113-025",
+          "ADD-MED-X113-029",
+          "ADD-MED-X113-030",
+          "ADD-MED-X113-036",
+          "ADD-MED-X113-037"
+        ]
+      },
+      {
+        "number": 3,
+        "text": "Tiered workup, reversible contributors and neuroimaging",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "VID-003",
+          "ADD-MED-X113-036",
+          "ADD-MED-X113-037",
+          "ADD-MED-X113-041",
+          "ADD-MED-X113-042"
+        ]
+      },
+      {
+        "number": 4,
+        "text": "Alzheimer disease: phenotype, biology and staging",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "VID-001",
+          "VID-002",
+          "VID-004",
+          "ADD-MED-X113-002",
+          "ADD-MED-X113-003",
+          "ADD-MED-X113-016",
+          "ADD-MED-X113-025",
+          "ADD-MED-X113-041",
+          "ADD-MED-X113-042"
+        ]
+      },
+      {
+        "number": 5,
+        "text": "Fluid and imaging biomarkers; consent and test stewardship",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "VID-001",
+          "VID-004",
+          "ADD-MED-X113-002",
+          "ADD-MED-X113-003",
+          "ADD-MED-X113-041",
+          "ADD-MED-X113-042"
+        ]
+      },
+      {
+        "number": 6,
+        "text": "Lewy body disease and Parkinson disease dementia",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "VID-003",
+          "ADD-MED-X113-031",
+          "ADD-MED-X113-032",
+          "ADD-MED-X113-033",
+          "ADD-MED-X113-034",
+          "ADD-MED-X113-035",
+          "ADD-MED-X113-038",
+          "ADD-MED-X113-039",
+          "ADD-MED-X113-043"
+        ]
+      },
+      {
+        "number": 7,
+        "text": "Frontotemporal lobar degeneration and primary progressive aphasia",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "VID-005",
+          "ADD-MED-X113-001",
+          "ADD-MED-X113-002",
+          "ADD-MED-X113-003",
+          "ADD-MED-X113-004",
+          "ADD-MED-X113-005",
+          "ADD-MED-X113-006",
+          "ADD-MED-X113-007",
+          "ADD-MED-X113-009",
+          "ADD-MED-X113-010",
+          "ADD-MED-X113-011",
+          "ADD-MED-X113-012",
+          "ADD-MED-X113-014",
+          "ADD-MED-X113-015",
+          "ADD-MED-X113-016",
+          "ADD-MED-X113-017",
+          "ADD-MED-X113-018",
+          "ADD-MED-X113-019",
+          "ADD-MED-X113-020",
+          "ADD-MED-X113-021",
+          "ADD-MED-X113-024",
+          "ADD-MED-X113-025",
+          "ADD-MED-X113-026",
+          "ADD-MED-X113-027",
+          "ADD-MED-X113-028",
+          "ADD-MED-X113-029",
+          "ADD-MED-X113-030"
+        ]
+      },
+      {
+        "number": 8,
+        "text": "Vascular, mixed and less-common dementias; rapid progression",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "ADD-MED-X113-010",
+          "ADD-MED-X113-026",
+          "ADD-MED-X113-028",
+          "ADD-MED-X113-039",
+          "ADD-MED-X113-040"
+        ]
+      },
+      {
+        "number": 9,
+        "text": "Symptomatic care, behavior, sleep and caregiver partnership",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "VID-003",
+          "ADD-MED-X113-007",
+          "ADD-MED-X113-008",
+          "ADD-MED-X113-010",
+          "ADD-MED-X113-013",
+          "ADD-MED-X113-015",
+          "ADD-MED-X113-017",
+          "ADD-MED-X113-018",
+          "ADD-MED-X113-019",
+          "ADD-MED-X113-020",
+          "ADD-MED-X113-021",
+          "ADD-MED-X113-022",
+          "ADD-MED-X113-023",
+          "ADD-MED-X113-024",
+          "ADD-MED-X113-028",
+          "ADD-MED-X113-031",
+          "ADD-MED-X113-032",
+          "ADD-MED-X113-033",
+          "ADD-MED-X113-034",
+          "ADD-MED-X113-035",
+          "ADD-MED-X113-038",
+          "ADD-MED-X113-043"
+        ]
+      },
+      {
+        "number": 10,
+        "text": "Anti-amyloid treatment evidence, eligibility and ARIA safety",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "VID-001",
+          "ADD-MED-X113-041",
+          "ADD-MED-X113-042"
+        ]
+      },
+      {
+        "number": 11,
+        "text": "Capacity, disclosure, ethics and research translation",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "ADD-MED-X113-001",
+          "ADD-MED-X113-005",
+          "ADD-MED-X113-008",
+          "ADD-MED-X113-012",
+          "ADD-MED-X113-013",
+          "ADD-MED-X113-014",
+          "ADD-MED-X113-023",
+          "ADD-MED-X113-027",
+          "ADD-MED-X113-034",
+          "ADD-MED-X113-035"
+        ]
+      },
+      {
+        "number": 12,
+        "text": "Integrative case conference, quality improvement and research literacy",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "VID-001",
+          "VID-002",
+          "VID-003",
+          "VID-005",
+          "ADD-MED-X113-004",
+          "ADD-MED-X113-012",
+          "ADD-MED-X113-042",
+          "ADD-MED-X113-043"
+        ]
+      }
+    ],
+    "family": "Neurology and neurosurgery",
+    "trackType": "Supplementary clinical physician fellowship",
+    "boardNames": [
+      "American Board of Psychiatry and Neurology (ABPN), Neurology (primary specialty certification)",
+      "United Council for Neurologic Subspecialties (UCNS), Behavioral Neurology & Neuropsychiatry (separate subspecialty certification examination; not a dementia-only board)",
+      "American Board of Psychiatry and Neurology (ABPN), Geriatric Psychiatry subspecialty exam (relevant to some clinicians, not dementia-specific)"
+    ],
+    "boardStatus": "As checked 2026-10-07, ABPN lists Neurology and several subspecialties, but no dementia-specific certification exam. UCNS offers a Behavioral Neurology & Neuropsychiatry certification exam (200 MCQs, four hours, biennial in even years); it is broader than dementia and not ABMS member-board certification. The AAN Fellowship Directory listing for this exact MGH dementia fellowship reports 1-year length, ACGME approval Yes, UCNS approval No, Other Approval No. The MGH/MGB programme itself describes a non-degree clinical/research programme. AAN listing is an authoritative professional directory rather than the ACGME ADS record; its ACGME field was not independently confirmed against an accessible official ACGME program record. The UCNS content-outline PDF linked from the official certification page redirected to a sign-in wall and was not accessed.",
+    "boardEligibilityNotice": "Completion of this independent educational course does not confer eligibility for ABPN or UCNS examination. Eligibility depends on the individual certifier's current prerequisites, applicable core-board status, qualifying fellowship accreditation, training, and other rules. In particular, AAN lists this exact MGH program as not UCNS-approved; do not infer UCNS BNN eligibility from participation. Verify with the certifier.",
+    "targetVideoHours": 36.0,
+    "verifiedExternalHours": 49.41388888888889,
+    "verifiedSpecialtyHours": 38.09388888888889,
+    "verifiedFoundationHours": 11.32,
+    "hoursGap": 0.0,
+    "clinicalTrainingNotReplaced": true,
+    "humanClinicalReviewStatus": "not performed",
+    "officialProgrammes": [
+      {
+        "institution": "Massachusetts General Hospital",
+        "name": "MGH Clinical Fellowship in Dementia"
+      },
+      {
+        "institution": "Massachusetts General Hospital / Harvard Medical School (listed by MGB Neurology Fellowships)",
+        "name": "Clinical Fellowship in Dementia (Memory Disorders Clinical Research)"
+      }
+    ],
+    "directoryMedicalValidation": {
+      "source": "full-catalog",
+      "issues": [],
+      "unknownDurationCount": 2,
+      "lectureEvidenceValid": false,
+      "hasExternalLectureEvidence": true,
+      "isReady": false
+    }
+  },
+  {
+    "id": "MED-X114",
+    "programId": "med",
+    "title": "Anterior Segment Fellowship",
+    "level": "Clinical physician fellowship (independent curriculum; not training)-aligned independent study",
+    "studyHours": {
+      "plan": "84–120 learner hours across units, reading, question review and assignments; this is a study plan, not observed media duration or a clinical-training equivalence."
+    },
+    "coverageStatus": "incomplete_lecture_hours",
+    "syllabusUrl": "/manus-storage/MED-X114_6f48a1c9.pdf",
+    "pdfIds": [
+      "med-syllabus-MED-X114",
+      "med-reading-85dd8a8c90ce",
+      "med-reading-967c4b1758c6",
+      "med-reading-ea0645ab5853",
+      "med-reading-8d6f237ad437"
+    ],
+    "lectures": [
+      {
+        "id": "MED-X114-ADD-001",
+        "title": "OKAP Review: Cornea [ARCHIVE]",
+        "url": "https://www.youtube.com/watch?v=9MdisbTiwvk",
+        "provider": "Moran CORE",
+        "durationSeconds": 3455.0,
+        "sourceUrl": "https://morancore.utah.edu/core-resident-lectures/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X114-ADD-002",
+        "title": "A Practical Approach to Eye Pain and Photophobia [ARCHIVE]",
+        "url": "https://www.youtube.com/watch?v=oekZMrWuGZQ",
+        "provider": "Moran CORE",
+        "durationSeconds": 3170.0,
+        "sourceUrl": "https://morancore.utah.edu/core-resident-lectures/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X114-ADD-003",
+        "title": "Pediatric Anterior Segment Disorders [ARCHIVE]",
+        "url": "https://www.youtube.com/watch?v=KGz8XBLM4Sc",
+        "provider": "Moran CORE",
+        "durationSeconds": 2188.0,
+        "sourceUrl": "https://morancore.utah.edu/core-resident-lectures/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X114-ADD-004",
+        "title": "Ocular and Orbital Anatomy [ARCHIVE]",
+        "url": "https://www.youtube.com/watch?v=ZCE3eoi7UgY",
+        "provider": "Moran CORE",
+        "durationSeconds": 3073.0,
+        "sourceUrl": "https://morancore.utah.edu/core-resident-lectures/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X114-ADD-005",
+        "title": "Approach to Optics [ARCHIVE]",
+        "url": "https://www.youtube.com/watch?v=OW1OY81LgYY",
+        "provider": "Moran CORE",
+        "durationSeconds": 6719.0,
+        "sourceUrl": "https://morancore.utah.edu/core-resident-lectures/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X114-ADD-006",
+        "title": "Conjunctiva Pathology [ARCHIVE]",
+        "url": "https://www.youtube.com/watch?v=TFzvnb1ZG6g",
+        "provider": "Moran CORE",
+        "durationSeconds": 2993.0,
+        "sourceUrl": "https://morancore.utah.edu/section-08-external-disease-and-cornea/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X114-ADD-007",
+        "title": "Cornea Pathology [ARCHIVE]",
+        "url": "https://www.youtube.com/watch?v=7BOf4xO_Q0s",
+        "provider": "Moran CORE",
+        "durationSeconds": 2622.0,
+        "sourceUrl": "https://morancore.utah.edu/section-04-ophthalmic-pathology/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X114-ADD-008",
+        "title": "Pathology - IOLs [ARCHIVE]",
+        "url": "https://www.youtube.com/watch?v=Pl1mQMLQubY",
+        "provider": "Moran CORE",
+        "durationSeconds": 2415.0,
+        "sourceUrl": "https://morancore.utah.edu/section-11-lens-and-cataract/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X114-ADD-009",
+        "title": "Endothelial Keratoplasty: Sunrise, Midday, or Sunset [ARCHIVE]",
+        "url": "https://www.youtube.com/watch?v=Q6URVtmo2Rw",
+        "provider": "Moran CORE",
+        "durationSeconds": 3499.0,
+        "sourceUrl": "https://morancore.utah.edu/grand-rounds/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X114-ADD-010",
+        "title": "Grand Rounds Presentations: Challenges Post-Refractive Cataract Surgery... [ARCHIVE]",
+        "url": "https://www.youtube.com/watch?v=zosf090Uxxc",
+        "provider": "Moran CORE",
+        "durationSeconds": 3158.0,
+        "sourceUrl": "https://morancore.utah.edu/grand-rounds/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X114-ADD-011",
+        "title": "Comprehensive Cataract Presentations Phacocapsulotomy; Post Phaco Persistent Corneal Edema [ARCHIVE]",
+        "url": "https://www.youtube.com/watch?v=UAtX1XrEyEo",
+        "provider": "Moran CORE",
+        "durationSeconds": 3646.0,
+        "sourceUrl": "https://morancore.utah.edu/grand-rounds/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X114-ADD-012",
+        "title": "Introduction to Cornea [ARCHIVE]",
+        "url": "https://www.youtube.com/watch?v=hB7igVSiM2A",
+        "provider": "Moran CORE",
+        "durationSeconds": 3305.0,
+        "sourceUrl": "https://morancore.utah.edu/section-08-external-disease-and-cornea/introduction-to-cornea-2025/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X114-ADD-013",
+        "title": "How to Get Started with Descemet Membrane Endothelial Keratoplasty (DMEK)",
+        "url": "https://www.youtube.com/watch?v=scYu-YF2nxY",
+        "provider": "Cybersight / Project Orbis International",
+        "durationSeconds": 3563.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=scYu-YF2nxY",
+        "accessVerified": true
+      }
+    ],
+    "unitMap": [
+      {
+        "number": 1,
+        "text": "Anterior segment examination, optics and triage",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X114-ADD-001",
+          "MED-X114-ADD-002",
+          "MED-X114-ADD-003",
+          "MED-X114-ADD-004",
+          "MED-X114-ADD-005",
+          "MED-X114-ADD-012"
+        ]
+      },
+      {
+        "number": 2,
+        "text": "Tear film, ocular surface and dry eye",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X114-ADD-001",
+          "MED-X114-ADD-006",
+          "MED-X114-ADD-012"
+        ]
+      },
+      {
+        "number": 3,
+        "text": "Infectious keratitis and corneal ulcer",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X114-ADD-001",
+          "MED-X114-ADD-002",
+          "MED-X114-ADD-007",
+          "MED-X114-ADD-012"
+        ]
+      },
+      {
+        "number": 4,
+        "text": "Immune-mediated, cicatrizing and neurotrophic disease",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X114-ADD-001",
+          "MED-X114-ADD-007"
+        ]
+      },
+      {
+        "number": 5,
+        "text": "Corneal dystrophies, degenerations and edema",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X114-ADD-001",
+          "MED-X114-ADD-003",
+          "MED-X114-ADD-004",
+          "MED-X114-ADD-007",
+          "MED-X114-ADD-009",
+          "MED-X114-ADD-011",
+          "MED-X114-ADD-012",
+          "MED-X114-ADD-013"
+        ]
+      },
+      {
+        "number": 6,
+        "text": "Keratoconus and corneal ectasia",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X114-ADD-001",
+          "MED-X114-ADD-005",
+          "MED-X114-ADD-007",
+          "MED-X114-ADD-012"
+        ]
+      },
+      {
+        "number": 7,
+        "text": "Refractive surgery evaluation and complications",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X114-ADD-001",
+          "MED-X114-ADD-005",
+          "MED-X114-ADD-010"
+        ]
+      },
+      {
+        "number": 8,
+        "text": "Corneal transplantation and graft immunology",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X114-ADD-001",
+          "MED-X114-ADD-009",
+          "MED-X114-ADD-011",
+          "MED-X114-ADD-012",
+          "MED-X114-ADD-013"
+        ]
+      },
+      {
+        "number": 9,
+        "text": "Cataract/anterior segment interface and IOL complications",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X114-ADD-003",
+          "MED-X114-ADD-004",
+          "MED-X114-ADD-008",
+          "MED-X114-ADD-009",
+          "MED-X114-ADD-010",
+          "MED-X114-ADD-011",
+          "MED-X114-ADD-013"
+        ]
+      },
+      {
+        "number": 10,
+        "text": "Ocular surface reconstruction, tumors and trauma",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X114-ADD-001",
+          "MED-X114-ADD-006",
+          "MED-X114-ADD-007"
+        ]
+      },
+      {
+        "number": 11,
+        "text": "Keratoprosthesis, contact lenses and complex rehabilitation",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X114-ADD-001"
+        ]
+      },
+      {
+        "number": 12,
+        "text": "Evidence, ethics, safety and board-style synthesis",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": []
+      }
+    ],
+    "family": "Ophthalmology",
+    "trackType": "Clinical physician fellowship (independent curriculum; not training)",
+    "boardNames": [
+      "American Board of Ophthalmology (ABO) — ophthalmology general board certification; no separate ABO cornea/anterior-segment subspecialty examination identified."
+    ],
+    "boardStatus": "Cornea and External Disease is a recognized ophthalmology subspecialty training area. ABO certification is the general ophthalmology board pathway (written qualifying and oral exams after accredited residency). Fellowship completion is not a separate board credential. ABO public pages reviewed as of 2026-10-07; no independent AUPO FCC certification of learner or eligibility.",
+    "boardEligibilityNotice": "This course confers no board eligibility. ABO eligibility depends on its current requirements including accredited ophthalmology residency and examination rules. Check ABO directly.",
+    "targetVideoHours": 36.0,
+    "verifiedExternalHours": 12.168333333333333,
+    "verifiedSpecialtyHours": 7.289166666666667,
+    "verifiedFoundationHours": 4.879166666666666,
+    "hoursGap": 23.831666666666667,
+    "clinicalTrainingNotReplaced": true,
+    "humanClinicalReviewStatus": "not performed",
+    "officialProgrammes": [
+      {
+        "institution": "Mass Eye and Ear",
+        "name": "Anterior Segment Fellowship"
+      },
+      {
+        "institution": "Mass Eye and Ear / Mass General Brigham",
+        "name": "Cornea, External Disease, and Refractive Surgery Fellowship (one-year; separate two-year match track also listed)"
+      },
+      {
+        "institution": "Johns Hopkins Medicine, Wilmer Eye Institute",
+        "name": "Cornea and External Disease Fellowship (standard one-year; research-oriented two-year option considered)"
+      }
+    ],
+    "directoryMedicalValidation": {
+      "source": "full-catalog",
+      "issues": [],
+      "unknownDurationCount": 0,
+      "lectureEvidenceValid": true,
+      "hasExternalLectureEvidence": true,
+      "isReady": false
+    }
+  },
+  {
+    "id": "MED-X115",
+    "programId": "med",
+    "title": "Ocular Oncology Fellowship",
+    "level": "Clinical physician fellowship-aligned independent study",
+    "studyHours": {
+      "planHours": 90,
+      "basis": "Planning allocation of 7.5 hours per each of 12 units across free reading, note-making, fictional case discussion and assessment. This is a workload suggestion only; it is not observed video time or training duration.",
+      "categories": {
+        "readingAndSourceReview": 36,
+        "caseReasoningAndAssignments": 36,
+        "assessmentAndSynthesis": 18
+      }
+    },
+    "coverageStatus": "incomplete_lecture_hours",
+    "syllabusUrl": "/manus-storage/MED-X115_6cce097c.pdf",
+    "pdfIds": [
+      "med-syllabus-MED-X115",
+      "med-reading-d109f8e22b31",
+      "med-reading-4bcde78ccdc4"
+    ],
+    "lectures": [
+      {
+        "id": "MED-X115-EXT-CYBERSIGHT-3JW6KZ3tG3Q",
+        "title": "Lecture: Retinoblastoma Care and Research Updates for 2022",
+        "url": "https://www.youtube.com/watch?v=3JW6KZ3tG3Q",
+        "provider": "Cybersight / Project Orbis International",
+        "durationSeconds": 3272.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=3JW6KZ3tG3Q",
+        "accessVerified": true
+      }
+    ],
+    "unitMap": [
+      {
+        "number": 1,
+        "text": "Core ocular tumor triage and multidisciplinary frame",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": []
+      },
+      {
+        "number": 2,
+        "text": "Ocular oncology examination and imaging literacy",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": []
+      },
+      {
+        "number": 3,
+        "text": "Uveal melanocytic lesions: nevus, indeterminate lesion, melanoma",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": []
+      },
+      {
+        "number": 4,
+        "text": "Uveal melanoma biology, pathology and prognostic communication",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": []
+      },
+      {
+        "number": 5,
+        "text": "Local control of uveal melanoma and vision/globe trade-offs",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": []
+      },
+      {
+        "number": 6,
+        "text": "Metastatic uveal melanoma and longitudinal care",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": []
+      },
+      {
+        "number": 7,
+        "text": "Retinoblastoma: presentation, diagnosis and staging",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X115-EXT-CYBERSIGHT-3JW6KZ3tG3Q"
+        ]
+      },
+      {
+        "number": 8,
+        "text": "Retinoblastoma genetics, family risk and survivorship",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X115-EXT-CYBERSIGHT-3JW6KZ3tG3Q"
+        ]
+      },
+      {
+        "number": 9,
+        "text": "Retinoblastoma treatment principles and multidisciplinary planning",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X115-EXT-CYBERSIGHT-3JW6KZ3tG3Q"
+        ]
+      },
+      {
+        "number": 10,
+        "text": "Ocular surface, conjunctival and eyelid tumors",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": []
+      },
+      {
+        "number": 11,
+        "text": "Orbital, vascular, lymphoid and secondary ocular tumors",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": []
+      },
+      {
+        "number": 12,
+        "text": "Integrated board-style synthesis, ethics and quality",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": []
+      }
+    ],
+    "family": "Ophthalmology",
+    "trackType": "Clinical physician fellowship",
+    "boardNames": [
+      "American Board of Ophthalmology (ophthalmology certification; not an ocular-oncology subspecialty board)"
+    ],
+    "boardStatus": "Ocular oncology is a clinical physician subspecialty fellowship in the official directory packet. ABO's public certification pathway describes general ophthalmology written and oral examinations following accredited ophthalmology residency; no separate ocular-oncology board examination was identified. This is not a claim of ACGME status.",
+    "boardEligibilityNotice": "This independent course confers no board eligibility. ABO eligibility requires qualifying accredited ophthalmology training, required documentation and licensure; confirm current individual eligibility with ABO. No course completion confers certification.",
+    "targetVideoHours": 36.0,
+    "verifiedExternalHours": 0.9088888888888889,
+    "verifiedSpecialtyHours": 0.9088888888888889,
+    "verifiedFoundationHours": 0.0,
+    "hoursGap": 35.09111111111111,
+    "clinicalTrainingNotReplaced": true,
+    "humanClinicalReviewStatus": "not performed",
+    "officialProgrammes": [
+      {
+        "institution": "Mass Eye and Ear",
+        "name": "Ocular Oncology Fellowship"
+      }
+    ],
+    "directoryMedicalValidation": {
+      "source": "full-catalog",
+      "issues": [],
+      "unknownDurationCount": 0,
+      "lectureEvidenceValid": true,
+      "hasExternalLectureEvidence": true,
+      "isReady": false
+    }
+  },
+  {
+    "id": "MED-X116",
+    "programId": "med",
+    "title": "Balance and Vestibular Disorders Fellowship",
+    "level": "Clinical physician fellowship-aligned independent study",
+    "studyHours": {
+      "planOnly": true,
+      "estimatedHours": 120,
+      "breakdown": "36 hours target free external video time if later achieved; 36 hours reading/notes and retrieval; 24 hours case/evidence appraisal; 24 hours practice question review and synthesis. This is a learner planning estimate, not clinical training hours or an observed media total."
+    },
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
+    "syllabusUrl": "/manus-storage/MED-X116_f77b8cf7.pdf",
+    "pdfIds": [
+      "med-syllabus-MED-X116",
+      "med-reading-5d67158322d9",
+      "med-reading-18fd829101fa",
+      "med-reading-b5da345865c9",
+      "med-reading-1accff0c1ad1",
+      "med-reading-7b13b72dbaf7",
+      "med-reading-cee716eb5eeb",
+      "med-reading-74b5991421f3",
+      "med-reading-0c7c2d4b9412"
+    ],
+    "lectures": [
+      {
+        "id": "YT-7SmdieNqaO0",
+        "title": "Virtual Resident Lecture Series: Vestibular Causes of Balance Dysfunction",
+        "url": "https://www.youtube.com/watch?v=7SmdieNqaO0",
+        "provider": "American Academy of Neurology",
+        "durationSeconds": 3323.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=7SmdieNqaO0",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-UUpcNh56kBc",
+        "title": "Virtual Resident Education Lecture Series: BPPV: Mechanisms, Myths, and Management",
+        "url": "https://www.youtube.com/watch?v=UUpcNh56kBc",
+        "provider": "American Academy of Neurology",
+        "durationSeconds": 3513.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=UUpcNh56kBc",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-MMcepaH-2hU",
+        "title": "Crystal Clear BPPV 1 hour 2020",
+        "url": "https://www.youtube.com/watch?v=MMcepaH-2hU",
+        "provider": "Michael Teixido, MD",
+        "durationSeconds": 3576.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=UUpcNh56kBc",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-q5q61M4Qo80",
+        "title": "Bedside Vestibular and Oculomotor Examination",
+        "url": "https://www.youtube.com/watch?v=q5q61M4Qo80",
+        "provider": "Forum for Indian Neurology Education",
+        "durationSeconds": 4872.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=7SmdieNqaO0",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-KOjoCXdqiXo",
+        "title": "2022 Update: Peripheral Vestibular Disorders",
+        "url": "https://www.youtube.com/watch?v=KOjoCXdqiXo",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 3614.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=KOjoCXdqiXo",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-DXC3qZG-foo",
+        "title": "Practical Assessment of the Dizzy Patient",
+        "url": "https://www.youtube.com/watch?v=DXC3qZG-foo",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 3100.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=DXC3qZG-foo",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-1iSZW7Vt3UU",
+        "title": "Clinical Care of Patients with PPPD",
+        "url": "https://www.youtube.com/watch?v=1iSZW7Vt3UU",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 2686.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=1iSZW7Vt3UU",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-vxwFHw_EGzk",
+        "title": "Vestibular Migraine: Differentiating it from Meniere's Disease and 3PD",
+        "url": "https://www.youtube.com/watch?v=vxwFHw_EGzk",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 3302.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=vxwFHw_EGzk",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-gIurDozfuCc",
+        "title": "Migraine and Ménière's Disease | Michael Teixido, MD",
+        "url": "https://www.youtube.com/watch?v=gIurDozfuCc",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 2607.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=gIurDozfuCc",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-NrT-vp5kF8Q",
+        "title": "Otologic Migraine: Effects of Migraine on the Ear",
+        "url": "https://www.youtube.com/watch?v=NrT-vp5kF8Q",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 3557.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=NrT-vp5kF8Q",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-v9MZFc2EqAM",
+        "title": "Neuroradiology for the Neurotologist",
+        "url": "https://www.youtube.com/watch?v=v9MZFc2EqAM",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 2660.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=v9MZFc2EqAM",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-UDpUBn5ECSQ",
+        "title": "Semicircular Canal Dehiscence",
+        "url": "https://www.youtube.com/watch?v=UDpUBn5ECSQ",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 3325.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=UDpUBn5ECSQ",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-QK_LqZRE0Qo",
+        "title": "Idiopathic Sudden Sensorineural Hearing Loss",
+        "url": "https://www.youtube.com/watch?v=QK_LqZRE0Qo",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 3333.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=QK_LqZRE0Qo",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-MfMHlpGp98w",
+        "title": "Infectious and Inflammatory Processes of the Temporal Bone",
+        "url": "https://www.youtube.com/watch?v=MfMHlpGp98w",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 2424.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=MfMHlpGp98w",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-7Yg_fvrtncI",
+        "title": "How MRI Machines Stimulate the Vestibular System",
+        "url": "https://www.youtube.com/watch?v=7Yg_fvrtncI",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 3172.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=7Yg_fvrtncI",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-dXnb10tBWNE",
+        "title": "SCUBA Medicine for Otorhinolaryngologists and Neurotologists",
+        "url": "https://www.youtube.com/watch?v=dXnb10tBWNE",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 2816.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=dXnb10tBWNE",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-A0zH2CQwL6g",
+        "title": "Endolymphatic Hydrops and Sensorineural Hearing Loss",
+        "url": "https://www.youtube.com/watch?v=A0zH2CQwL6g",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 3177.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=A0zH2CQwL6g",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-MZrDB-zZpbU",
+        "title": "Vestibular Schwannoma: Molecular Determinants of Hearing Loss",
+        "url": "https://www.youtube.com/watch?v=MZrDB-zZpbU",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 3482.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=MZrDB-zZpbU",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-AbIXFpRBobk",
+        "title": "NF2 Associated Vestibular Schwannoma",
+        "url": "https://www.youtube.com/watch?v=AbIXFpRBobk",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 2772.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=AbIXFpRBobk",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-4E7uvseq_VY",
+        "title": "Rethinking Vestibular Schwannomas",
+        "url": "https://www.youtube.com/watch?v=4E7uvseq_VY",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 2644.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=4E7uvseq_VY",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-Gs7VBG07yiw",
+        "title": "Management of Intralabyrinthine Cochleovestibular Schwannomas",
+        "url": "https://www.youtube.com/watch?v=Gs7VBG07yiw",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 3463.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=Gs7VBG07yiw",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-OyYfv2nqEj0",
+        "title": "Assessing Outcomes in Vestibular Schwannoma Surgery",
+        "url": "https://www.youtube.com/watch?v=OyYfv2nqEj0",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 3434.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=OyYfv2nqEj0",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-Iv-iODt5DTE",
+        "title": "Investigational Imaging Techniques of Inner Ear",
+        "url": "https://www.youtube.com/watch?v=Iv-iODt5DTE",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 5393.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=Iv-iODt5DTE",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-m1XBbdFje7A",
+        "title": "Vestibular Testing: Interpretation and Pitfalls | Megan M. Cherry, Au.D., CCC-A",
+        "url": "https://www.youtube.com/watch?v=m1XBbdFje7A",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 3683.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=m1XBbdFje7A",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-eDGoPgR040k",
+        "title": "Vestibular Migraine: Time for an Evidence Based Approach | Jeffrey D. Sharon, MD",
+        "url": "https://www.youtube.com/watch?v=eDGoPgR040k",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 3037.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=eDGoPgR040k",
+        "accessVerified": true
+      },
+      {
+        "id": "YT--azfb8RxEEg",
+        "title": "Vestibular Migraine: A Neurologic Problem in Otologic Clothing | Kristen K. Steenerson, MD",
+        "url": "https://www.youtube.com/watch?v=-azfb8RxEEg",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 2888.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=-azfb8RxEEg",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-KQ3oSaB2xO4",
+        "title": "The Role of Vestibular Diagnostic Tests in Dizzy Patients",
+        "url": "https://www.youtube.com/watch?v=KQ3oSaB2xO4",
+        "provider": "Interacoustics",
+        "durationSeconds": 3749.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=KQ3oSaB2xO4",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-CXYdocIZwOA",
+        "title": "Caloric Test: A Deep Dive",
+        "url": "https://www.youtube.com/watch?v=CXYdocIZwOA",
+        "provider": "Interacoustics",
+        "durationSeconds": 4227.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=CXYdocIZwOA",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-a9xUhJ2un-s",
+        "title": "Efficient Office Evaluation of the Dizzy Patient - Judith White MD, PhD",
+        "url": "https://www.youtube.com/watch?v=a9xUhJ2un-s",
+        "provider": "Seattle Science Foundation",
+        "durationSeconds": 2299.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=a9xUhJ2un-s",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-R5DqwixzxFs",
+        "title": "Bilateral Vestibular Loss - Timothy C. Hain, M.D.",
+        "url": "https://www.youtube.com/watch?v=R5DqwixzxFs",
+        "provider": "Seattle Science Foundation",
+        "durationSeconds": 3528.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=R5DqwixzxFs",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-dtWxhI_7BQE",
+        "title": "Challenging Vestibular Cases: Dizzy Do's and Don'ts",
+        "url": "https://www.youtube.com/watch?v=dtWxhI_7BQE",
+        "provider": "Stanford Otolaryngology — Head & Neck Surgery",
+        "durationSeconds": 3845.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=dtWxhI_7BQE",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-AIhYJqs1dNs",
+        "title": "Otometrics Webinar - Vestibular Neuritis: How to Identify Different Types",
+        "url": "https://www.youtube.com/watch?v=AIhYJqs1dNs",
+        "provider": "Natus Sensory Hearing & Balance / Otometrics",
+        "durationSeconds": 3029.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=AIhYJqs1dNs",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-wFjZxrVUqYE",
+        "title": "oVEMP: An Introduction",
+        "url": "https://www.youtube.com/watch?v=wFjZxrVUqYE",
+        "provider": "Interacoustics",
+        "durationSeconds": 3131.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=wFjZxrVUqYE",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-WgaKomFzbzs",
+        "title": "Provocative Tests in Video Nystagmography (VNG)",
+        "url": "https://www.youtube.com/watch?v=WgaKomFzbzs",
+        "provider": "Cyclops Learning Lab",
+        "durationSeconds": 4531.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=WgaKomFzbzs",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-qr6P1GXgRus",
+        "title": "Large Vestibular Aqueduct Syndrome",
+        "url": "https://www.youtube.com/watch?v=qr6P1GXgRus",
+        "provider": "House Institute Online Neurotology Education Program",
+        "durationSeconds": 2826.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=qr6P1GXgRus",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-UCGpzJ6iPEw",
+        "title": "FINE Night - Bedside Examination of Ocular Motor System - Daniel Gold - 21 April 2020",
+        "url": "https://www.youtube.com/watch?v=UCGpzJ6iPEw",
+        "provider": "Forum for Indian Neurology Education",
+        "durationSeconds": 4420.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=UCGpzJ6iPEw",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-Dv7rwWGEkA4",
+        "title": "Video Head Impulse Testing (vHIT): A Deep Dive",
+        "url": "https://www.youtube.com/watch?v=Dv7rwWGEkA4",
+        "provider": "Interacoustics",
+        "durationSeconds": 3906.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=Dv7rwWGEkA4",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-E-X5RkTOgV4",
+        "title": "Otometrics Webinar - Vestibular Compensation",
+        "url": "https://www.youtube.com/watch?v=E-X5RkTOgV4",
+        "provider": "Natus Sensory Hearing & Balance / Otometrics",
+        "durationSeconds": 4664.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=E-X5RkTOgV4",
+        "accessVerified": true
+      }
+    ],
+    "unitMap": [
+      {
+        "number": 1,
+        "text": "Vestibular symptom language, timing and triggers",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "YT-7SmdieNqaO0",
+          "YT-DXC3qZG-foo",
+          "YT-1iSZW7Vt3UU",
+          "YT-a9xUhJ2un-s",
+          "YT-dtWxhI_7BQE"
+        ]
+      },
+      {
+        "number": 2,
+        "text": "Vestibular anatomy, physiology and clinical localization",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "YT-7SmdieNqaO0",
+          "YT-UUpcNh56kBc",
+          "YT-MMcepaH-2hU",
+          "YT-KOjoCXdqiXo",
+          "YT-7Yg_fvrtncI",
+          "YT-CXYdocIZwOA",
+          "YT-R5DqwixzxFs",
+          "YT-wFjZxrVUqYE",
+          "YT-UCGpzJ6iPEw",
+          "YT-Dv7rwWGEkA4",
+          "YT-E-X5RkTOgV4"
+        ]
+      },
+      {
+        "number": 3,
+        "text": "Bedside ocular-motor and vestibular examination",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "YT-q5q61M4Qo80",
+          "YT-7SmdieNqaO0",
+          "YT-DXC3qZG-foo",
+          "YT-m1XBbdFje7A",
+          "YT-KQ3oSaB2xO4",
+          "YT-a9xUhJ2un-s",
+          "YT-R5DqwixzxFs",
+          "YT-dtWxhI_7BQE",
+          "YT-WgaKomFzbzs",
+          "YT-UCGpzJ6iPEw",
+          "YT-Dv7rwWGEkA4"
+        ]
+      },
+      {
+        "number": 4,
+        "text": "BPPV: canal-specific diagnosis and evidence-aligned care",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "YT-UUpcNh56kBc",
+          "YT-MMcepaH-2hU",
+          "YT-DXC3qZG-foo",
+          "YT-a9xUhJ2un-s"
+        ]
+      },
+      {
+        "number": 5,
+        "text": "Acute vestibular syndrome and central mimics",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "YT-7SmdieNqaO0",
+          "YT-q5q61M4Qo80",
+          "YT-KOjoCXdqiXo",
+          "YT-DXC3qZG-foo",
+          "YT-MfMHlpGp98w",
+          "YT-dXnb10tBWNE",
+          "YT-4E7uvseq_VY",
+          "YT-a9xUhJ2un-s",
+          "YT-dtWxhI_7BQE",
+          "YT-AIhYJqs1dNs",
+          "YT-UCGpzJ6iPEw",
+          "YT-E-X5RkTOgV4"
+        ]
+      },
+      {
+        "number": 6,
+        "text": "Vestibular function testing and interpretation",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "YT-q5q61M4Qo80",
+          "YT-7SmdieNqaO0",
+          "YT-v9MZFc2EqAM",
+          "YT-UDpUBn5ECSQ",
+          "YT-7Yg_fvrtncI",
+          "YT-A0zH2CQwL6g",
+          "YT-Gs7VBG07yiw",
+          "YT-Iv-iODt5DTE",
+          "YT-m1XBbdFje7A",
+          "YT-KQ3oSaB2xO4",
+          "YT-CXYdocIZwOA",
+          "YT-R5DqwixzxFs",
+          "YT-AIhYJqs1dNs",
+          "YT-wFjZxrVUqYE",
+          "YT-WgaKomFzbzs",
+          "YT-qr6P1GXgRus",
+          "YT-Dv7rwWGEkA4"
+        ]
+      },
+      {
+        "number": 7,
+        "text": "Episodic auditory-vestibular disease: Ménière disease and mimics",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "YT-7SmdieNqaO0",
+          "YT-KOjoCXdqiXo",
+          "YT-DXC3qZG-foo",
+          "YT-vxwFHw_EGzk",
+          "YT-gIurDozfuCc",
+          "YT-NrT-vp5kF8Q",
+          "YT-UDpUBn5ECSQ",
+          "YT-QK_LqZRE0Qo",
+          "YT-A0zH2CQwL6g",
+          "YT-MZrDB-zZpbU",
+          "YT-Gs7VBG07yiw",
+          "YT-a9xUhJ2un-s",
+          "YT-dtWxhI_7BQE",
+          "YT-qr6P1GXgRus"
+        ]
+      },
+      {
+        "number": 8,
+        "text": "Vestibular migraine and episodic neurologic vestibular syndromes",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "YT-7SmdieNqaO0",
+          "YT-DXC3qZG-foo",
+          "YT-vxwFHw_EGzk",
+          "YT-gIurDozfuCc",
+          "YT-NrT-vp5kF8Q",
+          "YT-eDGoPgR040k",
+          "YT--azfb8RxEEg",
+          "YT-a9xUhJ2un-s",
+          "YT-dtWxhI_7BQE"
+        ]
+      },
+      {
+        "number": 9,
+        "text": "Persistent dizziness, visual dependence and chronic vestibular syndromes",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "YT-7SmdieNqaO0",
+          "YT-DXC3qZG-foo",
+          "YT-1iSZW7Vt3UU",
+          "YT-vxwFHw_EGzk",
+          "YT-NrT-vp5kF8Q",
+          "YT-eDGoPgR040k",
+          "YT--azfb8RxEEg",
+          "YT-a9xUhJ2un-s",
+          "YT-dtWxhI_7BQE"
+        ]
+      },
+      {
+        "number": 10,
+        "text": "Bilateral vestibular loss, ototoxicity, aging and special populations",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "YT-7SmdieNqaO0",
+          "YT-KOjoCXdqiXo",
+          "YT-dXnb10tBWNE",
+          "YT-AbIXFpRBobk",
+          "YT-m1XBbdFje7A",
+          "YT-R5DqwixzxFs",
+          "YT-wFjZxrVUqYE",
+          "YT-qr6P1GXgRus",
+          "YT-E-X5RkTOgV4"
+        ]
+      },
+      {
+        "number": 11,
+        "text": "Vestibular rehabilitation, function and outcomes",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "YT-7SmdieNqaO0",
+          "YT-1iSZW7Vt3UU",
+          "YT-KQ3oSaB2xO4",
+          "YT-R5DqwixzxFs",
+          "YT-E-X5RkTOgV4"
+        ]
+      },
+      {
+        "number": 12,
+        "text": "Audiovestibular red flags, imaging and multidisciplinary care",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "YT-q5q61M4Qo80",
+          "YT-7SmdieNqaO0",
+          "YT-DXC3qZG-foo",
+          "YT-v9MZFc2EqAM",
+          "YT-UDpUBn5ECSQ",
+          "YT-QK_LqZRE0Qo",
+          "YT-MfMHlpGp98w",
+          "YT-7Yg_fvrtncI",
+          "YT-dXnb10tBWNE",
+          "YT-MZrDB-zZpbU",
+          "YT-AbIXFpRBobk",
+          "YT-4E7uvseq_VY",
+          "YT-Gs7VBG07yiw",
+          "YT-OyYfv2nqEj0",
+          "YT-Iv-iODt5DTE",
+          "YT-a9xUhJ2un-s",
+          "YT-qr6P1GXgRus"
+        ]
+      }
+    ],
+    "family": "Surgery and surgical subspecialties",
+    "trackType": "Clinical physician fellowship",
+    "boardNames": [
+      "American Board of Otolaryngology–Head and Neck Surgery (ABOHNS; primary certification; Neurotology subcertification is separate)",
+      "American Board of Psychiatry and Neurology (ABPN; primary Neurology certification for the separate Johns Hopkins pathway)"
+    ],
+    "boardStatus": {
+      "namedTrack": "No separate national board examination or certification for a Balance and Vestibular Disorders / vestibular oto-neurology fellowship was identified in the official board materials checked on 2026-10-07.",
+      "otolaryngology": "ABOHNS certifies primary Otolaryngology–Head and Neck Surgery and lists Neurotology as a separate subspecialty requiring ACGME-accredited fellowship training and assessment. The one-year balance fellowship must not be represented as this separate two-year MEE Neurotology pathway absent official confirmation.",
+      "neurology": "ABPN offers primary Neurology certification and enumerates subspecialties; vestibular/oto-neurology is not listed as a separate ABPN subspecialty. A fellowship does not confer ABPN certification."
+    },
+    "boardEligibilityNotice": "This independent course does not establish eligibility for any board exam. Fellowship completion, specialty training, board eligibility and board certification are distinct. Confirm current requirements directly with ABOHNS or ABPN; no pass guarantee.",
+    "targetVideoHours": 36.0,
+    "verifiedExternalHours": 36.11333333333334,
+    "verifiedSpecialtyHours": 34.51694444444445,
+    "verifiedFoundationHours": 1.5963888888888889,
+    "hoursGap": 0.0,
+    "clinicalTrainingNotReplaced": true,
+    "humanClinicalReviewStatus": "not performed",
+    "officialProgrammes": [
+      {
+        "institution": "Harvard Medical School Department of Otolaryngology–Head and Neck Surgery / Mass Eye and Ear",
+        "name": "Fellowship in Balance and Vestibular Disorders (Neskey-Coghlan Fellowship in Balance and Vestibular Disorders)"
+      },
+      {
+        "institution": "Johns Hopkins Department of Neurology",
+        "name": "Vestibular and Ocular-Motor Oto-Neurology Clinical Fellowship"
+      }
+    ],
+    "directoryMedicalValidation": {
+      "source": "full-catalog",
+      "issues": [],
+      "unknownDurationCount": 0,
+      "lectureEvidenceValid": true,
+      "hasExternalLectureEvidence": true,
+      "isReady": true
+    }
+  },
+  {
+    "id": "MED-X117",
+    "programId": "med",
+    "title": "Ophthalmic Genetics/Inherited Retinal Diseases Fellowship — Pediatric Medical Retina Independent Self-Study",
+    "level": "Clinical physician fellowship-aligned independent self-study-aligned independent study",
+    "studyHours": {
+      "planHours": 120,
+      "transparency": "Illustrative self-study plan, not observed clinical hours: 16.8475 h observed free external recordings (8.2586 h specialty and 8.5889 h shared foundations), 34 h readings/notes, 30 h fictional case and assignment work, 16 h question/evidence review, 23.1525 h structured revision or unrendered source-script work. There are 0 rendered/generated course-video hours. Independent study is not accredited training or clinical experience."
+    },
+    "coverageStatus": "incomplete_lecture_hours",
+    "syllabusUrl": "/manus-storage/MED-X117_0e25a47d.pdf",
+    "pdfIds": [
+      "med-syllabus-MED-X117",
+      "med-reading-7f762dcd87cc",
+      "med-reading-9661592eefbb",
+      "med-reading-7a08bf28d2a4"
+    ],
+    "lectures": [
+      {
+        "id": "MED-X117-LECT-01",
+        "title": "Lecture: Introduction to Inherited Retinal Disease",
+        "url": "https://cybersight.org/library/lecture-introduction-to-inherited-retinal-disease/",
+        "provider": "Cybersight / Orbis; lecturer Edwin Stone, MD (University of Iowa)",
+        "durationSeconds": 3653.0,
+        "sourceUrl": "https://cybersight.org/library/lecture-introduction-to-inherited-retinal-disease/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-02",
+        "title": "Advancing Treatments for Inherited Retinal Diseases",
+        "url": "https://advances.massgeneral.org/ophthalmology/video.aspx?id=1163",
+        "provider": "Mass General Advances in Motion; Rachel M. Huckfeldt, MD, PhD",
+        "durationSeconds": null,
+        "sourceUrl": "https://advances.massgeneral.org/ophthalmology/video.aspx?id=1163",
+        "accessVerified": false
+      },
+      {
+        "id": "MED-X117-LECT-03",
+        "title": "Analyzing Complex Inherited Retinal Disease Cases: Five Interesting Patient Cases",
+        "url": "https://www.youtube.com/watch?v=YHVFiQ-w1eQ",
+        "provider": "Cybersight / Orbis; Alex V. Levin, MD (University of Rochester), with Hunter Cherwek, MD",
+        "durationSeconds": 4424.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=YHVFiQ-w1eQ",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-04",
+        "title": "The Fundamentals of Genotyping & Phenotyping for Inherited Retinal Diseases (IRD)",
+        "url": "https://www.youtube.com/watch?v=OwJR711sPEo",
+        "provider": "Cybersight / Orbis; Alex V. Levin, MD",
+        "durationSeconds": 3180.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=OwJR711sPEo",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-05",
+        "title": "The Past, Present, and Future of Retinitis Pigmentosa (RP)",
+        "url": "https://www.youtube.com/watch?v=LXbwBI8fuC4",
+        "provider": "Cybersight / Orbis; Alex V. Levin, MD",
+        "durationSeconds": 3689.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=LXbwBI8fuC4",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-06",
+        "title": "The Clinical & Surgical Considerations of Gene Therapy in Retina Patients",
+        "url": "https://www.youtube.com/watch?v=Be98mmIVMjI",
+        "provider": "Cybersight / Orbis; Christina Y. Weng, MD (Baylor College of Medicine)",
+        "durationSeconds": 3894.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=Be98mmIVMjI",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-07",
+        "title": "Best Clinical Practices for Patients with Inherited Retinal Diseases | 3.20.24",
+        "url": "https://www.youtube.com/watch?v=mUYA2kzhVwI",
+        "provider": "Foundation Fighting Blindness; speakers Rachel Huckfeldt, MD, PhD and Rachelle Lin, OD, MS, FAAO",
+        "durationSeconds": 3625.0,
+        "sourceUrl": "https://www.fightingblindness.org/professional-outreach-webinars",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-08",
+        "title": "ECP Webinar: Gene Therapies for Inherited Retinal Diseases | March 13, 2025",
+        "url": "https://www.youtube.com/watch?v=H1k9CCHfm0Q",
+        "provider": "Foundation Fighting Blindness; speakers Christine Kay, MD and Thomas A. Mendel, MD, PhD",
+        "durationSeconds": 3600.0,
+        "sourceUrl": "https://www.fightingblindness.org/professional-outreach-webinars",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-09",
+        "title": "Rebuilding Vision: Regenerative Medicine and Clinical Trials in IRD and Dry AMD Webinar | 3/24/2026",
+        "url": "https://www.youtube.com/watch?v=lZ3vb-1NcGE",
+        "provider": "Foundation Fighting Blindness; presenters Chad Jackson, PhD; Yannis M. Paulus, MD; Jeff Stern, PhD, MD; Katie Beasley, PharmD, MS",
+        "durationSeconds": 3672.0,
+        "sourceUrl": "https://www.fightingblindness.org/professional-outreach-webinars",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-10",
+        "title": "Ophthalmic genetics: From genetic testing to clinical trials - webinar",
+        "url": "https://medprofvideos.mayoclinic.org/videos/ophthalmic-genetics-from-genetic-testing-to-clinical-trials-webinar",
+        "provider": "Mayo Clinic; speakers Raymond Iezzi, Jr., MD; Lisa A. Schimmenti, MD; Brittni A. Scruggs, MD, PhD; moderator Kahlen Darr, MS, CGC",
+        "durationSeconds": 3666.0,
+        "sourceUrl": "https://medprofvideos.mayoclinic.org/videos/ophthalmic-genetics-from-genetic-testing-to-clinical-trials-webinar",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-11",
+        "title": "20260123 DOVS UofT VPP Grand Rounds - FEVR and related developmental retinal vascular disorders",
+        "url": "https://www.youtube.com/watch?v=chIGFapxC68",
+        "provider": "University of Toronto Department of Ophthalmology and Vision Sciences; visiting professor Dr. Robert (as introduced on recording)",
+        "durationSeconds": 3523.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=chIGFapxC68",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-12",
+        "title": "20230127 DOVS UofT Grand Rounds - Low Vision Rehabilitation: Why and How",
+        "url": "https://www.youtube.com/watch?v=-NfhDuRoYaA",
+        "provider": "University of Toronto Department of Ophthalmology and Vision Sciences",
+        "durationSeconds": 3598.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=-NfhDuRoYaA",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-13",
+        "title": "20250919 DOVS UofT Grand Rounds - A Potpourri of Mystery Multimodal Imaging Cases",
+        "url": "https://www.youtube.com/watch?v=X4pSHa5qi3s",
+        "provider": "University of Toronto Department of Ophthalmology and Vision Sciences; medical retina faculty and residents",
+        "durationSeconds": 3443.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=X4pSHa5qi3s",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-14",
+        "title": "BSCR Retina Textbook - Chapter 2 - Diagnostic Testing - Steven Cohen, MD, FACS, 2026 08 14",
+        "url": "https://www.youtube.com/watch?v=1o_q6jS5N9Y",
+        "provider": "Steven Cohen, MD, FACS; resident teaching aligned to the AAO Basic and Clinical Science Course Retina and Vitreous text, University of South Florida resident lecture series",
+        "durationSeconds": 1999.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLpp4PBWBCRUEPG3CxZlgKAWvUR1zSk0EJ",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-15",
+        "title": "BSCR Retina Textbook Resident Lecture - Chapter 1 Anatomy - Steven Cohen, MD, FACS - 2026 08 14",
+        "url": "https://www.youtube.com/watch?v=XByN9uqeyvU",
+        "provider": "Steven Cohen, MD, FACS; University of South Florida resident lecture series",
+        "durationSeconds": 1694.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLpp4PBWBCRUEPG3CxZlgKAWvUR1zSk0EJ",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-16",
+        "title": "Genetic Therapy - Chapter 20 - David Eichenbaum, MD",
+        "url": "https://www.youtube.com/watch?v=-yfK-p-kkuw",
+        "provider": "David Eichenbaum, MD; Steven Cohen's University of South Florida resident retina lecture series",
+        "durationSeconds": 3550.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLpp4PBWBCRUEPG3CxZlgKAWvUR1zSk0EJ",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-17",
+        "title": "Intra-retinal and Subretinal Fluid - Steven Cohen - 2025 05 09",
+        "url": "https://www.youtube.com/watch?v=2m_i9cdaxrw",
+        "provider": "Steven Cohen, MD, FACS; University of South Florida resident retina lecture series",
+        "durationSeconds": 1344.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLpp4PBWBCRUEPG3CxZlgKAWvUR1zSk0EJ",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-18",
+        "title": "Toxic Retinopathy - Lecture Radouil Tzekov, Ph D, FARVO - 2022 12 09",
+        "url": "https://www.youtube.com/watch?v=O8FqlMkF6-c",
+        "provider": "Radouil Tzekov, PhD, FARVO; University of South Florida resident retina lecture series",
+        "durationSeconds": 2246.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLpp4PBWBCRUEPG3CxZlgKAWvUR1zSk0EJ",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-19",
+        "title": "Optical coherence tomography findings in dry age-related macular degeneration",
+        "url": "https://www.youtube.com/watch?v=8ce1244R0Fk",
+        "provider": "Steven Cohen, MD, FACS; University of South Florida resident retina lecture series",
+        "durationSeconds": 767.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLpp4PBWBCRUEPG3CxZlgKAWvUR1zSk0EJ",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-20",
+        "title": "Diagnostic Approach to Retinal Diseases",
+        "url": "https://www.youtube.com/watch?v=sK_wJwwclaM",
+        "provider": "Steven Cohen, MD, FACS; University of South Florida resident retina lecture series",
+        "durationSeconds": 2883.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLpp4PBWBCRUEPG3CxZlgKAWvUR1zSk0EJ",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X117-LECT-21",
+        "title": "Dry Age Related Macular Degeneration",
+        "url": "https://www.youtube.com/watch?v=oQIjmDWVsIU",
+        "provider": "Steven Cohen, MD, FACS; University of South Florida resident retina lecture series",
+        "durationSeconds": 2201.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLpp4PBWBCRUEPG3CxZlgKAWvUR1zSk0EJ",
+        "accessVerified": true
+      }
+    ],
+    "unitMap": [
+      {
+        "number": 1,
+        "text": "Phenotype-first pediatric retina reasoning and urgent mimics",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X117-LECT-01",
+          "MED-X117-LECT-02",
+          "MED-X117-LECT-04",
+          "MED-X117-LECT-07",
+          "MED-X117-LECT-08"
+        ]
+      },
+      {
+        "number": 2,
+        "text": "Inheritance, pedigrees and family-centered communication",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X117-LECT-02",
+          "MED-X117-LECT-03",
+          "MED-X117-LECT-06"
+        ]
+      },
+      {
+        "number": 3,
+        "text": "Pediatric assessment, visual function and multidisciplinary care",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X117-LECT-03",
+          "MED-X117-LECT-05",
+          "MED-X117-LECT-11"
+        ]
+      },
+      {
+        "number": 4,
+        "text": "Multimodal retinal imaging and structure-function reasoning",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X117-LECT-04",
+          "MED-X117-LECT-07",
+          "MED-X117-LECT-08"
+        ]
+      },
+      {
+        "number": 5,
+        "text": "Electrophysiology: full-field ERG, reports and pediatric confounders",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X117-LECT-04",
+          "MED-X117-LECT-05"
+        ]
+      },
+      {
+        "number": 6,
+        "text": "Genetic testing, variant interpretation and uncertainty",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X117-LECT-02",
+          "MED-X117-LECT-06",
+          "MED-X117-LECT-12"
+        ]
+      },
+      {
+        "number": 7,
+        "text": "Rod-cone degeneration, retinitis pigmentosa spectrum and phenocopies",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X117-LECT-01",
+          "MED-X117-LECT-04",
+          "MED-X117-LECT-05",
+          "MED-X117-LECT-07"
+        ]
+      },
+      {
+        "number": 8,
+        "text": "Cone-rod disease, inherited macular dystrophies and acquired macular phenocopies",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X117-LECT-04",
+          "MED-X117-LECT-07",
+          "MED-X117-LECT-08"
+        ]
+      },
+      {
+        "number": 9,
+        "text": "Chorioretinal degeneration, developmental retinal vascular disease and syndromic referral",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X117-LECT-03",
+          "MED-X117-LECT-07",
+          "MED-X117-LECT-09"
+        ]
+      },
+      {
+        "number": 10,
+        "text": "Pediatric medical-retina scope and clinical-training boundaries",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X117-LECT-03",
+          "MED-X117-LECT-10",
+          "MED-X117-LECT-14"
+        ]
+      },
+      {
+        "number": 11,
+        "text": "Longitudinal care, low vision, access and transition",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X117-LECT-03",
+          "MED-X117-LECT-11",
+          "MED-X117-LECT-14"
+        ]
+      },
+      {
+        "number": 12,
+        "text": "Therapy landscape: approved indication versus investigational claims",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X117-LECT-04",
+          "MED-X117-LECT-06",
+          "MED-X117-LECT-12"
+        ]
+      },
+      {
+        "number": 13,
+        "text": "Clinical trials, evidence appraisal and research ethics",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X117-LECT-06",
+          "MED-X117-LECT-12",
+          "MED-X117-LECT-13"
+        ]
+      },
+      {
+        "number": 14,
+        "text": "Case conference, evidence synthesis and programme distinction",
+        "coverage": "mapped, not verified complete",
+        "lectureIds": [
+          "MED-X117-LECT-01",
+          "MED-X117-LECT-02",
+          "MED-X117-LECT-06",
+          "MED-X117-LECT-12",
+          "MED-X117-LECT-13",
+          "MED-X117-LECT-14"
+        ]
+      }
+    ],
+    "family": "Ophthalmology and visual sciences",
+    "trackType": "Clinical physician fellowship-aligned independent self-study",
+    "boardNames": [
+      "American Board of Ophthalmology (ABO) Written Qualifying Examination — general ophthalmology content outline; not a pediatric medical-retina or ophthalmic-genetics fellowship board."
+    ],
+    "boardStatus": "The current ABO WQE outline is a general-ophthalmology examination outline. It maps inherited retinal/choroidal disease in the Retina, Vitreous, and Intraocular Tumors domain and retinal disorders/visual function in Pediatric Ophthalmology and Strabismus. No separate ABO board examination for Boston Children’s Ophthalmic Genetics/Inherited Retinal Diseases / Pediatric Medical Retina Fellowship was established by the sources checked. Fellowship listing, accreditation, certification and licensure are distinct questions.",
+    "boardEligibilityNotice": "This independent course confers no board eligibility, certification, fellowship credit, clinical privilege, licensure or credentialing. The Boston Children’s page lists residency/NBME-or-ECFMG/USMLE/Massachusetts limited-license application requirements; it does not establish ABO eligibility, ACGME accreditation or any board consequence. Verify current requirements directly with ABO, the programme and the relevant regulators.",
+    "targetVideoHours": 36.0,
+    "verifiedExternalHours": 16.8475,
+    "verifiedSpecialtyHours": 8.258611111111112,
+    "verifiedFoundationHours": 8.588888888888889,
+    "hoursGap": 19.1525,
+    "clinicalTrainingNotReplaced": true,
+    "humanClinicalReviewStatus": "not performed",
+    "officialProgrammes": [
+      {
+        "institution": "Boston Children’s Hospital (Harvard Medical School teaching hospital; Harvard Ophthalmology lists the fellowship under Boston Children’s Hospital/Mass Eye and Ear clinical fellowships)",
+        "name": "Ophthalmic Genetics/Inherited Retinal Diseases Fellowship; Harvard trainee page labels it Ophthalmic Genetics/Pediatric Medical Retina Fellowship"
+      }
+    ],
+    "directoryMedicalValidation": {
+      "source": "full-catalog",
+      "issues": [],
+      "unknownDurationCount": 1,
+      "lectureEvidenceValid": false,
+      "hasExternalLectureEvidence": true,
+      "isReady": false
+    }
+  }
+]

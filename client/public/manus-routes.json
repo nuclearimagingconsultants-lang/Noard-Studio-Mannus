@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Board Studio"},{"path":"/med","title":"Harvard:John Med — independent study"},{"path":"/program/:programId","title":"Program workspace"},{"path":"/course/:courseId","title":"Course workspace"},{"path":"/board","title":"Study board"},{"path":"/library","title":"Library"},{"path":"/coverage","title":"Coverage and production"}]}

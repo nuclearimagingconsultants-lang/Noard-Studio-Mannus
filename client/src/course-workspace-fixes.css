@@ -1,0 +1,16 @@
+/* Long source transcripts must not enlarge the learning workspace. */
+.course-workspace {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.course-workspace > *,
+.course-workspace .details-grid > * {
+  min-width: 0;
+}
+
+.course-workspace .transcript-copy {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  max-width: 100%;
+  overflow: auto;
+}
