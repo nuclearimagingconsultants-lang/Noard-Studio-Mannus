@@ -40658,6 +40658,15 @@
       "url": "/manus-storage/latest-seven-lecture-links_eb68d462.md",
       "kind": "guide",
       "sha256": "7fb471bd797008777af56e9624820fd1f1c6932e76e262a43ecb30772417bb27"
+    },
+    {
+      "id": "medical-source-prepared-4-chapters-20261009",
+      "title": "Four source-prepared medical chapters — reading only",
+      "kind": "ZIP study notes; automated source checks only; no videos",
+      "url": "/manus-storage/medical-source-prepared-4-chapters-20261009_d05d7544.zip",
+      "sha256": "a3aaf1c95a6b6b5779b4eff0d9737634c499e99d6d616c2d029dc5b8f66798b0",
+      "bytes": 37601,
+      "description": "Three newly source-checked chapters plus one earlier prepared chapter. Human clinician review not performed. No rendered videos or added lecture hours."
     }
   ],
   "stats": {
