@@ -3839,7 +3839,7 @@
       "notice": "Transparent learner-study plan only. Planned film hours are proposed production targets, not available lecture time. Verified viewing hours count only unique free public recordings with observed durations and direct duration evidence."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-135_baf0014c.pdf",
+    "syllabusUrl": "/manus-storage/MED-135_b8691ecb.pdf",
     "pdfIds": [
       "med-syllabus-MED-135",
       "med-reading-ebaab7239d22",
@@ -4109,6 +4109,24 @@
         "durationSeconds": 3975,
         "sourceUrl": "https://nephrology.washington.edu/",
         "accessVerified": true
+      },
+      {
+        "id": "MED-135-GAP-20261009-001",
+        "title": "RUMC-RBC March 24th, 2022",
+        "url": "https://www.youtube.com/watch?v=L1z2MqN1fMI",
+        "provider": "Rush University Medical Center (RUMC) Renal Biopsy Conference",
+        "durationSeconds": 3492,
+        "sourceUrl": "https://www.youtube.com/@rumc-biopsyconference",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-135-GAP-20261009-002",
+        "title": "Kidney Pathology: Challenging Cases, Challenging Samples",
+        "url": "https://www.youtube.com/watch?v=sM8kwnXEt78",
+        "provider": "GlomCon Foundation",
+        "durationSeconds": 361,
+        "sourceUrl": "https://www.youtube.com/@glomcon",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -4159,7 +4177,8 @@
           "L2",
           "L3",
           "L6",
-          "MED135-ADD-017"
+          "MED135-ADD-017",
+          "MED-135-GAP-20261009-001"
         ]
       },
       {
@@ -4203,7 +4222,8 @@
         "lectureIds": [
           "L1",
           "L4",
-          "L6"
+          "L6",
+          "MED-135-GAP-20261009-002"
         ]
       },
       {
@@ -4250,10 +4270,10 @@
     "boardStatus": "Johns Hopkins states the renal pathology fellowship is ACGME-accredited for one year; a second year emphasizing research is case-by-case and non-ACGME-accredited. ABPath publishes a renal pathology resident competency-expectations document, but renal pathology is not listed among ABPath subspecialty certification examinations as of 2026-10-07; there is no separate ABPath renal pathology board exam identified.",
     "boardEligibilityNotice": "Hopkins states applicants must be board eligible or board certified in AP or AP/CP from an ACGME-accredited residency. This describes that specific program, not a general eligibility determination. This independent course confers no board eligibility.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 32.10444444444445,
-    "verifiedSpecialtyHours": 30.205277777777777,
+    "verifiedExternalHours": 33.17472222222222,
+    "verifiedSpecialtyHours": 31.275555555555556,
     "verifiedFoundationHours": 1.8991666666666667,
-    "hoursGap": 3.8955555555555534,
+    "hoursGap": 2.825277777777778,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

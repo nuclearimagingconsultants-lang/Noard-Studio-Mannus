@@ -40630,12 +40630,13 @@
       "id": "medical-current-333-syllabi",
       "title": "Current 333 medical syllabi — source recovery and practice metadata snapshot",
       "kind": "ZIP",
-      "url": "/manus-storage/medical-current-333-syllabi_1d0c5829.zip",
+      "url": "/manus-storage/medical-current-333-syllabi_98c72271.zip",
       "storageUrl": "/manus-storage/medical-current-333-syllabi_d8afc256.zip",
       "bytes": 77843746,
-      "sha256": "678f647f2c49748965667392a03510828fbe2ec545a36506202d1aa52f75b742",
+      "sha256": "1dbbd1f66bbc6585c50eebf430e0f0ad47658c9cade2d339815d03c475f01014",
       "description": "Current 333 source-cited medical syllabus PDFs with reviewed recovery evidence and explicit remaining study/clinical limits.",
-      "fileType": "ZIP"
+      "fileType": "ZIP",
+      "sizeBytes": 77857024
     },
     {
       "id": "playable-lecture-recovery-62",

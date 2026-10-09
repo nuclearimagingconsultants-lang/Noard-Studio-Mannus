@@ -10699,7 +10699,9 @@
           "ALPS-CLTI-2025",
           "CLEVELAND-TALL-ROUNDS-WOUNDS",
           "RVH-GR-LIMB-PRESERVATION-2024",
-          "CVI-LIMB-SALVAGE-WOUND-2022"
+          "CVI-LIMB-SALVAGE-WOUND-2022",
+          "MED-185-GAP-20261009-MAYO-CLTI-01",
+          "MED-185-GAP-20261009-SCAI-CLTI-02"
         ],
         "casePractice": [
           "For a fictional 3-week ulcer with noncompressible ABI and diminished pulses, write a referral and test question list; do not invent perfusion values.",
@@ -12066,6 +12068,62 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Direct single-video URL, not a playlist. Public transcript and structured duration metadata support source recovery only; free viewing does not grant rehosting, redistribution, or embedding permission."
+      },
+      {
+        "id": "MED-185-GAP-20261009-MAYO-CLTI-01",
+        "title": "Chronic Limb Threatening Ischemia",
+        "url": "https://www.youtube.com/watch?v=5M5F4Aqw5Ds",
+        "sourceUrl": "https://www.youtube.com/watch?v=5M5F4Aqw5Ds",
+        "provider": "Mayo Clinic",
+        "channel": "Mayo Clinic",
+        "observedDurationSeconds": 902,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=5M5F4Aqw5Ds",
+        "durationEvidenceMethod": "Direct individual YouTube player page displayed 0:00 / 15:02 and ‘Watch full video’ on 2026-10-09; this is player evidence, not a runtime inferred from a listing.",
+        "accessVerified": true,
+        "freeAccessStatus": "Free public YouTube stream; direct player page opened without sign-in, registration, payment, or age restriction observed; platform ads may appear.",
+        "category": "specialty",
+        "coverageUnits": [
+          4
+        ],
+        "accessEmbeddingNotes": "Link to the Mayo Clinic player; no permission to download, mirror, redistribute, or embed is assumed. Topic basis: the public description and chapters cover CLTI manifestations, risk, diagnosis and test pitfalls, amputation, revascularization, and treatment; the description notes multidisciplinary evaluation. Educational overview only; check current guidance and do not infer clinical competency.",
+        "publicationDate": "2024-06-20",
+        "publicationDateNote": "Public YouTube page displays Jun 20, 2024.",
+        "accessEvidenceObservation": "On the direct public watch page, the player showed 0:00 / 15:02 and ‘Watch full video’; the page exposed the Mayo channel, topic description and chapters.",
+        "accessEvidenceMethod": "Direct fetch of the individual public YouTube watch page on 2026-10-09; no login prompt, registration wall, age gate, challenge, or unavailability notice observed.",
+        "verified_at": "2026-10-09",
+        "durationSeconds": 902,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Link to the Mayo Clinic player; no permission to download, mirror, redistribute, or embed is assumed. Topic basis: the public description and chapters cover CLTI manifestations, risk, diagnosis and test pitfalls, amputation, revascularization, and treatment; the description notes multidisciplinary evaluation. Educational overview only; check current guidance and do not infer clinical competency."
+      },
+      {
+        "id": "MED-185-GAP-20261009-SCAI-CLTI-02",
+        "title": "Critical Limb Ischemia in a patient with popliteal artery occulsion",
+        "url": "https://www.youtube.com/watch?v=rFR4uEU3GXc",
+        "sourceUrl": "https://www.scai.org/critical-limb-ischemia-patient-popliteal-artery-occlusion",
+        "provider": "Society for Cardiovascular Angiography & Interventions (SCAI)",
+        "channel": "SCAI-TV",
+        "observedDurationSeconds": 1084,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=rFR4uEU3GXc",
+        "durationEvidenceMethod": "Direct individual YouTube player page displayed 0:00 / 18:04 and ‘Watch full video’ on 2026-10-09; runtime is observed on the player, not inferred from a source listing.",
+        "accessVerified": true,
+        "freeAccessStatus": "Free public YouTube stream; direct player page opened without sign-in, registration, payment, or age restriction observed; platform ads may appear.",
+        "category": "specialty",
+        "coverageUnits": [
+          4
+        ],
+        "accessEmbeddingNotes": "The official SCAI case page links the individual presentation. Topic basis from SCAI: a 69-year-old with nonhealing hallux wound and rest pain, WIfI 1,1,0, popliteal occlusion, multidisciplinary options discussion, and an endovascular-first approach. Published 2020 case; reconcile with current guidance. Viewing is not procedural authorization; link only and do not download, rehost, redistribute, or assume embedding rights.",
+        "publicationDate": "2020-12-10",
+        "publicationDateNote": "Official SCAI case page is dated Dec 10, 2020; exact YouTube upload date was not independently observed.",
+        "accessEvidenceObservation": "The direct public YouTube watch page displayed the individual title, 0:00 / 18:04 player timer, and ‘Watch full video’; official SCAI case page linked to this video.",
+        "accessEvidenceMethod": "Direct fetch of the individual player and official SCAI page on 2026-10-09; no login prompt, registration wall, age gate, challenge, or unavailability notice observed.",
+        "verified_at": "2026-10-09",
+        "durationSeconds": 1084,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "The official SCAI case page links the individual presentation. Topic basis from SCAI: a 69-year-old with nonhealing hallux wound and rest pain, WIfI 1,1,0, popliteal occlusion, multidisciplinary options discussion, and an endovascular-first approach. Published 2020 case; reconcile with current guidance. Viewing is not procedural authorization; link only and do not download, rehost, redistribute, or assume embedding rights."
       }
     ],
     "unitMap": [
@@ -12143,7 +12201,9 @@
           "ALPS-CLTI-2025",
           "CLEVELAND-TALL-ROUNDS-WOUNDS",
           "RVH-GR-LIMB-PRESERVATION-2024",
-          "CVI-LIMB-SALVAGE-WOUND-2022"
+          "CVI-LIMB-SALVAGE-WOUND-2022",
+          "MED-185-GAP-20261009-MAYO-CLTI-01",
+          "MED-185-GAP-20261009-SCAI-CLTI-02"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -12332,9 +12392,9 @@
         "uncoveredTopics": []
       }
     ],
-    "coverageStatus": "incomplete_lecture_hours",
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
     "remainingGaps": {
-      "hoursToTarget": 0.54,
+      "hoursToTarget": 0,
       "topicGaps": [
         "25.785556 verified free recording hours remain to reach the explicit 36-hour video floor; authored episodes and all originalClipPlan target minutes are scripts/plans, not rendered media, and count as zero video hours.",
         "No verified free, directly accessible full-length specialist lecture was located for venous/mixed arterial-venous ulcer diagnosis and compression decision science; Charcot diagnostic/treatment reasoning; reconstructive surgery; or wound-intervention evidence appraisal. Current guidelines/reviews remain readings, not recordings.",
@@ -13366,10 +13426,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 35.460277777777776,
-      "verifiedSpecialtyHours": 32.391666666666666,
+      "verifiedExternalHours": 36.011944444444445,
+      "verifiedSpecialtyHours": 32.943333333333335,
       "verifiedFoundationHours": 3.068611111111111,
-      "hoursGap": 0.539722222222224,
+      "hoursGap": 0,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
@@ -13680,7 +13740,7 @@
         "fictionalCase": false
       }
     ],
-    "syllabusUrl": "/manus-storage/MED-185_f7c707d1.pdf"
+    "syllabusUrl": "/manus-storage/MED-185_e3139709.pdf"
   },
   {
     "id": "MED-186",

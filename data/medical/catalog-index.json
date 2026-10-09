@@ -6684,8 +6684,8 @@
     {
       "id": "med-syllabus-MED-102",
       "title": "Sleep Medicine Clinical Fellowship — independent study syllabus",
-      "sourceUrl": "/manus-storage/MED-102_37a75817.pdf",
-      "storageUrl": "/manus-storage/MED-102_37a75817.pdf",
+      "sourceUrl": "/manus-storage/MED-102_e28fa213.pdf",
+      "storageUrl": "/manus-storage/MED-102_e28fa213.pdf",
       "licenseNote": "Original independent study guide; underlying source material retains its stated rights. Not institutional training or clinician-reviewed content.",
       "programIds": [
         "med"
@@ -8679,8 +8679,8 @@
     {
       "id": "med-syllabus-MED-135",
       "title": "Renal Pathology Fellowship — independent study syllabus",
-      "sourceUrl": "/manus-storage/MED-135_baf0014c.pdf",
-      "storageUrl": "/manus-storage/MED-135_baf0014c.pdf",
+      "sourceUrl": "/manus-storage/MED-135_b8691ecb.pdf",
+      "storageUrl": "/manus-storage/MED-135_b8691ecb.pdf",
       "licenseNote": "Original independent study guide; underlying source material retains its stated rights. Not institutional training or clinician-reviewed content.",
       "programIds": [
         "med"
@@ -12013,8 +12013,8 @@
     {
       "id": "med-syllabus-MED-185",
       "title": "Limb Preservation and Wound Care Fellowship — independent study syllabus",
-      "sourceUrl": "/manus-storage/MED-185_f7c707d1.pdf",
-      "storageUrl": "/manus-storage/MED-185_f7c707d1.pdf",
+      "sourceUrl": "/manus-storage/MED-185_e3139709.pdf",
+      "storageUrl": "/manus-storage/MED-185_e3139709.pdf",
       "licenseNote": "Original independent study guide; underlying source material retains its stated rights. Not institutional training or clinician-reviewed content.",
       "programIds": [
         "med"
@@ -18519,8 +18519,8 @@
     {
       "id": "med-syllabus-MED-X068",
       "title": "Thoracic Pulmonary Pathology Fellowship — independent study syllabus",
-      "sourceUrl": "/manus-storage/MED-X068_2b479b59.pdf",
-      "storageUrl": "/manus-storage/MED-X068_2b479b59.pdf",
+      "sourceUrl": "/manus-storage/MED-X068_bd557059.pdf",
+      "storageUrl": "/manus-storage/MED-X068_bd557059.pdf",
       "licenseNote": "Original independent study guide; underlying source material retains its stated rights. Not institutional training or clinician-reviewed content.",
       "programIds": [
         "med"
@@ -21749,19 +21749,19 @@
       "id": "med-download-hours-csv",
       "title": "Medical lecture-hour index and remaining gaps",
       "kind": "CSV",
-      "url": "/manus-storage/medical-course-index_cf3795e6.csv"
+      "url": "/manus-storage/medical-course-index_5e615f07.csv"
     },
     {
       "id": "med-download-board-xlsx",
       "title": "Editable medical specialty study board and recording tracker",
       "kind": "XLSX",
-      "url": "/manus-storage/medical-study-board_821b174d.xlsx"
+      "url": "/manus-storage/medical-study-board_5e89680f.xlsx"
     }
   ],
   "stats": {
     "courses": 333,
     "units": 3997,
-    "lectureEntries": 12687
+    "lectureEntries": 12696
   },
   "productionOrder": [
     "med"
@@ -21777,7 +21777,7 @@
     "minimumTargetVideoHoursPerSpecialty": 36,
     "discoveredTracks": 333,
     "availableCurricula": 333,
-    "tracksWith36VerifiedHours": 193,
+    "tracksWith36VerifiedHours": 196,
     "families": [
       "Acute, emergency, pulmonary and critical care",
       "Anesthesiology and pain medicine",
@@ -21830,7 +21830,7 @@
       "VA Boston’s public trainee page includes a physician Behavioral Neurology/Neuropsychiatry/Geriatric Neurology fellowship and the Harvard/Spaulding/MGB SCI programme, both matched to existing items. Its page also mixes many non-physician programmes; no inferred VA roster was created."
     ],
     "humanClinicalReviewStatus": "not performed",
-    "updatedAt": "2026-10-09T10:50:11.271584+00:00",
+    "updatedAt": "2026-10-09T12:08:39.091542+00:00",
     "discoveredEntriesNotice": "Programme discovery records, not a count of distinct board specialties; institutional, combined, directory and supplementary tracks are labeled individually."
   },
   "workspaceIndexVersion": 1,

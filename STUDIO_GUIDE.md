@@ -15,9 +15,9 @@ Use [the original medical studio](https://boardstudio-svjffwzx.manus.space/med) 
 | Medical records | 333 discovered programme/variant records, not 333 distinct board specialties |
 | Course workspaces | 384 |
 | Medical syllabus PDFs | 333, with byte-aware verification and durable upload |
-| Medical records meeting the inclusive measured 36-hour target | 194 |
-| Medical records below target | 139 |
-| Remaining medical deficit | Approximately 2,973.18 record-hours, not schoolwide unique viewing time |
+| Medical records meeting the inclusive measured 36-hour target | 197 |
+| Medical records below target | 136 |
+| Remaining medical deficit | Approximately 2,966.44 record-hours, not schoolwide unique viewing time |
 | Ready base originals | 149 |
 | Ready medical originals | 88 |
 | All ready originals | 237; not 237 completed courses |
@@ -27,9 +27,21 @@ Use [the original medical studio](https://boardstudio-svjffwzx.manus.space/med) 
 
 These are reconciled canonical-manifest counts after the current finite producers stopped. A new video becomes countable only after genuine production and the applicable source, duration and durable-asset gates. Historical access notes are retained; current measured runtime and the ready queue show current availability.
 
-The preceding release was confirmed at Manus **967e8b6** and GitHub/Vercel **8393c22**, with 384 workspaces and exact 230-ready identities. The seven additions below are newer than those receipts. Their new static checkpoint/publication must be verified separately; a trusted live media feed can expose genuine ready additions earlier. This guide does not turn a local build or a successful source pass into publication confirmation.
+The new **237-ready** source update was confirmed published as Manus **fd1df9c** and pushed/deployed as GitHub/Vercel **d675f73**. Vercel passed all **384 deployed workspace checks with exact 237-ready identities** and private-read denial. The original Manus browser confirmed the new 237-ready identity hash, all seven additions, the course heading, current Library link, and 22 new video/caption/transcript/index range responses; its all **384 same-origin course checks completed with no errors**. The sampled new medical original played to 21.50 seconds, with 126 caption cues and its 620-second duration loaded; playback was paused after verification. The earlier 230-ready receipts remain historical, not current totals.
 
-## What this continuation produced
+## Latest medical/storage continuation — 08:06 EDT
+
+Nine newly source-qualified external recording links were accepted across Sleep Medicine (MED-102), Renal Pathology (MED-135), Limb Preservation/Wound Care (MED-185), and Thoracic/Pulmonary Pathology (MED-X068), preserving observed runtimes, exact unit mapping and within-course deduplication. Sleep Medicine, Limb Preservation/Wound Care and Thoracic/Pulmonary Pathology now meet the inclusive 36-hour floor. Renal Pathology still lacks 2.8253 hours. Breast Imaging (MED-058) and Orthopaedic Sports Medicine (MED-X074) returned no qualifying additions; inaccessible candidates stay excluded. These are hour-floor changes, not complete clinical or board-domain coverage.
+
+The four changed syllabi were compiled, verified and uploaded; the 333-PDF archive and medical workbook/hours index were refreshed. Nine links are external recordings, **not nine original films**. A separate ten-script cached-source audit passed one breast-imaging script (MED-058-EXPLAIN-103) and blocked nine. The passing script remains **source-prepared, not rendered/uploaded, and contributes zero ready minutes**. Originals remain 149 base + 88 medical = 237. This latest static curriculum update still needs confirmed publication; the preceding confirmed releases below are historical.
+
+### Storage status
+
+Two existing large archives, totaling **6.19 GiB**, were copied to a **private Google Drive backup folder** with remote size/MD5 verification and local SHA-256 receipts. All local copies remain; no individual video, caption, transcript, source PDF or cache was deleted. Cloud backup alone does not increase local rendering space. Deletion of exactly these two redundant local ZIP copies awaits a separate explicit user decision. The folder remains unshared and owner-only.
+
+The selected desktop E-drive workspace could not execute file/terminal operations or receive a transfer because its connection lacked the required advertised capabilities. **No E-drive capacity was measured and no file was transferred there.** Restart/update and reconnect the Manus desktop app before retrying. No storage upgrade or purchase was made. Current local capacity is approximately 8.16 GiB with an eight-GiB render reserve.
+
+## What the preceding continuation produced
 
 ### Medical first: five new videos, 49.03 minutes
 
@@ -84,7 +96,7 @@ These totals are not full-PDF coverage. Administration, references and orientati
 
 The current Manus application passed **67 software tests**, TypeScript checking, production build and the stable **384-course endpoint test with exact 237-ready identities**, unknown-course behaviour and anonymous private-progress/notes denial. The base source/speech/retention regressions passed 25 offline tests. Read-only review found stale status text, not weakened source gates; those status notes were corrected.
 
-The public export retains external publisher citations and clinical care-setting prose while removing actual local filesystem locations. It must pass strict media-allowlist, private-path, exact-ready-ID and Vercel-adapter preservation tests; the public copy's 71-test suite and deployment need their own fresh results.
+The public export retains external publisher citations and clinical care-setting prose while removing actual local filesystem locations. It must pass strict media-allowlist, private-path, exact-ready-ID and Vercel-adapter preservation tests; the public copy passed **71 tests**, TypeScript, Vercel build and all 384 deployed endpoint checks with exact 237-ready identities.
 
 The two repositories remain separate. The Manus canonical repository and hosted site are preserved. Validated educational data is explicitly copied to [Noard-Studio-Mannus](https://github.com/nuclearimagingconsultants-lang/Noard-Studio-Mannus) while retaining Vercel-only adapters. No credentials, learner rows, raw evidence cache, private production state or video binaries belong in the public repository. Vercel media still depends on the existing public hosted origin; this is not automatic two-way synchronization.
 
@@ -92,7 +104,7 @@ The two repositories remain separate. The Manus canonical repository and hosted 
 
 | Outcome | Remaining work |
 | --- | --- |
-| Medical 36-hour minimum | 139 of 333 records remain below the inclusive measured floor. Add relevant accessible duration-evidenced lectures or genuine source-qualified originals, never padding or unknown runtime. |
+| Medical 36-hour minimum | 136 of 333 records remain below the inclusive measured floor. Add relevant accessible duration-evidenced lectures or genuine source-qualified originals, never padding or unknown runtime. |
 | Medical originals and topic coverage | Many recovered manuscripts remain unprocessed or source/preflight-blocked. Hour floors do not prove complete specialty-only teaching, board-domain coverage or competence. |
 | Practice metadata | 19 items await explicit case provenance; authorship alone does not establish fictional patient cases. |
 | Base PDF teaching | 1,019 manifest entries remain not ready. Preserve equations, examples, learner computations and partial-coverage notes; the Finance/CTO failures above need fresh supported repair. |
@@ -101,7 +113,7 @@ The two repositories remain separate. The Manus canonical repository and hosted 
 | Human clinical review | Not performed. An actual qualified reviewer is necessary before calling material clinician-reviewed. |
 | Downloads | New offline media packaging remains constrained by free-disk reserve. Existing frozen archives are retained. |
 
-**Needed from you:** nothing further for ordinary continuation or use of the portals. Lawfully accessible authoritative documents could resolve blocked claims. Do not send passwords, identifiable patient records or protected board questions. Qualified clinician review would require an actual reviewer.
+**Needed from you for more video rendering:** respond to the exact two-ZIP cleanup question, or restore desktop/E-drive access and provide a usable production/storage workspace. No extra action is needed for using the portals or small-file source research. Lawfully accessible authoritative documents could resolve blocked claims. Do not send passwords, identifiable patient records or protected board questions. Qualified clinician review would require an actual reviewer.
 
 ## Study and institutional boundaries
 

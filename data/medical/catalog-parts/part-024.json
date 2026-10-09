@@ -16382,7 +16382,8 @@
           "V007",
           "V016",
           "V017",
-          "V027"
+          "V027",
+          "MED-X068-GAP-20261009-001"
         ],
         "casePractice": [
           "From a fictional necrotizing granuloma description, draft a prioritized differential and appropriate special/microbiology follow-up without overcalling a pathogen."
@@ -16449,7 +16450,10 @@
           "V007",
           "V011",
           "V017",
-          "MED-X068-REC-001"
+          "MED-X068-REC-001",
+          "MED-X068-GAP-20261009-001",
+          "MED-X068-GAP-20261009-002",
+          "MED-X068-GAP-20261009-003"
         ],
         "casePractice": [
           "Create a fictional report note that flags pattern overlap and requests appropriate transplant clinical/radiologic correlation."
@@ -17340,6 +17344,88 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Link out to the provider page only. Do not download, mirror, embed, excerpt, or redistribute the recording or its slides; free viewing does not establish reuse permission."
+      },
+      {
+        "id": "MED-X068-GAP-20261009-001",
+        "title": "A Joint Venture for Defeating Infectious Threats Post-Transplantation: Pathologists and Microbiologists Together",
+        "url": "https://www.youtube.com/watch?v=WwdB_EYfCXw",
+        "sourceUrl": "https://www.ishlt.org/event-calendar/event/2024/06/27/default-calendar/a-joint-venture-for-defeating-infectious-threats-post-transplantation-pathologists-and-microbiologists-together",
+        "provider": "International Society for Heart and Lung Transplantation (ISHLT)",
+        "channel": "ISHLT Headquarters",
+        "observedDurationSeconds": 3714,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=WwdB_EYfCXw",
+        "durationEvidenceMethod": "Direct individual public YouTube watch-page fetch showed the native player duration 0:00 / 1:01:54 and the Watch full video control; normalized to 3,714 seconds. No playlist/runtime-only proxy used.",
+        "accessVerified": true,
+        "freeAccessStatus": "Public free viewing observed on the individual ISHLT YouTube recording page without a sign-in or payment barrier; ISHLT's official event page links the recording. Availability may change.",
+        "category": "specialty",
+        "coverageUnits": [
+          7,
+          9
+        ],
+        "accessEmbeddingNotes": "Link out only. Public viewing does not establish permission to download, copy, excerpt, embed, or rehost; no open-source or reuse license was identified.",
+        "publicationDate": "2024-06-27",
+        "verified_at": "2026-10-09T11:52:00Z",
+        "accessEvidenceObservation": "Fetched the direct individual watch page: it showed the title, exact player runtime, and Watch full video; no unavailable, registration, sign-in, or payment barrier was observed. Official ISHLT event page links this recording.",
+        "topicBasis": "Official ISHLT event description and objectives: heart/lung transplant infection risks and syndromes, specimen collection and tissue processing, culture and nucleic-acid/non-nucleic-acid methods, donor-derived and opportunistic infections, and diagnostic contributions of pathologists and microbiologists.",
+        "durationSeconds": 3714,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Link out only. Public viewing does not establish permission to download, copy, excerpt, embed, or rehost; no open-source or reuse license was identified."
+      },
+      {
+        "id": "MED-X068-GAP-20261009-002",
+        "title": "Artificial Intelligence in Thoracic Transplant Pathology: Hype or Real Utility?",
+        "url": "https://www.youtube.com/watch?v=2Y4FSBCIogM",
+        "sourceUrl": "https://www.ishlt.org/event-calendar/event/2026/07/21/default-calendar/pathology-professional-community-webinar-artificial-intelligence-in-thoracic-transplant-pathology-hype-or-real-utility-fba5fc67-e668-f111-9b47-000d3a0e9866",
+        "provider": "International Society for Heart and Lung Transplantation (ISHLT)",
+        "channel": "ISHLT Headquarters",
+        "observedDurationSeconds": 4067,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=2Y4FSBCIogM",
+        "durationEvidenceMethod": "Direct individual public YouTube watch-page fetch showed native player duration 0:00 / 1:07:47 and Watch full video; normalized to 4,067 seconds. Individual-page transcript was also fetched for topic verification.",
+        "accessVerified": true,
+        "freeAccessStatus": "Public free viewing observed on the individual ISHLT YouTube recording page without sign-in or payment; official ISHLT event page provides a Watch Session Recording link. Availability may change.",
+        "category": "specialty",
+        "coverageUnits": [
+          9
+        ],
+        "accessEmbeddingNotes": "Link out only. No open-source or reuse license was identified; public viewing does not permit downloading, copying, excerpting, embedding, or rehosting. The recording discusses research and validation limits, not an approved clinical decision tool.",
+        "publicationDate": "2026-07-21",
+        "verified_at": "2026-10-09T11:52:00Z",
+        "accessEvidenceObservation": "Direct watch-page fetch displayed Watch full video and no unavailable, registration, sign-in, or payment barrier; the official event page links the recording.",
+        "topicBasis": "Official ISHLT event program specifies cardiac allograft rejection, lung allograft injury and rejection, and imaging biomarker integration with AI. Direct recording transcript verifies a specialist discussion of transplant biopsy/computational pathology, multimodal integration, and rejection assessment.",
+        "durationSeconds": 4067,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Link out only. No open-source or reuse license was identified; public viewing does not permit downloading, copying, excerpting, embedding, or rehosting. The recording discusses research and validation limits, not an approved clinical decision tool."
+      },
+      {
+        "id": "MED-X068-GAP-20261009-003",
+        "title": "The Thrombus That Connects Us",
+        "url": "https://www.youtube.com/watch?v=PP0da8CXRb8",
+        "sourceUrl": "https://www.ishlt.org/about/news-detail/2026/05/08/catch-up-on-ishltv",
+        "provider": "International Society for Heart and Lung Transplantation (ISHLT)",
+        "channel": "ISHLT Headquarters",
+        "observedDurationSeconds": 3364,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=PP0da8CXRb8",
+        "durationEvidenceMethod": "Direct individual public YouTube watch-page fetch showed native player duration 0:00 / 56:04 and Watch full video; normalized to 3,364 seconds. Direct description/transcript text was inspected for topic.",
+        "accessVerified": true,
+        "freeAccessStatus": "Public free viewing observed on the individual ISHLT YouTube page without a sign-in or payment barrier. Official ISHLT Catch Up page describes ISHLT webinar recordings as open to the entire community and links this recording. Availability may change.",
+        "category": "specialty",
+        "coverageUnits": [
+          9
+        ],
+        "accessEmbeddingNotes": "Link out only. Public access is not an open-source or reuse license; no download, copying, excerpting, embedding, or rehosting permission was identified.",
+        "publicationDate": "2025-10-07",
+        "verified_at": "2026-10-09T11:52:00Z",
+        "accessEvidenceObservation": "Individual player page displayed Watch full video and no unavailable, registration, sign-in, or payment barrier. Official ISHLT catch-up page says recordings are open to the entire community.",
+        "topicBasis": "Direct video description/transcript lists pathology presentations including “Don't Call the Plumber Just Yet…The Wide World of Pulmonary Thrombosis” by Jan von der Thusen; useful as limited pulmonary vascular pathology support.",
+        "durationSeconds": 3364,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Link out only. Public access is not an open-source or reuse license; no download, copying, excerpting, embedding, or rehosting permission was identified."
       }
     ],
     "unitMap": [
@@ -17477,7 +17563,8 @@
           "V007",
           "V016",
           "V017",
-          "V027"
+          "V027",
+          "MED-X068-GAP-20261009-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -17514,7 +17601,10 @@
           "V007",
           "V011",
           "V017",
-          "MED-X068-REC-001"
+          "MED-X068-REC-001",
+          "MED-X068-GAP-20261009-001",
+          "MED-X068-GAP-20261009-002",
+          "MED-X068-GAP-20261009-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -17580,9 +17670,9 @@
         "uncoveredTopics": []
       }
     ],
-    "coverageStatus": "incomplete_lecture_hours",
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
     "remainingGaps": {
-      "hoursToTarget": 3.092,
+      "hoursToTarget": 0,
       "topicGaps": [
         "Unit 1: specimen handling, low-power normal orientation and adequacy have no complete public specialty lecture sequence; institutional rotation details are not a public didactic syllabus.",
         "Unit 2: acute lung injury has case-video coverage, but DAD timing, overlap and cause-specific differential remain dependent on readings and supervised context.",
@@ -18517,10 +18607,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 32.90777777777778,
-      "verifiedSpecialtyHours": 31.886944444444445,
+      "verifiedExternalHours": 36.00361111111111,
+      "verifiedSpecialtyHours": 34.98277777777778,
       "verifiedFoundationHours": 1.0208333333333333,
-      "hoursGap": 3.092222222222219,
+      "hoursGap": 0,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
@@ -18836,7 +18926,7 @@
         "fictionalCase": true
       }
     ],
-    "syllabusUrl": "/manus-storage/MED-X068_2b479b59.pdf"
+    "syllabusUrl": "/manus-storage/MED-X068_bd557059.pdf"
   },
   {
     "id": "MED-X069",

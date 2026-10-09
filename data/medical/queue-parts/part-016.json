@@ -1631,8 +1631,8 @@
       "planHours": 120,
       "basis": "Transparent self-study plan, not training duration: 12 units x 6 hours (72 h; reading/viewing, notes and formative exercises) + integrated case assignment (24 h) + review/self-testing/source update (24 h). These learning hours are a plan, not verified video time, clinical training, CME credit or proof of readiness."
     },
-    "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-185_f7c707d1.pdf",
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
+    "syllabusUrl": "/manus-storage/MED-185_e3139709.pdf",
     "pdfIds": [
       "med-syllabus-MED-185",
       "med-reading-81b8cd12a015",
@@ -1997,6 +1997,24 @@
         "durationSeconds": 9632,
         "sourceUrl": "https://www.youtube.com/watch?v=Kqe87IVxFmw",
         "accessVerified": true
+      },
+      {
+        "id": "MED-185-GAP-20261009-MAYO-CLTI-01",
+        "title": "Chronic Limb Threatening Ischemia",
+        "url": "https://www.youtube.com/watch?v=5M5F4Aqw5Ds",
+        "provider": "Mayo Clinic",
+        "durationSeconds": 902,
+        "sourceUrl": "https://www.youtube.com/watch?v=5M5F4Aqw5Ds",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-185-GAP-20261009-SCAI-CLTI-02",
+        "title": "Critical Limb Ischemia in a patient with popliteal artery occulsion",
+        "url": "https://www.youtube.com/watch?v=rFR4uEU3GXc",
+        "provider": "Society for Cardiovascular Angiography & Interventions (SCAI)",
+        "durationSeconds": 1084,
+        "sourceUrl": "https://www.scai.org/critical-limb-ischemia-patient-popliteal-artery-occlusion",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -2059,7 +2077,9 @@
           "ALPS-CLTI-2025",
           "CLEVELAND-TALL-ROUNDS-WOUNDS",
           "RVH-GR-LIMB-PRESERVATION-2024",
-          "CVI-LIMB-SALVAGE-WOUND-2022"
+          "CVI-LIMB-SALVAGE-WOUND-2022",
+          "MED-185-GAP-20261009-MAYO-CLTI-01",
+          "MED-185-GAP-20261009-SCAI-CLTI-02"
         ]
       },
       {
@@ -2215,10 +2235,10 @@
     "boardStatus": "No separate ABMS-recognized limb-preservation/wound-care specialty or subspecialty certificate, nor a distinct examination for the Johns Hopkins fellowship itself, was identified in the official sources checked 2026-10-07. ABWMS and ABWM offer separate credentials with their own eligibility rules; do not equate them with an ACGME-accredited fellowship or ABMS board certification. The Hopkins fellowship directory calls accreditation ‘Non-Standard’; an older/currently displayed Heart & Vascular overview letter says ‘fully accredited ACGME-equivalent’, a material terminology conflict. No ACGME approval was independently verified.",
     "boardEligibilityNotice": "Johns Hopkins public curriculum lists prior pathways including general surgery, vascular surgery, plastic surgery, orthopaedic surgery or a three-year podiatric medicine and surgery residency, and states candidacy requires an ACGME-approved residency or CPME-approved three-year residency; it also says general-surgery residents may apply during research year(s). The directory and application pages do not resolve current year eligibility or licensure/work authorization details. Confirm directly with program and relevant credentialing bodies. Completion of this independent course confers no eligibility.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 35.460277777777776,
-    "verifiedSpecialtyHours": 32.391666666666666,
+    "verifiedExternalHours": 36.011944444444445,
+    "verifiedSpecialtyHours": 32.943333333333335,
     "verifiedFoundationHours": 3.068611111111111,
-    "hoursGap": 0.539722222222224,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2233,7 +2253,7 @@
       "unknownDurationCount": 0,
       "lectureEvidenceValid": true,
       "hasExternalLectureEvidence": true,
-      "isReady": false
+      "isReady": true
     }
   },
   {

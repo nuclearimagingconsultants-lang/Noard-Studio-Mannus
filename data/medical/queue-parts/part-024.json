@@ -3335,8 +3335,8 @@
       "planBasis": "Illustrative independent-study plan, not measured instruction or clinical training: 13.4525 hours verified public lecture viewing; 22.5 hours reading; 20 hours case/slide practice; 10 hours written assignments/questions; 6.0475 hours review and capstone synthesis. Video subtotal is not rounded upward and is reported separately.",
       "clinicalTrainingHours": 0
     },
-    "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X068_2b479b59.pdf",
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
+    "syllabusUrl": "/manus-storage/MED-X068_bd557059.pdf",
     "pdfIds": [
       "med-syllabus-MED-X068",
       "med-reading-1dc42f6fee1f",
@@ -3623,6 +3623,33 @@
         "durationSeconds": 4855,
         "sourceUrl": "https://cytopathology.org/page/liveonlineseries",
         "accessVerified": true
+      },
+      {
+        "id": "MED-X068-GAP-20261009-001",
+        "title": "A Joint Venture for Defeating Infectious Threats Post-Transplantation: Pathologists and Microbiologists Together",
+        "url": "https://www.youtube.com/watch?v=WwdB_EYfCXw",
+        "provider": "International Society for Heart and Lung Transplantation (ISHLT)",
+        "durationSeconds": 3714,
+        "sourceUrl": "https://www.ishlt.org/event-calendar/event/2024/06/27/default-calendar/a-joint-venture-for-defeating-infectious-threats-post-transplantation-pathologists-and-microbiologists-together",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X068-GAP-20261009-002",
+        "title": "Artificial Intelligence in Thoracic Transplant Pathology: Hype or Real Utility?",
+        "url": "https://www.youtube.com/watch?v=2Y4FSBCIogM",
+        "provider": "International Society for Heart and Lung Transplantation (ISHLT)",
+        "durationSeconds": 4067,
+        "sourceUrl": "https://www.ishlt.org/event-calendar/event/2026/07/21/default-calendar/pathology-professional-community-webinar-artificial-intelligence-in-thoracic-transplant-pathology-hype-or-real-utility-fba5fc67-e668-f111-9b47-000d3a0e9866",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X068-GAP-20261009-003",
+        "title": "The Thrombus That Connects Us",
+        "url": "https://www.youtube.com/watch?v=PP0da8CXRb8",
+        "provider": "International Society for Heart and Lung Transplantation (ISHLT)",
+        "durationSeconds": 3364,
+        "sourceUrl": "https://www.ishlt.org/about/news-detail/2026/05/08/catch-up-on-ishltv",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -3724,7 +3751,8 @@
           "V007",
           "V016",
           "V017",
-          "V027"
+          "V027",
+          "MED-X068-GAP-20261009-001"
         ]
       },
       {
@@ -3749,7 +3777,10 @@
           "V007",
           "V011",
           "V017",
-          "MED-X068-REC-001"
+          "MED-X068-REC-001",
+          "MED-X068-GAP-20261009-001",
+          "MED-X068-GAP-20261009-002",
+          "MED-X068-GAP-20261009-003"
         ]
       },
       {
@@ -3799,10 +3830,10 @@
     "boardStatus": "No separate ABPath pulmonary or thoracic pathology subspecialty certification examination is listed on ABPath’s public subspecialty exam page as checked 2026-10-07. AP primary certification is the broad relevant pathology examination; it is not a fellowship-specific board. No separate Pulmonary Disease board exam is a thoracic pathology fellowship exam. Do not infer individual AP eligibility from completion of this fellowship; the learner must meet current ABPath requirements.",
     "boardEligibilityNotice": "Independent education only; not ABPath-approved training, credentialing or eligibility determination. Confirm current individual eligibility directly with ABPath. The MGB program page states an anatomic pathology residency from an ACGME-accredited program or equivalent as a prerequisite to applying; that is an institutional prerequisite, not a guarantee of board eligibility.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 32.90777777777778,
-    "verifiedSpecialtyHours": 31.886944444444445,
+    "verifiedExternalHours": 36.00361111111111,
+    "verifiedSpecialtyHours": 34.98277777777778,
     "verifiedFoundationHours": 1.0208333333333333,
-    "hoursGap": 3.092222222222219,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3817,7 +3848,7 @@
       "unknownDurationCount": 0,
       "lectureEvidenceValid": true,
       "hasExternalLectureEvidence": true,
-      "isReady": false
+      "isReady": true
     }
   },
   {

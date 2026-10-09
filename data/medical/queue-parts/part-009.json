@@ -2372,8 +2372,8 @@
       "planTotal": 120,
       "breakdown": "36 hours proposed eventual recorded lecture (not yet available); 48 hours reading and source comparison; 24 hours case/problem practice; 12 hours review and assessment. This is a learner study plan, not observed training or clinical service hours."
     },
-    "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-102_37a75817.pdf",
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
+    "syllabusUrl": "/manus-storage/MED-102_e28fa213.pdf",
     "pdfIds": [
       "med-syllabus-MED-102",
       "med-reading-f030a72ec291",
@@ -2699,6 +2699,24 @@
         "durationSeconds": 4846,
         "sourceUrl": "https://www.youtube.com/watch?v=11HvPxjwrHQ",
         "accessVerified": true
+      },
+      {
+        "id": "MED-102-GAP-20261009-INSOMNIA-CBTI-SILVERHILL",
+        "title": "Virtual Grand Rounds: Cognitive Behavioral Therapy for Insomnia (CBT-I)",
+        "url": "https://www.youtube.com/watch?v=Y5B0MQnE9qY",
+        "provider": "Silver Hill Hospital",
+        "durationSeconds": 4719,
+        "sourceUrl": "https://www.youtube.com/watch?v=Y5B0MQnE9qY",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-102-GAP-20261009-HYPERSOMNIA-IH-FOUNDATION",
+        "title": "Latest Research in IH - Dr. Emmanuel Mignot",
+        "url": "https://www.youtube.com/watch?v=4KiUtjpoRZU",
+        "provider": "Hypersomnia Foundation",
+        "durationSeconds": 3015,
+        "sourceUrl": "https://www.youtube.com/watch?v=4KiUtjpoRZU",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -2770,7 +2788,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "jMYhrCZ90qA",
-          "CWRU-SFBC-INSOMNIA-2022"
+          "CWRU-SFBC-INSOMNIA-2022",
+          "MED-102-GAP-20261009-INSOMNIA-CBTI-SILVERHILL"
         ]
       },
       {
@@ -2790,7 +2809,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "AASM-CENTRAL-HYPERSOMNOLENCE-2020-YT",
-          "STANFORD-NARCOLEPSY-OREXIN-2025"
+          "STANFORD-NARCOLEPSY-OREXIN-2025",
+          "MED-102-GAP-20261009-HYPERSOMNIA-IH-FOUNDATION"
         ]
       },
       {
@@ -2867,10 +2887,10 @@
     "boardStatus": "A separate Sleep Medicine subspecialty certification examination exists. ABIM administers the joint examination, developed by six ABMS boards; eligibility and primary-board prerequisites remain board-specific. ABIM requires current ABIM internal medicine certification and qualifying accredited training; ABP requires pediatric primary certification and qualifying training. Other co-sponsoring boards publish their own requirements. This is not a standalone primary specialty board or a course certificate.",
     "boardEligibilityNotice": "Independent self-study does not confer board eligibility. Eligibility depends on a recognized primary board, current policy, qualifying accredited clinical training, licensure, competency attestation, and each board’s application rules. Do not assume all fellowships are eligible for every board pathway. See ABIM and ABP sources; other-board candidates must verify directly with their board. No passing or certification guarantee.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 33.970388888888884,
-    "verifiedSpecialtyHours": 30.877055555555554,
+    "verifiedExternalHours": 36.11872222222222,
+    "verifiedSpecialtyHours": 33.025388888888884,
     "verifiedFoundationHours": 3.0933333333333333,
-    "hoursGap": 2.029611111111116,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2893,7 +2913,7 @@
       "unknownDurationCount": 0,
       "lectureEvidenceValid": true,
       "hasExternalLectureEvidence": true,
-      "isReady": false
+      "isReady": true
     }
   },
   {

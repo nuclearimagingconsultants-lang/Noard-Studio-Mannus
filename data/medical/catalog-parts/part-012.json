@@ -12867,7 +12867,8 @@
           "L2",
           "L3",
           "L6",
-          "MED135-ADD-017"
+          "MED135-ADD-017",
+          "MED-135-GAP-20261009-001"
         ],
         "casePractice": "Review a linked public reference case or atlas entry in its source viewer; document only descriptive features and differential. If no licensed image set is available, use written vignette; never export images.",
         "assessment": "Submit a one-page structured interpretation (adequacy; LM compartment pattern; IF; EM; clinical correlation; ranked differential; caveat) and answer the unit quiz with source citations."
@@ -12990,7 +12991,8 @@
         "lectureIds": [
           "L1",
           "L4",
-          "L6"
+          "L6",
+          "MED-135-GAP-20261009-002"
         ],
         "casePractice": "Review a linked public reference case or atlas entry in its source viewer; document only descriptive features and differential. If no licensed image set is available, use written vignette; never export images.",
         "assessment": "Submit a one-page structured interpretation (adequacy; LM compartment pattern; IF; EM; clinical correlation; ranked differential; caveat) and answer the unit quiz with source citations."
@@ -13942,6 +13944,60 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Distinct official UW kidney-biopsy conference. Mapping is limited to visible LM/IF/EM integration and IgA-pattern clinicopathologic teaching; no case facts are copied or retained. Free viewing is not permission to rehost or redistribute."
+      },
+      {
+        "id": "MED-135-GAP-20261009-001",
+        "title": "RUMC-RBC March 24th, 2022",
+        "url": "https://www.youtube.com/watch?v=L1z2MqN1fMI",
+        "sourceUrl": "https://www.youtube.com/@rumc-biopsyconference",
+        "provider": "Rush University Medical Center (RUMC) Renal Biopsy Conference",
+        "channel": "RUMC - Renal Biopsy Conference",
+        "observedDurationSeconds": 3492,
+        "durationEvidenceUrl": "https://m.youtube.com/watch?v=L1z2MqN1fMI",
+        "durationEvidenceMethod": "2026-10-09 direct public mobile watch-page extraction displayed the player time 0:00 / 58:12 and the ‘Watch full video’ control. The same page exposed the creator description, chapters, and transcript; no login or registration prompt was observed.",
+        "accessVerified": true,
+        "freeAccessStatus": "free public individual video; direct watch page and full-video control observed without payment, account, or registration requirement",
+        "category": "specialty",
+        "coverageUnits": [
+          4
+        ],
+        "accessEmbeddingNotes": "Description identifies Dr. Rodby presenting two patients with nephrotic syndrome; chapters include patient case studies, biopsy review and diagnosis, treatment, and follow-up. The accessible transcript begins with a detailed nephrotic presentation and discusses the differential including minimal-change disease, FSGS, membranous disease, and lupus. This is a focused nephrotic-pattern case conference, not comprehensive coverage of U4. Public watch/playback was observed; embedding permission and redistribution rights were not established.",
+        "publicationDate": "2022-05-02",
+        "verified_at": "2026-10-09T11:58:00Z",
+        "accessEvidenceObservation": "Public mobile player showed 0:00 / 58:12 and ‘Watch full video’; source page displayed creator description, chapters, and transcript.",
+        "topicBasis": "Direct page description says two nephrotic-syndrome patients; chapters name case study and biopsy review/diagnosis; public transcript discusses the biopsy differential.",
+        "durationSeconds": 3492,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Description identifies Dr. Rodby presenting two patients with nephrotic syndrome; chapters include patient case studies, biopsy review and diagnosis, treatment, and follow-up. The accessible transcript begins with a detailed nephrotic presentation and discusses the differential including minimal-change disease, FSGS, membranous disease, and lupus. This is a focused nephrotic-pattern case conference, not comprehensive coverage of U4. Public watch/playback was observed; embedding permission and redistribution rights were not established."
+      },
+      {
+        "id": "MED-135-GAP-20261009-002",
+        "title": "Kidney Pathology: Challenging Cases, Challenging Samples",
+        "url": "https://www.youtube.com/watch?v=sM8kwnXEt78",
+        "sourceUrl": "https://www.youtube.com/@glomcon",
+        "provider": "GlomCon Foundation",
+        "channel": "GlomCon Foundation",
+        "observedDurationSeconds": 361,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=sM8kwnXEt78",
+        "durationEvidenceMethod": "2026-10-09 direct public YouTube watch-page extraction displayed 0:00 / 6:01 and ‘Watch full video’; a transcript was available on that same source page. No login or registration prompt was observed.",
+        "accessVerified": true,
+        "freeAccessStatus": "free public individual video; direct watch page, full-video control, and transcript observed without payment, account, or registration requirement",
+        "category": "specialty",
+        "coverageUnits": [
+          8
+        ],
+        "accessEmbeddingNotes": "The direct description identifies renal pathologist Vanesa Bijol, MD, and a kidney-pathology session on challenging cases and samples. The public transcript covers a nephrotic patient with IgG lambda findings, IF interpretation, tubular protein-reabsorption granules, and Congo-red-positive amyloid deposits. This is a short, case-specific example supporting monoclonal/amyloid biopsy interpretation, not comprehensive coverage of U8. Public viewing was observed; embedding and redistribution rights were not established.",
+        "publicationDate": "2024-11-12",
+        "verified_at": "2026-10-09T11:56:00Z",
+        "accessEvidenceObservation": "Direct public page displayed a 6:01 player and ‘Watch full video’ control; the transcript was accessible on the page.",
+        "topicBasis": "Direct page title/description names kidney pathology and challenging samples; transcript discusses an IgG-lambda nephrotic biopsy and Congo-red-positive amyloid.",
+        "durationSeconds": 361,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "The direct description identifies renal pathologist Vanesa Bijol, MD, and a kidney-pathology session on challenging cases and samples. The public transcript covers a nephrotic patient with IgG lambda findings, IF interpretation, tubular protein-reabsorption granules, and Congo-red-positive amyloid deposits. This is a short, case-specific example supporting monoclonal/amyloid biopsy interpretation, not comprehensive coverage of U8. Public viewing was observed; embedding and redistribution rights were not established."
       }
     ],
     "unitMap": [
@@ -14009,7 +14065,8 @@
           "L2",
           "L3",
           "L6",
-          "MED135-ADD-017"
+          "MED135-ADD-017",
+          "MED-135-GAP-20261009-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -14077,7 +14134,8 @@
         "lectureIds": [
           "L1",
           "L4",
-          "L6"
+          "L6",
+          "MED-135-GAP-20261009-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -14149,7 +14207,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 3.896,
+      "hoursToTarget": 2.825,
       "topicGaps": [
         "Added distinct free recordings improve coverage of kidney biopsy IF/EM, broad nephritic and tubulointerstitial patterns, lupus histopathology and acute allograft T-cell-mediated rejection. Each mapping is adjunctive and does not replace current classification or disease-specific guidance.",
         "Unresolved recorded-topic gaps include focused current IgAN/IgAV and Oxford scoring; ANCA/anti-GBM pathology; MCD/FSGS/membranous interpretation beyond existing general recordings; monoclonal and organized-deposit typing; diabetic, hereditary and vascular disease; transplant AMR/Banff update, infection and ancillary/molecular testing; specimen triage, QC, autopsy/excision, and integrated reporting.",
@@ -15084,10 +15142,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 32.10444444444445,
-      "verifiedSpecialtyHours": 30.205277777777777,
+      "verifiedExternalHours": 33.17472222222222,
+      "verifiedSpecialtyHours": 31.275555555555556,
       "verifiedFoundationHours": 1.8991666666666667,
-      "hoursGap": 3.8955555555555534,
+      "hoursGap": 2.825277777777778,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
@@ -15419,7 +15477,7 @@
         "fictionalCase": false
       }
     ],
-    "syllabusUrl": "/manus-storage/MED-135_baf0014c.pdf"
+    "syllabusUrl": "/manus-storage/MED-135_b8691ecb.pdf"
   },
   {
     "id": "MED-136",
