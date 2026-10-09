@@ -1,0 +1,102 @@
+{
+  "schema": "board-studio-medical-readings-v1",
+  "entries": [
+    {
+      "courseId": "MED-058",
+      "episodeId": "MED-058-EXPLAIN-102",
+      "file": "reading-chapters/MED-058-EXPLAIN-102.0e4a6ee56157ab9465d5f4fc1a69d4e513ab33cdbc7053a7e8cb2275697041dc.json",
+      "payloadSha256": "0e4a6ee56157ab9465d5f4fc1a69d4e513ab33cdbc7053a7e8cb2275697041dc",
+      "sourceScriptSha256": "33ba56d8f5e6a6f3e51f0a6c073723e72171af87a00fdb4df31da11318d6b92a",
+      "evidenceSelectionSha256": "71f92212121f1d1f5476a8fcf13775529c2eb35f4ca02991ae26c202b0a1391f"
+    },
+    {
+      "courseId": "MED-058",
+      "episodeId": "MED-058-EXPLAIN-103",
+      "file": "reading-chapters/MED-058-EXPLAIN-103.acc32a416eb209b0effa36ccdbec2d170e42f7146f9cbce8793a94a6dbb3b366.json",
+      "payloadSha256": "acc32a416eb209b0effa36ccdbec2d170e42f7146f9cbce8793a94a6dbb3b366",
+      "sourceScriptSha256": "9d37e1ee0a917403f87c00ea70d14ab267cbd4e0f50e44160e2451607b0213dd",
+      "evidenceSelectionSha256": "142e6d5e1dc06a11b7c36d76d18f1ed228f95284afdb71c463ec0e5f53da6511"
+    },
+    {
+      "courseId": "MED-059",
+      "episodeId": "MED-059-EXPLAIN-101",
+      "file": "reading-chapters/MED-059-EXPLAIN-101.79c23d342e43ef4f05ea0df13860d3ead8a381c1201827e320908cd62de06b2f.json",
+      "payloadSha256": "79c23d342e43ef4f05ea0df13860d3ead8a381c1201827e320908cd62de06b2f",
+      "sourceScriptSha256": "a1e00a320b61b799b0466ab1cf0143e6fa01ed44d8b860a1db0c6dc17da0a17c",
+      "evidenceSelectionSha256": "18d705c2e7e604c53f770ce4bac56881adee059e5bace175b40b5c5cdca07113"
+    },
+    {
+      "courseId": "MED-063",
+      "episodeId": "MED-063-EXPLAIN-108",
+      "file": "reading-chapters/MED-063-EXPLAIN-108.281f528ff1d99a4b04f00733b10feaf0e66c842ccb91fa810f87bc675dd1128f.json",
+      "payloadSha256": "281f528ff1d99a4b04f00733b10feaf0e66c842ccb91fa810f87bc675dd1128f",
+      "sourceScriptSha256": "0b3a6f32dfecb4bc410468e84c50d634a9cec339575818b00b2c8513910e4a54",
+      "evidenceSelectionSha256": "f89913f878d0fb82e32b3d36898e732f52c5330edb7ef4fba06bd43b1a3b23c2"
+    },
+    {
+      "courseId": "MED-078",
+      "episodeId": "MED-078-EXPLAIN-301",
+      "file": "reading-chapters/MED-078-EXPLAIN-301.76f6b180a140ca230771fec3e0b55963cd303f58a5b373da8a5194d565ea9b07.json",
+      "payloadSha256": "76f6b180a140ca230771fec3e0b55963cd303f58a5b373da8a5194d565ea9b07",
+      "sourceScriptSha256": "161cb41bdebc510cb4240d63d02037b3343b9d4b2722502758b17947b2368500",
+      "evidenceSelectionSha256": "3c74588b9cc51839748332a5620f541c13b60c7f5f8fc75f0f65e96b764242a2"
+    },
+    {
+      "courseId": "MED-103",
+      "episodeId": "MED-103-EXPLAIN-301",
+      "file": "reading-chapters/MED-103-EXPLAIN-301.8ba468f2f8aef187f658426c0cec30723f85fe85577bc1e88eeaa69df598d31b.json",
+      "payloadSha256": "8ba468f2f8aef187f658426c0cec30723f85fe85577bc1e88eeaa69df598d31b",
+      "sourceScriptSha256": "2bb303d2cf9d4ab051580d59a5c861288ab3c775bed78cae857886fd99a6fd54",
+      "evidenceSelectionSha256": "5ee6235fb719eceae27267367175014fab287cb1e3ff3dadde0841f7c91ace9f"
+    },
+    {
+      "courseId": "MED-104",
+      "episodeId": "MED-104-EXPLAIN-301",
+      "file": "reading-chapters/MED-104-EXPLAIN-301.1d72535c07fed3ebe1ecee194159132b71f46ff89097612d3c8bcea47ce5dd2b.json",
+      "payloadSha256": "1d72535c07fed3ebe1ecee194159132b71f46ff89097612d3c8bcea47ce5dd2b",
+      "sourceScriptSha256": "3f8e52b838730db5233782d1e9bf93140d9291e8e1a1700b9cdb356630c5361b",
+      "evidenceSelectionSha256": "99a9fcdc83e9fe58e5bf82db035dc0ec8e5a09fb8fce7ccb82be193201cd5379"
+    },
+    {
+      "courseId": "MED-110",
+      "episodeId": "MED-110-EXPLAIN-301",
+      "file": "reading-chapters/MED-110-EXPLAIN-301.cf2573605736ade424a1bd58b5cfab91e1d60ab0821f5c07b9b30a44c8999f0e.json",
+      "payloadSha256": "cf2573605736ade424a1bd58b5cfab91e1d60ab0821f5c07b9b30a44c8999f0e",
+      "sourceScriptSha256": "e8c46dd2f70a751c26b5fc6c1eacc8bb4841700e3ac216cda3f814c80eb273c5",
+      "evidenceSelectionSha256": "a808db9a71e2e42fbe60c717eadc82a37093986c2c2022b1dfdfe811ce83b3fc"
+    },
+    {
+      "courseId": "MED-120",
+      "episodeId": "MED-120-EXPLAIN-301",
+      "file": "reading-chapters/MED-120-EXPLAIN-301.7751062be3cb54c4661bec83af78dde659f668002be60baf434c7e594860bc2c.json",
+      "payloadSha256": "7751062be3cb54c4661bec83af78dde659f668002be60baf434c7e594860bc2c",
+      "sourceScriptSha256": "1b41832e5cfc3f8338ebd3aeb5ede85f60a5eeabc98b54a4f4d343d8eb9b6e3f",
+      "evidenceSelectionSha256": "c7c3cc2a2d5514622155c741990e8bd09e8ef162edc94012d3eedb3973e79626"
+    },
+    {
+      "courseId": "MED-210",
+      "episodeId": "MED-210-EXPLAIN-301",
+      "file": "reading-chapters/MED-210-EXPLAIN-301.39958422144a6b9ca51ae9321ec3fa2dc0a1c21b7687bd10c07062bf75f01766.json",
+      "payloadSha256": "39958422144a6b9ca51ae9321ec3fa2dc0a1c21b7687bd10c07062bf75f01766",
+      "sourceScriptSha256": "b05bb0c7b721f4a127e090e3bd83de0478c91a7d40bb1f3963fe86f844c634be",
+      "evidenceSelectionSha256": "596f5305b7a70364edafc4f848a9760332819992eb103e7eba6e131c26a077a7"
+    },
+    {
+      "courseId": "MED-X009",
+      "episodeId": "MED-X009-EXPLAIN-301",
+      "file": "reading-chapters/MED-X009-EXPLAIN-301.e73a3eb851b7b1645349fbc47685acb27829f9130015dc74e15732b9c7b46fed.json",
+      "payloadSha256": "e73a3eb851b7b1645349fbc47685acb27829f9130015dc74e15732b9c7b46fed",
+      "sourceScriptSha256": "7629c9d3f8a285e8b34560242b35de5bff47cbc6f4f9a3368059d0a52769dba2",
+      "evidenceSelectionSha256": "a075f250ef5fc7d44c4cd06b06b0191c358474e971426957d77c8169e9eed151"
+    },
+    {
+      "courseId": "MED-X064",
+      "episodeId": "MED-X064-EXPLAIN-301",
+      "file": "reading-chapters/MED-X064-EXPLAIN-301.1d866be5711e8c40167792742d09fcde141cb8a79a3113553fcd72d5a183b1f1.json",
+      "payloadSha256": "1d866be5711e8c40167792742d09fcde141cb8a79a3113553fcd72d5a183b1f1",
+      "sourceScriptSha256": "b12ef322d29393a0f4cf6174023d887742b037205ca8988877e7af03306b82cf",
+      "evidenceSelectionSha256": "0e193cd69d79dd1f28d2c3d413f336ca68417ce07ab4118c0cb1e3e0b19a66f2"
+    }
+  ],
+  "updatedAt": "2026-10-09T13:24:00.609741+00:00"
+}

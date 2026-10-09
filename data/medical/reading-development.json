@@ -1,0 +1,686 @@
+{
+  "schema": "board-studio-medical-reading-development-v1",
+  "updatedAt": "2026-10-09T13:25:31.594320+00:00",
+  "entries": [
+    {
+      "courseId": "MED-022",
+      "episodeId": "MED-022-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-058",
+      "episodeId": "MED-058-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-059",
+      "episodeId": "MED-059-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-063",
+      "episodeId": "MED-063-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-064",
+      "episodeId": "MED-064-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-065",
+      "episodeId": "MED-065-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-066",
+      "episodeId": "MED-066-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-069",
+      "episodeId": "MED-069-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-073",
+      "episodeId": "MED-073-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-075",
+      "episodeId": "MED-075-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-078",
+      "episodeId": "MED-078-EXPLAIN-301",
+      "status": "source_checked"
+    },
+    {
+      "courseId": "MED-079",
+      "episodeId": "MED-079-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-080",
+      "episodeId": "MED-080-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-083",
+      "episodeId": "MED-083-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-084",
+      "episodeId": "MED-084-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-085",
+      "episodeId": "MED-085-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-086",
+      "episodeId": "MED-086-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-087",
+      "episodeId": "MED-087-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-091",
+      "episodeId": "MED-091-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-093",
+      "episodeId": "MED-093-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-094",
+      "episodeId": "MED-094-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-095",
+      "episodeId": "MED-095-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-099",
+      "episodeId": "MED-099-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-101",
+      "episodeId": "MED-101-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-103",
+      "episodeId": "MED-103-EXPLAIN-301",
+      "status": "source_checked"
+    },
+    {
+      "courseId": "MED-104",
+      "episodeId": "MED-104-EXPLAIN-301",
+      "status": "source_checked"
+    },
+    {
+      "courseId": "MED-105",
+      "episodeId": "MED-105-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-107",
+      "episodeId": "MED-107-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-108",
+      "episodeId": "MED-108-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-110",
+      "episodeId": "MED-110-EXPLAIN-301",
+      "status": "source_checked"
+    },
+    {
+      "courseId": "MED-112",
+      "episodeId": "MED-112-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-114",
+      "episodeId": "MED-114-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-120",
+      "episodeId": "MED-120-EXPLAIN-301",
+      "status": "source_checked"
+    },
+    {
+      "courseId": "MED-121",
+      "episodeId": "MED-121-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-127",
+      "episodeId": "MED-127-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-130",
+      "episodeId": "MED-130-EXPLAIN-301",
+      "status": "source_unavailable"
+    },
+    {
+      "courseId": "MED-135",
+      "episodeId": "MED-135-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-136",
+      "episodeId": "MED-136-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-137",
+      "episodeId": "MED-137-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-138",
+      "episodeId": "MED-138-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-140",
+      "episodeId": "MED-140-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-150",
+      "episodeId": "MED-150-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-151",
+      "episodeId": "MED-151-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-152",
+      "episodeId": "MED-152-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-153",
+      "episodeId": "MED-153-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-154",
+      "episodeId": "MED-154-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-155",
+      "episodeId": "MED-155-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-156",
+      "episodeId": "MED-156-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-157",
+      "episodeId": "MED-157-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-164",
+      "episodeId": "MED-164-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-165",
+      "episodeId": "MED-165-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-167",
+      "episodeId": "MED-167-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-168",
+      "episodeId": "MED-168-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-169",
+      "episodeId": "MED-169-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-170",
+      "episodeId": "MED-170-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-171",
+      "episodeId": "MED-171-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-175",
+      "episodeId": "MED-175-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-176",
+      "episodeId": "MED-176-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-178",
+      "episodeId": "MED-178-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-179",
+      "episodeId": "MED-179-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-181",
+      "episodeId": "MED-181-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-182",
+      "episodeId": "MED-182-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-183",
+      "episodeId": "MED-183-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-184",
+      "episodeId": "MED-184-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-196",
+      "episodeId": "MED-196-EXPLAIN-301",
+      "status": "source_unavailable"
+    },
+    {
+      "courseId": "MED-198",
+      "episodeId": "MED-198-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-199",
+      "episodeId": "MED-199-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-202",
+      "episodeId": "MED-202-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-203",
+      "episodeId": "MED-203-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-205",
+      "episodeId": "MED-205-EXPLAIN-301",
+      "status": "source_unavailable"
+    },
+    {
+      "courseId": "MED-208",
+      "episodeId": "MED-208-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-209",
+      "episodeId": "MED-209-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-210",
+      "episodeId": "MED-210-EXPLAIN-301",
+      "status": "source_checked"
+    },
+    {
+      "courseId": "MED-212",
+      "episodeId": "MED-212-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-214",
+      "episodeId": "MED-214-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-216",
+      "episodeId": "MED-216-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X009",
+      "episodeId": "MED-X009-EXPLAIN-301",
+      "status": "source_checked"
+    },
+    {
+      "courseId": "MED-X011",
+      "episodeId": "MED-X011-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X012",
+      "episodeId": "MED-X012-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X013",
+      "episodeId": "MED-X013-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X015",
+      "episodeId": "MED-X015-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X019",
+      "episodeId": "MED-X019-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X022",
+      "episodeId": "MED-X022-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X024",
+      "episodeId": "MED-X024-EXPLAIN-301",
+      "status": "source_unavailable"
+    },
+    {
+      "courseId": "MED-X025",
+      "episodeId": "MED-X025-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X026",
+      "episodeId": "MED-X026-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X028",
+      "episodeId": "MED-X028-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X031",
+      "episodeId": "MED-X031-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X035",
+      "episodeId": "MED-X035-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X036",
+      "episodeId": "MED-X036-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X037",
+      "episodeId": "MED-X037-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X040",
+      "episodeId": "MED-X040-EXPLAIN-301",
+      "status": "source_unavailable"
+    },
+    {
+      "courseId": "MED-X041",
+      "episodeId": "MED-X041-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X042",
+      "episodeId": "MED-X042-EXPLAIN-301",
+      "status": "source_unavailable"
+    },
+    {
+      "courseId": "MED-X044",
+      "episodeId": "MED-X044-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X045",
+      "episodeId": "MED-X045-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X047",
+      "episodeId": "MED-X047-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X048",
+      "episodeId": "MED-X048-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X049",
+      "episodeId": "MED-X049-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X050",
+      "episodeId": "MED-X050-EXPLAIN-301",
+      "status": "source_unavailable"
+    },
+    {
+      "courseId": "MED-X051",
+      "episodeId": "MED-X051-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X052",
+      "episodeId": "MED-X052-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X053",
+      "episodeId": "MED-X053-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X056",
+      "episodeId": "MED-X056-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X057",
+      "episodeId": "MED-X057-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X058",
+      "episodeId": "MED-X058-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X059",
+      "episodeId": "MED-X059-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X060",
+      "episodeId": "MED-X060-EXPLAIN-301",
+      "status": "source_unavailable"
+    },
+    {
+      "courseId": "MED-X061",
+      "episodeId": "MED-X061-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X064",
+      "episodeId": "MED-X064-EXPLAIN-301",
+      "status": "source_checked"
+    },
+    {
+      "courseId": "MED-X066",
+      "episodeId": "MED-X066-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X071",
+      "episodeId": "MED-X071-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X072",
+      "episodeId": "MED-X072-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X074",
+      "episodeId": "MED-X074-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X075",
+      "episodeId": "MED-X075-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X079",
+      "episodeId": "MED-X079-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X081",
+      "episodeId": "MED-X081-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X084",
+      "episodeId": "MED-X084-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X085",
+      "episodeId": "MED-X085-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X086",
+      "episodeId": "MED-X086-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X089",
+      "episodeId": "MED-X089-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X090",
+      "episodeId": "MED-X090-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X091",
+      "episodeId": "MED-X091-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X093",
+      "episodeId": "MED-X093-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X096",
+      "episodeId": "MED-X096-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X097",
+      "episodeId": "MED-X097-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X100",
+      "episodeId": "MED-X100-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X104",
+      "episodeId": "MED-X104-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X106",
+      "episodeId": "MED-X106-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X107",
+      "episodeId": "MED-X107-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X108",
+      "episodeId": "MED-X108-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X110",
+      "episodeId": "MED-X110-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X112",
+      "episodeId": "MED-X112-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X114",
+      "episodeId": "MED-X114-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X115",
+      "episodeId": "MED-X115-EXPLAIN-301",
+      "status": "source_review_pending"
+    },
+    {
+      "courseId": "MED-X117",
+      "episodeId": "MED-X117-EXPLAIN-301",
+      "status": "source_review_pending"
+    }
+  ]
+}

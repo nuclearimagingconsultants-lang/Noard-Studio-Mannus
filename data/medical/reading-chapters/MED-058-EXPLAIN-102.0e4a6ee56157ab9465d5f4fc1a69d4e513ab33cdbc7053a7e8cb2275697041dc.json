@@ -1,0 +1,74 @@
+{
+  "episodeId": "MED-058-EXPLAIN-102",
+  "courseId": "MED-058",
+  "title": "Report, lay summary, and communication: map the FDA MQSA elements",
+  "description": "Source-bounded Unit 4: separate mammography-report and patient-lay-summary facility fields and retain the FDA page’s conditional timing language.",
+  "educationalLimits": "Independent-study source-literacy exercise only. All examples and worksheets are fictional. The chapter does not direct clinical or administrative action, interpret images, assign findings, create patient communications, evaluate real records, determine facility status, or provide a legal conclusion. It does not establish individual or facility qualification, authorization, or any outcome.",
+  "coverageGaps": [
+    "The retrieved FDA page explicitly says that its information is not an exhaustive list of everything in the 2023 MQSA Final Rule; this staged chapter does not supply omitted requirements.",
+    "Only one cached FDA page was used. No additional source was available here for broader operational workflow, other regulatory material, state or local requirements, or source updates after the cached retrieval.",
+    "No real mammography report, patient lay summary, communication record, timing record, or audit dataset is reviewed in this independent-study exercise."
+  ],
+  "sourceUrls": [
+    "https://www.fda.gov/radiation-emitting-products/mammography-quality-standards-act-mqsa-and-mqsa-program/important-information-final-rule-amend-mammography-quality-standards-act-mqsa"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "33ba56d8f5e6a6f3e51f0a6c073723e72171af87a00fdb4df31da11318d6b92a",
+  "visualSha256": "69133c2e95d600c8c205e51d7a493fd28f25b86f81ed4e780cb78d787012b016",
+  "evidenceSelectionSha256": "71f92212121f1d1f5476a8fcf13775529c2eb35f4ca02991ae26c202b0a1391f",
+  "reviewedAt": "2026-10-09T12:36:22.996093+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://www.fda.gov/radiation-emitting-products/mammography-quality-standards-act-mqsa-and-mqsa-program/important-information-final-rule-amend-mammography-quality-standards-act-mqsa",
+      "textSha256": "aed1588ce4fb45a903e22560ccc0b21bfecc2e03dd70d1a6d468cd7cc8bafa0d"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "Separate the two facility field sets",
+      "narration": "This independent-study chapter reads one cached FDA page as a document map. In its Mammography Reports section, the page states: “Name and location of the facility performing the exam, (at a minimum the city, State, ZIP code, and telephone number).” The same section also lists an overall final assessment of findings and an overall assessment of breast density. Those are report-side elements on this page; this exercise does not ask anyone to assign an assessment from an image. The Patient Lay Summaries section uses a different field set. It says the lay summary includes the patient’s name and “the name, address, and telephone number of the facility performing the exam.” Read the two statements literally. The report identifies the facility by name and location, with the stated minimum of city, State, ZIP code, and telephone number. The lay summary identifies the patient and gives the facility’s name, address, and telephone number. The page presents these separately, so a source map should not substitute the report’s minimum city/State/ZIP/telephone description for the lay summary’s name/address/telephone description, or reverse them. The teaching point is document distinction, not creation of a real record or a determination about one.",
+      "teachingLabels": [
+        "Report facility fields: name; minimum city, State, ZIP code, telephone number",
+        "Lay-summary facility fields: patient name; facility name, address, telephone number",
+        "Keep the two FDA field sets separate"
+      ],
+      "visualPlan": "Original conceptual two-column field map, labeled “mammography report” and “patient lay summary”; text only, no copied form or clinical image."
+    },
+    {
+      "title": "Trace density from report to lay summary",
+      "narration": "The FDA page says that, depending on whether breast density is dense or not dense “as indicated by the mammography report,” the patient lay summary must include one of two notification statements. The source therefore supplies a sequence for reading: first, the report indicates dense or not-dense status; then, the lay summary contains the corresponding notification statement. The page’s dense statement says dense tissue can make breast cancer harder to find on a mammogram, raises the risk of developing breast cancer, and that other imaging tests in addition to a mammogram may help find cancers in some people. It also says to talk with a healthcare provider about breast density, breast-cancer risks, and the individual situation. The page supplies a distinct not-dense statement as well. Use a fictional local-only worksheet to make the document trail visible: report density status; matching lay-summary statement; and a separate entry for the lay-summary artifact. If the fictional worksheet shows only a density status, it shows only that one entered item; it does not display the lay-summary field set or its notification statement. This example does not infer an assessment, recommend an imaging test, or draw a conclusion about any actual person or facility. It simply prevents a report-side density entry from being confused with the patient-lay-summary communication named by the FDA page.",
+      "teachingLabels": [
+        "Density status is indicated by the mammography report",
+        "Lay summary uses dense or not-dense notification statement",
+        "Fictional worksheet: track artifacts separately"
+      ],
+      "visualPlan": "Original conceptual three-step trace: report density status → matching lay-summary statement → separate lay-summary artifact; fictional labels only."
+    },
+    {
+      "title": "Anchor each timing example to its stated event",
+      "narration": "The FDA page gives a seven-calendar-day example with specific condition, recipients, and starting event. When the final assessment category is “Suspicious” or “Highly Suggestive of Malignancy,” the mammography report goes to the health care provider and the patient lay summary goes to the patient within seven calendar days of the date the mammogram was interpreted. For this seven-day statement, the starting event is the interpretation date. It is not stated there as the report date, a lay-summary date, or a generic communication date. The page gives a different thirty-calendar-day statement for “Incomplete: Need prior mammograms for comparison.” It says the facility issues a follow-up report with a final overall assessment within thirty calendar days of the initial report, whether or not comparison views are obtained. For this thirty-day statement, the starting event is the initial report, not the interpretation date. A fictional timing worksheet that omits the named assessment, the relevant starting date, or the document described by the statement cannot be matched to either source-stated example. The worksheet is an exercise in preserving conditions and events; it is not an inspection finding, a legal conclusion, or an operational instruction.",
+      "teachingLabels": [
+        "Seven days: suspicious or highly suggestive; starts at interpretation date",
+        "Thirty days: need prior mammograms for comparison; starts at initial report",
+        "Retain condition, recipient, document, and starting event"
+      ],
+      "visualPlan": "Original conceptual paired timelines: seven-day line starts at “mammogram interpreted”; thirty-day line starts at “initial report”; fictional text labels only."
+    },
+    {
+      "title": "Use the page within its stated scope",
+      "narration": "The cached FDA page states that the annual medical outcomes audit includes positive predictive value, cancer detection rate, and recall rate for each interpreting physician and for the facility as a whole. In this chapter, those are names of source-listed audit elements, not values to calculate or performance conclusions to make. A fictional audit card with no figures can label those three elements while leaving every metric value absent. That preserves the difference between recognizing a term on a source page and manufacturing a result from a teaching exercise. The page also says that its information is not an exhaustive list of everything in the 2023 MQSA Final Rule and describes the material below as an overview and/or excerpts of some additional requirements. Accordingly, this staged chapter stays limited to the quoted page and its named report, lay-summary, timing, and audit statements. It does not fill in unprovided operational details, additional requirements, or other sources. The recap is source discipline: name the artifact, keep report and lay-summary fields distinct, preserve the condition and starting event of each timing statement, and label what the single retrieved page does not establish. This is independent-study source literacy only, not a real-record review or a basis for individual, facility, or legal conclusions.",
+      "teachingLabels": [
+        "Source-listed annual audit elements: PPV, cancer detection rate, recall rate",
+        "FDA page says its overview is not exhaustive",
+        "Independent-study source literacy; no real-record conclusion"
+      ],
+      "visualPlan": "Original conceptual source-scope card: “stated on page” versus “not established by this single page”; no metrics, records, or external logos."
+    }
+  ]
+}

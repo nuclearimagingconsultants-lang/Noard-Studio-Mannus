@@ -1,0 +1,81 @@
+{
+  "episodeId": "MED-078-EXPLAIN-301",
+  "courseId": "MED-078",
+  "title": "Reading the ABR Pediatric Radiology Study Guide without mistaking it for a blueprint",
+  "description": "A source-grounded lesson in interpreting the ABR's public pediatric radiology study-guide description: distinguish an outline of topics that may be covered from an exhaustive list or a published weighting scheme, and use it as one bounded study-planning aid. This is board-scope literacy, not clinical interpretation or exam-readiness evidence.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility or a passing guarantee.",
+  "coverageGaps": [
+    "This chapter uses a bounded cached excerpt of the ABR page, not a fresh full-page or study-guide review; parent fresh source audit remains pending.",
+    "The cited excerpt does not provide topic weights, a complete topic list, item counts, scoring details, or evidence that a particular study method improves exam performance.",
+    "No clinical image interpretation, patient-specific pathway, diagnosis, treatment, or current candidate eligibility advice is provided.",
+    "This is a partial chapter; it does not fulfill the course video floor and creates zero counted video minutes.",
+    "Human clinical review has not been performed."
+  ],
+  "sourceUrls": [
+    "https://www.theabr.org/get-certified/subspecialties/"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "161cb41bdebc510cb4240d63d02037b3343b9d4b2722502758b17947b2368500",
+  "visualSha256": "f5b49a7c0574b706831e9806ef8219e173f1b6415c7302f73eea90303112b86f",
+  "evidenceSelectionSha256": "3c74588b9cc51839748332a5620f541c13b60c7f5f8fc75f0f65e96b764242a2",
+  "reviewedAt": "2026-10-09T13:21:06.688457+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://www.theabr.org/get-certified/subspecialties/",
+      "textSha256": "96f23760df6da3ab4dd7b5a4b4e1a5d221d071fec56dc3d1c9076d2b01f13d7b"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "An outline is a boundary aid, not a promise",
+      "narration": "The American Board of Radiology describes its pediatric radiology study guide as an outline of topics that may be covered, and explicitly calls it a general overview rather than an exhaustive list.[1] Those two phrases set a useful boundary. An outline can help a learner notice the broad territory an exam may sample. It cannot, by itself, establish that every listed subject will appear, that omitted details are irrelevant, or that topics receive equal attention. The page does not give a topic-by-topic weighting table in the cited passage. Treat the outline as a map for organizing questions, not as a forecast of the exact examination. This distinction matters in an integrated subspecialty course: a course unit describes what this curriculum teaches, while an exam guide describes one board publisher's high-level preparation resource. They are related, but they are not interchangeable documents.",
+      "teachingLabels": [
+        "Topics may be covered; not exhaustive",
+        "Outline is not a weighting table"
+      ],
+      "visualPlan": "A two-layer conceptual schematic: a broad, lightly shaded map labeled 'outline of topics that may be covered' over an open field labeled 'not exhaustive'; no exam questions, patient images, or implied topic weights."
+    },
+    {
+      "title": "Separate authority from completeness",
+      "narration": "An official source is authoritative for what that source actually says. Its official status does not silently add details that the page does not publish. Here, the ABR page says study materials from other organizations will not always match ABR exam format, scope, or difficulty.[1] That is a reason to avoid treating any outside course, question bank, or lecture as a substitute for the board's own description. It is not a claim that all outside material is inaccurate, nor a ranking of resources. A careful learner records the source of each study objective and keeps its limits attached. If a teaching resource expands a short heading into a detailed lesson, label the expansion as the course's educational elaboration, not as an official ABR weighting or requirement. In the same way, an institutional curriculum, an independent self-study chapter, and an exam outline answer different questions.",
+      "teachingLabels": [
+        "Official statement ≠ exhaustive content",
+        "Outside resources may differ in format, scope, difficulty"
+      ],
+      "visualPlan": "A conceptual source ladder with separate boxes for 'board page: what it states', 'course: teaching elaboration', and 'other resource: supplementary'; arrows are labeled 'compare, do not conflate'."
+    },
+    {
+      "title": "Turn a topic heading into a traceable study plan",
+      "narration": "A practical study plan can preserve this distinction with three columns in a private study note: the exact wording from the board resource; the learning question you want to answer; and the material you chose to explore it. Keep the first column short and quoted accurately. Write the second in your own language. In the third, identify whether the material is an official resource, a course explanation, or another source. This is a planning technique, not an ABR-prescribed method. It makes gaps visible without claiming that a gap predicts an exam question. For example, if a guide heading names a practice area, a learner may write one concept question and list the course segment or reading used to study it. If the selected resource does not answer that question, mark it unresolved or seek an appropriate source rather than silently expanding the official heading. Record uncertainty as uncertainty, not as a hidden syllabus.",
+      "teachingLabels": [
+        "Quote the source; label your elaboration",
+        "Track unresolved questions"
+      ],
+      "visualPlan": "A blank three-column study-note schematic labeled 'official wording', 'my learning question', and 'resource used / unresolved'; use a generic topic placeholder with no invented board categories."
+    },
+    {
+      "title": "Worked conceptual illustration: the heading-to-question chain",
+      "narration": "Consider this author-created fictional study-planning example, not a clinical case and not an ABR sample question. A learner sees a short practice-area heading in the board's guide. The learner writes that heading verbatim in the source column, then asks, 'What core ideas does my current course actually teach under this heading?' The learner links a course segment that addresses those ideas and notes what it does not cover. The next line is deliberately cautious: 'The guide says topics may be covered; this course segment is one study aid, not proof of exam weighting or completeness.' If the learner finds a second resource, its format and scope are checked independently rather than assumed equivalent. The useful outcome is not a prediction about the exam. It is an auditable chain from board wording to a personal learning question to a clearly labeled teaching resource. This illustration demonstrates organization only; it supplies no claim about a specific question, score, or probability of success.",
+      "teachingLabels": [
+        "Fictional study-planning example",
+        "No predicted question or weighting"
+      ],
+      "visualPlan": "A three-node flow diagram: 'verbatim public heading' → 'learner's own question' → 'selected course resource plus noted gap'; add a side label 'not a prediction or weighting'."
+    },
+    {
+      "title": "Use readiness checks for interface familiarity, not content validation",
+      "narration": "The ABR page describes its Exam Readiness Check as a way to become comfortable with the computer-based exam interface, navigation, and tools before exam day.[1] Keep that purpose separate from the study-plan exercise. A technical or interface check does not establish mastery of pediatric radiology, certify a candidate's eligibility, or forecast a result. Likewise, a well-organized reading map does not demonstrate clinical competence. The cited public passage gives no topic weights, exhaustive syllabus, item counts, or assurance that a particular study strategy improves results. Those omissions are limits of the evidence available for this lesson, not invitations to fill in details from guesswork. Use current board instructions for board matters, and treat this chapter as an independent self-study aid only. It neither validates nor replaces supervised clinical learning, board review, or human review of its medical content.",
+      "teachingLabels": [
+        "Readiness check: interface only",
+        "No eligibility, competence, or pass claim"
+      ],
+      "visualPlan": "Two separate labeled panels: 'readiness check: interface/navigation/tools' and 'content study: learner's own plan'; keep a visible divider and a footer 'neither is a pass guarantee'."
+    }
+  ]
+}

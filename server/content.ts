@@ -23,6 +23,7 @@ import {
   resolveValidatedManifestSources,
 } from "./publicContentFeed";
 import { storageGetSignedUrl } from "./storage";
+import { registerMedicalReadingRoutes } from "./medicalReadings";
 import { getPublicAssetUrl } from "./publicAssetOrigin";
 
 const DATA_DIR = path.resolve(import.meta.dirname, "..", "data");
@@ -712,6 +713,7 @@ function sendSnapshotPart(part: "catalog" | "media" | "assetIndex") {
 }
 
 export function registerContentRoutes(app: Express) {
+  registerMedicalReadingRoutes(app);
   app.get("/api/content/catalog", sendSnapshotPart("catalog"));
   app.get("/api/content/media", sendSnapshotPart("media"));
   app.get("/api/content/asset-index", sendSnapshotPart("assetIndex"));

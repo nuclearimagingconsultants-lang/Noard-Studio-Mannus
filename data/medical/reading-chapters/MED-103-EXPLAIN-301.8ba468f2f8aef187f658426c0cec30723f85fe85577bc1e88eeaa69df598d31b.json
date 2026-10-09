@@ -1,0 +1,85 @@
+{
+  "episodeId": "MED-103-EXPLAIN-301",
+  "courseId": "MED-103",
+  "title": "Functional Mapping Is Not a Seizure-Onset Map",
+  "description": "A partial Unit 7 lesson separating functional-risk mapping from seizure-onset hypotheses in epilepsy surgery evaluation, using only the bounded excerpt of a peer-reviewed narrative review and an original fictional conference illustration.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility or a passing guarantee.",
+  "coverageGaps": [
+    "This chapter is partial, does not fulfill the video floor and is not human-clinician-reviewed.",
+    "It distinguishes functional mapping from seizure-onset localization but does not teach comprehensive epilepsy presurgical evaluation, sEEG implantation or interpretation, operative planning, or clinical decision-making.",
+    "The single source is a 2022 narrative review excerpt, not a current guideline, device manual, or jurisdiction-specific standard; the cached selection does not include the full article.",
+    "It does not establish map accuracy, patient-specific function, seizure outcomes, or the safety or suitability of any intervention."
+  ],
+  "sourceUrls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9669234/"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "2bb303d2cf9d4ab051580d59a5c861288ab3c775bed78cae857886fd99a6fd54",
+  "visualSha256": "5ba96d174fafa67ba600313e1ed3250b7549cfce21c856fa14acbcb20c1d3def",
+  "evidenceSelectionSha256": "5ee6235fb719eceae27267367175014fab287cb1e3ff3dadde0841f7c91ace9f",
+  "reviewedAt": "2026-10-09T13:21:14.362370+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9669234/",
+      "textSha256": "8197362d0d21058dc749f28e13af50013dd28f76b77971a97556e50f60fbd9ad"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "Two questions, not one map",
+      "narration": "Epilepsy surgery reasoning can involve two different questions: where seizure activity may begin, and where important function may be at risk. The review describes presurgical localization using seizure history, video EEG, imaging, and other studies, then separately describes noninvasive functional mapping as a way to understand the epileptic–eloquent interface and counsel about surgical risk or neuromodulatory side effects [1]. Keeping those questions distinct prevents a common reasoning shortcut: treating a map of language, movement, vision, or memory as if it independently proves the seizure-onset zone. Here, “function map” means information about a function-related region; “onset hypothesis” means the working account of where seizures arise. These are conceptual labels for learning, not a clinical algorithm. A conference should state which question each finding helps answer and what remains uncertain.",
+      "teachingLabels": [
+        "Separate onset from function",
+        "Name each test's question",
+        "Keep uncertainty visible"
+      ],
+      "visualPlan": "Conceptual schematic with two parallel lanes: a seizure-onset hypothesis lane and a functional-risk lane, each collecting different evidence and meeting at a multidisciplinary decision point; no anatomical patient image."
+    },
+    {
+      "title": "What noninvasive functional mapping contributes",
+      "narration": "The review names speech and language, sensorimotor function, vision, and memory as functions that noninvasive mapping may help localize in relation to the epileptic–eloquent interface [1]. It describes functional MRI as measuring MRI correlates of blood oxygenation while a person performs tasks in the scanner [1]. That description points to an important interpretive boundary: a task-based signal is evidence about the tested task under the conditions of that examination. It is not, by itself, a complete account of every ability or a direct measurement of seizure onset. The review also notes that mapping subtlety depends on patient participation and that motor localization can be performed in young children [1]. This is not a guarantee that a particular task, participant, or scan will produce a clear or complete result. The chapter therefore treats mapping as one input for discussing functional risk, not as a stand-alone answer.",
+      "teachingLabels": [
+        "Task-linked fMRI signal",
+        "Participation affects subtlety",
+        "A map is one input"
+      ],
+      "visualPlan": "Simple task-to-signal diagram: participant performs a task, an fMRI signal is observed, and the result is labeled as task-linked evidence with participation and coverage limits; no scan image."
+    },
+    {
+      "title": "TMS and limits of inference",
+      "narration": "The review describes transcranial magnetic stimulation (TMS) as applying changing magnetic fields outside the head to induce electrical currents within the brain, and it presents TMS as a noninvasive method used to map language and motor function [1]. The same review reports headaches and scalp discomfort among side effects and describes seizure risk as small in the populations it discusses [1]. These are review-level statements, not an individualized risk estimate or permission to infer safety for a specific person. For learning purposes, ask what function was tested, whether the person could participate, and how the finding relates to the planned clinical question. Do not turn a positive or negative map into certainty about functional preservation, seizure onset, or outcome. The excerpt does not supply a protocol, threshold, or patient-specific interpretation rule, so none is offered here.",
+      "teachingLabels": [
+        "TMS maps selected functions",
+        "Review-level risk statements",
+        "No individual risk estimate"
+      ],
+      "visualPlan": "Abstract TMS concept graphic showing an external coil, a field-to-brain arrow, and separate labels for language/motor mapping and reported limits; not procedural positioning guidance."
+    },
+    {
+      "title": "Bring functional risk into conference reasoning",
+      "narration": "The review describes multidisciplinary epilepsy surgery conferences involving epileptologists, neurosurgeons, neuropsychologists, and neuroradiologists. It says neuropsychologists evaluate cognitive deficits that can help assess patient-specific morbidity, particularly for memory, naming, or speech, and that the conference may recommend further diagnostic studies, medical management, a definitive procedure, or intracranial EEG evaluation [1]. This supports a useful learning habit: record a finding beside the decision question it informs, then ask which disciplines should interpret it together. Functional mapping can inform discussion of a possible functional cost; it does not erase discordance in seizure-localization evidence. Nor does team consensus make an uncertain inference certain. This chapter is about organizing questions for a conference, not deciding which patient should receive which procedure. The review offers a framework, not an individualized pathway or a substitute for current specialist judgment.",
+      "teachingLabels": [
+        "Interpret findings together",
+        "Link finding to decision",
+        "Consensus retains uncertainty"
+      ],
+      "visualPlan": "Conference flow schematic with four discipline nodes reviewing onset evidence and functional-risk evidence separately, with branches for further evaluation or other next-step categories described in the source; no treatment recommendation."
+    },
+    {
+      "title": "Fictional illustration and self-check",
+      "narration": "Author-created fictional case: imagine a conference discussing a person with a suspected focal seizure-onset region near a task-activated language region. The language-related result raises a functional-risk question; it does not settle where seizures begin. A neuropsychological assessment may add information about naming or memory concerns, while the epileptology, imaging, and electrophysiology evidence must still be considered for the onset hypothesis [1]. A careful conference summary would label each piece of evidence, explain which question it informs, identify disagreement, and state what remains unknown. It would not promise preservation of function or infer that a map alone selects an operation. Self-check 1: Which question does a task-based language map address, and which does it not answer by itself? Self-check 2: Name one uncertainty that should remain visible when functional and seizure-onset evidence are discussed together.",
+      "teachingLabels": [
+        "Fictional case only",
+        "Separate evidence streams",
+        "Two original self-checks"
+      ],
+      "visualPlan": "Fictional, abstract two-column case card labeled “onset hypothesis” and “functional-risk evidence,” with an unresolved marker between them; no patient image or clinical recommendation."
+    }
+  ]
+}

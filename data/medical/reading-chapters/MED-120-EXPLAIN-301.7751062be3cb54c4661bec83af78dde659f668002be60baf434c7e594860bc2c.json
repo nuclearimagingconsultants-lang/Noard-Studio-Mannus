@@ -1,0 +1,87 @@
+{
+  "episodeId": "MED-120-EXPLAIN-301",
+  "courseId": "MED-120",
+  "title": "SCLC Boundary Cases: Pleural Effusion and the Limited-Stage Label",
+  "description": "Advanced, source-bounded self-study on why limited- versus extensive-stage small-cell lung cancer labels can be ambiguous at the boundaries, and how the NCI PDQ describes pleural effusion and TNM as complementary staging lenses. Includes an author-created fictional conceptual illustration; it does not assign stage or recommend care.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility or a passing guarantee.",
+  "coverageGaps": [
+    "This is a partial chapter about staging-language boundary cases; it does not provide a complete SCLC staging or management curriculum.",
+    "It does not fulfill the video floor; no video was created and zero video minutes are counted.",
+    "Human clinical review has not been performed; the NCI PDQ excerpt was updated 2025-05-14 and must be checked against current staging sources before any clinical application.",
+    "No full TNM definitions, staging workup protocol, imaging interpretation, treatment selection, or patient-specific staging is taught.",
+    "Boundary-variability examples beyond those quoted may exist but were not added beyond PDQ excerpts.",
+    "Detailed TNM criteria outside the provided PDQ lines are not expanded."
+  ],
+  "sourceUrls": [
+    "https://www.cancer.gov/types/lung/hp/small-cell-lung-treatment-pdq"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "1b41832e5cfc3f8338ebd3aeb5ede85f60a5eeabc98b54a4f4d343d8eb9b6e3f",
+  "visualSha256": "ecf7a7d33135be8ebaaa35b9a379e864c7d9fb6b76db2ecdf64ec601f9548634",
+  "evidenceSelectionSha256": "c7c3cc2a2d5514622155c741990e8bd09e8ef162edc94012d3eedb3973e79626",
+  "reviewedAt": "2026-10-09T13:21:52.357347+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://www.cancer.gov/types/lung/hp/small-cell-lung-treatment-pdq",
+      "textSha256": "e870ac1985a49ad205c0cc45b46773392a3ff618c8f3b77091669df8116b13f3"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "The field-boundary question",
+      "narration": "In small-cell lung cancer (SCLC), “limited” and “extensive” are useful clinical labels, but the boundary is not a universally settled line. The NCI PDQ states: “No universally accepted definition of this term is available. Limited-stage disease (LD) SCLC is confined to the hemithorax of origin, mediastinum, or supraclavicular nodes, which can be encompassed within a tolerable radiation therapy port.” It also notes variability at the margins. The phrase therefore carries a field-based idea: how far disease extends in relation to a feasible radiation field. It should not be treated as a synonym for a precise TNM stage or as a self-sufficient treatment decision. The learning task here is narrower: notice which staging lens is being used, what facts define the boundary, and where the source itself acknowledges disagreement.",
+      "teachingLabels": [
+        "Field-based label",
+        "Definition has acknowledged variability",
+        "Not a treatment decision"
+      ],
+      "visualPlan": "A conceptual two-lens schematic: one circle depicts thoracic extent relative to a hypothetical radiation-field boundary; a parallel panel shows TNM as an anatomic classification, with a visible note that the lenses are related but not interchangeable. No patient image."
+    },
+    {
+      "title": "Why edge cases matter",
+      "narration": "The PDQ names several situations that have been included in limited-stage disease by some groups and excluded by others: pleural effusion, a massive pulmonary tumor, and contralateral supraclavicular nodes. [1] This is more than a vocabulary footnote. If the case sits near one of these boundaries, silently applying a shorthand can hide a genuine classification choice. The safe educational habit is to state the evidence and the convention separately: first describe the reported disease extent, then identify the framework and its version, and only then record the label used by the source or team. That sequence makes a disagreement inspectable instead of disguising it as a fact about anatomy. This chapter does not resolve local practice variation or supply a patient-specific classification rule.",
+      "teachingLabels": [
+        "Boundary cases",
+        "Report facts before label",
+        "Convention must be named"
+      ],
+      "visualPlan": "Three neutral boundary markers around a schematic thorax—pleural fluid, large primary extent, and contralateral supraclavicular nodes—each connected to a label reading “classification varies by group.” Avoid realistic anatomy or diagnostic imagery."
+    },
+    {
+      "title": "TNM and the radiation-field lens",
+      "narration": "The PDQ lists several staging systems and states: “The 9th version of the AJCC Cancer Staging System recommends the use of the TNM to classify SCLC.” It further summarizes: “The AJCC TNM defines LD as any T, except for T3–4, due to multiple lung nodules that do not fit in a tolerable radiation field, any N, and M0. This corresponds to TNM stages I to IIIB. Extensive disease is TNM stage IV with distant metastases (M1), including malignant pleural effusions.” These formulations show why it is useful to keep both kinds of language visible: one names an anatomic TNM category, while the limited/extensive convention also refers to radiation-field extent. Do not infer that every use of “limited” maps neatly to a single TNM stage, or that an older summary supplies the latest staging rules. Cite the edition and source actually consulted.",
+      "teachingLabels": [
+        "PDQ cites AJCC version 9",
+        "TNM and field language differ",
+        "Version matters"
+      ],
+      "visualPlan": "A simple crosswalk with two columns, “TNM/anatomic classification” and “limited–extensive convention,” linked by a dotted line rather than an equals sign; highlight the PDQ-described M1 malignant pleural-effusion example."
+    },
+    {
+      "title": "Worked conceptual illustration: a fluid finding",
+      "narration": "Author-created fictional case: a written conference summary describes confirmed SCLC and reports malignant pleural effusion, but provides no other details. The point is not to stage a real person. Instead, follow the source’s stated relationship: the PDQ categorizes malignant pleural effusion as M1 and associates it with extensive-stage disease. [1] A clear teaching note would preserve both statements and name the source, rather than relying on an unexplained “limited” or “extensive” label. If the summary only said “pleural effusion” without establishing malignancy, this source excerpt would not justify treating that wording as equivalent to malignant pleural disease. That distinction is an evidence-boundary exercise, not a diagnostic rule. The example stops before any treatment implication.",
+      "teachingLabels": [
+        "Author-created fictional case",
+        "Malignant effusion per PDQ: M1 / extensive",
+        "No treatment inference"
+      ],
+      "visualPlan": "A fictional text-only case card feeding into two labeled evidence boxes: “reported finding: malignant pleural effusion” and “PDQ crosswalk: M1 / extensive-stage.” Add a prominent “illustrative, not patient-specific” label."
+    },
+    {
+      "title": "Make uncertainty visible",
+      "narration": "A concise formulation can preserve the source, edition, reported extent, staging convention, and unresolved ambiguity in separate clauses. For example: “The summary reports [finding]; under [named source and edition], this is described as [classification]; the limited/extensive boundary is not universally defined, so the convention used should be stated.” This is a documentation model, not a required clinical template. The NCI PDQ excerpt identifies its latest update as May 14, 2025, so it is historical evidence for this draft, not proof of current guidance in October 2026. [1] Before clinical use, a learner would need a fresh check of authoritative staging material and local multidisciplinary interpretation. Self-check: (1) Which part of a limited-stage definition invokes a radiation field? (2) What extra evidence would you need before calling an effusion malignant?",
+      "teachingLabels": [
+        "Separate finding from convention",
+        "PDQ update: 2025-05-14",
+        "Two original self-checks"
+      ],
+      "visualPlan": "A four-part evidence strip—finding, source/version, classification lens, unresolved question—followed by two short question cards. No clinical records or patient imagery."
+    }
+  ]
+}

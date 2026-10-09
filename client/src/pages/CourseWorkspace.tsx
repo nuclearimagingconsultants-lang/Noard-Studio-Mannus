@@ -34,6 +34,7 @@ import {
   MedicalPracticePanel,
 } from "@/components/studio/MedicalCourseDetails";
 import { MediaPlayer } from "@/components/studio/MediaPlayer";
+import { MedicalReadingPanel } from "@/components/studio/MedicalReadingPanel";
 import { SourceReader } from "@/components/studio/SourceReader";
 import {
   CourseBadge,
@@ -50,6 +51,7 @@ type DetailPanel =
   | "objectives"
   | "units"
   | "reading"
+  | "chapters"
   | "assessment"
   | "practice"
   | "transcript";
@@ -174,7 +176,9 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
     ? chooseQueueItem(queue, selectedId, study.progress)
     : undefined;
   const peerCourseId =
-    launch.scope === "program" ? (selected?.courseId ?? baseCourse?.id) : undefined;
+    launch.scope === "program"
+      ? (selected?.courseId ?? baseCourse?.id)
+      : undefined;
   const peerDetailQuery = trpc.content.workspace.useQuery(
     { courseId: peerCourseId ?? "__not_a_programme_peer__", scope: "course" },
     {
@@ -190,8 +194,9 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
     [peerCourseId, peerDetailQuery.data, snapshot]
   );
   const activeCourse =
-    workspaceSnapshot.catalog.courses.find(item => item.id === selected?.courseId) ??
-    baseCourse;
+    workspaceSnapshot.catalog.courses.find(
+      item => item.id === selected?.courseId
+    ) ?? baseCourse;
   const originalLesson = workspaceSnapshot.media.lessons.find(
     lesson =>
       lesson.id === selected?.lessonId && selected?.source === "original"
@@ -213,7 +218,11 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
             originalLesson?.sourceId
           )
         : [],
-    [activeCourse, originalLesson?.sourceId, workspaceSnapshot.catalog.documents]
+    [
+      activeCourse,
+      originalLesson?.sourceId,
+      workspaceSnapshot.catalog.documents,
+    ]
   );
   const pendingOriginal = useMemo(
     () =>
@@ -247,7 +256,12 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
   }, [activeCourse?.id, study.notes]);
   useEffect(() => {
     if (!originalLesson && panel === "transcript") setPanel("objectives");
-  }, [originalLesson, panel]);
+    if (
+      panel === "chapters" &&
+      (!activeCourse || !isMedicalCourse(activeCourse))
+    )
+      setPanel("objectives");
+  }, [activeCourse?.id, originalLesson, panel]);
 
   const pageCues = useMemo(
     () =>
@@ -387,7 +401,7 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
     "units",
     "reading",
     "assessment",
-    ...(medicalCourse ? ["practice" as const] : []),
+    ...(medicalCourse ? ["chapters" as const, "practice" as const] : []),
     ...(originalLesson ? ["transcript" as const] : []),
   ];
   return (
@@ -665,6 +679,18 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
                     </SourceLink>
                   ))}
                 </div>
+              </>
+            )}
+            {panel === "chapters" && medicalCourse && (
+              <>
+                <h2>
+                  <BookOpen size={18} aria-hidden="true" /> Source-prepared
+                  chapters
+                </h2>
+                <MedicalReadingPanel
+                  key={activeCourse.id}
+                  courseId={activeCourse.id}
+                />
               </>
             )}
             {panel === "assessment" && (

@@ -784,6 +784,265 @@ var init_storage = __esm({
   }
 });
 
+// shared/medicalReadings.ts
+function hasPrivateLocation(value) {
+  const text2 = value.replace(/https?:\/\/[^\s"'<>]+/gi, "");
+  return privatePath.test(text2);
+}
+function containsPrivateLocation(value) {
+  if (typeof value === "string") return hasPrivateLocation(value);
+  if (Array.isArray(value)) return value.some(containsPrivateLocation);
+  if (value && typeof value === "object")
+    return Object.values(value).some(containsPrivateLocation);
+  return false;
+}
+function validateMedicalReadingDevelopment(value, courseId) {
+  if (!value || typeof value !== "object" || Array.isArray(value)) return false;
+  const item = value;
+  return Object.keys(item).every(
+    (key) => ["courseId", "episodeId", "status"].includes(key)
+  ) && item.courseId === courseId && medicalCourseIdPattern.test(courseId) && typeof item.episodeId === "string" && medicalChapterIdPattern.test(item.episodeId) && item.episodeId.startsWith(`${courseId}-EXPLAIN-`) && ["source_review_pending", "source_unavailable", "source_checked"].includes(
+    String(item.status)
+  );
+}
+function isPublicHostname(hostname) {
+  const host = hostname.replace(/^\[|\]$/g, "").toLowerCase();
+  if (host === "localhost" || /\.(?:localhost|local|internal)$/.test(host))
+    return false;
+  if (host.includes(":")) {
+    return host !== "::" && host !== "::1" && !/^f[cd]|^fe[89ab]|^::ffff:/i.test(host);
+  }
+  const address = host.match(/^(\d+)\.(\d+)\.(\d+)\.(\d+)$/);
+  if (!address) return true;
+  const [a, b] = address.slice(1).map(Number);
+  return !(a === 0 || a === 10 || a === 127 || a >= 224 || a === 169 && b === 254 || a === 172 && b >= 16 && b <= 31 || a === 192 && b === 168 || a === 100 && b >= 64 && b <= 127 || a === 198 && (b === 18 || b === 19));
+}
+function isPublicReadingSource(value) {
+  if (typeof value !== "string") return false;
+  try {
+    const url = new URL(value);
+    return ["http:", "https:"].includes(url.protocol) && !url.username && !url.password && isPublicHostname(url.hostname) && !hasPrivateLocation(value);
+  } catch {
+    return false;
+  }
+}
+function validateMedicalReading(value, courseId) {
+  if (!value || typeof value !== "object" || Array.isArray(value) || !medicalCourseIdPattern.test(courseId))
+    return false;
+  const item = value;
+  const allowed = /* @__PURE__ */ new Set([
+    "episodeId",
+    "courseId",
+    "title",
+    "description",
+    "educationalLimits",
+    "coverageGaps",
+    "sourceUrls",
+    "status",
+    "videoProduced",
+    "measuredVideoSeconds",
+    "countedLectureMinutes",
+    "humanClinicalReviewStatus",
+    "sourceReviewStatus",
+    "sourceScriptSha256",
+    "visualSha256",
+    "evidenceSelectionSha256",
+    "reviewedAt",
+    "reviewedSources",
+    "sourceLimitations",
+    "sections"
+  ]);
+  if (Object.keys(item).some((key) => !allowed.has(key)) || containsPrivateLocation(item))
+    return false;
+  if (item.courseId !== courseId || typeof item.episodeId !== "string" || !medicalChapterIdPattern.test(item.episodeId) || !item.episodeId.startsWith(`${courseId}-EXPLAIN-`))
+    return false;
+  if (item.status !== "source_prepared_not_rendered" || item.videoProduced !== false || item.measuredVideoSeconds !== null || item.countedLectureMinutes !== 0 || item.humanClinicalReviewStatus !== "not performed" || item.sourceReviewStatus !== "passed_automated_source_check")
+    return false;
+  if (![
+    item.sourceScriptSha256,
+    item.visualSha256,
+    item.evidenceSelectionSha256
+  ].every((hash) => typeof hash === "string" && shaPattern.test(hash)))
+    return false;
+  if (![item.title, item.educationalLimits, item.sourceLimitations].every(
+    (text2) => typeof text2 === "string" && text2.trim().length > 0
+  ))
+    return false;
+  if (typeof item.reviewedAt !== "string" || !Number.isFinite(Date.parse(item.reviewedAt)))
+    return false;
+  if (!Array.isArray(item.coverageGaps) || !item.coverageGaps.length || !item.coverageGaps.every(
+    (text2) => typeof text2 === "string" && text2.trim().length > 0
+  ))
+    return false;
+  if (!Array.isArray(item.sourceUrls) || !item.sourceUrls.length || !item.sourceUrls.every(isPublicReadingSource))
+    return false;
+  if (!Array.isArray(item.reviewedSources) || !item.reviewedSources.length || !item.reviewedSources.every(
+    (source) => source && typeof source === "object" && Object.keys(source).every((key) => ["url", "textSha256"].includes(key)) && isPublicReadingSource(source.url) && item.sourceUrls instanceof Array && item.sourceUrls.includes(source.url) && typeof source.textSha256 === "string" && shaPattern.test(source.textSha256)
+  ))
+    return false;
+  return Array.isArray(item.sections) && item.sections.length > 0 && item.sections.every(
+    (section) => section && typeof section === "object" && Object.keys(section).every(
+      (key) => ["title", "narration", "teachingLabels", "visualPlan"].includes(key)
+    ) && typeof section.title === "string" && section.title.trim() && typeof section.narration === "string" && section.narration.trim() && (section.teachingLabels === void 0 || Array.isArray(section.teachingLabels) && section.teachingLabels.every(
+      (label) => typeof label === "string"
+    )) && (section.visualPlan === void 0 || typeof section.visualPlan === "string")
+  );
+}
+var medicalCourseIdPattern, medicalChapterIdPattern, shaPattern, privatePath;
+var init_medicalReadings = __esm({
+  "shared/medicalReadings.ts"() {
+    "use strict";
+    medicalCourseIdPattern = /^MED-(?:X)?\d{3}$/;
+    medicalChapterIdPattern = /^MED-(?:X)?\d{3}-EXPLAIN-\d{3,5}$/;
+    shaPattern = /^[a-f0-9]{64}$/;
+    privatePath = /file:\/\/|(?:^|[\s("'`=:])\/(?:home|tmp|var|root|etc|proc|sys|dev|mnt|opt)\/|(?:^|[\s("'`=:])[A-Z]:[\\/]|\\\\[a-z0-9._-]+\\/i;
+  }
+});
+
+// server/medicalReadings.ts
+import { promises as fs } from "node:fs";
+import path from "node:path";
+import { createHash as createHash2 } from "node:crypto";
+async function loadMedicalReadings(courseId, dataRoot = root) {
+  if (!medicalCourseIdPattern.test(courseId))
+    throw new Error("Invalid medical course identifier");
+  let index2;
+  try {
+    const file = path.join(dataRoot, "reading-index.json");
+    if ((await fs.stat(file)).size > MAX_BYTES)
+      throw new Error("Reading index exceeds limit");
+    index2 = JSON.parse(await fs.readFile(file, "utf8"));
+    if (index2.schema !== "board-studio-medical-readings-v1" || !Array.isArray(index2.entries))
+      throw new Error("Invalid reading index");
+  } catch (error) {
+    if (error.code === "ENOENT")
+      return { courseId, chapters: [], withheldCount: 0 };
+    throw error;
+  }
+  const chapters = [];
+  const seen = /* @__PURE__ */ new Set();
+  let withheldCount = 0;
+  for (const entry of index2.entries.filter(
+    (item) => item?.courseId === courseId
+  )) {
+    try {
+      if (!medicalChapterIdPattern.test(entry.episodeId) || !entry.episodeId.startsWith(`${courseId}-EXPLAIN-`) || !/^[a-f0-9]{64}$/.test(entry.payloadSha256) || entry.file !== `reading-chapters/${entry.episodeId}.${entry.payloadSha256}.json` || seen.has(entry.episodeId))
+        throw new Error("Invalid reading assignment");
+      const file = path.join(dataRoot, entry.file);
+      if ((await fs.stat(file)).size > MAX_BYTES)
+        throw new Error("Reading exceeds limit");
+      const bytes = await fs.readFile(file);
+      if (createHash2("sha256").update(bytes).digest("hex") !== entry.payloadSha256)
+        throw new Error("Reading payload identity changed");
+      const chapter = JSON.parse(bytes.toString("utf8"));
+      if (!validateMedicalReading(chapter, courseId) || chapter.episodeId !== entry.episodeId || chapter.sourceScriptSha256 !== entry.sourceScriptSha256 || chapter.evidenceSelectionSha256 !== entry.evidenceSelectionSha256)
+        throw new Error("Reading lacks exact source-review identity");
+      seen.add(entry.episodeId);
+      chapters.push(chapter);
+    } catch {
+      withheldCount += 1;
+    }
+  }
+  let development;
+  try {
+    const file = path.join(dataRoot, "reading-development.json");
+    if ((await fs.stat(file)).size <= MAX_BYTES) {
+      const value = JSON.parse(await fs.readFile(file, "utf8"));
+      if (value.schema === "board-studio-medical-reading-development-v1" && Array.isArray(value.entries)) {
+        const matches = value.entries.filter(
+          (row) => row?.courseId === courseId
+        );
+        if (matches.length === 1 && validateMedicalReadingDevelopment(matches[0], courseId)) {
+          const candidate = matches[0];
+          if (candidate.status !== "source_checked" || chapters.some((chapter) => chapter.episodeId === candidate.episodeId)) {
+            development = candidate;
+          }
+        }
+      }
+    }
+  } catch {
+  }
+  return {
+    courseId,
+    chapters,
+    withheldCount,
+    ...development ? { development } : {}
+  };
+}
+function medicalReadingMarkdown(chapter) {
+  return [
+    `# ${chapter.title}`,
+    "",
+    `Course: ${chapter.courseId} \xB7 Chapter: ${chapter.episodeId}`,
+    "",
+    "> Source-prepared study text, not a video transcript. Zero counted video minutes. Human clinician review has not been performed.",
+    "",
+    chapter.educationalLimits,
+    "",
+    ...chapter.sections.flatMap((section) => [
+      `## ${section.title}`,
+      "",
+      section.narration,
+      ""
+    ]),
+    "## Reviewed sources",
+    "",
+    ...chapter.reviewedSources.map(
+      (source) => `- ${source.url} \u2014 text SHA-256: ${source.textSha256}`
+    ),
+    "",
+    "## Remaining scope",
+    "",
+    ...chapter.coverageGaps.map((gap) => `- ${gap}`),
+    "",
+    chapter.sourceLimitations,
+    "",
+    `Reviewed script SHA-256: ${chapter.sourceScriptSha256}`,
+    ""
+  ].join("\n");
+}
+function registerMedicalReadingRoutes(app2) {
+  app2.get("/api/content/medical-chapters/:courseId", async (req, res) => {
+    if (!medicalCourseIdPattern.test(req.params.courseId))
+      return void res.status(400).json({ error: "Invalid medical course identifier" });
+    try {
+      res.set("Cache-Control", "no-store").json(await loadMedicalReadings(req.params.courseId));
+    } catch {
+      res.status(503).json({ error: "Reading catalogue temporarily unavailable" });
+    }
+  });
+  app2.get(
+    "/api/content/medical-chapters/:courseId/:episodeId.md",
+    async (req, res) => {
+      if (!medicalCourseIdPattern.test(req.params.courseId) || !medicalChapterIdPattern.test(req.params.episodeId))
+        return void res.status(400).json({ error: "Invalid reading identifier" });
+      try {
+        const content = await loadMedicalReadings(req.params.courseId);
+        const chapter = content.chapters.find(
+          (item) => item.episodeId === req.params.episodeId
+        );
+        if (!chapter)
+          return void res.status(404).json({ error: "Source-audited reading not available" });
+        res.set("Cache-Control", "no-store").set(
+          "Content-Disposition",
+          `attachment; filename="${chapter.episodeId}.md"`
+        ).type("text/markdown").send(medicalReadingMarkdown(chapter));
+      } catch {
+        res.status(503).json({ error: "Reading temporarily unavailable" });
+      }
+    }
+  );
+}
+var root, MAX_BYTES;
+var init_medicalReadings2 = __esm({
+  "server/medicalReadings.ts"() {
+    "use strict";
+    init_medicalReadings();
+    root = path.resolve(import.meta.dirname, "..", "data", "medical");
+    MAX_BYTES = 256e3;
+  }
+});
+
 // server/publicAssetOrigin.ts
 function getPublicAssetOrigin(env = process.env) {
   const candidate = env.BOARD_STUDIO_PUBLIC_ASSET_ORIGIN?.trim() || DEFAULT_PUBLIC_ASSET_ORIGIN;
@@ -994,8 +1253,8 @@ __export(workspaceContent_exports, {
   getCompactDirectoryContent: () => getCompactDirectoryContent,
   getTargetedCourseWorkspace: () => getTargetedCourseWorkspace
 });
-import { promises as fs } from "node:fs";
-import path from "node:path";
+import { promises as fs2 } from "node:fs";
+import path2 from "node:path";
 function isObject(value) {
   return Boolean(value) && typeof value === "object" && !Array.isArray(value);
 }
@@ -1107,15 +1366,15 @@ function createWorkspaceContentLoader(options = {}) {
   const parsedFiles = [];
   let compactDirectoryCache;
   async function readJsonFile2(relativeName) {
-    const filePath = path.join(dataDir, relativeName);
+    const filePath = path2.join(dataDir, relativeName);
     try {
-      const stat = await fs.stat(filePath);
+      const stat = await fs2.stat(filePath);
       const cached = jsonCache2.get(relativeName);
       const version = `${stat.mtimeMs}:${stat.size}`;
       if (cached && cached.mtimeMs === stat.mtimeMs && cached.size === stat.size) {
         return { value: cached.value, version: cached.version };
       }
-      const value = JSON.parse(await fs.readFile(filePath, "utf8"));
+      const value = JSON.parse(await fs2.readFile(filePath, "utf8"));
       jsonCache2.set(relativeName, {
         mtimeMs: stat.mtimeMs,
         size: stat.size,
@@ -1254,7 +1513,7 @@ function createWorkspaceContentLoader(options = {}) {
     getDiagnostics() {
       return {
         parsedFiles: [...parsedFiles],
-        aggregateMedicalCatalogPath: path.join(dataDir, "medical/catalog.json")
+        aggregateMedicalCatalogPath: path2.join(dataDir, "medical/catalog.json")
       };
     },
     clearCache() {
@@ -1270,7 +1529,7 @@ var init_workspaceContent = __esm({
     "use strict";
     init_catalogDirectory();
     init_content();
-    DATA_DIR = path.resolve(import.meta.dirname, "..", "data");
+    DATA_DIR = path2.resolve(import.meta.dirname, "..", "data");
     workspaceContentLoader = createWorkspaceContentLoader();
     getCompactDirectoryContent = workspaceContentLoader.getDirectoryContent;
     getTargetedCourseWorkspace = workspaceContentLoader.getCourseWorkspace;
@@ -1278,20 +1537,20 @@ var init_workspaceContent = __esm({
 });
 
 // server/content.ts
-import { promises as fs2 } from "node:fs";
-import path2 from "node:path";
+import { promises as fs3 } from "node:fs";
+import path3 from "node:path";
 function isObject2(value) {
   return Boolean(value) && typeof value === "object" && !Array.isArray(value);
 }
 async function readJsonFile(fileName) {
-  const filePath = path2.join(DATA_DIR2, fileName);
+  const filePath = path3.join(DATA_DIR2, fileName);
   try {
-    const stat = await fs2.stat(filePath);
+    const stat = await fs3.stat(filePath);
     const cached = jsonCache.get(fileName);
     if (cached && cached.mtimeMs === stat.mtimeMs && cached.size === stat.size) {
       return { value: cached.value, version: `${stat.mtimeMs}:${stat.size}` };
     }
-    const raw = await fs2.readFile(filePath, "utf8");
+    const raw = await fs3.readFile(filePath, "utf8");
     const value = JSON.parse(raw);
     jsonCache.set(fileName, { mtimeMs: stat.mtimeMs, size: stat.size, value });
     return { value, version: `${stat.mtimeMs}:${stat.size}` };
@@ -1693,6 +1952,7 @@ function sendSnapshotPart(part) {
   };
 }
 function registerContentRoutes(app2) {
+  registerMedicalReadingRoutes(app2);
   app2.get("/api/content/catalog", sendSnapshotPart("catalog"));
   app2.get("/api/content/media", sendSnapshotPart("media"));
   app2.get("/api/content/asset-index", sendSnapshotPart("assetIndex"));
@@ -1709,8 +1969,9 @@ var init_content = __esm({
     init_medical();
     init_publicContentFeed();
     init_storage();
+    init_medicalReadings2();
     init_publicAssetOrigin();
-    DATA_DIR2 = path2.resolve(import.meta.dirname, "..", "data");
+    DATA_DIR2 = path3.resolve(import.meta.dirname, "..", "data");
     jsonCache = /* @__PURE__ */ new Map();
     DURABLE_VIDEO_EXTENSION = /\.(mp4|webm|ogg|ogv|m4v)$/i;
     NON_INSTRUCTIONAL_MEDICAL_CONTENT = /(?:^|[\s_-])(syllabus|orientation|administrative)(?:$|[\s_-])|reference[\s_-]*only/i;

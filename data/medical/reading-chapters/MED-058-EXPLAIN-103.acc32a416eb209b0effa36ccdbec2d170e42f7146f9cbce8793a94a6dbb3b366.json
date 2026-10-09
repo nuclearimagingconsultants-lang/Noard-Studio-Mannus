@@ -1,0 +1,73 @@
+{
+  "episodeId": "MED-058-EXPLAIN-103",
+  "courseId": "MED-058",
+  "title": "Ultrasound in a palpable-mass work-up: read the ACR sequence, not a generic rule",
+  "description": "Original Unit 5 chapter that teaches ultrasound ratings across named ACR palpable-mass variants.",
+  "educationalLimits": "Independent educational self-study only. All examples are fictional and no patient-specific recommendation, diagnosis, image interpretation, screening order, procedure instruction, contrast administration instruction, credential, or clinical authorization is provided. Current local policy and a qualified licensed clinical team govern care. Human clinician review of this script has not been performed. The episode does not establish ABR eligibility, MQSA qualification, CME, supervision, procedure privilege, or clinical competence.",
+  "coverageGaps": [
+    "No ultrasound acquisition, characterization lexicon, image interpretation, procedure technique, or patient-specific recommendation is taught.",
+    "Other ACR diagnostic-presentation topics are not covered by this palpable-mass chapter."
+  ],
+  "sourceUrls": [
+    "https://acsearch.acr.org/docs/69495/Narrative/"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "9d37e1ee0a917403f87c00ea70d14ab267cbd4e0f50e44160e2451607b0213dd",
+  "visualSha256": "926f8baf26e1d6da2735ccd708370a059c3bc88faf7059dc78eb114197faf070",
+  "evidenceSelectionSha256": "142e6d5e1dc06a11b7c36d76d18f1ed228f95284afdb71c463ec0e5f53da6511",
+  "reviewedAt": "2026-10-09T11:53:03.661490+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://acsearch.acr.org/docs/69495/Narrative/",
+      "textSha256": "dd9f5ac6f2bd891f93f7c3fcfa52dd66b908a02920f73107e06ed4506c1fb7b6"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "Why an ultrasound row needs a scenario",
+      "narration": "The ACR Palpable Breast Masses narrative lists breast ultrasound in multiple variants, and the rating changes with age, timing, and prior result. That makes ultrasound a good exercise in source control. Instead of saying “ultrasound is the test for a palpable mass,” the learner writes the entire scenario title. Variant 6 is adult female younger than 30, palpable breast mass, initial imaging; US breast is Usually Appropriate. Variant 11 is adult female 30 to 39, palpable breast mass, initial imaging; US breast is Usually Appropriate, alongside diagnostic DBT and diagnostic mammography. Variant 1 is adult female 40 or older, palpable breast mass, initial imaging; US breast is May Be Appropriate while diagnostic DBT and diagnostic mammography are Usually Appropriate. The difference among those rows is not a minor detail. It shows that a modality statement lacks meaning without the source-defined setting. This chapter does not teach probe handling, scanning technique, lesion descriptors, or image interpretation. It teaches the cognitive skill of locating the ultrasound row that actually matches a provided educational scenario.",
+      "teachingLabels": [
+        "US rating depends on variant",
+        "Variants 6, 11, and 1",
+        "No scanning technique"
+      ],
+      "visualPlan": "A three-row age-band table with only ACR variant title and US rating."
+    },
+    {
+      "title": "Move from initial to next-imaging wording",
+      "narration": "The ACR document also contains next-imaging variants. Variant 5 is for an adult female 40 years or older with a palpable breast mass and negative mammography findings; US breast is Usually Appropriate. Variant 4 is for the same age group with a benign mammography finding at the site of the palpable mass; US breast is May Be Appropriate. The phrase “at the site of the palpable mass” belongs to that specific variant and should not be deleted. It tells the learner that prior-result wording, not only age, determines the lookup. A fictional prompt may read: “Age 44; palpable area; mammography findings negative.” The source-bound answer is “Variant 5; US breast is Usually Appropriate.” A different prompt may read: “Age 44; benign mammography finding at the site of the palpable mass.” The answer becomes “Variant 4; US breast is May Be Appropriate.” Neither answer says a real person has a benign condition, that the image is concordant, or that a clinical evaluation ends. The lesson records the published source rating and the missing clinical information.",
+      "teachingLabels": [
+        "Variant 5: negative mammography",
+        "Variant 4: benign at the site",
+        "Prior-result wording matters"
+      ],
+      "visualPlan": "A two-case source lookup with the exact prior-result phrase in bold."
+    },
+    {
+      "title": "Do not convert a suspicious row into a procedure lesson",
+      "narration": "Variant 7 in the ACR narrative is adult female younger than 30, palpable breast mass, with ultrasound findings suspicious or highly suggestive of malignancy, next imaging study. Its table lists diagnostic DBT, diagnostic mammography, and image-guided core biopsy breast as Usually Appropriate. The existence of that row is relevant to ultrasound reasoning because it changes the question from initial imaging to a defined next-imaging scenario. It is not a training manual for biopsy, consent, device choice, medications, positioning, or complication management. The worked interpretation for a fictional worksheet is therefore limited: copy the Variant 7 title, identify the listed diagnostic procedure ratings, and list missing data such as actual images, complete history, examination, local policy, and qualified clinical review. The learner must not declare a fictional ultrasound suspicious, assign a patient assessment, or infer a pathology result. A source table is a structured reference, not a substitute for the clinical evidence and authorization required to act.",
+      "teachingLabels": [
+        "Variant 7 is a next-imaging scenario",
+        "Rating table ≠ biopsy instruction",
+        "List missing evidence"
+      ],
+      "visualPlan": "A boundary diagram: ACR table reading ends before procedure performance or diagnostic judgment."
+    },
+    {
+      "title": "Exercise and answer: four exact lookups",
+      "narration": "Learner exercise: match each fictional sentence to a source row. A: “Twenty-eight years old, palpable mass, no prior imaging.” Answer: Variant 6; US breast Usually Appropriate. B: “Thirty-five years old, palpable mass, no prior imaging.” Answer: Variant 11; US breast, diagnostic DBT, and diagnostic mammography are Usually Appropriate. C: “Forty-six years old, palpable mass, negative mammography.” Answer: Variant 5; US breast Usually Appropriate. D: “Twenty-four years old, palpable mass, ultrasound finding matches Variant 7 wording.” Answer: Variant 7; report the listed diagnostic DBT, diagnostic mammography, and image-guided core-biopsy ratings without teaching or performing a procedure. The reasoning answer is as important as the row name: every result depends on the fictional facts matching the source’s full variant title. If age, prior imaging, or the stated result changes, the lookup can change. This is substantive ultrasound-related diagnostic reasoning, but it remains a source exercise rather than patient care or competence assessment.",
+      "teachingLabels": [
+        "Four fictional lookups",
+        "Match full variant title",
+        "Source exercise only"
+      ],
+      "visualPlan": "A four-row answer key with variant name, US/other rating, and “what this does not decide.”"
+    }
+  ]
+}

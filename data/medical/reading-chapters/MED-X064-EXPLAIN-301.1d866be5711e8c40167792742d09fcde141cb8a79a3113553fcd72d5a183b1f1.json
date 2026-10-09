@@ -1,0 +1,80 @@
+{
+  "episodeId": "MED-X064-EXPLAIN-301",
+  "courseId": "MED-X064",
+  "title": "Responsible use of shared sarcoma imaging collections: privacy, licensing, and attribution",
+  "description": "A source-bounded framework for using TCIA-hosted cancer imaging collections in educational presentations or research, centered on participant privacy, collection-specific access and license terms, attribution, and the limits of what a public archive policy can establish.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility or a passing guarantee.",
+  "coverageGaps": [
+    "This is a partial topic module on responsible reuse of TCIA imaging collections, not a comprehensive research-ethics, privacy-law, or institutional-review curriculum.",
+    "The supplied bounded policy excerpt does not establish the applicable license, consent, access conditions, or ethics determination for any particular collection or project; consult its current collection record and the responsible institution.",
+    "This chapter does not fulfill the course video floor; no video was created and zero counted video minutes are added.",
+    "Human clinical review was not performed."
+  ],
+  "sourceUrls": [
+    "https://www.cancerimagingarchive.net/data-usage-policies-and-restrictions/"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "b12ef322d29393a0f4cf6174023d887742b037205ca8988877e7af03306b82cf",
+  "visualSha256": "1b282170bd94570ea5de4673520a297bbc0a2ebd269d722e86b0e07a8f1aa8de",
+  "evidenceSelectionSha256": "0e193cd69d79dd1f28d2c3d413f336ca68417ce07ab4118c0cb1e3e0b19a66f2",
+  "reviewedAt": "2026-10-09T13:22:09.189166+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://www.cancerimagingarchive.net/data-usage-policies-and-restrictions/",
+      "textSha256": "54eddcbe28c5c67ca823c42fe9d6649062caab60e6ba26fa4f97411b07ee9976"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "A collection is not a permission slip",
+      "narration": "An imaging archive can make cancer images accessible while still attaching conditions to their use. The Cancer Imaging Archive (TCIA) describes its holdings as organized collections and states that the license associated with each collection is shown in its Data Access table. Its policy also notes that some collections have commercial-use restrictions, while datasets requiring data-use agreements are handled through a different controlled-access route. Therefore, the practical starting point is not “the archive is public, so everything is reusable.” It is to identify the exact collection and accession, then read the access conditions and license attached to that dataset before planning a presentation or project. The excerpt gives archive-wide context; it does not tell us the terms of an unspecified collection. [1]",
+      "teachingLabels": [
+        "Check the exact collection’s access and license terms",
+        "Public archive access is not blanket permission"
+      ],
+      "visualPlan": "A conceptual flow with a shared archive branching into collection record, access conditions, and dataset-specific license before a presentation or project; use labels only, with no patient imagery."
+    },
+    {
+      "title": "Protect people, including against linkage",
+      "narration": "TCIA’s policy says users must not use requested datasets, alone or combined with other information, to identify or contact participants. That wording matters: a dataset that has been de-identified is not an invitation to try to reverse that protection by linking it with outside details. A safe educational workflow therefore excludes identity-seeking, contact, and attempts to make a participant readily ascertainable. This is a rule about use, not a claim that every possible privacy risk has been eliminated. The excerpt does not specify technical de-identification procedures or guarantee that linkage risk is zero. [1]",
+      "teachingLabels": [
+        "Do not identify or contact participants",
+        "Do not attempt re-identification by linkage"
+      ],
+      "visualPlan": "A conceptual boundary around an imaging collection, with an allowed path toward non-identifying discussion and a blocked path toward linkage or contact; no real or simulated patient image."
+    },
+    {
+      "title": "Separate educational display from human-subjects research questions",
+      "narration": "The policy distinguishes general dataset access rules from the obligations of investigators conducting human-subjects research. It says that investigators within the scope of 45 CFR 46 must comply with those requirements, and describes a specific IRB-approved research circumstance for contacting participants or using identifying information. This excerpt does not decide whether a particular classroom exercise, publication, secondary analysis, or quality-improvement activity is human-subjects research; that classification depends on facts and the responsible institution’s process. When a proposed activity moves beyond teaching with already-authorized material into research, or raises questions about identifiable data, do not infer an exemption from the archive’s public availability. Seek the relevant institutional determination before proceeding. [1]",
+      "teachingLabels": [
+        "Public access does not decide research oversight",
+        "Ask the responsible institution when classification is unclear"
+      ],
+      "visualPlan": "Two labeled lanes—educational presentation and proposed research—converging at a question-mark checkpoint for institutional determination; avoid implying that the diagram makes a legal determination."
+    },
+    {
+      "title": "Attribute the exact dataset and inspect its terms",
+      "narration": "Attribution is part of responsible reuse, not decorative bibliography. TCIA directs users to acknowledge the specific dataset or accession number and the NIH-designated repository in oral and written presentations, and says each dataset has a persistent DOI data citation. A useful preparation note records the collection name, accession, DOI citation, and repository before slides or a manuscript are assembled. The policy points users to the collection’s Data Access table for license details, so the citation and permission check should be tied to the actual material used. The supplied excerpt is not a substitute for the full data citation or the collection’s current license page; retrieve those directly for a real use. [1]",
+      "teachingLabels": [
+        "Cite the dataset or accession and repository",
+        "Use the dataset DOI; verify the collection license"
+      ],
+      "visualPlan": "A simple citation card connecting collection name, accession, persistent DOI, repository, and license record to an educational slide; all fields are generic placeholders."
+    },
+    {
+      "title": "Worked illustration and self-check",
+      "narration": "Author-created fictional illustration: a seminar organizer proposes a slide discussion using images from a TCIA soft-tissue-tumor collection. Before building the slide, the organizer identifies the collection and accession, reads the collection’s access and license conditions, and captures its prescribed data citation. The slide is limited to the educational point; nobody tries to connect image details with outside records or contact a participant. If the organizer later proposes a research analysis or any use of identifying information, that is a new activity requiring the responsible institution to determine applicable review and access requirements. This illustration is a workflow example, not a claim that any particular collection permits a specific use. [1] Self-check 1: Which collection-level record should you inspect before reusing a TCIA image? Self-check 2: What changes when a teaching discussion becomes a proposed human-subjects research activity?",
+      "teachingLabels": [
+        "Fictional workflow illustration; verify actual collection terms",
+        "Self-check: collection license and research oversight"
+      ],
+      "visualPlan": "A fictional, text-only seminar checklist: collection/accession → license and access terms → citation → non-identifying display; a separate branch flags proposed research for institutional determination."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "episodeId": "MED-X009-EXPLAIN-301",
+  "courseId": "MED-X009",
+  "title": "Independent IR Pathway: Route, Exception, and Eligibility Boundaries",
+  "description": "A focused Unit 1 explanation of the ABR-described independent IR pathway after DR, the conditional ESIR route, and the distinction between training, examination requirements, and individual eligibility determinations. Includes an author-created fictional training-pathway illustration and two original self-check prompts.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility or a passing guarantee.",
+  "coverageGaps": [
+    "Partial Unit 1 chapter focused on pathway sequence and ESIR qualification; not a complete curriculum.",
+    "Does not fulfill the video floor; this text chapter contributes zero counted video minutes.",
+    "Human clinical review has not been performed.",
+    "Does not determine individual ABR eligibility, training credit, examination route, licensure, or certification status."
+  ],
+  "sourceUrls": [
+    "https://www.theabr.org/get-certified/interventional-radiology/"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "7629c9d3f8a285e8b34560242b35de5bff47cbc6f4f9a3368059d0a52769dba2",
+  "visualSha256": "20dcc9ad9e6c908c91f84c4320d2c9bbe634599bdb20ef0dc91884dff1b4caf4",
+  "evidenceSelectionSha256": "a075f250ef5fc7d44c4cd06b06b0191c358474e971426957d77c8169e9eed151",
+  "reviewedAt": "2026-10-09T13:22:04.186709+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://www.theabr.org/get-certified/interventional-radiology/",
+      "textSha256": "522cbe6be7ae7f366100d5a007d49f8780d379e940d6fa07e5d62af08d6ccbf4"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "1. Start with the pathway boundary",
+      "narration": "This chapter addresses one narrow Unit 1 question: how to describe the independent interventional radiology (IR) route after diagnostic radiology (DR), without turning a pathway summary into an individual eligibility ruling. The American Board of Radiology (ABR) describes independent IR as a route that follows DR residency; its published requirements distinguish this route from the integrated IR/DR residency and identify a conditional Early Specialization in IR (ESIR) exception. [1] The useful mental model is a sequence of gates: prior DR education, independent IR training, and the applicable examinations and other requirements. Passing through one gate does not itself establish that a particular person has met every later requirement. [1] The word “independent” names a training pathway, not an independent license, a separate guarantee of certification, or permission to perform procedures without appropriate supervised training. Here, the object of study is the route description and how to communicate its qualifiers. The ABR’s own current policy and the responsible accredited program—not this educational explanation—control actual eligibility and completion determinations. [1]",
+      "teachingLabels": [
+        "Pathway ≠ eligibility ruling",
+        "DR precedes independent IR"
+      ],
+      "visualPlan": "A simple horizontal pathway with boxes for prior DR residency, independent IR residency, and ABR examination/other requirements; an ESIR branch joins the training box with a clearly marked program-director approval gate. Add a footer: educational route map, not an eligibility decision."
+    },
+    {
+      "title": "2. The standard independent sequence",
+      "narration": "For the standard route, the ABR page says the candidate first completes a DR residency accredited by the Accreditation Council for Graduate Medical Education (ACGME) or the Royal College of Physicians and Surgeons of Canada (RCPSC). It then describes a two-year ACGME-accredited independent IR residency. [1] These are not interchangeable descriptions: the prerequisite is DR education, while the subsequent independent IR residency is the additional pathway stage. [1] When explaining the sequence, preserve both the accreditor and the order. Saying only “two years of IR” drops the prerequisite; saying “a fellowship after any radiology training” would add a broad claim the source does not make. The source excerpt also notes that DR residency may include no more than 16 months in research, but this chapter does not interpret how any person’s training record is counted. Individual credit and eligibility questions require a direct determination under current ABR rules. [1] A learner can therefore narrate the ordinary pathway as: complete the specified accredited DR residency, then complete the specified independent IR residency, then satisfy applicable examination and remaining requirements. This is a conceptual ordering aid, not an application checklist or substitute for reviewing the current policy in full. [1]",
+      "teachingLabels": [
+        "Accredited DR first",
+        "Standard IR stage: two years"
+      ],
+      "visualPlan": "Two sequential blocks labeled “ACGME- or RCPSC-accredited DR residency” and “two-year ACGME-accredited independent IR residency,” followed by a dotted arrow to requirements review; do not imply every candidate has the same exam route."
+    },
+    {
+      "title": "3. Preserve the ESIR qualifier",
+      "narration": "ESIR changes the length described for the independent IR stage, but not by automatic self-designation. The ABR says that a candidate who completed ESIR during DR may need one year of independent IR training only if approved by the IR program director. [1] The phrase “may only need” matters: it signals a conditional route rather than a blanket equivalence between ESIR and completion of independent IR training. [1] For teaching, keep three facts visible at once: ESIR occurs during DR residency; the shorter independent IR stage is conditional; and the approval named by the ABR is that of the IR program director. [1] Avoid shortening this to “ESIR makes the IR residency one year,” because that erases the approval condition and presents a possible pathway as an automatic rule. Also avoid inferring that this excerpt resolves documentation, application timing, transfer credit, or special cases; it does not provide a complete individualized review process. This careful phrasing is useful beyond admissions conversations. It separates a route-level description from a decision about an individual record. When the exact status is uncertain, a safe educational handoff is to name the unknown—such as whether the documented ESIR training and required approval are present—rather than announce a conclusion. The program and ABR can resolve that question through their current processes. [1]",
+      "teachingLabels": [
+        "ESIR is conditional",
+        "Program-director approval required"
+      ],
+      "visualPlan": "Show the standard two-year IR stage and an alternate ESIR branch labeled “possible one-year stage only with IR program-director approval”; use a gate symbol and a “not automatic” caption."
+    },
+    {
+      "title": "4. Training route, examinations, and certification are distinct",
+      "narration": "The pathway description should not stop at training. The ABR page lists the Qualifying (Core) Exam after 36 months of residency, with limited circumstances in which a program director may request earlier timing. It also describes Certifying Exam components and states that candidates already certified in DR need only the oral component. [1] Because the source ties exam timing to residency and allows a limited exception, do not transform “after 36 months” into a universal scheduling instruction for a specific learner. [1] The page further presents valid state or provincial medical licensure and ethical standards among its requirements. [1] Those statements illustrate why a training route alone is not the whole certification process. A person may have completed a training stage and still need to meet other applicable requirements. Conversely, this chapter cannot decide how current rules apply to a candidate, whether an exception is available, or whether an exam has been satisfied. [1] Use precise verbs: “the ABR describes,” “the page lists,” and “the candidate must verify.” Avoid “this course qualifies you,” “you are board eligible,” or “the pathway guarantees certification.” The distinction protects learners from confusing educational familiarity with an official status determination. ABR policy may change, so anyone making a real planning decision should verify the current official information directly with the ABR and relevant accredited program. [1]",
+      "teachingLabels": [
+        "Training is not certification",
+        "Verify current requirements"
+      ],
+      "visualPlan": "A three-column conceptual map headed “training route,” “exam components,” and “other requirements,” with arrows but no pass/fail or eligibility outcome; add “verify current ABR policy.”"
+    },
+    {
+      "title": "5. Worked illustration and self-check",
+      "narration": "Author-created fictional case: Jordan has completed DR residency and says they participated in an ESIR pathway. A colleague asks whether Jordan is therefore finished with independent IR training and can be described as board eligible. The evidence in this vignette is intentionally incomplete: it does not establish the exact DR accreditor, the independent IR training completed, whether the program director approved the shorter route, the examinations passed, licensure, or any other requirements. The correct educational response is not to infer a status. Instead, restate the route-level rule and identify which parts need verification with the program and ABR. The ABR source makes the possible one-year ESIR route conditional on IR program-director approval, and it lists requirements beyond training. [1] This illustration demonstrates a general reasoning discipline: report what the record actually says, separate that from the rule being applied, and label unresolved facts. It is not admissions advice, legal advice, a credential review, or a prediction of certification. It also does not teach procedural competence; pathway eligibility and clinical entrustment are different questions. Self-check 1: Which exact qualifier must be retained when describing the ESIR route to a possible one-year independent IR stage? Self-check 2: Name two facts in Jordan’s vignette that should be verified before anyone makes a claim about eligibility or completion.",
+      "teachingLabels": [
+        "Fictional training-pathway example",
+        "Verify facts; do not infer status"
+      ],
+      "visualPlan": "A fictional “Jordan” route card with three fields—documented facts, ABR route rule, unresolved items—and two question marks; no patient imagery or implied credential outcome."
+    }
+  ]
+}

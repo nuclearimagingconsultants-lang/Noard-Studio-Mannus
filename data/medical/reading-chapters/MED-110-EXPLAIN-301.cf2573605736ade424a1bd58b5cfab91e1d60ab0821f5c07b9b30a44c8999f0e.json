@@ -1,0 +1,86 @@
+{
+  "episodeId": "MED-110-EXPLAIN-301",
+  "courseId": "MED-110",
+  "title": "When ovarian stimulation is not feasible: the role and limits of ovarian tissue cryopreservation",
+  "description": "A focused conceptual extension on when ovarian tissue cryopreservation enters medically indicated fertility-preservation discussions, its limits, and coordinated shared decision-making. Scripted only; not rendered or measured.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility or a passing guarantee.",
+  "coverageGaps": [
+    "This is a partial conceptual chapter, not comprehensive fertility-preservation instruction.",
+    "It does not fulfill the video floor; no video is included and zero counted video minutes are added.",
+    "Human clinical review has not been performed.",
+    "No hands-on tissue retrieval, processing, cryostorage, transplantation, stimulation monitoring, or peri-treatment clinical management is taught.",
+    "It does not provide individualized success estimates, a treatment protocol, jurisdiction-specific legal advice, or detailed pediatric consent guidance."
+  ],
+  "sourceUrls": [
+    "https://www.asrm.org/practice-guidance/practice-committee-documents/fertility-preservation-in-patients-with-medical-indications-a-committee-opinion-2026/"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "e8c46dd2f70a751c26b5fc6c1eacc8bb4841700e3ac216cda3f814c80eb273c5",
+  "visualSha256": "7209b147ee6b8511c5c7961aff38497dac5963a74a0ef6664f47272a8f8c19ed",
+  "evidenceSelectionSha256": "a808db9a71e2e42fbe60c717eadc82a37093986c2c2022b1dfdfe811ce83b3fc",
+  "reviewedAt": "2026-10-09T13:21:24.403791+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/fertility-preservation-in-patients-with-medical-indications-a-committee-opinion-2026/",
+      "textSha256": "304c73841316e577c97dfc5c56beed59e6f68464f93588ba1a26a3c5f99a5114"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "Start with the constraint, not a procedure",
+      "narration": "When a planned medical therapy may threaten future fertility, the first reproductive-endocrinology question is not simply “which preservation procedure?” Start by clarifying what is known about reproductive risk, what remains uncertain, and which future family-building possibilities matter to the patient. ASRM notes that the risk varies with the disease and treatment regimen and may not be fully known at counseling. A careful explanation therefore distinguishes uncertainty from a personal prediction. [1] The pathway also depends on health and time. ASRM recommends considering whether the patient is medically able to undergo a proposed approach, whether there is adequate time, and whether there is a reasonable prospect of response. Fertility-preservation decisions should be coordinated with the medical team responsible for the planned therapy; this chapter offers a reasoning map, not an individual care plan. [1]",
+      "teachingLabels": [
+        "Risk is treatment-specific",
+        "Uncertainty is not a prognosis",
+        "Safety and time shape options"
+      ],
+      "visualPlan": "A simple decision-map: anticipated therapy and patient goals enter a shared discussion; uncertainty, medical safety, and time are shown as separate decision constraints before any option branch."
+    },
+    {
+      "title": "Recognize the ovarian-tissue branch",
+      "narration": "Mature oocyte cryopreservation is an established option for postpubertal patients, but it involves controlled ovarian stimulation and surgical oocyte retrieval. ASRM describes ovarian tissue cryopreservation (OTC) as an acceptable technique that is no longer considered experimental. Its guidance recommends considering OTC for prepubertal patients and for patients facing highly gonadotoxic therapies who cannot delay treatment to undergo stimulation and retrieval. [1] This is a fit-to-constraints branch, not a claim that OTC is best for every patient or superior to other options. When health and timing permit stimulation, oocyte or embryo cryopreservation may remain relevant choices. ASRM says the choice between cryopreserved oocytes and embryos should be based on patient choice. The right conceptual question is therefore: which options are feasible in this specific medical and temporal context, and what trade-offs should be discussed? [1]",
+      "teachingLabels": [
+        "OTC is an established option",
+        "Prepubertal or no-delay context",
+        "Feasibility is not superiority"
+      ],
+      "visualPlan": "Two clearly labeled conceptual pathways: postpubertal patient with sufficient time/medical feasibility toward stimulation-based options; prepubertal or no-delay context toward an OTC discussion, with a “not a universal ranking” note between branches."
+    },
+    {
+      "title": "Understand what tissue cryopreservation means—and does not mean",
+      "narration": "At a high level, OTC involves obtaining ovarian cortical tissue before ovarian failure, dividing it into small fragments, and cryopreserving it; transplantation may be considered later for a patient with infertility or ovarian failure. ASRM describes surgical approaches and subsequent transplantation, but those descriptions are not procedural instruction or evidence of operative competence. [1] The boundary matters: storing tissue preserves material for a possible future use; it does not establish an individual chance of pregnancy or live birth. ASRM summarizes reported births after ovarian-tissue transplantation, but those reports cannot be treated as an individualized forecast. The same guidance states that removing both ovaries for cryopreservation is not justified at this time unless the chemotherapy regimen has a high likelihood of causing complete ovarian failure. Do not convert an option discussion into a routine bilateral-removal rule. [1]",
+      "teachingLabels": [
+        "Storage is not a birth guarantee",
+        "No procedural training",
+        "Bilateral removal is not routine"
+      ],
+      "visualPlan": "A non-anatomic flow diagram with three boxes—cortical tissue obtained, tissue stored, possible later transplantation—separated by an uncertainty marker; an adjacent guardrail states that storage is not a live-birth guarantee and bilateral removal is not routine."
+    },
+    {
+      "title": "Build a shared, coordinated decision",
+      "narration": "ASRM recommends counseling about known and unknown reproductive risks, relevant treatment alternatives, and the patient’s current health. Its listed alternatives include expectant management, possible future fertility treatment, donor gametes or embryos, adoption, and living child-free. This keeps preservation in the context of the person’s goals rather than treating biological parenthood as an assumed outcome. [1] For patients who store gametes, embryos, or tissue, the guidance also calls for discussion of disposition in the event of death, with minors reconsenting once adults, and anticipatory counseling about storage location and duration, state law, transfer rules, and clinic policies. Programs that cannot provide a needed service should still counsel on options and make timely referrals; financial navigation and coordination across the fertility and primary medical teams are identified as program components. These are discussion and systems issues, not a substitute for jurisdiction-specific legal advice. [1]",
+      "teachingLabels": [
+        "Discuss alternatives and goals",
+        "Plan storage and disposition",
+        "Coordinate referral and access"
+      ],
+      "visualPlan": "A shared-decision wheel linking patient goals, medical-team timing/safety, available options, storage/disposition questions, referral capacity, and financial navigation; no patient imagery."
+    },
+    {
+      "title": "Worked illustration and self-checks",
+      "narration": "Fictional case, created for teaching: a prepubertal patient is expected to begin a highly gonadotoxic therapy soon, and the treating team believes there is no safe delay for ovarian stimulation and oocyte retrieval. A fellow can explain that treatment-related reproductive risk may be uncertain, promptly coordinate a specialist consultation, and include OTC in the options discussion because ASRM identifies prepubertal patients and no-delay situations as contexts in which it is recommended. The fellow should not promise later fertility, assume the tissue strategy is medically feasible for this individual, or independently alter cancer-treatment timing. [1] Change one fact: suppose the patient is postpubertal and the treating team determines there is adequate time and medical feasibility for stimulation. That changes which alternatives can be discussed; it does not, by itself, dictate oocyte versus embryo cryopreservation or guarantee an outcome. The conceptual lesson is to map the treatment constraint, patient goals, and feasible options together, then refer and coordinate rather than infer a one-size-fits-all procedure. [1] Self-check 1: Which two contexts in this chapter specifically bring OTC into consideration? Answer cue: prepubertal status, or highly gonadotoxic therapy when treatment cannot be delayed for stimulation and retrieval; individual safety and goals still matter. Self-check 2: Does tissue storage guarantee a future live birth, or does the source support routine removal of both ovaries? Answer cue: neither; reported outcomes are not personal guarantees, and bilateral removal is not justified as routine. [1]",
+      "teachingLabels": [
+        "Fictional case",
+        "Map feasibility before options",
+        "Two original self-checks"
+      ],
+      "visualPlan": "A fictional two-branch case card showing the same goal with different feasibility constraints, followed by two answer-reveal self-check prompts; label all case details as invented and show no patient likeness."
+    }
+  ]
+}

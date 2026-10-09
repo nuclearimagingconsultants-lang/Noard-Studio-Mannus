@@ -40667,6 +40667,15 @@
       "sha256": "a3aaf1c95a6b6b5779b4eff0d9737634c499e99d6d616c2d029dc5b8f66798b0",
       "bytes": 37601,
       "description": "Three newly source-checked chapters plus one earlier prepared chapter. Human clinician review not performed. No rendered videos or added lecture hours."
+    },
+    {
+      "id": "medical-source-prepared-12-chapters-20261009",
+      "title": "12 source-reviewed medical reading chapters — not videos",
+      "description": "Twelve source-prepared independent-study chapters, now also available under course Chapters tabs. Automated comparison to retained supporting excerpts; no human clinician review. Zero added video minutes. Does not replace full medical curriculum or clinical training.",
+      "url": "/manus-storage/medical-source-prepared-12-chapters-20261009_612581de.zip",
+      "sha256": "811d87009ae206a2d8dc51f6e7849bca49a09f106762ead020bb9148f435b97c",
+      "kind": "ZIP study notes; source-reviewed readings; no videos",
+      "bytes": 98290
     }
   ],
   "stats": {

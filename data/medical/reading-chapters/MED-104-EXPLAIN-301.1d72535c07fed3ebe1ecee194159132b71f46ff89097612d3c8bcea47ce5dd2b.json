@@ -1,0 +1,83 @@
+{
+  "episodeId": "MED-104-EXPLAIN-301",
+  "courseId": "MED-104",
+  "title": "Before the Response Algorithm: Recognizing a Hemorrhage-Referral Trigger",
+  "description": "A focused, source-bounded chapter on preprocedure hemorrhage-risk recognition and referral planning. It distinguishes one expressly named higher-risk combination from the broader, uncertain risk landscape and from the separate acute-response algorithm. Fictional examples are for conceptual study only.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility or a passing guarantee.",
+  "coverageGaps": [
+    "This is a partial discussion of preprocedure hemorrhage-risk recognition and referral; it does not cover the full recommendation, individualized risk assessment, or an emergency-response protocol.",
+    "This chapter does not fulfill the programme video floor; it is a text script and contributes zero counted video minutes.",
+    "Human clinical review has not been performed."
+  ],
+  "sourceUrls": [
+    "https://societyfp.org/clinical_guidances/society-of-family-planning-clinical-recommendation-management-of-hemorrhage-at-the-time-of-abortion/"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "3f8e52b838730db5233782d1e9bf93140d9291e8e1a1700b9cdb356630c5361b",
+  "visualSha256": "c5b9aa61d65e489c3508deadddab5bc33d7f453e3e1cfe91b17184b7596c2711",
+  "evidenceSelectionSha256": "99a9fcdc83e9fe58e5bf82db035dc0ec8e5a09fb8fce7ccb82be193201cd5379",
+  "reviewedAt": "2026-10-09T13:21:18.004831+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://societyfp.org/clinical_guidances/society-of-family-planning-clinical-recommendation-management-of-hemorrhage-at-the-time-of-abortion/",
+      "textSha256": "b33dda6ba41c94bc29b24c6d29eabe2e3b195a2272f294de770a3d7cf912a65a"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "Why start before bleeding occurs?",
+      "narration": "This chapter addresses a narrow part of abortion-care safety: what a learner can notice in the planning conversation before a procedure, and how that should change the questions about setting and consultation. It is not a treatment sequence. The Society of Family Planning (SFP) states that hemorrhage after abortion is rare, occurring in fewer than 1% of abortions, while associated morbidity may be significant. It also cautions that evidence for practices around postabortion hemorrhage is extremely limited. Those paired statements matter: a low population frequency is not a reason to ignore planning, and a serious possible outcome is not license to present uncertain evidence as a precise prediction for an individual. [1] The recommendation calls for preoperative identification of people at high risk and an organized approach to treatment. This lesson unpacks the first task only; the guideline's acute-response sequence is distinct and is not reproduced here. [1]",
+      "teachingLabels": [
+        "Preprocedure risk recognition",
+        "Rare does not mean ignore",
+        "Evidence is limited"
+      ],
+      "visualPlan": "A conceptual timeline showing a preprocedure planning checkpoint before a separate, unexpanded acute-response pathway; no patient image or procedure depiction."
+    },
+    {
+      "title": "One explicit referral trigger",
+      "narration": "The SFP recommendation names a particular combination that should not be blurred into a generic checklist: a uterine scar, complete placenta previa, and a pregnancy beyond the first trimester. For people seeking abortion in that stated context, the recommendation says they should be evaluated for placenta accreta spectrum (PAS). [1] The teaching point is the conjunction. A uterine scar alone is not the exact trigger quoted here; complete previa alone is not the exact trigger; and the gestational qualifier is part of the statement. Preserve every element when communicating the concern. This wording supports evaluation for PAS, not a diagnosis of PAS from the combination alone, and it does not specify a complete diagnostic workup in the excerpt used for this lesson. If a learner cannot confirm whether the source conditions are present, the safe educational move is to clarify the record with the responsible clinical team rather than mentally fill in missing information. [1]",
+      "teachingLabels": [
+        "Scar + complete previa + later gestation",
+        "Evaluate for PAS, not diagnose"
+      ],
+      "visualPlan": "Three adjoining labeled boxes—uterine scar, complete placenta previa, and after first trimester—feeding a box labeled 'evaluate for PAS'; add a note that this is a trigger for evaluation, not a diagnosis."
+    },
+    {
+      "title": "From recognition to setting questions",
+      "narration": "The recommendation says that, for people at high risk of hemorrhage, referral to a higher-acuity center should be considered. [1] The verb matters: 'considered' is not an automatic transfer rule, and this short excerpt does not define a score, a destination, or a universal threshold. The educational task is therefore to make the concern visible and bring the appropriate clinical decision-makers into the planning conversation. A useful handoff can state which source condition is known, which remains uncertain, and what question needs resolution—for example, whether the named combination is present and whether a higher-acuity setting should be considered. This is a reasoning scaffold, not a clinical checklist validated by the source. It avoids both extremes: silently proceeding as though no concern exists, or treating a single risk label as proof that one setting is always required. The recommendation supports consideration and organized planning, not a one-size-fits-all disposition. [1]",
+      "teachingLabels": [
+        "Consider higher-acuity referral",
+        "Clarify knowns and unknowns",
+        "No automatic disposition rule"
+      ],
+      "visualPlan": "A simple decision conversation: known facts and unknown facts flow to a qualified team discussion about whether higher-acuity referral should be considered; avoid yes/no automatic transfer arrows."
+    },
+    {
+      "title": "Worked fictional illustration",
+      "narration": "Author-created fictional case: A referral note for a person seeking abortion after the first trimester mentions a prior uterine scar, but the available summary does not state whether complete placenta previa is present. Do not collapse that incomplete note into either reassurance or a PAS diagnosis. First, identify the missing element in the exact SFP trigger. Next, ask the responsible team to clarify whether complete previa is documented and whether evaluation for PAS is indicated under the recommendation. If the treating team regards the person as at high risk of hemorrhage, the guidance says referral to a higher-acuity center should be considered. [1] The learner's contribution in this fictional exercise is precise communication of what is known, what is not known, and which source statement bears on the decision. The vignette cannot resolve the clinical facts, select a destination, or establish an individual risk level. That restraint is part of sound source use: a teaching excerpt can organize a question without pretending to answer all patient-specific questions. [1]",
+      "teachingLabels": [
+        "Fictional case; incomplete facts",
+        "Clarify before applying the trigger",
+        "No patient-specific conclusion"
+      ],
+      "visualPlan": "Fictional note card with 'uterine scar: mentioned' and 'complete previa: not stated'; an open question mark routes to team clarification and source-guided evaluation, not a diagnosis icon."
+    },
+    {
+      "title": "Limits, equity, and a source check",
+      "narration": "The same recommendation says structural inequities contribute to bleeding risk and calls attention to how policies can hinder or remedy health inequities. [1] This is a prompt to examine whether service pathways, referral access, or institutional processes create avoidable barriers; it is not a basis for assigning risk to a person from identity or social position. The source excerpt does not quantify those pathways or tell a learner how to resolve every access problem. It is also not the full text of the recommendation. The bounded publisher excerpt presents the core preoperative recommendation and selected details, while the full source may contain additional context. Use the linked guidance directly for clinical work, check whether it has changed, and follow local protocols and qualified clinical judgment. For study, keep three boundaries in view: identify the explicitly stated trigger without expanding it, communicate uncertainty rather than inventing a threshold, and separate preprocedure planning from management of active hemorrhage. [1] Self-checks: (1) Which three conditions form the SFP's named PAS-evaluation trigger? (2) Does 'consider higher-acuity referral' mean automatic transfer? Explain what the source does and does not say.",
+      "teachingLabels": [
+        "Equity is a systems question",
+        "Use current full guidance",
+        "Separate planning from response"
+      ],
+      "visualPlan": "A three-part source-reading checklist—exact trigger, uncertainty, and planning-versus-response boundary—with an equity lens shown as a systems-level frame, not a patient attribute."
+    }
+  ]
+}

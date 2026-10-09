@@ -1,0 +1,94 @@
+{
+  "episodeId": "MED-210-EXPLAIN-301",
+  "courseId": "MED-210",
+  "title": "Contextualizing free-flap monitoring when visibility and appearance vary",
+  "description": "A focused unit 10 chapter on how access, lighting, individual skin/flap appearance, age-related changes and measurement limits affect interpretation of free-flap observations. It teaches uncertainty-aware reasoning, not a monitoring protocol or treatment decision.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility or a passing guarantee.",
+  "coverageGaps": [
+    "Partial focus on contextual limits of postoperative free-flap monitoring; it does not cover the full monitoring evidence base, protocols, escalation decisions, or all patient populations.",
+    "A single 2023 narrative review excerpt underpins this chapter; its statements summarize heterogeneous literature and are not a consensus guideline.",
+    "This chapter does not fulfill the video floor and adds zero counted video minutes or measured hours.",
+    "Human clinical review has not been performed."
+  ],
+  "sourceUrls": [
+    "https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2023.1130566/full"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "b05bb0c7b721f4a127e090e3bd83de0478c91a7d40bb1f3963fe86f844c634be",
+  "visualSha256": "1d8cfdc42361de5f5e464d295365ba8c231f6c87976503a4c5aafc3fa64c9a6a",
+  "evidenceSelectionSha256": "596f5305b7a70364edafc4f848a9760332819992eb103e7eba6e131c26a077a7",
+  "reviewedAt": "2026-10-09T13:21:58.791400+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2023.1130566/full",
+      "textSha256": "76c28955cb6fa54905332a098ebf2e8c9fa2ec8755365cc5eb3901f0fcec562d"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "A signal is an observation, not a verdict",
+      "narration": "Postoperative free-flap monitoring combines observations and instruments, but an observed change is not itself a diagnosis. A 2023 review describes clinical examination together with handheld acoustic Doppler as the accepted standard, while emphasizing that each method has limitations. The review notes that visible appearances and warning signs can vary, creating risk of disagreement between observers [1]. The educational task here is narrower than deciding whether a flap is threatened: state what was observed, note the conditions that could affect observation, and preserve uncertainty. Do not turn one color, refill, temperature, or Doppler impression into a definitive conclusion. This chapter supplies no examination schedule, threshold, or treatment instruction; those decisions are outside this self-study material.",
+      "teachingLabels": [
+        "Observation is not diagnosis",
+        "Appearance can vary",
+        "Keep uncertainty explicit"
+      ],
+      "visualPlan": "A conceptual flow diagram separates raw observation, context affecting observation, uncertainty statement, and clinician interpretation; no patient image or operative scene."
+    },
+    {
+      "title": "Visibility and lighting change what can be seen",
+      "narration": "Access is part of the measurement. The review explains that clinical examination has limited applicability for buried or poorly accessible flaps, and that lighting can distort assessment of flap color and appearance [1]. This means that an absent or ambiguous visual cue may reflect a limit of the observation method rather than settle the underlying vascular state. A conceptual illustration: an author-created fictional oral-cavity flap is difficult to inspect directly, and the available view is affected by illumination. A learner should describe those limits before interpreting the apparent color. The illustration is not a real case and does not imply that a particular monitoring method or response is indicated. It simply demonstrates why observation conditions belong in the reasoning record.",
+      "teachingLabels": [
+        "Buried or hard-to-access flaps limit examination",
+        "Lighting affects appearance",
+        "Describe observation conditions"
+      ],
+      "visualPlan": "Two schematic views of the same abstract flap silhouette—one unobstructed, one partly obscured and differently lit—with a caption that visibility is a measurement condition, not a clinical finding."
+    },
+    {
+      "title": "Appearance varies across people and flaps",
+      "narration": "The review cautions that individual differences in age and skin color, along with inconsistent warning signs, can reduce agreement between observers [1]. It specifically reports that colorimetric assessment may be challenging in Black patients and subtle skin changes may be missed; this is a limitation of visual assessment discussed by the authors, not a claim that monitoring is impossible or that a single alternative solves it [1]. The teaching point is to avoid assuming a universal visual baseline or treating color alone as decisive. A careful description records what can and cannot be judged in the observed flap and recognizes uncertainty when a cue is subtle. The source is a review that summarizes prior studies; this chapter does not establish a validated equity-adjusted scoring system or make population-specific clinical recommendations.",
+      "teachingLabels": [
+        "Appearance is not uniform",
+        "Color alone may be unreliable",
+        "No validated adjustment is supplied"
+      ],
+      "visualPlan": "A nonclinical schematic shows several abstract color/texture swatches beside a note that appearance differs and color alone is not a universal scale; no depiction of actual patients."
+    },
+    {
+      "title": "Age-related features and standardization limits",
+      "narration": "For older patients, the review describes age-related skin changes that may complicate visual assessment, including age spots, more visible superficial vessels, and wrinkles that complicate assessment of turgor [1]. It also reports that, at the time of publication, standardized clinical-examination protocols for older free-flap patients had not been published [1]. These statements should be read as the review's account of the evidence it surveyed, not as proof that every older patient is difficult to assess or that current local practice has not changed. In a conceptual exercise, an author-created fictional observation note can state that turgor is hard to judge and that appearance is confounded by skin features. That wording communicates the limit without assigning a diagnosis or implying a response. The source does not provide an age-specific threshold or a validated correction method.",
+      "teachingLabels": [
+        "Age-related appearance may complicate assessment",
+        "No age-specific threshold here",
+        "Avoid overgeneralizing"
+      ],
+      "visualPlan": "A conceptual checklist separates age-associated appearance features from the clinical interpretation column; use abstract icons and explicitly mark the schematic as non-diagnostic."
+    },
+    {
+      "title": "Adjuncts have their own blind spots",
+      "narration": "Adding a device does not remove uncertainty. The review describes handheld acoustic Doppler as a useful adjunct, but notes that its sensitivity centers on superficial flap vessels, specificity is limited, and buried-flap assessment may be unreliable [1]. It also states that no definitive conclusion about flap condition can be drawn from acoustic Doppler alone [1]. Thus, an educational description should distinguish a recorded signal from the broader question it is being used to inform. The review's table discusses multiple newer methods and their strengths and limitations, but it does not establish that one technology is universally superior; robust evidence and practical applicability vary by method [1]. This chapter therefore teaches comparison of information limits, not device selection, monitoring frequency, or an escalation algorithm.",
+      "teachingLabels": [
+        "Adjunct signals have limits",
+        "Doppler alone is not definitive",
+        "No universal device winner"
+      ],
+      "visualPlan": "A conceptual two-column diagram contrasts 'what a signal can describe' with 'what remains uncertain'; show a superficial vessel icon and an obscured vessel icon without procedural detail."
+    },
+    {
+      "title": "Self-check: make uncertainty legible",
+      "narration": "1. In an author-created fictional scenario with a poorly visible flap and changing illumination, what observation limits should be stated before interpreting color? 2. If a handheld Doppler signal is heard, what does the cited review say cannot be concluded from that signal alone?",
+      "teachingLabels": [
+        "Name the observation limits",
+        "Do not overread one signal"
+      ],
+      "visualPlan": "Two text-only reflection cards, with no answers embedded and no patient-specific details."
+    }
+  ]
+}

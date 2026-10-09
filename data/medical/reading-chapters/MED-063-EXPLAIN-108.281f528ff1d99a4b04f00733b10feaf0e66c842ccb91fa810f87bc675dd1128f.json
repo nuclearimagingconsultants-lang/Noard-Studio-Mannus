@@ -1,0 +1,80 @@
+{
+  "episodeId": "MED-063-EXPLAIN-108",
+  "courseId": "MED-063",
+  "title": "Pediatric and pregnancy emergency imaging: population-specific questions, image-quality limits, and safety-aware language",
+  "description": "A missing-unit chapter on pediatric/pregnancy context, ultrasound/MRI/CT safety framing, and abuse-sensitive reporting boundaries.",
+  "educationalLimits": "Educational material using fictional text-only scenarios. It is not patient-specific advice, a protocol order, diagnostic authority, treatment direction, credential, board-eligibility pathway, or replacement for supervised clinical training. Guidance is variant- and revision-specific; qualified clinicians must use current local policy. Human clinician review has not been performed.",
+  "coverageGaps": [
+    "Detailed pediatric intussusception, nonaccidental-trauma standards, fetal dose estimation, and obstetric ultrasound are not fully taught here.",
+    "No independently access-verified pediatric/pregnancy emergency recording was available for additional measured hours.",
+    "Head-trauma decision-rule interpretive cautions not supported by provided excerpts.",
+    "Abuse imaging and reporting boundaries not supported by provided excerpts."
+  ],
+  "sourceUrls": [
+    "https://acsearch.acr.org/docs/69481/Narrative/",
+    "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/10/guidelines-for-diagnostic-imaging-during-pregnancy-and-lactation",
+    "https://acsearch.acr.org/docs/69503/narrative/",
+    "https://acsearch.acr.org/docs/3102405/Narrative/"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "0b3a6f32dfecb4bc410468e84c50d634a9cec339575818b00b2c8513910e4a54",
+  "visualSha256": "a523baeb6469f32ca95afe947c473710a810f4aeeac75d42195594d304471054",
+  "evidenceSelectionSha256": "f89913f878d0fb82e32b3d36898e732f52c5330edb7ef4fba06bd43b1a3b23c2",
+  "reviewedAt": "2026-10-09T12:34:03.171671+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://acsearch.acr.org/docs/69481/Narrative/",
+      "textSha256": "52ed94d70bc74d7e0c7947f863f24862c775188f2d1c32e14c7e0c38c53b71a3"
+    },
+    {
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/10/guidelines-for-diagnostic-imaging-during-pregnancy-and-lactation",
+      "textSha256": "8126946e402e95827fa1ebc36f4ca54cf5cf636c4abaceacee735bfb7534ca1e"
+    },
+    {
+      "url": "https://acsearch.acr.org/docs/69503/narrative/",
+      "textSha256": "3819996b911cd88a2a46449a9ca9d60bfc63dc3b398f669d8e282e482d54223c"
+    },
+    {
+      "url": "https://acsearch.acr.org/docs/3102405/Narrative/",
+      "textSha256": "08bba80e0b87f87e85e6129f42aa3b5384c2f5123613f276eda1b1a665c3c9f4"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "Do not copy an adult pathway into a child or pregnancy context",
+      "narration": "Pediatric and pregnancy imaging requires a specific population and question. A child’s size, developmental anatomy, ability to cooperate, radiation sensitivity, and clinical pathway may differ from those of an adult. For pregnancy, ACOG states that ultrasonography and MRI are not associated with risk and are the imaging techniques of choice when used prudently to answer a relevant clinical question; necessary radiography, CT, or nuclear medicine studies should not be withheld merely because of pregnancy. The use of gadolinium contrast with MRI should be limited to situations in which it significantly improves diagnostic performance and is expected to improve maternal or fetal outcome. Those statements should not be converted into an individual risk calculation or a generic “ultrasound first” order. The indication, gestational context, stability, physical examination, alternatives, and availability matter. The ACR Major Blunt Trauma guideline includes a specific variant for hemodynamically stable pregnant patients in which CT abdomen/pelvis with IV contrast may be considered usually appropriate based on the clinical scenario. This independent curriculum cannot replace pediatric, obstetric, trauma, or radiation-safety consultation.",
+      "teachingLabels": [
+        "Population-specific framing",
+        "Necessary imaging is not automatically withheld",
+        "No individual risk estimate"
+      ],
+      "visualPlan": "Two conceptual context cards: child and pregnant patient; each asks “question, stability, modality, limitation” rather than prescribing an exam."
+    },
+    {
+      "title": "State what pediatric and ultrasound examinations can and cannot show",
+      "narration": "Pediatric head CT interpretation needs the same basic quality checks as adult CT—coverage, motion, reconstruction, and artifact—but the report must account for age-appropriate anatomy and avoid assuming that a normal variant is trauma. A skeletal-survey or abuse-sensitive concern cannot be resolved by a single image or by an AI-like pattern claim. Describe objectively visible injuries, discrepancies in imaging chronology only when supported by priors, and the limits of imaging. Imaging findings alone do not establish intent, mechanism, or a legal conclusion. For ultrasound-led pediatric abdominal or pelvic questions, distinguish a visualized normal structure from a nonvisualized structure. Bowel gas, habitus, pain, and operator/technical factors influence visualization. A nondiagnostic ultrasound is not a negative ultrasound. When Doppler is used in pregnancy or a child, it is performed for a clinical question with appropriate technique; ACOG’s ALARA discussion supports prudent use rather than indiscriminate scanning. A report should name the organ assessed, the direct observation, and the reason an area is not assessed. This is more useful than a generic “limited study.”",
+      "teachingLabels": [
+        "Age-aware anatomy",
+        "Nonvisualized ≠ normal",
+        "Objective abuse-sensitive language"
+      ],
+      "visualPlan": "Illustrated text-only quality checklist: coverage, motion, visualization, Doppler adequacy, direct observation, limitation."
+    },
+    {
+      "title": "Worked pediatric and pregnancy answers",
+      "narration": "Worked fictional pediatric case: an ultrasound for right-lower-quadrant pain does not visualize the appendix because of bowel gas and shows no secondary inflammatory finding. The learner answer is: “Appendix not visualized; no secondary inflammatory finding identified on this limited examination.” It is incorrect to call the appendix normal. The clinical team uses the current pediatric pathway, serial assessment, and available modalities as appropriate; the report does not select treatment. Worked fictional pregnancy-trauma case: a stable pregnant patient has a CT already performed for major trauma. The report identifies a splenic laceration and notes whether image quality limits the evaluated structures. The answer should not claim that imaging was harmless, assign fetal outcome, or imply that pregnancy made the study forbidden. Instead: “Splenic laceration [location/extent as demonstrated]; communicate urgent imaging finding through local policy. Pregnancy-specific risk and management require the treating multidisciplinary team.” Learner question: why is that phrasing safer? Answer: it separates the radiologic observation from individual risk counseling and management. No human clinical review has occurred for this chapter.",
+      "teachingLabels": [
+        "Fictional pediatric/pregnancy cases",
+        "Exact learner answers",
+        "Safety and scope boundary"
+      ],
+      "visualPlan": "Text-only cases with answers labeled “observation,” “limitation,” “communication,” and “not inferred.”"
+    }
+  ]
+}
