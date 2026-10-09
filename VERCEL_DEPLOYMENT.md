@@ -6,8 +6,8 @@ website.
 
 ## Before import
 
-1. Create/review a new public GitHub repository containing this snapshot (for
-   the authorized target: `nuclearimagingconsultants-lang/board-studio`).
+1. Import the reviewed public source repository:
+   [nuclearimagingconsultants-lang/Noard-Studio-Mannus](https://github.com/nuclearimagingconsultants-lang/Noard-Studio-Mannus).
 2. Review the tree for secrets and private material before pushing. Do not add
    Manus credentials, private database exports, learner rows, PDF/MP4 binaries,
    internal audit state, or Git history from another project.
@@ -75,7 +75,7 @@ new reviewed export with lawful content and an updated regenerated API bundle.
 The compact snapshot supports 384 course workspaces (333 medical programme or
 variant records) and reports 219 ready originals (147 base, 72 medical). That
 is the frozen bundled-snapshot count, not a claim about later hosted-production
-additions or 216 completed courses. Medical content remains incomplete and
+additions or completed courses. Medical content remains incomplete and
 human clinician review has not been performed. Automated checks are not
 clinician review; self-study is not institutional affiliation, credit,
 credential, clinical training, eligibility, certification, or a boards-pass
