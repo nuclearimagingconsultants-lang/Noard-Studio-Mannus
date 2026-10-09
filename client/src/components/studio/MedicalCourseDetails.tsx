@@ -151,6 +151,13 @@ export function MedicalCourseOverview({ course }: { course: CourseRecord }) {
       )}
       <div className="medical-caveats">
         <h3>Source caveats</h3>
+        <p className="muted-copy">
+          These retained notes describe source-access checks when the curriculum
+          was assembled. Earlier statements about missing videos are not live
+          availability totals; use the measured runtime above and the ready
+          lesson queue for current availability. Access restrictions and clinical
+          limitations still apply.
+        </p>
         <FlexibleContent
           value={metadata.sourceCaveats}
           empty="No source caveats have been supplied."

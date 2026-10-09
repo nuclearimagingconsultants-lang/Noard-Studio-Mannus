@@ -3207,6 +3207,198 @@
         "vtt": "2cb13002aca797a573a2c6150986473ce491c72a7c75f481dff24649fb7497d9",
         "transcript": "8681d364cbf11838a98674a6795a33e317816bb53f6cbf760ca0ddedce365c49"
       }
+    },
+    {
+      "id": "MED-105-EXPLAIN-101",
+      "title": "Primary Vaginal Carcinoma: Establishing Site, Extent, and the Evidence Boundary",
+      "description": "A source-bounded, nonprocedural exercise in separating primary site, histology, anatomic extent, and sparse evidence when considering vaginal carcinoma.",
+      "status": "ready",
+      "sourceKind": "medical_instruction",
+      "medicalSourceReviewStatus": "passed_automated_source_check",
+      "humanClinicalReviewStatus": "not performed",
+      "programIds": [
+        "med"
+      ],
+      "courseIds": [
+        "MED-105"
+      ],
+      "isInstructional": true,
+      "durationSeconds": 620,
+      "videoUrl": "/manus-storage/MED-105-EXPLAIN-101_8bbc32e3.mp4",
+      "captionUrl": "/manus-storage/MED-105-EXPLAIN-101_f0c3e35a.vtt",
+      "transcriptUrl": "/manus-storage/MED-105-EXPLAIN-101.transcript_398e33bd.md",
+      "sourceUrls": [
+        "https://www.cancer.gov/types/vaginal/hp/vaginal-treatment-pdq"
+      ],
+      "scriptSha256": "8ffca31d9b44c0c99a6c3727669256dfff7791b1857547555c6bfbf3bbf8d62c",
+      "visualSha256": "e2e6d1a9e678318c4a6713166c727876b8745341af8a3798f27a0bc2f1aa5490",
+      "evidenceSelectionSha256": "d473b9e006dc25aa25ddd20d510466187f6dcc2310e3fec2921be02b909b7237",
+      "renderContentSha256": "eea5f9f04b2f379bb0c8bcecfec8a2811496954d14b322bdade7ab013aedcffb",
+      "localAssetSha256": {
+        "mp4": "1f9e1c5ec1f0f80e67a63fd3d02687ba42d7fa7d7eda4b5e6a8a4129a0451128",
+        "vtt": "f0685f546148976553c164e7e02da2f618d0c5cf65cff78f9c3033c74a90db29",
+        "transcript": "130afceb72d3cee6e4c2b3283722a31b8229a963b40076633196e9d5be0e975a"
+      },
+      "uploadedAssetSha256": {
+        "mp4": "1f9e1c5ec1f0f80e67a63fd3d02687ba42d7fa7d7eda4b5e6a8a4129a0451128",
+        "vtt": "f0685f546148976553c164e7e02da2f618d0c5cf65cff78f9c3033c74a90db29",
+        "transcript": "130afceb72d3cee6e4c2b3283722a31b8229a963b40076633196e9d5be0e975a"
+      }
+    },
+    {
+      "id": "MED-107-EXPLAIN-101",
+      "title": "Previable and periviable PPROM: a counseling and evidence map",
+      "description": "A source-bounded, fictional-scenario teaching chapter on the scope of SMFM Consult Series #71, individualized counseling, conditional recommendations, and the limits of translating a guideline into individual care.",
+      "status": "ready",
+      "sourceKind": "medical_instruction",
+      "medicalSourceReviewStatus": "passed_automated_source_check",
+      "humanClinicalReviewStatus": "not performed",
+      "programIds": [
+        "med"
+      ],
+      "courseIds": [
+        "MED-107"
+      ],
+      "isInstructional": true,
+      "durationSeconds": 473.965986,
+      "videoUrl": "/manus-storage/MED-107-EXPLAIN-101_3e96e615.mp4",
+      "captionUrl": "/manus-storage/MED-107-EXPLAIN-101_304a2cd3.vtt",
+      "transcriptUrl": "/manus-storage/MED-107-EXPLAIN-101.transcript_37f06b59.md",
+      "sourceUrls": [
+        "https://publications.smfm.org/publications/573-society-for-maternal-fetal-medicine-consult-series-71/",
+        "https://assets.noviams.com/novi-file-uploads/smfm/Publications_and_Guidelines/Consults/PPROM_Final_Publication.pdf"
+      ],
+      "scriptSha256": "432c0c03cc9f3a5634911c24cc444b3e524dcca0098d519ecc19539f1fec686f",
+      "visualSha256": "92b89f7edb18538ac3118debced731cadbf38d7b9b4b6418b433668efa833d9b",
+      "evidenceSelectionSha256": "71470e25274b1b2bfae5caa294c164c4fdff3aeaf3e7803b8877c6fcecb637af",
+      "renderContentSha256": "eba16e608a493d9d37d1a3f0875eff5662988d226d8682e73431618d7946ea9e",
+      "localAssetSha256": {
+        "mp4": "1f31bd27eea596226bc65bad5aa40395c6aba2b5ffcce11d37cb73cf18d625d8",
+        "vtt": "b15083167db0e78c8ad8bd55a9d952df79dd7707b6dbc3a91e75eebbb584cd42",
+        "transcript": "bb4291825877063cba23bf0184124357974a4126e8639cdeae46fc5432a652b1"
+      },
+      "uploadedAssetSha256": {
+        "mp4": "1f31bd27eea596226bc65bad5aa40395c6aba2b5ffcce11d37cb73cf18d625d8",
+        "vtt": "b15083167db0e78c8ad8bd55a9d952df79dd7707b6dbc3a91e75eebbb584cd42",
+        "transcript": "bb4291825877063cba23bf0184124357974a4126e8639cdeae46fc5432a652b1"
+      }
+    },
+    {
+      "id": "MED-108-EXPLAIN-113",
+      "title": "Postpartum Headache: Keep the Differential Wider Than a Dural Puncture",
+      "description": "A source-bounded Unit 9 teaching chapter on recognizing the limits of a presumed post-dural puncture headache, documenting uncertainty, and organizing appropriate escalation in a fictional postpartum scenario.",
+      "status": "ready",
+      "sourceKind": "medical_instruction",
+      "medicalSourceReviewStatus": "passed_automated_source_check",
+      "humanClinicalReviewStatus": "not performed",
+      "programIds": [
+        "med"
+      ],
+      "courseIds": [
+        "MED-108"
+      ],
+      "isInstructional": true,
+      "durationSeconds": 482,
+      "videoUrl": "/manus-storage/MED-108-EXPLAIN-113_756f9eaa.mp4",
+      "captionUrl": "/manus-storage/MED-108-EXPLAIN-113_0db4213f.vtt",
+      "transcriptUrl": "/manus-storage/MED-108-EXPLAIN-113.transcript_85e1d84a.md",
+      "sourceUrls": [
+        "https://www.asahq.org/standards-and-practice-parameters/statement-on-post-dural-puncture-headache-management",
+        "https://asra.com/news-publications/asra-newsletter/newsletter-item/asra-news/2024/11/06/collaborative-excellence-the-multi-society-post-dural-puncture-headache-guidelines"
+      ],
+      "scriptSha256": "0a72e04e5558c5d1c9550483c4b04b44533f9b8c520e66c364ec257d90f5ab32",
+      "visualSha256": "79a6819964683bcf8b1ac829b7dbbb75bb656e7e3b44f4c123317338e1a9e446",
+      "evidenceSelectionSha256": "c1d32cde4efcc0205a80264d92971222452cb581a4a712251798c31eacb02f42",
+      "renderContentSha256": "634ad3d41cc7589bee8d7d67a6bb2dc4530c22b530f1218c75770310fef8e3b6",
+      "localAssetSha256": {
+        "mp4": "1edab91f08e0aa96d611d7d44021511efac3ec512e12a86d99bf9b498c4eb20e",
+        "vtt": "dc10790fb784700b228b33f38c3b8b973596cfe601c4b81fd518e767ff03dd02",
+        "transcript": "4c26752b2fadf91a55fe6ad8f50966a390610ada77c05dcaeb465ee8c08ee824"
+      },
+      "uploadedAssetSha256": {
+        "mp4": "1edab91f08e0aa96d611d7d44021511efac3ec512e12a86d99bf9b498c4eb20e",
+        "vtt": "dc10790fb784700b228b33f38c3b8b973596cfe601c4b81fd518e767ff03dd02",
+        "transcript": "4c26752b2fadf91a55fe6ad8f50966a390610ada77c05dcaeb465ee8c08ee824"
+      }
+    },
+    {
+      "id": "MED-110-EXPLAIN-103",
+      "title": "Medically indicated fertility preservation: build the referral and decision map before treatment starts",
+      "description": "Original source-bounded teaching chapter for unit 11. It uses a fictional planning scenario to distinguish reproductive-risk counseling, rapid referral, option categories, consent, access, and uncertainty. Scripted only; it is not rendered, measured media, clinician reviewed, or a clinical protocol.",
+      "status": "ready",
+      "sourceKind": "medical_instruction",
+      "medicalSourceReviewStatus": "passed_automated_source_check",
+      "humanClinicalReviewStatus": "not performed",
+      "programIds": [
+        "med"
+      ],
+      "courseIds": [
+        "MED-110"
+      ],
+      "isInstructional": true,
+      "durationSeconds": 729,
+      "videoUrl": "/manus-storage/MED-110-EXPLAIN-103_10c35ec8.mp4",
+      "captionUrl": "/manus-storage/MED-110-EXPLAIN-103_23b7814a.vtt",
+      "transcriptUrl": "/manus-storage/MED-110-EXPLAIN-103.transcript_4829ecda.md",
+      "sourceUrls": [
+        "https://www.asrm.org/practice-guidance/practice-committee-documents/fertility-preservation-in-patients-with-medical-indications-a-committee-opinion-2026/",
+        "https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-women",
+        "https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-men"
+      ],
+      "scriptSha256": "eb39c77187c91885ccaa6f894df3c8aa9e9c494fe8599be11f9f53b6f44178f4",
+      "visualSha256": "c9bac694dc5f0b7cc8a2ffbf52a00be01f7fdc33a2e2e4eaff9f322135815fb5",
+      "evidenceSelectionSha256": "c83cd5819218819e7d07cf896689e9ac3864f3353a6a095b5a9f7c3847faed61",
+      "renderContentSha256": "de7f0520afa17e0925f8a22300bc5b0d3e07f474986298492469eff3539ae587",
+      "localAssetSha256": {
+        "mp4": "781222ad522c550c31d6884b1775d575b8d488f595cedc64468702d91fb310e8",
+        "vtt": "c904216c2288420237b5440701065498bba80b69060c08de6fd0a21c9871c7f1",
+        "transcript": "a67283b0355580fdb0b184dffc91d6e9c6152a32b1f8b9930ff35146771c8324"
+      },
+      "uploadedAssetSha256": {
+        "mp4": "781222ad522c550c31d6884b1775d575b8d488f595cedc64468702d91fb310e8",
+        "vtt": "c904216c2288420237b5440701065498bba80b69060c08de6fd0a21c9871c7f1",
+        "transcript": "a67283b0355580fdb0b184dffc91d6e9c6152a32b1f8b9930ff35146771c8324"
+      }
+    },
+    {
+      "id": "MED-112-EXPLAIN-107",
+      "title": "Risk Is Not a Screening Order: Prevention, Surveillance, and Transplant-Aware Questions",
+      "description": "A source-bounded teaching chapter that separates population-screening evidence, prevention, post-diagnosis surveillance, and a transplant-aware multidisciplinary question without creating a patient-specific plan.",
+      "status": "ready",
+      "sourceKind": "medical_instruction",
+      "medicalSourceReviewStatus": "passed_automated_source_check",
+      "humanClinicalReviewStatus": "not performed",
+      "programIds": [
+        "med"
+      ],
+      "courseIds": [
+        "MED-112"
+      ],
+      "isInstructional": true,
+      "durationSeconds": 637,
+      "videoUrl": "/manus-storage/MED-112-EXPLAIN-107_230053cc.mp4",
+      "captionUrl": "/manus-storage/MED-112-EXPLAIN-107_42fdf526.vtt",
+      "transcriptUrl": "/manus-storage/MED-112-EXPLAIN-107.transcript_47616eec.md",
+      "sourceUrls": [
+        "https://www.cancer.gov/types/skin/hp/skin-prevention-pdq",
+        "https://www.cancer.gov/types/skin/hp/skin-screening-pdq",
+        "https://www.aad.org/member/clinical-quality/guidelines/scc",
+        "https://www.youtube.com/watch?v=PbF8gsfrKl4"
+      ],
+      "scriptSha256": "764709195bb995961fb7ee60232e0ee363903634f26f8c712639f0f206581dbb",
+      "visualSha256": "91927de23fa3694b50c3cf0b64740243e4d86b0764131ccc334880315a503992",
+      "evidenceSelectionSha256": "3ed1f51e8c8e5fc0da33b3e1701deb89813413d14c2e622cbaf8bea2389c289c",
+      "renderContentSha256": "7e310441b0e6407c14f414bf6e96db9487629dab73d76832a604b08a4f63fe92",
+      "localAssetSha256": {
+        "mp4": "b1f94520249c98b4ce90146c00dd953c9e642cb379ac5e3644b98635e5a90463",
+        "vtt": "0faec86c603a08bd9fc7463f762949060fc32fa8c831f3ca149895a1fcad583f",
+        "transcript": "71535ac094b82ed0aa3eedfcf092add7061b895aa714012385d55feb41b0db18"
+      },
+      "uploadedAssetSha256": {
+        "mp4": "b1f94520249c98b4ce90146c00dd953c9e642cb379ac5e3644b98635e5a90463",
+        "vtt": "0faec86c603a08bd9fc7463f762949060fc32fa8c831f3ca149895a1fcad583f",
+        "transcript": "71535ac094b82ed0aa3eedfcf092add7061b895aa714012385d55feb41b0db18"
+      }
     }
   ],
   "sourceCoverage": [],

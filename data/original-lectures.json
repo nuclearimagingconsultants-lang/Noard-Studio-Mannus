@@ -4497,10 +4497,10 @@
     {
       "id": "pdf-0ed56bf06388-L001",
       "title": "Business-plan foundations: evidence, assumptions, and bottom-up market sizing",
-      "description": "Production check failed: Model returned no structured choice; no partial script accepted.",
+      "description": "This lesson covers the initial components of writing a business plan, focusing on common pitfalls for young entrepreneurs and the importance of evidence-based market analysis as taught in the MIT 15.390 New Enterprises course. This instructional unit covers common pitfalls in business planning, historical market data visualization for the healthcare sector, and the mathematical framework for bottom-up market sizing based on incidence and penetration rates. This lesson examines the common failures of business plans, the necessity of precise market segmentation, and the foundational role of testable assumptions in early-stage venture planning. This section explores the fundamental qualitative strengths and weaknesses of a business plan, focusing on conveying urgency, mastery, and logic while avoiding bad numbers and unsubstantiated claims.",
       "sourceId": "pdf-0ed56bf06388",
-      "status": "blocked",
-      "coverageStatus": "blocked",
+      "status": "ready",
+      "coverageStatus": "partial",
       "sourceKind": "slides",
       "programIds": [
         "cto",
@@ -4521,7 +4521,64 @@
         8,
         9,
         10
-      ]
+      ],
+      "pageCues": [
+        {
+          "start": 0,
+          "end": 45.89052154195012,
+          "page": 1
+        },
+        {
+          "start": 45.89052154195012,
+          "end": 95.55954648526078,
+          "page": 2
+        },
+        {
+          "start": 95.55954648526078,
+          "end": 277.39963718820854,
+          "page": 3
+        },
+        {
+          "start": 277.39963718820854,
+          "end": 328.70566893424024,
+          "page": 4
+        },
+        {
+          "start": 328.7056689342403,
+          "end": 417.11083900226737,
+          "page": 5
+        },
+        {
+          "start": 417.1108390022673,
+          "end": 529.3063945578228,
+          "page": 6
+        },
+        {
+          "start": 529.3063945578228,
+          "end": 595.7248979591836,
+          "page": 7
+        },
+        {
+          "start": 595.7248979591836,
+          "end": 652.28126984127,
+          "page": 8
+        },
+        {
+          "start": 652.2812698412699,
+          "end": 778.8784580498874,
+          "page": 9
+        },
+        {
+          "start": 778.8784580498873,
+          "end": 906.0302947845815,
+          "page": 10
+        }
+      ],
+      "isInstructional": true,
+      "durationSeconds": 906.030023,
+      "videoUrl": "/manus-storage/pdf-0ed56bf06388-L001_ba35240d.mp4",
+      "captionUrl": "/manus-storage/pdf-0ed56bf06388-L001_a34e4c31.vtt",
+      "transcriptUrl": "/manus-storage/pdf-0ed56bf06388-L001_eb7e5691.md"
     },
     {
       "id": "pdf-0ed56bf06388-L002",
@@ -7140,7 +7197,7 @@
     {
       "id": "pdf-3c31f46fee98-L001",
       "title": "CSF 2.0: purpose, scope, and the six-function Core",
-      "description": "Production check failed: Model returned no structured choice; no partial script accepted.",
+      "description": "Production check failed: Source-fidelity review failed for bounded group 2: {\"suitable\": false, \"accuracy_issues\": [\"Remove the ungrounded claim in Section 1 that the preface frames risk reduction as 'potentially enabling a positive business opportunity, rather than presenting risk work as only loss prevention.' While prompted by the plan, this specific example and phrasing do not appear anywhere in the provided source text on physical page 5.\"], \"missing_topics\": [], \"coverage_label\": \"Good coverage but includes ungrou",
       "sourceId": "pdf-3c31f46fee98",
       "status": "blocked",
       "coverageStatus": "blocked",
@@ -14922,7 +14979,7 @@
     {
       "id": "pdf-561cfda9f205-L001",
       "title": "Financial intermediation, fintech foundations, and the evolution of customer and risk systems",
-      "description": "Production check failed: Model returned no structured choice; no partial script accepted.",
+      "description": "Production check failed: Source-fidelity review failed for bounded group 1: {\"suitable\": false, \"accuracy_issues\": [\"The narration includes a detailed 'course roadmap' (covering the financial world, fintech, AI, Open Banking, blockchain, actors, teaching team, schedule, assignments, and office hours) that does not appear in the provided source pages (pages 2-4). Despite the erroneous prompt instruction referencing page 5, including this information violates the strict scope rule against teaching material from outside th",
       "sourceId": "pdf-561cfda9f205",
       "status": "blocked",
       "coverageStatus": "blocked",
@@ -33676,10 +33733,10 @@
     {
       "id": "pdf-fc5a449b7974-L004",
       "title": "Orthogonality, least squares, QR, and determinants as geometry",
-      "description": "Production check failed: Fresh scoped full source-fidelity review failed: {\"suitable\": false, \"accuracy_issues\": [\"The narration omits the source's derivation of Cramer's rule (multiplying A by an identity matrix with one replaced column to yield B1), merely stating the rule instead.\", \"The narration omits the expanded algebraic form of the squared error E = xᵀAᵀAx − 2xᵀAᵀb + bᵀb, which was required to be preserved in the text.\", \"The narration fails to verify that the error vector e is orthogonal to the line in the fir",
+      "description": "This lesson covers the fundamental concepts of orthogonality between subspaces, the geometric and algebraic derivation of projections, and the application of these principles to least squares regression, based on physical PDF pages 33 through 35 of the source material. This lesson explores the construction of orthonormal bases through the Gram-Schmidt process, the QR factorization of a matrix, and the fundamental properties and formulas for determinants of square matrices. This lesson explores advanced determinant techniques, including cofactor expansions and the explicit formula for matrix inverses. It further derives Cramer's Rule, examines the algebraic properties of determinants, and provides a geometric interpretation of determinants as area and volume through the lens of the QR decomposition.",
       "sourceId": "pdf-fc5a449b7974",
-      "status": "blocked",
-      "coverageStatus": "blocked",
+      "status": "ready",
+      "coverageStatus": "partial",
       "sourceKind": "lecture_notes",
       "programIds": [
         "ai"
@@ -33700,7 +33757,59 @@
         39,
         40,
         41
-      ]
+      ],
+      "pageCues": [
+        {
+          "start": 0,
+          "end": 97.16435374149663,
+          "page": 33
+        },
+        {
+          "start": 97.16435374149663,
+          "end": 384.993922902494,
+          "page": 34
+        },
+        {
+          "start": 384.993922902494,
+          "end": 641.4079818594108,
+          "page": 35
+        },
+        {
+          "start": 641.4079818594108,
+          "end": 932.1902040816342,
+          "page": 36
+        },
+        {
+          "start": 932.1902040816343,
+          "end": 999.9591836734713,
+          "page": 37
+        },
+        {
+          "start": 999.9591836734714,
+          "end": 1067.7281632653085,
+          "page": 38
+        },
+        {
+          "start": 1067.7281632653085,
+          "end": 1183.0415419501167,
+          "page": 39
+        },
+        {
+          "start": 1183.0415419501169,
+          "end": 1356.7947392290293,
+          "page": 40
+        },
+        {
+          "start": 1356.7947392290293,
+          "end": 1459.6015419501184,
+          "page": 41
+        }
+      ],
+      "isInstructional": true,
+      "durationSeconds": 1460,
+      "videoUrl": "/manus-storage/pdf-fc5a449b7974-L004_35fe177f.mp4",
+      "captionUrl": "/manus-storage/pdf-fc5a449b7974-L004_52994cb5.vtt",
+      "transcriptUrl": "/manus-storage/pdf-fc5a449b7974-L004_e482f42e.md"
     },
     {
       "id": "pdf-fc5a449b7974-L005",
@@ -34549,7 +34658,7 @@
       "substantivePages": 80,
       "taughtPages": 0,
       "plannedLessons": 9,
-      "readyLessons": 0,
+      "readyLessons": 1,
       "programIds": [
         "cto",
         "mba"
@@ -34561,7 +34670,11 @@
         "Physical page 52 literally says 'Do let the media obscure your message,' an apparent inconsistency with adjacent clarity advice. The plan preserves and flags the wording rather than silently correcting it.",
         "DMU and DMP appear as abbreviations on physical page 83 without expansion or definition; their meaning is intentionally unresolved rather than guessed.",
         "The scorecard says each plan subject takes about five pages, but the source supplies no complete sample plan, financial model, valuation calculation, experiment protocol, or current data validation.",
-        "Market figures, named-company cases, cited web link, and other examples are source-era material (including an explicitly 2002 health-care estimate); the PDF alone does not establish their current accuracy or causal conclusions."
+        "Market figures, named-company cases, cited web link, and other examples are source-era material (including an explicitly 2002 health-care estimate); the PDF alone does not establish their current accuracy or causal conclusions.",
+        "Items numbered 10 and 11 from the '15 mistakes' list are omitted in the provided physical PDF pages.",
+        "The source provides a calculation chain but lacks uncertainty ranges, market-definition rules, or a formal procedure for validating the 5 percent penetration rate.",
+        "The source provides a list of segments for Gordon Mathews but does not provide the specific context of Mathews' product or industry.",
+        "The source mentions money extraction but does not provide specific financial modeling techniques or metrics for valuation."
       ],
       "pageLedger": [
         {
@@ -51001,7 +51114,7 @@
       "substantivePages": 63,
       "taughtPages": 27,
       "plannedLessons": 20,
-      "readyLessons": 19,
+      "readyLessons": 20,
       "programIds": [
         "ai"
       ],
@@ -51014,6 +51127,8 @@
         "The notes mention that pivots in U go into D for the LDU transpose form but do not show the explicit algebraic steps for extracting D from U.",
         "The notes mention 'functions ax+b' as a vector space example but do not explicitly provide the basis or dimension for this specific function space on these pages.",
         "The proof that all bases have the same number of vectors is presented as a summary sketch rather than a step-by-step formal derivation.",
+        "Physical page 37 is a table of contents for Part 5; its specific sub-topics like Cramer's Rule (5.3) and the Volume of a Box (5.4) are mentioned as headings but not detailed on these specific pages.",
+        "The derivation of the A = QR components for the rotation matrix example on page 36 is shown as a result rather than a step-by-step calculation.",
         "The specific regularity conditions for the Central Limit Theorem, such as the requirement for finite variance, are assumed in the text's compact phrasing but not explicitly listed.",
         "The text mentions 'Bound for 2 delta equals (Bound for delta) to the fourth power' without providing a formal proof or further context for this specific scaling.",
         "The specific calculation for the second eigenvalue lambda equals one half is not shown step-by-step; the value is simply stated.",
@@ -51267,5 +51382,5 @@
       ]
     }
   ],
-  "productionState": "paused_medical_priority_with_gaps"
+  "productionState": "completed_with_gaps"
 }

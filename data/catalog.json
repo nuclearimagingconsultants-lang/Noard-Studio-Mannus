@@ -40650,6 +40650,13 @@
       "fileType": "ZIP",
       "sha256": "0e655ab16440c00d3d6aef0e0bd55c6decbf48376374e4b21a2df0bb38b0b1e9",
       "bytes": 876504328
+    },
+    {
+      "id": "latest-seven-lecture-links",
+      "title": "Seven new original lessons — durable video, captions and transcript links (not offline MP4 archive)",
+      "url": "/manus-storage/latest-seven-lecture-links_eb68d462.md",
+      "kind": "guide",
+      "sha256": "7fb471bd797008777af56e9624820fd1f1c6932e76e262a43ecb30772417bb27"
     }
   ],
   "stats": {
