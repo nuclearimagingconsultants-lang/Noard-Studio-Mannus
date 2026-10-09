@@ -39,3 +39,6 @@ Historical 8 October release evidence (not the current recovered snapshot): fina
 ## Renewed unfinished-content execution — 9 October
 
 Verified staged recovery now includes the omitted fellowship and metadata-only recovery that keeps unknown dates unknown. Completed narration and ready-media hashes are preserved. The current source-pipeline repair scopes adjacent-page requirements without hiding actual in-range omissions; the clinical source helper acquires only ordinary publicly accessible content with truthful provenance. Actual clinical claims still require fresh checks and human review is not performed. No full-content outcome is promoted by passing software tests or by preparing a publication.
+
+## Medical-first progress —9October2026
+Three new original clips are ready(72medical/219total).189of333records meet the inclusive36-hour floor;144remain below. Full topic teaching, complete base PDF-to-video production and human clinician review remain OPEN. Public GitHub copy and Vercel portability must preserve hosted site and truthful incomplete status.

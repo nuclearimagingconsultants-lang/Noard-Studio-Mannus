@@ -73,7 +73,7 @@ new reviewed export with lawful content and an updated regenerated API bundle.
 ## Truthful scope and rights
 
 The compact snapshot supports 384 course workspaces (333 medical programme or
-variant records) and reports 216 ready originals (147 base, 69 medical). That
+variant records) and reports 219 ready originals (147 base, 72 medical). That
 is the frozen bundled-snapshot count, not a claim about later hosted-production
 additions or 216 completed courses. Medical content remains incomplete and
 human clinician review has not been performed. Automated checks are not

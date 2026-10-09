@@ -17319,6 +17319,348 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
         "coverageNote": "Long pediatric hip/MSK conference session with talks and Q&A on hip conditions; relevant foundation for the PRM musculoskeletal domain, but not a PRM-specific course. Counted once, not with its individual component videos. Link only; no reuse permission inferred."
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-006",
+        "title": "The Role of Physical Therapy & Neurodevelopmental Medicine in Children with Spina Bifida: What's New",
+        "url": "https://www.youtube.com/watch?v=MkwdO2N1TVI",
+        "provider": "Seattle Children's",
+        "observedDurationSeconds": 2508,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=MkwdO2N1TVI",
+        "durationEvidenceMethod": "Stateless fetch of public YouTube watch page; embedded player displayed 0:00 / 41:48 and 'Watch full video'; title, channel, publication date and transcript controls visible. No sign-in encountered.",
+        "publicationDate": "2024-07-29",
+        "freeAccessStatus": "Free public full playback; no sign-in encountered",
+        "coverageUnits": [
+          6
+        ],
+        "category": "specialty",
+        "canonicalVideoId": "MkwdO2N1TVI",
+        "accessEmbeddingNotes": "Link out only; do not copy/rehost. Pediatric PT/neurodevelopmental care lecture; pair with the Spina Bifida Association lifespan guidelines because the recording is not a comprehensive medical or SCI curriculum.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-X060",
+          "sourceRecordingId": "VID-PRM-006",
+          "sourceRecordingSha256": "2637704f0b80b869d12a9dd983163a5039c2ff9af30f5e35ea00604efe11ebab",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "sourceUrl": "https://www.youtube.com/watch?v=MkwdO2N1TVI",
+        "durationSeconds": 2508.0,
+        "accessVerified": true,
+        "origin": "external",
+        "coverageNote": "Link out only; do not copy/rehost. Pediatric PT/neurodevelopmental care lecture; pair with the Spina Bifida Association lifespan guidelines because the recording is not a comprehensive medical or SCI curriculum."
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-007",
+        "title": "#LetsTalkNMD Webinar Series - SMA & Rehabilitation",
+        "url": "https://www.youtube.com/watch?v=BWEmrNCDD7c",
+        "provider": "Muscular Dystrophy Canada (MDC / DMC)",
+        "observedDurationSeconds": 4605,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=BWEmrNCDD7c",
+        "durationEvidenceMethod": "Stateless fetch of public YouTube watch page; embedded player displayed 0:00 / 1:16:45 and 'Watch full video'; full webinar, chapters and transcript controls visible. No sign-in encountered.",
+        "publicationDate": "2020-08-25",
+        "freeAccessStatus": "Free public full playback; no sign-in encountered",
+        "coverageUnits": [
+          5
+        ],
+        "category": "specialty",
+        "canonicalVideoId": "BWEmrNCDD7c",
+        "accessEmbeddingNotes": "Link out only; do not copy/rehost. The webinar includes children and adults, reflects the treatment context in 2020, and is not current drug-indication guidance; check contemporary standards and treatment-era outcomes against current expert consensus.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-X060",
+          "sourceRecordingId": "VID-PRM-007",
+          "sourceRecordingSha256": "d6d723203c0e8830ec22d57da57f2f3f910062c8323ebaff5f7ba70acc4fc918",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "sourceUrl": "https://www.youtube.com/watch?v=BWEmrNCDD7c",
+        "durationSeconds": 4605.0,
+        "accessVerified": true,
+        "origin": "external",
+        "coverageNote": "Link out only; do not copy/rehost. The webinar includes children and adults, reflects the treatment context in 2020, and is not current drug-indication guidance; check contemporary standards and treatment-era outcomes against current expert consensus."
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-008",
+        "title": "Spinal Muscular Atrophy 2019: Exercise Recommendations in Spinal Muscular Atrophy",
+        "url": "https://www.youtube.com/watch?v=W73vSC54PWc",
+        "provider": "Stanford CME (Department of Neurology, Neuromuscular Division, Stanford University School of Medicine)",
+        "observedDurationSeconds": 2395,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=W73vSC54PWc",
+        "durationEvidenceMethod": "Stateless fetch of public YouTube watch page; embedded player displayed 0:00 / 39:55 and 'Watch full video'; Stanford CME channel, publication date, chapter list and full playback visible. No sign-in encountered.",
+        "publicationDate": "2020-03-28",
+        "freeAccessStatus": "Free public full playback; no sign-in encountered; CE credit pathway listed separately",
+        "coverageUnits": [
+          5,
+          12
+        ],
+        "category": "specialty",
+        "canonicalVideoId": "W73vSC54PWc",
+        "accessEmbeddingNotes": "Link out only; do not copy/rehost. Historical 2019 lecture uploaded 2020. It predates major treatment-era changes and cannot establish current exercise standards or disease-modifying treatment indications. Use for historical topic framing only and cross-check every clinical claim against contemporary standards and individualized clinician assessment.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-X060",
+          "sourceRecordingId": "VID-PRM-008",
+          "sourceRecordingSha256": "d94204838d1a723793533ab61bea0e6ff1bf4444bb5893b44a411f667cb15a5b",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "sourceUrl": "https://www.youtube.com/watch?v=W73vSC54PWc",
+        "durationSeconds": 2395.0,
+        "accessVerified": true,
+        "origin": "external",
+        "coverageNote": "Link out only; do not copy/rehost. Historical 2019 lecture uploaded 2020. It predates major treatment-era changes and cannot establish current exercise standards or disease-modifying treatment indications. Use for historical topic framing only and cross-check every clinical claim against contemporary standards and individualized clinician assessment."
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-001",
+        "title": "The Art and Science of Rehabilitation for Children with Medical Complexity",
+        "url": "https://www.youtube.com/watch?v=YkdKukBfaDw",
+        "provider": "National Pediatric Rehabilitation Resource Center (C-PROGRESS)",
+        "channelPublisher": "Neuromotor Research Clinic; recording linked from C-PROGRESS",
+        "observedDurationSeconds": 2776,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=YkdKukBfaDw",
+        "durationEvidenceMethod": "Stateless public YouTube watch-page metadata displayed 0:00 / 46:16 and Watch full video; title, publisher, date and transcript controls were visible. The C-PROGRESS event page links to this recording.",
+        "accessVerified": true,
+        "freeAccessStatus": "Free public full playback by direct link; no sign-in prompt encountered. Viewing only; reuse/rehosting rights not granted.",
+        "category": "specialty",
+        "coverageUnits": [
+          1,
+          9,
+          12
+        ],
+        "accessEmbeddingNotes": "Link out only. Pediatric rehabilitation education on medical complexity and interdisciplinary, family/community-oriented care; not a substitute for physician fellowship training or clinical supervision.",
+        "publicationDate": "2025-08-28",
+        "sourceUrl": "https://c-progress.org/didactic-interaction/",
+        "durationSeconds": 2776.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-X060",
+          "sourceRecordingId": "VID-PRM-ADD-001",
+          "sourceRecordingSha256": "265c5d36648d91f3de75acfe8e3594a478e6b62c1a4b100baac2a5201ded9d7a",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Link out only. Pediatric rehabilitation education on medical complexity and interdisciplinary, family/community-oriented care; not a substitute for physician fellowship training or clinical supervision."
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-003",
+        "title": "Pediatric Neuromuscular Disorders: Red Flags & Testing for Primary Care",
+        "url": "https://www.youtube.com/watch?v=ozyW-M7tCxk",
+        "provider": "Muscular Dystrophy Association (MDA)",
+        "channelPublisher": "MDA",
+        "observedDurationSeconds": 3351,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=ozyW-M7tCxk",
+        "durationEvidenceMethod": "Stateless public watch page displayed 0:00 / 55:51 and Watch full video. The MDA source page identifies Boston Children's and Le Bonheur pediatric neurology faculty and links to this full webinar.",
+        "accessVerified": true,
+        "freeAccessStatus": "Free public full playback on MDA's YouTube channel; no sign-in prompt encountered. Viewing only; no reuse/rehosting rights implied.",
+        "category": "specialty",
+        "coverageUnits": [
+          2,
+          5
+        ],
+        "accessEmbeddingNotes": "Link out only. Helps frame recognition/testing of pediatric neuromuscular disease; it is not a comprehensive rehabilitation curriculum or a current disease-specific treatment standard.",
+        "publicationDate": "2023-10-16",
+        "sourceUrl": "https://www.mda.org/science/professional-medical-education/grand-rounds-webinars/2023/pediatric-neuromuscular-disorders-red-flags-testing-for-primary-care",
+        "durationSeconds": 3351.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-X060",
+          "sourceRecordingId": "VID-PRM-ADD-003",
+          "sourceRecordingSha256": "55387b39294a409488e02562f07cfc4cb2f3556a09b40b8b240559d1925489f5",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Link out only. Helps frame recognition/testing of pediatric neuromuscular disease; it is not a comprehensive rehabilitation curriculum or a current disease-specific treatment standard."
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-004",
+        "title": "Grand Rounds Webinar: Leveraging Genetic Testing to Optimize Early Intervention in SMA & DMD",
+        "url": "https://www.youtube.com/watch?v=W7dMj9tcP0U",
+        "provider": "Muscular Dystrophy Association (MDA)",
+        "channelPublisher": "MDA",
+        "observedDurationSeconds": 3003,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=W7dMj9tcP0U",
+        "durationEvidenceMethod": "Stateless public YouTube watch page displayed 0:00 / 50:03 and Watch full video; direct MDA-channel recording metadata was visible.",
+        "accessVerified": true,
+        "freeAccessStatus": "Free public full playback on MDA's YouTube channel; no sign-in prompt encountered. Viewing only; no reuse/rehosting rights implied.",
+        "category": "specialty",
+        "coverageUnits": [
+          2,
+          5,
+          12
+        ],
+        "accessEmbeddingNotes": "Link out only. Relevant to genetic diagnosis, newborn detection and early coordination in SMA/DMD; check all testing and treatment details against current standards.",
+        "sourceUrl": "https://www.youtube.com/watch?v=W7dMj9tcP0U",
+        "durationSeconds": 3003.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-X060",
+          "sourceRecordingId": "VID-PRM-ADD-004",
+          "sourceRecordingSha256": "5b6e26baf495cb8bc538d1d881b017513448d255238b45ed3d6c5740c757e7ed",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Link out only. Relevant to genetic diagnosis, newborn detection and early coordination in SMA/DMD; check all testing and treatment details against current standards."
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-005",
+        "title": "Updates and Emerging Questions in Duchenne Muscular Dystrophy",
+        "url": "https://www.youtube.com/watch?v=Z05aATo9rNk",
+        "provider": "Muscular Dystrophy Association (MDA)",
+        "channelPublisher": "MDA",
+        "observedDurationSeconds": 2920,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=Z05aATo9rNk",
+        "durationEvidenceMethod": "Stateless public YouTube watch page displayed 0:00 / 48:40 and Watch full video; title and full transcript were available from MDA's channel.",
+        "accessVerified": true,
+        "freeAccessStatus": "Free public full playback on MDA's YouTube channel; no sign-in prompt encountered. Viewing only; no reuse/rehosting rights implied.",
+        "category": "specialty",
+        "coverageUnits": [
+          5,
+          12
+        ],
+        "accessEmbeddingNotes": "Link out only. Disease-specific and treatment-era content supports context, not individualized management; verify evolving indications and evidence with current authoritative standards.",
+        "sourceUrl": "https://www.youtube.com/watch?v=Z05aATo9rNk",
+        "durationSeconds": 2920.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-X060",
+          "sourceRecordingId": "VID-PRM-ADD-005",
+          "sourceRecordingSha256": "a3e13e30de67b21a3c474176d0a4637451428ddad119e16903dc6aacb40d5bc7",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Link out only. Disease-specific and treatment-era content supports context, not individualized management; verify evolving indications and evidence with current authoritative standards."
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-006",
+        "title": "MDA Engage Webinar: Physical Therapy and Becker Muscular Dystrophy",
+        "url": "https://www.youtube.com/watch?v=E-11wzftLJ4",
+        "provider": "Muscular Dystrophy Association (MDA)",
+        "channelPublisher": "MDA",
+        "observedDurationSeconds": 3703,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=E-11wzftLJ4",
+        "durationEvidenceMethod": "Stateless public YouTube watch page displayed 0:00 / 1:01:43 and Watch full video; transcript and MDA presenter information were visible.",
+        "accessVerified": true,
+        "freeAccessStatus": "Free public full playback on MDA's YouTube channel; no sign-in prompt encountered. Viewing only; no reuse/rehosting rights implied.",
+        "category": "specialty",
+        "coverageUnits": [
+          5,
+          12
+        ],
+        "accessEmbeddingNotes": "Link out only. Rehabilitation and PT discussion for Becker muscular dystrophy is relevant but community-facing and not a physician-level DMD/SMA standard; avoid generalizing its activity advice to an individual or another disorder.",
+        "sourceUrl": "https://www.youtube.com/watch?v=E-11wzftLJ4",
+        "durationSeconds": 3703.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-X060",
+          "sourceRecordingId": "VID-PRM-ADD-006",
+          "sourceRecordingSha256": "c8550add705794dc10d11b6998a366bbec7965f86c49f5760c99efd618299e05",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Link out only. Rehabilitation and PT discussion for Becker muscular dystrophy is relevant but community-facing and not a physician-level DMD/SMA standard; avoid generalizing its activity advice to an individual or another disorder."
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-007",
+        "title": "Pediatric Subacute Care - Irwin Weiss, MD | Pediatric Grand Rounds",
+        "url": "https://www.youtube.com/watch?v=Ok3v7DdKhlk",
+        "provider": "David Geffen School of Medicine at UCLA / Mattel Children's Hospital",
+        "channelPublisher": "David Geffen School of Medicine at UCLA",
+        "observedDurationSeconds": 3258,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=Ok3v7DdKhlk",
+        "durationEvidenceMethod": "Stateless public YouTube watch-page metadata displayed 0:00 / 54:18 and Watch full video; title appears in the UCLA Pediatric Grand Rounds playlist.",
+        "accessVerified": true,
+        "freeAccessStatus": "Free public full playback; no sign-in prompt encountered. Viewing only; reuse/rehosting rights not granted.",
+        "category": "foundation",
+        "coverageUnits": [
+          7,
+          9
+        ],
+        "accessEmbeddingNotes": "Link out only. Broad pediatric subacute/complex-care context may inform rehab transitions and systems; it is not a PM&R fellowship lecture or a substitute for condition-specific content.",
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
+        "durationSeconds": 3258.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-X060",
+          "sourceRecordingId": "VID-PRM-ADD-007",
+          "sourceRecordingSha256": "1510911d7d7142f3ef52d3286bb3661e6c0df1a412a660f13000217961670962",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Link out only. Broad pediatric subacute/complex-care context may inform rehab transitions and systems; it is not a PM&R fellowship lecture or a substitute for condition-specific content."
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-008",
+        "title": "Intellectual Disabilities - Alicia Bazzano, MD, PhD | Pediatric Grand Rounds",
+        "url": "https://www.youtube.com/watch?v=Yl2yCaGpkTY",
+        "provider": "David Geffen School of Medicine at UCLA",
+        "channelPublisher": "David Geffen School of Medicine at UCLA",
+        "observedDurationSeconds": 3556,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=Yl2yCaGpkTY",
+        "durationEvidenceMethod": "Stateless public YouTube watch-page metadata displayed 0:00 / 59:16 and Watch full video; title and UCLA grand-round playlist context were visible.",
+        "accessVerified": true,
+        "freeAccessStatus": "Free public full playback; no sign-in prompt encountered. Viewing only; reuse/rehosting rights not granted.",
+        "category": "foundation",
+        "coverageUnits": [
+          2,
+          5,
+          12
+        ],
+        "accessEmbeddingNotes": "Link out only. Pediatric intellectual-disability foundations are pertinent to development, function, participation and access; this does not cover PRM examination or management of specific genetic/rare disorders.",
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
+        "durationSeconds": 3556.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-X060",
+          "sourceRecordingId": "VID-PRM-ADD-008",
+          "sourceRecordingSha256": "28a52d9fff23683af1e22d07711d3e138db76c22a5e8c3266b5fa6b1b78f76da",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Link out only. Pediatric intellectual-disability foundations are pertinent to development, function, participation and access; this does not cover PRM examination or management of specific genetic/rare disorders."
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-010",
+        "title": "Cell Therapy for HIE - C. Michael Cotten, MD | Pediatric Grand Rounds",
+        "url": "https://www.youtube.com/watch?v=FGqjC1U8Ds0",
+        "provider": "David Geffen School of Medicine at UCLA / Mattel Children's Hospital",
+        "channelPublisher": "David Geffen School of Medicine at UCLA",
+        "observedDurationSeconds": 3046,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=FGqjC1U8Ds0",
+        "durationEvidenceMethod": "Stateless public YouTube watch-page metadata displayed 0:00 / 50:46 and Watch full video; title appears in the UCLA Pediatric Grand Rounds playlist.",
+        "accessVerified": true,
+        "freeAccessStatus": "Free public full playback; no sign-in prompt encountered. Viewing only; reuse/rehosting rights not granted.",
+        "category": "foundation",
+        "coverageUnits": [
+          2,
+          7,
+          12
+        ],
+        "accessEmbeddingNotes": "Link out only. This is neonatal HIE/cell-therapy foundation relevant to acquired brain injury and later CP context, not pediatric rehabilitation treatment teaching; evolving biomedical content must be checked against current sources.",
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
+        "durationSeconds": 3046.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-X060",
+          "sourceRecordingId": "VID-PRM-ADD-010",
+          "sourceRecordingSha256": "9b4578141fc31b572dcd58996d43ed6cfc503e4557e01906a78fde3c1ae246f4",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Link out only. This is neonatal HIE/cell-therapy foundation relevant to acquired brain injury and later CP context, not pediatric rehabilitation treatment teaching; evolving biomedical content must be checked against current sources."
       }
     ],
     "unitMap": [
@@ -17498,7 +17840,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 19.931,
+      "hoursToTarget": 10.176,
       "topicGaps": [
         "32.078611 verified hours remain below the 36-hour floor (36 target minus 3.921389 counted hours); no future recording, planned runtime, or portal listing is counted.",
         "Recording coverage remains concentrated in cerebral palsy; the four new sources are three CP-focused sessions and one assistive-technology session. AACPDM/UCTV/Boston videos are supplemental and neither constitute a comprehensive PRM course nor substitute for the weighted ABPMR outline.",
@@ -18732,10 +19074,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36.0,
-      "verifiedExternalHours": 16.06861111111111,
-      "verifiedSpecialtyHours": 12.658611111111112,
-      "verifiedFoundationHours": 3.41,
-      "hoursGap": 19.93138888888889,
+      "verifiedExternalHours": 25.824444444444445,
+      "verifiedSpecialtyHours": 19.675555555555555,
+      "verifiedFoundationHours": 6.148888888888889,
+      "hoursGap": 10.175555555555555,
       "unknownDurationItems": [
         {
           "id": "V3",
@@ -19080,7 +19422,7 @@
         "fictionalCase": false
       }
     ],
-    "syllabusUrl": "/manus-storage/MED-176_91a642d5.pdf"
+    "syllabusUrl": "/manus-storage/MED-176_3e7b8231.pdf"
   },
   {
     "id": "MED-177",

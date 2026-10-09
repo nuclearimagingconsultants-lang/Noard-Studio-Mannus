@@ -40630,7 +40630,11 @@
       "id": "medical-current-333-syllabi",
       "title": "Current 333 medical programme syllabi — verified recovery snapshot, not completed training",
       "kind": "ZIP",
-      "url": "/manus-storage/medical-current-333-syllabi_c4cbc868.zip"
+      "url": "/manus-storage/medical-current-333-syllabi_d8afc256.zip",
+      "storageUrl": "/manus-storage/medical-current-333-syllabi_d8afc256.zip",
+      "bytes": 77497573,
+      "sha256": "fc008a4b6f38042417285ea8bdd7071e2dca8fa9d3c74d352020bb8d77bfff4f",
+      "description": "All 333 verified syllabus PDFs, including the refreshed pediatric-rehabilitation variants. Frozen 9 October 2026 snapshot; not complete medical teaching or certification coverage."
     },
     {
       "id": "playable-lecture-recovery-62",

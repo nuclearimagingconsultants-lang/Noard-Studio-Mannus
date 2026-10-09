@@ -3,14 +3,14 @@
 Board Studio is an **independent self-study interface** for the included
 AI/CS/CSE, MBA, Finance, CTO, and medical curriculum records. This repository
 is a separate public snapshot at source checkpoint
-`409d75cc370c4e9bf8699716f151f18f0c46b56b`; it does not alter or deploy the
+`036163943404b0207d8ef7e5fcaa7f1b10388381`; it does not alter or deploy the
 original Manus project.
 
 ## Snapshot scope
 
 The compact index/parts support **384 course workspaces**, including **333
-medical programme/variant records**. The bundled manifests report **216 ready
-originals**: **147 base** and **69 medical**. These are the frozen bundled
+medical programme/variant records**. The bundled manifests report **219 ready
+originals**: **147 base** and **72 medical**. These are the frozen bundled
 snapshot counts, not later hosted-production additions, completed courses, or
 complete programmes.
 

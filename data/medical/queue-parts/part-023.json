@@ -4378,7 +4378,7 @@
       "basis": "Transparent learner workload plan: 36 target video hours plus 72 hours of readings, note-making, case reasoning and self-assessment. Only 3.3808 public video hours are verified now; the remaining video portion is unmet and planned scripts do not count."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X060_9adfe978.pdf",
+    "syllabusUrl": "/manus-storage/MED-X060_d5776ccd.pdf",
     "pdfIds": [
       "med-syllabus-MED-X060",
       "med-reading-6ef15b7c1f5b",
@@ -4548,6 +4548,132 @@
         "durationSeconds": 3046.0,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-V6",
+        "title": "Assistive Technology in Pediatric Rehabilitation Medicine - Peds MSK 2025",
+        "url": "https://www.youtube.com/watch?v=sc8OtCTBIt4",
+        "provider": "UCSF Orthopaedic Surgery (Peds MSK 2025)",
+        "durationSeconds": 1946.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=sc8OtCTBIt4",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-001",
+        "title": "Introduction to Spina Bifida - Peds MSK 2025",
+        "url": "https://www.youtube.com/watch?v=VRWh8iWCaZY",
+        "provider": "UCSF Department of Orthopaedic Surgery; Peds MSK 2025 conference faculty",
+        "durationSeconds": 1596.0,
+        "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-002",
+        "title": "Orthopaedic Conditions in Spina Bifida - Peds MSK 2025",
+        "url": "https://www.youtube.com/watch?v=XfmRH5o_yBk",
+        "provider": "UCSF Department of Orthopaedic Surgery; Peds MSK 2025 conference faculty",
+        "durationSeconds": 1913.0,
+        "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-003",
+        "title": "Neurosurgical Aspects of Spina Bifida Care - Peds MSK 2025",
+        "url": "https://www.youtube.com/watch?v=ubofClvCjuY",
+        "provider": "UCSF Department of Orthopaedic Surgery; Peds MSK 2025 conference faculty",
+        "durationSeconds": 1704.0,
+        "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-004",
+        "title": "Neuromuscular Indications for Botulinum Toxin Injections - Peds MSK 2025",
+        "url": "https://www.youtube.com/watch?v=Zfcvp1cSV84",
+        "provider": "Kate Sigford, MD, pediatric PM&R faculty; UCSF Peds MSK 2025",
+        "durationSeconds": 1662.0,
+        "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-005",
+        "title": "Going With the Flow: New Respiratory Equipment and Strategies for the Pediatric Neuromuscular Population (Pediatric Grand Rounds, October 31, 2024)",
+        "url": "https://www.youtube.com/watch?v=wCuac01OfHY",
+        "provider": "Jane B. Taylor, MD, MsCR, ATSF, FAAP; University of Pittsburgh Department of Pediatrics",
+        "durationSeconds": 2830.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=wCuac01OfHY",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-006",
+        "title": "2021 Child Neurology Update (Enduring): Multidisciplinary Care of Pediatric Neuromuscular Disorders",
+        "url": "https://www.youtube.com/watch?v=kKnRYY_5wVw",
+        "provider": "Elise McClanahan, MD; Star L. Nixon, MD, MPH; Natalie Renfrow, PT, DPT; Amanda B. Rogers, MD; Norton Healthcare and University of Louisville School of Medicine",
+        "durationSeconds": 3278.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=kKnRYY_5wVw",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-007",
+        "title": "Advances in Pediatric Gene Therapy for Neuromuscular Disorders",
+        "url": "https://www.youtube.com/watch?v=kBih_Gm-2AM",
+        "provider": "Peter Kang, MD, Professor of Genetics, University of Minnesota; UCTV 2024 Developmental Disabilities Conference",
+        "durationSeconds": 2392.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=kBih_Gm-2AM",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-009",
+        "title": "Pediatric Mild Traumatic Brain Injury | UCSF Neurosurgery Community Grand Rounds",
+        "url": "https://www.youtube.com/watch?v=6pCGwKrmJPE",
+        "provider": "Kurtis Auguste, MD, pediatric neurosurgeon; Bethany Johnson-Kerner, MD, PhD, pediatric neurologist; UCSF",
+        "durationSeconds": 2657.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=6pCGwKrmJPE",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-010",
+        "title": "Navigating the Path for Chronic Pediatric Pain (Pediatric Grand Rounds, March 6, 2026)",
+        "url": "https://www.youtube.com/watch?v=WwGtaL2L1Mo",
+        "provider": "Mag Mina, MD; Department of Pediatrics, University of Texas Health Science Center at San Antonio",
+        "durationSeconds": 2709.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=WwGtaL2L1Mo",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-011",
+        "title": "Addressing Pain in Children (Pediatric Grand Rounds, November 8, 2024)",
+        "url": "https://www.youtube.com/watch?v=seGjfd6Qabc",
+        "provider": "Melissa Fry Jones, MD; Department of Pediatrics, University of Texas Health Science Center at San Antonio",
+        "durationSeconds": 3930.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=seGjfd6Qabc",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-012",
+        "title": "Pain Assessment and Management for Children and Adults with Developmental Disabilities",
+        "url": "https://www.youtube.com/watch?v=F2jhJpi9tdA",
+        "provider": "Chantel Burkitt, Senior Clinical Scientist, and Todd Dalberg, MD, Pediatrician and Palliative Medicine Physician, Gillette Children's Hospital; 2026 Developmental Disabilities Conference",
+        "durationSeconds": 2717.0,
+        "sourceUrl": "https://www.uctv.tv/shows/41471",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-013",
+        "title": "Evidence-Based Approaches for Spasticity and Dystonia Management in People with Cerebral Palsy",
+        "url": "https://www.youtube.com/watch?v=OBovnkasNoQ",
+        "provider": "Bhooma Aravamuthan, MD, Medical and Research Director, Cerebral Palsy and Mobility Center, Washington University in St. Louis; 2026 Developmental Disabilities Conference",
+        "durationSeconds": 2755.0,
+        "sourceUrl": "https://www.uctv.tv/shows/Evidence-Based-Approaches-for-Spasticity-and-Dystonia-Management-in-People-with-Cerebral-Palsy-41464",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-014",
+        "title": "Pediatric Hip: All Talks and Q&A - Peds MSK 2025",
+        "url": "https://www.youtube.com/watch?v=ZYj3EKnWJxI",
+        "provider": "UCSF Department of Orthopaedic Surgery; pediatric orthopaedic, sports medicine, PM&R, and neurosurgery faculty",
+        "durationSeconds": 9884.0,
+        "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -4684,10 +4810,10 @@
     "boardStatus": "A separate ABPMR PRM subspecialty certification examination exists; the board page lists 280 questions in two 3.5-hour sections and an every-other-year schedule (checked 2026-10-07; next listed exam October 26, 2027). It is distinct from primary PM&R certification. This is a physician fellowship, not a generic directory label, research-only postdoctoral position, or non-physician supplement.",
     "boardEligibilityNotice": "ABPMR requires ABPMR diplomate status in good standing, an unrestricted qualifying medical license, and an accepted training route. The usual route is two years of ACGME-accredited PRM fellowship after PM&R residency; ABPMR specifies combined or consecutive-training alternatives. Self-study grants none of these. Hopkins public pages say one or two years depending on prior experience, while 2026 ACGME PRM requirements say 24 months and the KKI application page describes a two-year appointment. Resolve shorter-route details directly with the program and ABPMR; do not assume eligibility.",
     "targetVideoHours": 36.0,
-    "verifiedExternalHours": 14.999444444444444,
-    "verifiedSpecialtyHours": 11.426388888888889,
-    "verifiedFoundationHours": 3.5730555555555554,
-    "hoursGap": 21.000555555555557,
+    "verifiedExternalHours": 26.65861111111111,
+    "verifiedSpecialtyHours": 19.675555555555555,
+    "verifiedFoundationHours": 6.983055555555556,
+    "hoursGap": 9.34138888888889,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

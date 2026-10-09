@@ -3104,7 +3104,7 @@
       "transparency": "A proposed self-study plan only; the 36-hour video target has not been met. As of 2026-10-07 only verified public recordings shown in the ledger count. Future production plans and portal listings are not counted."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-176_91a642d5.pdf",
+    "syllabusUrl": "/manus-storage/MED-176_3e7b8231.pdf",
     "pdfIds": [
       "med-syllabus-MED-176",
       "med-reading-6ef15b7c1f5b",
@@ -3319,6 +3319,105 @@
         "durationSeconds": 9884.0,
         "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
         "accessVerified": true
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-006",
+        "title": "The Role of Physical Therapy & Neurodevelopmental Medicine in Children with Spina Bifida: What's New",
+        "url": "https://www.youtube.com/watch?v=MkwdO2N1TVI",
+        "provider": "Seattle Children's",
+        "durationSeconds": 2508.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=MkwdO2N1TVI",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-007",
+        "title": "#LetsTalkNMD Webinar Series - SMA & Rehabilitation",
+        "url": "https://www.youtube.com/watch?v=BWEmrNCDD7c",
+        "provider": "Muscular Dystrophy Canada (MDC / DMC)",
+        "durationSeconds": 4605.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=BWEmrNCDD7c",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-008",
+        "title": "Spinal Muscular Atrophy 2019: Exercise Recommendations in Spinal Muscular Atrophy",
+        "url": "https://www.youtube.com/watch?v=W73vSC54PWc",
+        "provider": "Stanford CME (Department of Neurology, Neuromuscular Division, Stanford University School of Medicine)",
+        "durationSeconds": 2395.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=W73vSC54PWc",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-001",
+        "title": "The Art and Science of Rehabilitation for Children with Medical Complexity",
+        "url": "https://www.youtube.com/watch?v=YkdKukBfaDw",
+        "provider": "National Pediatric Rehabilitation Resource Center (C-PROGRESS)",
+        "durationSeconds": 2776.0,
+        "sourceUrl": "https://c-progress.org/didactic-interaction/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-003",
+        "title": "Pediatric Neuromuscular Disorders: Red Flags & Testing for Primary Care",
+        "url": "https://www.youtube.com/watch?v=ozyW-M7tCxk",
+        "provider": "Muscular Dystrophy Association (MDA)",
+        "durationSeconds": 3351.0,
+        "sourceUrl": "https://www.mda.org/science/professional-medical-education/grand-rounds-webinars/2023/pediatric-neuromuscular-disorders-red-flags-testing-for-primary-care",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-004",
+        "title": "Grand Rounds Webinar: Leveraging Genetic Testing to Optimize Early Intervention in SMA & DMD",
+        "url": "https://www.youtube.com/watch?v=W7dMj9tcP0U",
+        "provider": "Muscular Dystrophy Association (MDA)",
+        "durationSeconds": 3003.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=W7dMj9tcP0U",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-005",
+        "title": "Updates and Emerging Questions in Duchenne Muscular Dystrophy",
+        "url": "https://www.youtube.com/watch?v=Z05aATo9rNk",
+        "provider": "Muscular Dystrophy Association (MDA)",
+        "durationSeconds": 2920.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=Z05aATo9rNk",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-006",
+        "title": "MDA Engage Webinar: Physical Therapy and Becker Muscular Dystrophy",
+        "url": "https://www.youtube.com/watch?v=E-11wzftLJ4",
+        "provider": "Muscular Dystrophy Association (MDA)",
+        "durationSeconds": 3703.0,
+        "sourceUrl": "https://www.youtube.com/watch?v=E-11wzftLJ4",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-007",
+        "title": "Pediatric Subacute Care - Irwin Weiss, MD | Pediatric Grand Rounds",
+        "url": "https://www.youtube.com/watch?v=Ok3v7DdKhlk",
+        "provider": "David Geffen School of Medicine at UCLA / Mattel Children's Hospital",
+        "durationSeconds": 3258.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-008",
+        "title": "Intellectual Disabilities - Alicia Bazzano, MD, PhD | Pediatric Grand Rounds",
+        "url": "https://www.youtube.com/watch?v=Yl2yCaGpkTY",
+        "provider": "David Geffen School of Medicine at UCLA",
+        "durationSeconds": 3556.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-176-REUSE-MED-X060-VID-PRM-ADD-010",
+        "title": "Cell Therapy for HIE - C. Michael Cotten, MD | Pediatric Grand Rounds",
+        "url": "https://www.youtube.com/watch?v=FGqjC1U8Ds0",
+        "provider": "David Geffen School of Medicine at UCLA / Mattel Children's Hospital",
+        "durationSeconds": 3046.0,
+        "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -3457,10 +3556,10 @@
     "boardStatus": "Pediatric Rehabilitation Medicine is a distinct ABPMR subspecialty certification with a separate 280-question examination. ABPMR lists the next initial PRM examination as October 26, 2027 (checked 2026-10-07).",
     "boardEligibilityNotice": "ABPMR requires current diplomate status in good standing and an unrestricted license plus one of its specified training pathways: two years ACGME-accredited PRM fellowship after PM&R residency; PM&R/pediatrics combined training; or consecutive PM&R and pediatrics residencies including at least six months PRM. Eligibility is determined by ABPMR; this course, a shorter programme page description, or completion of this curriculum grants no eligibility. Confirm current rules directly with ABPMR.",
     "targetVideoHours": 36.0,
-    "verifiedExternalHours": 16.06861111111111,
-    "verifiedSpecialtyHours": 12.658611111111112,
-    "verifiedFoundationHours": 3.41,
-    "hoursGap": 19.93138888888889,
+    "verifiedExternalHours": 25.824444444444445,
+    "verifiedSpecialtyHours": 19.675555555555555,
+    "verifiedFoundationHours": 6.148888888888889,
+    "hoursGap": 10.175555555555555,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

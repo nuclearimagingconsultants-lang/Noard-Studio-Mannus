@@ -11285,8 +11285,8 @@
     {
       "id": "med-syllabus-MED-176",
       "title": "Pediatric Rehabilitation Medicine Fellowship — independent study syllabus",
-      "sourceUrl": "/manus-storage/MED-176_91a642d5.pdf",
-      "storageUrl": "/manus-storage/MED-176_91a642d5.pdf",
+      "sourceUrl": "/manus-storage/MED-176_3e7b8231.pdf",
+      "storageUrl": "/manus-storage/MED-176_3e7b8231.pdf",
       "licenseNote": "Original independent study guide; underlying source material retains its stated rights. Not institutional training or clinician-reviewed content.",
       "programIds": [
         "med"
@@ -17871,8 +17871,8 @@
     {
       "id": "med-syllabus-MED-X060",
       "title": "Pediatric Rehabilitation Medicine Fellowship — independent study syllabus",
-      "sourceUrl": "/manus-storage/MED-X060_9adfe978.pdf",
-      "storageUrl": "/manus-storage/MED-X060_9adfe978.pdf",
+      "sourceUrl": "/manus-storage/MED-X060_d5776ccd.pdf",
+      "storageUrl": "/manus-storage/MED-X060_d5776ccd.pdf",
       "licenseNote": "Original independent study guide; underlying source material retains its stated rights. Not institutional training or clinician-reviewed content.",
       "programIds": [
         "med"
@@ -21761,7 +21761,7 @@
   "stats": {
     "courses": 333,
     "units": 3997,
-    "lectureEntries": 12422
+    "lectureEntries": 12447
   },
   "productionOrder": [
     "med"
@@ -21830,7 +21830,7 @@
       "VA Boston’s public trainee page includes a physician Behavioral Neurology/Neuropsychiatry/Geriatric Neurology fellowship and the Harvard/Spaulding/MGB SCI programme, both matched to existing items. Its page also mixes many non-physician programmes; no inferred VA roster was created."
     ],
     "humanClinicalReviewStatus": "not performed",
-    "updatedAt": "2026-10-09T06:24:25.497495+00:00",
+    "updatedAt": "2026-10-09T07:20:12.178383+00:00",
     "discoveredEntriesNotice": "Programme discovery records, not a count of distinct board specialties; institutional, combined, directory and supplementary tracks are labeled individually."
   },
   "workspaceIndexVersion": 1,

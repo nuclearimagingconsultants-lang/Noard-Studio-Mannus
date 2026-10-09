@@ -31275,6 +31275,450 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
         "coverageNote": "Link out only. This is neonatal HIE/cell-therapy foundation relevant to acquired brain injury and later CP context, not pediatric rehabilitation treatment teaching; evolving biomedical content must be checked against current sources."
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-V6",
+        "title": "Assistive Technology in Pediatric Rehabilitation Medicine - Peds MSK 2025",
+        "url": "https://www.youtube.com/watch?v=sc8OtCTBIt4",
+        "provider": "UCSF Orthopaedic Surgery (Peds MSK 2025)",
+        "observedDurationSeconds": 1946,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=sc8OtCTBIt4",
+        "durationEvidenceMethod": "Public YouTube watch-page player visibly reported 32:26; direct page fetched 2026-10-07; full video offered without sign-in.",
+        "publicationDate": "2025-04-21",
+        "freeAccessStatus": "freePublicView",
+        "coverageUnits": [
+          1,
+          8,
+          12
+        ],
+        "category": "specialty",
+        "accessEmbeddingNotes": "Public view on the UCSF Orthopaedic Surgery channel. Title and page identify assistive technology in pediatric rehabilitation; no rehosting/reuse permission inferred. Canonical video ID sc8OtCTBIt4; counted once.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-176",
+          "sourceRecordingId": "V6",
+          "sourceRecordingSha256": "67b02b9f9f22154d28f8b178118b8c819374c1a990ca87c581223aa8f1b08aa3",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "sourceUrl": "https://www.youtube.com/watch?v=sc8OtCTBIt4",
+        "durationSeconds": 1946.0,
+        "accessVerified": true,
+        "origin": "external",
+        "coverageNote": "Public view on the UCSF Orthopaedic Surgery channel. Title and page identify assistive technology in pediatric rehabilitation; no rehosting/reuse permission inferred. Canonical video ID sc8OtCTBIt4; counted once."
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-001",
+        "title": "Introduction to Spina Bifida - Peds MSK 2025",
+        "url": "https://www.youtube.com/watch?v=VRWh8iWCaZY",
+        "provider": "UCSF Department of Orthopaedic Surgery; Peds MSK 2025 conference faculty",
+        "channelPublisher": "UCSF Orthopaedic Surgery",
+        "observedDurationSeconds": 1596,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=VRWh8iWCaZY",
+        "durationEvidenceMethod": "Public YouTube watch-page player reported 26:36 (1,596 seconds); full video offered without sign-in; checked 2026-10-08.",
+        "accessVerified": true,
+        "freeAccessStatus": "freePublicView",
+        "category": "specialty",
+        "coverageUnits": [
+          6
+        ],
+        "accessEmbeddingNotes": "Clinician conference lecture introducing spina bifida; relevant to spinal dysraphism and rehabilitation context. Link for viewing only; no download, rehosting, or reuse permission inferred.",
+        "publicationDate": "2025-04-21",
+        "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
+        "durationSeconds": 1596.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-176",
+          "sourceRecordingId": "MED-176-ADD-001",
+          "sourceRecordingSha256": "b1e8f87388fffcd3a705e9ceaac367197e69e7f18da332802fa08b2e70c560fb",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Clinician conference lecture introducing spina bifida; relevant to spinal dysraphism and rehabilitation context. Link for viewing only; no download, rehosting, or reuse permission inferred."
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-002",
+        "title": "Orthopaedic Conditions in Spina Bifida - Peds MSK 2025",
+        "url": "https://www.youtube.com/watch?v=XfmRH5o_yBk",
+        "provider": "UCSF Department of Orthopaedic Surgery; Peds MSK 2025 conference faculty",
+        "channelPublisher": "UCSF Orthopaedic Surgery",
+        "observedDurationSeconds": 1913,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=XfmRH5o_yBk",
+        "durationEvidenceMethod": "Public YouTube watch-page player reported 31:53 (1,913 seconds); full video offered without sign-in; checked 2026-10-08.",
+        "accessVerified": true,
+        "freeAccessStatus": "freePublicView",
+        "category": "specialty",
+        "coverageUnits": [
+          6,
+          8
+        ],
+        "accessEmbeddingNotes": "Pediatric orthopaedic lecture on spina-bifida-related musculoskeletal care; relevant to cross-specialty PRM coordination and pediatric MSK. Link for viewing only; no reuse permission inferred.",
+        "publicationDate": "2025-04-21",
+        "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
+        "durationSeconds": 1913.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-176",
+          "sourceRecordingId": "MED-176-ADD-002",
+          "sourceRecordingSha256": "b76a07cae7f9c3a0a1eeca41ed3bf2a257f66ce137f46ccd3a371ab89ae4a62a",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Pediatric orthopaedic lecture on spina-bifida-related musculoskeletal care; relevant to cross-specialty PRM coordination and pediatric MSK. Link for viewing only; no reuse permission inferred."
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-003",
+        "title": "Neurosurgical Aspects of Spina Bifida Care - Peds MSK 2025",
+        "url": "https://www.youtube.com/watch?v=ubofClvCjuY",
+        "provider": "UCSF Department of Orthopaedic Surgery; Peds MSK 2025 conference faculty",
+        "channelPublisher": "UCSF Orthopaedic Surgery",
+        "observedDurationSeconds": 1704,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=ubofClvCjuY",
+        "durationEvidenceMethod": "Public YouTube watch-page player reported 28:24 (1,704 seconds); full video offered without sign-in; checked 2026-10-08.",
+        "accessVerified": true,
+        "freeAccessStatus": "freePublicView",
+        "category": "specialty",
+        "coverageUnits": [
+          6
+        ],
+        "accessEmbeddingNotes": "Multidisciplinary spina bifida care lecture from pediatric neurosurgery; use for specialty-team and referral context, not procedural training. Link only; no reuse permission inferred.",
+        "publicationDate": "2025-04-21",
+        "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
+        "durationSeconds": 1704.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-176",
+          "sourceRecordingId": "MED-176-ADD-003",
+          "sourceRecordingSha256": "ca7fcb1a8f3580bf711920294b86bc05a0cc4aa80b135e1ffe94828bbf3270df",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Multidisciplinary spina bifida care lecture from pediatric neurosurgery; use for specialty-team and referral context, not procedural training. Link only; no reuse permission inferred."
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-004",
+        "title": "Neuromuscular Indications for Botulinum Toxin Injections - Peds MSK 2025",
+        "url": "https://www.youtube.com/watch?v=Zfcvp1cSV84",
+        "provider": "Kate Sigford, MD, pediatric PM&R faculty; UCSF Peds MSK 2025",
+        "channelPublisher": "UCSF Orthopaedic Surgery",
+        "observedDurationSeconds": 1662,
+        "durationEvidenceUrl": "https://www.youtube.com/playlist?list=PLb00F6wEYu9Kpk93j3DZdyO1EUMolKhFL",
+        "durationEvidenceMethod": "The public UCSF Orthopaedic Surgery playlist metadata reports this individual video as 1,662 seconds (27:42); direct video page identifies the full recording and physician presenter; checked 2026-10-08.",
+        "accessVerified": true,
+        "freeAccessStatus": "freePublicView",
+        "category": "specialty",
+        "coverageUnits": [
+          4,
+          5,
+          7
+        ],
+        "accessEmbeddingNotes": "Clinician educator discusses pediatric botulinum-toxin indications and limits, including spasticity and other neuromuscular contexts; educational only, not injection training or patient-specific advice. Link only; no reuse permission inferred.",
+        "publicationDate": "2025-04-21",
+        "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
+        "durationSeconds": 1662.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-176",
+          "sourceRecordingId": "MED-176-ADD-004",
+          "sourceRecordingSha256": "a97d2780cc45727f3cb922a366d2c6c7508980c9aa37fd322163a1b6d2757814",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Clinician educator discusses pediatric botulinum-toxin indications and limits, including spasticity and other neuromuscular contexts; educational only, not injection training or patient-specific advice. Link only; no reuse permission inferred."
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-005",
+        "title": "Going With the Flow: New Respiratory Equipment and Strategies for the Pediatric Neuromuscular Population (Pediatric Grand Rounds, October 31, 2024)",
+        "url": "https://www.youtube.com/watch?v=wCuac01OfHY",
+        "provider": "Jane B. Taylor, MD, MsCR, ATSF, FAAP; University of Pittsburgh Department of Pediatrics",
+        "channelPublisher": "Pitt Department of Pediatrics",
+        "observedDurationSeconds": 2830,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=wCuac01OfHY",
+        "durationEvidenceMethod": "Public YouTube watch-page player reported 47:10 (2,830 seconds); full recording offered without sign-in; checked 2026-10-08.",
+        "accessVerified": true,
+        "freeAccessStatus": "freePublicView",
+        "category": "specialty",
+        "coverageUnits": [
+          7,
+          9
+        ],
+        "accessEmbeddingNotes": "Pediatric Grand Rounds lecture on respiratory equipment and strategies in neuromuscular disease, relevant to coordinated complex rehabilitation and equipment literacy. Link only; no reuse permission inferred.",
+        "publicationDate": "2024-11-18",
+        "sourceUrl": "https://www.youtube.com/watch?v=wCuac01OfHY",
+        "durationSeconds": 2830.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-176",
+          "sourceRecordingId": "MED-176-ADD-005",
+          "sourceRecordingSha256": "71e2d96259630d97afb6fcc26db54182d61ac2783958783eb3c7eb10ea2afc3d",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Pediatric Grand Rounds lecture on respiratory equipment and strategies in neuromuscular disease, relevant to coordinated complex rehabilitation and equipment literacy. Link only; no reuse permission inferred."
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-006",
+        "title": "2021 Child Neurology Update (Enduring): Multidisciplinary Care of Pediatric Neuromuscular Disorders",
+        "url": "https://www.youtube.com/watch?v=kKnRYY_5wVw",
+        "provider": "Elise McClanahan, MD; Star L. Nixon, MD, MPH; Natalie Renfrow, PT, DPT; Amanda B. Rogers, MD; Norton Healthcare and University of Louisville School of Medicine",
+        "channelPublisher": "Norton Healthcare",
+        "observedDurationSeconds": 3278,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=kKnRYY_5wVw",
+        "durationEvidenceMethod": "Public YouTube watch-page player reported 54:38 (3,278 seconds); chapter metadata and description identify the full enduring course recording; checked 2026-10-08.",
+        "accessVerified": true,
+        "freeAccessStatus": "freePublicView",
+        "category": "specialty",
+        "coverageUnits": [
+          7,
+          12
+        ],
+        "accessEmbeddingNotes": "Multidisciplinary clinician course on neuromuscular care, Duchenne muscular dystrophy, orthopedic considerations, scoliosis/hip care, and rehabilitation strategies. Older enduring material; verify current guidance separately. Link only; no reuse permission inferred.",
+        "publicationDate": "2021-09-09",
+        "sourceUrl": "https://www.youtube.com/watch?v=kKnRYY_5wVw",
+        "durationSeconds": 3278.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-176",
+          "sourceRecordingId": "MED-176-ADD-006",
+          "sourceRecordingSha256": "ff5994e8ab934044287c77db24ab1df2b219b1301ad296b35db7f3c88559232e",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Multidisciplinary clinician course on neuromuscular care, Duchenne muscular dystrophy, orthopedic considerations, scoliosis/hip care, and rehabilitation strategies. Older enduring material; verify current guidance separately. Link only; no reuse permission inferred."
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-007",
+        "title": "Advances in Pediatric Gene Therapy for Neuromuscular Disorders",
+        "url": "https://www.youtube.com/watch?v=kBih_Gm-2AM",
+        "provider": "Peter Kang, MD, Professor of Genetics, University of Minnesota; UCTV 2024 Developmental Disabilities Conference",
+        "channelPublisher": "University of California Television (UCTV)",
+        "observedDurationSeconds": 2392,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=kBih_Gm-2AM",
+        "durationEvidenceMethod": "Public YouTube watch-page player reported 39:52 (2,392 seconds); full video offered without sign-in; checked 2026-10-08.",
+        "accessVerified": true,
+        "freeAccessStatus": "freePublicView",
+        "category": "foundation",
+        "coverageUnits": [
+          7,
+          11,
+          12
+        ],
+        "accessEmbeddingNotes": "Foundation-level update on gene-therapy mechanisms and clinical considerations for pediatric Duchenne muscular dystrophy, SMA, and Pompe disease; it is not a PRM-specific treatment curriculum and should be paired with current sources. Link only; no reuse permission inferred.",
+        "publicationDate": "2024-05-29",
+        "sourceUrl": "https://www.youtube.com/watch?v=kBih_Gm-2AM",
+        "durationSeconds": 2392.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-176",
+          "sourceRecordingId": "MED-176-ADD-007",
+          "sourceRecordingSha256": "49f77f458cd02e9e7f94f546ff82668337c37447e4425d5013a37919a38c19c4",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Foundation-level update on gene-therapy mechanisms and clinical considerations for pediatric Duchenne muscular dystrophy, SMA, and Pompe disease; it is not a PRM-specific treatment curriculum and should be paired with current sources. Link only; no reuse permission inferred."
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-009",
+        "title": "Pediatric Mild Traumatic Brain Injury | UCSF Neurosurgery Community Grand Rounds",
+        "url": "https://www.youtube.com/watch?v=6pCGwKrmJPE",
+        "provider": "Kurtis Auguste, MD, pediatric neurosurgeon; Bethany Johnson-Kerner, MD, PhD, pediatric neurologist; UCSF",
+        "channelPublisher": "UCSF Neurosurgery",
+        "observedDurationSeconds": 2657,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=6pCGwKrmJPE",
+        "durationEvidenceMethod": "Public YouTube watch-page player reported 44:17 (2,657 seconds); full video offered without sign-in; checked 2026-10-08.",
+        "accessVerified": true,
+        "freeAccessStatus": "freePublicView",
+        "category": "specialty",
+        "coverageUnits": [
+          9,
+          10
+        ],
+        "accessEmbeddingNotes": "Case-based pediatric mild TBI grand rounds address persistent symptoms, dizziness, comorbidities, and return-to-activity considerations. This is not a substitute for broader severe TBI or inpatient rehabilitation teaching. Link only; no reuse permission inferred.",
+        "publicationDate": "2024-10-21",
+        "sourceUrl": "https://www.youtube.com/watch?v=6pCGwKrmJPE",
+        "durationSeconds": 2657.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-176",
+          "sourceRecordingId": "MED-176-ADD-009",
+          "sourceRecordingSha256": "8485b7e60dd3360c217646afee7753e7709b18f12cb3a67886e5ad78bf0e5478",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Case-based pediatric mild TBI grand rounds address persistent symptoms, dizziness, comorbidities, and return-to-activity considerations. This is not a substitute for broader severe TBI or inpatient rehabilitation teaching. Link only; no reuse permission inferred."
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-010",
+        "title": "Navigating the Path for Chronic Pediatric Pain (Pediatric Grand Rounds, March 6, 2026)",
+        "url": "https://www.youtube.com/watch?v=WwGtaL2L1Mo",
+        "provider": "Mag Mina, MD; Department of Pediatrics, University of Texas Health Science Center at San Antonio",
+        "channelPublisher": "UT Health San Antonio",
+        "observedDurationSeconds": 2709,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=WwGtaL2L1Mo",
+        "durationEvidenceMethod": "Public YouTube watch-page player reported 45:09 (2,709 seconds); full video offered without sign-in; checked 2026-10-08.",
+        "accessVerified": true,
+        "freeAccessStatus": "freePublicView",
+        "category": "specialty",
+        "coverageUnits": [
+          10
+        ],
+        "accessEmbeddingNotes": "Academic pediatric grand rounds specifically on chronic pediatric pain. It is a pain-domain contribution rather than a comprehensive pediatric pain or PRM course. Link only; no reuse permission inferred.",
+        "publicationDate": "2026-03-06",
+        "sourceUrl": "https://www.youtube.com/watch?v=WwGtaL2L1Mo",
+        "durationSeconds": 2709.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-176",
+          "sourceRecordingId": "MED-176-ADD-010",
+          "sourceRecordingSha256": "3d58c91b477a88472967b776c53868c6f9280a4a73e0e58e64212e3cce36a4c9",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Academic pediatric grand rounds specifically on chronic pediatric pain. It is a pain-domain contribution rather than a comprehensive pediatric pain or PRM course. Link only; no reuse permission inferred."
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-011",
+        "title": "Addressing Pain in Children (Pediatric Grand Rounds, November 8, 2024)",
+        "url": "https://www.youtube.com/watch?v=seGjfd6Qabc",
+        "provider": "Melissa Fry Jones, MD; Department of Pediatrics, University of Texas Health Science Center at San Antonio",
+        "channelPublisher": "UT Health San Antonio",
+        "observedDurationSeconds": 3930,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=seGjfd6Qabc",
+        "durationEvidenceMethod": "Public YouTube watch-page player reported 1:05:30 (3,930 seconds); full video offered without sign-in; checked 2026-10-08.",
+        "accessVerified": true,
+        "freeAccessStatus": "freePublicView",
+        "category": "specialty",
+        "coverageUnits": [
+          10
+        ],
+        "accessEmbeddingNotes": "Pediatric Grand Rounds session on pain management; relevant to the pain and functional-symptom domain. Link only; no reuse permission inferred.",
+        "publicationDate": "2024-11-08",
+        "sourceUrl": "https://www.youtube.com/watch?v=seGjfd6Qabc",
+        "durationSeconds": 3930.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-176",
+          "sourceRecordingId": "MED-176-ADD-011",
+          "sourceRecordingSha256": "15b15b228082ae0a9db2264730c1dae8b26a51facedb1faef2914b39f6b42baf",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Pediatric Grand Rounds session on pain management; relevant to the pain and functional-symptom domain. Link only; no reuse permission inferred."
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-012",
+        "title": "Pain Assessment and Management for Children and Adults with Developmental Disabilities",
+        "url": "https://www.youtube.com/watch?v=F2jhJpi9tdA",
+        "provider": "Chantel Burkitt, Senior Clinical Scientist, and Todd Dalberg, MD, Pediatrician and Palliative Medicine Physician, Gillette Children's Hospital; 2026 Developmental Disabilities Conference",
+        "channelPublisher": "University of California Television (UCTV)",
+        "observedDurationSeconds": 2717,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=F2jhJpi9tdA",
+        "durationEvidenceMethod": "Public YouTube watch-page player reported 45:17 (2,717 seconds); official UCTV show page separately lists the full program and public watch link; checked 2026-10-08.",
+        "accessVerified": true,
+        "freeAccessStatus": "freePublicView",
+        "category": "specialty",
+        "coverageUnits": [
+          10,
+          11
+        ],
+        "accessEmbeddingNotes": "Clinician discussion of pain assessment and management for people with developmental disabilities. It is broader than pediatric PRM but directly relevant to pain communication and disability-sensitive assessment. Link only; no reuse permission inferred.",
+        "publicationDate": "2026-05-27",
+        "sourceUrl": "https://www.uctv.tv/shows/41471",
+        "durationSeconds": 2717.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-176",
+          "sourceRecordingId": "MED-176-ADD-012",
+          "sourceRecordingSha256": "bec155faf2d1038509ff3f10728feb1a69fca1c9450c29b38f25433f7c16dce7",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Clinician discussion of pain assessment and management for people with developmental disabilities. It is broader than pediatric PRM but directly relevant to pain communication and disability-sensitive assessment. Link only; no reuse permission inferred."
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-013",
+        "title": "Evidence-Based Approaches for Spasticity and Dystonia Management in People with Cerebral Palsy",
+        "url": "https://www.youtube.com/watch?v=OBovnkasNoQ",
+        "provider": "Bhooma Aravamuthan, MD, Medical and Research Director, Cerebral Palsy and Mobility Center, Washington University in St. Louis; 2026 Developmental Disabilities Conference",
+        "channelPublisher": "University of California Television (UCTV)",
+        "observedDurationSeconds": 2755,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=OBovnkasNoQ",
+        "durationEvidenceMethod": "Public YouTube watch-page player reported 45:55 (2,755 seconds); official UCTV show page provides the same full recording; checked 2026-10-08. The UCTV catalogue rounds the program to 39 minutes.",
+        "accessVerified": true,
+        "freeAccessStatus": "freePublicView",
+        "category": "specialty",
+        "coverageUnits": [
+          3,
+          4
+        ],
+        "accessEmbeddingNotes": "Evidence-focused session on CP spasticity and dystonia management. Duration counted from the full public player, which is longer than the rounded 39-minute catalogue description; not clinical review or procedural training. Link only; no reuse permission inferred.",
+        "publicationDate": "2026-05-27",
+        "sourceUrl": "https://www.uctv.tv/shows/Evidence-Based-Approaches-for-Spasticity-and-Dystonia-Management-in-People-with-Cerebral-Palsy-41464",
+        "durationSeconds": 2755.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-176",
+          "sourceRecordingId": "MED-176-ADD-013",
+          "sourceRecordingSha256": "2ddfc4e93c90b61d3c8b48fcdc3eac72713ee72a8f94c64723e99fda5243b850",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Evidence-focused session on CP spasticity and dystonia management. Duration counted from the full public player, which is longer than the rounded 39-minute catalogue description; not clinical review or procedural training. Link only; no reuse permission inferred."
+      },
+      {
+        "id": "MED-X060-REUSE-MED-176-MED-176-ADD-014",
+        "title": "Pediatric Hip: All Talks and Q&A - Peds MSK 2025",
+        "url": "https://www.youtube.com/watch?v=ZYj3EKnWJxI",
+        "provider": "UCSF Department of Orthopaedic Surgery; pediatric orthopaedic, sports medicine, PM&R, and neurosurgery faculty",
+        "channelPublisher": "UCSF Orthopaedic Surgery",
+        "observedDurationSeconds": 9884,
+        "durationEvidenceUrl": "https://www.youtube.com/watch?v=ZYj3EKnWJxI",
+        "durationEvidenceMethod": "Public YouTube watch-page player reported 2:44:44 (9,884 seconds); this all-talks recording is counted once and not alongside its component videos; full video offered without sign-in; checked 2026-10-08.",
+        "accessVerified": true,
+        "freeAccessStatus": "freePublicView",
+        "category": "foundation",
+        "coverageUnits": [
+          5,
+          8
+        ],
+        "accessEmbeddingNotes": "Long pediatric hip/MSK conference session with talks and Q&A on hip conditions; relevant foundation for the PRM musculoskeletal domain, but not a PRM-specific course. Counted once, not with its individual component videos. Link only; no reuse permission inferred.",
+        "publicationDate": "2025-04-21",
+        "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
+        "durationSeconds": 9884.0,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
+        "sameSpecialtyEvidenceReuse": {
+          "sourceCourseId": "MED-176",
+          "sourceRecordingId": "MED-176-ADD-014",
+          "sourceRecordingSha256": "0feeda65178a4fe2c0a22b209c3ecbd3d29816c4794872e9cef706b25d5c13fb",
+          "basis": "Exact same pediatric rehabilitation specialty; explicit topic-to-target-unit mapping. Prior observed access/duration evidence retained, not a fresh playback verification.",
+          "noRehostingPermissionInferred": true
+        },
+        "coverageNote": "Long pediatric hip/MSK conference session with talks and Q&A on hip conditions; relevant foundation for the PRM musculoskeletal domain, but not a PRM-specific course. Counted once, not with its individual component videos. Link only; no reuse permission inferred."
       }
     ],
     "unitMap": [
@@ -31496,7 +31940,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 21.001,
+      "hoursToTarget": 9.341,
       "topicGaps": [
         "Verified public recordings remain concentrated in cerebral palsy; the newly verified Seattle Children's spina bifida mobility lecture and two SMA rehabilitation recordings improve units 6 and 7 but do not provide complete coverage of pediatric SCI, DMD longitudinal care, neuromuscular examination, or current therapy-era standards. Both SMA recordings are 2020 uploads and require current-source review.",
         "No counted accessible full lecture hours currently establish adequate coverage of pediatric orthopedics/limb difference, pediatric cancer rehabilitation, pediatric pain/POTS, genetic/rare disorders, and transitions/ethics. The 2025 AAPM&R catalog names several relevant offerings but its public listings did not establish no-login full playback plus player runtime; catalog/CME-course counts are not video hours.",
@@ -32519,10 +32963,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36.0,
-      "verifiedExternalHours": 14.999444444444444,
-      "verifiedSpecialtyHours": 11.426388888888889,
-      "verifiedFoundationHours": 3.5730555555555554,
-      "hoursGap": 21.000555555555557,
+      "verifiedExternalHours": 26.65861111111111,
+      "verifiedSpecialtyHours": 19.675555555555555,
+      "verifiedFoundationHours": 6.983055555555556,
+      "hoursGap": 9.34138888888889,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
@@ -32834,6 +33278,6 @@
         "fictionalCase": false
       }
     ],
-    "syllabusUrl": "/manus-storage/MED-X060_9adfe978.pdf"
+    "syllabusUrl": "/manus-storage/MED-X060_d5776ccd.pdf"
   }
 ]

@@ -3981,6 +3981,183 @@
         "vtt": "a77f20989dd0cc1b0f3b7fda6a3ab7905f9aedc16ed6b1fe1abeccc744f85de3",
         "transcript": "5833c2f50ffc76b57d33af12c82f70b5ec1e2c3414b85e9c40a940df58cebee5"
       }
+    },
+    {
+      "id": "MED-X046-EXPLAIN-001",
+      "originalAuthorEpisodeId": "MED-X046-EXPLAIN-001",
+      "title": "Reconstructive Microsurgery as Defect Matching",
+      "programIds": [
+        "med"
+      ],
+      "courseIds": [
+        "MED-X046"
+      ],
+      "status": "ready",
+      "durationSeconds": 414.0,
+      "sourceKind": "medical_instruction",
+      "isInstructional": true,
+      "sourceUrls": [
+        "https://research.massgeneralbrigham.org/en/education-and-training/graduate-medical-education/surgery/advanced-reconstruction-microsurgery-and-peripheral-nerve-fellowship",
+        "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
+        "https://www.oaepublish.com/webinars/par.47",
+        "https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2023.1130566/full"
+      ],
+      "medicalSourceReviewStatus": "passed_automated_source_check",
+      "humanClinicalReviewStatus": "not performed",
+      "description": "Introductory teaching episode that frames reconstructive planning as matching the defect's tissue needs and functional goals to reconstructive concepts, while distinguishing educational media from supervised clinical training.",
+      "educationalLimits": "Independent educational self-study only; not patient-specific advice, clinical authorization, credential, or supervised training.",
+      "coverageGaps": [
+        "The episode introduces planning but does not provide supervised microsurgical technique, case-volume experience, or a current formal flap-selection algorithm.",
+        "Clinical decision-making remains dependent on anatomy, examination, imaging, patient goals and local team expertise."
+      ],
+      "voiceLimitations": "Synthetic narration can mispronounce uncommon clinical terms; it is not a human clinician narrator.",
+      "sourceLimitations": "Automated comparison of the exact rendered script and labels against retrieved supporting excerpts only; inaccessible citations were not reviewed, no login/paywall bypass was attempted, whole-book clinical validation was not performed, and human clinical validation was not performed.",
+      "visualLimitations": "Self-contained HTML/CSS conceptual schematics only; no patient, scan, DICOM, record, dose, vendor UI, diagnostic image, or diagnostic ground-truth claim.",
+      "localAssets": {
+        "wav": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/audio/MED-X046-EXPLAIN-001.wav",
+        "mp4": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/videos/MED-X046-EXPLAIN-001.mp4",
+        "vtt": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/captions/MED-X046-EXPLAIN-001.vtt",
+        "transcript": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/transcripts/MED-X046-EXPLAIN-001.transcript.md",
+        "representativeFrame": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/frames/MED-X046-EXPLAIN-001-representative.png",
+        "renderedScript": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/scripts/MED-X046-EXPLAIN-001.rendered-script.json"
+      },
+      "reviewManifestPath": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/review/MED-X046-EXPLAIN-001.reviewmanifest.json",
+      "sourceAuditPath": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/review/MED-X046-EXPLAIN-001.sourceaudit.json",
+      "scriptSha256": "77200964a6081c039c290abb29cead3ac1da2a7dbb114003385883473e4f1f69",
+      "visualSha256": "64d8a0e75d3098bbbca412ea7a256c940b5a1b14a6dd646f14046113453c43af",
+      "evidenceSelectionSha256": "71a4f73bfd8128bd60a8222012d09bd1f8e95fea94af55f200cbc27b8d469f59",
+      "renderContentSha256": "ba2fabc927efef6de26c5732136243f395569e04dea913986197119d522346a2",
+      "localAssetSha256": {
+        "mp4": "1618c76ac9720ca1d4a3aa176501365426fa3d7c2e869929d12438ce0bf10cf0",
+        "vtt": "ef3449baeddbace9c46d0e203fd893def23255d9eb4b804b6672e9317c3d6fdb",
+        "transcript": "f62b531122056bd6263451577f111bd2fd22b1d92c566e339c1cf1da8a738c2e"
+      },
+      "videoUrl": "/manus-storage/MED-X046-EXPLAIN-001_efa3eaf5.mp4",
+      "captionUrl": "/manus-storage/MED-X046-EXPLAIN-001_96eeb8ba.vtt",
+      "transcriptUrl": "/manus-storage/MED-X046-EXPLAIN-001.transcript_85fb0eaa.md",
+      "uploadedAssetSha256": {
+        "mp4": "1618c76ac9720ca1d4a3aa176501365426fa3d7c2e869929d12438ce0bf10cf0",
+        "vtt": "ef3449baeddbace9c46d0e203fd893def23255d9eb4b804b6672e9317c3d6fdb",
+        "transcript": "f62b531122056bd6263451577f111bd2fd22b1d92c566e339c1cf1da8a738c2e"
+      }
+    },
+    {
+      "id": "MED-X046-EXPLAIN-003",
+      "originalAuthorEpisodeId": "MED-X046-EXPLAIN-003",
+      "title": "Free-Flap Monitoring: Findings, Limits and Escalation",
+      "programIds": [
+        "med"
+      ],
+      "courseIds": [
+        "MED-X046"
+      ],
+      "status": "ready",
+      "durationSeconds": 552.0,
+      "sourceKind": "medical_instruction",
+      "isInstructional": true,
+      "sourceUrls": [
+        "https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2023.1130566/full",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5682161/",
+        "https://research.massgeneralbrigham.org/en/education-and-training/graduate-medical-education/surgery/advanced-reconstruction-microsurgery-and-peripheral-nerve-fellowship"
+      ],
+      "medicalSourceReviewStatus": "passed_automated_source_check",
+      "humanClinicalReviewStatus": "not performed",
+      "description": "A worked reasoning episode on what postoperative free-flap surveillance observations mean and why no single finding or monitor replaces local clinical protocols and a trained team.",
+      "educationalLimits": "Independent educational self-study only; not patient-specific advice, clinical authorization, credential, or supervised training.",
+      "coverageGaps": [
+        "The cited review is not a local institutional protocol and does not establish universal monitoring frequency or technology.",
+        "No video can provide supervised bedside examination or team-response practice."
+      ],
+      "voiceLimitations": "Synthetic narration can mispronounce uncommon clinical terms; it is not a human clinician narrator.",
+      "sourceLimitations": "Automated comparison of the exact rendered script and labels against retrieved supporting excerpts only; inaccessible citations were not reviewed, no login/paywall bypass was attempted, whole-book clinical validation was not performed, and human clinical validation was not performed.",
+      "visualLimitations": "Self-contained HTML/CSS conceptual schematics only; no patient, scan, DICOM, record, dose, vendor UI, diagnostic image, or diagnostic ground-truth claim.",
+      "localAssets": {
+        "wav": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/audio/MED-X046-EXPLAIN-003.wav",
+        "mp4": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/videos/MED-X046-EXPLAIN-003.mp4",
+        "vtt": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/captions/MED-X046-EXPLAIN-003.vtt",
+        "transcript": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/transcripts/MED-X046-EXPLAIN-003.transcript.md",
+        "representativeFrame": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/frames/MED-X046-EXPLAIN-003-representative.png",
+        "renderedScript": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/scripts/MED-X046-EXPLAIN-003.rendered-script.json"
+      },
+      "reviewManifestPath": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/review/MED-X046-EXPLAIN-003.reviewmanifest.json",
+      "sourceAuditPath": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/review/MED-X046-EXPLAIN-003.sourceaudit.json",
+      "scriptSha256": "3e457355702aa2184b078352302805029822b850709cf941dc9343222cccfefc",
+      "visualSha256": "a3391bb171ef04b700ec00a9d83afa4139fc0d82eaa076892cc9243ca0a22960",
+      "evidenceSelectionSha256": "608029a9fc8f45068085484261336a41552e3e40e396c9ba106492a437f76ba9",
+      "renderContentSha256": "97300b744931e19400cd4b96757bf38f6adc3db8a8aeee4e59cb16f6795ee913",
+      "localAssetSha256": {
+        "mp4": "bc5177ed1f8ca060fae44278b0a296eb54d40400f0e1320aadf5fa8d3c16600f",
+        "vtt": "060f519d70c1effdc10112f120caa46544efc00df34ae48380898a0a9e4f1674",
+        "transcript": "0de654b3f0881c25cd044862b26bdac7994b4747e2a9f04af34baecef242f83d"
+      },
+      "videoUrl": "/manus-storage/MED-X046-EXPLAIN-003_9b37c31f.mp4",
+      "captionUrl": "/manus-storage/MED-X046-EXPLAIN-003_2392b9dc.vtt",
+      "transcriptUrl": "/manus-storage/MED-X046-EXPLAIN-003.transcript_1d06696d.md",
+      "uploadedAssetSha256": {
+        "mp4": "bc5177ed1f8ca060fae44278b0a296eb54d40400f0e1320aadf5fa8d3c16600f",
+        "vtt": "060f519d70c1effdc10112f120caa46544efc00df34ae48380898a0a9e4f1674",
+        "transcript": "0de654b3f0881c25cd044862b26bdac7994b4747e2a9f04af34baecef242f83d"
+      }
+    },
+    {
+      "id": "MED-X018-EXPLAIN-003",
+      "originalAuthorEpisodeId": "MED-X018-EXPLAIN-003",
+      "title": "MRI, CSF and Antibodies: Build a Contextual Differential",
+      "programIds": [
+        "med"
+      ],
+      "courseIds": [
+        "MED-X018"
+      ],
+      "status": "ready",
+      "durationSeconds": 607.0,
+      "sourceKind": "medical_instruction",
+      "isInstructional": true,
+      "sourceUrls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9508797/",
+        "https://pubmed.ncbi.nlm.nih.gov/36706773/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10267280/",
+        "https://pubmed.ncbi.nlm.nih.gov/23572237/"
+      ],
+      "medicalSourceReviewStatus": "passed_automated_source_check",
+      "humanClinicalReviewStatus": "not performed",
+      "description": "Worked reasoning episode on MRI as pattern evidence, MOGAD/AQP4 assay context and the limits of negative or positive results.",
+      "educationalLimits": "Advanced independent education for learners with neurology/child-neurology fundamentals only. This is not clinical advice, patient-specific diagnosis or treatment, clinician-supervised case practice, credentialing, accredited clinical training, licensure, board eligibility, or certification. Constructed scenarios are fictional. No qualified clinician reviewed this script; no real patient data or diagnostic images are used. Verify current criteria, assay specifications, drug labeling and local guidance with qualified specialists before clinical use.",
+      "coverageGaps": [
+        "No direct diagnostic image review, sequence-level teaching, or validated radiology training is provided.",
+        "The exact full MOGAD criteria and current pediatric performance are not reproduced; source abstract/full text access and clinician interpretation remain necessary.",
+        "NMOSD Part II treatment source remains inadequately inspected; no detailed attack-treatment instructions appear."
+      ],
+      "voiceLimitations": "Synthetic narration can mispronounce uncommon clinical terms; it is not a human clinician narrator.",
+      "sourceLimitations": "Automated comparison of the exact rendered script and labels against retrieved supporting excerpts only; inaccessible citations were not reviewed, no login/paywall bypass was attempted, whole-book clinical validation was not performed, and human clinical validation was not performed.",
+      "visualLimitations": "Self-contained HTML/CSS conceptual schematics only; no patient, scan, DICOM, record, dose, vendor UI, diagnostic image, or diagnostic ground-truth claim.",
+      "localAssets": {
+        "wav": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/audio/MED-X018-EXPLAIN-003.wav",
+        "mp4": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/videos/MED-X018-EXPLAIN-003.mp4",
+        "vtt": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/captions/MED-X018-EXPLAIN-003.vtt",
+        "transcript": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/transcripts/MED-X018-EXPLAIN-003.transcript.md",
+        "representativeFrame": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/frames/MED-X018-EXPLAIN-003-representative.png",
+        "renderedScript": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/scripts/MED-X018-EXPLAIN-003.rendered-script.json"
+      },
+      "reviewManifestPath": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/review/MED-X018-EXPLAIN-003.reviewmanifest.json",
+      "sourceAuditPath": "/home/ubuntu/ai-business-finance-study/medical/original-lectures/review/MED-X018-EXPLAIN-003.sourceaudit.json",
+      "scriptSha256": "c3be98644bd0d73dceb0e21a93ede9676e3ed05c1a4451d79b23c75d6b313352",
+      "visualSha256": "b35c1d0bc0707fe3f7b2a2ab572f9366373f9342200e35a16bc77f0f6a755643",
+      "evidenceSelectionSha256": "b5f2da3061a27084d7d734ca7c6cb9b619ad1259e2855d8c415420c1b8d0c4e4",
+      "renderContentSha256": "fad4f6dd5126fd5ed5e7390699a148c41d43ee3e01befe8e60daa5700dbf40bf",
+      "localAssetSha256": {
+        "mp4": "a632aa4d2cd2a6ff4021ffbd5b673007197eeac3a242c0553b5374fce02a1c81",
+        "vtt": "80eca3cb57fb351281bb4cf8b29b5d7ccf9f5cab0c3988528623c2ff7f40c69d",
+        "transcript": "617c582aed83c608579c01ec47e06037294dd6d295419266dd3d6b137f70e3a9"
+      },
+      "videoUrl": "/manus-storage/MED-X018-EXPLAIN-003_337b25c2.mp4",
+      "captionUrl": "/manus-storage/MED-X018-EXPLAIN-003_c3f094fd.vtt",
+      "transcriptUrl": "/manus-storage/MED-X018-EXPLAIN-003.transcript_83adb199.md",
+      "uploadedAssetSha256": {
+        "mp4": "a632aa4d2cd2a6ff4021ffbd5b673007197eeac3a242c0553b5374fce02a1c81",
+        "vtt": "80eca3cb57fb351281bb4cf8b29b5d7ccf9f5cab0c3988528623c2ff7f40c69d",
+        "transcript": "617c582aed83c608579c01ec47e06037294dd6d295419266dd3d6b137f70e3a9"
+      }
     }
   ],
   "sourceCoverage": [],
@@ -3989,5 +4166,5 @@
     "Three limited original pilots have actual measured playable files and version-bound automated source-fidelity audits; human clinician review has not been performed.",
     "These are not complete specialty courses, board readiness predictions, clinical validation, eligibility, or 36-hour specialty teaching."
   ],
-  "updatedAt": "2026-10-09T06:34:44.902996+00:00"
+  "updatedAt": "2026-10-09T07:26:11.796809+00:00"
 }
