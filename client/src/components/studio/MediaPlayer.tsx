@@ -2,6 +2,8 @@ import { useEffect, useRef, useState } from "react";
 import VimeoPlayer from "@vimeo/player";
 import { AlertCircle, ExternalLink, SkipForward, Volume2 } from "lucide-react";
 import type { QueueItem } from "@/lib/queue";
+import { getCTODriveMirror } from "@/lib/ctoDriveMirrors";
+import { CTODrivePlaybackNotice, CTODrivePreview } from "./CTODrivePreview";
 import {
   isNativeMediaUrl,
   parseYouTubeUrl,
@@ -345,6 +347,9 @@ export function MediaPlayer({
   onStart,
 }: Props) {
   const [playbackFailed, setPlaybackFailed] = useState(false);
+  const [driveLessonId, setDriveLessonId] = useState<string>();
+  const driveMirror = getCTODriveMirror(item);
+  const driveMode = Boolean(driveMirror && driveLessonId === item?.lessonId);
   const videoRef = useRef<HTMLVideoElement>(null);
   const restoredItemRef = useRef<string | undefined>(undefined);
   const lastPositionBucketRef = useRef<number | undefined>(undefined);
@@ -363,17 +368,33 @@ export function MediaPlayer({
   const native = isNativeMediaUrl(item?.url);
   useEffect(() => {
     setPlaybackFailed(false);
+    setDriveLessonId(undefined);
     restoredItemRef.current = undefined;
     lastPositionBucketRef.current = undefined;
   }, [item?.queueId]);
 
   useEffect(() => {
     const video = videoRef.current;
-    if (!native || !queueActive || !video || !video.paused) return;
+    if (driveMode || !native || !queueActive || !video || !video.paused) return;
     // A user click on Play all may be allowed to start playback; browser policy can still require
     // the learner to press native controls, which remains an honest, usable fallback.
     void video.play().catch(() => undefined);
-  }, [native, item?.queueId, queueActive]);
+  }, [driveMode, native, item?.queueId, queueActive]);
+
+  const selectPlayback = (useDrive: boolean) => {
+    if (useDrive && !driveMirror) return;
+    const video = videoRef.current;
+    if (video) {
+      video.pause();
+      if (Number.isFinite(video.currentTime) && video.currentTime > 0) {
+        onPositionRef.current(video.currentTime);
+      }
+    }
+    restoredItemRef.current = undefined;
+    lastPositionBucketRef.current = undefined;
+    setPlaybackFailed(false);
+    setDriveLessonId(useDrive ? item?.lessonId : undefined);
+  };
 
   const restoreNativePosition = () => {
     if (!item || restoredItemRef.current === item.queueId) return;
@@ -409,7 +430,7 @@ export function MediaPlayer({
   const youtube = Boolean(youTubeEmbedUrl(item.url));
   const vimeo = Boolean(vimeoEmbedUrl(item.url));
   const sourceHref = item.sourceUrl || item.url;
-  if (playbackFailed || (!native && !youtube && !vimeo)) {
+  if (!driveMode && (playbackFailed || (!native && !youtube && !vimeo))) {
     return (
       <div className="media-empty media-fallback">
         <AlertCircle size={25} aria-hidden="true" />
@@ -427,6 +448,14 @@ export function MediaPlayer({
           >
             <ExternalLink size={15} aria-hidden="true" /> Open source
           </a>
+          {driveMirror && (
+            <button
+              className="button button-quiet"
+              onClick={() => selectPlayback(true)}
+            >
+              Try Google Drive preview
+            </button>
+          )}
           <button className="button button-quiet" onClick={onSkip}>
             <SkipForward size={15} aria-hidden="true" /> Skip / next
           </button>
@@ -437,16 +466,49 @@ export function MediaPlayer({
 
   return (
     <div className="media-player">
-      <div className="player-topline">
+      <div
+        className={
+          driveMirror ? "player-topline cto-drive-topline" : "player-topline"
+        }
+      >
         <span className={`source-pill ${item.source}`}>
-          {item.source === "original"
-            ? originalLabel || "Original Board Studio file"
-            : item.provider || "Outside university"}
+          {driveMode
+            ? "Google Drive — original file mirror"
+            : item.source === "original"
+              ? originalLabel || "Original Board Studio file"
+              : item.provider || "Outside university"}
         </span>
         {item.unitLabel && <span>{item.unitLabel}</span>}
+        {driveMirror && (
+          <div
+            className="inline-actions drive-provider-controls"
+            aria-label="Video playback source"
+          >
+            <button
+              className="button button-quiet"
+              aria-pressed={!driveMode}
+              onClick={() => selectPlayback(false)}
+            >
+              Studio playback
+            </button>
+            <button
+              className="button button-quiet"
+              aria-pressed={driveMode}
+              onClick={() => selectPlayback(true)}
+            >
+              Google Drive preview
+            </button>
+          </div>
+        )}
       </div>
       <div className="player-surface">
-        {native ? (
+        {driveMode && driveMirror ? (
+          <CTODrivePreview
+            key={item.queueId}
+            mirror={driveMirror}
+            title={item.title}
+          />
+        ) : native ? (
           <video
             key={item.queueId}
             ref={videoRef}
@@ -506,15 +568,17 @@ export function MediaPlayer({
         <div>
           <strong>{item.title}</strong>
           <span>
-            {queueActive
-              ? "Queue started — advances when a playable lesson ends."
-              : "Choose Play all or play this lesson to enable queue advance."}
+            {driveMode
+              ? "Google Drive preview — use Next manually; no automatic progress tracking."
+              : queueActive
+                ? "Queue started — advances when a playable lesson ends."
+                : "Choose Play all or play this lesson to enable queue advance."}
           </span>
         </div>
         <div className="inline-actions">
           <a
             className="icon-action"
-            href={sourceHref}
+            href={driveMode ? driveMirror?.openUrl : sourceHref}
             target="_blank"
             rel="noreferrer"
           >
@@ -527,6 +591,7 @@ export function MediaPlayer({
           </button>
         </div>
       </div>
+      {driveMode && <CTODrivePlaybackNotice />}
     </div>
   );
 }

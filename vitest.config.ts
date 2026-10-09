@@ -18,8 +18,8 @@ export default defineConfig({
     include: [
       "server/**/*.test.ts",
       "server/**/*.spec.ts",
-      "client/**/*.test.ts",
-      "client/**/*.spec.ts",
+      "client/**/*.test.{ts,tsx}",
+      "client/**/*.spec.{ts,tsx}",
       "shared/**/*.test.ts",
       "shared/**/*.spec.ts",
     ],
