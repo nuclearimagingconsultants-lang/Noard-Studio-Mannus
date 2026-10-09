@@ -10,7 +10,7 @@
       "hoursExclude": "No estimated/planned clip minutes, clinical work, rotations, case volumes or duplicate media are included as verified video hours."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X013_6c9a5236.pdf",
+    "syllabusUrl": "/manus-storage/MED-X013_3b2c0d68.pdf",
     "pdfIds": [
       "med-syllabus-MED-X013",
       "med-reading-bcd934db2a38",
@@ -25,7 +25,7 @@
         "title": "Building Affirming and Supportive Classrooms",
         "url": "https://www.youtube.com/watch?v=eGID4AH49aU",
         "provider": "Children’s Hospital Los Angeles (official institutional webinar link to YouTube)",
-        "durationSeconds": 4366.0,
+        "durationSeconds": 4366,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLb3L_ts5oCyqmEYPdrOq2j1phqN6nhoDv",
         "accessVerified": true
       },
@@ -34,7 +34,7 @@
         "title": "Beyond the Check-Up: Integrating Reproductive Health into Everyday Pediatric Care",
         "url": "https://players.brightcove.net/6056665225001/default_default/index.html?videoId=6377440443112",
         "provider": "American Academy of Pediatrics (AAP), public Brightcove player",
-        "durationSeconds": 3536.0,
+        "durationSeconds": 3536,
         "sourceUrl": "https://players.brightcove.net/6056665225001/default_default/index.html?videoId=6377440443112",
         "accessVerified": true
       },
@@ -43,7 +43,7 @@
         "title": "Navigating Confidentiality: Engaging Parents While Empowering Adolescents in Reproductive Health",
         "url": "https://players.brightcove.net/6056665225001/default_default/index.html?videoId=6372414088112",
         "provider": "American Academy of Pediatrics (AAP), public Brightcove player",
-        "durationSeconds": 1803.0,
+        "durationSeconds": 1803,
         "sourceUrl": "https://players.brightcove.net/6056665225001/default_default/index.html?videoId=6372414088112",
         "accessVerified": true
       },
@@ -52,7 +52,7 @@
         "title": "Pediatric Grand Rounds: 20th Annual Dr. Elliott Podoll Lectureship: Disordered Eating in Adolescents",
         "url": "https://www.youtube.com/watch?v=SFPW53zxxZg",
         "provider": "Norton Healthcare / Norton Children's, in joint providership with University of Louisville Department of Pediatrics",
-        "durationSeconds": 3499.0,
+        "durationSeconds": 3499,
         "sourceUrl": "https://www.youtube.com/@nortonhealthcare",
         "accessVerified": true
       },
@@ -61,7 +61,7 @@
         "title": "Webinar recording – Confidentiality Best Practice in Adolescent Health",
         "url": "https://www.youtube.com/watch?v=0cRZsc75pOU",
         "provider": "University of Michigan Adolescent Health Initiative / Michigan Medicine",
-        "durationSeconds": 5246.0,
+        "durationSeconds": 5246,
         "sourceUrl": "https://www.youtube.com/@MichiganMedicine",
         "accessVerified": true
       },
@@ -70,7 +70,7 @@
         "title": "Stanford Pediatric Grand Rounds: Adolescent Health and Well-being: Opportunities and Challenges",
         "url": "https://www.youtube.com/watch?v=LcYTtT-LQdo",
         "provider": "Stanford Department of Pediatrics",
-        "durationSeconds": 3966.0,
+        "durationSeconds": 3966,
         "sourceUrl": "https://www.youtube.com/@stanfordpeds",
         "accessVerified": true
       },
@@ -79,8 +79,17 @@
         "title": "Webinar – Adolescent-Centered Contraceptive Counseling: Adopting a Shared Decision-Making Model",
         "url": "https://www.youtube.com/watch?v=Cqcra-pO2E4",
         "provider": "University of Michigan Adolescent Health Initiative / Michigan Medicine",
-        "durationSeconds": 4093.0,
+        "durationSeconds": 4093,
         "sourceUrl": "https://www.youtube.com/@MichiganMedicine",
+        "accessVerified": true
+      },
+      {
+        "id": "X013-ADD-005",
+        "title": "Norms, Trends, Opportunities for Substance Use Prevention in Adolescents",
+        "url": "https://www.youtube.com/watch?v=QBA_U4diFMo",
+        "provider": "Seattle Children's Provider Grand Rounds",
+        "durationSeconds": 3645,
+        "sourceUrl": "https://www.seattlechildrens.org/healthcare-professionals/education/grand-rounds/online/substance-abuse-prevention-adolescents/",
         "accessVerified": true
       }
     ],
@@ -146,7 +155,9 @@
         "number": 8,
         "text": "Substance use, addiction, and harm reduction",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "X013-ADD-005"
+        ]
       },
       {
         "number": 9,
@@ -189,11 +200,11 @@
     ],
     "boardStatus": "There is a joint Adolescent Medicine certifying examination developed with ABP, ABIM and ABFM and administered by ABP (ABIM route described as joint). ABFM offers an Adolescent Medicine Certificate of Added Qualification pathway and continuing certification by longitudinal assessment. This is a real physician clinical subspecialty/fellowship, not a generic directory category, research-only job, non-physician supplement, or combined residency. MGBfC is described by its official page as newly created; its current ACGME accreditation/status and detailed pathway-specific eligibility are not independently established here. A separate examination route is evidenced by the board sources; exact candidate route varies by primary specialty and board.",
     "boardEligibilityNotice": "Only the relevant board determines eligibility. ABP page (checked 2025-11-25) specifies primary ABP Pediatrics, ABIM Internal Medicine or ABFM Family Medicine certification, and for its ABP route three years of ACGME/RCPSC-accredited adolescent-medicine fellowship plus board-specific requirements. ACGME requirements effective 2026-07-01 prescribe a minimum 36 months for pediatrics graduates and 24 months for FM/IM graduates. Completion of this independent course, or any MGB/BCH programme listing alone, does not confer eligibility or certification. Confirm current rules with the relevant board.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 7.363611111111111,
-    "verifiedSpecialtyHours": 6.2619444444444445,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 8.376111111111111,
+    "verifiedSpecialtyHours": 7.274444444444445,
     "verifiedFoundationHours": 1.1016666666666666,
-    "hoursGap": 28.636388888888888,
+    "hoursGap": 27.62388888888889,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -238,7 +249,7 @@
         "title": "Ankle Fractures - The Syndesmosis & Posterior Malleolus - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=l2QS8QX2Lec",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3342.0,
+        "durationSeconds": 3342,
         "sourceUrl": "https://www.youtube.com/watch?v=l2QS8QX2Lec",
         "accessVerified": true
       },
@@ -247,7 +258,7 @@
         "title": "Investigation and Early Management of Ankle Arthritis - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=5Qc5tZNjPHY",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3465.0,
+        "durationSeconds": 3465,
         "sourceUrl": "https://www.youtube.com/watch?v=5Qc5tZNjPHY",
         "accessVerified": true
       },
@@ -256,7 +267,7 @@
         "title": "Late Stage Ankle Arthritis - Fusion & Arthroplasty - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=4w-8Hv7Ktms",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 2332.0,
+        "durationSeconds": 2332,
         "sourceUrl": "https://www.youtube.com/watch?v=4w-8Hv7Ktms",
         "accessVerified": true
       },
@@ -265,7 +276,7 @@
         "title": "Pilon Fractures & External Fixation - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=W2pliWg_qg8",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 2797.0,
+        "durationSeconds": 2797,
         "sourceUrl": "https://www.youtube.com/watch?v=W2pliWg_qg8",
         "accessVerified": true
       },
@@ -274,7 +285,7 @@
         "title": "Hindfoot & Midfoot Arthritis - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=G_5_ctYAbow",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 2396.0,
+        "durationSeconds": 2396,
         "sourceUrl": "https://www.youtube.com/watch?v=G_5_ctYAbow",
         "accessVerified": true
       },
@@ -283,7 +294,7 @@
         "title": "Pes Cavus - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=PQCfDK4HZUs",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3299.0,
+        "durationSeconds": 3299,
         "sourceUrl": "https://www.youtube.com/watch?v=PQCfDK4HZUs",
         "accessVerified": true
       },
@@ -292,7 +303,7 @@
         "title": "Compartment Syndrome of the Foot / The Crushed Foot - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=94QcwKCVHbA",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3003.0,
+        "durationSeconds": 3003,
         "sourceUrl": "https://www.youtube.com/watch?v=94QcwKCVHbA",
         "accessVerified": true
       },
@@ -301,7 +312,7 @@
         "title": "Midfoot & Forefoot Injuries - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=9oUPhW2tqVM",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3065.0,
+        "durationSeconds": 3065,
         "sourceUrl": "https://www.youtube.com/watch?v=9oUPhW2tqVM",
         "accessVerified": true
       },
@@ -310,7 +321,7 @@
         "title": "Hallux Rigidus - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=TcMFzdT_IOo",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 2480.0,
+        "durationSeconds": 2480,
         "sourceUrl": "https://www.youtube.com/watch?v=TcMFzdT_IOo",
         "accessVerified": true
       },
@@ -319,7 +330,7 @@
         "title": "Paediatric Foot Problems - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=8eLGixnftWg",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3552.0,
+        "durationSeconds": 3552,
         "sourceUrl": "https://www.youtube.com/watch?v=8eLGixnftWg",
         "accessVerified": true
       },
@@ -328,7 +339,7 @@
         "title": "Pes Planus - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=l_E_B9_RjhA",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 2771.0,
+        "durationSeconds": 2771,
         "sourceUrl": "https://www.youtube.com/watch?v=l_E_B9_RjhA",
         "accessVerified": true
       },
@@ -337,7 +348,7 @@
         "title": "Ankle Instability - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=lSKhf_Vws08",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3201.0,
+        "durationSeconds": 3201,
         "sourceUrl": "https://www.youtube.com/watch?v=lSKhf_Vws08",
         "accessVerified": true
       },
@@ -346,7 +357,7 @@
         "title": "Hallux Valgus - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=-yDjhf0QqqE",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3358.0,
+        "durationSeconds": 3358,
         "sourceUrl": "https://www.youtube.com/watch?v=-yDjhf0QqqE",
         "accessVerified": true
       },
@@ -355,7 +366,7 @@
         "title": "Rheumatoid Foot & Lesser Toes - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=VYDQiYHP0po",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 2803.0,
+        "durationSeconds": 2803,
         "sourceUrl": "https://www.youtube.com/watch?v=VYDQiYHP0po",
         "accessVerified": true
       },
@@ -364,7 +375,7 @@
         "title": "Diabetic Foot Attack - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=CVEhM927WGk",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3311.0,
+        "durationSeconds": 3311,
         "sourceUrl": "https://www.youtube.com/watch?v=CVEhM927WGk",
         "accessVerified": true
       },
@@ -373,7 +384,7 @@
         "title": "Diabetic Foot - Ulcers & Charcot - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=JC3wwyW8xK8",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 4442.0,
+        "durationSeconds": 4442,
         "sourceUrl": "https://www.youtube.com/watch?v=JC3wwyW8xK8",
         "accessVerified": true
       },
@@ -382,7 +393,7 @@
         "title": "Infections of the Foot & Ankle - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=v0IIRqK0S0Y",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 2628.0,
+        "durationSeconds": 2628,
         "sourceUrl": "https://www.youtube.com/watch?v=v0IIRqK0S0Y",
         "accessVerified": true
       },
@@ -391,7 +402,7 @@
         "title": "Common Foot & Ankle Tumours - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=f6dZy2ngfoI",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3153.0,
+        "durationSeconds": 3153,
         "sourceUrl": "https://www.youtube.com/watch?v=f6dZy2ngfoI",
         "accessVerified": true
       },
@@ -400,7 +411,7 @@
         "title": "Achilles Tendinopathy - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=AGfYZThnRkQ",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3723.0,
+        "durationSeconds": 3723,
         "sourceUrl": "https://www.youtube.com/watch?v=AGfYZThnRkQ",
         "accessVerified": true
       },
@@ -409,7 +420,7 @@
         "title": "Hindfoot Injuries - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=qektpc4IY-o",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3624.0,
+        "durationSeconds": 3624,
         "sourceUrl": "https://www.youtube.com/watch?v=qektpc4IY-o",
         "accessVerified": true
       },
@@ -418,7 +429,7 @@
         "title": "Foot & Ankle Tendon Disorders - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=TvA-IyzZ8dw",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3774.0,
+        "durationSeconds": 3774,
         "sourceUrl": "https://www.youtube.com/watch?v=TvA-IyzZ8dw",
         "accessVerified": true
       },
@@ -427,7 +438,7 @@
         "title": "Heel Pain & Stress Fractures - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=C3Gtxwaollw",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3312.0,
+        "durationSeconds": 3312,
         "sourceUrl": "https://www.youtube.com/watch?v=C3Gtxwaollw",
         "accessVerified": true
       },
@@ -436,7 +447,7 @@
         "title": "Principles of Orthoses, Prosthesis & Shoe Wear - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=Hl5DpQfUPaw",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 2963.0,
+        "durationSeconds": 2963,
         "sourceUrl": "https://www.youtube.com/watch?v=Hl5DpQfUPaw",
         "accessVerified": true
       },
@@ -445,7 +456,7 @@
         "title": "Tendon Transfers of the Foot & Ankle - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=ECc4uHEcIBU",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3485.0,
+        "durationSeconds": 3485,
         "sourceUrl": "https://www.youtube.com/watch?v=ECc4uHEcIBU",
         "accessVerified": true
       },
@@ -454,7 +465,7 @@
         "title": "Ankle Fractures - Part 2 - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=zWD9quZzC70",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3036.0,
+        "durationSeconds": 3036,
         "sourceUrl": "https://www.youtube.com/watch?v=zWD9quZzC70",
         "accessVerified": true
       },
@@ -463,7 +474,7 @@
         "title": "Soft Tissue Reconstruction of the Foot & Ankle - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=fZlSOJoafoo",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3746.0,
+        "durationSeconds": 3746,
         "sourceUrl": "https://www.youtube.com/watch?v=fZlSOJoafoo",
         "accessVerified": true
       },
@@ -472,7 +483,7 @@
         "title": "Amputations of the Foot & Lower Limb - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=xc0ehmdW44k",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3376.0,
+        "durationSeconds": 3376,
         "sourceUrl": "https://www.youtube.com/watch?v=xc0ehmdW44k",
         "accessVerified": true
       },
@@ -481,7 +492,7 @@
         "title": "Principles of Ankle Fracture - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=La4zy-8Da1c",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 4101.0,
+        "durationSeconds": 4101,
         "sourceUrl": "https://www.youtube.com/watch?v=La4zy-8Da1c",
         "accessVerified": true
       },
@@ -490,7 +501,7 @@
         "title": "Ankle Fractures - Posterior Malleolus & Beyond - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=YwBV2Mnr_5Q",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3739.0,
+        "durationSeconds": 3739,
         "sourceUrl": "https://www.youtube.com/watch?v=YwBV2Mnr_5Q",
         "accessVerified": true
       },
@@ -499,7 +510,7 @@
         "title": "Ankle Arthritis - Joint Preservation - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=ma928sQC2gU",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 1591.0,
+        "durationSeconds": 1591,
         "sourceUrl": "https://www.youtube.com/watch?v=ma928sQC2gU",
         "accessVerified": true
       },
@@ -508,7 +519,7 @@
         "title": "Ankle Arthritis - Fusion vs Replacement the Great Debate - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=UNHZ6HxFmT0",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3721.0,
+        "durationSeconds": 3721,
         "sourceUrl": "https://www.youtube.com/watch?v=UNHZ6HxFmT0",
         "accessVerified": true
       },
@@ -517,7 +528,7 @@
         "title": "Achilles tendon rupture - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=A0IGogcXrGo",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3476.0,
+        "durationSeconds": 3476,
         "sourceUrl": "https://www.youtube.com/watch?v=A0IGogcXrGo",
         "accessVerified": true
       },
@@ -526,7 +537,7 @@
         "title": "Sports Injuries of the Ankle - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=xHKryuw1Wsk",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3338.0,
+        "durationSeconds": 3338,
         "sourceUrl": "https://www.youtube.com/watch?v=xHKryuw1Wsk",
         "accessVerified": true
       },
@@ -535,7 +546,7 @@
         "title": "Hallux Valgus - A logical Approach - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=9TT8GBHJYWU",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3396.0,
+        "durationSeconds": 3396,
         "sourceUrl": "https://www.youtube.com/watch?v=9TT8GBHJYWU",
         "accessVerified": true
       },
@@ -544,7 +555,7 @@
         "title": "The Flexible Flatfoot - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=gWvjukJn6Wg",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3082.0,
+        "durationSeconds": 3082,
         "sourceUrl": "https://www.youtube.com/watch?v=gWvjukJn6Wg",
         "accessVerified": true
       },
@@ -553,7 +564,7 @@
         "title": "The Rigid Flatfoot - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=Tw5eR_jLz6w",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3733.0,
+        "durationSeconds": 3733,
         "sourceUrl": "https://www.youtube.com/watch?v=Tw5eR_jLz6w",
         "accessVerified": true
       },
@@ -562,7 +573,7 @@
         "title": "Diabetic Foot Attack - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=J_gRSoTR1hg",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3855.0,
+        "durationSeconds": 3855,
         "sourceUrl": "https://www.youtube.com/watch?v=J_gRSoTR1hg",
         "accessVerified": true
       },
@@ -571,7 +582,7 @@
         "title": "Calcaneal Fractures - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=wRDb2j6R_Z8",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3119.0,
+        "durationSeconds": 3119,
         "sourceUrl": "https://www.youtube.com/watch?v=wRDb2j6R_Z8",
         "accessVerified": true
       },
@@ -580,7 +591,7 @@
         "title": "Infections of the Foot & Ankle - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=oYVtwZpOO6s",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3663.0,
+        "durationSeconds": 3663,
         "sourceUrl": "https://www.youtube.com/watch?v=oYVtwZpOO6s",
         "accessVerified": true
       },
@@ -589,7 +600,7 @@
         "title": "Pilon Fractures - 1 - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=nBVWglWgVwo",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 4440.0,
+        "durationSeconds": 4440,
         "sourceUrl": "https://www.youtube.com/watch?v=nBVWglWgVwo",
         "accessVerified": true
       },
@@ -598,7 +609,7 @@
         "title": "Pilon Fractures - 2: Frames of Foot & Ankle - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=xsqwYHETk4M",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3751.0,
+        "durationSeconds": 3751,
         "sourceUrl": "https://www.youtube.com/watch?v=xsqwYHETk4M",
         "accessVerified": true
       },
@@ -607,7 +618,7 @@
         "title": "Lis Franc Injuries - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=JNYj0jPqMEw",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 4043.0,
+        "durationSeconds": 4043,
         "sourceUrl": "https://www.youtube.com/watch?v=JNYj0jPqMEw",
         "accessVerified": true
       },
@@ -616,7 +627,7 @@
         "title": "Gait Analysis for FRCS - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=pEbPH4ok3aM",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3705.0,
+        "durationSeconds": 3705,
         "sourceUrl": "https://www.youtube.com/watch?v=pEbPH4ok3aM",
         "accessVerified": true
       },
@@ -625,7 +636,7 @@
         "title": "Hallux Rigidus - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=JG1hzEACPn4",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3351.0,
+        "durationSeconds": 3351,
         "sourceUrl": "https://www.youtube.com/watch?v=JG1hzEACPn4",
         "accessVerified": true
       },
@@ -634,7 +645,7 @@
         "title": "Paediatric Foot Deformity - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=d91uL8wgo-8",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3764.0,
+        "durationSeconds": 3764,
         "sourceUrl": "https://www.youtube.com/watch?v=d91uL8wgo-8",
         "accessVerified": true
       },
@@ -643,7 +654,7 @@
         "title": "Pes Cavus Masterclass - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=8on2oWQmE-w",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3606.0,
+        "durationSeconds": 3606,
         "sourceUrl": "https://www.youtube.com/watch?v=8on2oWQmE-w",
         "accessVerified": true
       },
@@ -652,7 +663,7 @@
         "title": "Charcot Neuroarthropathy - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=n60y9RRMUE8",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3738.0,
+        "durationSeconds": 3738,
         "sourceUrl": "https://www.youtube.com/watch?v=n60y9RRMUE8",
         "accessVerified": true
       },
@@ -661,7 +672,7 @@
         "title": "Tendon Transfers of the Foot & Ankle - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=5B_93tTA4yI",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3388.0,
+        "durationSeconds": 3388,
         "sourceUrl": "https://www.youtube.com/watch?v=5B_93tTA4yI",
         "accessVerified": true
       },
@@ -670,7 +681,7 @@
         "title": "Achilles Tendinopathy - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=_SKewOWASuU",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3783.0,
+        "durationSeconds": 3783,
         "sourceUrl": "https://www.youtube.com/watch?v=_SKewOWASuU",
         "accessVerified": true
       },
@@ -679,7 +690,7 @@
         "title": "Principles of Orthoses and Footwear - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=BDLOyEjUBC4",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 3749.0,
+        "durationSeconds": 3749,
         "sourceUrl": "https://www.youtube.com/watch?v=BDLOyEjUBC4",
         "accessVerified": true
       },
@@ -688,7 +699,7 @@
         "title": "FRCS Foot & Ankle Vivas - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=bOBOSK820mY",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 5189.0,
+        "durationSeconds": 5189,
         "sourceUrl": "https://www.youtube.com/watch?v=bOBOSK820mY",
         "accessVerified": true
       },
@@ -697,7 +708,7 @@
         "title": "Achilles Tendon Ruptures - BOFAS Lectures of Distinction",
         "url": "https://www.youtube.com/watch?v=uxxEtKn-JhA",
         "provider": "British Orthopaedic Foot & Ankle Society (BOFAS)",
-        "durationSeconds": 2665.0,
+        "durationSeconds": 2665,
         "sourceUrl": "https://www.youtube.com/watch?v=uxxEtKn-JhA",
         "accessVerified": true
       }
@@ -859,11 +870,11 @@
     ],
     "boardStatus": "No separate ABOS initial foot-and-ankle subspecialty certificate is listed: ABOS lists hand and orthopaedic sports medicine subspecialty certificates. ABOS offers a Foot/Ankle practice-profiled recertification exam; the 2025 blueprint is for recertification, not initial specialty board certification. ABOS describes practice-profiled exams as subject to a phase-out schedule because examinee counts have fallen; check current schedule before relying on availability. ABFAS is a separate podiatric certifying board and is not an interchangeable orthopaedic physician board.",
     "boardEligibilityNotice": "AOFAS match guidance states that fellowship positions depend on successful completion of an approved orthopaedic surgery residency; this independent course confers no fellowship placement, ABOS eligibility, board certification or licensure. Individual eligibility rules are set by the board and match/program.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 49.006388888888885,
     "verifiedSpecialtyHours": 49.006388888888885,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 0.0,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -900,7 +911,7 @@
       "schedule": "12 units × approximately 10 hours each (read/watch, case discussion, assignment and review). This is a workload suggestion, separate from observed media duration and not institutional training time."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X015_3611c0fe.pdf",
+    "syllabusUrl": "/manus-storage/MED-X015_04cba9a6.pdf",
     "pdfIds": [
       "med-syllabus-MED-X015",
       "med-reading-1e6ce56aba45",
@@ -912,7 +923,7 @@
         "title": "Virtual Resident Lecture Series: Women’s Neurology: A Subspecialty for Half the Population",
         "url": "https://www.youtube.com/watch?v=6kkO2QvxohQ",
         "provider": "American Academy of Neurology (AAN), Virtual Resident Lecture Series (channel/series attribution per public listing)",
-        "durationSeconds": 3028.0,
+        "durationSeconds": 3028,
         "sourceUrl": "https://www.youtube.com/watch?v=6kkO2QvxohQ",
         "accessVerified": true
       },
@@ -921,7 +932,7 @@
         "title": "Virtual Education Lecture Series: Cerebrovascular Events in Pregnancy",
         "url": "https://www.youtube.com/watch?v=IMeV3Tqu0wE",
         "provider": "American Academy of Neurology (AAN), Virtual Education Lecture Series (channel/series attribution per public listing)",
-        "durationSeconds": 4000.0,
+        "durationSeconds": 4000,
         "sourceUrl": "https://www.youtube.com/watch?v=IMeV3Tqu0wE",
         "accessVerified": true
       },
@@ -930,7 +941,7 @@
         "title": "Epilepsy, sex hormones and the female brain",
         "url": "https://www.youtube.com/watch?v=tDSaPwPWP28",
         "provider": "Neurological Foundation of New Zealand; speaker Rachael Sumner, Centre for Brain Research, University of Auckland (per public watch-page description)",
-        "durationSeconds": 1882.0,
+        "durationSeconds": 1882,
         "sourceUrl": "https://www.youtube.com/watch?v=tDSaPwPWP28",
         "accessVerified": true
       },
@@ -939,7 +950,7 @@
         "title": "Epilepsy in Women: Challenges, Concerns, and Considerations",
         "url": "https://www.youtube.com/watch?v=Ov0QQzV0_Hw",
         "provider": "CURE Epilepsy, Seizing Life podcast",
-        "durationSeconds": 2415.0,
+        "durationSeconds": 2415,
         "sourceUrl": "https://www.youtube.com/watch?v=Ov0QQzV0_Hw",
         "accessVerified": true
       },
@@ -948,7 +959,7 @@
         "title": "Women's Health: Complex Interactions of Epilepsy, Medications, & Hormones",
         "url": "https://www.youtube.com/watch?v=0rY7rXoJQg8",
         "provider": "CURE Epilepsy",
-        "durationSeconds": 3487.0,
+        "durationSeconds": 3487,
         "sourceUrl": "https://www.youtube.com/watch?v=0rY7rXoJQg8",
         "accessVerified": true
       },
@@ -957,7 +968,7 @@
         "title": "WHO ILAE IBE Webinar - Optimizing care: Epilepsy and pregnancy in women and girls - 11 July 2024",
         "url": "https://www.youtube.com/watch?v=UdeTe149XHc",
         "provider": "World Health Organization, International League Against Epilepsy, and International Bureau for Epilepsy",
-        "durationSeconds": 5565.0,
+        "durationSeconds": 5565,
         "sourceUrl": "https://www.youtube.com/watch?v=UdeTe149XHc",
         "accessVerified": true
       },
@@ -966,7 +977,7 @@
         "title": "Epilepsy in Pregnancy - ILAE Eastern Mediterranean & Africa 25 November Webinar (English)",
         "url": "https://www.youtube.com/watch?v=fIq1L6AZTl4",
         "provider": "International League Against Epilepsy (Eastern Mediterranean and Africa regional webinar)",
-        "durationSeconds": 4227.0,
+        "durationSeconds": 4227,
         "sourceUrl": "https://www.youtube.com/watch?v=fIq1L6AZTl4",
         "accessVerified": true
       },
@@ -975,7 +986,7 @@
         "title": "Women with Epilepsy - ILAE Eastern Mediterranean 1 March 2024 Webinar (English)",
         "url": "https://www.youtube.com/watch?v=Y6tv4eNz_hE",
         "provider": "International League Against Epilepsy (Eastern Mediterranean regional webinar)",
-        "durationSeconds": 2846.0,
+        "durationSeconds": 2846,
         "sourceUrl": "https://www.youtube.com/watch?v=Y6tv4eNz_hE",
         "accessVerified": true
       },
@@ -984,7 +995,7 @@
         "title": "01/12/24 Rebecca Burch, MD | Management of Migraine during Pregnancy and Lactation: A case-based approach",
         "url": "https://streaming.uvm.edu/private/videos/XghFSo3/",
         "provider": "University of Vermont (UVM) Neurology Grand Rounds video library",
-        "durationSeconds": 3541.0,
+        "durationSeconds": 3541,
         "sourceUrl": "https://streaming.uvm.edu/private/videos/XghFSo3/",
         "accessVerified": true
       },
@@ -993,7 +1004,7 @@
         "title": "Episode 50: Hot Topics Mini-Series - Pregnancy and Epilepsy: Balancing the Risk and Outcomes",
         "url": "https://www.youtube.com/watch?v=H7qO_iIgm6I",
         "provider": "Stanford Center for Continuing Medical Education (Stanford Medcast)",
-        "durationSeconds": 1876.0,
+        "durationSeconds": 1876,
         "sourceUrl": "https://www.youtube.com/watch?v=H7qO_iIgm6I",
         "accessVerified": true
       },
@@ -1002,7 +1013,7 @@
         "title": "Antiseizure Medication Dosing Strategy During Pregnancy and Early Postpartum in Women With Epilepsy",
         "url": "https://www.youtube.com/watch?v=TpBRCqJNwGY",
         "provider": "Neurology Podcast / Neurology journal",
-        "durationSeconds": 1193.0,
+        "durationSeconds": 1193,
         "sourceUrl": "https://www.youtube.com/watch?v=TpBRCqJNwGY",
         "accessVerified": true
       },
@@ -1011,7 +1022,7 @@
         "title": "Epilepsy and Menopause – A special event for women with epilepsy; May 2023",
         "url": "https://www.youtube.com/watch?v=tB2B_d7wCWE",
         "provider": "Epilepsy Ireland",
-        "durationSeconds": 4612.0,
+        "durationSeconds": 4612,
         "sourceUrl": "https://www.youtube.com/watch?v=tB2B_d7wCWE",
         "accessVerified": true
       },
@@ -1020,8 +1031,17 @@
         "title": "Family Planning with MS: Navigating Contraception, Pregnancy & Birth",
         "url": "https://www.youtube.com/watch?v=-x0jxpy4KJk",
         "provider": "Multiple Sclerosis Association of America (MSAA)",
-        "durationSeconds": 3230.0,
+        "durationSeconds": 3230,
         "sourceUrl": "https://mymsaa.org/videos/family-planning-with-ms-navigating-contraception-pregnancy-birth/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X015-ADD-010",
+        "title": "Cerebral Venous Sinus Thrombosis by Dr Saad Hasan",
+        "url": "https://www.youtube.com/watch?v=IuXhmyU77Uc",
+        "provider": "University of Louisville Department of Neurology",
+        "durationSeconds": 3525,
+        "sourceUrl": "https://www.youtube.com/watch?v=IuXhmyU77Uc",
         "accessVerified": true
       }
     ],
@@ -1105,7 +1125,9 @@
         "number": 8,
         "text": "Stroke and seizure mimics: pregnancy-associated syndromes",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-X015-ADD-010"
+        ]
       },
       {
         "number": 9,
@@ -1163,11 +1185,11 @@
     ],
     "boardStatus": "The MGB women’s neurology fellowship is an institutional clinical fellowship in an emerging focus area. ABPN’s current public examination pages list Neurology primary certification and recognized subspecialty examinations, but do not list a separate Women’s Neurology examination. The appropriate board framework here is broad ABPN Neurology content, not a separate women’s neurology blueprint. Fellowship completion does not itself grant ABPN certification.",
     "boardEligibilityNotice": "The MGB public programme page says applicants should have completed an ACGME-accredited neurology residency and be board eligible or certified in neurology. ABPN independently determines certification examination eligibility under its training, licensure and other requirements. This independent course confers no board eligibility. Verify the current ABPN requirements directly.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 11.639444444444445,
-    "verifiedSpecialtyHours": 11.639444444444445,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 24.360555555555557,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 12.618611111111111,
+    "verifiedSpecialtyHours": 12.618611111111111,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 23.38138888888889,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1207,7 +1229,7 @@
         "title": "Nov. 28, 2018 Palliative Care Grand Rounds",
         "url": "https://www.youtube.com/watch?v=0iRdm0XbCmY",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 3793.0,
+        "durationSeconds": 3793,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1216,7 +1238,7 @@
         "title": "Dec. 19, 2018 Palliative Care Grand Rounds",
         "url": "https://www.youtube.com/watch?v=9pTxXWIVcE4",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 2939.0,
+        "durationSeconds": 2939,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1225,7 +1247,7 @@
         "title": "Jan. 9, 2019 Palliative Care Grand Rounds",
         "url": "https://www.youtube.com/watch?v=tSom2-18Jdo",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 3578.0,
+        "durationSeconds": 3578,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1234,7 +1256,7 @@
         "title": "Jan. 16, 2019 Palliative Care Grand Rounds",
         "url": "https://www.youtube.com/watch?v=uX7ZH2I5PUo",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 3192.0,
+        "durationSeconds": 3192,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1243,7 +1265,7 @@
         "title": "Jan. 23, 2019 Palliative Care Grand Rounds",
         "url": "https://www.youtube.com/watch?v=R8_Vm1TE2Ng",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 3440.0,
+        "durationSeconds": 3440,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1252,7 +1274,7 @@
         "title": "Jan. 20, 2019 Palliative Care Grand Rounds",
         "url": "https://www.youtube.com/watch?v=9nJ7lfZiMqM",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 3523.0,
+        "durationSeconds": 3523,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1261,7 +1283,7 @@
         "title": "Promoting Resilience During Serious Illness: What I’ve Learned from Caring for Children with Cancer",
         "url": "https://www.youtube.com/watch?v=Fvf5sWkX5W0",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 3045.0,
+        "durationSeconds": 3045,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1270,7 +1292,7 @@
         "title": "Palliative Care in Chaos: The Past and Future of Palliative Care in the Emergency Department",
         "url": "https://www.youtube.com/watch?v=PKLJhY1bGS0",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 2655.0,
+        "durationSeconds": 2655,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1279,7 +1301,7 @@
         "title": "The Beloved Patient: Learning “How Far I’ll Go” and when to “Let It Go.”",
         "url": "https://www.youtube.com/watch?v=KGH5bAUv6xU",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 2412.0,
+        "durationSeconds": 2412,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1288,7 +1310,7 @@
         "title": "Can we truly be Zipless? Lessons from the Science and Practice of Empathy",
         "url": "https://www.youtube.com/watch?v=2d_Yo5wcK6c",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 3614.0,
+        "durationSeconds": 3614,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1297,7 +1319,7 @@
         "title": "Narrative Medicine, Ethics, + Therapy to reframe the narrative of the bereaved",
         "url": "https://www.youtube.com/watch?v=6Zqd0_2E5aw",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 3360.0,
+        "durationSeconds": 3360,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1306,7 +1328,7 @@
         "title": "When “Terminal Extubation” isn’t Terminal: Lessons from an Acute change in Goals of Care",
         "url": "https://www.youtube.com/watch?v=moAPUNpsYuo",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 3136.0,
+        "durationSeconds": 3136,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1315,7 +1337,7 @@
         "title": "Palliative Care & Symptom Control in Responses to Humanitarian Crises",
         "url": "https://www.youtube.com/watch?v=SIlWSURCQaI",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 3738.0,
+        "durationSeconds": 3738,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1324,7 +1346,7 @@
         "title": "“¿Qué es el cuidado paliativo?”: Explaining palliative care to Latino Patients with advanced illness",
         "url": "https://www.youtube.com/watch?v=jk-lqkOKiMk",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 2986.0,
+        "durationSeconds": 2986,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1333,7 +1355,7 @@
         "title": "Palliative Care: Let’s talk about sex: intimacy, barriers, + ethical considerations",
         "url": "https://www.youtube.com/watch?v=0GRbnFiLaTQ",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 3097.0,
+        "durationSeconds": 3097,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1342,7 +1364,7 @@
         "title": "Navigating the Challenges of Reproductive Planning with Terminally-Ill Patients",
         "url": "https://www.youtube.com/watch?v=u5dk_uj8GzE",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 3213.0,
+        "durationSeconds": 3213,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1351,7 +1373,7 @@
         "title": "The Wish for a dignified death: Re-examining physician aid in dying through the patient narrative",
         "url": "https://www.youtube.com/watch?v=t1pL4E0dRNY",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 2998.0,
+        "durationSeconds": 2998,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1360,7 +1382,7 @@
         "title": "I Can’t See From Here: Exploring the intersection of nursing theory and palliative medicine",
         "url": "https://www.youtube.com/watch?v=GH8c6FfwBRQ",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 2497.0,
+        "durationSeconds": 2497,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1369,7 +1391,7 @@
         "title": "Caring for Caregivers: Using our Communication Skills to Ease the Burden",
         "url": "https://www.youtube.com/watch?v=evMciefA3CQ",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 2326.0,
+        "durationSeconds": 2326,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1378,7 +1400,7 @@
         "title": "Palliative Dialysis: Shifting the Palliative Care Paradigm for End Stage Renal Disease",
         "url": "https://www.youtube.com/watch?v=Gu6n8SUoaA8",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 2846.0,
+        "durationSeconds": 2846,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1387,7 +1409,7 @@
         "title": "Bringing Awareness to the Racial and Ethnic Disparities in Palliative Care",
         "url": "https://www.youtube.com/watch?v=hk0x-yiR-no",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 3354.0,
+        "durationSeconds": 3354,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1396,7 +1418,7 @@
         "title": "The Changing Landscape in HIV and Palliative Care",
         "url": "https://www.youtube.com/watch?v=ntVhlG87y3Q",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 3204.0,
+        "durationSeconds": 3204,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1405,7 +1427,7 @@
         "title": "Never worry (or work) alone: How nurses can improve palliative care",
         "url": "https://www.youtube.com/watch?v=ODynFBo1zKk",
         "provider": "MassGeneralHospital (official YouTube channel; playlist lists Palliative Care Grand Rounds)",
-        "durationSeconds": 2820.0,
+        "durationSeconds": 2820,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -1414,7 +1436,7 @@
         "title": "Palliative Grand Rounds UW Progressive Responsibility Map",
         "url": "https://www.youtube.com/watch?v=EQB2DaVcoQs",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 2809.0,
+        "durationSeconds": 2809,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1423,7 +1445,7 @@
         "title": "Palliative care with people experiencing homelessness | Michael Light 2026 | UW Palliative Care",
         "url": "https://www.youtube.com/watch?v=gcYJrxDmypw",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3581.0,
+        "durationSeconds": 3581,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1432,7 +1454,7 @@
         "title": "Trauma informed care at the end of life | Dr. David Gruenewald 2026 | UW Palliative Care",
         "url": "https://www.youtube.com/watch?v=y3OqIMAbhIY",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3210.0,
+        "durationSeconds": 3210,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1441,7 +1463,7 @@
         "title": "“Perspectives & Rituals Around Death”, 12/5/23",
         "url": "https://www.youtube.com/watch?v=9cItD8Z6x5c",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3406.0,
+        "durationSeconds": 3406,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1450,7 +1472,7 @@
         "title": "“Family Caregiving: From Home Hospice to a University Collaborative”, 11/28/23",
         "url": "https://www.youtube.com/watch?v=BGopGvhV0ww",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3563.0,
+        "durationSeconds": 3563,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1459,7 +1481,7 @@
         "title": "“Designing Outpatient Palliative Care Collaborations”, 9/26/23",
         "url": "https://www.youtube.com/watch?v=GGwqKMWQWzo",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3462.0,
+        "durationSeconds": 3462,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1468,7 +1490,7 @@
         "title": "Rev. Dr. Lorraine E. Leist, DMin, MDiv, BCC-PCHAC. Palliative Medicine Grand Rounds. 11/8/2023",
         "url": "https://www.youtube.com/watch?v=g-rVKAkSIrE",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3576.0,
+        "durationSeconds": 3576,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1477,7 +1499,7 @@
         "title": "“Suffering: Meaning, Models, and Medicine”",
         "url": "https://www.youtube.com/watch?v=mH1hjf7ekeg",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3667.0,
+        "durationSeconds": 3667,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1486,7 +1508,7 @@
         "title": "Palliative Medicine Grand Rounds - Amy Trowbridge, MD",
         "url": "https://www.youtube.com/watch?v=tigJ9hIn6lQ",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3487.0,
+        "durationSeconds": 3487,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1495,7 +1517,7 @@
         "title": "Palliative Medicine Grand Rounds - Hannah Deming, MD",
         "url": "https://www.youtube.com/watch?v=kLZNblSdf8o",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3618.0,
+        "durationSeconds": 3618,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1504,7 +1526,7 @@
         "title": "Palliative Grand Rounds - “Palliative Considerations in Chronic Lung Disease”",
         "url": "https://www.youtube.com/watch?v=dQI18GqkDKE",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3587.0,
+        "durationSeconds": 3587,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1513,7 +1535,7 @@
         "title": "Palliative Medicine Grand Rounds - “Clinical Application of Ketamine in Palliative Care”",
         "url": "https://www.youtube.com/watch?v=sILprM07Fcc",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3564.0,
+        "durationSeconds": 3564,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1522,7 +1544,7 @@
         "title": "Palliative Medicine Grand Rounds - Disenfranchised Grief in Healthcare, 10/18/22",
         "url": "https://www.youtube.com/watch?v=pWAjMkB1HZM",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3750.0,
+        "durationSeconds": 3750,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1531,7 +1553,7 @@
         "title": "“Caring For Communities: Tools for Cross Cultural Palliative Care”",
         "url": "https://www.youtube.com/watch?v=pVhR5ezoNEY",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3613.0,
+        "durationSeconds": 3613,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1540,7 +1562,7 @@
         "title": "Palliative Medicine Grand Rounds - “Emergency Palliative Medicine”",
         "url": "https://www.youtube.com/watch?v=0MP9gntDNKk",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3727.0,
+        "durationSeconds": 3727,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1549,7 +1571,7 @@
         "title": "Palliative Medicine Grand Rounds - Dr. Sofie Lanzkron MD, MHS 5/10/22",
         "url": "https://www.youtube.com/watch?v=ZcLD37_mTe8",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3451.0,
+        "durationSeconds": 3451,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1558,7 +1580,7 @@
         "title": "Palliative Medicine Grand Rounds, 4/19/22 - Presented by Dr. Stephanie Raghubeer",
         "url": "https://www.youtube.com/watch?v=Q7KdO2d120g",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3297.0,
+        "durationSeconds": 3297,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1567,7 +1589,7 @@
         "title": "Palliative Grand Rounds - Presented by Dr. Margaret Eugenio",
         "url": "https://www.youtube.com/watch?v=9lAcwTlZ4qk",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3145.0,
+        "durationSeconds": 3145,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1576,7 +1598,7 @@
         "title": "Palliative Medicine Grand Rounds - Presented by Dr. Carolyn Aldana, 03/01/22",
         "url": "https://www.youtube.com/watch?v=I-Z8KoZTooY",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3606.0,
+        "durationSeconds": 3606,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1585,7 +1607,7 @@
         "title": "Palliative Medicine Grand Rounds - Presented by Dr. Shobha Stack PhD, MD, 2/1/22",
         "url": "https://www.youtube.com/watch?v=TPH_7IHguF8",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 4000.0,
+        "durationSeconds": 4000,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1594,7 +1616,7 @@
         "title": "“Ethical Complexities in Patients with Diminished Decisional Capacity”",
         "url": "https://www.youtube.com/watch?v=YyGiqIp1dig",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3739.0,
+        "durationSeconds": 3739,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1603,7 +1625,7 @@
         "title": "“Curse? Discussion of actual experiences with advanced care planning during COVID-19”",
         "url": "https://www.youtube.com/watch?v=oYvHB8s8_6M",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3638.0,
+        "durationSeconds": 3638,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1612,7 +1634,7 @@
         "title": "Palliative Medicine Grand Rounds - Presented by Dr. Caroline Hurd, 10/19/21",
         "url": "https://www.youtube.com/watch?v=wy2hF84C3RA",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3535.0,
+        "durationSeconds": 3535,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1621,7 +1643,7 @@
         "title": "Palliative Medicine Presents - Interfaith Spiritual Care Panel 10/05/21",
         "url": "https://www.youtube.com/watch?v=wR_D2_U6jcY",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3571.0,
+        "durationSeconds": 3571,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1630,7 +1652,7 @@
         "title": "Cambia Research Grand Rounds - Dr. Rashmi Sharma 9/28/21",
         "url": "https://www.youtube.com/watch?v=V9idPTEF9UI",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3577.0,
+        "durationSeconds": 3577,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1639,7 +1661,7 @@
         "title": "Palliative Medicine Grand Rounds - Covid Town Hall",
         "url": "https://www.youtube.com/watch?v=wDs-T2_yOZ8",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3691.0,
+        "durationSeconds": 3691,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1648,7 +1670,7 @@
         "title": "Geriatric & Palliative Medicine Grand Rounds, Dr. Helen Fernandez, Mt Sinai Medical, August 20, 2021",
         "url": "https://www.youtube.com/watch?v=zVelXcwUMVw",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3357.0,
+        "durationSeconds": 3357,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1657,7 +1679,7 @@
         "title": "Palliative Medicine Grand Rounds - Dr. Lindsay Vendetta: 06/01/21",
         "url": "https://www.youtube.com/watch?v=vnva0qv8O5o",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3440.0,
+        "durationSeconds": 3440,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1666,7 +1688,7 @@
         "title": "Geriatric & Palliative Grand Rounds, Kathleen O’Connell, MD, MPH, May 7, 2021",
         "url": "https://www.youtube.com/watch?v=P_F1Su8OqX0",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3829.0,
+        "durationSeconds": 3829,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1675,7 +1697,7 @@
         "title": "Geriatric-Palliative Grand Rounds - 2/5/2021 Presented by Eugenia Zukerman",
         "url": "https://www.youtube.com/watch?v=dCchxfrAwUk",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3663.0,
+        "durationSeconds": 3663,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       },
@@ -1684,7 +1706,7 @@
         "title": "Palliative Medicine Grand Rounds 4/6/2021 - Dr. Sunil Aggarwal, MD, PhD, FAAPMR",
         "url": "https://www.youtube.com/watch?v=P_eU4YB6TDk",
         "provider": "_ Gerontology Geriatric Med (YouTube channel; playlist labelled Palliative Medicine Grand Rounds; institutional ownership not independently established)",
-        "durationSeconds": 3308.0,
+        "durationSeconds": 3308,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL_mZW-E6oW2ADVKxZmb4xAWHc3J3-d1An",
         "accessVerified": true
       }
@@ -1889,11 +1911,11 @@
     ],
     "boardStatus": "A real Hospice and Palliative Medicine subspecialty certification exam exists. The ABIM page describes the shared/cosponsored HPM certification program and states ABIM administers the exam; other board diplomates follow their own board eligibility rules. No separate current “American Board of Hospice and Palliative Medicine” exam is established by the current ABIM source. The institutional page is the programme directory, not certification authority.",
     "boardEligibilityNotice": "Current ABIM policy states the training pathway requires 12 months of full-time clinical hospice and palliative medicine fellowship training accredited by ACGME, RCPSC or Collège des médecins du Québec, plus primary-board certification and other requirements including clinical competence, unrestricted license and passing the examination. This independent course cannot confer or substitute for any requirement. Check the chosen certifying board for current rules.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 50.3425,
     "verifiedSpecialtyHours": 50.3425,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 0.0,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1933,7 +1955,7 @@
         "title": "Medicine Grand Rounds: Acute Pancreatitis 3/5/19",
         "url": "https://www.youtube.com/watch?v=AJ1GK_tcEBk",
         "provider": "Emory Department of Medicine",
-        "durationSeconds": 3273.0,
+        "durationSeconds": 3273,
         "sourceUrl": "https://www.youtube.com/watch?v=AJ1GK_tcEBk",
         "accessVerified": true
       },
@@ -1942,7 +1964,7 @@
         "title": "Acute Pancreatitis Dilemmas of an Internist, Aaysha Kapila, M.D.",
         "url": "https://www.youtube.com/watch?v=20gPSkL19o8",
         "provider": "ETSU CME Grand Rounds",
-        "durationSeconds": 2723.0,
+        "durationSeconds": 2723,
         "sourceUrl": "https://www.youtube.com/watch?v=20gPSkL19o8",
         "accessVerified": true
       },
@@ -1951,7 +1973,7 @@
         "title": "Management of Acute Pancreatitis - Stephen Kim, MD | UCLA Digestive Diseases",
         "url": "https://www.youtube.com/watch?v=5183idOtsfA",
         "provider": "UCLA Health",
-        "durationSeconds": 1378.0,
+        "durationSeconds": 1378,
         "sourceUrl": "https://www.youtube.com/watch?v=5183idOtsfA",
         "accessVerified": true
       },
@@ -1960,7 +1982,7 @@
         "title": "Midas GI grand rounds: Chronic pancreatitis, Dr. Suresh T. Chari",
         "url": "https://www.youtube.com/watch?v=86lfOhSCPdM",
         "provider": "Midas Gastro",
-        "durationSeconds": 8463.0,
+        "durationSeconds": 8463,
         "sourceUrl": "https://www.youtube.com/watch?v=86lfOhSCPdM",
         "accessVerified": true
       },
@@ -1969,7 +1991,7 @@
         "title": "CAPER Pancreas Academy Webinar Series - Late Complications of Chronic Pancreatitis",
         "url": "https://www.youtube.com/watch?v=bLsde28gXk4",
         "provider": "CAPER Pancreas Research",
-        "durationSeconds": 3684.0,
+        "durationSeconds": 3684,
         "sourceUrl": "https://www.youtube.com/watch?v=bLsde28gXk4",
         "accessVerified": true
       },
@@ -1978,7 +2000,7 @@
         "title": "Genetics & Pancreatitis: Facts and Fiction",
         "url": "https://www.youtube.com/watch?v=kqUmcMR9b5o",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 4155.0,
+        "durationSeconds": 4155,
         "sourceUrl": "https://www.youtube.com/watch?v=kqUmcMR9b5o",
         "accessVerified": true
       },
@@ -1987,7 +2009,7 @@
         "title": "Exocrine Pancreatic Insufficiency Demystified CAGA-ANACP lecture series",
         "url": "https://www.youtube.com/watch?v=_ejJ9fQWXAs",
         "provider": "Chinese American Gastroenterology Association",
-        "durationSeconds": 5517.0,
+        "durationSeconds": 5517,
         "sourceUrl": "https://www.youtube.com/watch?v=_ejJ9fQWXAs",
         "accessVerified": true
       },
@@ -1996,7 +2018,7 @@
         "title": "Pancreatic Cysts: Diagnosing and Treatment in 2023",
         "url": "https://www.youtube.com/watch?v=6XqCzyulIHg",
         "provider": "Hirshberg Foundation",
-        "durationSeconds": 2253.0,
+        "durationSeconds": 2253,
         "sourceUrl": "https://www.youtube.com/watch?v=6XqCzyulIHg",
         "accessVerified": true
       },
@@ -2005,7 +2027,7 @@
         "title": "Pancreatic Cancer Symptoms and Risk Factors Webinar",
         "url": "https://www.youtube.com/watch?v=nYH82Li6THw",
         "provider": "Let's Win Pancreatic Cancer",
-        "durationSeconds": 4149.0,
+        "durationSeconds": 4149,
         "sourceUrl": "https://www.youtube.com/watch?v=nYH82Li6THw",
         "accessVerified": true
       },
@@ -2014,7 +2036,7 @@
         "title": "ISG MASTERCLASS (V) 2024: Approach to Autoimmune Pancreatitis",
         "url": "https://www.youtube.com/watch?v=UOJHOcadkqM",
         "provider": "Gastro videos for residents",
-        "durationSeconds": 5950.0,
+        "durationSeconds": 5950,
         "sourceUrl": "https://www.youtube.com/watch?v=UOJHOcadkqM",
         "accessVerified": true
       },
@@ -2023,7 +2045,7 @@
         "title": "Management of Locally Advanced Pancreatic Cancer",
         "url": "https://www.youtube.com/watch?v=jvlUTP5vp-U",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 3311.0,
+        "durationSeconds": 3311,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2032,7 +2054,7 @@
         "title": "What's Cutting Edge in Pancreatic Cancer in 2022",
         "url": "https://www.youtube.com/watch?v=8T4dDxoCMYw",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 4544.0,
+        "durationSeconds": 4544,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2041,7 +2063,7 @@
         "title": "Nutritional Considerations in Pancreatitis and Pancreatic Cancer",
         "url": "https://www.youtube.com/watch?v=djMTEpXuakI",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 4414.0,
+        "durationSeconds": 4414,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2050,7 +2072,7 @@
         "title": "Multi-Disciplinary Management of Complications Associated with Acute Pancreatitis",
         "url": "https://www.youtube.com/watch?v=Iu9L7VadPK4",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 3812.0,
+        "durationSeconds": 3812,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2059,7 +2081,7 @@
         "title": "NPF Webinar: Biomarkers and Liquid Biopsy for Early Detection of Pancreatic Cancer in 2023",
         "url": "https://www.youtube.com/watch?v=lZ1pfGXIK2o",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 4963.0,
+        "durationSeconds": 4963,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2068,7 +2090,7 @@
         "title": "EPI in Chronic Pancreatitis: Definition, Diagnosis, Treatment, and Monitoring",
         "url": "https://www.youtube.com/watch?v=DKcjhyJ7XTA",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 4720.0,
+        "durationSeconds": 4720,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2077,7 +2099,7 @@
         "title": "Type 3C Diabetes: Therapies for Diabetes Related to Pancreatitis",
         "url": "https://www.youtube.com/watch?v=x9UKh2zVCRU",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 5708.0,
+        "durationSeconds": 5708,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2086,7 +2108,7 @@
         "title": "Improving Your Daily Life Adult Pancreatitis- Medical and Behavioral Challenges and Treatment",
         "url": "https://www.youtube.com/watch?v=SezFdaGurx4",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 4608.0,
+        "durationSeconds": 4608,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2095,7 +2117,7 @@
         "title": "Medical Professionals Webinar: Management of Pancreatic Cysts",
         "url": "https://www.youtube.com/watch?v=Zg3vXfR7ejI",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 2202.0,
+        "durationSeconds": 2202,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2104,7 +2126,7 @@
         "title": "Medical Professionals Webinar: Diagnostic Evaluation of Pancreatic Cysts",
         "url": "https://www.youtube.com/watch?v=7PGQeG7btwo",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 2206.0,
+        "durationSeconds": 2206,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2113,7 +2135,7 @@
         "title": "Medical Professionals Webinar: Classification and Presentation of Pancreatic Cysts",
         "url": "https://www.youtube.com/watch?v=uDl8bV3srS4",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 1610.0,
+        "durationSeconds": 1610,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2122,7 +2144,7 @@
         "title": "Medical Professionals Webinar: Improving Representation of Minorities in Pancreatic Disease Studies",
         "url": "https://www.youtube.com/watch?v=KWjwbcrAiE4",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 4672.0,
+        "durationSeconds": 4672,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2131,7 +2153,7 @@
         "title": "NPF Webinar: How To Improve Communication with Healthcare Providers",
         "url": "https://www.youtube.com/watch?v=V4f-w0E8B5A",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 4951.0,
+        "durationSeconds": 4951,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2140,7 +2162,7 @@
         "title": "Pancreatic Cancer: What We All Need to Know",
         "url": "https://www.youtube.com/watch?v=iKuPOQ8wV7w",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 4142.0,
+        "durationSeconds": 4142,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2149,7 +2171,7 @@
         "title": "Navigating Exocrine and Endocrine Challenges Post-Acute Pancreatitis",
         "url": "https://www.youtube.com/watch?v=a2fm92HC_ok",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 2102.0,
+        "durationSeconds": 2102,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2158,7 +2180,7 @@
         "title": "Taking Charge of Pancreatic Health: Risks, Screening, and Nutrition Management",
         "url": "https://www.youtube.com/watch?v=-U03iw-Ttw8",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 4097.0,
+        "durationSeconds": 4097,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2167,7 +2189,7 @@
         "title": "iNav & Pancreas Cancer: Transforming Screening and Treatment Planning",
         "url": "https://www.youtube.com/watch?v=dWF-1q5_Re8",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 3263.0,
+        "durationSeconds": 3263,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2176,7 +2198,7 @@
         "title": "Pancreatic Cancer and EPI: A Dual Challenge in Diagnosis and Care",
         "url": "https://www.youtube.com/watch?v=ObmBGOwLUUA",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 3123.0,
+        "durationSeconds": 3123,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2185,7 +2207,7 @@
         "title": "Navigating the Challenges: Understanding Complications in Chronic Pancreatitis",
         "url": "https://www.youtube.com/watch?v=t43w7HyJAIo",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 2698.0,
+        "durationSeconds": 2698,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2194,7 +2216,7 @@
         "title": "Surgical Care and Outcomes for Patients with Pancreatic Cancer",
         "url": "https://www.youtube.com/watch?v=11eTU8vXJlc",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 1536.0,
+        "durationSeconds": 1536,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2203,7 +2225,7 @@
         "title": "From Risk Assessment to Genetic Testing to Action",
         "url": "https://www.youtube.com/watch?v=el0D69JSFXo",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 2156.0,
+        "durationSeconds": 2156,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2212,7 +2234,7 @@
         "title": "Surgery for Chronic and Recurrent Pancreatitis",
         "url": "https://www.youtube.com/watch?v=hGOm-uBCcew",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 1462.0,
+        "durationSeconds": 1462,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2221,7 +2243,7 @@
         "title": "Pancreas Cancer 2025 - Borderline High Risk Resectable",
         "url": "https://www.youtube.com/watch?v=-JoAdbP4yzA",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 1761.0,
+        "durationSeconds": 1761,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2230,7 +2252,7 @@
         "title": "Advancements in Minimally Invasive Pancreatic Surgery: Are They Worth the Hype?",
         "url": "https://www.youtube.com/watch?v=NvnyUlcaZMw",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 2855.0,
+        "durationSeconds": 2855,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2239,7 +2261,7 @@
         "title": "EUS Guided Ablation for Pancreatic Tumors",
         "url": "https://www.youtube.com/watch?v=BAyXHTsMIsM",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 1868.0,
+        "durationSeconds": 1868,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2248,7 +2270,7 @@
         "title": "Advances in Research: Hope for the Future of Pancreatic Cancer Treatment",
         "url": "https://www.youtube.com/watch?v=Xg5UrWOCWBY",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 5253.0,
+        "durationSeconds": 5253,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2257,7 +2279,7 @@
         "title": "Decoding Pancreatic Cancer: The Role of Testing and Genetics",
         "url": "https://www.youtube.com/watch?v=ssNukj62i_c",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 4128.0,
+        "durationSeconds": 4128,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2266,7 +2288,7 @@
         "title": "Understanding Clinical Trials: What Patients Need to Know",
         "url": "https://www.youtube.com/watch?v=UEXhg8J1fZg",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 3447.0,
+        "durationSeconds": 3447,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       },
@@ -2275,7 +2297,7 @@
         "title": "August NPF Virtual Education: Pancreatic Cancer; Updates for Patients and Physicians",
         "url": "https://www.youtube.com/watch?v=yLrdqhe0cjA",
         "provider": "National Pancreas Foundation",
-        "durationSeconds": 5543.0,
+        "durationSeconds": 5543,
         "sourceUrl": "https://pancreasfoundation.org/patient-resources/education-events/",
         "accessVerified": true
       }
@@ -2457,11 +2479,11 @@
     ],
     "boardStatus": "Pancreatology is a focused clinical fellowship/training area, not a separately listed ABIM subspecialty board. ABIM gastroenterology certification is the adjacent general GI exam; the 2026 ABIM GI blueprint assigns 9.5% to pancreas and biliary disorders (acute pancreatitis, chronic pancreatitis, pancreatic insufficiency and physiology/anatomy) and 10% to neoplastic disorders (including pancreatic neoplasms). This is not a pancreatology exam or eligibility confirmation.",
     "boardEligibilityNotice": "Eligibility for ABIM gastroenterology certification is determined only by ABIM. A fellowship listing, course, or completion of this independent curriculum does not confer eligibility. Johns Hopkins states its own program requires completed internal medicine residency and GI fellowship (or equivalent), Maryland license, and ECFMG certification where applicable; those are that program’s published applicant criteria, not a general standard. No separate pancreatology board exam is listed.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 39.638888888888886,
     "verifiedSpecialtyHours": 36.00833333333333,
     "verifiedFoundationHours": 3.6305555555555555,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2492,8 +2514,8 @@
       "status": "planning estimate, not observed video hours",
       "plan": "Suggested 12-week independent plan at 8 hours/week = 96 study hours: 2 hours lectures, 3 readings, 2 case exercises, 1 assessment/reflection per week. This is learner work time, not clinical training or lecture runtime."
     },
-    "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X018_9e829f67.pdf",
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
+    "syllabusUrl": "/manus-storage/MED-X018_52ba57d8.pdf",
     "pdfIds": [
       "med-syllabus-MED-X018",
       "med-reading-5616db1587db",
@@ -2559,7 +2581,7 @@
         "title": "MRI Uses in MS",
         "url": "https://www.youtube.com/watch?v=xWFQ0eAGv24",
         "provider": "Cleveland Clinic Foundation Center for Continuing Education / Cleveland Clinic Mellen Center",
-        "durationSeconds": 1923.0,
+        "durationSeconds": 1923,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8rxYFoLbzZAnxjrax7U82u",
         "accessVerified": true
       },
@@ -2568,7 +2590,7 @@
         "title": "Pediatric Multiple Sclerosis",
         "url": "https://www.youtube.com/watch?v=dTQ4aaq6TV0",
         "provider": "Cleveland Clinic Foundation Center for Continuing Education / Cleveland Clinic Mellen Center",
-        "durationSeconds": 2384.0,
+        "durationSeconds": 2384,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8rxYFoLbzZAnxjrax7U82u",
         "accessVerified": true
       },
@@ -2577,7 +2599,7 @@
         "title": "Visual Involvement in MS: Optic Neuritis and Optical Coherence Tomography",
         "url": "https://www.youtube.com/watch?v=9-8nrK73bvM",
         "provider": "Cleveland Clinic Foundation Center for Continuing Education / Cleveland Clinic Mellen Center",
-        "durationSeconds": 2302.0,
+        "durationSeconds": 2302,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8rxYFoLbzZAnxjrax7U82u",
         "accessVerified": true
       },
@@ -2586,7 +2608,7 @@
         "title": "Risk Mitigation in Multiple Sclerosis Therapies",
         "url": "https://www.youtube.com/watch?v=nwJzYQjOK9c",
         "provider": "Cleveland Clinic Foundation Center for Continuing Education / Cleveland Clinic Mellen Center",
-        "durationSeconds": 2040.0,
+        "durationSeconds": 2040,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8rxYFoLbzZAnxjrax7U82u",
         "accessVerified": true
       },
@@ -2595,7 +2617,7 @@
         "title": "Treating to Target in MS: Disease Free Status?",
         "url": "https://www.youtube.com/watch?v=AYXLgzc6qNQ",
         "provider": "Cleveland Clinic Foundation Center for Continuing Education / Cleveland Clinic Mellen Center",
-        "durationSeconds": 1959.0,
+        "durationSeconds": 1959,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8rxYFoLbzZAnxjrax7U82u",
         "accessVerified": true
       },
@@ -2604,7 +2626,7 @@
         "title": "Focus on Newest Treatment Options for Multiple Sclerosis",
         "url": "https://www.youtube.com/watch?v=xRrEvRYVcCE",
         "provider": "Cleveland Clinic Foundation Center for Continuing Education / Cleveland Clinic Mellen Center",
-        "durationSeconds": 1923.0,
+        "durationSeconds": 1923,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8rxYFoLbzZAnxjrax7U82u",
         "accessVerified": true
       },
@@ -2613,7 +2635,7 @@
         "title": "Review of Neuromyelitis Optica",
         "url": "https://www.youtube.com/watch?v=uASOvPL84Io",
         "provider": "Cleveland Clinic Foundation Center for Continuing Education / Cleveland Clinic Mellen Center",
-        "durationSeconds": 2547.0,
+        "durationSeconds": 2547,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8rxYFoLbzZAnxjrax7U82u",
         "accessVerified": true
       },
@@ -2622,7 +2644,7 @@
         "title": "Considerations in the Initial Treatment Strategy for Multiple Sclerosis",
         "url": "https://www.youtube.com/watch?v=3dYG_T2Ppuo",
         "provider": "Cleveland Clinic Foundation Center for Continuing Education / Cleveland Clinic Mellen Center",
-        "durationSeconds": 2003.0,
+        "durationSeconds": 2003,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8rxYFoLbzZAnxjrax7U82u",
         "accessVerified": true
       },
@@ -2631,7 +2653,7 @@
         "title": "Managing PML in the Multiple Sclerosis Patient",
         "url": "https://www.youtube.com/watch?v=6fdfEYuwW18",
         "provider": "Cleveland Clinic Foundation Center for Continuing Education / Cleveland Clinic Mellen Center",
-        "durationSeconds": 1808.0,
+        "durationSeconds": 1808,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8rxYFoLbzZAnxjrax7U82u",
         "accessVerified": true
       },
@@ -2640,7 +2662,7 @@
         "title": "New Research on Immunology of the Cerebrospinal Fluid Compartment and MS",
         "url": "https://www.youtube.com/watch?v=GrOsodEmNKE",
         "provider": "Cleveland Clinic Foundation Center for Continuing Education / Cleveland Clinic Mellen Center",
-        "durationSeconds": 3495.0,
+        "durationSeconds": 3495,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8rxYFoLbzZAnxjrax7U82u",
         "accessVerified": true
       },
@@ -2649,7 +2671,7 @@
         "title": "Case-Based Approach to the Treatment and Management of Multiple Sclerosis",
         "url": "https://www.youtube.com/watch?v=inbACfxhMB8",
         "provider": "Cleveland Clinic Foundation Center for Continuing Education / Cleveland Clinic Mellen Center",
-        "durationSeconds": 2636.0,
+        "durationSeconds": 2636,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8rxYFoLbzZAnxjrax7U82u",
         "accessVerified": true
       },
@@ -2658,7 +2680,7 @@
         "title": "Pathogenesis of Neurological Disability in Multiple Sclerosis",
         "url": "https://www.youtube.com/watch?v=tfP6d5wSG0Q",
         "provider": "Cleveland Clinic Foundation Center for Continuing Education / Cleveland Clinic Mellen Center",
-        "durationSeconds": 2095.0,
+        "durationSeconds": 2095,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLof7ML6NZ8R8rxYFoLbzZAnxjrax7U82u",
         "accessVerified": true
       },
@@ -2667,7 +2689,7 @@
         "title": "Diagnosis & Differential Diagnosis of NMOSD",
         "url": "https://www.youtube.com/watch?v=sgt2l4HhnKY",
         "provider": "Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 4857.0,
+        "durationSeconds": 4857,
         "sourceUrl": "https://guthyjacksonfoundation.org/events/grand-rounds-diagnosis-of-nmo-mogad/",
         "accessVerified": true
       },
@@ -2676,7 +2698,7 @@
         "title": "Emerging Principles & Practices for Imaging in NMOSD",
         "url": "https://www.youtube.com/watch?v=DyWF6WvlxZk",
         "provider": "Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3226.0,
+        "durationSeconds": 3226,
         "sourceUrl": "https://guthyjacksonfoundation.org/events/grand-rounds-principles-practices-for-imaging/",
         "accessVerified": true
       },
@@ -2685,7 +2707,7 @@
         "title": "Therapeutic Decision-Making: Mechanisms & Rationale",
         "url": "https://www.youtube.com/watch?v=7DNwKr7zoVY",
         "provider": "Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3916.0,
+        "durationSeconds": 3916,
         "sourceUrl": "https://guthyjacksonfoundation.org/events/grand-rounds-therapeutic-decision-making/",
         "accessVerified": true
       },
@@ -2694,7 +2716,7 @@
         "title": "Pathogenesis & Immunologic Targets in NMOSD",
         "url": "https://www.youtube.com/watch?v=SWVBBFXq3Kw",
         "provider": "Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3904.0,
+        "durationSeconds": 3904,
         "sourceUrl": "https://guthyjacksonfoundation.org/events/grand-rounds-immunologic-mechanisms-biomarkers/",
         "accessVerified": true
       },
@@ -2703,7 +2725,7 @@
         "title": "Toward Harmonized Relapse & Severity Adjudication in NMOSD",
         "url": "https://www.youtube.com/watch?v=Q0Z6VjPk1jA",
         "provider": "Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3179.0,
+        "durationSeconds": 3179,
         "sourceUrl": "https://guthyjacksonfoundation.org/events/grand-rounds-relapse-severity-adjudication/",
         "accessVerified": true
       },
@@ -2712,7 +2734,7 @@
         "title": "Managing Day-to-Day Non-Relapse Symptoms in NMOSD",
         "url": "https://www.youtube.com/watch?v=gduQ0pS45wQ",
         "provider": "Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3344.0,
+        "durationSeconds": 3344,
         "sourceUrl": "https://guthyjacksonfoundation.org/events/grand-rounds-managing-non-relapse-symptoms/",
         "accessVerified": true
       },
@@ -2721,7 +2743,7 @@
         "title": "Best Practice Care of Patients in Special Populations",
         "url": "https://www.youtube.com/watch?v=irMxRAZTkJ0",
         "provider": "Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3083.0,
+        "durationSeconds": 3083,
         "sourceUrl": "https://guthyjacksonfoundation.org/events/grand-rounds-care-of-patients-in-special-populations/",
         "accessVerified": true
       },
@@ -2730,7 +2752,7 @@
         "title": "Evaluating & Optimizing Patient Visual Health in NMOSD",
         "url": "https://www.youtube.com/watch?v=5D48wuWHnjc",
         "provider": "Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3679.0,
+        "durationSeconds": 3679,
         "sourceUrl": "https://guthyjacksonfoundation.org/events/grand-rounds-optimizing-patient-visual-health/",
         "accessVerified": true
       },
@@ -2739,7 +2761,7 @@
         "title": "Addressing Mental Health: Diagnosis & Interventions in NMOSD",
         "url": "https://www.youtube.com/watch?v=drdqNd1fHTg",
         "provider": "Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3578.0,
+        "durationSeconds": 3578,
         "sourceUrl": "https://guthyjacksonfoundation.org/events/grand-rounds-mental-health-diagnosis-interventions/",
         "accessVerified": true
       },
@@ -2748,7 +2770,7 @@
         "title": "Moving to Mobility: Physical Therapy & Rehabilitation in NMOSD",
         "url": "https://www.youtube.com/watch?v=V3I9k75tzNg",
         "provider": "Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 2829.0,
+        "durationSeconds": 2829,
         "sourceUrl": "https://guthyjacksonfoundation.org/events/grand-rounds-mobility-physical-therapy-rehabilitation/",
         "accessVerified": true
       },
@@ -2757,7 +2779,7 @@
         "title": "Emerging Tolerization Technologies & Clinical Trials",
         "url": "https://www.youtube.com/watch?v=ZEm5VxsyA-s",
         "provider": "Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3484.0,
+        "durationSeconds": 3484,
         "sourceUrl": "https://guthyjacksonfoundation.org/nmosd-education-center/",
         "accessVerified": true
       },
@@ -2766,7 +2788,7 @@
         "title": "Virtual Resident Lecture Series: Multiple Sclerosis",
         "url": "https://www.youtube.com/watch?v=OEjraCKQ910",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3475.0,
+        "durationSeconds": 3475,
         "sourceUrl": "https://www.youtube.com/watch?v=OEjraCKQ910",
         "accessVerified": true
       },
@@ -2775,7 +2797,7 @@
         "title": "EP 7: Updated in Pediatric Demyelinating Disease",
         "url": "https://www.youtube.com/watch?v=0295sS1P2fE",
         "provider": "Indiana University School of Medicine / Imaging Academic Outreach Center",
-        "durationSeconds": 7990.0,
+        "durationSeconds": 7990,
         "sourceUrl": "https://www.youtube.com/watch?v=0295sS1P2fE",
         "accessVerified": true
       },
@@ -2784,7 +2806,7 @@
         "title": "A Closer Look at MOGAD and Pediatric Multiple Sclerosis",
         "url": "https://www.youtube.com/watch?v=z7qSqOd-QxU",
         "provider": "Johns Hopkins Medicine",
-        "durationSeconds": 3530.0,
+        "durationSeconds": 3530,
         "sourceUrl": "https://www.youtube.com/watch?v=z7qSqOd-QxU",
         "accessVerified": true
       },
@@ -2793,7 +2815,7 @@
         "title": "GNI Grand Rounds: Multiple Sclerosis — Pathophysiology and Treatment",
         "url": "https://www.youtube.com/watch?v=ujEwmmifJX0",
         "provider": "Global Neurosciences Institute",
-        "durationSeconds": 3555.0,
+        "durationSeconds": 3555,
         "sourceUrl": "https://www.gnineuro.org/grand-rounds-2-18-22",
         "accessVerified": true
       },
@@ -2802,7 +2824,7 @@
         "title": "GNI Grand Rounds: Paraneoplastic Neurological Syndromes and Neural Autoantibody Testing",
         "url": "https://www.youtube.com/watch?v=LKpGi4VZW8I",
         "provider": "Global Neurosciences Institute",
-        "durationSeconds": 3753.0,
+        "durationSeconds": 3753,
         "sourceUrl": "https://www.youtube.com/watch?v=LKpGi4VZW8I",
         "accessVerified": true
       },
@@ -2811,7 +2833,7 @@
         "title": "MS 101 with Aaron Boster, MD — Live it, Learn It, Diffuse It",
         "url": "https://www.youtube.com/watch?v=R1XjAnrZpiE",
         "provider": "MS Views and News Learning Channel / clinician educator Aaron Boster, MD",
-        "durationSeconds": 5376.0,
+        "durationSeconds": 5376,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL3a4GpjWLtCg9HkVEYFw1wNr1Vn6Vf1AB",
         "accessVerified": true
       },
@@ -2820,7 +2842,7 @@
         "title": "Potholes in Brain and Spinal Cord, a Literal Description about Multiple Sclerosis",
         "url": "https://www.youtube.com/watch?v=RllAc1rPUsc",
         "provider": "MS Views and News Learning Channel / clinician educator Aaron Boster, MD",
-        "durationSeconds": 5496.0,
+        "durationSeconds": 5496,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL3a4GpjWLtCg9HkVEYFw1wNr1Vn6Vf1AB",
         "accessVerified": true
       },
@@ -2829,7 +2851,7 @@
         "title": "The Genetics of MS, presented by Aaron L. Boster, MD",
         "url": "https://www.youtube.com/watch?v=R5fjpcd03rQ",
         "provider": "MS Views and News Learning Channel / clinician educator Aaron Boster, MD",
-        "durationSeconds": 4724.0,
+        "durationSeconds": 4724,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL3a4GpjWLtCg9HkVEYFw1wNr1Vn6Vf1AB",
         "accessVerified": true
       },
@@ -2838,7 +2860,7 @@
         "title": "Understanding Disease Progression in MS",
         "url": "https://www.youtube.com/watch?v=teI4vmxtvQ8",
         "provider": "MS Views and News Learning Channel / clinician educator Aaron Boster, MD",
-        "durationSeconds": 5769.0,
+        "durationSeconds": 5769,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL3a4GpjWLtCg9HkVEYFw1wNr1Vn6Vf1AB",
         "accessVerified": true
       },
@@ -2847,7 +2869,7 @@
         "title": "Learn more about BTK Inhibitors, Smoldering MS and Biomarkers",
         "url": "https://www.youtube.com/watch?v=g9S2izdRc5M",
         "provider": "MS Views and News Learning Channel / clinician educator Aaron Boster, MD",
-        "durationSeconds": 4569.0,
+        "durationSeconds": 4569,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL3a4GpjWLtCg9HkVEYFw1wNr1Vn6Vf1AB",
         "accessVerified": true
       },
@@ -2856,7 +2878,7 @@
         "title": "The Invisible Symptoms of MS",
         "url": "https://www.youtube.com/watch?v=_dh189D5zK0",
         "provider": "MS Views and News Learning Channel / clinician educator Aaron Boster, MD",
-        "durationSeconds": 6495.0,
+        "durationSeconds": 6495,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL3a4GpjWLtCg9HkVEYFw1wNr1Vn6Vf1AB",
         "accessVerified": true
       },
@@ -2865,8 +2887,26 @@
         "title": "OhioHealth Multiple Sclerosis Lecture: Bladder, Bowel and Sexual Dysfunction in MS",
         "url": "https://www.youtube.com/watch?v=FUmPVbOqWzc",
         "provider": "OhioHealth / neurologist Jacqueline Nicholas, MD",
-        "durationSeconds": 3778.0,
+        "durationSeconds": 3778,
         "sourceUrl": "https://www.youtube.com/watch?v=FUmPVbOqWzc",
+        "accessVerified": true
+      },
+      {
+        "id": "ucsf-pediatric-neuroimmunology-update",
+        "title": "Pediatric Neuroimmunology Update: Pick Up on Common Disorders & Optimize Outcomes",
+        "url": "https://medconnection.ucsfbenioffchildrens.org/videos/pediatric-neuroimmunology-update-pick-up-on-common-disorders-and-optimize-outcomes",
+        "provider": "UCSF Benioff Children's Hospitals / UCSF Pediatrics",
+        "durationSeconds": 2594,
+        "sourceUrl": "https://medconnection.ucsfbenioffchildrens.org/videos/pediatric-neuroimmunology-update-pick-up-on-common-disorders-and-optimize-outcomes",
+        "accessVerified": true
+      },
+      {
+        "id": "mgh-does-ms-start-in-childhood",
+        "title": "Wednesday, February 18, 2026 Does Multiple Sclerosis Start in Childhood? Tanuja Chitnis, MD",
+        "url": "https://www.youtube.com/watch?v=FBBpKx42muA",
+        "provider": "Mass General Hospital",
+        "durationSeconds": 3829,
+        "sourceUrl": "https://www.youtube.com/watch?v=FBBpKx42muA",
         "accessVerified": true
       }
     ],
@@ -2908,7 +2948,8 @@
           "iu-pediatric-demyelinating-disease",
           "johns-hopkins-mogad-pediatric-ms",
           "msvn-ms101-boster",
-          "msvn-genetics-ms"
+          "msvn-genetics-ms",
+          "mgh-does-ms-start-in-childhood"
         ]
       },
       {
@@ -2989,7 +3030,8 @@
           "aan-vrls-ms",
           "iu-pediatric-demyelinating-disease",
           "johns-hopkins-mogad-pediatric-ms",
-          "msvn-genetics-ms"
+          "msvn-genetics-ms",
+          "ucsf-pediatric-neuroimmunology-update"
         ]
       },
       {
@@ -3048,7 +3090,8 @@
           "gjcf-nmosd-treatment-mechanisms",
           "gjcf-tolerization-trials",
           "gni-ms-grand-rounds-pathophysiology",
-          "msvn-btk-smoldering-biomarkers"
+          "msvn-btk-smoldering-biomarkers",
+          "ucsf-pediatric-neuroimmunology-update"
         ]
       },
       {
@@ -3103,11 +3146,11 @@
     ],
     "boardStatus": "No separate ABMS/ABPN or UCNS pediatric MS/neuroimmunology board examination found in current official lists reviewed. This is a focused clinical fellowship, not a board subspecialty; relevant ABPN primary board blueprint domains are child neurology demyelinating diseases and neuroimmunologic/paraneoplastic CNS disorders. Current UCNS list has no neuroimmunology/MS certification exam.",
     "boardEligibilityNotice": "MGB's older fellowship directory lists MD plus U.S./Canadian child neurology or neurology residency; current catalogue says completion of accredited neurology residency. Verify current eligibility directly with MGB and the relevant board. Independent study confers no board eligibility.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 34.64,
-    "verifiedSpecialtyHours": 15.425,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 36.424166666666665,
+    "verifiedSpecialtyHours": 17.20916666666667,
     "verifiedFoundationHours": 19.215,
-    "hoursGap": 1.3599999999999994,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3156,7 +3199,7 @@
         "title": "Intraoperative Neuromonitoring presented by Yusef Jordan, MD",
         "url": "https://www.youtube.com/watch?v=pdg0c-L_4WY",
         "provider": "San Diego Spine Foundation",
-        "durationSeconds": 2002.0,
+        "durationSeconds": 2002,
         "sourceUrl": "https://www.youtube.com/watch?v=pdg0c-L_4WY",
         "accessVerified": true
       },
@@ -3165,7 +3208,7 @@
         "title": "TCeMEP Pathways, Anesthesia, Frequency and Troubleshooting",
         "url": "https://www.youtube.com/watch?v=-Ztz7DFox_g",
         "provider": "Intraoperative Neurophysiological Monitoring",
-        "durationSeconds": 3411.0,
+        "durationSeconds": 3411,
         "sourceUrl": "https://www.youtube.com/watch?v=-Ztz7DFox_g",
         "accessVerified": true
       },
@@ -3174,7 +3217,7 @@
         "title": "Intraoperative Spinal Neuromonitoring V Owens",
         "url": "https://www.youtube.com/watch?v=R6uk22TK6jI",
         "provider": "CMC Orthopaedic Residency",
-        "durationSeconds": 1728.0,
+        "durationSeconds": 1728,
         "sourceUrl": "https://www.youtube.com/watch?v=R6uk22TK6jI",
         "accessVerified": true
       },
@@ -3183,7 +3226,7 @@
         "title": "Neurophysiological Monitoring in Brain Tumor Surgery – Module 1",
         "url": "https://www.youtube.com/watch?v=QOlHrI0IM2o",
         "provider": "University of Pretoria, Faculty of Health Sciences / Department of Neurosurgery",
-        "durationSeconds": 6810.0,
+        "durationSeconds": 6810,
         "sourceUrl": "https://www.youtube.com/watch?v=QOlHrI0IM2o",
         "accessVerified": true
       },
@@ -3192,7 +3235,7 @@
         "title": "Intraoperative Neuromonitoring with Michael Pompliano, MD on March 4, 2024.",
         "url": "https://www.youtube.com/watch?v=aSf0YN7ktTY",
         "provider": "San Diego Spine Foundation",
-        "durationSeconds": 2801.0,
+        "durationSeconds": 2801,
         "sourceUrl": "https://www.youtube.com/watch?v=aSf0YN7ktTY",
         "accessVerified": true
       },
@@ -3201,7 +3244,7 @@
         "title": "The role of Neuromonitoring in Modern Spine Surgery",
         "url": "https://www.youtube.com/watch?v=9XSpmm9xgWU",
         "provider": "UTHealth Houston Neurosciences Grand Rounds",
-        "durationSeconds": 1993.0,
+        "durationSeconds": 1993,
         "sourceUrl": "https://www.youtube.com/watch?v=9XSpmm9xgWU",
         "accessVerified": true
       },
@@ -3210,7 +3253,7 @@
         "title": "Neuromonitoring in Spine Surgery - Nicklous Morrisette, R.EEGT., CNIM",
         "url": "https://www.youtube.com/watch?v=PMr5AY_iPiI",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 5679.0,
+        "durationSeconds": 5679,
         "sourceUrl": "https://www.youtube.com/watch?v=PMr5AY_iPiI",
         "accessVerified": true
       },
@@ -3219,7 +3262,7 @@
         "title": "Intraoperative monitoring motor system Part 1",
         "url": "https://www.youtube.com/watch?v=A6tFXa7O5-o",
         "provider": "Clinician-educator lecture, Israel Alfonso",
-        "durationSeconds": 3449.0,
+        "durationSeconds": 3449,
         "sourceUrl": "https://www.youtube.com/watch?v=A6tFXa7O5-o",
         "accessVerified": true
       },
@@ -3228,7 +3271,7 @@
         "title": "Lecture #1: SSEP",
         "url": "https://www.youtube.com/watch?v=dNUBWzZ5vSo",
         "provider": "Global Innervation / Dr. Faisal R. Jahangiri",
-        "durationSeconds": 4395.0,
+        "durationSeconds": 4395,
         "sourceUrl": "https://www.youtube.com/watch?v=dNUBWzZ5vSo",
         "accessVerified": true
       },
@@ -3237,7 +3280,7 @@
         "title": "Advancement in IONM: Neuromonitoring Outside the Box by Dr Faisal Jahangiri",
         "url": "https://www.youtube.com/watch?v=6yLs6QrFELA",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 5165.0,
+        "durationSeconds": 5165,
         "sourceUrl": "https://www.youtube.com/watch?v=6yLs6QrFELA",
         "accessVerified": true
       },
@@ -3246,7 +3289,7 @@
         "title": "TCeMEP vs DECS Monitoring by Dr. Faisal Jahangiri",
         "url": "https://www.youtube.com/watch?v=NbLCL451DQU",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 4558.0,
+        "durationSeconds": 4558,
         "sourceUrl": "https://www.youtube.com/watch?v=NbLCL451DQU",
         "accessVerified": true
       },
@@ -3255,7 +3298,7 @@
         "title": "Train of Four (TOF) Monitoring by Dr. Faisal Jahangiri",
         "url": "https://www.youtube.com/watch?v=-mQDG-hrQf4",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 3363.0,
+        "durationSeconds": 3363,
         "sourceUrl": "https://www.youtube.com/watch?v=-mQDG-hrQf4",
         "accessVerified": true
       },
@@ -3264,7 +3307,7 @@
         "title": "IONM for Vascular Surgeries by Dr Faisal Jahangiri",
         "url": "https://www.youtube.com/watch?v=G9cUi46Xoqw",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 2249.0,
+        "durationSeconds": 2249,
         "sourceUrl": "https://www.youtube.com/watch?v=G9cUi46Xoqw",
         "accessVerified": true
       },
@@ -3273,7 +3316,7 @@
         "title": "SSEP: Knowing the Pathways, Generators and Recording Sites",
         "url": "https://www.youtube.com/watch?v=HNXCt86aI2w",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 4042.0,
+        "durationSeconds": 4042,
         "sourceUrl": "https://www.youtube.com/watch?v=HNXCt86aI2w",
         "accessVerified": true
       },
@@ -3282,7 +3325,7 @@
         "title": "Basic Electronics for IONM by Faisal Jahangiri",
         "url": "https://www.youtube.com/watch?v=SkCSKA-nPZY",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 6199.0,
+        "durationSeconds": 6199,
         "sourceUrl": "https://www.youtube.com/watch?v=SkCSKA-nPZY",
         "accessVerified": true
       },
@@ -3291,7 +3334,7 @@
         "title": "EMG: What are we missing in our recordings",
         "url": "https://www.youtube.com/watch?v=cM3UwiAp7ZU",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 3151.0,
+        "durationSeconds": 3151,
         "sourceUrl": "https://www.youtube.com/watch?v=cM3UwiAp7ZU",
         "accessVerified": true
       },
@@ -3300,7 +3343,7 @@
         "title": "Untethering for the Spinal Cord",
         "url": "https://www.youtube.com/watch?v=-iOZ1gC--as",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 2896.0,
+        "durationSeconds": 2896,
         "sourceUrl": "https://www.youtube.com/watch?v=-iOZ1gC--as",
         "accessVerified": true
       },
@@ -3309,7 +3352,7 @@
         "title": "Mapping of the Brain- 2022 Nov 17 EMR-SES Dr Faisal Jahangiri",
         "url": "https://www.youtube.com/watch?v=lplPoFRytY8",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 1930.0,
+        "durationSeconds": 1930,
         "sourceUrl": "https://www.youtube.com/watch?v=lplPoFRytY8",
         "accessVerified": true
       },
@@ -3318,7 +3361,7 @@
         "title": "Faisal Jahangiri IONM for Awake Surgeries",
         "url": "https://www.youtube.com/watch?v=w5uzp1Bq7GE",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 1767.0,
+        "durationSeconds": 1767,
         "sourceUrl": "https://www.youtube.com/watch?v=w5uzp1Bq7GE",
         "accessVerified": true
       },
@@ -3327,7 +3370,7 @@
         "title": "Faisal Jahangiri Case Reports IONM During Spine Surgeries",
         "url": "https://www.youtube.com/watch?v=9EN3G5_JM4g",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 2254.0,
+        "durationSeconds": 2254,
         "sourceUrl": "https://www.youtube.com/watch?v=9EN3G5_JM4g",
         "accessVerified": true
       },
@@ -3336,7 +3379,7 @@
         "title": "Faisal Jahangiri IONM for Selective Dorsal Root Rhizotomy",
         "url": "https://www.youtube.com/watch?v=PABsfwZxIH0",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 1750.0,
+        "durationSeconds": 1750,
         "sourceUrl": "https://www.youtube.com/watch?v=PABsfwZxIH0",
         "accessVerified": true
       },
@@ -3345,7 +3388,7 @@
         "title": "Neuromonitoring for Parotid and Thyroid Surgeries presented by Faisal Jahangiri, MD, CNIM, DABNM, FASNM",
         "url": "https://www.youtube.com/watch?v=9BK8eN5-p2Q",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 3577.0,
+        "durationSeconds": 3577,
         "sourceUrl": "https://www.youtube.com/watch?v=9BK8eN5-p2Q",
         "accessVerified": true
       },
@@ -3354,7 +3397,7 @@
         "title": "Introduction to IONM. Part 1",
         "url": "https://www.youtube.com/watch?v=zoIrV5mA9-A",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 1338.0,
+        "durationSeconds": 1338,
         "sourceUrl": "https://www.youtube.com/watch?v=zoIrV5mA9-A",
         "accessVerified": true
       },
@@ -3363,7 +3406,7 @@
         "title": "Introduction to IONM. Part 2",
         "url": "https://www.youtube.com/watch?v=_05Xg2XmQH0",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 1784.0,
+        "durationSeconds": 1784,
         "sourceUrl": "https://www.youtube.com/watch?v=_05Xg2XmQH0",
         "accessVerified": true
       },
@@ -3372,7 +3415,7 @@
         "title": "Introduction to IONM. Part 3",
         "url": "https://www.youtube.com/watch?v=THk4Z7k-3Ws",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 1164.0,
+        "durationSeconds": 1164,
         "sourceUrl": "https://www.youtube.com/watch?v=THk4Z7k-3Ws",
         "accessVerified": true
       },
@@ -3381,7 +3424,7 @@
         "title": "Cranial Nerve Monitoring & Mapping. Part 1",
         "url": "https://www.youtube.com/watch?v=1jbYdyIdK2Y",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 1492.0,
+        "durationSeconds": 1492,
         "sourceUrl": "https://www.youtube.com/watch?v=1jbYdyIdK2Y",
         "accessVerified": true
       },
@@ -3390,7 +3433,7 @@
         "title": "Cranial Nerve Monitoring & Mapping. Part 2",
         "url": "https://www.youtube.com/watch?v=PsCkE-4euJk",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 1942.0,
+        "durationSeconds": 1942,
         "sourceUrl": "https://www.youtube.com/watch?v=PsCkE-4euJk",
         "accessVerified": true
       },
@@ -3399,7 +3442,7 @@
         "title": "BAEP: Understanding the Pathways, Generators, and the Peaks",
         "url": "https://www.youtube.com/watch?v=qUJ_wlToz1A",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 3817.0,
+        "durationSeconds": 3817,
         "sourceUrl": "https://www.youtube.com/watch?v=qUJ_wlToz1A",
         "accessVerified": true
       },
@@ -3408,7 +3451,7 @@
         "title": "EEG: Utilizing EEG in the Operating Room",
         "url": "https://www.youtube.com/watch?v=UmED0XxDbAw",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 3776.0,
+        "durationSeconds": 3776,
         "sourceUrl": "https://www.youtube.com/watch?v=UmED0XxDbAw",
         "accessVerified": true
       },
@@ -3417,7 +3460,7 @@
         "title": "Somatosensory Evoked Potentials SSEP. Part 2",
         "url": "https://www.youtube.com/watch?v=aE9fAoIVBJA",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 1594.0,
+        "durationSeconds": 1594,
         "sourceUrl": "https://www.youtube.com/watch?v=aE9fAoIVBJA",
         "accessVerified": true
       },
@@ -3426,7 +3469,7 @@
         "title": "Somatosensory Evoked Potentials SSEP. Part 3",
         "url": "https://www.youtube.com/watch?v=aaQoUGQ8eJU",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 1869.0,
+        "durationSeconds": 1869,
         "sourceUrl": "https://www.youtube.com/watch?v=aaQoUGQ8eJU",
         "accessVerified": true
       },
@@ -3435,7 +3478,7 @@
         "title": "Dr. Jahangiri's Visual Evoked Potentials (VEP) Lab at UT Dallas",
         "url": "https://www.youtube.com/watch?v=JaoGEtqhfgg",
         "provider": "Global Innervation / UT Dallas clinician educator channel",
-        "durationSeconds": 1429.0,
+        "durationSeconds": 1429,
         "sourceUrl": "https://www.youtube.com/watch?v=JaoGEtqhfgg",
         "accessVerified": true
       }
@@ -3638,7 +3681,7 @@
     ],
     "boardStatus": "No separate ABPN physician specialty/subspecialty board examination specifically in IONM was identified. ABPN offers an adjacent subspecialty certification examination in Clinical Neurophysiology, but current published eligibility requires primary Neurology or Child Neurology certification and one year of ACGME-accredited Clinical Neurophysiology fellowship training; this MGB IONM fellowship is explicitly non-ACGME and is not represented as satisfying that requirement. ABNM separately offers written and oral professional IONM certification examinations, open to specified doctoral backgrounds and not limited to physicians; its experience/case prerequisites are independent. Verify all current terms directly with each board.",
     "boardEligibilityNotice": "Institutional eligibility is not equivalent to ABPN board eligibility. Official MGB pages differ slightly in phrasing: the older Neurology listing says board-eligible Neurology; GME page says board-certified or board-eligible Neurology, completed ACGME US Neurology residency, and Massachusetts licensure eligibility. Neither listing promises IONM board certification or guarantees eligibility for ABPN Clinical Neurophysiology certification. ABNM candidacy has separate published education, coursework, case-log, experience and supervision requirements.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 26.49277777777778,
     "verifiedSpecialtyHours": 21.56,
     "verifiedFoundationHours": 4.932777777777778,
@@ -3692,7 +3735,7 @@
         "title": "Women with Epilepsy: From Evolving Evidence to Clinical Practice",
         "url": "https://video.dartmouth-hitchcock.org/media/Women+with+Epilepsy%3A+From+Evolving+Evidence+to+Clinical+Practice/1_xb1lxtyh/86113271",
         "provider": "",
-        "durationSeconds": 3864.0,
+        "durationSeconds": 3864,
         "sourceUrl": "https://video.dartmouth-hitchcock.org/category/Grand+Rounds%3ENeurology/86113271",
         "accessVerified": true
       },
@@ -3701,7 +3744,7 @@
         "title": "Altered Mental Status through Neurophysiology",
         "url": "https://video.dartmouth-hitchcock.org/media/Altered+Mental+Status+through+Neurophysiology/1_a04ltw60/86113271",
         "provider": "",
-        "durationSeconds": 2861.0,
+        "durationSeconds": 2861,
         "sourceUrl": "https://video.dartmouth-hitchcock.org/category/Grand+Rounds%3ENeurology/86113271",
         "accessVerified": true
       },
@@ -3710,7 +3753,7 @@
         "title": "Building a Rapid TIA System of Care: From Guideline Recommendations to Regional Stroke Network Implementation",
         "url": "https://video.dartmouth-hitchcock.org/media/Building+a+Rapid+TIA+System+of+Care%3A+From+Guideline+Recommendations+to+Regional+Stroke+Network++Implementation/1_0dt2hs6e/86113271",
         "provider": "",
-        "durationSeconds": 3942.0,
+        "durationSeconds": 3942,
         "sourceUrl": "https://video.dartmouth-hitchcock.org/category/Grand+Rounds%3ENeurology/86113271",
         "accessVerified": true
       },
@@ -3719,7 +3762,7 @@
         "title": "Should We Treat CRAO As Stroke? A Neuro-Ophthalmologist Perspective",
         "url": "https://video.dartmouth-hitchcock.org/media/Should+We+Treat+CRAO+As+Stroke+A+Neuro-Ophthalmologist+Perspective/1_seqchhcx/86113271",
         "provider": "",
-        "durationSeconds": 3244.0,
+        "durationSeconds": 3244,
         "sourceUrl": "https://video.dartmouth-hitchcock.org/category/Grand+Rounds%3ENeurology/86113271",
         "accessVerified": true
       },
@@ -3728,7 +3771,7 @@
         "title": "Migraine, MIDAS, & MOH",
         "url": "https://video.dartmouth-hitchcock.org/media/Migraine%2C+MIDAS%2C++MOH/1_2p9kzmeo/86113271",
         "provider": "",
-        "durationSeconds": 3160.0,
+        "durationSeconds": 3160,
         "sourceUrl": "https://video.dartmouth-hitchcock.org/category/Grand+Rounds%3ENeurology/86113271",
         "accessVerified": true
       },
@@ -3737,7 +3780,7 @@
         "title": "Building a Brain Metastases Program: Lessons in Creating High-Value Interdisciplinary Programs in Neurology",
         "url": "https://video.dartmouth-hitchcock.org/media/Building+a+Brain+Metastases+Program%3A+Lessons+in+Creating+High-Value+Interdisciplinary+Programs+in+Neurology/1_pk0ey6g5/86113271",
         "provider": "",
-        "durationSeconds": 3635.0,
+        "durationSeconds": 3635,
         "sourceUrl": "https://video.dartmouth-hitchcock.org/category/Grand+Rounds%3ENeurology/86113271",
         "accessVerified": true
       },
@@ -3746,7 +3789,7 @@
         "title": "Improving Post-Acute Care Transitions After Stroke",
         "url": "https://video.dartmouth-hitchcock.org/media/Improving+Post-Acute+Care+Transitions+After+Stroke/1_ix36j2rl",
         "provider": "",
-        "durationSeconds": 3050.0,
+        "durationSeconds": 3050,
         "sourceUrl": "https://video.dartmouth-hitchcock.org/category/Grand+Rounds%3ENeurology/86113271",
         "accessVerified": true
       },
@@ -3755,7 +3798,7 @@
         "title": "Mimickers of Epilepsy: A Review",
         "url": "https://video.dartmouth-hitchcock.org/media/Mimickers+of+Epilepsy%3A+A+Review/1_qxizx5dz",
         "provider": "",
-        "durationSeconds": 4098.0,
+        "durationSeconds": 4098,
         "sourceUrl": "https://video.dartmouth-hitchcock.org/category/Grand+Rounds%3ENeurology/86113271",
         "accessVerified": true
       },
@@ -4210,11 +4253,11 @@
     ],
     "boardStatus": "Actual one-year MGB physician fellowship and practice focus; not an ABPN/ABMS-recognized neurohospitalist subspecialty examination category. ABPN adult neurology is the adjacent underlying primary board. NHS core-competency authors expressly did not intend their framework as a path to neurohospitalist board certification. MGB page does not state this individual fellowship’s accreditation status.",
     "boardEligibilityNotice": "MGB programme page says entrants completed an ACGME-accredited adult neurology residency and have ABPN adult neurology board-eligible/board-certified status, typically entering at PGY-5. ABPN eligibility depends on its current qualifying training, licensure and application rules. This course gives no eligibility/training credit.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 36.15014055555556,
     "verifiedSpecialtyHours": 33.20866472222223,
     "verifiedFoundationHours": 2.9414758333333335,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -4252,7 +4295,7 @@
         "title": "Sonographic evaluation of the liver transplant - Lecture",
         "url": "https://www.youtube.com/watch?v=I4lJJs_eUGg",
         "provider": "Yale Radiology and Biomedical Imaging",
-        "durationSeconds": 3265.0,
+        "durationSeconds": 3265,
         "sourceUrl": "https://www.youtube.com/watch?v=I4lJJs_eUGg",
         "accessVerified": true
       },
@@ -4261,7 +4304,7 @@
         "title": "Management of Cirrhosis and Its Complications",
         "url": "https://www.youtube.com/watch?v=x7u5Fsp9yzQ",
         "provider": "University of Miami Department of Medicine Grand Rounds",
-        "durationSeconds": 2990.0,
+        "durationSeconds": 2990,
         "sourceUrl": "https://www.youtube.com/watch?v=x7u5Fsp9yzQ",
         "accessVerified": true
       },
@@ -4270,7 +4313,7 @@
         "title": "Transplanting Hope: Advancing Health Equity in Liver Transplantation",
         "url": "https://www.youtube.com/watch?v=H8ef0bImeNM",
         "provider": "Stanford Department of Pediatrics",
-        "durationSeconds": 3517.0,
+        "durationSeconds": 3517,
         "sourceUrl": "https://www.youtube.com/watch?v=H8ef0bImeNM",
         "accessVerified": true
       },
@@ -4279,7 +4322,7 @@
         "title": "Liver Transplant Immunology",
         "url": "https://www.youtube.com/watch?v=HPfjbZ1qjF0",
         "provider": "Henry Ford Health / Transplant Institute",
-        "durationSeconds": 3526.0,
+        "durationSeconds": 3526,
         "sourceUrl": "https://www.youtube.com/watch?v=HPfjbZ1qjF0",
         "accessVerified": true
       },
@@ -4288,7 +4331,7 @@
         "title": "Essential Topics in LT: Acute and Chronic Allograft Rejection",
         "url": "https://www.youtube.com/watch?v=DohY1sf7Q14",
         "provider": "Icahn School of Medicine at Mount Sinai",
-        "durationSeconds": 3196.0,
+        "durationSeconds": 3196,
         "sourceUrl": "https://www.youtube.com/watch?v=DohY1sf7Q14",
         "accessVerified": true
       },
@@ -4297,7 +4340,7 @@
         "title": "Liver transplant pathology - Dr. Oshima (Johns Hopkins)",
         "url": "https://www.youtube.com/watch?v=UoH535B4284",
         "provider": "pathCast / Johns Hopkins",
-        "durationSeconds": 3271.0,
+        "durationSeconds": 3271,
         "sourceUrl": "https://www.youtube.com/watch?v=UoH535B4284",
         "accessVerified": true
       },
@@ -4306,7 +4349,7 @@
         "title": "Liver transplantation: Key issues and logical approaches",
         "url": "https://www.youtube.com/watch?v=rurJoP4_IYg",
         "provider": "pathCast / University of Pennsylvania",
-        "durationSeconds": 3991.0,
+        "durationSeconds": 3991,
         "sourceUrl": "https://www.youtube.com/watch?v=rurJoP4_IYg",
         "accessVerified": true
       },
@@ -4315,7 +4358,7 @@
         "title": "Wilson Disease: Diagnosis and management and the path to cure",
         "url": "https://www.youtube.com/watch?v=_AoO_b9vuzg",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 3501.0,
+        "durationSeconds": 3501,
         "sourceUrl": "https://www.youtube.com/watch?v=_AoO_b9vuzg",
         "accessVerified": true
       },
@@ -4324,7 +4367,7 @@
         "title": "Plasmapheresis in ALF and ACLF",
         "url": "https://www.youtube.com/watch?v=ZuCgZP6kLLM",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 2419.0,
+        "durationSeconds": 2419,
         "sourceUrl": "https://www.youtube.com/watch?v=ZuCgZP6kLLM",
         "accessVerified": true
       },
@@ -4333,7 +4376,7 @@
         "title": "Management of Hyponatremia in Cirrhosis",
         "url": "https://www.youtube.com/watch?v=5ZujvtjYKDY",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 2049.0,
+        "durationSeconds": 2049,
         "sourceUrl": "https://www.youtube.com/watch?v=5ZujvtjYKDY",
         "accessVerified": true
       },
@@ -4342,7 +4385,7 @@
         "title": "Cirrhotic Cardiomyopathy: Does it matter?",
         "url": "https://www.youtube.com/watch?v=siqdGWUe7a0",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 2843.0,
+        "durationSeconds": 2843,
         "sourceUrl": "https://www.youtube.com/watch?v=siqdGWUe7a0",
         "accessVerified": true
       },
@@ -4351,7 +4394,7 @@
         "title": "Primary Sclerosing Cholangitis",
         "url": "https://www.youtube.com/watch?v=O_9hVRVJrMg",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 3074.0,
+        "durationSeconds": 3074,
         "sourceUrl": "https://www.youtube.com/watch?v=O_9hVRVJrMg",
         "accessVerified": true
       },
@@ -4360,7 +4403,7 @@
         "title": "Evolving Strategies in the Management of Intermediate-Stage HCC",
         "url": "https://www.youtube.com/watch?v=zz-ZBBACtQA",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 4532.0,
+        "durationSeconds": 4532,
         "sourceUrl": "https://www.youtube.com/watch?v=zz-ZBBACtQA",
         "accessVerified": true
       },
@@ -4369,7 +4412,7 @@
         "title": "From Palliation to Cure: Liver Transplantation in Oncologic Practice",
         "url": "https://www.youtube.com/watch?v=hMy2sRbH04Y",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 4390.0,
+        "durationSeconds": 4390,
         "sourceUrl": "https://www.youtube.com/watch?v=hMy2sRbH04Y",
         "accessVerified": true
       },
@@ -4378,7 +4421,7 @@
         "title": "Management of Hyponatremia in Cirrhosis",
         "url": "https://www.youtube.com/watch?v=Vcjd4rvG9W8",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 4876.0,
+        "durationSeconds": 4876,
         "sourceUrl": "https://www.youtube.com/watch?v=Vcjd4rvG9W8",
         "accessVerified": true
       },
@@ -4387,7 +4430,7 @@
         "title": "Hepatitis C in the Post-DAA Era",
         "url": "https://www.youtube.com/watch?v=w363fygnMBA",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 4593.0,
+        "durationSeconds": 4593,
         "sourceUrl": "https://www.youtube.com/watch?v=w363fygnMBA",
         "accessVerified": true
       },
@@ -4396,7 +4439,7 @@
         "title": "Acute Kidney Injury in Cirrhosis: Implications on Liver Transplantation",
         "url": "https://www.youtube.com/watch?v=1aXPpaySiE0",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 4619.0,
+        "durationSeconds": 4619,
         "sourceUrl": "https://www.youtube.com/watch?v=1aXPpaySiE0",
         "accessVerified": true
       },
@@ -4405,7 +4448,7 @@
         "title": "Curing Hepatitis B: Hope, Challenges, and Breakthroughs",
         "url": "https://www.youtube.com/watch?v=wmm28iVbMy0",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 3353.0,
+        "durationSeconds": 3353,
         "sourceUrl": "https://www.youtube.com/watch?v=wmm28iVbMy0",
         "accessVerified": true
       },
@@ -4414,7 +4457,7 @@
         "title": "Noninvasive Evaluation of Hepatic Steatosis, Inflammation & Liver Fibrosis",
         "url": "https://www.youtube.com/watch?v=uDWU_co-0WI",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 3320.0,
+        "durationSeconds": 3320,
         "sourceUrl": "https://www.youtube.com/watch?v=uDWU_co-0WI",
         "accessVerified": true
       },
@@ -4423,7 +4466,7 @@
         "title": "Advances in Early Detection and Risk Stratification of Hepatocellular Carcinoma",
         "url": "https://www.youtube.com/watch?v=ey8BIwTziw0",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 3277.0,
+        "durationSeconds": 3277,
         "sourceUrl": "https://www.youtube.com/watch?v=ey8BIwTziw0",
         "accessVerified": true
       },
@@ -4432,7 +4475,7 @@
         "title": "Updates in Management of Hepatocellular Carcinoma",
         "url": "https://www.youtube.com/watch?v=BC0NJcpfIow",
         "provider": "University of Colorado Anschutz Hepatology and Liver Transplantation Webinar Series",
-        "durationSeconds": 3179.0,
+        "durationSeconds": 3179,
         "sourceUrl": "https://www.youtube.com/watch?v=BC0NJcpfIow",
         "accessVerified": true
       },
@@ -4441,7 +4484,7 @@
         "title": "Updates in Management of Alcohol Associated Liver Disease",
         "url": "https://www.youtube.com/watch?v=53Kcngu-79A",
         "provider": "University of Colorado Anschutz Hepatology and Liver Transplantation Webinar Series",
-        "durationSeconds": 2931.0,
+        "durationSeconds": 2931,
         "sourceUrl": "https://www.youtube.com/watch?v=53Kcngu-79A",
         "accessVerified": true
       },
@@ -4450,7 +4493,7 @@
         "title": "Living Donor Liver Transplantation in US: Impact on access to care",
         "url": "https://www.youtube.com/watch?v=vXa8BEjkRT0",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 2988.0,
+        "durationSeconds": 2988,
         "sourceUrl": "https://www.youtube.com/watch?v=vXa8BEjkRT0",
         "accessVerified": true
       },
@@ -4459,7 +4502,7 @@
         "title": "Vascular Disorders of the Liver",
         "url": "https://www.youtube.com/watch?v=wgjIq37y6dA",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 3051.0,
+        "durationSeconds": 3051,
         "sourceUrl": "https://www.youtube.com/watch?v=wgjIq37y6dA",
         "accessVerified": true
       },
@@ -4468,7 +4511,7 @@
         "title": "Acute Liver Failure: The Path Towards no Mortality",
         "url": "https://www.youtube.com/watch?v=tUbKhiKl9rg",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 3482.0,
+        "durationSeconds": 3482,
         "sourceUrl": "https://www.youtube.com/watch?v=tUbKhiKl9rg",
         "accessVerified": true
       },
@@ -4477,7 +4520,7 @@
         "title": "Risk and Outcomes of DILI in Patients with Underlying Liver Disease",
         "url": "https://www.youtube.com/watch?v=DocEYUtX3As",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 2623.0,
+        "durationSeconds": 2623,
         "sourceUrl": "https://www.youtube.com/watch?v=DocEYUtX3As",
         "accessVerified": true
       },
@@ -4486,7 +4529,7 @@
         "title": "Lysosomal Diseases - The Great Mimicker in Hepatology",
         "url": "https://www.youtube.com/watch?v=kUA9XYxAn18",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 2580.0,
+        "durationSeconds": 2580,
         "sourceUrl": "https://www.youtube.com/watch?v=kUA9XYxAn18",
         "accessVerified": true
       },
@@ -4495,7 +4538,7 @@
         "title": "Hepatic Encephalopathy: Best Practice & Management",
         "url": "https://www.youtube.com/watch?v=eWV3DOEE4uo",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 3025.0,
+        "durationSeconds": 3025,
         "sourceUrl": "https://www.youtube.com/watch?v=eWV3DOEE4uo",
         "accessVerified": true
       },
@@ -4504,7 +4547,7 @@
         "title": "Utility & Futility of Liver Transplantation in ACLF: When to draw a line?",
         "url": "https://www.youtube.com/watch?v=fUokq84-sRY",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 2349.0,
+        "durationSeconds": 2349,
         "sourceUrl": "https://www.youtube.com/watch?v=fUokq84-sRY",
         "accessVerified": true
       },
@@ -4513,7 +4556,7 @@
         "title": "Management of Severe Alcohol Associated Hepatitis",
         "url": "https://www.youtube.com/watch?v=q4erBAVhF6Q",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 3571.0,
+        "durationSeconds": 3571,
         "sourceUrl": "https://www.youtube.com/watch?v=q4erBAVhF6Q",
         "accessVerified": true
       },
@@ -4522,7 +4565,7 @@
         "title": "Pathogenesis of Hepatic Steatosis: Insights into Potential Treatment Options",
         "url": "https://www.youtube.com/watch?v=Y2Sco_yYRe8",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 3515.0,
+        "durationSeconds": 3515,
         "sourceUrl": "https://www.youtube.com/watch?v=Y2Sco_yYRe8",
         "accessVerified": true
       },
@@ -4531,7 +4574,7 @@
         "title": "Liver Disease and Reproductive Health",
         "url": "https://www.youtube.com/watch?v=NUmi_cnZtfc",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 3342.0,
+        "durationSeconds": 3342,
         "sourceUrl": "https://www.youtube.com/watch?v=NUmi_cnZtfc",
         "accessVerified": true
       },
@@ -4540,7 +4583,7 @@
         "title": "Hepatocellular Carcinoma: From Diagnosis to Treatment",
         "url": "https://www.youtube.com/watch?v=fbccU8C9ilE",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 3058.0,
+        "durationSeconds": 3058,
         "sourceUrl": "https://www.youtube.com/watch?v=fbccU8C9ilE",
         "accessVerified": true
       },
@@ -4549,7 +4592,7 @@
         "title": "Sarcopenia & Frailty: Implications for Liver Transplantation",
         "url": "https://www.youtube.com/watch?v=8-6IpVey_GM",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 3905.0,
+        "durationSeconds": 3905,
         "sourceUrl": "https://www.youtube.com/watch?v=8-6IpVey_GM",
         "accessVerified": true
       },
@@ -4558,7 +4601,7 @@
         "title": "Human Hepatocyte Transplantation: The Story So far!",
         "url": "https://www.youtube.com/watch?v=OQxo-V_Vt-o",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 2102.0,
+        "durationSeconds": 2102,
         "sourceUrl": "https://www.youtube.com/watch?v=OQxo-V_Vt-o",
         "accessVerified": true
       },
@@ -4567,7 +4610,7 @@
         "title": "Pathogenesis and Treatment of Hepatic Fibrosis: Is reversal of Cirrhosis a Myth?",
         "url": "https://www.youtube.com/watch?v=UEPhGJ9nuMQ",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 2817.0,
+        "durationSeconds": 2817,
         "sourceUrl": "https://www.youtube.com/watch?v=UEPhGJ9nuMQ",
         "accessVerified": true
       },
@@ -4576,7 +4619,7 @@
         "title": "Transplantation for Alcohol-Associated Hepatitis: What we have learned?",
         "url": "https://www.youtube.com/watch?v=e6hhv_1Qxrw",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 2364.0,
+        "durationSeconds": 2364,
         "sourceUrl": "https://www.youtube.com/watch?v=e6hhv_1Qxrw",
         "accessVerified": true
       },
@@ -4585,7 +4628,7 @@
         "title": "Advances in Acute on Chronic Liver Failure",
         "url": "https://www.youtube.com/watch?v=gbyCUcxxUzU",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 2773.0,
+        "durationSeconds": 2773,
         "sourceUrl": "https://www.youtube.com/watch?v=gbyCUcxxUzU",
         "accessVerified": true
       },
@@ -4594,7 +4637,7 @@
         "title": "Minimal Hepatic Encephalopathy",
         "url": "https://www.youtube.com/watch?v=i3BuLrnykHk",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 3559.0,
+        "durationSeconds": 3559,
         "sourceUrl": "https://www.youtube.com/watch?v=i3BuLrnykHk",
         "accessVerified": true
       },
@@ -4603,7 +4646,7 @@
         "title": "Portal Hypertension Update",
         "url": "https://www.youtube.com/watch?v=GHNdQLRb6Fo",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 2415.0,
+        "durationSeconds": 2415,
         "sourceUrl": "https://www.youtube.com/watch?v=GHNdQLRb6Fo",
         "accessVerified": true
       },
@@ -4612,7 +4655,7 @@
         "title": "Management of Refractory Ascites",
         "url": "https://www.youtube.com/watch?v=5pHu25fJT3w",
         "provider": "INEDSYS Hepatology Club",
-        "durationSeconds": 2725.0,
+        "durationSeconds": 2725,
         "sourceUrl": "https://www.youtube.com/watch?v=5pHu25fJT3w",
         "accessVerified": true
       }
@@ -4787,11 +4830,11 @@
     ],
     "boardStatus": "Transplant hepatology is an ABIM/ABP subspecialty certification with a separate Transplant Hepatology Certification Examination. 'Advanced hepatology' is the MGH programme label, not itself a distinct board or separate board examination. The ABIM pathway requires prior ABIM Gastroenterology certification, qualifying formal accredited training, clinical competence and unrestricted licensure. ABP candidates must verify the separate ABP eligibility pathway directly with ABP.",
     "boardEligibilityNotice": "The MGH public fellowship page describes a clinical advanced fellowship after a three-year gastroenterology fellowship and says its goal is qualification to sit for transplant-hepatology certification; it also reports an old August 1, 2016 application deadline. The page does not establish the programme's current ACGME accreditation, current openings, current appointment rules, or a particular learner's eligibility. ABIM's current published policy requires accredited/recognized transplant-hepatology training and prior ABIM Gastroenterology certification for the ABIM exam. Confirm current programme accreditation and track documentation directly with ACGME, MGH, ABIM or ABP before relying on exam eligibility. No guarantee is made.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 36.93222222222222,
     "verifiedSpecialtyHours": 36.93222222222222,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 0.0,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -4819,7 +4862,7 @@
       "breakdown": "Plan only: 12 units x 2 hours reading/reasoning (24 h); 10 hours guided guideline/source appraisal; 8 hours practice questions and review; 12 hours capstone preparation and self-reflection. Self-paced estimate, not observed seat time. Video target is separate; 0 verified external video hours currently available."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X022_802235d6.pdf",
+    "syllabusUrl": "/manus-storage/MED-X022_dfefc3ba.pdf",
     "pdfIds": [
       "med-syllabus-MED-X022",
       "med-reading-bdc52724e66b",
@@ -4890,7 +4933,7 @@
         "title": "The Role of Physical Medicine & Rehabilitation in Managing Patients with Traumatic Brain Injury",
         "url": "https://hsc.mediaspace.kaltura.com/media/t/0_yubc2mr7",
         "provider": "University of Utah Health Sciences MediaSpace / Kaltura",
-        "durationSeconds": 3759.0,
+        "durationSeconds": 3759,
         "sourceUrl": "https://hsc.mediaspace.kaltura.com/media/t/0_yubc2mr7",
         "accessVerified": true
       },
@@ -4899,7 +4942,7 @@
         "title": "6/21/18 Spinal Cord Injury: Current Guidelines and Emerging Treatment",
         "url": "https://hsc.mediaspace.kaltura.com/media/t/0_evrwkvsb",
         "provider": "University of Utah Health Sciences MediaSpace / Kaltura",
-        "durationSeconds": 3496.0,
+        "durationSeconds": 3496,
         "sourceUrl": "https://hsc.mediaspace.kaltura.com/media/t/0_evrwkvsb",
         "accessVerified": true
       },
@@ -4908,7 +4951,7 @@
         "title": "Neurothereapy Team Overview: Everything You Need to Know About PT/OT/SLP in an Hour",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_np4qyymt",
         "provider": "University of Utah Neurosurgery Grand Rounds / Kaltura",
-        "durationSeconds": 2937.0,
+        "durationSeconds": 2937,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_np4qyymt",
         "accessVerified": true
       },
@@ -4917,7 +4960,7 @@
         "title": "Spinal Cord Injury Rehabilitation",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_31iqxbw1",
         "provider": "University of Utah Neurosurgery Grand Rounds / Kaltura",
-        "durationSeconds": 3431.0,
+        "durationSeconds": 3431,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_31iqxbw1",
         "accessVerified": true
       },
@@ -4926,7 +4969,7 @@
         "title": "Translation Of Stoke Neurorehabilitation From Animals To Patients",
         "url": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_idg5psqu",
         "provider": "University of Utah Neurology Grand Rounds / Kaltura",
-        "durationSeconds": 3616.0,
+        "durationSeconds": 3616,
         "sourceUrl": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_idg5psqu",
         "accessVerified": true
       },
@@ -4935,7 +4978,7 @@
         "title": "Mapping And Modulating Frontoamygdala Circuitry In Patients With Chronic Symptoms After TBI",
         "url": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_k8wwtfvv",
         "provider": "University of Utah Neurology Grand Rounds / Kaltura",
-        "durationSeconds": 2869.0,
+        "durationSeconds": 2869,
         "sourceUrl": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_k8wwtfvv",
         "accessVerified": true
       },
@@ -4944,7 +4987,7 @@
         "title": "Clinical Assessments Recovery After Sport-Related Concussion",
         "url": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_nne5y7gc",
         "provider": "University of Utah Neurology Grand Rounds / Kaltura",
-        "durationSeconds": 3158.0,
+        "durationSeconds": 3158,
         "sourceUrl": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_nne5y7gc",
         "accessVerified": true
       },
@@ -4953,7 +4996,7 @@
         "title": "Updates In Management And Prognostication In Anoxic Brain Injury",
         "url": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_5ibgxi6p",
         "provider": "University of Utah Neurology Grand Rounds / Kaltura",
-        "durationSeconds": 2678.0,
+        "durationSeconds": 2678,
         "sourceUrl": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_5ibgxi6p",
         "accessVerified": true
       },
@@ -4962,7 +5005,7 @@
         "title": "Balance and Mobility after mild TBI",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_oys3n960",
         "provider": "University of Utah Neurosurgery Grand Rounds / Kaltura",
-        "durationSeconds": 3687.0,
+        "durationSeconds": 3687,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_oys3n960",
         "accessVerified": true
       },
@@ -4971,7 +5014,7 @@
         "title": "To Cool Or Not To Cool: What Temperature Do Anoxic Neurons Like?",
         "url": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_28y9qkx0",
         "provider": "University of Utah Neurology Grand Rounds / Kaltura",
-        "durationSeconds": 3822.0,
+        "durationSeconds": 3822,
         "sourceUrl": "https://medicine.utah.edu/neurology/grand-rounds/2023",
         "accessVerified": true
       },
@@ -4980,7 +5023,7 @@
         "title": "Examining Mechanisms Of Post-Traumatic Excitability",
         "url": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_ljofoosu",
         "provider": "University of Utah Neurology Grand Rounds / Kaltura",
-        "durationSeconds": 3144.0,
+        "durationSeconds": 3144,
         "sourceUrl": "https://medicine.utah.edu/neurology/grand-rounds/2022",
         "accessVerified": true
       },
@@ -4989,7 +5032,7 @@
         "title": "Healthcare Access Considerations In The Context Of Traumatic Brain Injury And Military Exposure",
         "url": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_xbr749l6",
         "provider": "University of Utah Neurology Grand Rounds / Kaltura",
-        "durationSeconds": 2804.0,
+        "durationSeconds": 2804,
         "sourceUrl": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_xbr749l6",
         "accessVerified": true
       },
@@ -4998,8 +5041,26 @@
         "title": "Traumatic Brain Injury: Links To Justice And Recidivism",
         "url": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_js9l8wj9",
         "provider": "University of Utah Neurology Grand Rounds / Kaltura",
-        "durationSeconds": 2164.0,
+        "durationSeconds": 2164,
         "sourceUrl": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_js9l8wj9",
+        "accessVerified": true
+      },
+      {
+        "id": "yt-snNimeHGBhg",
+        "title": "Florey Annual Public Lecture - Lifelong recovery after stroke",
+        "url": "https://www.youtube.com/watch?v=snNimeHGBhg",
+        "provider": "University of Adelaide Faculty of Health and Medical Sciences / YouTube",
+        "durationSeconds": 4521,
+        "sourceUrl": "https://www.youtube.com/watch?v=snNimeHGBhg",
+        "accessVerified": true
+      },
+      {
+        "id": "yt-cbJW-99Y9Jw",
+        "title": "Management of chronic central neuropathic pain following spinal cord injuries & disorders",
+        "url": "https://www.youtube.com/watch?v=cbJW-99Y9Jw",
+        "provider": "Spaulding New England Spinal Cord Injury Center / YouTube",
+        "durationSeconds": 4137,
+        "sourceUrl": "https://www.youtube.com/watch?v=cbJW-99Y9Jw",
         "accessVerified": true
       }
     ],
@@ -5031,7 +5092,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "kaltura-utah-neurosurgery-0_np4qyymt",
-          "kaltura-utah-neurology-1_idg5psqu"
+          "kaltura-utah-neurology-1_idg5psqu",
+          "yt-snNimeHGBhg"
         ]
       },
       {
@@ -5083,7 +5145,8 @@
         "lectureIds": [
           "kaltura-utah-neurology-1_k8wwtfvv",
           "kaltura-utah-neurology-1_nne5y7gc",
-          "kaltura-utah-neurosurgery-1_oys3n960"
+          "kaltura-utah-neurosurgery-1_oys3n960",
+          "yt-cbJW-99Y9Jw"
         ]
       },
       {
@@ -5136,11 +5199,11 @@
     ],
     "boardStatus": "No separate board examination or certification for “Neurorecovery Fellowship” itself was identified. A separate Brain Injury Medicine (BIM) subspecialty certification examination exists, administered through ABPMR in partnership with ABPN. MED-X022 is not shown as an ACGME-accredited BIM fellowship on its official public page; do not assume it fulfills BIM certification training requirements.",
     "boardEligibilityNotice": "The MGB programme page says applicants should have completed Neurology or Physical Medicine and Rehabilitation residency and be board-eligible in one by June 30, 2026; its displayed Massachusetts full-license date is July 1, 2027. Since the date checked here is 2026-10-07, the board-eligibility deadline is past and likely tied to a recruitment cohort: verify the current cycle with the programme. For separate BIM certification, current ABPMR/ABPN requirements include specified underlying board status, a valid unrestricted license, successful completion of a 12-month ACGME-accredited BIM fellowship and other board rules. Completing this independent self-study course does not confer eligibility.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 11.545833333333333,
-    "verifiedSpecialtyHours": 9.610833333333334,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 13.950833333333334,
+    "verifiedSpecialtyHours": 12.015833333333333,
     "verifiedFoundationHours": 1.935,
-    "hoursGap": 24.454166666666666,
+    "hoursGap": 22.049166666666665,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -5187,7 +5250,7 @@
         "title": "Age-dependent EEG change in children – neonatal: #1 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=EESYZ5Y_Dto",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 1923.0,
+        "durationSeconds": 1923,
         "sourceUrl": "https://www.youtube.com/watch?v=EESYZ5Y_Dto",
         "accessVerified": true
       },
@@ -5196,7 +5259,7 @@
         "title": "Age-dependent EEG change in children – infant and children: #2 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=I0O_-qoyFe8",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 1774.0,
+        "durationSeconds": 1774,
         "sourceUrl": "https://www.youtube.com/watch?v=I0O_-qoyFe8",
         "accessVerified": true
       },
@@ -5205,7 +5268,7 @@
         "title": "Epilepsy syndrome in infancy: #3 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=UC-fvMrss3g",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 363.0,
+        "durationSeconds": 363,
         "sourceUrl": "https://www.youtube.com/watch?v=UC-fvMrss3g",
         "accessVerified": true
       },
@@ -5214,7 +5277,7 @@
         "title": "Epilepsy syndrome in childhood: #4 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=3-U41lp_fHg",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 812.0,
+        "durationSeconds": 812,
         "sourceUrl": "https://www.youtube.com/watch?v=3-U41lp_fHg",
         "accessVerified": true
       },
@@ -5223,7 +5286,7 @@
         "title": "Epilepsy syndrome in adolescence: #5 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=dyOLEPY8X30",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 319.0,
+        "durationSeconds": 319,
         "sourceUrl": "https://www.youtube.com/watch?v=dyOLEPY8X30",
         "accessVerified": true
       },
@@ -5232,7 +5295,7 @@
         "title": "Non-epileptiform EEG abnormalities – Slow activities: #6 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=UzKLcy-6LxU",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 574.0,
+        "durationSeconds": 574,
         "sourceUrl": "https://www.youtube.com/watch?v=UzKLcy-6LxU",
         "accessVerified": true
       },
@@ -5241,7 +5304,7 @@
         "title": "Non-epileptiform EEG abnormalities – Amplitude abnormalities: #7 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=FI-PD--XIY8",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 350.0,
+        "durationSeconds": 350,
         "sourceUrl": "https://www.youtube.com/watch?v=FI-PD--XIY8",
         "accessVerified": true
       },
@@ -5250,7 +5313,7 @@
         "title": "Non-epileptiform EEG abnormalities – Periodic patterns: #8 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=hn7-afEilmU",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 391.0,
+        "durationSeconds": 391,
         "sourceUrl": "https://www.youtube.com/watch?v=hn7-afEilmU",
         "accessVerified": true
       },
@@ -5259,7 +5322,7 @@
         "title": "Basic physiology of the EEG - Introduction: #9 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=GHFyoz0c4vM",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 203.0,
+        "durationSeconds": 203,
         "sourceUrl": "https://www.youtube.com/watch?v=GHFyoz0c4vM",
         "accessVerified": true
       },
@@ -5268,7 +5331,7 @@
         "title": "Basic physiology of the EEG - Neurophysiology: #10 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=W-_QEt360_w",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 484.0,
+        "durationSeconds": 484,
         "sourceUrl": "https://www.youtube.com/watch?v=W-_QEt360_w",
         "accessVerified": true
       },
@@ -5277,7 +5340,7 @@
         "title": "Basic physiology of the EEG - Montage and setting: #11 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=HMofuVBMXu0",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 516.0,
+        "durationSeconds": 516,
         "sourceUrl": "https://www.youtube.com/watch?v=HMofuVBMXu0",
         "accessVerified": true
       },
@@ -5286,7 +5349,7 @@
         "title": "EEG artifacts - Case 1: #12 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=w7vvdSWRCCY",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 717.0,
+        "durationSeconds": 717,
         "sourceUrl": "https://www.youtube.com/watch?v=w7vvdSWRCCY",
         "accessVerified": true
       },
@@ -5295,7 +5358,7 @@
         "title": "EEG artifacts - Case 2-5: #13 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=_eXgawT2vHw",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 669.0,
+        "durationSeconds": 669,
         "sourceUrl": "https://www.youtube.com/watch?v=_eXgawT2vHw",
         "accessVerified": true
       },
@@ -5304,7 +5367,7 @@
         "title": "EEG artifacts - Case 6-9: #14 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=rezcwPDesgI",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 443.0,
+        "durationSeconds": 443,
         "sourceUrl": "https://www.youtube.com/watch?v=rezcwPDesgI",
         "accessVerified": true
       },
@@ -5313,7 +5376,7 @@
         "title": "EEG artifacts - Case 10 and conclusion: #15 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=S-NHUo0gnI0",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 409.0,
+        "durationSeconds": 409,
         "sourceUrl": "https://www.youtube.com/watch?v=S-NHUo0gnI0",
         "accessVerified": true
       },
@@ -5322,7 +5385,7 @@
         "title": "Abnormal EEG in newborns and infants - EEG maturation: #16 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=TjCXBq1xRto",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 1112.0,
+        "durationSeconds": 1112,
         "sourceUrl": "https://www.youtube.com/watch?v=TjCXBq1xRto",
         "accessVerified": true
       },
@@ -5331,7 +5394,7 @@
         "title": "Abnormal EEG in newborns and infants - Abnormal part 1: #17 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=4NpQRhWOqSg",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 617.0,
+        "durationSeconds": 617,
         "sourceUrl": "https://www.youtube.com/watch?v=4NpQRhWOqSg",
         "accessVerified": true
       },
@@ -5340,7 +5403,7 @@
         "title": "Abnormal EEG in newborns and infants - Abnormal part 2: #18 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=jmDyUtYvVm0",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 458.0,
+        "durationSeconds": 458,
         "sourceUrl": "https://www.youtube.com/watch?v=jmDyUtYvVm0",
         "accessVerified": true
       },
@@ -5349,7 +5412,7 @@
         "title": "Abnormal EEG in newborns and infants - Abnormal part 3: #19 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=doLm6fHmbYg",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 741.0,
+        "durationSeconds": 741,
         "sourceUrl": "https://www.youtube.com/watch?v=doLm6fHmbYg",
         "accessVerified": true
       },
@@ -5358,7 +5421,7 @@
         "title": "Vertical perithalamic hemispherotomy - #20 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=3UnAbvd4TdM",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 777.0,
+        "durationSeconds": 777,
         "sourceUrl": "https://www.youtube.com/watch?v=3UnAbvd4TdM",
         "accessVerified": true
       },
@@ -5367,7 +5430,7 @@
         "title": "sEEG for polymicrogyria and schizocephaly - #21 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=E4qZm83QPhs",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 1011.0,
+        "durationSeconds": 1011,
         "sourceUrl": "https://www.youtube.com/watch?v=E4qZm83QPhs",
         "accessVerified": true
       },
@@ -5376,7 +5439,7 @@
         "title": "Intermittent Photic Stimulation - #22 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=9eSX_04mquU",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 1005.0,
+        "durationSeconds": 1005,
         "sourceUrl": "https://www.youtube.com/watch?v=9eSX_04mquU",
         "accessVerified": true
       },
@@ -5385,7 +5448,7 @@
         "title": "Pediatric epilepsy surgery - #23 ILAE-AO & ASEPA EEG teaching course",
         "url": "https://www.youtube.com/watch?v=v9ILI5bs49I",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 960.0,
+        "durationSeconds": 960,
         "sourceUrl": "https://www.youtube.com/watch?v=v9ILI5bs49I",
         "accessVerified": true
       },
@@ -5394,7 +5457,7 @@
         "title": "A case of familial hyperkinetic seizures: Diagnosis and management - Part 1",
         "url": "https://www.youtube.com/watch?v=UBNE-cgziHI",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 803.0,
+        "durationSeconds": 803,
         "sourceUrl": "https://www.youtube.com/watch?v=UBNE-cgziHI",
         "accessVerified": true
       },
@@ -5403,7 +5466,7 @@
         "title": "A case of familial hyperkinetic seizures: Diagnosis and management - Part 2",
         "url": "https://www.youtube.com/watch?v=wicTGZZHI7w",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 692.0,
+        "durationSeconds": 692,
         "sourceUrl": "https://www.youtube.com/watch?v=wicTGZZHI7w",
         "accessVerified": true
       },
@@ -5412,7 +5475,7 @@
         "title": "A case of familial hyperkinetic seizures: Diagnosis and management - Part 3",
         "url": "https://www.youtube.com/watch?v=WJL1hnIYhoU",
         "provider": "ILAE - International League Against Epilepsy / ASEPA",
-        "durationSeconds": 600.0,
+        "durationSeconds": 600,
         "sourceUrl": "https://www.youtube.com/watch?v=WJL1hnIYhoU",
         "accessVerified": true
       },
@@ -5421,7 +5484,7 @@
         "title": "EEG Talk - ACNS Critical Care EEG Terminology 2021 (Part 1)",
         "url": "https://www.youtube.com/watch?v=S9NLrhj0x-M",
         "provider": "Fábio A. Nascimento (EEG Talk; educational series on ACNS 2021 terminology)",
-        "durationSeconds": 1436.0,
+        "durationSeconds": 1436,
         "sourceUrl": "https://www.youtube.com/watch?v=S9NLrhj0x-M",
         "accessVerified": true
       },
@@ -5430,7 +5493,7 @@
         "title": "EEG Talk - ACNS Critical Care EEG Terminology 2021 (Part 2)",
         "url": "https://www.youtube.com/watch?v=4D9R2WIKr-A",
         "provider": "Fábio A. Nascimento (EEG Talk; educational series on ACNS 2021 terminology)",
-        "durationSeconds": 1101.0,
+        "durationSeconds": 1101,
         "sourceUrl": "https://www.youtube.com/watch?v=4D9R2WIKr-A",
         "accessVerified": true
       },
@@ -5439,7 +5502,7 @@
         "title": "EEG Talk - ACNS Critical Care EEG Terminology 2021 (Part 3)",
         "url": "https://www.youtube.com/watch?v=-R5yUX7p_j4",
         "provider": "Fábio A. Nascimento (EEG Talk; educational series on ACNS 2021 terminology)",
-        "durationSeconds": 395.0,
+        "durationSeconds": 395,
         "sourceUrl": "https://www.youtube.com/watch?v=-R5yUX7p_j4",
         "accessVerified": true
       },
@@ -5448,7 +5511,7 @@
         "title": "EEG Talk - ACNS Critical Care EEG Terminology 2021 (Part 4)",
         "url": "https://www.youtube.com/watch?v=OknS2ObD9-g",
         "provider": "Fábio A. Nascimento (EEG Talk; educational series on ACNS 2021 terminology)",
-        "durationSeconds": 819.0,
+        "durationSeconds": 819,
         "sourceUrl": "https://www.youtube.com/watch?v=OknS2ObD9-g",
         "accessVerified": true
       },
@@ -5457,7 +5520,7 @@
         "title": "EEG Talk - ACNS Critical Care EEG Terminology 2021 (Part 5)",
         "url": "https://www.youtube.com/watch?v=2c7ABQRkn3s",
         "provider": "Fábio A. Nascimento (EEG Talk; educational series on ACNS 2021 terminology)",
-        "durationSeconds": 515.0,
+        "durationSeconds": 515,
         "sourceUrl": "https://www.youtube.com/watch?v=2c7ABQRkn3s",
         "accessVerified": true
       },
@@ -5466,7 +5529,7 @@
         "title": "A basic intro to NCS/EMG for Neurologists",
         "url": "https://www.youtube.com/watch?v=HZH95nMsVKM",
         "provider": "Neurophysiology (educational clinical neurophysiology channel; individual speaker not identified in the accessible page metadata)",
-        "durationSeconds": 2241.0,
+        "durationSeconds": 2241,
         "sourceUrl": "https://www.youtube.com/watch?v=HZH95nMsVKM",
         "accessVerified": true
       },
@@ -5475,7 +5538,7 @@
         "title": "Intraoperative Neuromonitoring with Michael Pompliano, MD on March 4, 2024",
         "url": "https://www.youtube.com/watch?v=aSf0YN7ktTY",
         "provider": "San Diego Spine Foundation (Spine Foundation Webinar Series)",
-        "durationSeconds": 2801.0,
+        "durationSeconds": 2801,
         "sourceUrl": "https://www.youtube.com/watch?v=pdg0c-L_4WY",
         "accessVerified": true
       },
@@ -5484,7 +5547,7 @@
         "title": "Persyst Grand Rounds: Alpha-Delta Ratio in EEG — Dr. Ayman Alboudi",
         "url": "https://www.youtube.com/watch?v=dvbCiQU0UKM",
         "provider": "Persyst",
-        "durationSeconds": 4352.0,
+        "durationSeconds": 4352,
         "sourceUrl": "https://www.persyst.com/grandrounds/",
         "accessVerified": true
       },
@@ -5493,7 +5556,7 @@
         "title": "Persyst Grand Rounds: Ictal and interictal insights from paired scalp EEG and intracranial recordings — Dr. Naoum Issa",
         "url": "https://www.youtube.com/watch?v=78CK73-bF9g",
         "provider": "Persyst",
-        "durationSeconds": 4626.0,
+        "durationSeconds": 4626,
         "sourceUrl": "https://www.persyst.com/grandrounds/",
         "accessVerified": true
       },
@@ -5502,7 +5565,7 @@
         "title": "Persyst Grand Rounds: BIRDs — watching in the hospital — Dr. Jiyeoun Yoo",
         "url": "https://www.youtube.com/watch?v=kVyF-m_4Al0",
         "provider": "Persyst",
-        "durationSeconds": 3431.0,
+        "durationSeconds": 3431,
         "sourceUrl": "https://www.persyst.com/grandrounds/",
         "accessVerified": true
       },
@@ -5511,7 +5574,7 @@
         "title": "Persyst Grand Rounds: The Potential of Electroencephalographic Source Imaging in Pediatric Epilepsy — Dr. Matt S. Lallas",
         "url": "https://www.youtube.com/watch?v=6VM_iyhM7Uw",
         "provider": "Persyst",
-        "durationSeconds": 4885.0,
+        "durationSeconds": 4885,
         "sourceUrl": "https://www.persyst.com/grandrounds/",
         "accessVerified": true
       },
@@ -5520,7 +5583,7 @@
         "title": "Persyst Grand Rounds: Epilepsy and Autism—The Role of EEG in Neurodevelopmental Disorders in Clinical Practice — Dr. Pilar Pichon",
         "url": "https://www.youtube.com/watch?v=MIjQFxmPBuA",
         "provider": "Persyst",
-        "durationSeconds": 3268.0,
+        "durationSeconds": 3268,
         "sourceUrl": "https://www.persyst.com/grandrounds/",
         "accessVerified": true
       },
@@ -5529,7 +5592,7 @@
         "title": "Persyst Grand Rounds: How and Why to Integrate Electrical Source Imaging into Your Practice — Dr. Susan T. Herman",
         "url": "https://www.youtube.com/watch?v=PB5PuTrv4TQ",
         "provider": "Persyst",
-        "durationSeconds": 4971.0,
+        "durationSeconds": 4971,
         "sourceUrl": "https://www.persyst.com/grandrounds/",
         "accessVerified": true
       },
@@ -5538,7 +5601,7 @@
         "title": "Persyst Grand Rounds: Intracranial EEG—Common Pitfalls and Ways to Avoid Them With Novel Biomarkers and Analysis Methods — Dr. Julia Jacobs-LeVan",
         "url": "https://www.youtube.com/watch?v=2e61jviCz9k",
         "provider": "Persyst",
-        "durationSeconds": 3536.0,
+        "durationSeconds": 3536,
         "sourceUrl": "https://www.persyst.com/grandrounds/",
         "accessVerified": true
       },
@@ -5547,7 +5610,7 @@
         "title": "Persyst Grand Rounds: Clinical Uses of Quantitative EEG Other Than Seizure Detection — Dr. Lawrence Hirsch",
         "url": "https://www.youtube.com/watch?v=lZYZfauDRIE",
         "provider": "Persyst",
-        "durationSeconds": 4441.0,
+        "durationSeconds": 4441,
         "sourceUrl": "https://www.persyst.com/grandrounds/",
         "accessVerified": true
       },
@@ -5556,7 +5619,7 @@
         "title": "Persyst Grand Rounds: EEG Use in the Intraoperative Setting — Dr. Ioannis Karakis",
         "url": "https://www.youtube.com/watch?v=wClWBHko_V4",
         "provider": "Persyst",
-        "durationSeconds": 3998.0,
+        "durationSeconds": 3998,
         "sourceUrl": "https://www.persyst.com/grandrounds/",
         "accessVerified": true
       },
@@ -5565,7 +5628,7 @@
         "title": "Persyst Grand Rounds: Tips for a Busy Pediatric Epileptologist — Dr. Douglas R. Nordli Jr.",
         "url": "https://www.youtube.com/watch?v=1J4LTlDzfGo",
         "provider": "Persyst",
-        "durationSeconds": 3905.0,
+        "durationSeconds": 3905,
         "sourceUrl": "https://www.persyst.com/grandrounds/",
         "accessVerified": true
       },
@@ -5574,7 +5637,7 @@
         "title": "Persyst Grand Rounds: Updates in Epilepsy Surgery and Neuromodulation — Dr. Ramya Raghupathi",
         "url": "https://www.youtube.com/watch?v=TL8aKshIHLY",
         "provider": "Persyst",
-        "durationSeconds": 3642.0,
+        "durationSeconds": 3642,
         "sourceUrl": "https://www.persyst.com/grandrounds/",
         "accessVerified": true
       },
@@ -5583,7 +5646,7 @@
         "title": "Persyst Grand Rounds: Theoretical and Practical Considerations for Implementing EEG Electrical Source Imaging for Epilepsy — Prof. Stefano Seri and Bryony Carr",
         "url": "https://www.youtube.com/watch?v=4RzxBFBxrqY",
         "provider": "Persyst",
-        "durationSeconds": 4930.0,
+        "durationSeconds": 4930,
         "sourceUrl": "https://www.persyst.com/grandrounds/",
         "accessVerified": true
       },
@@ -5592,7 +5655,7 @@
         "title": "Persyst Grand Rounds: Quantitative EEG in the Neonatal ICU—Current Use and New Horizons — Dr. Jennifer Keene",
         "url": "https://www.youtube.com/watch?v=HCJqcFtvxJY",
         "provider": "Persyst",
-        "durationSeconds": 3598.0,
+        "durationSeconds": 3598,
         "sourceUrl": "https://www.persyst.com/grandrounds/",
         "accessVerified": true
       },
@@ -5601,7 +5664,7 @@
         "title": "Persyst Grand Rounds: The Connection Between Computational Activity of Neural Populations and Signals Measured from Implanted Neurosurgical Patients — Dr. Kai J. Miller",
         "url": "https://www.youtube.com/watch?v=JTZrfBaowqk",
         "provider": "Persyst",
-        "durationSeconds": 4779.0,
+        "durationSeconds": 4779,
         "sourceUrl": "https://www.persyst.com/grandrounds/",
         "accessVerified": true
       },
@@ -5610,7 +5673,7 @@
         "title": "New Treatments for Refractory Epilepsy — Dr. Lawrence Hirsch (Natus Neuro)",
         "url": "https://www.youtube.com/watch?v=aa_M8I9FC_I",
         "provider": "Natus Neuro",
-        "durationSeconds": 3967.0,
+        "durationSeconds": 3967,
         "sourceUrl": "https://www.youtube.com/@natusneuro7591",
         "accessVerified": true
       },
@@ -5619,7 +5682,7 @@
         "title": "Sleep and Epilepsy Interactions — Dr. Birgit Frauscher (Natus Neuro)",
         "url": "https://www.youtube.com/watch?v=s3h5XkmRGI0",
         "provider": "Natus Neuro",
-        "durationSeconds": 3578.0,
+        "durationSeconds": 3578,
         "sourceUrl": "https://www.youtube.com/@natusneuro7591",
         "accessVerified": true
       },
@@ -5628,7 +5691,7 @@
         "title": "EEG in Epilepsy—What Every Technologist and Neurologist Should Know — Dr. Mark Quigg (Natus Neuro)",
         "url": "https://www.youtube.com/watch?v=eCBxJbMuDOc",
         "provider": "Natus Neuro",
-        "durationSeconds": 3641.0,
+        "durationSeconds": 3641,
         "sourceUrl": "https://www.youtube.com/@natusneuro7591",
         "accessVerified": true
       },
@@ -5637,7 +5700,7 @@
         "title": "Principles of Pre-surgical Evaluation in Drug Refractory Epilepsy — Prof. Louis Maillard (Natus Neuro)",
         "url": "https://www.youtube.com/watch?v=vV78mhsh0VY",
         "provider": "Natus Neuro",
-        "durationSeconds": 4478.0,
+        "durationSeconds": 4478,
         "sourceUrl": "https://www.youtube.com/@natusneuro7591",
         "accessVerified": true
       },
@@ -5646,7 +5709,7 @@
         "title": "Pediatric EMG—Strategies for Successful Intervention — Dr. Matthew Pitt (Natus Neuro)",
         "url": "https://www.youtube.com/watch?v=9YzJoGTtHkk",
         "provider": "Natus Neuro",
-        "durationSeconds": 2969.0,
+        "durationSeconds": 2969,
         "sourceUrl": "https://www.youtube.com/@natusneuro7591",
         "accessVerified": true
       },
@@ -5655,7 +5718,7 @@
         "title": "Home Video EEG Telemetry in Pediatrics — Dr. Sushma Goyal (Natus Neuro)",
         "url": "https://www.youtube.com/watch?v=nz7hYVemv_4",
         "provider": "Natus Neuro",
-        "durationSeconds": 3568.0,
+        "durationSeconds": 3568,
         "sourceUrl": "https://www.youtube.com/@natusneuro7591",
         "accessVerified": true
       },
@@ -5664,7 +5727,7 @@
         "title": "Natus PSG Webinar: Scoring Sleep Stages in Infants & Children",
         "url": "https://www.youtube.com/watch?v=-6S42Nhtwjw",
         "provider": "Natus Neuro",
-        "durationSeconds": 1695.0,
+        "durationSeconds": 1695,
         "sourceUrl": "https://www.youtube.com/@natusneuro7591",
         "accessVerified": true
       },
@@ -5673,7 +5736,7 @@
         "title": "EEG Waveforms: Building Blocks of Sleep Staging — Richard S. Rosenberg, PhD (Natus Neuro)",
         "url": "https://www.youtube.com/watch?v=ycQ3DL5TX9U",
         "provider": "Natus Neuro",
-        "durationSeconds": 4017.0,
+        "durationSeconds": 4017,
         "sourceUrl": "https://www.youtube.com/@natusneuro7591",
         "accessVerified": true
       },
@@ -5682,7 +5745,7 @@
         "title": "Quantitative EMG 3 — Dr. Sanjeev Nandedkar (Natus Neuro)",
         "url": "https://www.youtube.com/watch?v=rARqGYKiNMI",
         "provider": "Natus Neuro",
-        "durationSeconds": 3776.0,
+        "durationSeconds": 3776,
         "sourceUrl": "https://www.youtube.com/@natusneuro7591",
         "accessVerified": true
       },
@@ -5691,7 +5754,7 @@
         "title": "Natus EMG Webinar: Multi-Motor Unit Analysis",
         "url": "https://www.youtube.com/watch?v=V9B2NWi9d_Q",
         "provider": "Natus Neuro",
-        "durationSeconds": 2573.0,
+        "durationSeconds": 2573,
         "sourceUrl": "https://www.youtube.com/@natusneuro7591",
         "accessVerified": true
       },
@@ -5700,7 +5763,7 @@
         "title": "Natus EMG Webinar: Autonomic Testing Using an EMG System",
         "url": "https://www.youtube.com/watch?v=4i20-jUwXWI",
         "provider": "Natus Neuro",
-        "durationSeconds": 3157.0,
+        "durationSeconds": 3157,
         "sourceUrl": "https://www.youtube.com/@natusneuro7591",
         "accessVerified": true
       },
@@ -5709,7 +5772,7 @@
         "title": "GMNR Legacy Series: EMG Waveform Recognition Workshop — Gautam Malhotra, MD",
         "url": "https://www.youtube.com/watch?v=89g-vDkWLko",
         "provider": "Gautam Malhotra, MD (GMNR Legacy Series)",
-        "durationSeconds": 3997.0,
+        "durationSeconds": 3997,
         "sourceUrl": "https://www.youtube.com/@gautammalhotramd",
         "accessVerified": true
       },
@@ -5718,7 +5781,7 @@
         "title": "Quantifying Normal and Abnormal Needle EMG: Erik Stålberg, University Hospital, Uppsala",
         "url": "https://www.youtube.com/watch?v=XYhsczf1yeQ",
         "provider": "Cadwell",
-        "durationSeconds": 3369.0,
+        "durationSeconds": 3369,
         "sourceUrl": "https://www.youtube.com/@cadwellind",
         "accessVerified": true
       }
@@ -5916,11 +5979,11 @@
     ],
     "boardStatus": "YES — a separate ABPN Clinical Neurophysiology subspecialty certification examination exists. ABPN states that applicants must be certified in general neurology or neurology with special qualification in child neurology by the prior year, complete one year of ACGME-accredited CNP fellowship training after neurology residency, and meet the stated licensing/training requirements. The ABPN continuing-certification exam offers standard, EEG-emphasis, or EMG-emphasis options; these are not verified entry fellowship tracks or initial-exam outlines. The ABCN has a separate certification system. ABPN epilepsy certification is another separate subspecialty. Current requirements must be checked at ABPN; this independent course confers none of the eligibility conditions.",
     "boardEligibilityNotice": "No board eligibility is conferred. ABPN initial CNP certification requires board certification in general Neurology or Neurology with Special Qualification in Child Neurology, plus the required one-year ACGME-accredited CNP fellowship after residency, licensure and other current ABPN rules. MGB’s own entry requirements are a separate program admission matter. Verify with ABPN and program leadership; this independent course is not ACGME accredited, does not satisfy fellowship time, does not guarantee exam passing and is not official ABPN content.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 36.43833333333333,
     "verifiedSpecialtyHours": 33.200833333333335,
     "verifiedFoundationHours": 3.2375,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -5953,7 +6016,7 @@
       "components": "36h video target (only observed public videos count as currently verified; remaining source-cited original packages are planned), 36h readings, 12h case-reasoning, 8h assignments, 4h question review. Not residency/fellowship clinical hours."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X024_d98f7a4c.pdf",
+    "syllabusUrl": "/manus-storage/MED-X024_b4a1d666.pdf",
     "pdfIds": [
       "med-syllabus-MED-X024",
       "med-reading-22b9994658df",
@@ -5968,7 +6031,7 @@
         "title": "Multiple Sclerosis 101",
         "url": "https://www.youtube.com/watch?v=_hW9yT3hJLQ",
         "provider": "Stanford CME",
-        "durationSeconds": 2098.0,
+        "durationSeconds": 2098,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLuP5qOnCjJ-7uAOOpX55szgbPTegaQT7m",
         "accessVerified": true
       },
@@ -5977,7 +6040,7 @@
         "title": "Diagnosis of Multiple Sclerosis",
         "url": "https://www.youtube.com/watch?v=oeO09Ib3jfo",
         "provider": "Stanford CME",
-        "durationSeconds": 2321.0,
+        "durationSeconds": 2321,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLuP5qOnCjJ-7uAOOpX55szgbPTegaQT7m",
         "accessVerified": true
       },
@@ -5986,7 +6049,7 @@
         "title": "Current Concepts of Multiple Sclerosis",
         "url": "https://www.youtube.com/watch?v=B0uKW1HnzUU",
         "provider": "Stanford CME",
-        "durationSeconds": 2023.0,
+        "durationSeconds": 2023,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLuP5qOnCjJ-7uAOOpX55szgbPTegaQT7m",
         "accessVerified": true
       },
@@ -5995,7 +6058,7 @@
         "title": "Treatment of Multiple Sclerosis",
         "url": "https://www.youtube.com/watch?v=WYNy7pMIX9c",
         "provider": "Stanford CME",
-        "durationSeconds": 2196.0,
+        "durationSeconds": 2196,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLuP5qOnCjJ-7uAOOpX55szgbPTegaQT7m",
         "accessVerified": true
       },
@@ -6004,7 +6067,7 @@
         "title": "Multiple Sclerosis Lecture Series: Novel Therapies",
         "url": "https://www.youtube.com/watch?v=HjCztjQFld8",
         "provider": "Stanford CME",
-        "durationSeconds": 2366.0,
+        "durationSeconds": 2366,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLuP5qOnCjJ-7uAOOpX55szgbPTegaQT7m",
         "accessVerified": true
       },
@@ -6013,7 +6076,7 @@
         "title": "Virtual Resident Lecture Series: Multiple Sclerosis — Confidently Making a Diagnosis and Recognizing Mimics",
         "url": "https://www.youtube.com/watch?v=OEjraCKQ910",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3475.0,
+        "durationSeconds": 3475,
         "sourceUrl": "https://www.youtube.com/watch?v=OEjraCKQ910",
         "accessVerified": true
       },
@@ -6022,7 +6085,7 @@
         "title": "NMOSD Grand Rounds: Diagnosis & Differential Diagnosis of NMOSD",
         "url": "https://www.youtube.com/watch?v=sgt2l4HhnKY",
         "provider": "The Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 4857.0,
+        "durationSeconds": 4857,
         "sourceUrl": "https://www.youtube.com/watch?v=sgt2l4HhnKY",
         "accessVerified": true
       },
@@ -6031,7 +6094,7 @@
         "title": "NMOSD Grand Rounds: Emerging Principles & Practices for Imaging",
         "url": "https://www.youtube.com/watch?v=DyWF6WvlxZk",
         "provider": "The Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3227.0,
+        "durationSeconds": 3227,
         "sourceUrl": "https://www.youtube.com/watch?v=DyWF6WvlxZk",
         "accessVerified": true
       },
@@ -6040,7 +6103,7 @@
         "title": "NMOSD Grand Rounds: Evidence-Based Rescue Strategies for Relapse",
         "url": "https://www.youtube.com/watch?v=QL81HNI8qCU",
         "provider": "The Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3262.0,
+        "durationSeconds": 3262,
         "sourceUrl": "https://www.youtube.com/watch?v=QL81HNI8qCU",
         "accessVerified": true
       },
@@ -6049,7 +6112,7 @@
         "title": "Emerging Tolerization Technologies & Clinical Trials: NMOSD Grand Rounds",
         "url": "https://www.youtube.com/watch?v=ZEm5VxsyA-s",
         "provider": "The Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3483.0,
+        "durationSeconds": 3483,
         "sourceUrl": "https://www.youtube.com/watch?v=ZEm5VxsyA-s",
         "accessVerified": true
       },
@@ -6058,7 +6121,7 @@
         "title": "NMOSD Grand Rounds: Evaluating & Optimizing Patient Visual Health",
         "url": "https://www.youtube.com/watch?v=5D48wuWHnjc",
         "provider": "The Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3679.0,
+        "durationSeconds": 3679,
         "sourceUrl": "https://www.youtube.com/watch?v=5D48wuWHnjc",
         "accessVerified": true
       },
@@ -6067,7 +6130,7 @@
         "title": "NMOSD Grand Rounds: Pathogenesis & Immunologic Targets",
         "url": "https://www.youtube.com/watch?v=SWVBBFXq3Kw",
         "provider": "The Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3903.0,
+        "durationSeconds": 3903,
         "sourceUrl": "https://www.youtube.com/watch?v=SWVBBFXq3Kw",
         "accessVerified": true
       },
@@ -6076,7 +6139,7 @@
         "title": "NMOSD Grand Rounds: Toward Harmonized Relapse & Severity Adjudication",
         "url": "https://www.youtube.com/watch?v=Q0Z6VjPk1jA",
         "provider": "The Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3179.0,
+        "durationSeconds": 3179,
         "sourceUrl": "https://www.youtube.com/watch?v=Q0Z6VjPk1jA",
         "accessVerified": true
       },
@@ -6085,7 +6148,7 @@
         "title": "Multiple Sclerosis: From Bathtubs to B-cell Therapies - HHS Medical Grand Rounds",
         "url": "https://www.youtube.com/watch?v=2O7g88Cmkjw",
         "provider": "McMaster University Department of Medicine",
-        "durationSeconds": 3142.0,
+        "durationSeconds": 3142,
         "sourceUrl": "https://www.youtube.com/watch?v=2O7g88Cmkjw",
         "accessVerified": true
       },
@@ -6094,8 +6157,17 @@
         "title": "Multiple Sclerosis Update 2025",
         "url": "https://www.youtube.com/watch?v=8PpR_TkPrW0",
         "provider": "University of Washington Department of Neurology",
-        "durationSeconds": 3447.0,
+        "durationSeconds": 3447,
         "sourceUrl": "https://neurology.uw.edu/2025/07/31/multiple-sclerosis-update-2025/",
+        "accessVerified": true
+      },
+      {
+        "id": "DUKE-NEURO-AE-2023",
+        "title": "Duke Neurology Grand Rounds, August 30: Chris Eckstein, MD",
+        "url": "https://www.youtube.com/watch?v=9XBeRjzwxBI",
+        "provider": "Duke Neurology",
+        "durationSeconds": 3630,
+        "sourceUrl": "https://www.youtube.com/watch?v=9XBeRjzwxBI",
         "accessVerified": true
       }
     ],
@@ -6221,7 +6293,8 @@
         "lectureIds": [
           "STAN-MS-CONCEPTS",
           "AAN-MS-DX-MIMICS",
-          "GJCF-NMOSD-DX"
+          "GJCF-NMOSD-DX",
+          "DUKE-NEURO-AE-2023"
         ]
       },
       {
@@ -6253,11 +6326,11 @@
     ],
     "boardStatus": "No separate MS/Neuroimmunology board exam or certification identified on the official ABPN initial-certification subspecialty list and UCNS exam lists checked on 2026-10-07. ABPN lists 11 neurologic subspecialty exams and does not include MS/Neuroimmunology; UCNS also omits it. This is a status finding, not a claim about every employer credential or future pathway.",
     "boardEligibilityNotice": "MGB lists completion of an accredited neurology residency as a fellowship prerequisite. The AAN consensus curriculum describes neurology residency and ABPN neurology board eligibility/certification as background training. Those requirements belong to actual GME/board pathways; this independent course grants no eligibility, accreditation or certification. Confirm current rules with ABPN and the programme.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 12.960555555555555,
-    "verifiedSpecialtyHours": 12.960555555555555,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 23.039444444444445,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 13.96888888888889,
+    "verifiedSpecialtyHours": 13.96888888888889,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 22.03111111111111,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

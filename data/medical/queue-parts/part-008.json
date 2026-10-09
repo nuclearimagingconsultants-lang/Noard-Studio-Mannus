@@ -287,9 +287,9 @@
     ],
     "boardStatus": "Distinct ABMGG physician subspecialty certification exam exists. ABMGG’s official 2026 Dates & Fees page states Clinical/Medical Biochemical Genetics is offered during the 2027 examination cycle. The 2025 ABMGG biochemical genetics blueprint is the source for the 2026 examination-cycle content. As of 2026-10-07, the exact board exam label in the current board schedule is “Clinical/Medical Biochemical Genetics”; ABMGG pathway/specialty pages identify Medical Biochemical Genetics as the physician subspecialty and Clinical Biochemical Genetics as a separate laboratory specialty.",
     "boardEligibilityNotice": "ABMGG says Medical Biochemical Genetics requires one year of accredited subspecialty training and is available only to physicians who completed a clinical genetics and genomics residency; this course confers no eligibility. Confirm current individual credentials and policy with ABMGG. Clinical Biochemical Genetics is a distinct laboratory specialty, not a synonym for this physician fellowship.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 18.51044388888889,
-    "verifiedSpecialtyHours": 0.0,
+    "verifiedSpecialtyHours": 0,
     "verifiedFoundationHours": 18.51044388888889,
     "hoursGap": 17.48955611111111,
     "clinicalTrainingNotReplaced": true,
@@ -320,7 +320,7 @@
       "status": "transparent study plan; not an observed duration or credential."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-086_6426839c.pdf",
+    "syllabusUrl": "/manus-storage/MED-086_d35bbc17.pdf",
     "pdfIds": [
       "med-syllabus-MED-086",
       "med-reading-8ae1a8ead93b",
@@ -431,6 +431,15 @@
         "durationSeconds": null,
         "sourceUrl": "https://www.youtube.com/watch?v=KJOww_mIhc0",
         "accessVerified": false
+      },
+      {
+        "id": "MED-086-EXT-001",
+        "title": "ISN-KDIGO Webinar: Management of the Failing Kidney Allograft",
+        "url": "https://www.youtube.com/watch?v=b6NN0cwRVoA",
+        "provider": "KDIGO",
+        "durationSeconds": 4464,
+        "sourceUrl": "https://www.youtube.com/watch?v=b6NN0cwRVoA",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -516,7 +525,9 @@
         "number": 11,
         "text": "Kidney transplantation and allograft dysfunction",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-086-EXT-001"
+        ]
       },
       {
         "number": 12,
@@ -534,11 +545,11 @@
     ],
     "boardStatus": "Nephrology is a physician subspecialty with a distinct ABIM certification examination. The ABIM exam blueprint (January 2026) reports 10 domains totaling 100%. Certification is not automatic: ABIM requires prior ABIM internal medicine certification, qualifying accredited fellowship training, clinical competence/procedural requirements, unrestricted license and exam. No separate ABIM/ABMS transplant-nephrology certification examination was identified in official board lists checked 2026-10-07; transplant nephrology is an institution-specific and separately accredited clinical fellowship pathway, not a new board assumed here.",
     "boardEligibilityNotice": "Completion of this independent self-study grants no ABIM/ABMS board eligibility, examination admission, certification or licensure. ABIM policies and individual eligibility change; only ABIM determines eligibility. The Hopkins program is listed as ACGME-accredited and two years; ABIM requires 24 months of qualifying training and clinical/procedural competencies for the current cohorts described in its policy.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 0.0,
-    "verifiedSpecialtyHours": 0.0,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 36.0,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 1.24,
+    "verifiedSpecialtyHours": 1.24,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 34.76,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -578,7 +589,7 @@
       "caveat": "Only 8.037 hours of specialty-specific ready recordings are verified in this evidence set; planned original clips do not yet exist and are excluded. The 130 hours is a future course study plan, not verified completed activity."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-087_8da8899a.pdf",
+    "syllabusUrl": "/manus-storage/MED-087_cfdfa96a.pdf",
     "pdfIds": [
       "med-syllabus-MED-087",
       "med-reading-347e7d086ad3",
@@ -593,7 +604,7 @@
         "title": "Management of Renal Transplant Recipients",
         "url": "https://www.youtube.com/watch?v=2q7Mu4ByEN8",
         "provider": "MedStar Georgetown Department of Medicine",
-        "durationSeconds": 3167.0,
+        "durationSeconds": 3167,
         "sourceUrl": "https://www.youtube.com/watch?v=2q7Mu4ByEN8",
         "accessVerified": true
       },
@@ -602,7 +613,7 @@
         "title": "Antibody-Mediated Rejection of the Kidney Allograft: A Practical Update",
         "url": "https://www.youtube.com/watch?v=xm8oxCbb7dg",
         "provider": "GlomCon Foundation",
-        "durationSeconds": 3687.0,
+        "durationSeconds": 3687,
         "sourceUrl": "https://www.youtube.com/watch?v=xm8oxCbb7dg",
         "accessVerified": true
       },
@@ -611,7 +622,7 @@
         "title": "The Virtual Crossmatch — UCSF Kidney Transplant Program Update in Transplantation (2014)",
         "url": "https://www.youtube.com/watch?v=KUcx7iFTIZg",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 2400.0,
+        "durationSeconds": 2400,
         "sourceUrl": "https://www.youtube.com/watch?v=KUcx7iFTIZg",
         "accessVerified": true
       },
@@ -620,7 +631,7 @@
         "title": "Transplant Renal Pathology Teaching Series, Web Episode 009",
         "url": "https://www.youtube.com/watch?v=m8yL0LACZNE",
         "provider": "Washington University in St. Louis Nephrology Web Series",
-        "durationSeconds": 1780.0,
+        "durationSeconds": 1780,
         "sourceUrl": "https://www.youtube.com/watch?v=m8yL0LACZNE",
         "accessVerified": true
       },
@@ -629,7 +640,7 @@
         "title": "Chronic rejection after kidney transplantation: Is there hope?",
         "url": "https://www.youtube.com/watch?v=kFj5Sf-C-pI",
         "provider": "University of Wisconsin Department of Medicine",
-        "durationSeconds": 3021.0,
+        "durationSeconds": 3021,
         "sourceUrl": "https://www.youtube.com/watch?v=kFj5Sf-C-pI",
         "accessVerified": true
       },
@@ -638,7 +649,7 @@
         "title": "Living Kidney Donation: Assessment of Risk — BCKD (2014)",
         "url": "https://www.youtube.com/watch?v=KGLdjnczJ7E",
         "provider": "BC Renal",
-        "durationSeconds": 3875.0,
+        "durationSeconds": 3875,
         "sourceUrl": "https://www.youtube.com/watch?v=KGLdjnczJ7E",
         "accessVerified": true
       },
@@ -647,7 +658,7 @@
         "title": "Kidney Function in Living Kidney Donor Candidates: How to Measure, and How Much is Enough?",
         "url": "https://www.youtube.com/watch?v=UqYYuCDCm_M",
         "provider": "University of Wisconsin Department of Medicine",
-        "durationSeconds": 3506.0,
+        "durationSeconds": 3506,
         "sourceUrl": "https://www.youtube.com/watch?v=UqYYuCDCm_M",
         "accessVerified": true
       },
@@ -656,7 +667,7 @@
         "title": "Post-Kidney Transplant Infections as Obstacles to Graft Survival",
         "url": "https://www.youtube.com/watch?v=T3KfddXEMmE",
         "provider": "University of Wisconsin Department of Medicine",
-        "durationSeconds": 3565.0,
+        "durationSeconds": 3565,
         "sourceUrl": "https://www.youtube.com/watch?v=T3KfddXEMmE",
         "accessVerified": true
       },
@@ -665,7 +676,7 @@
         "title": "Updates in BK Virus and CMV Treatment",
         "url": "https://www.youtube.com/watch?v=5CoiTOiNWxo",
         "provider": "American Society of Transplantation",
-        "durationSeconds": 3933.0,
+        "durationSeconds": 3933,
         "sourceUrl": "https://www.youtube.com/watch?v=5CoiTOiNWxo",
         "accessVerified": true
       },
@@ -674,7 +685,7 @@
         "title": "Summer 2023: Updates in Transplantation",
         "url": "https://www.youtube.com/watch?v=JDNV3vxfPOA",
         "provider": "Massachusetts General Hospital",
-        "durationSeconds": 3948.0,
+        "durationSeconds": 3948,
         "sourceUrl": "https://www.youtube.com/watch?v=JDNV3vxfPOA",
         "accessVerified": true
       },
@@ -692,7 +703,7 @@
         "title": "Virtual Crossmatches in Real Life—New CMS Guidelines",
         "url": "https://www.youtube.com/watch?v=8hUqU-qTR7Q",
         "provider": "American Society of Transplantation (AST), Transplant Diagnostics Community of Practice; presenters from University of Wisconsin, Indiana University and UPMC",
-        "durationSeconds": 3685.0,
+        "durationSeconds": 3685,
         "sourceUrl": "https://www.youtube.com/watch?v=8hUqU-qTR7Q",
         "accessVerified": true
       },
@@ -701,8 +712,26 @@
         "title": "Evolving Biomarkers in Kidney Transplantation",
         "url": "https://www.youtube.com/watch?v=MFnKf7EpU4s",
         "provider": "American Society of Transplantation and Indian Society of Organ Transplantation",
-        "durationSeconds": 3755.0,
+        "durationSeconds": 3755,
         "sourceUrl": "https://www.youtube.com/watch?v=MFnKf7EpU4s",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-087-EXT-20261009-001",
+        "title": "Current Status of Pancreas Versus Islet Transplantation",
+        "url": "https://www.youtube.com/watch?v=KRftdVbE4Cw",
+        "provider": "University of California Television (UCTV)",
+        "durationSeconds": 4657,
+        "sourceUrl": "https://www.uctv.tv/shows/Current-Status-of-Pancreas-Versus-Islet-Transplantation-35236",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-087-EXT-20261009-002",
+        "title": "UW Urology Grand Rounds: Urological Aspects of Pediatric Kidney Transplantation",
+        "url": "https://www.youtube.com/watch?v=grBCTzHdV8E",
+        "provider": "University of Wisconsin Department of Urology",
+        "durationSeconds": 2835,
+        "sourceUrl": "https://www.youtube.com/watch?v=grBCTzHdV8E",
         "accessVerified": true
       }
     ],
@@ -799,7 +828,9 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "YJDNV3vxfPOA",
-          "YT3KfddXEMmE"
+          "YT3KfddXEMmE",
+          "MED-087-EXT-20261009-001",
+          "MED-087-EXT-20261009-002"
         ]
       },
       {
@@ -833,11 +864,11 @@
       "blueprint": "No separate transplant-nephrology exam blueprint identified. Units map to published ACGME transplant-nephrology competencies and adjacent general ABIM Nephrology concepts; this is not an official transplant board blueprint."
     },
     "boardEligibilityNotice": "Hopkins states applicants must be board-certified or board-eligible in Internal Medicine and Nephrology by ABIM (or equivalent for an international scholar) and should have completed or be completing ACGME general nephrology fellowship or equivalent. ABIM eligibility is governed by current ABIM policy and the training program, not this course. No independent educational course confers board eligibility.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 10.10388888888889,
-    "verifiedSpecialtyHours": 10.10388888888889,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 25.89611111111111,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 12.185,
+    "verifiedSpecialtyHours": 12.185,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 23.814999999999998,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -907,7 +938,7 @@
         "title": "Virtual Resident Education Lecture Series: What is Papilledema? - American Academy of Neurology",
         "url": "https://www.youtube.com/watch?v=PPot-kiPw2k",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3574.0,
+        "durationSeconds": 3574,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -916,7 +947,7 @@
         "title": "Virtual Education Lecture Series: How to be a Cognitive Neurology Clinician",
         "url": "https://www.youtube.com/watch?v=Mzw8v2DNDzI",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3642.0,
+        "durationSeconds": 3642,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -925,7 +956,7 @@
         "title": "Virtual Education Lecture Series: Cerebrovascular Events in Pregnancy",
         "url": "https://www.youtube.com/watch?v=IMeV3Tqu0wE",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 4001.0,
+        "durationSeconds": 4001,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -934,7 +965,7 @@
         "title": "Virtual Resident Education Lecture Series: Autonomic Disorders - American Academy of Neurology",
         "url": "https://www.youtube.com/watch?v=HIBU__WGakU",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3619.0,
+        "durationSeconds": 3619,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -943,7 +974,7 @@
         "title": "Virtual Resident Education Lecture Series: BPPV: Mechanisms, Myths, and Management",
         "url": "https://www.youtube.com/watch?v=UUpcNh56kBc",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3513.0,
+        "durationSeconds": 3513,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -952,7 +983,7 @@
         "title": "Virtual Resident Education Lecture Series: Headache Medicine - American Academy of Neurology",
         "url": "https://www.youtube.com/watch?v=a332htjTrtk",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3231.0,
+        "durationSeconds": 3231,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -961,7 +992,7 @@
         "title": "Virtual Resident Education Lecture Series : Sleep Medicine - American Academy of Neurology",
         "url": "https://www.youtube.com/watch?v=5roTRxJ9uJE",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3720.0,
+        "durationSeconds": 3720,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -970,7 +1001,7 @@
         "title": "Virtual Resident Education Lecture Series: Neuroinfectious Diseases - American Academy of Neurology",
         "url": "https://www.youtube.com/watch?v=fIsxfNKZqoQ",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3675.0,
+        "durationSeconds": 3675,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -979,7 +1010,7 @@
         "title": "Virtual Resident Education Lecture Series: Neurogenetics",
         "url": "https://www.youtube.com/watch?v=CO4_4P9cTgA",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3576.0,
+        "durationSeconds": 3576,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -988,7 +1019,7 @@
         "title": "Virtual Resident Education Lecture Series: Behavioral Neurology and Neuropsychiatry",
         "url": "https://www.youtube.com/watch?v=oaNwCpiYBRo",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3751.0,
+        "durationSeconds": 3751,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -997,7 +1028,7 @@
         "title": "Virtual Resident Lecture Series: Movement Disorder Emergencies - American Academy of Neurology",
         "url": "https://www.youtube.com/watch?v=z0EhEi2Ow7k",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3570.0,
+        "durationSeconds": 3570,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1006,7 +1037,7 @@
         "title": "VRELS: Brain Tumor Management for the Neurologist - American Academy of Neurology",
         "url": "https://www.youtube.com/watch?v=TTf_757_gC0",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3730.0,
+        "durationSeconds": 3730,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1015,7 +1046,7 @@
         "title": "VRELS: Neurocritical Care's Greatest Hits - American Academy of Neurology",
         "url": "https://www.youtube.com/watch?v=R0hfF7wXC-8",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 4264.0,
+        "durationSeconds": 4264,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1024,7 +1055,7 @@
         "title": "Virtual Resident Lecture Series: Unmasking Parkinson's Medications - American Academy of Neurology",
         "url": "https://www.youtube.com/watch?v=1YpnypeJHMo",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3661.0,
+        "durationSeconds": 3661,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1033,7 +1064,7 @@
         "title": "Virtual Resident Lecture Series: Multiple Sclerosis - American Academy of Neurology",
         "url": "https://www.youtube.com/watch?v=OEjraCKQ910",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3476.0,
+        "durationSeconds": 3476,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1042,7 +1073,7 @@
         "title": "Effective Sleep History Taking: Techniques and Importance for Optimizing Patient Care - AAN",
         "url": "https://www.youtube.com/watch?v=A9524fG4NZE",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3478.0,
+        "durationSeconds": 3478,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1051,7 +1082,7 @@
         "title": "Virtual Resident Lecture Series: ALS Palliative Care - American Academy of Neurology",
         "url": "https://www.youtube.com/watch?v=TSdVyzBABuM",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3587.0,
+        "durationSeconds": 3587,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1060,7 +1091,7 @@
         "title": "Virtual Resident Lecture Series: Vestibular Causes of Balance Dysfunction - AAN",
         "url": "https://www.youtube.com/watch?v=7SmdieNqaO0",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3324.0,
+        "durationSeconds": 3324,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1069,7 +1100,7 @@
         "title": "Virtual Resident Lecture Series: Neuroborreliosis and Neurosyphilis - American Academy of Neurology",
         "url": "https://www.youtube.com/watch?v=ZToRuNNe-QQ",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3658.0,
+        "durationSeconds": 3658,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1078,7 +1109,7 @@
         "title": "Interventions for Carotid Stenosis: Where Do We Stand in 2024? - American Academy of Neurology",
         "url": "https://www.youtube.com/watch?v=E9ktv4o-U6Y",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3416.0,
+        "durationSeconds": 3416,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1087,7 +1118,7 @@
         "title": "Virtual Resident Lecture Series: Neurological Health Among Transgender People and Intersex People",
         "url": "https://www.youtube.com/watch?v=Xm_08LbN8W4",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3267.0,
+        "durationSeconds": 3267,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1096,7 +1127,7 @@
         "title": "Virtual Resident Lecture Series: AQP4 Positive NMOSD - American Academy of Neurology",
         "url": "https://www.youtube.com/watch?v=1_VhQmZ7kQU",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3191.0,
+        "durationSeconds": 3191,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1105,7 +1136,7 @@
         "title": "Virtual Resident Lecture Series: A Clinical Approach to Peripheral Neurology",
         "url": "https://www.youtube.com/watch?v=t7gkQOkrsJs",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3383.0,
+        "durationSeconds": 3383,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1114,7 +1145,7 @@
         "title": "Virtual Resident Lecture Series: Women's Neurology: A Subspecialty for Half the Population",
         "url": "https://www.youtube.com/watch?v=6kkO2QvxohQ",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3029.0,
+        "durationSeconds": 3029,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1123,7 +1154,7 @@
         "title": "Virtual Resident Lecture Series: Intro to integrative Medicine with a Focus on Mind-body Medicine",
         "url": "https://www.youtube.com/watch?v=zadiBHytpG4",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3814.0,
+        "durationSeconds": 3814,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLy-bkSSUuzAf7WK41tHTEWIxhYXNTF_b-",
         "accessVerified": true
       },
@@ -1132,7 +1163,7 @@
         "title": "How to perform the Neurologic Screening Examination - Part 1 of 2",
         "url": "https://www.youtube.com/watch?v=bMuOqlmf8bo",
         "provider": "Duke Neurology",
-        "durationSeconds": 1262.0,
+        "durationSeconds": 1262,
         "sourceUrl": "https://www.youtube.com/watch?v=bMuOqlmf8bo",
         "accessVerified": true
       },
@@ -1141,7 +1172,7 @@
         "title": "How to perform the Neurologic Screening Examination - Part 2 of 2",
         "url": "https://www.youtube.com/watch?v=PpP16YS02p4",
         "provider": "Duke Neurology",
-        "durationSeconds": 141.0,
+        "durationSeconds": 141,
         "sourceUrl": "https://www.youtube.com/watch?v=PpP16YS02p4",
         "accessVerified": true
       },
@@ -1150,7 +1181,7 @@
         "title": "Seizures and Epilepsies (2023)",
         "url": "https://www.youtube.com/watch?v=JRG66FoUSsc",
         "provider": "The Neurophile (by Rutgers RWJMS Neurology)",
-        "durationSeconds": 5431.0,
+        "durationSeconds": 5431,
         "sourceUrl": "https://www.youtube.com/watch?v=JRG66FoUSsc",
         "accessVerified": true
       },
@@ -1159,7 +1190,7 @@
         "title": "An Overview of Nerve Conduction Studies and Electromyography (Feat. Dr. Bucelli)",
         "url": "https://www.youtube.com/watch?v=XTQp66Fcf34",
         "provider": "WUSTL Learn Surgery",
-        "durationSeconds": 3039.0,
+        "durationSeconds": 3039,
         "sourceUrl": "https://www.youtube.com/watch?v=XTQp66Fcf34",
         "accessVerified": true
       },
@@ -1168,7 +1199,7 @@
         "title": "Localization of Peripheral Nervous System Lesions",
         "url": "https://www.youtube.com/watch?v=5hc4LY6qeiA",
         "provider": "The Neurophile (by Rutgers RWJMS Neurology)",
-        "durationSeconds": 4534.0,
+        "durationSeconds": 4534,
         "sourceUrl": "https://www.youtube.com/watch?v=5hc4LY6qeiA",
         "accessVerified": true
       },
@@ -1177,7 +1208,7 @@
         "title": "Introduction to Ischemic and Hemorrhagic Stroke (2025)",
         "url": "https://www.youtube.com/watch?v=mbnHMZn_vfs",
         "provider": "The Neurophile (by Rutgers RWJMS Neurology)",
-        "durationSeconds": 7121.0,
+        "durationSeconds": 7121,
         "sourceUrl": "https://www.youtube.com/watch?v=LQ80snVuELs",
         "accessVerified": true
       },
@@ -1186,7 +1217,7 @@
         "title": "External Ventricular Drainage and Intracranial Pressure Monitoring",
         "url": "https://www.youtube.com/watch?v=6vnU02PKkEs",
         "provider": "The Neurophile (by Rutgers RWJMS Neurology)",
-        "durationSeconds": 3461.0,
+        "durationSeconds": 3461,
         "sourceUrl": "https://www.youtube.com/watch?v=6vnU02PKkEs",
         "accessVerified": true
       },
@@ -1195,7 +1226,7 @@
         "title": "Thunderclap Headache",
         "url": "https://www.youtube.com/watch?v=vrs6TBr-Hzc",
         "provider": "The Neurophile (by Rutgers RWJMS Neurology)",
-        "durationSeconds": 3779.0,
+        "durationSeconds": 3779,
         "sourceUrl": "https://www.youtube.com/watch?v=5hc4LY6qeiA",
         "accessVerified": true
       },
@@ -1204,7 +1235,7 @@
         "title": "Myelopathies",
         "url": "https://www.youtube.com/watch?v=qozjKqTz9Z0",
         "provider": "The Neurophile (by Rutgers RWJMS Neurology)",
-        "durationSeconds": 4703.0,
+        "durationSeconds": 4703,
         "sourceUrl": "https://www.youtube.com/watch?v=LQ80snVuELs",
         "accessVerified": true
       },
@@ -1213,7 +1244,7 @@
         "title": "Approach To Coma",
         "url": "https://www.youtube.com/watch?v=mhTUbY1EyiU",
         "provider": "The Neurophile (by Rutgers RWJMS Neurology)",
-        "durationSeconds": 5061.0,
+        "durationSeconds": 5061,
         "sourceUrl": "https://www.youtube.com/watch?v=LQ80snVuELs",
         "accessVerified": true
       },
@@ -1222,7 +1253,7 @@
         "title": "Approach to Acute Dizziness",
         "url": "https://www.youtube.com/watch?v=6MH1gAuJXhE",
         "provider": "The Neurophile (by Rutgers RWJMS Neurology)",
-        "durationSeconds": 3070.0,
+        "durationSeconds": 3070,
         "sourceUrl": "https://www.youtube.com/watch?v=5hc4LY6qeiA",
         "accessVerified": true
       },
@@ -1231,7 +1262,7 @@
         "title": "CT Perfusion In Acute Ischemic Stroke",
         "url": "https://www.youtube.com/watch?v=LQ80snVuELs",
         "provider": "The Neurophile (by Rutgers RWJMS Neurology)",
-        "durationSeconds": 3180.0,
+        "durationSeconds": 3180,
         "sourceUrl": "https://www.youtube.com/watch?v=LQ80snVuELs",
         "accessVerified": true
       },
@@ -1240,7 +1271,7 @@
         "title": "Hydrocephalus and the Disorders of CSF Circulation",
         "url": "https://www.youtube.com/watch?v=tNvOz1wzw-k",
         "provider": "The Neurophile (by Rutgers RWJMS Neurology)",
-        "durationSeconds": 2152.0,
+        "durationSeconds": 2152,
         "sourceUrl": "https://www.youtube.com/watch?v=LQ80snVuELs",
         "accessVerified": true
       },
@@ -1249,7 +1280,7 @@
         "title": "Mastering Stroke Codes",
         "url": "https://www.youtube.com/watch?v=mv_F0HSwLyU",
         "provider": "The Neurophile (by Rutgers RWJMS Neurology)",
-        "durationSeconds": 2763.0,
+        "durationSeconds": 2763,
         "sourceUrl": "https://www.youtube.com/watch?v=LQ80snVuELs",
         "accessVerified": true
       }
@@ -1386,11 +1417,11 @@
     ],
     "boardStatus": "A distinct ABPN initial specialty certification examination exists. The named Johns Hopkins program page states ACGME Accredited. ABPN lists neurology subspecialty certificates separately; this course covers general adult neurology, not a fellowship certificate. The December 2025 initial certification outline specifies 80% adult and 20% child neurology items; this adult-only course does not cover the child portion and is not comprehensive preparation for the full examination. This track is not Child Neurology, Psychiatry, a combined Psychiatry-Neurology program, a research postdoctoral position, or a generic directory category.",
     "boardEligibilityNotice": "Self-study confers no board eligibility. ABPN currently requires qualifying medical degree, applicable training (normally 12 months PGY-1 followed by 36 months in an ACGME-accredited neurology program), completion of clinical-skills evaluations, an active full unrestricted license and board application; individual pathways/policies change and must be checked with ABPN. The initial exam includes child-neurology content beyond this adult course.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 38.56861111111111,
     "verifiedSpecialtyHours": 37.509166666666665,
     "verifiedFoundationHours": 1.0594444444444444,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1414,8 +1445,8 @@
     "title": "Behavioral Neurology and Neuropsychiatry Fellowship",
     "level": "Clinical physician fellowship (independent online self-study adaptation; not an accredited fellowship)-aligned independent study",
     "studyHours": null,
-    "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-089_ee03d596.pdf",
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
+    "syllabusUrl": "/manus-storage/MED-089_fee88688.pdf",
     "pdfIds": [
       "med-syllabus-MED-089",
       "med-reading-100f46d98e60",
@@ -1428,7 +1459,7 @@
         "title": "Virtual Resident Education Lecture Series: Behavioral Neurology and Neuropsychiatry",
         "url": "https://www.youtube.com/watch?v=oaNwCpiYBRo",
         "provider": "American Academy of Neurology / Carolyn Fredericks, MD",
-        "durationSeconds": 3751.0,
+        "durationSeconds": 3751,
         "sourceUrl": "https://www.youtube.com/watch?v=oaNwCpiYBRo",
         "accessVerified": true
       },
@@ -1437,7 +1468,7 @@
         "title": "Virtual Education Lecture Series: How to be a Cognitive Neurology Clinician",
         "url": "https://www.youtube.com/watch?v=Mzw8v2DNDzI",
         "provider": "American Academy of Neurology / Joel Shenker, MD, PhD",
-        "durationSeconds": 3642.0,
+        "durationSeconds": 3642,
         "sourceUrl": "https://www.youtube.com/watch?v=Mzw8v2DNDzI",
         "accessVerified": true
       },
@@ -1446,7 +1477,7 @@
         "title": "UCSF Psychiatry Grand Rounds: Frontotemporal Dementia",
         "url": "https://www.youtube.com/watch?v=EPyjPF4szeU",
         "provider": "UCSF Department of Psychiatry and Behavioral Sciences / Bruce Miller, MD; Virginia Sturm, PhD",
-        "durationSeconds": 5231.0,
+        "durationSeconds": 5231,
         "sourceUrl": "https://www.youtube.com/watch?v=EPyjPF4szeU",
         "accessVerified": true
       },
@@ -1455,7 +1486,7 @@
         "title": "Johns Hopkins Psychiatry Grand Rounds: Three Hot Topics in Alzheimer’s Disease",
         "url": "https://www.youtube.com/watch?v=dMPnyl9NO3w",
         "provider": "Johns Hopkins Psychiatry and Behavioral Sciences",
-        "durationSeconds": 2409.0,
+        "durationSeconds": 2409,
         "sourceUrl": "https://www.youtube.com/watch?v=dMPnyl9NO3w",
         "accessVerified": true
       },
@@ -1464,7 +1495,7 @@
         "title": "Dementia Assessment & Care 11/15/17",
         "url": "https://www.youtube.com/watch?v=loGKUptsRR4",
         "provider": "Mary Greeley Medical Center / Selden Spencer, MD (Neurology, McFarland Clinic)",
-        "durationSeconds": 2829.0,
+        "durationSeconds": 2829,
         "sourceUrl": "https://www.youtube.com/watch?v=loGKUptsRR4",
         "accessVerified": true
       },
@@ -1473,7 +1504,7 @@
         "title": "Approach to the Patient with Suspected Dementia",
         "url": "https://www.youtube.com/watch?v=kZymNUPNBNM",
         "provider": "University of Washington Department of Neurology / Valerie Olson, MD, PhD",
-        "durationSeconds": 3685.0,
+        "durationSeconds": 3685,
         "sourceUrl": "https://www.youtube.com/watch?v=kZymNUPNBNM",
         "accessVerified": true
       },
@@ -1482,7 +1513,7 @@
         "title": "Neuropsychology in Dementia",
         "url": "https://www.youtube.com/watch?v=CAoGmlTQIx8",
         "provider": "University of Washington Department of Neurology / Vaishali Phatak, MD, ABPP",
-        "durationSeconds": 1977.0,
+        "durationSeconds": 1977,
         "sourceUrl": "https://www.youtube.com/watch?v=CAoGmlTQIx8",
         "accessVerified": true
       },
@@ -1491,7 +1522,7 @@
         "title": "Introduction to Lewy Body Dementia",
         "url": "https://www.youtube.com/watch?v=64jSqnn6tNY",
         "provider": "KnowNeuropsychology / Melissa J. Armstrong, MD, MSc, FAAN (University of Florida)",
-        "durationSeconds": 3732.0,
+        "durationSeconds": 3732,
         "sourceUrl": "https://knowneuropsych.org/lewy-body-dementia/",
         "accessVerified": true
       },
@@ -1500,7 +1531,7 @@
         "title": "The Journey from MCI to Dementia: Assessing Impairment Across the Cognitive Spectrum",
         "url": "https://www.youtube.com/watch?v=ydKE4IJBVkY",
         "provider": "KnowNeuropsychology / Naudia Moorley, PsyD (Banner Sun Health Research Institute)",
-        "durationSeconds": 3655.0,
+        "durationSeconds": 3655,
         "sourceUrl": "https://knowneuropsych.org/mci-to-dementia/",
         "accessVerified": true
       },
@@ -1509,7 +1540,7 @@
         "title": "Frontotemporal Dementia Phenotypes: Neuroanatomy Behind the Symptoms",
         "url": "https://www.youtube.com/watch?v=Uvk9eWnZ31U",
         "provider": "KnowNeuropsychology / Christopher Morrow, MD, MHS (Johns Hopkins School of Medicine)",
-        "durationSeconds": 3629.0,
+        "durationSeconds": 3629,
         "sourceUrl": "https://knowneuropsych.org/ftd-phenotypes/",
         "accessVerified": true
       },
@@ -1518,7 +1549,7 @@
         "title": "Neuroimaging and Cognitive Features of CADASIL",
         "url": "https://www.youtube.com/watch?v=78HlAsDZrzA",
         "provider": "KnowNeuropsychology / Dorothee Schoemaker, PhD",
-        "durationSeconds": 2990.0,
+        "durationSeconds": 2990,
         "sourceUrl": "https://knowneuropsych.org/cadasil/",
         "accessVerified": true
       },
@@ -1527,7 +1558,7 @@
         "title": "Vascular Cognitive Impairment – Advancing Evidence-based Care across the Continuum",
         "url": "https://www.youtube.com/watch?v=X8DgQuYShUs",
         "provider": "Heart & Stroke (Canada) / clinician and research faculty",
-        "durationSeconds": 3619.0,
+        "durationSeconds": 3619,
         "sourceUrl": "https://www.youtube.com/watch?v=X8DgQuYShUs",
         "accessVerified": true
       },
@@ -1536,7 +1567,7 @@
         "title": "Webinar | Vascular Cognitive Disorders",
         "url": "https://www.youtube.com/watch?v=sTaLZZqkeWc",
         "provider": "Australian Dementia Network / Perminder Sachdev, MD, PhD and Matt Paradise, MD",
-        "durationSeconds": 3974.0,
+        "durationSeconds": 3974,
         "sourceUrl": "https://www.youtube.com/watch?v=sTaLZZqkeWc",
         "accessVerified": true
       },
@@ -1545,7 +1576,7 @@
         "title": "Reliability and Validity in Clinical Neuropsychology",
         "url": "https://www.youtube.com/watch?v=iBTz9LQrkQU",
         "provider": "KnowNeuropsychology / Andrew Kiselica, PhD",
-        "durationSeconds": 3210.0,
+        "durationSeconds": 3210,
         "sourceUrl": "https://knowneuropsych.org/psychometrics/",
         "accessVerified": true
       },
@@ -1554,7 +1585,7 @@
         "title": "The Neuroanatomy of Memory",
         "url": "https://www.youtube.com/watch?v=gulJaKujuY8",
         "provider": "KnowNeuropsychology / Kyle Jennette, PhD",
-        "durationSeconds": 3742.0,
+        "durationSeconds": 3742,
         "sourceUrl": "https://knowneuropsych.org/papez-circuit/",
         "accessVerified": true
       },
@@ -1563,7 +1594,7 @@
         "title": "Visual System and Posterior Cortical Atrophy",
         "url": "https://www.youtube.com/watch?v=WsRq-ZeBTL8",
         "provider": "KnowNeuropsychology / Heshan Fernando, PhD",
-        "durationSeconds": 3620.0,
+        "durationSeconds": 3620,
         "sourceUrl": "https://knowneuropsych.org/posterior-cortical-atrophy/",
         "accessVerified": true
       },
@@ -1572,7 +1603,7 @@
         "title": "Cognitive, Functional, and Psychiatric Features of Progressive Supranuclear Palsy",
         "url": "https://www.youtube.com/watch?v=2ZYc8EBQaU8",
         "provider": "KnowNeuropsychology / Adam Gerstenecker, PhD",
-        "durationSeconds": 2995.0,
+        "durationSeconds": 2995,
         "sourceUrl": "https://knowneuropsych.org/clinical-features-of-psp/",
         "accessVerified": true
       },
@@ -1581,7 +1612,7 @@
         "title": "Computerized Cognitive Assessment for Early Detection of Neurodegenerative Disease",
         "url": "https://www.youtube.com/watch?v=wVZBeeEyOfo",
         "provider": "KnowNeuropsychology / Elena Tsoy, PhD (UCSF Memory and Aging Center)",
-        "durationSeconds": 3697.0,
+        "durationSeconds": 3697,
         "sourceUrl": "https://knowneuropsych.org/computerized-assessment-for-neurodegenerative-disease/",
         "accessVerified": true
       },
@@ -1590,7 +1621,7 @@
         "title": "Updates on Progressive Supranuclear Palsy (PSP) and Corticobasal Degeneration (CBD): Tale of Two Cousins",
         "url": "https://www.youtube.com/watch?v=ocS6FLBseTY",
         "provider": "CurePSP / movement-disorder clinician educators",
-        "durationSeconds": 3378.0,
+        "durationSeconds": 3378,
         "sourceUrl": "https://www.youtube.com/watch?v=ocS6FLBseTY",
         "accessVerified": true
       },
@@ -1599,7 +1630,7 @@
         "title": "AFTD Webinar: Person-Centered Care for Corticobasal Syndrome and Progressive Supranuclear Palsy",
         "url": "https://www.youtube.com/watch?v=pTWxttVD8As",
         "provider": "Association for Frontotemporal Degeneration / clinician educators",
-        "durationSeconds": 3344.0,
+        "durationSeconds": 3344,
         "sourceUrl": "https://www.youtube.com/watch?v=pTWxttVD8As",
         "accessVerified": true
       },
@@ -1608,7 +1639,7 @@
         "title": "Johns Hopkins Psychiatry Rounds | Frontotemporal Dementias (Developments in Clinical Care and Therapeutics for Familial FTD)",
         "url": "https://www.youtube.com/watch?v=cZTvzqkhV_I",
         "provider": "Johns Hopkins Medicine / Chiadi Onyike, MBBS",
-        "durationSeconds": 2389.0,
+        "durationSeconds": 2389,
         "sourceUrl": "https://www.youtube.com/watch?v=cZTvzqkhV_I",
         "accessVerified": true
       },
@@ -1617,7 +1648,7 @@
         "title": "AFTD Webinar: Maximizing Communication, Maintaining Connection — Person-Centered Care for PPA",
         "url": "https://www.youtube.com/watch?v=kk4eUGsgvd4",
         "provider": "Association for Frontotemporal Degeneration / speech-language and clinician educators",
-        "durationSeconds": 3714.0,
+        "durationSeconds": 3714,
         "sourceUrl": "https://www.youtube.com/watch?v=kk4eUGsgvd4",
         "accessVerified": true
       },
@@ -1626,7 +1657,7 @@
         "title": "AFTD Webinar: Neurologists and Genetic Counselors Partnering to Enhance Patient Care",
         "url": "https://www.youtube.com/watch?v=RVRk6zUWA0g",
         "provider": "Association for Frontotemporal Degeneration / neurologist and genetic counselor faculty",
-        "durationSeconds": 3497.0,
+        "durationSeconds": 3497,
         "sourceUrl": "https://www.youtube.com/watch?v=RVRk6zUWA0g",
         "accessVerified": true
       },
@@ -1635,7 +1666,7 @@
         "title": "AFTD Helpline Webinar: Life After an FTD Diagnosis",
         "url": "https://www.youtube.com/watch?v=-6eg2OwrGxc",
         "provider": "Association for Frontotemporal Degeneration / Esther Kane and Ann Schoonover",
-        "durationSeconds": 3722.0,
+        "durationSeconds": 3722,
         "sourceUrl": "https://www.youtube.com/watch?v=-6eg2OwrGxc",
         "accessVerified": true
       },
@@ -1644,7 +1675,7 @@
         "title": "AFTD Webinar: Legal and Financial Planning After an FTD Diagnosis",
         "url": "https://www.youtube.com/watch?v=r-nYJQhtnG8",
         "provider": "Association for Frontotemporal Degeneration / interdisciplinary educators",
-        "durationSeconds": 3414.0,
+        "durationSeconds": 3414,
         "sourceUrl": "https://www.youtube.com/watch?v=r-nYJQhtnG8",
         "accessVerified": true
       },
@@ -1653,7 +1684,7 @@
         "title": "Rapidly Progressive Dementia: From Prions to Antibodies",
         "url": "https://www.youtube.com/watch?v=SK_mvNwFBvw",
         "provider": "University of California Television (UCTV) / UCSF; speakers Michael Geschwind and Jeff Gelfand",
-        "durationSeconds": 5364.0,
+        "durationSeconds": 5364,
         "sourceUrl": "https://www.uctv.tv/shows/Rapidly-Progressive-Dementia-From-Prions-to-Antibodies-30137",
         "accessVerified": true
       },
@@ -1662,8 +1693,89 @@
         "title": "AFTD Webinar: Diagnosing Primary Progressive Aphasia",
         "url": "https://www.youtube.com/watch?v=GmoDlNrQT1Y",
         "provider": "The Association for Frontotemporal Degeneration (AFTD); presenter Marsel Mesulam",
-        "durationSeconds": 3957.0,
+        "durationSeconds": 3957,
         "sourceUrl": "https://www.theaftd.org/front-page/aftd-webinar-diagnosing-primary-progressive-aphasia/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED089-V29",
+        "title": "AFTD Webinar: Introduction to Frontotemporal Dementia (FTD) Biomarkers",
+        "url": "https://www.youtube.com/watch?v=ZvHqYtzITuc",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3437,
+        "sourceUrl": "https://www.youtube.com/watch?v=ZvHqYtzITuc",
+        "accessVerified": true
+      },
+      {
+        "id": "MED089-V30",
+        "title": "AFTD Webinar: Treatment of Behavioral Variant Frontotemporal Degeneration",
+        "url": "https://www.youtube.com/watch?v=Gi389z4P2_U",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3873,
+        "sourceUrl": "https://www.youtube.com/watch?v=Gi389z4P2_U",
+        "accessVerified": true
+      },
+      {
+        "id": "MED089-V31",
+        "title": "AFTD Webinar: Differentiating Behavioral Variant FTD from Alzheimer’s and Other Disorders",
+        "url": "https://www.youtube.com/watch?v=sCvBGBVOOdw",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 3988,
+        "sourceUrl": "https://www.youtube.com/watch?v=sCvBGBVOOdw",
+        "accessVerified": true
+      },
+      {
+        "id": "MED089-V32",
+        "title": "AFTD Webinar: What You Should Know about Primary Progressive Aphasia (PPA)",
+        "url": "https://www.youtube.com/watch?v=rAikhxAHBOQ",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 5499,
+        "sourceUrl": "https://www.youtube.com/watch?v=rAikhxAHBOQ",
+        "accessVerified": true
+      },
+      {
+        "id": "MED089-V33",
+        "title": "AFTD Webinar: What You Should Know about Behavioral Variant FTD (bvFTD)",
+        "url": "https://www.youtube.com/watch?v=kje94W3gHB4",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 5693,
+        "sourceUrl": "https://www.youtube.com/watch?v=kje94W3gHB4",
+        "accessVerified": true
+      },
+      {
+        "id": "MED089-V34",
+        "title": "The Lewy Body Dementias",
+        "url": "https://www.youtube.com/watch?v=QEqeyQ4v-As",
+        "provider": "University of Washington Department of Neurology",
+        "durationSeconds": 3523,
+        "sourceUrl": "https://www.youtube.com/watch?v=QEqeyQ4v-As",
+        "accessVerified": true
+      },
+      {
+        "id": "MED089-V35",
+        "title": "Long-Term Dementia Risk in Parkinson’s Disease",
+        "url": "https://www.youtube.com/watch?v=KaP0BUGEYU8",
+        "provider": "University of Washington Department of Neurology",
+        "durationSeconds": 3036,
+        "sourceUrl": "https://www.youtube.com/watch?v=KaP0BUGEYU8",
+        "accessVerified": true
+      },
+      {
+        "id": "MED089-V36",
+        "title": "Johns Hopkins Psychiatry Grand Rounds | Frontotemporal Dementia",
+        "url": "https://www.youtube.com/watch?v=mQ9d6gzB5UQ",
+        "provider": "Johns Hopkins Psychiatry and Behavioral Sciences",
+        "durationSeconds": 2298,
+        "sourceUrl": "https://www.youtube.com/watch?v=mQ9d6gzB5UQ",
+        "accessVerified": true
+      },
+      {
+        "id": "MED089-V37",
+        "title": "AFTD Webinar: Corticobasal Syndrome & Corticobasal Degeneration, Basics & What You Need to Know",
+        "url": "https://www.youtube.com/watch?v=fncGNT88YAw",
+        "provider": "Association for Frontotemporal Degeneration (AFTD)",
+        "durationSeconds": 5531,
+        "sourceUrl": "https://www.youtube.com/watch?v=fncGNT88YAw",
         "accessVerified": true
       }
     ],
@@ -1676,7 +1788,8 @@
           "MED089-V02",
           "MED089-V10",
           "MED089-V16",
-          "MED089-V17"
+          "MED089-V17",
+          "MED089-V33"
         ]
       },
       {
@@ -1693,7 +1806,8 @@
           "MED089-V11",
           "MED089-V15",
           "MED089-V17",
-          "MED089-V19"
+          "MED089-V19",
+          "MED089-V32"
         ]
       },
       {
@@ -1722,7 +1836,8 @@
           "MED089-V07",
           "MED089-V09",
           "MED089-V16",
-          "MED089-V17"
+          "MED089-V17",
+          "MED089-V31"
         ]
       },
       {
@@ -1732,7 +1847,9 @@
         "lectureIds": [
           "MED089-V01",
           "MED089-V06",
-          "MED089-V08"
+          "MED089-V08",
+          "MED089-V34",
+          "MED089-V35"
         ]
       },
       {
@@ -1748,7 +1865,13 @@
           "MED089-V23",
           "MED089-V24",
           "MED089-V25",
-          "MED089-V28"
+          "MED089-V28",
+          "MED089-V29",
+          "MED089-V30",
+          "MED089-V31",
+          "MED089-V32",
+          "MED089-V33",
+          "MED089-V36"
         ]
       },
       {
@@ -1760,7 +1883,8 @@
           "MED089-V06",
           "MED089-V11",
           "MED089-V12",
-          "MED089-V13"
+          "MED089-V13",
+          "MED089-V37"
         ]
       },
       {
@@ -1775,7 +1899,13 @@
           "MED089-V08",
           "MED089-V18",
           "MED089-V20",
-          "MED089-V23"
+          "MED089-V23",
+          "MED089-V30",
+          "MED089-V31",
+          "MED089-V33",
+          "MED089-V34",
+          "MED089-V35",
+          "MED089-V36"
         ]
       },
       {
@@ -1790,7 +1920,8 @@
           "MED089-V18",
           "MED089-V20",
           "MED089-V21",
-          "MED089-V27"
+          "MED089-V27",
+          "MED089-V37"
         ]
       },
       {
@@ -1804,7 +1935,9 @@
           "MED089-V15",
           "MED089-V19",
           "MED089-V22",
-          "MED089-V24"
+          "MED089-V24",
+          "MED089-V29",
+          "MED089-V34"
         ]
       },
       {
@@ -1823,7 +1956,12 @@
           "MED089-V22",
           "MED089-V23",
           "MED089-V25",
-          "MED089-V26"
+          "MED089-V26",
+          "MED089-V30",
+          "MED089-V32",
+          "MED089-V33",
+          "MED089-V35",
+          "MED089-V37"
         ]
       },
       {
@@ -1849,11 +1987,11 @@
     ],
     "boardStatus": "A distinct UCNS subspecialty certification examination exists; it is not an ABMS primary specialty board exam. UCNS states 200 multiple-choice questions, four hours, offered biennially in even-numbered years. Johns Hopkins identifies this two-year fellowship as UCNS-accredited and states that fellows at completion will be eligible to take the examination. This independent curriculum gives no eligibility or certification. The linked 2026 eligibility-criteria PDF redirected to an authentication portal; applicant-specific prerequisite pathway remains to be verified directly with UCNS.",
     "boardEligibilityNotice": "Only UCNS determines eligibility. Verify the current eligibility criteria, primary specialty certification, training and application route with UCNS. The Hopkins page describes eligibility for its fellows after accredited training; this course cannot confer it.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 26.435,
-    "verifiedSpecialtyHours": 22.46527777777778,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 36.67888888888889,
+    "verifiedSpecialtyHours": 32.70916666666667,
     "verifiedFoundationHours": 3.9697222222222224,
-    "hoursGap": 9.565000000000001,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1880,7 +2018,7 @@
       "unknownDurationCount": 0,
       "lectureEvidenceValid": true,
       "hasExternalLectureEvidence": true,
-      "isReady": false
+      "isReady": true
     }
   },
   {
@@ -1928,7 +2066,7 @@
         "title": "Clinical Center Grand Rounds: Mapping Epilepsy in the Human Brain",
         "url": "https://videocast.nih.gov/watch=55083",
         "provider": "National Institutes of Health (NIH) VideoCast / Clinical Center Grand Rounds",
-        "durationSeconds": 3589.0,
+        "durationSeconds": 3589,
         "sourceUrl": "https://videocast.nih.gov/watch=55083",
         "accessVerified": true
       },
@@ -1937,7 +2075,7 @@
         "title": "CC Grand Rounds: How Epilepsy Can Teach Us About Human Memory",
         "url": "https://videocast.nih.gov/watch=35959",
         "provider": "National Institutes of Health (NIH) VideoCast / Clinical Center Grand Rounds",
-        "durationSeconds": 3562.0,
+        "durationSeconds": 3562,
         "sourceUrl": "https://videocast.nih.gov/watch=35959",
         "accessVerified": true
       },
@@ -1946,7 +2084,7 @@
         "title": "Seizures and Epilepsies (2023)",
         "url": "https://www.youtube.com/watch?v=JRG66FoUSsc",
         "provider": "Rutgers Robert Wood Johnson Medical School Neurology (The Neurophile) / YouTube",
-        "durationSeconds": 5431.0,
+        "durationSeconds": 5431,
         "sourceUrl": "https://www.youtube.com/watch?v=JRG66FoUSsc",
         "accessVerified": true
       },
@@ -1955,7 +2093,7 @@
         "title": "Curing Epilepsy: Focus on the Future - Day 1",
         "url": "https://videocast.nih.gov/watch=249",
         "provider": "National Institute of Neurological Disorders and Stroke / NIH VideoCast",
-        "durationSeconds": 35715.0,
+        "durationSeconds": 35715,
         "sourceUrl": "https://videocast.nih.gov/watch=249",
         "accessVerified": true
       },
@@ -1964,7 +2102,7 @@
         "title": "Curing Epilepsy: Focus on the Future - Day 2",
         "url": "https://videocast.nih.gov/watch=250",
         "provider": "National Institute of Neurological Disorders and Stroke / NIH VideoCast",
-        "durationSeconds": 25305.0,
+        "durationSeconds": 25305,
         "sourceUrl": "https://videocast.nih.gov/watch=250",
         "accessVerified": true
       },
@@ -1973,7 +2111,7 @@
         "title": "Curing Epilepsy 2007: Translating Discoveries into Therapies (Day 1)",
         "url": "https://videocast.nih.gov/watch=5753",
         "provider": "National Institute of Neurological Disorders and Stroke / NIH VideoCast",
-        "durationSeconds": 25029.0,
+        "durationSeconds": 25029,
         "sourceUrl": "https://videocast.nih.gov/watch=5753",
         "accessVerified": true
       },
@@ -1982,7 +2120,7 @@
         "title": "Curing Epilepsy 2007: Translating Discoveries into Therapies (Day 2)",
         "url": "https://videocast.nih.gov/watch=5754",
         "provider": "National Institute of Neurological Disorders and Stroke / NIH VideoCast",
-        "durationSeconds": 20749.0,
+        "durationSeconds": 20749,
         "sourceUrl": "https://videocast.nih.gov/watch=5754",
         "accessVerified": true
       },
@@ -1991,7 +2129,7 @@
         "title": "Childhood Epilepsy Syndromes Pediatric Grand Rounds 9 12 2025 Meeting Recording",
         "url": "https://www.youtube.com/watch?v=14hOZk-bpD0",
         "provider": "University of Texas Health Science Center at San Antonio - UT Health San Antonio / YouTube",
-        "durationSeconds": 3667.0,
+        "durationSeconds": 3667,
         "sourceUrl": "https://www.youtube.com/watch?v=14hOZk-bpD0",
         "accessVerified": true
       },
@@ -2000,7 +2138,7 @@
         "title": "AES 2025 | 23rd Annual Hoyer Lecture: A Metabolic Paradigm for Epilepsy and Its Comorbidities",
         "url": "https://www.youtube.com/watch?v=GAf5ia9FRdw",
         "provider": "American Epilepsy Society / YouTube",
-        "durationSeconds": 5174.0,
+        "durationSeconds": 5174,
         "sourceUrl": "https://www.youtube.com/watch?v=GAf5ia9FRdw",
         "accessVerified": true
       },
@@ -2009,7 +2147,7 @@
         "title": "AES Professor's Rounds: Pediatric Epilepsy Case Studies",
         "url": "https://www.youtube.com/watch?v=xTVvaxcmc38",
         "provider": "American Epilepsy Society / YouTube",
-        "durationSeconds": 2878.0,
+        "durationSeconds": 2878,
         "sourceUrl": "https://www.youtube.com/watch?v=xTVvaxcmc38",
         "accessVerified": true
       },
@@ -2018,7 +2156,7 @@
         "title": "GNI Grand Rounds: Management of Medication Refractory Epilepsy with Dr. Chris Collins",
         "url": "https://www.youtube.com/watch?v=sdsOWQHdYws",
         "provider": "Global Neurosciences Institute",
-        "durationSeconds": 3124.0,
+        "durationSeconds": 3124,
         "sourceUrl": "https://www.youtube.com/watch?v=sdsOWQHdYws",
         "accessVerified": true
       }
@@ -2166,11 +2304,11 @@
       "institutionTrackRelationship": "Hopkins states its one-year ACGME-accredited track fulfills ABPN requirements. Its optional second year is additional training, not another epilepsy board examination. The directory and department page describe accreditation of year two differently; see exact variants below."
     },
     "boardEligibilityNotice": "This self-study course does not establish MD/DO status, residency completion, ACGME fellowship completion, clinical competence, EEG interpretation competence, supervised procedure/case experience, licensure, ABPN eligibility or certification. ABPN eligibility rules change; consult ABPN and programme leadership. No passing, clinical outcome or exam-readiness guarantee is made.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 37.284166666666664,
     "verifiedSpecialtyHours": 35.775555555555556,
     "verifiedFoundationHours": 1.5086111111111111,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2211,7 +2349,7 @@
       "plan": "Approximately 120 independent study hours: 36 target lecture-video hours when the verified catalogue is eventually completed; 48 hours readings/annotated notes; 20 hours fictional/public-source case analysis; 12 hours retrieval practice and reflection; 4 hours capstone. Only 2.90 recorded lecture hours are currently supported by surfaced public runtime evidence. The other 33.10 hours remain original-video production gap, not available study media."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-091_99531df8.pdf",
+    "syllabusUrl": "/manus-storage/MED-091_78ae5802.pdf",
     "pdfIds": [
       "med-syllabus-MED-091",
       "med-reading-cfdbd10e42e5",
@@ -2223,7 +2361,7 @@
         "title": "ANMS Clinical Virtual Webinar – Esophageal Manometry: When, Why, and How",
         "url": "https://www.youtube.com/watch?v=DBhgrEjopEM",
         "provider": "American Neurogastroenterology and Motility Society (ANMS) / YouTube",
-        "durationSeconds": 6779.0,
+        "durationSeconds": 6779,
         "sourceUrl": "https://www.youtube.com/@ANMSociety/videos",
         "accessVerified": true
       },
@@ -2232,7 +2370,7 @@
         "title": "ANMS Clinical Webinar: Gastroparesis: Advances in Interventions",
         "url": "https://www.youtube.com/watch?v=uFDkG_I4YHU",
         "provider": "American Neurogastroenterology and Motility Society (ANMS) / YouTube",
-        "durationSeconds": 3677.0,
+        "durationSeconds": 3677,
         "sourceUrl": "https://www.youtube.com/@ANMSociety/videos",
         "accessVerified": true
       },
@@ -2277,7 +2415,7 @@
         "title": "ANMS Clinical Virtual Symposium: The Doctor-Patient Partnership in Treating Gastroparesis",
         "url": "https://www.youtube.com/watch?v=shyK4icp7qY",
         "provider": "American Neurogastroenterology and Motility Society (ANMS)",
-        "durationSeconds": 3587.0,
+        "durationSeconds": 3587,
         "sourceUrl": "https://motilitysociety.org/meeting/anms-virtual-clinical-session/",
         "accessVerified": true
       },
@@ -2286,7 +2424,7 @@
         "title": "ANMS Pearls of Wisdom: Electrogastrogram Virtual Symposium",
         "url": "https://www.youtube.com/watch?v=IUU4mZLnfl8",
         "provider": "American Neurogastroenterology and Motility Society (ANMS)",
-        "durationSeconds": 2770.0,
+        "durationSeconds": 2770,
         "sourceUrl": "https://motilitysociety.org/meeting/anms-virtual-clinical-session/",
         "accessVerified": true
       },
@@ -2295,7 +2433,7 @@
         "title": "ANMS Clinical Virtual Symposium: Cannabinoids and Psychotropics",
         "url": "https://www.youtube.com/watch?v=aiSqLIPxZfs",
         "provider": "American Neurogastroenterology and Motility Society (ANMS)",
-        "durationSeconds": 3402.0,
+        "durationSeconds": 3402,
         "sourceUrl": "https://www.youtube.com/watch?v=aiSqLIPxZfs",
         "accessVerified": true
       },
@@ -2304,7 +2442,7 @@
         "title": "Microbiome, neuro-immune interactions, and the gut-brain. What is new?",
         "url": "https://www.youtube.com/watch?v=4n-YamO9kIE",
         "provider": "American Neurogastroenterology and Motility Society (ANMS)",
-        "durationSeconds": 3512.0,
+        "durationSeconds": 3512,
         "sourceUrl": "https://motilitysociety.org/meeting/anms-virtual-clinical-session/",
         "accessVerified": true
       },
@@ -2313,7 +2451,7 @@
         "title": "Medicine Grand Rounds: Hierarchical Approach to Evaluation of Esophageal Symptoms",
         "url": "https://www.youtube.com/watch?v=YsCPz5RXofU",
         "provider": "Emory University Department of Medicine",
-        "durationSeconds": 3567.0,
+        "durationSeconds": 3567,
         "sourceUrl": "https://www.youtube.com/watch?v=YsCPz5RXofU",
         "accessVerified": true
       },
@@ -2322,7 +2460,7 @@
         "title": "Surgical Solutions for Gastrointestinal Motility Disorders: From Tailored Wraps for GERD to Gastroparesis",
         "url": "https://medicine.utah.edu/surgery/general-surgery/grandrounds/video?video=1_d4ugtsp0",
         "provider": "University of Utah Department of Surgery Grand Rounds",
-        "durationSeconds": 3802.0,
+        "durationSeconds": 3802,
         "sourceUrl": "https://medicine.utah.edu/surgery/general-surgery/grandrounds/video?video=1_d4ugtsp0",
         "accessVerified": true
       },
@@ -2331,7 +2469,7 @@
         "title": "Best Practices in the Management of Irritable Bowel Syndrome (IBS)",
         "url": "https://www.youtube.com/watch?v=DdfYKlN5Zz0",
         "provider": "Icahn School of Medicine at Mount Sinai",
-        "durationSeconds": 3768.0,
+        "durationSeconds": 3768,
         "sourceUrl": "https://www.youtube.com/watch?v=DdfYKlN5Zz0",
         "accessVerified": true
       },
@@ -2340,7 +2478,7 @@
         "title": "Gastrointestinal Dysmotility in Autonomic Disorders",
         "url": "https://www.youtube.com/watch?v=W1gIkby4dYE",
         "provider": "Dysautonomia International",
-        "durationSeconds": 3448.0,
+        "durationSeconds": 3448,
         "sourceUrl": "https://www.youtube.com/watch?v=W1gIkby4dYE",
         "accessVerified": true
       },
@@ -2349,7 +2487,7 @@
         "title": "Gastroparesis and Learning - Grand Rounds HHS",
         "url": "https://www.youtube.com/watch?v=8BifxxIuVaQ",
         "provider": "Hamilton Health Sciences, Department of Medicine Grand Rounds",
-        "durationSeconds": 3546.0,
+        "durationSeconds": 3546,
         "sourceUrl": "https://www.youtube.com/watch?v=8BifxxIuVaQ",
         "accessVerified": true
       },
@@ -2358,7 +2496,7 @@
         "title": "Defecation Dyssynergia: Professor Lee Yeong Yeh and Dr Ng Inn Shan",
         "url": "https://www.youtube.com/watch?v=fF2cxZ_6JxM",
         "provider": "My Gut-Brain Center clinician-educators",
-        "durationSeconds": 3310.0,
+        "durationSeconds": 3310,
         "sourceUrl": "https://www.youtube.com/@mygut-braincenter5146",
         "accessVerified": true
       },
@@ -2367,7 +2505,7 @@
         "title": "Anorectal Manometry and the London Protocol/Classification: Joash Tan and Professor Lee Yeong Yeh",
         "url": "https://www.youtube.com/watch?v=mDwgo3EJ1hc",
         "provider": "My Gut-Brain Center clinician-educators, with Hospital Pakar Universiti Sains Malaysia faculty",
-        "durationSeconds": 3336.0,
+        "durationSeconds": 3336,
         "sourceUrl": "https://www.youtube.com/watch?v=mDwgo3EJ1hc",
         "accessVerified": true
       },
@@ -2376,8 +2514,17 @@
         "title": "DGBI Masterclass and Study Day: Let’s Talk about DGBI in Asians",
         "url": "https://www.youtube.com/watch?v=3ChrrlhIduw",
         "provider": "My Gut-Brain Center and invited Asia-Pacific DGBI clinicians",
-        "durationSeconds": 17000.0,
+        "durationSeconds": 17000,
         "sourceUrl": "https://www.youtube.com/watch?v=3ChrrlhIduw",
+        "accessVerified": true
+      },
+      {
+        "id": "ADD-MED091-15",
+        "title": "Professor Qasim Aziz on Chronic Intestinal Pseudo Obstruction - PORT Patient Day 2015",
+        "url": "https://www.youtube.com/watch?v=crLR_sGm1LM",
+        "provider": "Pseudo Obstruction Research Trust (P.O.R.T.)",
+        "durationSeconds": 1214,
+        "sourceUrl": "https://www.port-charity.org.uk/what-we-do",
         "accessVerified": true
       }
     ],
@@ -2465,7 +2612,8 @@
         "lectureIds": [
           "L-GASTROPARESIS-2026",
           "ADD-MED091-10",
-          "ADD-MED091-12"
+          "ADD-MED091-12",
+          "ADD-MED091-15"
         ]
       },
       {
@@ -2538,11 +2686,11 @@
     ],
     "boardStatus": "This is an institutional clinical/research fellowship and a generic directory category, not a physician board certification. Hopkins directory explicitly lists the program accrediting body as Non-Standard. The official department describes a one-year fellowship. The ABIM GI examination is broader; current ABIM blueprint allocates 5% to motility disorders and 6% to DGBI. No separate ABIM motility exam appears in the official list.",
     "boardEligibilityNotice": "Hopkins states that applicants should have completed internal medicine residency and that completion of gastroenterology fellowship is desired but not mandatory. This independent self-study course does not establish eligibility for Hopkins training, ACGME training, ABIM certification, licensure or independent practice. Board eligibility is determined only by ABIM policy and accredited training/individual circumstances. ACGME general Gastroenterology programme requirement is 36 months; it is not equivalent to this one-year Non-Standard track.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 18.195555555555554,
-    "verifiedSpecialtyHours": 17.22,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 18.532777777777778,
+    "verifiedSpecialtyHours": 17.557222222222222,
     "verifiedFoundationHours": 0.9755555555555555,
-    "hoursGap": 17.804444444444446,
+    "hoursGap": 17.467222222222222,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2584,7 +2732,7 @@
         "title": "Medicine Grand Rounds: Atypical Parkinsonism",
         "url": "https://www.youtube.com/watch?v=0oCeUI_VPsA",
         "provider": "Medicine Grand Rounds (public YouTube channel; uploader identity as shown on video page)",
-        "durationSeconds": 3410.0,
+        "durationSeconds": 3410,
         "sourceUrl": "https://www.youtube.com/watch?v=0oCeUI_VPsA",
         "accessVerified": true
       },
@@ -2593,7 +2741,7 @@
         "title": "Prof Jon Stone - Functional Neurological Disorder & MS: looking for a treatable cause of disability",
         "url": "https://www.youtube.com/watch?v=MPSDi-jBBXA",
         "provider": "At the Limits – Leading Medical Education",
-        "durationSeconds": 2027.0,
+        "durationSeconds": 2027,
         "sourceUrl": "https://www.youtube.com/watch?v=2CKaiZjriDM",
         "accessVerified": true
       },
@@ -2602,7 +2750,7 @@
         "title": "Treatment of Functional Neurological Disorders by Dr. Nicholas Jasinski",
         "url": "https://www.youtube.com/watch?v=87CE8ckuflk",
         "provider": "WVCTSI Project ECHO / West Virginia University",
-        "durationSeconds": 2748.0,
+        "durationSeconds": 2748,
         "sourceUrl": "https://www.youtube.com/watch?v=2CKaiZjriDM",
         "accessVerified": true
       },
@@ -2611,7 +2759,7 @@
         "title": "Movement Disorder Emergencies: Zain Guduru, MD, FAAN, FANA, and Tonse Ashwini Kini, MD",
         "url": "https://www.youtube.com/watch?v=z0EhEi2Ow7k",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3569.0,
+        "durationSeconds": 3569,
         "sourceUrl": "https://www.aan.com/tools-resources/resident-fellow-education-resources",
         "accessVerified": true
       },
@@ -2620,7 +2768,7 @@
         "title": "Virtual Resident Lecture Series: Unmasking Parkinson's Medications",
         "url": "https://www.youtube.com/watch?v=1YpnypeJHMo",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3660.0,
+        "durationSeconds": 3660,
         "sourceUrl": "https://www.aan.com/tools-resources/resident-fellow-education-resources",
         "accessVerified": true
       },
@@ -2629,7 +2777,7 @@
         "title": "Neuroscience Grand Rounds: Management of Non-Motor Symptoms of Parkinson's Disease",
         "url": "https://www.youtube.com/watch?v=1joYXGEg1To",
         "provider": "Pacific Neuroscience Institute / Providence Little Company of Mary Medical Center",
-        "durationSeconds": 4163.0,
+        "durationSeconds": 4163,
         "sourceUrl": "https://www.youtube.com/watch?v=1joYXGEg1To",
         "accessVerified": true
       },
@@ -2638,7 +2786,7 @@
         "title": "Cognition and Movement in Parkinson's Disease",
         "url": "https://www.youtube.com/watch?v=vxhtl0wfkRg",
         "provider": "UW Department of Neurology",
-        "durationSeconds": 3497.0,
+        "durationSeconds": 3497,
         "sourceUrl": "https://neurology.uw.edu/seminars/grandrounds/grand-round-videos/",
         "accessVerified": true
       },
@@ -2647,7 +2795,7 @@
         "title": "Surgical Treatment Options for Movement Disorders | UCSF Neurosurgery Community Grand Rounds",
         "url": "https://www.youtube.com/watch?v=1hFQYS3hs5k",
         "provider": "UCSF Department of Neurological Surgery",
-        "durationSeconds": 3221.0,
+        "durationSeconds": 3221,
         "sourceUrl": "https://www.youtube.com/watch?v=1hFQYS3hs5k",
         "accessVerified": true
       },
@@ -2656,7 +2804,7 @@
         "title": "Grand Rounds: Approach to Tremor — Dr. Harini Sarva, Weill Cornell Medicine",
         "url": "https://www.youtube.com/watch?v=NFEFoeZktu8",
         "provider": "Downstate Neurology (uploader); lecture speaker from Weill Cornell Medicine",
-        "durationSeconds": 3051.0,
+        "durationSeconds": 3051,
         "sourceUrl": "https://www.youtube.com/watch?v=NFEFoeZktu8",
         "accessVerified": true
       },
@@ -2665,7 +2813,7 @@
         "title": "Diagnosis and Classification of Dystonia | Professor Anthony E Lang",
         "url": "https://www.youtube.com/watch?v=rD0Ih7h1UXA",
         "provider": "Dystonia Europe",
-        "durationSeconds": 2966.0,
+        "durationSeconds": 2966,
         "sourceUrl": "https://www.youtube.com/@DystoniaEurope/playlists",
         "accessVerified": true
       },
@@ -2674,7 +2822,7 @@
         "title": "An update on dystonia research at St Vincent’s | Dr. Shameer Rafee",
         "url": "https://www.youtube.com/watch?v=W9jQRG0Bjkk",
         "provider": "Dystonia Europe",
-        "durationSeconds": 2496.0,
+        "durationSeconds": 2496,
         "sourceUrl": "https://www.youtube.com/@DystoniaEurope/playlists",
         "accessVerified": true
       },
@@ -2683,7 +2831,7 @@
         "title": "Dystonia — What It Is & a Focus on Myoclonus Dystonia — Professor Marina de Koning Tijssen",
         "url": "https://www.youtube.com/watch?v=c2QI4LRkOjM",
         "provider": "Dystonia Europe",
-        "durationSeconds": 2177.0,
+        "durationSeconds": 2177,
         "sourceUrl": "https://www.youtube.com/@DystoniaEurope/playlists",
         "accessVerified": true
       },
@@ -2692,7 +2840,7 @@
         "title": "Understanding DBS in Dystonia: Current Uses and Future Innovations — Dr Jonathan Ellenbogen",
         "url": "https://www.youtube.com/watch?v=8ZFYCFICwCE",
         "provider": "Dystonia Europe",
-        "durationSeconds": 2297.0,
+        "durationSeconds": 2297,
         "sourceUrl": "https://www.youtube.com/@DystoniaEurope/playlists",
         "accessVerified": true
       },
@@ -2701,7 +2849,7 @@
         "title": "Cerebellar Ataxias: Case-Based Approach to Multidisciplinary Care — Pravin Khemani, MD",
         "url": "https://www.youtube.com/watch?v=LFEhDPU_dUY",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 3799.0,
+        "durationSeconds": 3799,
         "sourceUrl": "https://www.youtube.com/watch?v=LFEhDPU_dUY",
         "accessVerified": true
       },
@@ -2710,7 +2858,7 @@
         "title": "All About Sensory Ataxia",
         "url": "https://www.youtube.com/watch?v=OfFtaDIp-7o",
         "provider": "National Ataxia Foundation",
-        "durationSeconds": 3456.0,
+        "durationSeconds": 3456,
         "sourceUrl": "https://www.ataxia.org/webinars/",
         "accessVerified": true
       },
@@ -2719,7 +2867,7 @@
         "title": "All About Episodic Ataxia",
         "url": "https://www.youtube.com/watch?v=8tVGDjyWQbk",
         "provider": "National Ataxia Foundation",
-        "durationSeconds": 3393.0,
+        "durationSeconds": 3393,
         "sourceUrl": "https://www.ataxia.org/webinars/",
         "accessVerified": true
       },
@@ -2728,7 +2876,7 @@
         "title": "All About Gluten Ataxia",
         "url": "https://www.youtube.com/watch?v=wEU9fXsmYfg",
         "provider": "National Ataxia Foundation",
-        "durationSeconds": 3500.0,
+        "durationSeconds": 3500,
         "sourceUrl": "https://www.ataxia.org/webinars/",
         "accessVerified": true
       },
@@ -2737,7 +2885,7 @@
         "title": "All About SCA28 & SPAX5",
         "url": "https://www.youtube.com/watch?v=adVSo-tPISs",
         "provider": "National Ataxia Foundation",
-        "durationSeconds": 3486.0,
+        "durationSeconds": 3486,
         "sourceUrl": "https://www.ataxia.org/webinars/",
         "accessVerified": true
       },
@@ -2746,7 +2894,7 @@
         "title": "All About Immune-Mediated Ataxia",
         "url": "https://www.youtube.com/watch?v=26cIb9MNhOU",
         "provider": "National Ataxia Foundation",
-        "durationSeconds": 3596.0,
+        "durationSeconds": 3596,
         "sourceUrl": "https://www.ataxia.org/webinars/",
         "accessVerified": true
       },
@@ -2755,7 +2903,7 @@
         "title": "Research into the Genetics of Unknown Ataxia Without Family History",
         "url": "https://www.youtube.com/watch?v=xLKA96771KY",
         "provider": "National Ataxia Foundation",
-        "durationSeconds": 3549.0,
+        "durationSeconds": 3549,
         "sourceUrl": "https://www.ataxia.org/webinars/",
         "accessVerified": true
       },
@@ -2764,7 +2912,7 @@
         "title": "All About Paraneoplastic Cerebellar Degeneration",
         "url": "https://www.youtube.com/watch?v=grq5TUIYi_I",
         "provider": "National Ataxia Foundation",
-        "durationSeconds": 3436.0,
+        "durationSeconds": 3436,
         "sourceUrl": "https://www.ataxia.org/webinars/",
         "accessVerified": true
       },
@@ -2773,7 +2921,7 @@
         "title": "All About Acute Cerebellar Ataxia",
         "url": "https://www.youtube.com/watch?v=2PfnkHrpXV0",
         "provider": "National Ataxia Foundation",
-        "durationSeconds": 2320.0,
+        "durationSeconds": 2320,
         "sourceUrl": "https://www.ataxia.org/webinars/",
         "accessVerified": true
       },
@@ -2782,7 +2930,7 @@
         "title": "Hospitalization Issues in Parkinson’s Disease — 2024 PD Educational Symposium",
         "url": "https://www.youtube.com/watch?v=miU1GbHeB8A",
         "provider": "Norman Fixel Institute for Neurological Diseases, UF Health",
-        "durationSeconds": 2689.0,
+        "durationSeconds": 2689,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZbl_Ullesg5t0exlvCao8ienpmZNFFz6",
         "accessVerified": true
       },
@@ -2791,7 +2939,7 @@
         "title": "Role of Physical Therapy, Occupational Therapy & Speech Therapy in PD — 2024 PD Education Symposium",
         "url": "https://www.youtube.com/watch?v=VxPCq5P2yeE",
         "provider": "Norman Fixel Institute for Neurological Diseases, UF Health",
-        "durationSeconds": 2666.0,
+        "durationSeconds": 2666,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZbl_Ullesg5t0exlvCao8ienpmZNFFz6",
         "accessVerified": true
       },
@@ -2800,7 +2948,7 @@
         "title": "What’s New in Parkinson’s Research — UF PD Educational Symposium 2024",
         "url": "https://www.youtube.com/watch?v=vPbcxsr1JZw",
         "provider": "Norman Fixel Institute for Neurological Diseases, UF Health",
-        "durationSeconds": 2150.0,
+        "durationSeconds": 2150,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZbl_Ullesg5t0exlvCao8ienpmZNFFz6",
         "accessVerified": true
       },
@@ -2809,7 +2957,7 @@
         "title": "Intro to Parkinson’s Disease Management — UF PD Educational Symposium 2023",
         "url": "https://www.youtube.com/watch?v=bu8Xpxv5OgY",
         "provider": "Norman Fixel Institute for Neurological Diseases, UF Health",
-        "durationSeconds": 2450.0,
+        "durationSeconds": 2450,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZbl_Ullesg5STPHuHS19-gxSwhg_v5xG",
         "accessVerified": true
       },
@@ -2818,7 +2966,7 @@
         "title": "Pelvic Floor Therapy for Parkinson’s Disease — UF PD Educational Symposium 2023",
         "url": "https://www.youtube.com/watch?v=E4DDaAqYdoo",
         "provider": "Norman Fixel Institute for Neurological Diseases, UF Health",
-        "durationSeconds": 2512.0,
+        "durationSeconds": 2512,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZbl_Ullesg5STPHuHS19-gxSwhg_v5xG",
         "accessVerified": true
       },
@@ -2827,7 +2975,7 @@
         "title": "Anesthesia & Surgery in PD & Neurological Disorders — UF Parkinson Educational Symposium 2023",
         "url": "https://www.youtube.com/watch?v=EZlbwuwPuos",
         "provider": "Norman Fixel Institute for Neurological Diseases, UF Health",
-        "durationSeconds": 3237.0,
+        "durationSeconds": 3237,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZbl_Ullesg5STPHuHS19-gxSwhg_v5xG",
         "accessVerified": true
       },
@@ -2836,7 +2984,7 @@
         "title": "Parkinson’s Disease Therapeutic Pipeline — Guest Speaker — UF PD Symposium 2023",
         "url": "https://www.youtube.com/watch?v=DLW2ulbeRn4",
         "provider": "Norman Fixel Institute for Neurological Diseases, UF Health",
-        "durationSeconds": 3019.0,
+        "durationSeconds": 3019,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZbl_Ullesg5STPHuHS19-gxSwhg_v5xG",
         "accessVerified": true
       },
@@ -2845,7 +2993,7 @@
         "title": "Beyond Motor Symptoms of PD — UF Parkinson’s Disease Symposium 2023",
         "url": "https://www.youtube.com/watch?v=orp5bcRphbA",
         "provider": "Norman Fixel Institute for Neurological Diseases, UF Health",
-        "durationSeconds": 2375.0,
+        "durationSeconds": 2375,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZbl_Ullesg5STPHuHS19-gxSwhg_v5xG",
         "accessVerified": true
       },
@@ -2854,7 +3002,7 @@
         "title": "Genetics & Parkinson’s Disease — UF PD Educational Symposium 2023",
         "url": "https://www.youtube.com/watch?v=uwsUzE4bkvk",
         "provider": "Norman Fixel Institute for Neurological Diseases, UF Health",
-        "durationSeconds": 2595.0,
+        "durationSeconds": 2595,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZbl_Ullesg5STPHuHS19-gxSwhg_v5xG",
         "accessVerified": true
       },
@@ -2863,7 +3011,7 @@
         "title": "Role of Social Work in PD Care — 2024 Parkinson’s Disease Symposium UF Health",
         "url": "https://www.youtube.com/watch?v=nYg4C2bxBRc",
         "provider": "Norman Fixel Institute for Neurological Diseases, UF Health",
-        "durationSeconds": 1950.0,
+        "durationSeconds": 1950,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZbl_Ullesg5t0exlvCao8ienpmZNFFz6",
         "accessVerified": true
       },
@@ -2872,7 +3020,7 @@
         "title": "Expert Briefing: Parkinson's Medications 101",
         "url": "https://www.youtube.com/watch?v=MdsPBaH-6Po",
         "provider": "Parkinson's Foundation",
-        "durationSeconds": 3763.0,
+        "durationSeconds": 3763,
         "sourceUrl": "https://www.parkinson.org/resources-support/online-education/expert-briefings-webinars",
         "accessVerified": true
       },
@@ -2881,7 +3029,7 @@
         "title": "Expert Briefing: Managing Sleep Interruptions in Parkinson’s Disease",
         "url": "https://www.youtube.com/watch?v=H8m-AZ7WdOA",
         "provider": "Parkinson's Foundation",
-        "durationSeconds": 3765.0,
+        "durationSeconds": 3765,
         "sourceUrl": "https://www.parkinson.org/resources-support/online-education/expert-briefings-webinars",
         "accessVerified": true
       },
@@ -2890,7 +3038,7 @@
         "title": "Expert Briefing: The Latest Advances in Parkinson’s Research and Treatment",
         "url": "https://www.youtube.com/watch?v=gGZlw8mhfaE",
         "provider": "Parkinson's Foundation",
-        "durationSeconds": 3760.0,
+        "durationSeconds": 3760,
         "sourceUrl": "https://www.parkinson.org/resources-support/online-education/expert-briefings-webinars",
         "accessVerified": true
       },
@@ -2899,7 +3047,7 @@
         "title": "Expert Briefing: Thinking & Memory Changes in Parkinson’s",
         "url": "https://www.youtube.com/watch?v=rpRZhlWBMas",
         "provider": "Parkinson's Foundation",
-        "durationSeconds": 3535.0,
+        "durationSeconds": 3535,
         "sourceUrl": "https://www.parkinson.org/resources-support/online-education/expert-briefings-webinars",
         "accessVerified": true
       },
@@ -2908,7 +3056,7 @@
         "title": "Expert Briefing: Addressing the Challenge of Apathy in Parkinson's",
         "url": "https://www.youtube.com/watch?v=Y94sRO1FzE4",
         "provider": "Parkinson's Foundation",
-        "durationSeconds": 3657.0,
+        "durationSeconds": 3657,
         "sourceUrl": "https://www.parkinson.org/resources-support/online-education/expert-briefings-webinars",
         "accessVerified": true
       },
@@ -2917,7 +3065,7 @@
         "title": "Expert Briefing: Understanding Pain in Parkinson's Disease",
         "url": "https://www.youtube.com/watch?v=txPxIQrjhdw",
         "provider": "Parkinson's Foundation",
-        "durationSeconds": 3582.0,
+        "durationSeconds": 3582,
         "sourceUrl": "https://www.parkinson.org/resources-support/online-education/expert-briefings-webinars",
         "accessVerified": true
       },
@@ -2926,7 +3074,7 @@
         "title": "Expert Briefing: Hallucinations and Delusions in Parkinson's Disease",
         "url": "https://www.youtube.com/watch?v=bMV9gP64oN0",
         "provider": "Parkinson's Foundation",
-        "durationSeconds": 3648.0,
+        "durationSeconds": 3648,
         "sourceUrl": "https://www.parkinson.org/resources-support/online-education/expert-briefings-webinars",
         "accessVerified": true
       },
@@ -2935,7 +3083,7 @@
         "title": "Expert Briefing: Parkinson's & the Gut-Brain Connection",
         "url": "https://www.youtube.com/watch?v=GGyxjsIuwA8",
         "provider": "Parkinson's Foundation",
-        "durationSeconds": 3687.0,
+        "durationSeconds": 3687,
         "sourceUrl": "https://www.parkinson.org/resources-support/online-education/expert-briefings-webinars",
         "accessVerified": true
       },
@@ -2944,7 +3092,7 @@
         "title": "Expert Briefing: Parkinson's Disease and the Bladder",
         "url": "https://www.youtube.com/watch?v=ftMrPyCOCPQ",
         "provider": "Parkinson's Foundation",
-        "durationSeconds": 3594.0,
+        "durationSeconds": 3594,
         "sourceUrl": "https://www.parkinson.org/resources-support/online-education/expert-briefings-webinars",
         "accessVerified": true
       },
@@ -2953,7 +3101,7 @@
         "title": "Wellness Wednesday: Gene & Cell-Based Therapies in Parkinson's Disease",
         "url": "https://www.youtube.com/watch?v=D8HT8zgsiFY",
         "provider": "Parkinson's Foundation",
-        "durationSeconds": 3715.0,
+        "durationSeconds": 3715,
         "sourceUrl": "https://www.parkinson.org/resources-support/online-education/expert-briefings-webinars",
         "accessVerified": true
       },
@@ -2962,7 +3110,7 @@
         "title": "A Balancing Act: Freezing & Fall Prevention in Parkinson's",
         "url": "https://www.youtube.com/watch?v=AegsgmP5vpo",
         "provider": "Parkinson's Foundation",
-        "durationSeconds": 3952.0,
+        "durationSeconds": 3952,
         "sourceUrl": "https://www.parkinson.org/resources-support/online-education/expert-briefings-webinars",
         "accessVerified": true
       },
@@ -2971,7 +3119,7 @@
         "title": "Expert Briefing: Let's Talk About Dementia and Parkinson's Disease",
         "url": "https://www.youtube.com/watch?v=IxcFbsHZR8c",
         "provider": "Parkinson's Foundation",
-        "durationSeconds": 3633.0,
+        "durationSeconds": 3633,
         "sourceUrl": "https://www.parkinson.org/resources-support/online-education/expert-briefings-webinars",
         "accessVerified": true
       },
@@ -2980,7 +3128,7 @@
         "title": "Welcome & Featured Presentation: Could This Be PD? Less Common Symptoms of PD",
         "url": "https://www.youtube.com/watch?v=e1ZyU-iKjew",
         "provider": "American Parkinson Disease Association",
-        "durationSeconds": 3352.0,
+        "durationSeconds": 3352,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLWc6Kqj5B4-KhalPJeFE-W43Ed-BsFPYJ",
         "accessVerified": true
       },
@@ -2989,7 +3137,7 @@
         "title": "Session A: Anxiety & Cognitive Behavioral Therapy in PD",
         "url": "https://www.youtube.com/watch?v=EflMI_fussY",
         "provider": "American Parkinson Disease Association",
-        "durationSeconds": 2292.0,
+        "durationSeconds": 2292,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLWc6Kqj5B4-KhalPJeFE-W43Ed-BsFPYJ",
         "accessVerified": true
       },
@@ -2998,7 +3146,7 @@
         "title": "Session B: New Laboratory Testing for PD",
         "url": "https://www.youtube.com/watch?v=GAkhViH4JJY",
         "provider": "American Parkinson Disease Association",
-        "durationSeconds": 2161.0,
+        "durationSeconds": 2161,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLWc6Kqj5B4-KhalPJeFE-W43Ed-BsFPYJ",
         "accessVerified": true
       },
@@ -3007,7 +3155,7 @@
         "title": "Session C: Gastrointestinal Issues & PD",
         "url": "https://www.youtube.com/watch?v=uklGlvpEm3I",
         "provider": "American Parkinson Disease Association",
-        "durationSeconds": 2051.0,
+        "durationSeconds": 2051,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLWc6Kqj5B4-KhalPJeFE-W43Ed-BsFPYJ",
         "accessVerified": true
       },
@@ -3016,7 +3164,7 @@
         "title": "Session A: Is Deep Brain Stimulation Right for Me?",
         "url": "https://www.youtube.com/watch?v=6A7NXh0M9ds",
         "provider": "American Parkinson Disease Association",
-        "durationSeconds": 2213.0,
+        "durationSeconds": 2213,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLWc6Kqj5B4-KhalPJeFE-W43Ed-BsFPYJ",
         "accessVerified": true
       },
@@ -3025,7 +3173,7 @@
         "title": "Welcome & Featured Presentation: What’s New in PD Research",
         "url": "https://www.youtube.com/watch?v=FgARACHhO7M",
         "provider": "American Parkinson Disease Association",
-        "durationSeconds": 3587.0,
+        "durationSeconds": 3587,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLWc6Kqj5B4-Kq0RO7tv_YO6Ti4kSVyXHb",
         "accessVerified": true
       },
@@ -3034,7 +3182,7 @@
         "title": "Advance Care Planning in Parkinson’s Disease",
         "url": "https://www.youtube.com/watch?v=uHg8p85WE9A",
         "provider": "American Parkinson Disease Association",
-        "durationSeconds": 3137.0,
+        "durationSeconds": 3137,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLWc6Kqj5B4-Kq0RO7tv_YO6Ti4kSVyXHb",
         "accessVerified": true
       },
@@ -3043,7 +3191,7 @@
         "title": "Environmental Influencers of PD",
         "url": "https://www.youtube.com/watch?v=HnWJW4F3XP8",
         "provider": "American Parkinson Disease Association",
-        "durationSeconds": 1977.0,
+        "durationSeconds": 1977,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLWc6Kqj5B4-Kq0RO7tv_YO6Ti4kSVyXHb",
         "accessVerified": true
       },
@@ -3052,7 +3200,7 @@
         "title": "The Role of Inflammation in Parkinson's Disease",
         "url": "https://www.youtube.com/watch?v=Z4yswDDze1Q",
         "provider": "American Parkinson Disease Association",
-        "durationSeconds": 1642.0,
+        "durationSeconds": 1642,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLWc6Kqj5B4-Kq0RO7tv_YO6Ti4kSVyXHb",
         "accessVerified": true
       }
@@ -3237,11 +3385,11 @@
     ],
     "boardStatus": "Johns Hopkins offers a clinical movement disorders fellowship. The ACGME Neurology subspecialty programme list current at review does not list Movement Disorders as an ACGME-accredited subspecialty, and ABPN lists no separate Movement Disorders subspecialty examination. Do not confuse movement disorders training with ABPN Neurology certification or other board-recognized neurologic subspecialties.",
     "boardEligibilityNotice": "Johns Hopkins states that applicants must have completed an ACGME-accredited neurology residency and be board-certified or board-eligible by fellowship start. ABPN eligibility for Neurology certification depends on its own current requirements, approved training, licensure, and application review. This independent course creates no eligibility, accreditation, credential, licensure, or board entitlement.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 45.04527777777778,
     "verifiedSpecialtyHours": 19.39361111111111,
     "verifiedFoundationHours": 25.651666666666667,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3300,7 +3448,7 @@
         "title": "The Neuro-ophthalmology Exam: Neuro [ARCHIVE]",
         "url": "https://www.youtube.com/watch?v=LkJ4ue00VAI",
         "provider": "Moran CORE / University of Utah John A. Moran Eye Center; YouTube-hosted archive",
-        "durationSeconds": 2028.0,
+        "durationSeconds": 2028,
         "sourceUrl": "https://www.youtube.com/watch?v=LkJ4ue00VAI",
         "accessVerified": true
       },
@@ -3309,7 +3457,7 @@
         "title": "Optic Neuritis: Etiology, Evaluation, and Management Updates",
         "url": "https://www.youtube.com/watch?v=L36H-f3k5aM",
         "provider": "Orbis Cybersight; YouTube-hosted webinar",
-        "durationSeconds": 4564.0,
+        "durationSeconds": 4564,
         "sourceUrl": "https://www.youtube.com/watch?v=L36H-f3k5aM",
         "accessVerified": true
       },
@@ -3318,7 +3466,7 @@
         "title": "Optic Nerve Grand Rounds",
         "url": "https://www.youtube.com/watch?v=gk9EgQwpIkk",
         "provider": "Optometric Education Consultants",
-        "durationSeconds": 3175.0,
+        "durationSeconds": 3175,
         "sourceUrl": "https://www.youtube.com/watch?v=gk9EgQwpIkk",
         "accessVerified": true
       },
@@ -3327,7 +3475,7 @@
         "title": "Papilledema & Optic Neuropathies [ARCHIVE]",
         "url": "https://www.youtube.com/watch?v=u5u8PyodldI",
         "provider": "John A. Moran Eye Center / Moran CORE, University of Utah",
-        "durationSeconds": 6956.0,
+        "durationSeconds": 6956,
         "sourceUrl": "https://morancore.utah.edu/section-04-ophthalmic-pathology/papilledema-optic-neuropathies/",
         "accessVerified": true
       },
@@ -3336,7 +3484,7 @@
         "title": "Neuro-Ophthalmology Update: Zoom Conference [ARCHIVE]",
         "url": "https://www.youtube.com/watch?v=3QtBMM0rbHg",
         "provider": "John A. Moran Eye Center / Moran CORE, University of Utah; lecture by Nancy J. Newman, MD, Emory University",
-        "durationSeconds": 3878.0,
+        "durationSeconds": 3878,
         "sourceUrl": "https://morancore.utah.edu/section-05-neuro-ophthalmology/neuro-ophthalmology-update-zoom-conference/",
         "accessVerified": true
       },
@@ -3345,7 +3493,7 @@
         "title": "Lecture: Neuro-Ophthalmic Emergencies",
         "url": "https://www.youtube.com/watch?v=r7x9gbtbCxk",
         "provider": "Project Orbis International / Cybersight",
-        "durationSeconds": 3387.0,
+        "durationSeconds": 3387,
         "sourceUrl": "https://cybersight.org/library/lecture-neuro-ophthalmic-emergencies/",
         "accessVerified": true
       },
@@ -3354,7 +3502,7 @@
         "title": "Lecture: Prescribing Prism for Diplopia in Neuro-Ophthalmic Disorders",
         "url": "https://www.youtube.com/watch?v=jRFitUo0p1c",
         "provider": "Project Orbis International / Cybersight; lecturer Kelsey Moody Mileski, OD, FAAO, Emory Eye Center",
-        "durationSeconds": 3984.0,
+        "durationSeconds": 3984,
         "sourceUrl": "https://www.youtube.com/watch?v=jRFitUo0p1c",
         "accessVerified": true
       },
@@ -3363,7 +3511,7 @@
         "title": "Lecture: Using OCT as an Approach to Diagnose Glaucomatous and Other Optic Neuropathies",
         "url": "https://www.youtube.com/watch?v=iFoETZbwJNE",
         "provider": "Project Orbis International / Cybersight; lecturer Christian Martin, ophthalmologist, University Hospital Erlangen",
-        "durationSeconds": 3635.0,
+        "durationSeconds": 3635,
         "sourceUrl": "https://www.youtube.com/watch?v=iFoETZbwJNE",
         "accessVerified": true
       },
@@ -3372,7 +3520,7 @@
         "title": "OCT applications in Multiple Sclerosis and Neuro-ophthalmic disorders",
         "url": "https://www.youtube.com/watch?v=myYLc3WMu-Y",
         "provider": "Neurology Synaptic Club; lecturer Raed Behbehani, MD",
-        "durationSeconds": 3269.0,
+        "durationSeconds": 3269,
         "sourceUrl": "https://www.youtube.com/watch?v=myYLc3WMu-Y",
         "accessVerified": true
       },
@@ -3381,7 +3529,7 @@
         "title": "Visual Field Interpretation",
         "url": "https://www.youtube.com/watch?v=NviVRAX2dw4",
         "provider": "Project Orbis International / Cybersight; lecturer Karl Golnik, MD",
-        "durationSeconds": 4171.0,
+        "durationSeconds": 4171,
         "sourceUrl": "https://cybersight.org/library/webinar-visual-field-interpretation/",
         "accessVerified": true
       },
@@ -3390,7 +3538,7 @@
         "title": "Andrew Lee, MD Mitchel and Shannon Wong Eye Institute Grand Rounds: 5 Key Neuro-ophthalmic diagnoses",
         "url": "https://www.youtube.com/watch?v=bnQvVCIm87c",
         "provider": "Dell Medical School, The University of Texas at Austin; grand rounds lecture by Andrew Lee, MD",
-        "durationSeconds": 3846.0,
+        "durationSeconds": 3846,
         "sourceUrl": "https://www.youtube.com/watch?v=bnQvVCIm87c",
         "accessVerified": true
       },
@@ -3399,7 +3547,7 @@
         "title": "2022 Community Lecture Series: Neuro-ophthalmology",
         "url": "https://www.youtube.com/watch?v=7hq1TMefoRg",
         "provider": "UCI Gavin Herbert Eye Institute / UCI Health",
-        "durationSeconds": 3746.0,
+        "durationSeconds": 3746,
         "sourceUrl": "https://ophthalmology.uci.edu/community/community-lecture-series",
         "accessVerified": true
       }
@@ -3550,7 +3698,7 @@
       "institutionalVariants": "Only the exact Johns Hopkins School of Medicine / Wilmer Eye Institute Neuro-Ophthalmology Fellowship in the input packet is represented. This is an actual one-year physician clinical fellowship, not a generic directory category, research-only postdoctoral appointment, or non-physician supplement. The public page does not publish a separate board blueprint."
     },
     "boardEligibilityNotice": "The Hopkins page states applicants must complete an ACGME-accredited ophthalmology or neurology residency before fellowship and describes an exceptional internationally trained pathway with ECFMG/USMLE conditions; the current program must confirm eligibility directly. AUPO’s published requirements include pathways through listed US and osteopathic parent boards and equivalent international training. This independent self-study course confers no fellowship eligibility, board eligibility, licensure or certification. Check official board and program rules.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 12.955277777777777,
     "verifiedSpecialtyHours": 11.914722222222222,
     "verifiedFoundationHours": 1.0405555555555555,
@@ -3592,7 +3740,7 @@
       "note": "Transparent independent-study plan only. The 36-hour video target is a minimum floor, not equal clinical training time or a promise of board readiness. Planned videos are not counted as available media."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-094_92e58a9e.pdf",
+    "syllabusUrl": "/manus-storage/MED-094_e722ed06.pdf",
     "pdfIds": [
       "med-syllabus-MED-094",
       "med-reading-a5bc7b1f0fde",
@@ -3607,7 +3755,7 @@
         "title": "VRELS: Neurocritical Care's Greatest Hits",
         "url": "https://www.youtube.com/watch?v=R0hfF7wXC-8",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 4264.0,
+        "durationSeconds": 4264,
         "sourceUrl": "https://www.youtube.com/watch?v=R0hfF7wXC-8",
         "accessVerified": true
       },
@@ -3616,7 +3764,7 @@
         "title": "INSIGHTS: Increased Intracranial Pressure",
         "url": "https://www.youtube.com/watch?v=tqfvCOr8abY",
         "provider": "Neurocritical Care Society",
-        "durationSeconds": 1315.0,
+        "durationSeconds": 1315,
         "sourceUrl": "https://www.youtube.com/watch?v=tqfvCOr8abY",
         "accessVerified": true
       },
@@ -3625,7 +3773,7 @@
         "title": "Clinical Evaluation of Coma and Brain Death - December 2019",
         "url": "https://www.youtube.com/watch?v=oZTOGyysdgM",
         "provider": "Neurocritical Care Society Education Office",
-        "durationSeconds": 1591.0,
+        "durationSeconds": 1591,
         "sourceUrl": "https://www.youtube.com/watch?v=oZTOGyysdgM",
         "accessVerified": true
       },
@@ -3634,7 +3782,7 @@
         "title": "Pediatric and Adult Brain Death/Death by Neurologic Criteria Consensus Practice Guidelines",
         "url": "https://www.youtube.com/watch?v=XNziDRnVmSA",
         "provider": "Society of Critical Care Medicine (SCCM)",
-        "durationSeconds": 2871.0,
+        "durationSeconds": 2871,
         "sourceUrl": "https://www.youtube.com/watch?v=XNziDRnVmSA",
         "accessVerified": true
       },
@@ -3643,7 +3791,7 @@
         "title": "Treating Intracranial Pressure Elevations in Neurocritical Care",
         "url": "https://www.youtube.com/watch?v=XSJ9yf_OffE",
         "provider": "Southeast Chapter, Society of Critical Care Medicine",
-        "durationSeconds": 5191.0,
+        "durationSeconds": 5191,
         "sourceUrl": "https://www.youtube.com/watch?v=XSJ9yf_OffE",
         "accessVerified": true
       },
@@ -3652,7 +3800,7 @@
         "title": "State of Art Neurocritical Care for Stroke Management",
         "url": "https://www.youtube.com/watch?v=fcMO43RtV0Q",
         "provider": "Maimonides Medical Center / SUNY Downstate lecture; public YouTube upload",
-        "durationSeconds": 4239.0,
+        "durationSeconds": 4239,
         "sourceUrl": "https://www.youtube.com/watch?v=fcMO43RtV0Q",
         "accessVerified": true
       },
@@ -3661,7 +3809,7 @@
         "title": "MASTER CLASS: Traumatic Brain Injury",
         "url": "https://www.youtube.com/watch?v=bjQwJLGHWT0",
         "provider": "Neurocritical Care Society podcast / Masterclass",
-        "durationSeconds": 1916.0,
+        "durationSeconds": 1916,
         "sourceUrl": "https://www.youtube.com/watch?v=bjQwJLGHWT0",
         "accessVerified": true
       },
@@ -3670,7 +3818,7 @@
         "title": "Medical Student Lecture Series: Neurocritical Care with Alexandra Reynolds, MD",
         "url": "https://www.youtube.com/watch?v=JGOQ5c8n4Z8",
         "provider": "Mount Sinai Neurosurgery",
-        "durationSeconds": 3258.0,
+        "durationSeconds": 3258,
         "sourceUrl": "https://www.youtube.com/watch?v=JGOQ5c8n4Z8",
         "accessVerified": true
       },
@@ -3679,8 +3827,17 @@
         "title": "ICU Death Determination",
         "url": "https://www.youtube.com/watch?v=lSVkN3mmbyw",
         "provider": "University of Washington Department of Neurology",
-        "durationSeconds": 3848.0,
+        "durationSeconds": 3848,
         "sourceUrl": "https://neurology.uw.edu/seminars/grandrounds/grand-round-videos/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED094-REUSE-UF-STATUS-001",
+        "title": "The Ketamine Established Status Epilepticus Treatment Trial: How we got here, where we are, and where we are going",
+        "url": "https://mediasite.video.ufl.edu/Mediasite/Play/c772a206d7dc4de68e60c03e176d690f1d",
+        "provider": "University of Florida College of Medicine, Department of Anesthesiology — Critical Care Medicine/SICU Grand Rounds",
+        "durationSeconds": 4502.449,
+        "sourceUrl": "https://anest.ufl.edu/clinical-divisions/critical-care-medicine/ccm-sicu-lecture-schedule/",
         "accessVerified": true
       }
     ],
@@ -3766,7 +3923,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "V001",
-          "V006"
+          "V006",
+          "MED094-REUSE-UF-STATUS-001"
         ]
       },
       {
@@ -3817,11 +3975,11 @@
     ],
     "boardStatus": "A distinct physician subspecialty certificate in Neurocritical Care exists: ABPN has administered the ABMS-approved subspecialty examination since 2021. UCNS has independently offered an NCC certification examination since 2007 and states it continues. These are different credentials; UCNS certification does not transfer to ABPN certification. They are not a single primary-specialty board exam. The ABPN page checked 2026-10-07 lists the Oct 5–9, 2026 examination (currently in progress on the check date), its application deadlines as passed, and 2028 as the next choice of dates. ABPN lists post-practice-pathway training requirements after the 2021–2026 practice pathway; candidates must verify the relevant sponsoring primary board's rules. The program's ACGME accreditation and UCNS accreditation do not confer certification or candidate eligibility.",
     "boardEligibilityNotice": "This course neither establishes nor evaluates board eligibility. ABPN eligibility depends on primary-board certification and the candidate's training pathway and sponsoring-board rules; UCNS has separate requirements. ABPN's transitional practice pathway is described for examination administrations 2021–2026; do not assume it applies to a later exam. Confirm current details directly with ABPN/one's primary board and UCNS. Johns Hopkins program admission prerequisites are not board exam eligibility.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 7.914722222222222,
-    "verifiedSpecialtyHours": 7.009722222222222,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 9.1654025,
+    "verifiedSpecialtyHours": 8.2604025,
     "verifiedFoundationHours": 0.905,
-    "hoursGap": 28.085277777777776,
+    "hoursGap": 26.8345975,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3873,7 +4031,7 @@
         "title": "2/19 Neuroinfectious Disease Lecture: Chaudhury",
         "url": "https://www.youtube.com/watch?v=il38f2LamqE",
         "provider": "NIHNINDS",
-        "durationSeconds": 3826.0,
+        "durationSeconds": 3826,
         "sourceUrl": "https://www.youtube.com/watch?v=il38f2LamqE",
         "accessVerified": true
       },
@@ -3882,7 +4040,7 @@
         "title": "HTD Centenary seminar on Complex Brain Infections | 28.04.22",
         "url": "https://www.youtube.com/watch?v=hCQJbnLjZeI",
         "provider": "University College London Hospitals NHS Foundation Trust",
-        "durationSeconds": 3599.0,
+        "durationSeconds": 3599,
         "sourceUrl": "https://www.youtube.com/watch?v=hCQJbnLjZeI",
         "accessVerified": true
       },
@@ -3891,7 +4049,7 @@
         "title": "Duke Neurology Grand Rounds, August 30: Chris Eckstein, MD",
         "url": "https://www.youtube.com/watch?v=9XBeRjzwxBI",
         "provider": "Duke Neurology",
-        "durationSeconds": 3630.0,
+        "durationSeconds": 3630,
         "sourceUrl": "https://www.youtube.com/watch?v=9XBeRjzwxBI",
         "accessVerified": true
       },
@@ -3900,7 +4058,7 @@
         "title": "My Month of Madness: Autoimmune Encephalitis",
         "url": "https://www.youtube.com/watch?v=L0VsqLTrePs",
         "provider": "McMaster University – Department of Medicine",
-        "durationSeconds": 3078.0,
+        "durationSeconds": 3078,
         "sourceUrl": "https://www.youtube.com/watch?v=L0VsqLTrePs",
         "accessVerified": true
       },
@@ -3909,7 +4067,7 @@
         "title": "MS Research Lecture: What drives MS progression?",
         "url": "https://www.youtube.com/watch?v=w1eg-9jT6V4",
         "provider": "MS Society UK",
-        "durationSeconds": 4287.0,
+        "durationSeconds": 4287,
         "sourceUrl": "https://www.youtube.com/watch?v=w1eg-9jT6V4",
         "accessVerified": true
       },
@@ -3918,7 +4076,7 @@
         "title": "GNI Grand Rounds: The Spectrum of NMOSD",
         "url": "https://www.youtube.com/watch?v=sKqdcD0XmGY",
         "provider": "Global Neurosciences Institute",
-        "durationSeconds": 3761.0,
+        "durationSeconds": 3761,
         "sourceUrl": "https://www.youtube.com/watch?v=sKqdcD0XmGY",
         "accessVerified": true
       },
@@ -3927,7 +4085,7 @@
         "title": "Dr. Joseph Dalmau, MD, PhD – An update on Autoimmune Encephalitis",
         "url": "https://www.youtube.com/watch?v=y9i9GI_NI2k",
         "provider": "Downstate Neurology",
-        "durationSeconds": 4613.0,
+        "durationSeconds": 4613,
         "sourceUrl": "https://www.youtube.com/watch?v=9XBeRjzwxBI",
         "accessVerified": true
       },
@@ -3936,7 +4094,7 @@
         "title": "Virtual Resident Education Lecture Series: Neuroinfectious Diseases",
         "url": "https://www.youtube.com/watch?v=fIsxfNKZqoQ",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3674.0,
+        "durationSeconds": 3674,
         "sourceUrl": "https://www.youtube.com/watch?v=fIsxfNKZqoQ",
         "accessVerified": true
       },
@@ -3945,7 +4103,7 @@
         "title": "NMOSD Grand Rounds | Emerging Principles & Practices for Imaging",
         "url": "https://www.youtube.com/watch?v=DyWF6WvlxZk",
         "provider": "The Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3227.0,
+        "durationSeconds": 3227,
         "sourceUrl": "https://www.youtube.com/watch?v=DyWF6WvlxZk",
         "accessVerified": true
       },
@@ -3954,7 +4112,7 @@
         "title": "Adventures in Encephalitis with Metagenomics and Phage Display",
         "url": "https://www.youtube.com/watch?v=Xxu8ddl996s",
         "provider": "UW Department of Neurology",
-        "durationSeconds": 3619.0,
+        "durationSeconds": 3619,
         "sourceUrl": "https://www.youtube.com/watch?v=Xxu8ddl996s",
         "accessVerified": true
       },
@@ -3963,7 +4121,7 @@
         "title": "Multiple Sclerosis 2024: Path to a Cure",
         "url": "https://www.youtube.com/watch?v=D5NnTgfAAWA",
         "provider": "UW Department of Neurology",
-        "durationSeconds": 3996.0,
+        "durationSeconds": 3996,
         "sourceUrl": "https://www.youtube.com/watch?v=D5NnTgfAAWA",
         "accessVerified": true
       },
@@ -3972,7 +4130,7 @@
         "title": "Chronic Meningitis & More",
         "url": "https://www.youtube.com/watch?v=8l6q75Ki6Ns",
         "provider": "UW Department of Neurology",
-        "durationSeconds": 3619.0,
+        "durationSeconds": 3619,
         "sourceUrl": "https://www.youtube.com/watch?v=8l6q75Ki6Ns",
         "accessVerified": true
       },
@@ -3981,7 +4139,7 @@
         "title": "EP 7: Updated in Pediatric Demyelinating Disease",
         "url": "https://www.youtube.com/watch?v=0295sS1P2fE",
         "provider": "Imaging Academic Outreach Center; Indiana University School of Medicine speakers",
-        "durationSeconds": 7990.0,
+        "durationSeconds": 7990,
         "sourceUrl": "https://www.youtube.com/watch?v=0295sS1P2fE",
         "accessVerified": true
       },
@@ -3990,7 +4148,7 @@
         "title": "NMOSD Grand Rounds | Diagnosis & Differential Diagnosis of NMOSD",
         "url": "https://www.youtube.com/watch?v=sgt2l4HhnKY",
         "provider": "The Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 4857.0,
+        "durationSeconds": 4857,
         "sourceUrl": "https://www.youtube.com/watch?v=sgt2l4HhnKY",
         "accessVerified": true
       },
@@ -3999,7 +4157,7 @@
         "title": "NMOSD Grand Rounds | Evidence-Based Rescue Strategies for Relapse",
         "url": "https://www.youtube.com/watch?v=QL81HNI8qCU",
         "provider": "The Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3262.0,
+        "durationSeconds": 3262,
         "sourceUrl": "https://www.youtube.com/watch?v=QL81HNI8qCU",
         "accessVerified": true
       },
@@ -4008,7 +4166,7 @@
         "title": "Multiple Sclerosis 101",
         "url": "https://www.youtube.com/watch?v=_hW9yT3hJLQ",
         "provider": "Stanford Center for Continuing Medical Education",
-        "durationSeconds": 2097.0,
+        "durationSeconds": 2097,
         "sourceUrl": "https://med.stanford.edu/neurology/divisions/neuroimmunology/videos.html",
         "accessVerified": true
       },
@@ -4017,7 +4175,7 @@
         "title": "Current Concepts of Multiple Sclerosis",
         "url": "https://www.youtube.com/watch?v=B0uKW1HnzUU",
         "provider": "Stanford Center for Continuing Medical Education",
-        "durationSeconds": 2022.0,
+        "durationSeconds": 2022,
         "sourceUrl": "https://med.stanford.edu/neurology/divisions/neuroimmunology/videos.html",
         "accessVerified": true
       },
@@ -4026,7 +4184,7 @@
         "title": "Diagnosis of Multiple Sclerosis",
         "url": "https://www.youtube.com/watch?v=oeO09Ib3jfo",
         "provider": "Stanford Center for Continuing Medical Education",
-        "durationSeconds": 2320.0,
+        "durationSeconds": 2320,
         "sourceUrl": "https://med.stanford.edu/neurology/divisions/neuroimmunology/videos.html",
         "accessVerified": true
       },
@@ -4035,7 +4193,7 @@
         "title": "Treatment of Multiple Sclerosis",
         "url": "https://www.youtube.com/watch?v=WYNy7pMIX9c",
         "provider": "Stanford Center for Continuing Medical Education",
-        "durationSeconds": 2195.0,
+        "durationSeconds": 2195,
         "sourceUrl": "https://med.stanford.edu/neurology/divisions/neuroimmunology/videos.html",
         "accessVerified": true
       },
@@ -4044,7 +4202,7 @@
         "title": "Multiple Sclerosis Lecture Series: Novel Therapies",
         "url": "https://www.youtube.com/watch?v=HjCztjQFld8",
         "provider": "Stanford Center for Continuing Medical Education",
-        "durationSeconds": 2365.0,
+        "durationSeconds": 2365,
         "sourceUrl": "https://med.stanford.edu/neurology/divisions/neuroimmunology/videos.html",
         "accessVerified": true
       },
@@ -4053,7 +4211,7 @@
         "title": "Virtual Resident Lecture Series: Multiple Sclerosis — Confidently Making a Diagnosis and Recognizing Mimics",
         "url": "https://www.youtube.com/watch?v=OEjraCKQ910",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3475.0,
+        "durationSeconds": 3475,
         "sourceUrl": "https://www.youtube.com/watch?v=OEjraCKQ910",
         "accessVerified": true
       },
@@ -4062,7 +4220,7 @@
         "title": "Global Health and Neuroimmunology: Breaking Global (Blood-Brain) Barriers | Neurology Grand Rounds",
         "url": "https://www.youtube.com/watch?v=N9qepbCMJnw",
         "provider": "Stanford Department of Neurology",
-        "durationSeconds": 3429.0,
+        "durationSeconds": 3429,
         "sourceUrl": "https://med.stanford.edu/neurology/divisions/neuroimmunology/videos.html",
         "accessVerified": true
       },
@@ -4071,7 +4229,7 @@
         "title": "Multiple Sclerosis Update 2025",
         "url": "https://www.youtube.com/watch?v=8PpR_TkPrW0",
         "provider": "University of Washington Department of Neurology",
-        "durationSeconds": 3447.0,
+        "durationSeconds": 3447,
         "sourceUrl": "https://neurology.uw.edu/2025/07/31/multiple-sclerosis-update-2025/",
         "accessVerified": true
       },
@@ -4080,7 +4238,7 @@
         "title": "Review of Pharmacotherapy in Multiple Sclerosis 7/26/23",
         "url": "https://www.youtube.com/watch?v=ec_xDqm5yec",
         "provider": "Mary Greeley Medical Center Physician Grand Rounds",
-        "durationSeconds": 3230.0,
+        "durationSeconds": 3230,
         "sourceUrl": "https://www.youtube.com/watch?v=ec_xDqm5yec",
         "accessVerified": true
       },
@@ -4089,7 +4247,7 @@
         "title": "NMOSD Grand Rounds | Pathogenesis & Immunologic Targets",
         "url": "https://www.youtube.com/watch?v=SWVBBFXq3Kw",
         "provider": "The Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3903.0,
+        "durationSeconds": 3903,
         "sourceUrl": "https://guthyjacksonfoundation.org/events/grand-rounds-immunologic-mechanisms-biomarkers/",
         "accessVerified": true
       },
@@ -4098,7 +4256,7 @@
         "title": "NMOSD Grand Rounds | Evaluating & Optimizing Patient Visual Health",
         "url": "https://www.youtube.com/watch?v=5D48wuWHnjc",
         "provider": "The Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3678.0,
+        "durationSeconds": 3678,
         "sourceUrl": "https://guthyjacksonfoundation.org/events/grand-rounds-optimizing-patient-visual-health/",
         "accessVerified": true
       },
@@ -4107,7 +4265,7 @@
         "title": "Emerging Tolerization Technologies & Clinical Trials | NMOSD Grand Rounds",
         "url": "https://www.youtube.com/watch?v=ZEm5VxsyA-s",
         "provider": "The Guthy-Jackson Charitable Foundation",
-        "durationSeconds": 3483.0,
+        "durationSeconds": 3483,
         "sourceUrl": "https://guthyjacksonfoundation.org/nmosd-education-center/",
         "accessVerified": true
       },
@@ -4116,7 +4274,7 @@
         "title": "Updates on Diagnosis of Meningitis and Encephalitis 2/22/17",
         "url": "https://www.youtube.com/watch?v=EBEwcCmASNg",
         "provider": "Mary Greeley Medical Center Physician Grand Rounds",
-        "durationSeconds": 3508.0,
+        "durationSeconds": 3508,
         "sourceUrl": "https://www.youtube.com/watch?v=EBEwcCmASNg",
         "accessVerified": true
       }
@@ -4306,7 +4464,7 @@
     ],
     "boardStatus": "No separate ABPN/ABMS Neuroimmunology or Neurological Infectious Disease subspecialty certification exam is listed on the current official ABPN/ABMS certificate directories (checked 2026-10-07). ABPN lists primary Neurology/Child Neurology and other named subspecialties such as Vascular Neurology, Neurocritical Care, Epilepsy, Clinical Neurophysiology, and Neuromuscular Medicine. Hopkins directory categorizes this program as Accrediting Body: “Non-Standard.” AAN consensus curriculum publication noted the subspecialty had not sought accreditation at that time. These facts do not establish or imply current ACGME accreditation. No separate board examination for this fellowship specialty was identified; primary neurology board eligibility remains governed by ABPN rules.",
     "boardEligibilityNotice": "Hopkins states applicants must have completed neurology or pediatric neurology residency and hold an MD/equivalent; fellowship page also describes board-eligible/certified neurologists. This institutional selection language is not a guarantee of ABPN eligibility. Board eligibility is determined by ABPN rules and individual training/licensure history. The independent course grants no board eligibility.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 25.61111111111111,
     "verifiedSpecialtyHours": 24.65861111111111,
     "verifiedFoundationHours": 0.9525,
@@ -4365,7 +4523,7 @@
         "title": "Seizures and Epilepsies (2023)",
         "url": "https://www.youtube.com/watch?v=JRG66FoUSsc",
         "provider": "",
-        "durationSeconds": 5431.0,
+        "durationSeconds": 5431,
         "sourceUrl": "https://www.youtube.com/watch?v=JRG66FoUSsc",
         "accessVerified": true
       },
@@ -4374,7 +4532,7 @@
         "title": "Virtual Resident Lecture Series: Multiple Sclerosis — Confidently Making a Diagnosis and Recognizing Mimics",
         "url": "https://www.youtube.com/watch?v=OEjraCKQ910",
         "provider": "",
-        "durationSeconds": 3475.0,
+        "durationSeconds": 3475,
         "sourceUrl": "https://www.youtube.com/watch?v=OEjraCKQ910",
         "accessVerified": true
       },
@@ -4383,7 +4541,7 @@
         "title": "Virtual Resident Lecture Series: Movement Disorder Emergencies",
         "url": "https://www.youtube.com/watch?v=z0EhEi2Ow7k",
         "provider": "",
-        "durationSeconds": 3570.0,
+        "durationSeconds": 3570,
         "sourceUrl": "https://www.youtube.com/watch?v=z0EhEi2Ow7k",
         "accessVerified": true
       },
@@ -4392,7 +4550,7 @@
         "title": "Neuroanatomy made ridiculously simple",
         "url": "https://www.youtube.com/watch?v=gvX5ao5SCjE",
         "provider": "",
-        "durationSeconds": 1663.0,
+        "durationSeconds": 1663,
         "sourceUrl": "https://www.youtube.com/watch?v=gvX5ao5SCjE",
         "accessVerified": true
       },
@@ -4401,7 +4559,7 @@
         "title": "Virtual Resident Education Lecture Series: Behavioral Neurology and Neuropsychiatry",
         "url": "https://www.youtube.com/watch?v=oaNwCpiYBRo",
         "provider": "",
-        "durationSeconds": 3751.0,
+        "durationSeconds": 3751,
         "sourceUrl": "https://www.youtube.com/watch?v=oaNwCpiYBRo",
         "accessVerified": true
       },
@@ -4410,7 +4568,7 @@
         "title": "VRELS: Neurocritical Care's Greatest Hits",
         "url": "https://www.youtube.com/watch?v=R0hfF7wXC-8",
         "provider": "",
-        "durationSeconds": 4264.0,
+        "durationSeconds": 4264,
         "sourceUrl": "https://www.youtube.com/watch?v=R0hfF7wXC-8",
         "accessVerified": true
       },
@@ -4419,7 +4577,7 @@
         "title": "VRELS: Brain Tumor Management for the Neurologist",
         "url": "https://www.youtube.com/watch?v=TTf_757_gC0",
         "provider": "",
-        "durationSeconds": 3730.0,
+        "durationSeconds": 3730,
         "sourceUrl": "https://www.youtube.com/watch?v=TTf_757_gC0",
         "accessVerified": true
       },
@@ -4428,7 +4586,7 @@
         "title": "Virtual Resident Education Lecture Series: Autonomic Disorders",
         "url": "https://www.youtube.com/watch?v=HIBU__WGakU",
         "provider": "",
-        "durationSeconds": 3619.0,
+        "durationSeconds": 3619,
         "sourceUrl": "https://www.youtube.com/watch?v=HIBU__WGakU",
         "accessVerified": true
       },
@@ -4437,7 +4595,7 @@
         "title": "Virtual Resident Education Lecture Series: Neuroinfectious Diseases",
         "url": "https://www.youtube.com/watch?v=fIsxfNKZqoQ",
         "provider": "",
-        "durationSeconds": 3674.0,
+        "durationSeconds": 3674,
         "sourceUrl": "https://www.youtube.com/watch?v=fIsxfNKZqoQ",
         "accessVerified": true
       },
@@ -4446,7 +4604,7 @@
         "title": "Virtual Education Lecture Series: How to be a Cognitive Neurology Clinician",
         "url": "https://www.youtube.com/watch?v=Mzw8v2DNDzI",
         "provider": "",
-        "durationSeconds": 3642.0,
+        "durationSeconds": 3642,
         "sourceUrl": "https://www.youtube.com/watch?v=Mzw8v2DNDzI",
         "accessVerified": true
       },
@@ -4455,7 +4613,7 @@
         "title": "Localization of Peripheral Nervous System Lesions",
         "url": "https://www.youtube.com/watch?v=5hc4LY6qeiA",
         "provider": "",
-        "durationSeconds": 4534.0,
+        "durationSeconds": 4534,
         "sourceUrl": "https://www.youtube.com/watch?v=5hc4LY6qeiA",
         "accessVerified": true
       },
@@ -4464,7 +4622,7 @@
         "title": "Introduction to Stroke",
         "url": "https://www.youtube.com/watch?v=MgCjRfmPLQ4",
         "provider": "",
-        "durationSeconds": 3476.0,
+        "durationSeconds": 3476,
         "sourceUrl": "https://www.youtube.com/watch?v=MgCjRfmPLQ4",
         "accessVerified": true
       },
@@ -4473,7 +4631,7 @@
         "title": "Public Lecture: Diagnosis and Treatment in a New Era for Dementia",
         "url": "https://www.youtube.com/watch?v=-f4ggqLdB9A",
         "provider": "",
-        "durationSeconds": 3643.0,
+        "durationSeconds": 3643,
         "sourceUrl": "https://www.youtube.com/watch?v=-f4ggqLdB9A",
         "accessVerified": true
       },
@@ -4482,7 +4640,7 @@
         "title": "Resident Education Lecture Series: Is it Time to Redefine Embolic Stroke of Unknown Source?",
         "url": "https://www.youtube.com/watch?v=jYb7AINwKzc",
         "provider": "",
-        "durationSeconds": 2957.0,
+        "durationSeconds": 2957,
         "sourceUrl": "https://www.youtube.com/watch?v=jYb7AINwKzc",
         "accessVerified": true
       },
@@ -4491,7 +4649,7 @@
         "title": "Movement Disorders",
         "url": "https://www.youtube.com/watch?v=LsK3vbY9C7I",
         "provider": "",
-        "durationSeconds": 4475.0,
+        "durationSeconds": 4475,
         "sourceUrl": "https://www.youtube.com/watch?v=LsK3vbY9C7I",
         "accessVerified": true
       },
@@ -4500,7 +4658,7 @@
         "title": "Effective Sleep History Taking: Techniques and Importance for Optimizing Patient Care",
         "url": "https://www.youtube.com/watch?v=A9524fG4NZE",
         "provider": "",
-        "durationSeconds": 3478.0,
+        "durationSeconds": 3478,
         "sourceUrl": "https://www.youtube.com/watch?v=A9524fG4NZE",
         "accessVerified": true
       },
@@ -4509,7 +4667,7 @@
         "title": "Virtual Resident Education Lecture Series: BPPV: Mechanisms, Myths, and Management",
         "url": "https://www.youtube.com/watch?v=UUpcNh56kBc",
         "provider": "",
-        "durationSeconds": 3513.0,
+        "durationSeconds": 3513,
         "sourceUrl": "https://www.youtube.com/watch?v=UUpcNh56kBc",
         "accessVerified": true
       },
@@ -4518,7 +4676,7 @@
         "title": "Virtual Education Lecture Series: Cerebrovascular Events in Pregnancy",
         "url": "https://www.youtube.com/watch?v=IMeV3Tqu0wE",
         "provider": "",
-        "durationSeconds": 4000.0,
+        "durationSeconds": 4000,
         "sourceUrl": "https://www.youtube.com/watch?v=IMeV3Tqu0wE",
         "accessVerified": true
       },
@@ -4527,7 +4685,7 @@
         "title": "Virtual Resident Education Lecture Series: Headache Medicine",
         "url": "https://www.youtube.com/watch?v=a332htjTrtk",
         "provider": "",
-        "durationSeconds": 3230.0,
+        "durationSeconds": 3230,
         "sourceUrl": "https://www.youtube.com/watch?v=a332htjTrtk",
         "accessVerified": true
       },
@@ -4536,7 +4694,7 @@
         "title": "Virtual Resident Education Lecture Series: Pediatric Headache",
         "url": "https://www.youtube.com/watch?v=1hyyJz6VHiw",
         "provider": "",
-        "durationSeconds": 3462.0,
+        "durationSeconds": 3462,
         "sourceUrl": "https://www.youtube.com/watch?v=1hyyJz6VHiw",
         "accessVerified": true
       },
@@ -4545,7 +4703,7 @@
         "title": "Virtual Resident Education Lecture Series: Neurogenetics",
         "url": "https://www.youtube.com/watch?v=CO4_4P9cTgA",
         "provider": "",
-        "durationSeconds": 3575.0,
+        "durationSeconds": 3575,
         "sourceUrl": "https://www.youtube.com/watch?v=CO4_4P9cTgA",
         "accessVerified": true
       },
@@ -4554,7 +4712,7 @@
         "title": "Virtual Resident Lecture Series: Child Neurology Focus on Neurogenetics",
         "url": "https://www.youtube.com/watch?v=fbSGvzW1rMo",
         "provider": "",
-        "durationSeconds": 3030.0,
+        "durationSeconds": 3030,
         "sourceUrl": "https://www.youtube.com/watch?v=fbSGvzW1rMo",
         "accessVerified": true
       },
@@ -4563,7 +4721,7 @@
         "title": "Virtual Resident Lecture Series: A Clinical Approach to Peripheral Neurology",
         "url": "https://www.youtube.com/watch?v=t7gkQOkrsJs",
         "provider": "",
-        "durationSeconds": 3382.0,
+        "durationSeconds": 3382,
         "sourceUrl": "https://www.youtube.com/watch?v=t7gkQOkrsJs",
         "accessVerified": true
       },
@@ -4572,7 +4730,7 @@
         "title": "Virtual Resident Education Lecture Series: What Is Papilledema?",
         "url": "https://www.youtube.com/watch?v=PPot-kiPw2k",
         "provider": "",
-        "durationSeconds": 3574.0,
+        "durationSeconds": 3574,
         "sourceUrl": "https://www.youtube.com/watch?v=PPot-kiPw2k",
         "accessVerified": true
       },
@@ -4581,7 +4739,7 @@
         "title": "Interventions for Carotid Stenosis: Where Do We Stand in 2024?",
         "url": "https://www.youtube.com/watch?v=E9ktv4o-U6Y",
         "provider": "",
-        "durationSeconds": 3415.0,
+        "durationSeconds": 3415,
         "sourceUrl": "https://www.youtube.com/watch?v=E9ktv4o-U6Y",
         "accessVerified": true
       },
@@ -4590,7 +4748,7 @@
         "title": "Virtual Resident Lecture Series: ALS Palliative Care",
         "url": "https://www.youtube.com/watch?v=TSdVyzBABuM",
         "provider": "",
-        "durationSeconds": 3586.0,
+        "durationSeconds": 3586,
         "sourceUrl": "https://www.youtube.com/watch?v=TSdVyzBABuM",
         "accessVerified": true
       },
@@ -4599,7 +4757,7 @@
         "title": "Virtual Resident Lecture Series: Unmasking Parkinson's Medications",
         "url": "https://www.youtube.com/watch?v=1YpnypeJHMo",
         "provider": "",
-        "durationSeconds": 3660.0,
+        "durationSeconds": 3660,
         "sourceUrl": "https://www.youtube.com/watch?v=1YpnypeJHMo",
         "accessVerified": true
       },
@@ -4608,7 +4766,7 @@
         "title": "Virtual Resident Education Lecture Series: Sleep Medicine",
         "url": "https://www.youtube.com/watch?v=5roTRxJ9uJE",
         "provider": "",
-        "durationSeconds": 3719.0,
+        "durationSeconds": 3719,
         "sourceUrl": "https://www.youtube.com/watch?v=5roTRxJ9uJE",
         "accessVerified": true
       },
@@ -4617,7 +4775,7 @@
         "title": "Distal Sensory Polyneuropathy",
         "url": "https://www.youtube.com/watch?v=Yh2gXs34uWU",
         "provider": "YouTube",
-        "durationSeconds": 3691.0,
+        "durationSeconds": 3691,
         "sourceUrl": "https://neurology.uw.edu/2026/09/03/distal-sensory-polyneuropathy/",
         "accessVerified": true
       },
@@ -4626,7 +4784,7 @@
         "title": "Imaging Approach to Pediatric Epilepsy",
         "url": "https://www.youtube.com/watch?v=e18eJzxzxD4",
         "provider": "YouTube",
-        "durationSeconds": 2982.0,
+        "durationSeconds": 2982,
         "sourceUrl": "https://neurology.uw.edu/2026/08/13/imaging-approach-to-pediatric-epilepsy/",
         "accessVerified": true
       },
@@ -4635,7 +4793,7 @@
         "title": "Acute Ischemic Stroke 2026",
         "url": "https://www.youtube.com/watch?v=_UMWQp1ggbE",
         "provider": "YouTube",
-        "durationSeconds": 3525.0,
+        "durationSeconds": 3525,
         "sourceUrl": "https://neurology.uw.edu/2026/07/16/acute-ischemic-stroke-2026/",
         "accessVerified": true
       },
@@ -4644,7 +4802,7 @@
         "title": "Multiple Sclerosis Update 2025",
         "url": "https://www.youtube.com/watch?v=8PpR_TkPrW0",
         "provider": "YouTube",
-        "durationSeconds": 3447.0,
+        "durationSeconds": 3447,
         "sourceUrl": "https://neurology.uw.edu/2025/07/31/multiple-sclerosis-update-2025/",
         "accessVerified": true
       },
@@ -4653,7 +4811,7 @@
         "title": "Sleep Medicine: new treatments, new concepts, and a new diagnosis",
         "url": "https://www.youtube.com/watch?v=IjlZ8o3eaP8",
         "provider": "YouTube",
-        "durationSeconds": 3819.0,
+        "durationSeconds": 3819,
         "sourceUrl": "https://neurology.uw.edu/2021/08/26/sleep-medicine-new-treatments-new-concepts-and-a-new-diagnosis/",
         "accessVerified": true
       },
@@ -4662,7 +4820,7 @@
         "title": "Therapeutic Options for Neuromyelitis Optica: Evolution and Revolution",
         "url": "https://www.youtube.com/watch?v=zjye20gyUvg",
         "provider": "YouTube",
-        "durationSeconds": 3788.0,
+        "durationSeconds": 3788,
         "sourceUrl": "https://neurology.uw.edu/2020/04/16/therapeutic-options-for-neuromyelitis-optica-evolution-and-revolution/",
         "accessVerified": true
       },
@@ -4671,7 +4829,7 @@
         "title": "A Journey Through The Continuum: Seizures, Coma, And ICU EEG (Make Easy!)",
         "url": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_86x3z6ww",
         "provider": "University of Utah Kaltura",
-        "durationSeconds": 3632.0,
+        "durationSeconds": 3632,
         "sourceUrl": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_86x3z6ww",
         "accessVerified": true
       },
@@ -4680,7 +4838,7 @@
         "title": "Biomarker Based Diagnosis Of Alzheimer's Disease: Ready Or Not, Here We Go",
         "url": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_v4okr5wn",
         "provider": "University of Utah Kaltura",
-        "durationSeconds": 4401.0,
+        "durationSeconds": 4401,
         "sourceUrl": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_v4okr5wn",
         "accessVerified": true
       },
@@ -4689,7 +4847,7 @@
         "title": "Autoimmune - Associated Epilepsy & The Buyer's Guide To Autonomic Testing",
         "url": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_kxrg76wr",
         "provider": "University of Utah Kaltura",
-        "durationSeconds": 3600.0,
+        "durationSeconds": 3600,
         "sourceUrl": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_kxrg76wr",
         "accessVerified": true
       },
@@ -4698,7 +4856,7 @@
         "title": "Neuromuscular Oncology, The Specialty You've Never Heard Of",
         "url": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_khygtws8",
         "provider": "University of Utah Kaltura",
-        "durationSeconds": 3724.0,
+        "durationSeconds": 3724,
         "sourceUrl": "https://medicine.utah.edu/neurology/grand-rounds/video?video=1_khygtws8",
         "accessVerified": true
       }
@@ -4835,11 +4993,11 @@
     ],
     "boardStatus": "The input item is a category-level institutional directory page, not one single physician specialty fellowship. The BIDMC page lists distinct clinical fellowship tracks and a research option; no single “Neurology Fellowship” subspecialty board exam exists. ABPN lists its current subspecialty examinations separately, and sleep medicine is a co-sponsored assessment administered by ABIM. Cognitive Neurology, Movement Disorders, Multiple Sclerosis and Neuro-Oncology are institutional tracks in the source list, not automatically equivalent to a separate ABPN exam. No assertion is made that every BIDMC listed track is ACGME-accredited or confers a board exam.",
     "boardEligibilityNotice": "This independent course establishes no eligibility for ABPN, ABIM, ACGME training, medical licensure or any certification. ABPN primary certification requires qualifying medical degree, accredited/approved training, full unrestricted license and other current requirements; subspecialty requirements differ and may require separate accredited fellowship training. Check the live board and programme pages. Self-study is not clinical training.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 36.56805555555555,
     "verifiedSpecialtyHours": 36.10611111111111,
     "verifiedFoundationHours": 0.46194444444444444,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

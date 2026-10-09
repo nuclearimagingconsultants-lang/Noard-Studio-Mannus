@@ -9,7 +9,7 @@
       "note": "Study workload plan only (not recorded video hours): 12 units × about 6 hours (readings, notes, case practice and assessments) = 72h; introductory UNICEF/WHO course estimated 20–30h from its 10 thematic modules at 2–3h each, treated as interactive study time and not double-counted; capstone/assignment/review 18h. Individual time varies; this is a plan, not observed learner time."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-157_d4680520.pdf",
+    "syllabusUrl": "/manus-storage/MED-157_4065c41e.pdf",
     "pdfIds": [
       "med-syllabus-MED-157",
       "med-reading-2c4ce64796f7",
@@ -75,7 +75,7 @@
         "title": "Maternal Child Environmental Health Webinar Series: Part 1",
         "url": "https://www.youtube.com/watch?v=YeK2xw4weCw",
         "provider": "Alliance of Nurses for Healthy Environments (ANHE), public YouTube channel",
-        "durationSeconds": 3861.0,
+        "durationSeconds": 3861,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLkmpNHXVLmk6XjbK6SR603zkvsYg8dmTB",
         "accessVerified": true
       },
@@ -84,7 +84,7 @@
         "title": "Maternal Child Environmental Health Webinar Series: Part 2",
         "url": "https://www.youtube.com/watch?v=-yAlCgzLqVA",
         "provider": "Alliance of Nurses for Healthy Environments (ANHE), public YouTube channel",
-        "durationSeconds": 3769.0,
+        "durationSeconds": 3769,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLkmpNHXVLmk6XjbK6SR603zkvsYg8dmTB",
         "accessVerified": true
       },
@@ -93,7 +93,7 @@
         "title": "Maternal Child Environmental Health Webinar Series: Part 3",
         "url": "https://www.youtube.com/watch?v=35-ZIZFwKOM",
         "provider": "Alliance of Nurses for Healthy Environments (ANHE), public YouTube channel",
-        "durationSeconds": 3694.0,
+        "durationSeconds": 3694,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLkmpNHXVLmk6XjbK6SR603zkvsYg8dmTB",
         "accessVerified": true
       },
@@ -102,7 +102,7 @@
         "title": "MACCHE Webinar Series Part 4: PFAS",
         "url": "https://www.youtube.com/watch?v=WJfkQZuUqAs",
         "provider": "Alliance of Nurses for Healthy Environments (ANHE), public YouTube channel; speaker affiliated with Mid-Atlantic Center for Children’s Health and the Environment (MACCHE/Region 3 PEHSU)",
-        "durationSeconds": 3583.0,
+        "durationSeconds": 3583,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLkmpNHXVLmk6XjbK6SR603zkvsYg8dmTB",
         "accessVerified": true
       },
@@ -111,7 +111,7 @@
         "title": "Keeping Indoor Air Safe for Little Lungs: A Children's Environmental Health Day webinar",
         "url": "https://www.youtube.com/watch?v=2g_IlqVCyqI",
         "provider": "Children's Environmental Health Day educational webinar",
-        "durationSeconds": 3128.0,
+        "durationSeconds": 3128,
         "sourceUrl": "https://www.youtube.com/watch?v=2g_IlqVCyqI",
         "accessVerified": true
       },
@@ -120,7 +120,7 @@
         "title": "EPA Tools & Resources Webinar: Pediatric Environmental Health Specialty Units",
         "url": "https://www.youtube.com/watch?v=2EcMXKxw7Lg",
         "provider": "U.S. Environmental Protection Agency",
-        "durationSeconds": 3431.0,
+        "durationSeconds": 3431,
         "sourceUrl": "https://www.epa.gov/research-states/pediatric-environmental-health-specialty-units-webinar-archive",
         "accessVerified": true
       },
@@ -129,7 +129,7 @@
         "title": "Children's Environmental Health Day with Maryland Health Professionals for a Healthy Climate",
         "url": "https://www.youtube.com/watch?v=pR23JJxdr8U",
         "provider": "Maryland League of Conservation Voters and Maryland Public Health Association",
-        "durationSeconds": 3341.0,
+        "durationSeconds": 3341,
         "sourceUrl": "https://www.youtube.com/watch?v=pR23JJxdr8U",
         "accessVerified": true
       },
@@ -138,7 +138,7 @@
         "title": "Enduring Legacy of Lead: Webinar Recording",
         "url": "https://www.youtube.com/watch?v=GmxPJzXDHpc",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH), University of Pennsylvania",
-        "durationSeconds": 3292.0,
+        "durationSeconds": 3292,
         "sourceUrl": "https://prcceh.upenn.edu/5188-2/",
         "accessVerified": true
       },
@@ -147,7 +147,7 @@
         "title": "Not So Sweet: Applesauce, Lunchables and Lead webinar recording",
         "url": "https://www.youtube.com/watch?v=VR-UBwI-iXk",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH), University of Pennsylvania; presenter Kevin Osterhoudt, MD, pediatrician and medical toxicologist at Children's Hospital of Philadelphia",
-        "durationSeconds": 2650.0,
+        "durationSeconds": 2650,
         "sourceUrl": "https://prcceh.upenn.edu/not-so-sweet-applesauce-lunchables-and-lead-webinar-recording/",
         "accessVerified": true
       },
@@ -156,7 +156,7 @@
         "title": "Assessing Childhood Exposure to Toxic Metals from 3-D Printing: Webinar Recording",
         "url": "https://www.youtube.com/watch?v=NaTAS6zujXM",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH), University of Pennsylvania; Thomas Gluodenis, PhD, Lincoln University of Pennsylvania",
-        "durationSeconds": 3187.0,
+        "durationSeconds": 3187,
         "sourceUrl": "https://prcceh.upenn.edu/assessing-childhood-exposure-to-toxic-metals-during-3-d-printing-webinar-recording/",
         "accessVerified": true
       },
@@ -165,7 +165,7 @@
         "title": "Perinatal Environmental Health in Philadelphia: Webinar Recording",
         "url": "https://www.youtube.com/watch?v=Wt0XpC6Lwmo",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH), University of Pennsylvania; Heather Burris, MD, MPH, Children's Hospital of Philadelphia and University of Pennsylvania",
-        "durationSeconds": 1645.0,
+        "durationSeconds": 1645,
         "sourceUrl": "https://prcceh.upenn.edu/seminar-recordings-from-our-2025-annual-symposium/",
         "accessVerified": true
       },
@@ -174,7 +174,7 @@
         "title": "PFAS and Child Development: Webinar Recording",
         "url": "https://www.youtube.com/watch?v=g_Sd43Drai8",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH), University of Pennsylvania; Sara Pinney, MD, MS and Joanne Stanton",
-        "durationSeconds": 2746.0,
+        "durationSeconds": 2746,
         "sourceUrl": "https://prcceh.upenn.edu/pfas-and-child-development-webinar-recording/",
         "accessVerified": true
       },
@@ -183,7 +183,7 @@
         "title": "Penn-CHOP ECHO Cohort and Methodological Innovations: Webinar Recording",
         "url": "https://www.youtube.com/watch?v=doPkfV4yKjY",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH), Penn Medicine and Children's Hospital of Philadelphia; Sunni Mumford, PhD, University of Pennsylvania",
-        "durationSeconds": 3126.0,
+        "durationSeconds": 3126,
         "sourceUrl": "https://prcceh.upenn.edu/webinars/",
         "accessVerified": true
       },
@@ -192,7 +192,7 @@
         "title": "CDC's Preventive Medicine Grand Rounds: Environmental Health for Preventive Medicine",
         "url": "https://www.youtube.com/watch?v=BSAic4clZw8",
         "provider": "Centers for Disease Control and Prevention (CDC), Preventive Medicine Grand Rounds; Tony Neri, MD",
-        "durationSeconds": 5300.0,
+        "durationSeconds": 5300,
         "sourceUrl": "https://www.youtube.com/watch?v=BSAic4clZw8",
         "accessVerified": true
       },
@@ -201,7 +201,7 @@
         "title": "Telehealth based primary prevention of childhood lead poisoning: Webinar Recording",
         "url": "https://www.youtube.com/watch?v=QSMhJDOTUk4",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH), University of Pennsylvania; Noah Buncher, DO, FAAP, Children's Hospital of Philadelphia",
-        "durationSeconds": 2549.0,
+        "durationSeconds": 2549,
         "sourceUrl": "https://prcceh.upenn.edu/telehealth-based-primary-prevention-of-childhood-lead-poisoning-webinar-recording/",
         "accessVerified": true
       },
@@ -210,7 +210,7 @@
         "title": "Communication Skills for Children's Environmental Health - Webinar Recording",
         "url": "https://www.youtube.com/watch?v=K-qeqgc8Ad8",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH) and CHARTER Center; Soroya Julian McFarlane, PhD, University of Georgia",
-        "durationSeconds": 3380.0,
+        "durationSeconds": 3380,
         "sourceUrl": "https://prcceh.upenn.edu/webinars/",
         "accessVerified": true
       },
@@ -219,7 +219,7 @@
         "title": "Assessing exposure to endocrine disrupting chemicals through ultra-processed food: Webinar Recording",
         "url": "https://www.youtube.com/watch?v=FbHA5VyN8nY",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH), University of Pennsylvania; Liz Costello, PhD, MPH, Brown University",
-        "durationSeconds": 2313.0,
+        "durationSeconds": 2313,
         "sourceUrl": "https://prcceh.upenn.edu/assessing-exposure-to-endocrine-disrupting-chemicals-through-ultra-processed-food-webinar-recording/",
         "accessVerified": true
       },
@@ -228,7 +228,7 @@
         "title": "The Race to Research: Plastic, Microplastics, and Human Health - Webinar Recording",
         "url": "https://www.youtube.com/watch?v=LbeibUexQoc",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH), University of Pennsylvania; Megan J. Wolff, PhD, MPH",
-        "durationSeconds": 2548.0,
+        "durationSeconds": 2548,
         "sourceUrl": "https://prcceh.upenn.edu/race-to-research-plastics-microplastics-and-human-health-webinar-recording/",
         "accessVerified": true
       },
@@ -237,7 +237,7 @@
         "title": "Identifying and addressing lead exposure knowledge gaps: Webinar Recording",
         "url": "https://www.youtube.com/watch?v=bZwu3SlLtLU",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH), University of Pennsylvania; Harriet Okatch, PhD, MPH, Thomas Jefferson University",
-        "durationSeconds": 2271.0,
+        "durationSeconds": 2271,
         "sourceUrl": "https://prcceh.upenn.edu/identifying-and-addressing-lead-exposure-knowledge-gaps-webinar-recording/",
         "accessVerified": true
       },
@@ -246,7 +246,7 @@
         "title": "PRCCEH May Seminar: Prenatal Lead and Mercury Monitoring in New Jersey",
         "url": "https://www.youtube.com/watch?v=-ol9IgulmEM",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH), University of Pennsylvania; Eric Bind, New Jersey Department of Health",
-        "durationSeconds": 3132.0,
+        "durationSeconds": 3132,
         "sourceUrl": "https://prcceh.upenn.edu/webinar-recording-prenatal-lead-and-mercury-monitoring-in-new-jersey/",
         "accessVerified": true
       },
@@ -255,7 +255,7 @@
         "title": "Air Pollution Heat, and the Neighborhood Environment: Environmental Determinants of Perinatal Health",
         "url": "https://www.youtube.com/watch?v=1y2_zmKyGnI",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH), University of Pennsylvania; Tim Nelin, MD, Children's Hospital of Philadelphia",
-        "durationSeconds": 2377.0,
+        "durationSeconds": 2377,
         "sourceUrl": "https://prcceh.upenn.edu/webinar-recording-air-pollution-heat-and-the-neighborhood-environment/",
         "accessVerified": true
       },
@@ -264,7 +264,7 @@
         "title": "Environmental Risks to Preterm Health Across the Lifespan: Webinar Recording",
         "url": "https://www.youtube.com/watch?v=6C2LywdM1Rc",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH), University of Pennsylvania; Michelle Kelly, PhD, CRNP, Villanova University/Mid-Atlantic Center for Children's Health and the Environment",
-        "durationSeconds": 1788.0,
+        "durationSeconds": 1788,
         "sourceUrl": "https://prcceh.upenn.edu/seminar-recordings-from-our-2025-annual-symposium/",
         "accessVerified": true
       },
@@ -273,7 +273,7 @@
         "title": "Communicating Asthma Prevention to Patients - Webinar Recording",
         "url": "https://www.youtube.com/watch?v=be4Ue1QI4UY",
         "provider": "Philadelphia Regional Center for Children's Environmental Health (PRCCEH), University of Pennsylvania; Sharon McGrath-Morrow, MD, Children's Hospital of Philadelphia",
-        "durationSeconds": 3077.0,
+        "durationSeconds": 3077,
         "sourceUrl": "https://prcceh.upenn.edu/webinars/",
         "accessVerified": true
       },
@@ -282,8 +282,26 @@
         "title": "PEH Grand Rounds Woolf Oct 2023",
         "url": "https://www.youtube.com/watch?v=qfkxAeQn_xo",
         "provider": "Boston Children's Hospital Pediatric Environmental Health Center Grand Rounds; Alan Woolf, MD, MPH",
-        "durationSeconds": 3346.0,
+        "durationSeconds": 3346,
         "sourceUrl": "https://www.childrenshospital.org/services/pediatric-environmental-health-center/learning-opportunities/grand-rounds",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-157-REC-001",
+        "title": "Getting the Message Right: Heat Risk Communication To Protect Children",
+        "url": "https://www.youtube.com/watch?v=GHB5dAc2u-A",
+        "provider": "Children's Environmental Health Collaborative, with UNICEF and the Global Heat Health Information Network named by the official event page",
+        "durationSeconds": 5537,
+        "sourceUrl": "https://ceh.unicef.org/events-and-resources/events/getting-message-right-heat-risk-communication-protect-children",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-157-REC-002",
+        "title": "Addressing the Impact of Extreme Heat on Young Children",
+        "url": "https://www.youtube.com/watch?v=Cs-LwU83Kp8",
+        "provider": "Center on the Developing Child at Harvard University",
+        "durationSeconds": 3700,
+        "sourceUrl": "https://developingchild.harvard.edu/resources/webinars/addressing-impact-of-extreme-heat-on-young-children/",
         "accessVerified": true
       }
     ],
@@ -435,7 +453,9 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "MED-157-ADD-003",
-          "MED-157-ADD-017"
+          "MED-157-ADD-017",
+          "MED-157-REC-001",
+          "MED-157-REC-002"
         ]
       },
       {
@@ -458,7 +478,9 @@
           "MED-157-ADD-012",
           "MED-157-ADD-014",
           "MED-157-ADD-015",
-          "MED-157-ADD-019"
+          "MED-157-ADD-019",
+          "MED-157-REC-001",
+          "MED-157-REC-002"
         ]
       },
       {
@@ -484,11 +506,11 @@
     ],
     "boardStatus": "No separate pediatric environmental health certifying examination appears in ABP current listed pediatric subspecialties. ACGME Pediatrics overview does not list pediatric environmental health as an accredited subspecialty. The named Boston Children’s/Harvard fellowship is clinical physician training; packet records it as Non-ACGME. Its required ABP pediatric eligibility/certification should not be misrepresented as a PEH board exam.",
     "boardEligibilityNotice": "Independent self-study has no effect on ABP eligibility. BCH page states applicants must be in or have completed a pediatrics-related residency/fellowship and have ABP eligibility or certification in pediatrics. Confirm any current programme requirements directly with the institution. No separate board exam or guaranteed eligibility is claimed.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 20.426111111111112,
-    "verifiedSpecialtyHours": 18.085555555555555,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 22.991944444444446,
+    "verifiedSpecialtyHours": 20.65138888888889,
     "verifiedFoundationHours": 2.3405555555555555,
-    "hoursGap": 15.573888888888888,
+    "hoursGap": 13.008055555555554,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -529,7 +551,7 @@
         "title": "ESPGHAN Webinar - Basic and Advanced Endoscopic Techniques in Pediatric GI",
         "url": "https://www.youtube.com/watch?v=92s26o21iM8",
         "provider": "ESPGHAN",
-        "durationSeconds": 4441.0,
+        "durationSeconds": 4441,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -538,7 +560,7 @@
         "title": "ESPGHAN Webinar: Paediatric Liver Disease Genetic and Nutrition",
         "url": "https://www.youtube.com/watch?v=JLCnc1WGvu0",
         "provider": "ESPGHAN",
-        "durationSeconds": 5795.0,
+        "durationSeconds": 5795,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -547,7 +569,7 @@
         "title": "YE Webinar - Lifesaving Nutrition: The Role of Enteral Feeding in Paediatric Intestinal Failure",
         "url": "https://www.youtube.com/watch?v=YDshhpfpcaY",
         "provider": "ESPGHAN",
-        "durationSeconds": 3136.0,
+        "durationSeconds": 3136,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -556,7 +578,7 @@
         "title": "ESPGHAN Webinar: Autoimmune Hepatitis: A Comprehensive Guide to Effective Management",
         "url": "https://www.youtube.com/watch?v=uIhkZ_mekpU",
         "provider": "ESPGHAN",
-        "durationSeconds": 4510.0,
+        "durationSeconds": 4510,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -565,7 +587,7 @@
         "title": "ESPGHAN Webinar: The Low FODMAP Diet: Unlocking Relief for IBS in Children",
         "url": "https://www.youtube.com/watch?v=fFW4nHG-2Zk",
         "provider": "ESPGHAN",
-        "durationSeconds": 4585.0,
+        "durationSeconds": 4585,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -574,7 +596,7 @@
         "title": "YE Webinar - Nutritional Management of Eosinophilic GI Disorders",
         "url": "https://www.youtube.com/watch?v=dFo0P8EhAUE",
         "provider": "ESPGHAN",
-        "durationSeconds": 3784.0,
+        "durationSeconds": 3784,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -583,7 +605,7 @@
         "title": "YE Webinar: Treatment Refractory GERD",
         "url": "https://www.youtube.com/watch?v=5x6SmeS-B0c",
         "provider": "ESPGHAN",
-        "durationSeconds": 5001.0,
+        "durationSeconds": 5001,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -592,7 +614,7 @@
         "title": "Webinar: Unveiling the gluten challenge",
         "url": "https://www.youtube.com/watch?v=wUobJvK13Js",
         "provider": "ESPGHAN",
-        "durationSeconds": 2947.0,
+        "durationSeconds": 2947,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -601,7 +623,7 @@
         "title": "Webinar: Follow-up in celiac disease",
         "url": "https://www.youtube.com/watch?v=2Eir9Lw1VJk",
         "provider": "ESPGHAN",
-        "durationSeconds": 4143.0,
+        "durationSeconds": 4143,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -610,7 +632,7 @@
         "title": "Webinar: PSC in Children with Inflammatory Bowel Disease",
         "url": "https://www.youtube.com/watch?v=DTDBz7ziPCM",
         "provider": "ESPGHAN",
-        "durationSeconds": 3678.0,
+        "durationSeconds": 3678,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -619,7 +641,7 @@
         "title": "Webinar - Breaking the Cycle: Innovative Approaches to Managing Intractable Constipation",
         "url": "https://www.youtube.com/watch?v=dHNge1vwtrk",
         "provider": "ESPGHAN",
-        "durationSeconds": 4219.0,
+        "durationSeconds": 4219,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -628,7 +650,7 @@
         "title": "ESPGHAN Webinar: Unraveling Wilson Disease",
         "url": "https://www.youtube.com/watch?v=RpuZFhOcYmA",
         "provider": "ESPGHAN",
-        "durationSeconds": 3757.0,
+        "durationSeconds": 3757,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -637,7 +659,7 @@
         "title": "Webinar: Intestinal Ultrasound: Seeing beyond the Lumen",
         "url": "https://www.youtube.com/watch?v=hp07YBsrAFU",
         "provider": "ESPGHAN",
-        "durationSeconds": 3615.0,
+        "durationSeconds": 3615,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -646,7 +668,7 @@
         "title": "ESPGHAN Webinar: Recurrent Acute Liver Failure – the current landscape!",
         "url": "https://www.youtube.com/watch?v=w6nSGHwUNi8",
         "provider": "ESPGHAN",
-        "durationSeconds": 3788.0,
+        "durationSeconds": 3788,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -655,7 +677,7 @@
         "title": "YE Webinar - Unraveling the Gut-Brain Connection: Microbiome's Role in DGBIs",
         "url": "https://www.youtube.com/watch?v=m9WS5JUJuE0",
         "provider": "ESPGHAN",
-        "durationSeconds": 3796.0,
+        "durationSeconds": 3796,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -664,7 +686,7 @@
         "title": "Webinar - Drug therapies for Celiac Disease",
         "url": "https://www.youtube.com/watch?v=EAT_X6AiM8s",
         "provider": "ESPGHAN",
-        "durationSeconds": 3597.0,
+        "durationSeconds": 3597,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -673,7 +695,7 @@
         "title": "ESPGHAN Webinar - Navigating blended diet in the community setting",
         "url": "https://www.youtube.com/watch?v=pAZRXeNvF0w",
         "provider": "ESPGHAN",
-        "durationSeconds": 3030.0,
+        "durationSeconds": 3030,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -682,7 +704,7 @@
         "title": "ESPGHAN Webinar - Portal hypertension SIG: clinical cases and update on current literature",
         "url": "https://www.youtube.com/watch?v=7yTZ5PoVom0",
         "provider": "ESPGHAN",
-        "durationSeconds": 5305.0,
+        "durationSeconds": 5305,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -691,7 +713,7 @@
         "title": "Webinar: Food insecurity implications for child and public health",
         "url": "https://www.youtube.com/watch?v=H6YwVjml9JQ",
         "provider": "ESPGHAN",
-        "durationSeconds": 3373.0,
+        "durationSeconds": 3373,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -700,7 +722,7 @@
         "title": "Pediatric Polyposis Syndromes: From Genetics to Endoscopic Management",
         "url": "https://www.youtube.com/watch?v=P6TMpVrwu2I",
         "provider": "ESPGHAN",
-        "durationSeconds": 4246.0,
+        "durationSeconds": 4246,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -709,7 +731,7 @@
         "title": "ESPGHAN webinar - Bridging the Gap: Transitioning from Paediatric to Adult Gastroenterology Services",
         "url": "https://www.youtube.com/watch?v=vzb54yYVask",
         "provider": "ESPGHAN",
-        "durationSeconds": 3810.0,
+        "durationSeconds": 3810,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -718,7 +740,7 @@
         "title": "YE Webinar - IBD, Fertility and Pregnancy",
         "url": "https://www.youtube.com/watch?v=HZ5A4z23UHk",
         "provider": "ESPGHAN",
-        "durationSeconds": 3544.0,
+        "durationSeconds": 3544,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -727,7 +749,7 @@
         "title": "The New Era of Allergy: Crossover between neurogastroenterology and food hypersensitivity",
         "url": "https://www.youtube.com/watch?v=XKL02fo6074",
         "provider": "ESPGHAN",
-        "durationSeconds": 3075.0,
+        "durationSeconds": 3075,
         "sourceUrl": "https://www.espghan.org/knowledge-center/ESPGHAN-Webinars",
         "accessVerified": true
       },
@@ -736,7 +758,7 @@
         "title": "Stanford Pediatric Grand Rounds: Next Level Pediatric Inflammatory Bowel Disease",
         "url": "https://www.youtube.com/watch?v=LRnoX9j4RPY",
         "provider": "Stanford Department of Pediatrics",
-        "durationSeconds": 3672.0,
+        "durationSeconds": 3672,
         "sourceUrl": "https://med.stanford.edu/pediatrics/education/grandrounds.html",
         "accessVerified": true
       },
@@ -745,7 +767,7 @@
         "title": "Childhood Inflammatory Bowel Disease: Advancing Toward Precision Medicine",
         "url": "https://www.youtube.com/watch?v=dmSS83VghlE",
         "provider": "Stanford Medicine",
-        "durationSeconds": 3426.0,
+        "durationSeconds": 3426,
         "sourceUrl": "https://med.stanford.edu/pediatrics/education/grandrounds.html",
         "accessVerified": true
       },
@@ -754,7 +776,7 @@
         "title": "Crossing the Golden Gate: Timely Interventions and Research in Acute Pancreatitis",
         "url": "https://www.youtube.com/watch?v=f1CwWBwBAAM",
         "provider": "Stanford Medicine",
-        "durationSeconds": 2618.0,
+        "durationSeconds": 2618,
         "sourceUrl": "https://med.stanford.edu/pediatrics/education/grandrounds.html",
         "accessVerified": true
       },
@@ -763,7 +785,7 @@
         "title": "Novel Pathways Regulating Fetal Growth",
         "url": "https://www.youtube.com/watch?v=aYE32S1IhtA",
         "provider": "Stanford Medicine",
-        "durationSeconds": 3343.0,
+        "durationSeconds": 3343,
         "sourceUrl": "https://med.stanford.edu/pediatrics/education/grandrounds.html",
         "accessVerified": true
       },
@@ -772,7 +794,7 @@
         "title": "Stanford Pediatric Grand Rounds: Inborn Errors of Immunity and Pediatric IBD",
         "url": "https://www.youtube.com/watch?v=ZIVb2H2qXss",
         "provider": "Stanford Department of Pediatrics",
-        "durationSeconds": 3753.0,
+        "durationSeconds": 3753,
         "sourceUrl": "https://med.stanford.edu/pediatrics/education/grandrounds.html",
         "accessVerified": true
       },
@@ -781,7 +803,7 @@
         "title": "Stanford Pediatric Grand Rounds: Advancing Health Equity in Liver Transplantation",
         "url": "https://www.youtube.com/watch?v=H8ef0bImeNM",
         "provider": "Stanford Department of Pediatrics",
-        "durationSeconds": 3518.0,
+        "durationSeconds": 3518,
         "sourceUrl": "https://med.stanford.edu/pediatrics/education/grandrounds.html",
         "accessVerified": true
       },
@@ -790,7 +812,7 @@
         "title": "Stanford Pediatric Grand Rounds: Optimizing Outcomes in Pediatric Liver Transplantation",
         "url": "https://www.youtube.com/watch?v=DlT9NB_LBkY",
         "provider": "Stanford Department of Pediatrics",
-        "durationSeconds": 3791.0,
+        "durationSeconds": 3791,
         "sourceUrl": "https://med.stanford.edu/pediatrics/education/grandrounds.html",
         "accessVerified": true
       },
@@ -799,7 +821,7 @@
         "title": "Stanford Pediatric Grand Rounds: Solving Asparaginase-Associated Pancreatitis",
         "url": "https://www.youtube.com/watch?v=gz14HU9kgtk",
         "provider": "Stanford Department of Pediatrics",
-        "durationSeconds": 3534.0,
+        "durationSeconds": 3534,
         "sourceUrl": "https://med.stanford.edu/pediatrics/education/grandrounds.html",
         "accessVerified": true
       },
@@ -808,7 +830,7 @@
         "title": "Stanford Pediatric Grand Rounds: Hepatitis C - The Arc from Discovery to Cure",
         "url": "https://www.youtube.com/watch?v=_AffGfxTlvs",
         "provider": "Stanford Department of Pediatrics",
-        "durationSeconds": 3379.0,
+        "durationSeconds": 3379,
         "sourceUrl": "https://med.stanford.edu/pediatrics/education/grandrounds.html",
         "accessVerified": true
       },
@@ -817,7 +839,7 @@
         "title": "Stanford Pediatric Grand Rounds: Multidisciplinary Teamwork to Equitably Deliver Precision Digital Health",
         "url": "https://www.youtube.com/watch?v=zORutqGRI5M",
         "provider": "Stanford Department of Pediatrics",
-        "durationSeconds": 3260.0,
+        "durationSeconds": 3260,
         "sourceUrl": "https://med.stanford.edu/pediatrics/education/grandrounds.html",
         "accessVerified": true
       },
@@ -826,7 +848,7 @@
         "title": "Pediatric Grand Rounds: Intestinal Failure",
         "url": "https://www.youtube.com/watch?v=7MatTdZ4TnA",
         "provider": "Pitt Department of Pediatrics",
-        "durationSeconds": 3628.0,
+        "durationSeconds": 3628,
         "sourceUrl": "https://www.pediatrics.pitt.edu/divisions/gastroenterology-hepatology-and-nutrition/education-and-training/symposia",
         "accessVerified": true
       },
@@ -835,7 +857,7 @@
         "title": "Gastroenterology Friday Lecture Series: Food for Thought-Defined Diets & Exclusive Enteral Nutrition",
         "url": "https://www.youtube.com/watch?v=Ogd4G4Vcwks",
         "provider": "Pitt Department of Pediatrics",
-        "durationSeconds": 3890.0,
+        "durationSeconds": 3890,
         "sourceUrl": "https://www.pediatrics.pitt.edu/divisions/gastroenterology-hepatology-and-nutrition/education-and-training/symposia",
         "accessVerified": true
       },
@@ -844,7 +866,7 @@
         "title": "Gastroenterology Friday Lecture Series: Metabolic Liver Diseases (September 16, 2021)",
         "url": "https://www.youtube.com/watch?v=fC9IRN1WpWM",
         "provider": "Pitt Department of Pediatrics",
-        "durationSeconds": 2730.0,
+        "durationSeconds": 2730,
         "sourceUrl": "https://www.pediatrics.pitt.edu/divisions/gastroenterology-hepatology-and-nutrition/education-and-training/symposia",
         "accessVerified": true
       },
@@ -853,7 +875,7 @@
         "title": "Pediatric Grand Rounds: Hepatitis C Virus Infection in Children and Adolescents in 2024",
         "url": "https://www.youtube.com/watch?v=88mpW2G9-Rw",
         "provider": "Pitt Department of Pediatrics",
-        "durationSeconds": 2752.0,
+        "durationSeconds": 2752,
         "sourceUrl": "https://www.pediatrics.pitt.edu/divisions/gastroenterology-hepatology-and-nutrition/education-and-training/symposia",
         "accessVerified": true
       },
@@ -862,7 +884,7 @@
         "title": "PFIC: Genetic Contributions to Its Phenotype and Treatment Considerations | UPMC Children's",
         "url": "https://www.youtube.com/watch?v=A5hc9PaaWKU",
         "provider": "UPMC Children’s Hospital of Pittsburgh",
-        "durationSeconds": 3210.0,
+        "durationSeconds": 3210,
         "sourceUrl": "https://www.youtube.com/@childrenshospgh",
         "accessVerified": true
       },
@@ -871,7 +893,7 @@
         "title": "Intestinal Failure Associated Liver Disease Pediatric Grand Rounds 9-13-2024 Meeting Recording",
         "url": "https://www.youtube.com/watch?v=UaV1xOcZPac",
         "provider": "University of Texas Health Science Center at San Antonio",
-        "durationSeconds": 2762.0,
+        "durationSeconds": 2762,
         "sourceUrl": "https://www.uthscsa.edu/academics/medicine",
         "accessVerified": true
       },
@@ -880,7 +902,7 @@
         "title": "IBD in Children: The Latest in Diagnosis & Treatment",
         "url": "https://www.youtube.com/watch?v=OLU7g4F5dw4",
         "provider": "Columbia University Irving Medical Center",
-        "durationSeconds": 3619.0,
+        "durationSeconds": 3619,
         "sourceUrl": "https://www.columbiadoctors.org/childrens-health",
         "accessVerified": true
       }
@@ -1045,11 +1067,11 @@
     ],
     "boardStatus": "This is an actual pediatric physician subspecialty with a separate ABP Pediatric Gastroenterology subspecialty certifying examination and a published ABP content outline. As of 2026-10-07, ABP states eligibility requires three years of full-time broad-based fellowship in an ACGME-accredited US or RCPSC-accredited Canadian program, program-director verification of training/clinical competence, scholarly activity and passing the exam. ABP criteria may change. Pediatric Transplant Hepatology is a separate ABP certificate/pathway and is not a combined exam or included training track here.",
     "boardEligibilityNotice": "Independent self-study is not ACGME/RCPSC-accredited fellowship training, does not establish ABP exam eligibility, does not confer certification, licensure, clinical privileges or procedural competence, and cannot guarantee a passing result. Verify current eligibility directly with ABP.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 41.12777777777778,
     "verifiedSpecialtyHours": 38.35666666666667,
     "verifiedFoundationHours": 2.7711111111111113,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1095,7 +1117,7 @@
         "title": "Pediatric Hematology/Oncology Webinar Series Session 1 — Peter Cole, MD",
         "url": "https://www.youtube.com/watch?v=eBYM389dUZk",
         "provider": "Rutgers Cancer Institute",
-        "durationSeconds": 3194.0,
+        "durationSeconds": 3194,
         "sourceUrl": "https://www.youtube.com/watch?v=eBYM389dUZk",
         "accessVerified": true
       },
@@ -1104,7 +1126,7 @@
         "title": "Pediatric Hematology/Oncology Webinar Series Session 3 — Scott Moerdler, MD",
         "url": "https://www.youtube.com/watch?v=m9xBD_0dclY",
         "provider": "Rutgers Cancer Institute",
-        "durationSeconds": 2742.0,
+        "durationSeconds": 2742,
         "sourceUrl": "https://www.youtube.com/watch?v=m9xBD_0dclY",
         "accessVerified": true
       },
@@ -1113,7 +1135,7 @@
         "title": "Webinar 4: Bleeding Disorders in Children — William B. Mitchell, MD",
         "url": "https://www.youtube.com/watch?v=NbGpc0nrUNs",
         "provider": "Montefiore Health System",
-        "durationSeconds": 2252.0,
+        "durationSeconds": 2252,
         "sourceUrl": "https://www.youtube.com/watch?v=NbGpc0nrUNs",
         "accessVerified": true
       },
@@ -1538,11 +1560,11 @@
     ],
     "boardStatus": "Distinct pediatric subspecialty certification exam administered by ABP; separate from general pediatrics certification. Training and eligibility requirements are determined by ABP.",
     "boardEligibilityNotice": "This independent course confers no board eligibility. ABP requires three years of qualifying fellowship, scholarly activity, training verification and a passing separate subspecialty exam, in addition to its general and subspecialty-specific criteria. Check current board rules. ACGME entry criteria and limited exceptions do not themselves guarantee board eligibility. Institutional dual-board options require separate confirmation with both boards.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 38.33618638888888,
     "verifiedSpecialtyHours": 38.33618638888888,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 0.0,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1595,7 +1617,7 @@
         "title": "Bronchiolitis – An evidence based approach to clinical practice (Pediatric Grand Rounds)",
         "url": "https://www.youtube.com/watch?v=xnJTVBV2sdU",
         "provider": "University of Texas Health Science Center at San Antonio, Department of Pediatrics; presenter Nirupama Kannikeswaran",
-        "durationSeconds": 3202.0,
+        "durationSeconds": 3202,
         "sourceUrl": "https://www.youtube.com/watch?v=xnJTVBV2sdU",
         "accessVerified": true
       },
@@ -1604,7 +1626,7 @@
         "title": "Pediatric Sepsis: Improving Recognition, Care and Outcomes for All Children",
         "url": "https://www.youtube.com/watch?v=Vzu800VjNh0",
         "provider": "Seattle Children’s Provider Grand Rounds; Lori Rutman, MD, MPH",
-        "durationSeconds": 2304.0,
+        "durationSeconds": 2304,
         "sourceUrl": "https://www.youtube.com/watch?v=Vzu800VjNh0",
         "accessVerified": true
       },
@@ -1613,7 +1635,7 @@
         "title": "Designing Safer Pediatric Care via Human Factors, Reliable System and Intelligent Tools",
         "url": "https://www.youtube.com/watch?v=teSCK9eNb2g",
         "provider": "Seattle Children’s Provider Grand Rounds; Kristina Toncray, MD, FAAP",
-        "durationSeconds": 3613.0,
+        "durationSeconds": 3613,
         "sourceUrl": "https://www.youtube.com/watch?v=teSCK9eNb2g",
         "accessVerified": true
       },
@@ -1622,7 +1644,7 @@
         "title": "Creating a PATH: Improving Pediatric to Adult Transitions in Healthcare",
         "url": "https://www.youtube.com/watch?v=0v9OEaidipE",
         "provider": "Seattle Children’s Provider Grand Rounds; Susan Hunt, MD, SFHM, UW/Seattle Children’s Hospitalist Services and transition-of-care program medical director",
-        "durationSeconds": 3357.0,
+        "durationSeconds": 3357,
         "sourceUrl": "https://www.youtube.com/watch?v=0v9OEaidipE",
         "accessVerified": true
       },
@@ -1631,7 +1653,7 @@
         "title": "From Basement to Bedside: Embedding Learning in Pediatric Acute Care Medicine",
         "url": "https://www.youtube.com/watch?v=mNKykut_jfI",
         "provider": "Seattle Children’s Provider Grand Rounds; Chris Horvat, MD, MHA, MSIT (UPMC Children’s Hospital of Pittsburgh / University of Pittsburgh)",
-        "durationSeconds": 3618.0,
+        "durationSeconds": 3618,
         "sourceUrl": "https://www.youtube.com/watch?v=mNKykut_jfI",
         "accessVerified": true
       },
@@ -1640,7 +1662,7 @@
         "title": "Helping the Helpers: Empowering Parents to Navigate Behavior",
         "url": "https://www.youtube.com/watch?v=4twvD8l112U",
         "provider": "Seattle Children’s Provider Grand Rounds; Julia Mattson, MD, PhD, developmental-behavioral pediatrician",
-        "durationSeconds": 2836.0,
+        "durationSeconds": 2836,
         "sourceUrl": "https://www.seattlechildrens.org/healthcare-professionals/education/grand-rounds/online/",
         "accessVerified": true
       },
@@ -1649,7 +1671,7 @@
         "title": "Coccidioidomycosis (Valley Fever) | Pediatric Grand Rounds - Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=u_gms-9GwT0",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3103.0,
+        "durationSeconds": 3103,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1658,7 +1680,7 @@
         "title": "Enhancing Resilience and Recovery | Pediatric Grand Rounds - Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=K5yepNjAZ6E",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2886.0,
+        "durationSeconds": 2886,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1667,7 +1689,7 @@
         "title": "Colds and Asthma Exacerbations | Pediatric Grand Rounds | Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=h8kpX-pI2pU",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2601.0,
+        "durationSeconds": 2601,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1676,7 +1698,7 @@
         "title": "Teaching Ethics at the Bedside | Pediatric Grand Rounds | Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=zasHQiYZH6I",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2530.0,
+        "durationSeconds": 2530,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1685,7 +1707,7 @@
         "title": "From Hospital to Hospice | Pediatric Grand Rounds - Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=Geygx3ln9MQ",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2609.0,
+        "durationSeconds": 2609,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1694,7 +1716,7 @@
         "title": "The Right Ventricle | Pediatric Grand Rounds - Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=qsHZ8rOmf74",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2906.0,
+        "durationSeconds": 2906,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1703,7 +1725,7 @@
         "title": "Pediatric Sepsis | Pediatric Grand Round - Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=ofTJCVCYu7c",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2315.0,
+        "durationSeconds": 2315,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1712,7 +1734,7 @@
         "title": "Cannabidiol and Medical Marijuana | Pediatric Grand Rounds - Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=NQKvHdeNJAc",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3421.0,
+        "durationSeconds": 3421,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1721,7 +1743,7 @@
         "title": "Global Pediatric Imaging | Pediatric Grand Rounds - Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=5aLXbujFFKU",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 1909.0,
+        "durationSeconds": 1909,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1730,7 +1752,7 @@
         "title": "A Change of Heart | Pediatric Grand Rounds - Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=HHGHReMDTEQ",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2861.0,
+        "durationSeconds": 2861,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1739,7 +1761,7 @@
         "title": "Population Health and Child Poverty | Pediatric Grand Rounds - Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=pOVaseuUiTA",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2955.0,
+        "durationSeconds": 2955,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1748,7 +1770,7 @@
         "title": "Calcium, Phosphorus & Vitamin D - Kate Wesseling, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=sgG6gBP1MOw",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3055.0,
+        "durationSeconds": 3055,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1757,7 +1779,7 @@
         "title": "Ion Channels in ARDS - Andreas Schwingshackl, MD, PhD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=oXVz4Vd5tbk",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2642.0,
+        "durationSeconds": 2642,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1766,7 +1788,7 @@
         "title": "UTI in Children - Richard Fine, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=ytEB1mg2PPg",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2708.0,
+        "durationSeconds": 2708,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1775,7 +1797,7 @@
         "title": "Hypercoagulability Testing - Gavin Roach, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=y_rrv8HMzd4",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3032.0,
+        "durationSeconds": 3032,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1784,7 +1806,7 @@
         "title": "Eosinophilic Esophagitis - Laura Wozniak, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=_fHPO3RX-DY",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3038.0,
+        "durationSeconds": 3038,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1793,7 +1815,7 @@
         "title": "Zika Virus - Karin Nielsen, MD | Pediatric Grand Round - Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=F0bPcSxz2A8",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3008.0,
+        "durationSeconds": 3008,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1802,7 +1824,7 @@
         "title": "Anxiety Caused By Tragedy | UCLA Health Pediatric Grand Rounds - Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=Xrp_8RpkcOQ",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2881.0,
+        "durationSeconds": 2881,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1811,7 +1833,7 @@
         "title": "Kingella Kingae Disease | Pediatric Grand Rounds - Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=0OFIwTEIOMQ",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3001.0,
+        "durationSeconds": 3001,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1820,7 +1842,7 @@
         "title": "Cell Therapy for HIE - C. Michael Cotten, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=FGqjC1U8Ds0",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3047.0,
+        "durationSeconds": 3047,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1829,7 +1851,7 @@
         "title": "Intellectual Disabilities - Alicia Bazzano, MD, PhD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=Yl2yCaGpkTY",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3556.0,
+        "durationSeconds": 3556,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1838,7 +1860,7 @@
         "title": "Youth Incarceration & Health - Elizabeth Barnert, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=UMDeaUIGxy0",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2788.0,
+        "durationSeconds": 2788,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1847,7 +1869,7 @@
         "title": "SB 277 Advocacy In Action - Dean Blumberg, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=yB1n1FJ4VfY",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3083.0,
+        "durationSeconds": 3083,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1856,7 +1878,7 @@
         "title": "T-Cell Therapies - Catherine Bollard, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=8bSEL6MKmG8",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2874.0,
+        "durationSeconds": 2874,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1865,7 +1887,7 @@
         "title": "Pediatric Asthma Treatment - Sande Okelo, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=ewvZ99k_MfU",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2840.0,
+        "durationSeconds": 2840,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1874,7 +1896,7 @@
         "title": "Foreign Body Aspiration and Ingestion - Nina Shapiro, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=8dIXlNGQRco",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2213.0,
+        "durationSeconds": 2213,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1883,7 +1905,7 @@
         "title": "Cancer Predisposition - Vivian Chang, MD & Julian Martinez, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=pVW9poC2a3c",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2967.0,
+        "durationSeconds": 2967,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1892,7 +1914,7 @@
         "title": "Pediatric Telemedicine - James Marcin, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=8vK_i7bYrKo",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2938.0,
+        "durationSeconds": 2938,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1901,7 +1923,7 @@
         "title": "Malignant Bone Tumors in Children - Noah Federman, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=uuJiOidPAWM",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3243.0,
+        "durationSeconds": 3243,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1910,7 +1932,7 @@
         "title": "Kawasaki Disease New Horizons - Jane Burns, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=hjC9vZ4DVg8",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2671.0,
+        "durationSeconds": 2671,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1919,7 +1941,7 @@
         "title": "Improving Child Immunization - Peter Szilagyi, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=vOTqqtKlp8o",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3169.0,
+        "durationSeconds": 3169,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1928,7 +1950,7 @@
         "title": "Late Preterm Infants - Valencia Walker, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=G-OlH9PfTxA",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3004.0,
+        "durationSeconds": 3004,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1937,7 +1959,7 @@
         "title": "Pediatric Melanoma - Ronald Cotliar, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=DPtCCOdVI4Y",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3253.0,
+        "durationSeconds": 3253,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1946,7 +1968,7 @@
         "title": "Kidney Transplantation - Stanley Jordan, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=ld9Akn3gnpo",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 2813.0,
+        "durationSeconds": 2813,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1955,7 +1977,7 @@
         "title": "Pediatric Subacute Care - Irwin Weiss, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=Ok3v7DdKhlk",
         "provider": "UCLA Mattel Children’s Hospital / David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3259.0,
+        "durationSeconds": 3259,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -1964,7 +1986,7 @@
         "title": "Thursday – October 9th, 2025, 8:00 - 9:00 am (MST) Annual Robert D. Christensen, MD Endowed Lecture",
         "url": "https://www.youtube.com/watch?v=mVfBLEijEzs",
         "provider": "Intermountain Health / Primary Children’s Hospital and University of Utah School of Medicine",
-        "durationSeconds": 4303.0,
+        "durationSeconds": 4303,
         "sourceUrl": "https://intermountainhealthcare.org/for-professionals/pediatric-grand-rounds",
         "accessVerified": true
       },
@@ -1973,7 +1995,7 @@
         "title": "Thursday – October 2nd, 2025, 8:00 - 9:00 am (MST) Interdisciplinary Care of Children in ...",
         "url": "https://www.youtube.com/watch?v=-8H3TowmwN8",
         "provider": "Intermountain Health / Primary Children’s Hospital and University of Utah School of Medicine",
-        "durationSeconds": 4376.0,
+        "durationSeconds": 4376,
         "sourceUrl": "https://intermountainhealthcare.org/for-professionals/pediatric-grand-rounds",
         "accessVerified": true
       },
@@ -1982,7 +2004,7 @@
         "title": "Thursday – September 18th, 2025, 8:00 - 9:00 am (MST) Case Records of Primary Children’s Hospital:",
         "url": "https://www.youtube.com/watch?v=FW9O67-lO0o",
         "provider": "Intermountain Health / Primary Children’s Hospital and University of Utah School of Medicine",
-        "durationSeconds": 4288.0,
+        "durationSeconds": 4288,
         "sourceUrl": "https://intermountainhealthcare.org/for-professionals/pediatric-grand-rounds",
         "accessVerified": true
       },
@@ -1991,7 +2013,7 @@
         "title": "Thursday – August 27th, 2026, 8:00 - 9:00 am (MST) Out of Silos, Into Sync:...",
         "url": "https://www.youtube.com/watch?v=eWyhh2_gPl4",
         "provider": "Intermountain Health / Primary Children’s Hospital and University of Utah School of Medicine",
-        "durationSeconds": 4420.0,
+        "durationSeconds": 4420,
         "sourceUrl": "https://intermountainhealthcare.org/for-professionals/pediatric-grand-rounds",
         "accessVerified": true
       },
@@ -2000,7 +2022,7 @@
         "title": "Thursday – September 3rd, 2026, 8:00 - 9:00 am (MST) Dr. Edward B. Clark Endowed Lecture...",
         "url": "https://www.youtube.com/watch?v=jyVEa-YyXcE",
         "provider": "Intermountain Health / Primary Children’s Hospital and University of Utah School of Medicine",
-        "durationSeconds": 4282.0,
+        "durationSeconds": 4282,
         "sourceUrl": "https://intermountainhealthcare.org/for-professionals/pediatric-grand-rounds",
         "accessVerified": true
       }
@@ -2191,11 +2213,11 @@
     ],
     "boardStatus": "ABP-recognized pediatric subspecialty with a distinct certifying examination. ABP specifies completion of an accredited PHM fellowship (two-year or three-year pathway, depending on training) and passing the examination for certification; this independent curriculum confers neither eligibility nor certification.",
     "boardEligibilityNotice": "Eligibility criteria are controlled by ABP and may change. Verify current general/subspecialty criteria and approved training directly with ABP. A course is not accredited fellowship, supervised clinical experience, or board preparation assurance.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 39.382777777777775,
     "verifiedSpecialtyHours": 33.6925,
     "verifiedFoundationHours": 5.690277777777778,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2238,7 +2260,7 @@
         "title": "Pediatric antimicrobial resistance in the United States",
         "url": "https://www.youtube.com/watch?v=bnV9b94IK-w",
         "provider": "Stanford Department of Pediatrics / Pranita Tamma, Johns Hopkins",
-        "durationSeconds": 3870.0,
+        "durationSeconds": 3870,
         "sourceUrl": "https://www.youtube.com/watch?v=bnV9b94IK-w",
         "accessVerified": true
       },
@@ -2247,7 +2269,7 @@
         "title": "Global efforts and impacts on antimicrobial resistance in children",
         "url": "https://www.youtube.com/watch?v=TeSO2d_1giU",
         "provider": "Pediatric Infectious Diseases Society (PIDS)",
-        "durationSeconds": 3906.0,
+        "durationSeconds": 3906,
         "sourceUrl": "https://www.youtube.com/watch?v=TeSO2d_1giU",
         "accessVerified": true
       },
@@ -2256,7 +2278,7 @@
         "title": "Pediatric infectious diseases on the rise: five syndromes",
         "url": "https://www.youtube.com/watch?v=YdP9fA8uu00",
         "provider": "Stanford CME / Roshni Matthew",
-        "durationSeconds": 3092.0,
+        "durationSeconds": 3092,
         "sourceUrl": "https://www.youtube.com/watch?v=YdP9fA8uu00",
         "accessVerified": true
       },
@@ -2265,7 +2287,7 @@
         "title": "Grand rounds in pediatric infectious diseases: clinical cases",
         "url": "https://www.youtube.com/watch?v=SIf0KMbTcJI",
         "provider": "Pediatric Oncall / Ira Shah",
-        "durationSeconds": 2465.0,
+        "durationSeconds": 2465,
         "sourceUrl": "https://www.youtube.com/watch?v=SIf0KMbTcJI",
         "accessVerified": true
       },
@@ -2274,7 +2296,7 @@
         "title": "Suggested beta-lactam dosing in pediatric resistant Gram-negative infections: article discussion",
         "url": "https://www.youtube.com/watch?v=NVSiajmB-Pc",
         "provider": "PIDS / JPIDS Editor-in-Chief discussion",
-        "durationSeconds": 343.0,
+        "durationSeconds": 343,
         "sourceUrl": "https://www.youtube.com/watch?v=NVSiajmB-Pc",
         "accessVerified": true
       },
@@ -2283,7 +2305,7 @@
         "title": "Febrile infant management: evidence discussion",
         "url": "https://www.youtube.com/watch?v=EVx516gFx1Y",
         "provider": "PIDS / 10 Minutes With JPIDS",
-        "durationSeconds": 710.0,
+        "durationSeconds": 710,
         "sourceUrl": "https://www.youtube.com/watch?v=EVx516gFx1Y",
         "accessVerified": true
       },
@@ -2292,7 +2314,7 @@
         "title": "Pediatric coccidioidomycosis research update",
         "url": "https://www.youtube.com/watch?v=o66lhhLYJQ4",
         "provider": "PIDS / 10 Minutes With JPIDS",
-        "durationSeconds": 1548.0,
+        "durationSeconds": 1548,
         "sourceUrl": "https://www.youtube.com/watch?v=o66lhhLYJQ4",
         "accessVerified": true
       },
@@ -2301,7 +2323,7 @@
         "title": "Early measles vaccine under age one: article discussion",
         "url": "https://www.youtube.com/watch?v=eiiV3PGcyIE",
         "provider": "PIDS / 10 Minutes With JPIDS",
-        "durationSeconds": 846.0,
+        "durationSeconds": 846,
         "sourceUrl": "https://www.youtube.com/watch?v=eiiV3PGcyIE",
         "accessVerified": true
       },
@@ -2310,7 +2332,7 @@
         "title": "Mortality in children with COVID-19: research discussion",
         "url": "https://www.youtube.com/watch?v=xoFu7EvRfzA",
         "provider": "PIDS / 10 Minutes With JPIDS",
-        "durationSeconds": 666.0,
+        "durationSeconds": 666,
         "sourceUrl": "https://www.youtube.com/watch?v=xoFu7EvRfzA",
         "accessVerified": true
       },
@@ -2319,7 +2341,7 @@
         "title": "Clinician feedback reports and antibiotic use in children with medical complexity",
         "url": "https://www.youtube.com/watch?v=57jM20vPD08",
         "provider": "PIDS / 10 Minutes With JPIDS",
-        "durationSeconds": 899.0,
+        "durationSeconds": 899,
         "sourceUrl": "https://www.youtube.com/watch?v=57jM20vPD08",
         "accessVerified": true
       },
@@ -2328,7 +2350,7 @@
         "title": "CDC Grand Rounds: Unusual Transplant-associated Infections",
         "url": "https://www.youtube.com/watch?v=I_3ly1OfXD4",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3504.0,
+        "durationSeconds": 3504,
         "sourceUrl": "https://www.youtube.com/watch?v=I_3ly1OfXD4",
         "accessVerified": true
       },
@@ -2337,7 +2359,7 @@
         "title": "Kingella Kingae Disease | Pediatric Grand Rounds – Mattel Children’s Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=0OFIwTEIOMQ",
         "provider": "David Geffen School of Medicine at UCLA / Joseph St. Geme, MD (Children’s Hospital Orange County)",
-        "durationSeconds": 3000.0,
+        "durationSeconds": 3000,
         "sourceUrl": "https://www.youtube.com/watch?v=0OFIwTEIOMQ",
         "accessVerified": true
       },
@@ -2346,7 +2368,7 @@
         "title": "TEPHI Grand Rounds - Cyclospora cayetanensis: Reflections of a parasitologist",
         "url": "https://www.youtube.com/watch?v=p4h1O9QT83Q",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3851.0,
+        "durationSeconds": 3851,
         "sourceUrl": "https://www.youtube.com/watch?v=p4h1O9QT83Q",
         "accessVerified": true
       },
@@ -2355,7 +2377,7 @@
         "title": "TEPHI Grand Rounds - The Cost of Beauty: Infections Associated with Cosmetic Procedures",
         "url": "https://www.youtube.com/watch?v=nXXKQcKORJg",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3657.0,
+        "durationSeconds": 3657,
         "sourceUrl": "https://www.youtube.com/watch?v=nXXKQcKORJg",
         "accessVerified": true
       },
@@ -2364,7 +2386,7 @@
         "title": "TEPHI Grand Rounds - Hepatitis B and Recent Updates in Pediatric Immunization Schedules",
         "url": "https://www.youtube.com/watch?v=VMoAlOL5Zrs",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3485.0,
+        "durationSeconds": 3485,
         "sourceUrl": "https://www.youtube.com/watch?v=VMoAlOL5Zrs",
         "accessVerified": true
       },
@@ -2373,7 +2395,7 @@
         "title": "TEPHI Grand Rounds - Re-Emergence of Pertussis in the US: Risks and Prevention",
         "url": "https://www.youtube.com/watch?v=xb5eVx5Rubs",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3766.0,
+        "durationSeconds": 3766,
         "sourceUrl": "https://www.youtube.com/watch?v=xb5eVx5Rubs",
         "accessVerified": true
       },
@@ -2382,7 +2404,7 @@
         "title": "TEPHI Grand Rounds - History, Rats, Fleas, and Opossums: The Rise of Flea-Borne Typhus in Texas",
         "url": "https://www.youtube.com/watch?v=LD_Ql0e5D8Y",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 4224.0,
+        "durationSeconds": 4224,
         "sourceUrl": "https://www.youtube.com/watch?v=LD_Ql0e5D8Y",
         "accessVerified": true
       },
@@ -2391,7 +2413,7 @@
         "title": "TEPHI Grand Rounds - West Texas Measles Outbreak: A Local Public Health Perspective",
         "url": "https://www.youtube.com/watch?v=27e_DiFr1UQ",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3560.0,
+        "durationSeconds": 3560,
         "sourceUrl": "https://www.youtube.com/watch?v=27e_DiFr1UQ",
         "accessVerified": true
       },
@@ -2400,7 +2422,7 @@
         "title": "TEPHI Grand Rounds - Human Prion Diseases",
         "url": "https://www.youtube.com/watch?v=hp458DyXcYg",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3857.0,
+        "durationSeconds": 3857,
         "sourceUrl": "https://www.youtube.com/watch?v=hp458DyXcYg",
         "accessVerified": true
       },
@@ -2409,7 +2431,7 @@
         "title": "TEPHI Grand Rounds: Melioidosis: A Concern in Texas?",
         "url": "https://www.youtube.com/watch?v=AnnYVEvWIC4",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3500.0,
+        "durationSeconds": 3500,
         "sourceUrl": "https://www.youtube.com/watch?v=AnnYVEvWIC4",
         "accessVerified": true
       },
@@ -2418,7 +2440,7 @@
         "title": "TEPHI Grand Rounds | Hemorrhagic Fevers: Emerging Threats and Global Health Responses",
         "url": "https://www.youtube.com/watch?v=jagtVLztqu0",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3778.0,
+        "durationSeconds": 3778,
         "sourceUrl": "https://www.youtube.com/watch?v=jagtVLztqu0",
         "accessVerified": true
       },
@@ -2427,7 +2449,7 @@
         "title": "TEPHI Grand Rounds - Antimicrobial Resistance",
         "url": "https://www.youtube.com/watch?v=W6ZsxtmOyAg",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3544.0,
+        "durationSeconds": 3544,
         "sourceUrl": "https://www.youtube.com/watch?v=W6ZsxtmOyAg",
         "accessVerified": true
       },
@@ -2436,7 +2458,7 @@
         "title": "TEPHI Grand Rounds - Dengue: Increasing Global Burden and Challenges in Vaccine Development",
         "url": "https://www.youtube.com/watch?v=JoHXtQTlbf4",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3631.0,
+        "durationSeconds": 3631,
         "sourceUrl": "https://www.youtube.com/watch?v=JoHXtQTlbf4",
         "accessVerified": true
       },
@@ -2445,7 +2467,7 @@
         "title": "TEPHI Grand Rounds - Fungal Outbreaks",
         "url": "https://www.youtube.com/watch?v=qOdF2VAhNnA",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3098.0,
+        "durationSeconds": 3098,
         "sourceUrl": "https://www.youtube.com/watch?v=qOdF2VAhNnA",
         "accessVerified": true
       },
@@ -2454,7 +2476,7 @@
         "title": "Grand Rounds: Long COVID in Harris County",
         "url": "https://www.youtube.com/watch?v=1YZP4vOiFes",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3548.0,
+        "durationSeconds": 3548,
         "sourceUrl": "https://www.youtube.com/watch?v=1YZP4vOiFes",
         "accessVerified": true
       },
@@ -2463,7 +2485,7 @@
         "title": "Grand Rounds: Mitigating Future Pandemics",
         "url": "https://www.youtube.com/watch?v=T6Q1dAnN-0E",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3621.0,
+        "durationSeconds": 3621,
         "sourceUrl": "https://www.youtube.com/watch?v=T6Q1dAnN-0E",
         "accessVerified": true
       },
@@ -2472,7 +2494,7 @@
         "title": "Grand Rounds: Chagas Disease in the US",
         "url": "https://www.youtube.com/watch?v=z37W6gRuTyg",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3447.0,
+        "durationSeconds": 3447,
         "sourceUrl": "https://www.youtube.com/watch?v=z37W6gRuTyg",
         "accessVerified": true
       },
@@ -2481,7 +2503,7 @@
         "title": "Grand Rounds: Catching Syphilis Early",
         "url": "https://www.youtube.com/watch?v=yFAu8LccnkM",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3992.0,
+        "durationSeconds": 3992,
         "sourceUrl": "https://www.youtube.com/watch?v=yFAu8LccnkM",
         "accessVerified": true
       },
@@ -2490,7 +2512,7 @@
         "title": "TEPHI Grand Rounds: Linking Science to Action: GIS for Public Health",
         "url": "https://www.youtube.com/watch?v=bGJ4Bo9ne4U",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3974.0,
+        "durationSeconds": 3974,
         "sourceUrl": "https://www.youtube.com/watch?v=bGJ4Bo9ne4U",
         "accessVerified": true
       },
@@ -2499,7 +2521,7 @@
         "title": "TEPHI Grand Rounds - Human Noroviruses – Cruising Towards Prevention",
         "url": "https://www.youtube.com/watch?v=BacEA67SQ5c",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3673.0,
+        "durationSeconds": 3673,
         "sourceUrl": "https://www.youtube.com/watch?v=BacEA67SQ5c",
         "accessVerified": true
       },
@@ -2508,7 +2530,7 @@
         "title": "TEPHI Grand Rounds - Highly Pathogenic Avian Influenza – A Diagnostician’s Perspective",
         "url": "https://www.youtube.com/watch?v=i3reFsKtsRk",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3761.0,
+        "durationSeconds": 3761,
         "sourceUrl": "https://www.youtube.com/watch?v=i3reFsKtsRk",
         "accessVerified": true
       },
@@ -2517,7 +2539,7 @@
         "title": "TEPHI Grand Rounds - Vector Borne Diseases in Texas",
         "url": "https://www.youtube.com/watch?v=lZP5mzjKIBs",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3497.0,
+        "durationSeconds": 3497,
         "sourceUrl": "https://www.youtube.com/watch?v=lZP5mzjKIBs",
         "accessVerified": true
       },
@@ -2526,7 +2548,7 @@
         "title": "TEPHI Grand Rounds - Lighting Viral Dark Matter with Wastewater Science: Dr. Anthony Maresso",
         "url": "https://www.youtube.com/watch?v=k41-YKb01Bs",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3620.0,
+        "durationSeconds": 3620,
         "sourceUrl": "https://www.youtube.com/watch?v=k41-YKb01Bs",
         "accessVerified": true
       },
@@ -2535,7 +2557,7 @@
         "title": "TEPHI GR | Lessons Learned from COVID: Local Public Health Response to Emerging Infectious Diseases",
         "url": "https://www.youtube.com/watch?v=G29-Bi2vgNE",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3641.0,
+        "durationSeconds": 3641,
         "sourceUrl": "https://www.youtube.com/watch?v=G29-Bi2vgNE",
         "accessVerified": true
       },
@@ -2544,7 +2566,7 @@
         "title": "TEPHI Grand Rounds | Severe Hepatitis in Children: What is the Role of Adenovirus?",
         "url": "https://www.youtube.com/watch?v=vY12IFZTzBY",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3299.0,
+        "durationSeconds": 3299,
         "sourceUrl": "https://www.youtube.com/watch?v=vY12IFZTzBY",
         "accessVerified": true
       },
@@ -2553,7 +2575,7 @@
         "title": "TEPHI Grand Rounds: Monkeypox An Old Disease in New Places",
         "url": "https://www.youtube.com/watch?v=Sn86OWmi1aU",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3721.0,
+        "durationSeconds": 3721,
         "sourceUrl": "https://www.youtube.com/watch?v=Sn86OWmi1aU",
         "accessVerified": true
       },
@@ -2562,7 +2584,7 @@
         "title": "Infection Prevention and Control Module 309: Outbreak Investigation",
         "url": "https://www.youtube.com/watch?v=hEBzJjfRisw",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 4441.0,
+        "durationSeconds": 4441,
         "sourceUrl": "https://www.youtube.com/watch?v=hEBzJjfRisw",
         "accessVerified": true
       },
@@ -2571,7 +2593,7 @@
         "title": "Infection Prevention and Control Module 308: Emerging Infectious Pathogens",
         "url": "https://www.youtube.com/watch?v=TIkc6md3jIE",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 3925.0,
+        "durationSeconds": 3925,
         "sourceUrl": "https://www.youtube.com/watch?v=TIkc6md3jIE",
         "accessVerified": true
       },
@@ -2580,7 +2602,7 @@
         "title": "Infection Prevention and Control 310 - IPC in Special Populations",
         "url": "https://www.youtube.com/watch?v=im7DOz2fEys",
         "provider": "Texas Epidemic Public Health Institute",
-        "durationSeconds": 4120.0,
+        "durationSeconds": 4120,
         "sourceUrl": "https://www.youtube.com/watch?v=im7DOz2fEys",
         "accessVerified": true
       },
@@ -2589,7 +2611,7 @@
         "title": "You Give Me Fever: Autoinflammatory Syndromes | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=35j-z3gEIJw",
         "provider": "University of Texas Health Science Center at San Antonio - UT Health San Antonio",
-        "durationSeconds": 3696.0,
+        "durationSeconds": 3696,
         "sourceUrl": "https://www.youtube.com/watch?v=35j-z3gEIJw",
         "accessVerified": true
       },
@@ -2598,7 +2620,7 @@
         "title": "Updates on Diagnosis of Meningitis and Encephalitis 2/22/17",
         "url": "https://www.youtube.com/watch?v=EBEwcCmASNg",
         "provider": "Mary Greeley Medical Center",
-        "durationSeconds": 3508.0,
+        "durationSeconds": 3508,
         "sourceUrl": "https://www.youtube.com/watch?v=EBEwcCmASNg",
         "accessVerified": true
       },
@@ -2607,7 +2629,7 @@
         "title": "Mycoplasma pneumoniae Infections: an Update",
         "url": "https://www.youtube.com/watch?v=QKMFs0OC8L4",
         "provider": "Iowa Chapter AAP",
-        "durationSeconds": 2228.0,
+        "durationSeconds": 2228,
         "sourceUrl": "https://www.youtube.com/watch?v=QKMFs0OC8L4",
         "accessVerified": true
       }
@@ -2735,11 +2757,11 @@
     ],
     "boardStatus": "Separate ABP pediatric infectious diseases subspecialty certifying examination exists. The ABP’s current public page requires three years full-time broad-based pediatric ID fellowship training in a qualifying ACGME- or RCPSC-accredited program plus general criteria, scholarly activity verification, and passing the examination. No separate ABIM/AOBIM pediatric-ID exam identified. The one-month adult ID rotation at BIDMC is a rotation, not evidence of an adult board track.",
     "boardEligibilityNotice": "This independent course does not grant ABP eligibility or certification. Eligibility is individual, governed by current ABP rules, qualifying prerequisite general pediatrics certification/training, accredited fellowship training and other requirements; candidates must confirm directly with ABP. No pass guarantee.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 36.39111111111111,
     "verifiedSpecialtyHours": 10.505277777777778,
     "verifiedFoundationHours": 25.885833333333334,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2778,7 +2800,7 @@
         "title": "Pediatric Tuberculosis: An Online Presentation and Resources (five-part video course; aggregate runtime stated as 64 minutes)",
         "url": "https://www.currytbcenter.ucsf.edu/products/pediatric-tuberculosis-online-presentation",
         "provider": "UCSF Curry International Tuberculosis Center; presenter Ann M. Loeffler, MD",
-        "durationSeconds": 3840.0,
+        "durationSeconds": 3840,
         "sourceUrl": "https://www.currytbcenter.ucsf.edu/products/view/pediatric-tuberculosis-online-presentation",
         "accessVerified": true
       },
@@ -2787,7 +2809,7 @@
         "title": "From Missed Opportunities to Coordinated Care: Building a Pediatric Tuberculosis Program",
         "url": "https://www.youtube.com/watch?v=IrMQjFg40fg",
         "provider": "Seattle Children's Provider Grand Rounds; Yasaman Fatemi, MD, MHSP",
-        "durationSeconds": 3416.0,
+        "durationSeconds": 3416,
         "sourceUrl": "https://www.seattlechildrens.org/healthcare-professionals/education/grand-rounds/online/",
         "accessVerified": true
       },
@@ -2796,7 +2818,7 @@
         "title": "Trust Your Gut: For Antibiotics, PO is the new IV",
         "url": "https://www.youtube.com/watch?v=V7Jh_Sd8x4g",
         "provider": "Seattle Children's Provider Grand Rounds; Adam Brothers, PharmD; Victoria Konold, MD; Derry McDonald, PharmD",
-        "durationSeconds": 3589.0,
+        "durationSeconds": 3589,
         "sourceUrl": "https://www.seattlechildrens.org/healthcare-professionals/education/grand-rounds/online/",
         "accessVerified": true
       },
@@ -2805,7 +2827,7 @@
         "title": "From Bedside to Bench to Back: Pediatric Sepsis in Resource-Constrained Settings",
         "url": "https://www.youtube.com/watch?v=H9x-kruBKNE",
         "provider": "Seattle Children's / University of Washington Global WACh Provider Grand Rounds; Teresa Bleakly Kortz, MD, MS, PhD",
-        "durationSeconds": 3274.0,
+        "durationSeconds": 3274,
         "sourceUrl": "https://www.seattlechildrens.org/healthcare-professionals/education/grand-rounds/online/",
         "accessVerified": true
       },
@@ -2814,7 +2836,7 @@
         "title": "ESID Grand Round 42: Somatic Mutations",
         "url": "https://www.youtube.com/watch?v=9kmY8JWtAG4",
         "provider": "European Society for Immunodeficiencies (ESID)",
-        "durationSeconds": 5900.0,
+        "durationSeconds": 5900,
         "sourceUrl": "https://esid.org/working-parties/clinical-working-party/grand-rounds/",
         "accessVerified": true
       },
@@ -2823,7 +2845,7 @@
         "title": "ESID Grand Round 36: Updates on Neonatal Screening for PIDs: Where We Are Now and How It Impacts Treatment Outcome",
         "url": "https://www.youtube.com/watch?v=A81SQAfqP70",
         "provider": "European Society for Immunodeficiencies (ESID)",
-        "durationSeconds": 5503.0,
+        "durationSeconds": 5503,
         "sourceUrl": "https://esid.org/working-parties/clinical-working-party/grand-rounds/",
         "accessVerified": true
       },
@@ -2832,7 +2854,7 @@
         "title": "ESID Grand Round 35: Updates on Mendelian Susceptibility to Mycobacterial Disease (MSMD): Clinical, Immunological, and Genetic Features",
         "url": "https://www.youtube.com/watch?v=i1gmBrOe8zE",
         "provider": "European Society for Immunodeficiencies (ESID)",
-        "durationSeconds": 5576.0,
+        "durationSeconds": 5576,
         "sourceUrl": "https://esid.org/working-parties/clinical-working-party/grand-rounds/",
         "accessVerified": true
       },
@@ -2841,7 +2863,7 @@
         "title": "ESID Grand Round 37: Disorders with EBV Susceptibility",
         "url": "https://www.youtube.com/watch?v=MzIVWPK45Vk",
         "provider": "European Society for Immunodeficiencies (ESID)",
-        "durationSeconds": 5526.0,
+        "durationSeconds": 5526,
         "sourceUrl": "https://esid.org/working-parties/clinical-working-party/grand-rounds/",
         "accessVerified": true
       },
@@ -2850,7 +2872,7 @@
         "title": "ESID Grand Round 39: Spectrum of STAT1 Defects",
         "url": "https://www.youtube.com/watch?v=j-dIbMzmiOs",
         "provider": "European Society for Immunodeficiencies (ESID)",
-        "durationSeconds": 5473.0,
+        "durationSeconds": 5473,
         "sourceUrl": "https://esid.org/working-parties/clinical-working-party/grand-rounds/",
         "accessVerified": true
       },
@@ -2859,7 +2881,7 @@
         "title": "ESID Grand Round 38: How I Treat Wiskott-Aldrich Syndrome",
         "url": "https://www.youtube.com/watch?v=tpcN4IH5ISw",
         "provider": "European Society for Immunodeficiencies (ESID)",
-        "durationSeconds": 7136.0,
+        "durationSeconds": 7136,
         "sourceUrl": "https://esid.org/working-parties/clinical-working-party/grand-rounds/",
         "accessVerified": true
       },
@@ -2868,7 +2890,7 @@
         "title": "ESID Grand Round 31: Chronic Viral Infection",
         "url": "https://www.youtube.com/watch?v=gG5M1Vnn99c",
         "provider": "European Society for Immunodeficiencies (ESID)",
-        "durationSeconds": 5229.0,
+        "durationSeconds": 5229,
         "sourceUrl": "https://esid.org/working-parties/clinical-working-party/grand-rounds/2/",
         "accessVerified": true
       },
@@ -2877,7 +2899,7 @@
         "title": "ESID Grand Round 32: Malignancies in Patients with Inborn Errors of Immunity",
         "url": "https://www.youtube.com/watch?v=S5rBDSqG6vo",
         "provider": "European Society for Immunodeficiencies (ESID)",
-        "durationSeconds": 5136.0,
+        "durationSeconds": 5136,
         "sourceUrl": "https://esid.org/working-parties/clinical-working-party/grand-rounds/2/",
         "accessVerified": true
       },
@@ -2886,7 +2908,7 @@
         "title": "ESID Grand Round 29: Monogenic Atopic Disorders",
         "url": "https://www.youtube.com/watch?v=J6zjZqZSpsM",
         "provider": "European Society for Immunodeficiencies (ESID)",
-        "durationSeconds": 5708.0,
+        "durationSeconds": 5708,
         "sourceUrl": "https://esid.org/working-parties/clinical-working-party/grand-rounds/2/",
         "accessVerified": true
       },
@@ -2895,7 +2917,7 @@
         "title": "ESID Grand Round 30: APECED",
         "url": "https://www.youtube.com/watch?v=23-0fUN3t_I",
         "provider": "European Society for Immunodeficiencies (ESID)",
-        "durationSeconds": 5932.0,
+        "durationSeconds": 5932,
         "sourceUrl": "https://esid.org/working-parties/clinical-working-party/grand-rounds/2/",
         "accessVerified": true
       },
@@ -2904,7 +2926,7 @@
         "title": "ESID Grand Round 33: Anti-cytokine Antibodies",
         "url": "https://www.youtube.com/watch?v=gf1tooKJQ8w",
         "provider": "European Society for Immunodeficiencies (ESID)",
-        "durationSeconds": 5994.0,
+        "durationSeconds": 5994,
         "sourceUrl": "https://esid.org/working-parties/clinical-working-party/grand-rounds/2/",
         "accessVerified": true
       },
@@ -3290,11 +3312,11 @@
     ],
     "boardStatus": "A distinct ABP subspecialty certifying examination exists. The ABP page reviewed 2025-11-25 requires three years of full-time broad-based fellowship in an ACGME-accredited U.S. or RCPSC-accredited Canadian program, prior general pediatrics certification criteria, training verification, scholarly activity, and passing the subspecialty exam. PIDS reports the examination is offered every other year in November of odd years; verify current ABP dates and eligibility directly.",
     "boardEligibilityNotice": "This independent self-study course confers no board eligibility. Eligibility depends on board rules, accredited supervised training, prior certification, program verification and scholarly work. The ABP warns its criteria may change.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 36.0356361111111,
     "verifiedSpecialtyHours": 28.549844999999998,
     "verifiedFoundationHours": 7.48579111111111,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3340,7 +3362,7 @@
         "title": "Urine for a Surprise: Using Genomics to Revolutionize Pediatric Kidney Disease",
         "url": "https://www.youtube.com/watch?v=4WsgEaKJJAY",
         "provider": "Seattle Children’s / Seattle Children’s Provider Grand Rounds; presenters Elizabeth Nguyen, MD, PhD and Alexandra Keefe, MD, PhD",
-        "durationSeconds": 3196.0,
+        "durationSeconds": 3196,
         "sourceUrl": "https://www.seattlechildrens.org/healthcare-professionals/education/grand-rounds/online/",
         "accessVerified": true
       },
@@ -3349,7 +3371,7 @@
         "title": "Pediatric Grand Rounds: Pediatric CKD and renal transplantation trends at Norton Children's Hospital",
         "url": "https://www.youtube.com/watch?v=ljTY4yfbB3M",
         "provider": "Norton Healthcare / Norton Children’s Hospital; jointly provided with University of Louisville Department of Pediatrics",
-        "durationSeconds": 4085.0,
+        "durationSeconds": 4085,
         "sourceUrl": "https://www.youtube.com/watch?v=ljTY4yfbB3M",
         "accessVerified": true
       },
@@ -3358,7 +3380,7 @@
         "title": "Pediatric Grand Rounds Enduring: Hemolytic Uremic Syndrome — 10-year retrospective NCH case review",
         "url": "https://www.youtube.com/watch?v=Sl9-HFKhJ6g",
         "provider": "Norton Children’s Hospital",
-        "durationSeconds": 3669.0,
+        "durationSeconds": 3669,
         "sourceUrl": "https://www.youtube.com/watch?v=Sl9-HFKhJ6g",
         "accessVerified": true
       },
@@ -3367,7 +3389,7 @@
         "title": "Session 36: Acute Kidney Injury in Neonates — Approach & Management",
         "url": "https://www.youtube.com/watch?v=odv686qklXA",
         "provider": "KIMS Cuddles; neonatal/pediatric clinician education",
-        "durationSeconds": 2898.0,
+        "durationSeconds": 2898,
         "sourceUrl": "https://www.youtube.com/watch?v=odv686qklXA",
         "accessVerified": true
       },
@@ -3376,7 +3398,7 @@
         "title": "Paediatric Series: Chronic Kidney Disease in Children",
         "url": "https://www.youtube.com/watch?v=1IQuk8nB7RU",
         "provider": "Kenya National Hospital / University of Nairobi paediatric series",
-        "durationSeconds": 4768.0,
+        "durationSeconds": 4768,
         "sourceUrl": "https://www.youtube.com/watch?v=1IQuk8nB7RU",
         "accessVerified": true
       },
@@ -3385,7 +3407,7 @@
         "title": "Paediatric Series: Acute Kidney Injury in Children",
         "url": "https://www.youtube.com/watch?v=jDUtjDk1o2g",
         "provider": "Kenya National Hospital / University of Nairobi paediatric series",
-        "durationSeconds": 4242.0,
+        "durationSeconds": 4242,
         "sourceUrl": "https://www.youtube.com/watch?v=jDUtjDk1o2g",
         "accessVerified": true
       },
@@ -3394,7 +3416,7 @@
         "title": "Paediatric Series: Nephrotic Syndrome",
         "url": "https://www.youtube.com/watch?v=zyOWJRc3GFE",
         "provider": "Kenya National Hospital / University of Nairobi paediatric series",
-        "durationSeconds": 4728.0,
+        "durationSeconds": 4728,
         "sourceUrl": "https://www.youtube.com/watch?v=zyOWJRc3GFE",
         "accessVerified": true
       },
@@ -3403,7 +3425,7 @@
         "title": "Paediatric Series: Severe Malaria-Associated Acute Kidney Injury",
         "url": "https://www.youtube.com/watch?v=NefAgbqaDx0",
         "provider": "Kenya National Hospital / University of Nairobi paediatric series",
-        "durationSeconds": 2723.0,
+        "durationSeconds": 2723,
         "sourceUrl": "https://www.youtube.com/watch?v=NefAgbqaDx0",
         "accessVerified": true
       },
@@ -3412,7 +3434,7 @@
         "title": "Paediatric Series: Hypernatremia and fluid/electrolyte management",
         "url": "https://www.youtube.com/watch?v=9mNYEdulf7Q",
         "provider": "Kenya National Hospital / University of Nairobi paediatric series",
-        "durationSeconds": 4002.0,
+        "durationSeconds": 4002,
         "sourceUrl": "https://www.youtube.com/watch?v=9mNYEdulf7Q",
         "accessVerified": true
       },
@@ -3421,7 +3443,7 @@
         "title": "Pediatric Dialysis in the PICU — EUP pediatric nephrology workshop",
         "url": "https://www.youtube.com/watch?v=ErSxFeFwhno",
         "provider": "Egyptian Union of Pediatricians; pediatric nephrology workshop",
-        "durationSeconds": 5030.0,
+        "durationSeconds": 5030,
         "sourceUrl": "https://www.youtube.com/watch?v=ErSxFeFwhno",
         "accessVerified": true
       },
@@ -3430,7 +3452,7 @@
         "title": "Pediatric Hemolytic Uremic Syndrome — clinician grand-rounds session",
         "url": "https://www.youtube.com/watch?v=JlGDL0-uXRM",
         "provider": "Egyptian Union of Pediatricians; pediatric nephrology clinician session",
-        "durationSeconds": 4626.0,
+        "durationSeconds": 4626,
         "sourceUrl": "https://www.youtube.com/watch?v=JlGDL0-uXRM",
         "accessVerified": true
       },
@@ -3439,7 +3461,7 @@
         "title": "Interpretation of Urine Analysis — Clinics Course",
         "url": "https://www.youtube.com/watch?v=74TCJu_v0NE",
         "provider": "Egyptian Union of Pediatricians",
-        "durationSeconds": 5879.0,
+        "durationSeconds": 5879,
         "sourceUrl": "https://www.youtube.com/watch?v=74TCJu_v0NE",
         "accessVerified": true
       },
@@ -3448,7 +3470,7 @@
         "title": "Pediatric Renal Fluid and Electrolyte Management webinar",
         "url": "https://www.youtube.com/watch?v=QG5spLF63VQ",
         "provider": "World Kidney Academy; pediatric nephrology webinar",
-        "durationSeconds": 3879.0,
+        "durationSeconds": 3879,
         "sourceUrl": "https://www.youtube.com/watch?v=QG5spLF63VQ",
         "accessVerified": true
       },
@@ -3457,7 +3479,7 @@
         "title": "Acute Kidney Injury and Dialysis in the PICU — pediatric nephrology webinar",
         "url": "https://www.youtube.com/watch?v=vANTCbuc_FY",
         "provider": "World Kidney Academy; pediatric nephrology webinar",
-        "durationSeconds": 4740.0,
+        "durationSeconds": 4740,
         "sourceUrl": "https://www.youtube.com/watch?v=vANTCbuc_FY",
         "accessVerified": true
       },
@@ -3466,7 +3488,7 @@
         "title": "Glomerulonephritis — clinician education webinar",
         "url": "https://www.youtube.com/watch?v=TJLoizBc7C0",
         "provider": "World Kidney Academy",
-        "durationSeconds": 5154.0,
+        "durationSeconds": 5154,
         "sourceUrl": "https://www.youtube.com/watch?v=TJLoizBc7C0",
         "accessVerified": true
       },
@@ -3475,7 +3497,7 @@
         "title": "Chronic Kidney Disease–Mineral and Bone Disorder in Children",
         "url": "https://www.youtube.com/watch?v=mw4s_y6GR70",
         "provider": "World Kidney Academy; pediatric kidney education",
-        "durationSeconds": 4306.0,
+        "durationSeconds": 4306,
         "sourceUrl": "https://www.youtube.com/watch?v=mw4s_y6GR70",
         "accessVerified": true
       },
@@ -3484,7 +3506,7 @@
         "title": "Infection-Related Glomerulonephritis — clinician webinar",
         "url": "https://www.youtube.com/watch?v=MdxnLA8FLjA",
         "provider": "World Kidney Academy",
-        "durationSeconds": 4093.0,
+        "durationSeconds": 4093,
         "sourceUrl": "https://www.youtube.com/watch?v=MdxnLA8FLjA",
         "accessVerified": true
       },
@@ -3493,7 +3515,7 @@
         "title": "Genetic Testing in Glomerular Disease — clinician webinar",
         "url": "https://www.youtube.com/watch?v=cRt8V5-9yDk",
         "provider": "World Kidney Academy; pediatric nephrology education",
-        "durationSeconds": 5190.0,
+        "durationSeconds": 5190,
         "sourceUrl": "https://www.youtube.com/watch?v=cRt8V5-9yDk",
         "accessVerified": true
       },
@@ -3502,7 +3524,7 @@
         "title": "Therapeutic Plasma Exchange — nephrology foundation webinar",
         "url": "https://www.youtube.com/watch?v=mSNpBxJxcSM",
         "provider": "World Kidney Academy",
-        "durationSeconds": 4705.0,
+        "durationSeconds": 4705,
         "sourceUrl": "https://www.youtube.com/watch?v=mSNpBxJxcSM",
         "accessVerified": true
       },
@@ -3511,7 +3533,7 @@
         "title": "Global Pediatric Nephrology — Stanford Pediatric Grand Rounds foundation lecture",
         "url": "https://www.youtube.com/watch?v=u5c7xIUXiPQ",
         "provider": "Stanford University School of Medicine / Stanford Children’s Health",
-        "durationSeconds": 3902.0,
+        "durationSeconds": 3902,
         "sourceUrl": "https://www.youtube.com/watch?v=u5c7xIUXiPQ",
         "accessVerified": true
       },
@@ -3520,7 +3542,7 @@
         "title": "Young Adult Kidney Transplants: Understanding the Transition of Care Webinar",
         "url": "https://www.youtube.com/watch?v=nV9JW3AHqfg",
         "provider": "Johns Hopkins Children’s Center",
-        "durationSeconds": 3102.0,
+        "durationSeconds": 3102,
         "sourceUrl": "https://www.youtube.com/watch?v=nV9JW3AHqfg",
         "accessVerified": true
       },
@@ -3529,7 +3551,7 @@
         "title": "IPNA-endorsed Pediatric Glomerular Disease Symposium — webinar 1",
         "url": "https://www.youtube.com/watch?v=EUOfzq1qIpU",
         "provider": "International Pediatric Nephrology Association-endorsed clinician symposium",
-        "durationSeconds": 5518.0,
+        "durationSeconds": 5518,
         "sourceUrl": "https://www.youtube.com/watch?v=EUOfzq1qIpU",
         "accessVerified": true
       },
@@ -3538,7 +3560,7 @@
         "title": "IPNA-endorsed Pediatric Glomerular Disease Symposium — atypical HUS / kidney-transplant immunosuppression session",
         "url": "https://www.youtube.com/watch?v=lKAdIQNEWM0",
         "provider": "International Pediatric Nephrology Association-endorsed clinician symposium",
-        "durationSeconds": 5925.0,
+        "durationSeconds": 5925,
         "sourceUrl": "https://www.youtube.com/watch?v=lKAdIQNEWM0",
         "accessVerified": true
       },
@@ -3547,7 +3569,7 @@
         "title": "IPNA-endorsed Pediatric Nephrology Web Master Series — Ambulatory Blood Pressure Monitoring",
         "url": "https://www.youtube.com/watch?v=6J4ahoow36g",
         "provider": "International Pediatric Nephrology Association-endorsed clinician session; Dr Joseph Flynn",
-        "durationSeconds": 8368.0,
+        "durationSeconds": 8368,
         "sourceUrl": "https://www.youtube.com/watch?v=6J4ahoow36g",
         "accessVerified": true
       },
@@ -3556,7 +3578,7 @@
         "title": "IPNA-endorsed Webmaster Series 2025 — Pediatric CKD: clinical drug handling / CKD-MBD session",
         "url": "https://www.youtube.com/watch?v=dTGCt2HrmvI",
         "provider": "International Pediatric Nephrology Association-endorsed 2025 pediatric CKD series",
-        "durationSeconds": 6175.0,
+        "durationSeconds": 6175,
         "sourceUrl": "https://www.youtube.com/watch?v=dTGCt2HrmvI",
         "accessVerified": true
       },
@@ -3565,7 +3587,7 @@
         "title": "IPNA-endorsed Webmaster Series 2025 — Pediatric CKD: biomarkers and future directions",
         "url": "https://www.youtube.com/watch?v=OqG3Th_8x8s",
         "provider": "International Pediatric Nephrology Association-endorsed 2025 pediatric CKD series",
-        "durationSeconds": 4786.0,
+        "durationSeconds": 4786,
         "sourceUrl": "https://www.youtube.com/watch?v=OqG3Th_8x8s",
         "accessVerified": true
       },
@@ -3574,7 +3596,7 @@
         "title": "IPNA-endorsed Webmaster Series 2025 — Pediatric CKD overview",
         "url": "https://www.youtube.com/watch?v=41OtQ6NKKNw",
         "provider": "International Pediatric Nephrology Association-endorsed 2025 pediatric CKD series",
-        "durationSeconds": 4966.0,
+        "durationSeconds": 4966,
         "sourceUrl": "https://www.youtube.com/watch?v=41OtQ6NKKNw",
         "accessVerified": true
       },
@@ -3583,7 +3605,7 @@
         "title": "IPNA-endorsed Webmaster Series 2025 — longitudinal growth and endocrine abnormalities in pediatric CKD",
         "url": "https://www.youtube.com/watch?v=l_p9HoHrFZE",
         "provider": "International Pediatric Nephrology Association-endorsed 2025 pediatric CKD series; pediatric nephrology faculty",
-        "durationSeconds": 6026.0,
+        "durationSeconds": 6026,
         "sourceUrl": "https://www.youtube.com/watch?v=l_p9HoHrFZE",
         "accessVerified": true
       },
@@ -3592,7 +3614,7 @@
         "title": "IPNA-endorsed Webmaster Series 2025 — pathogenesis and mechanisms of CKD in children",
         "url": "https://www.youtube.com/watch?v=p6SzRw3xoq0",
         "provider": "International Pediatric Nephrology Association-endorsed 2025 pediatric CKD series; pediatric nephrology faculty",
-        "durationSeconds": 5361.0,
+        "durationSeconds": 5361,
         "sourceUrl": "https://www.youtube.com/watch?v=p6SzRw3xoq0",
         "accessVerified": true
       },
@@ -3601,7 +3623,7 @@
         "title": "IPNA-endorsed Webmaster Series 2025 — Nutrition in Children with Chronic Kidney Disease: Can We Make Them Thrive?",
         "url": "https://www.youtube.com/watch?v=0UXRTr_egXs",
         "provider": "International Pediatric Nephrology Association-endorsed 2025 pediatric CKD series; pediatric faculty",
-        "durationSeconds": 5819.0,
+        "durationSeconds": 5819,
         "sourceUrl": "https://www.youtube.com/watch?v=0UXRTr_egXs",
         "accessVerified": true
       },
@@ -3610,7 +3632,7 @@
         "title": "Post-streptococcal Glomerulonephritis — pediatric clinician lecture",
         "url": "https://www.youtube.com/watch?v=H_hZePPtn38",
         "provider": "Egyptian Union of Pediatricians; lecture by Dr Salwa Samir",
-        "durationSeconds": 3194.0,
+        "durationSeconds": 3194,
         "sourceUrl": "https://www.youtube.com/watch?v=H_hZePPtn38",
         "accessVerified": true
       },
@@ -3619,7 +3641,7 @@
         "title": "Hypertension in Children — pediatric grand-rounds lecture",
         "url": "https://www.youtube.com/watch?v=CfcomkFwBPQ",
         "provider": "Egyptian Union of Pediatricians; pediatric clinician grand rounds",
-        "durationSeconds": 4734.0,
+        "durationSeconds": 4734,
         "sourceUrl": "https://www.youtube.com/watch?v=CfcomkFwBPQ",
         "accessVerified": true
       }
@@ -3710,11 +3732,11 @@
     ],
     "boardStatus": "The ABP recognizes Pediatric Nephrology as a subspecialty certification and requires passage of a subspecialty certifying examination after applicable eligibility requirements. The ABP Pediatric Nephrology SITE is an in-training assessment, not a separate board certification. ACGME accreditation is programme accreditation, not individual certification. No distinct separate institutional or pediatric nephrology board exam beyond ABP was identified.",
     "boardEligibilityNotice": "ABP public criteria (page last updated 2025-11-25) require three years full-time broad-based fellowship training in pediatric nephrology in an ACGME-accredited U.S. or RCPSC-accredited Canadian training program, other ABP general criteria, satisfactory final program-director evaluation including clinical competence/professionalism and scholarship, and a passed ABP subspecialty certifying exam. Current criteria can change and individual eligibility must be confirmed with ABP. This independent self-study course confers no eligibility, certification or licensure.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 41.60805555555555,
     "verifiedSpecialtyHours": 36.64861111111111,
     "verifiedFoundationHours": 4.959444444444444,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3768,7 +3790,7 @@
         "title": "PNOC High Grade Glioma Informational Webinar",
         "url": "https://www.youtube.com/watch?v=iWjwkHbDYjY",
         "provider": "Pacific Pediatric Neuro-Oncology Consortium (PNOC) Foundation",
-        "durationSeconds": 3760.0,
+        "durationSeconds": 3760,
         "sourceUrl": "https://www.youtube.com/watch?v=iWjwkHbDYjY",
         "accessVerified": true
       },
@@ -3777,7 +3799,7 @@
         "title": "PNOC DMG/DIPG Webinar: Oncolytic Virus Therapies, Imaging, Gut Microbiomes and Tumor Treatments",
         "url": "https://www.youtube.com/watch?v=xucQKyDDnak",
         "provider": "Pacific Pediatric Neuro-Oncology Consortium (PNOC) Foundation",
-        "durationSeconds": 3659.0,
+        "durationSeconds": 3659,
         "sourceUrl": "https://www.youtube.com/watch?v=xucQKyDDnak",
         "accessVerified": true
       },
@@ -3786,7 +3808,7 @@
         "title": "PNOC DIPG Informational Webinar, May 2025",
         "url": "https://www.youtube.com/watch?v=XTZKSxS_-z8",
         "provider": "Pacific Pediatric Neuro-Oncology Consortium (PNOC) Foundation",
-        "durationSeconds": 3624.0,
+        "durationSeconds": 3624,
         "sourceUrl": "https://www.youtube.com/watch?v=XTZKSxS_-z8",
         "accessVerified": true
       },
@@ -3795,7 +3817,7 @@
         "title": "PNOC ETMR Informational Webinar September 24, 2024",
         "url": "https://www.youtube.com/watch?v=AbbifSyCCn4",
         "provider": "Pacific Pediatric Neuro-Oncology Consortium (PNOC) Foundation",
-        "durationSeconds": 4192.0,
+        "durationSeconds": 4192,
         "sourceUrl": "https://www.youtube.com/watch?v=AbbifSyCCn4",
         "accessVerified": true
       },
@@ -3804,7 +3826,7 @@
         "title": "PNOC Ependymoma Webinar, October 23 2023",
         "url": "https://www.youtube.com/watch?v=s4H7Bv32p3w",
         "provider": "Pacific Pediatric Neuro-Oncology Consortium (PNOC) Foundation",
-        "durationSeconds": 3815.0,
+        "durationSeconds": 3815,
         "sourceUrl": "https://www.youtube.com/watch?v=s4H7Bv32p3w",
         "accessVerified": true
       },
@@ -3813,7 +3835,7 @@
         "title": "Understanding Pediatric Low-Grade Glioma Types & Treatments",
         "url": "https://www.youtube.com/watch?v=S0-S4RiEihI",
         "provider": "Pediatric Brain Tumor Foundation",
-        "durationSeconds": 3401.0,
+        "durationSeconds": 3401,
         "sourceUrl": "https://www.youtube.com/watch?v=S0-S4RiEihI",
         "accessVerified": true
       },
@@ -3822,7 +3844,7 @@
         "title": "Advancing Hope: Targeted Therapies for Pediatric Brain Tumors",
         "url": "https://www.youtube.com/watch?v=P5WbPN5311w",
         "provider": "Pediatric Brain Tumor Foundation",
-        "durationSeconds": 4352.0,
+        "durationSeconds": 4352,
         "sourceUrl": "https://www.youtube.com/watch?v=P5WbPN5311w",
         "accessVerified": true
       },
@@ -3831,7 +3853,7 @@
         "title": "PBTF & St. Jude Children's Hospital Webinar: Addressing Cognitive Impact of Childhood Brain Tumors",
         "url": "https://www.youtube.com/watch?v=zAamTTV2DUE",
         "provider": "Pediatric Brain Tumor Foundation and St. Jude Children's Research Hospital",
-        "durationSeconds": 3640.0,
+        "durationSeconds": 3640,
         "sourceUrl": "https://www.youtube.com/watch?v=zAamTTV2DUE",
         "accessVerified": true
       },
@@ -3840,7 +3862,7 @@
         "title": "Hope and Healing: Advancements in Pediatric Neurosurgery for Brain Tumors",
         "url": "https://www.youtube.com/watch?v=zdne-rfddzE",
         "provider": "Pediatric Brain Tumor Foundation",
-        "durationSeconds": 3307.0,
+        "durationSeconds": 3307,
         "sourceUrl": "https://www.youtube.com/watch?v=zdne-rfddzE",
         "accessVerified": true
       },
@@ -3849,7 +3871,7 @@
         "title": "Day 1 - International Paediatric Brain Tumours Course - Neuropathology and Molecular Biology",
         "url": "https://www.youtube.com/watch?v=f8WBMs4Oy1A",
         "provider": "International Paediatric Brain Tumours Course; Neurosurgery Research Listserv",
-        "durationSeconds": 18279.0,
+        "durationSeconds": 18279,
         "sourceUrl": "https://www.youtube.com/watch?v=f8WBMs4Oy1A",
         "accessVerified": true
       },
@@ -3858,7 +3880,7 @@
         "title": "The Management of Medulloblastoma: Best Practice in the LMIC Setting",
         "url": "https://www.youtube.com/watch?v=JerhrMmCvu8",
         "provider": "Society of Neuro-Oncology (SNO) / recorded professional education session",
-        "durationSeconds": 4523.0,
+        "durationSeconds": 4523,
         "sourceUrl": "https://www.youtube.com/watch?v=JerhrMmCvu8",
         "accessVerified": true
       },
@@ -3867,7 +3889,7 @@
         "title": "Pediatric Brain Cancers as Epigenetic Diseases",
         "url": "https://www.youtube.com/watch?v=ZdCKbJRKrBU",
         "provider": "Alex's Lemonade Stand Foundation (ALSF) Virtual Childhood Cancer Lecture Series",
-        "durationSeconds": 2516.0,
+        "durationSeconds": 2516,
         "sourceUrl": "https://www.youtube.com/watch?v=ZdCKbJRKrBU",
         "accessVerified": true
       },
@@ -3876,7 +3898,7 @@
         "title": "Webinar: Pediatric Brain Tumor Clinical Trials at Duke",
         "url": "https://www.youtube.com/watch?v=A1qaE0vC_Zg",
         "provider": "Musella Foundation Brain Tumor Awareness Month Webinar Series; Duke pediatric neuro-oncology",
-        "durationSeconds": 3406.0,
+        "durationSeconds": 3406,
         "sourceUrl": "https://virtualtrials.org/video2023.cfm?video=202305",
         "accessVerified": true
       },
@@ -3885,7 +3907,7 @@
         "title": "Understanding Pediatric Brain Tumors and Treatment",
         "url": "https://www.youtube.com/watch?v=YDZkOO4KhyQ",
         "provider": "Pediatric Brain Tumor Foundation (PBTF) webinar featuring Children's Hospital Los Angeles clinician",
-        "durationSeconds": 3576.0,
+        "durationSeconds": 3576,
         "sourceUrl": "https://www.youtube.com/watch?v=YDZkOO4KhyQ",
         "accessVerified": true
       },
@@ -3894,7 +3916,7 @@
         "title": "Impact of Glioma Molecular Profiling | UCSF Neurosurgery Community Grand Rounds",
         "url": "https://www.youtube.com/watch?v=UvRtuqz_fwA",
         "provider": "UCSF Neurosurgery Community Grand Rounds",
-        "durationSeconds": 3598.0,
+        "durationSeconds": 3598,
         "sourceUrl": "https://www.youtube.com/watch?v=UvRtuqz_fwA",
         "accessVerified": true
       },
@@ -3903,7 +3925,7 @@
         "title": "Oncohistones: Prime Susceptibilities and Opportunities",
         "url": "https://www.youtube.com/watch?v=9381rrKFi4c",
         "provider": "Alex's Lemonade Stand Foundation (ALSF) Virtual Childhood Cancer Lecture Series",
-        "durationSeconds": 3479.0,
+        "durationSeconds": 3479,
         "sourceUrl": "https://www.youtube.com/watch?v=9381rrKFi4c",
         "accessVerified": true
       },
@@ -3912,7 +3934,7 @@
         "title": "Genomic Variants in Pediatric Cancer: Landscape, Precision Oncology, and Data Sharing Ecosystem",
         "url": "https://www.youtube.com/watch?v=K0lFngbQjT0",
         "provider": "Alex's Lemonade Stand Foundation Virtual Childhood Cancer Lecture Series / St. Jude genomic research educator",
-        "durationSeconds": 3707.0,
+        "durationSeconds": 3707,
         "sourceUrl": "https://www.youtube.com/watch?v=K0lFngbQjT0",
         "accessVerified": true
       }
@@ -4070,7 +4092,7 @@
       ]
     },
     "boardEligibilityNotice": "The named fellowship’s official prerequisites concern physician training and Pediatric Hematology-Oncology/general-pediatrics certification. No separate ABP Pediatric Neuro-Oncology certificate is listed. UCNS offers a distinct broad Neuro-Oncology certification exam and accepts primary-board-certified pediatric hematology-oncology physicians in principle, but requires current unrestricted licensure and one of its detailed UCNS pathways. The fellowship page does not claim UCNS accreditation or automatically establish any candidate’s eligibility. Verify the current primary board, UCNS eligibility policy and application directly; this course confers neither board eligibility nor certification.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 21.342777777777776,
     "verifiedSpecialtyHours": 18.32027777777778,
     "verifiedFoundationHours": 3.0225,
@@ -4106,7 +4128,7 @@
       "status": "Transparent study plan, not measured or accredited hours: 36 hours videos (36-hour floor target, currently unmet), 48 hours linked readings, 24 hours case/assignment work, 24 hours question review and reflection, 12 hours source/guideline update review. These are learner-planning allocations only; only observed video runtime counts toward verified video hours."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-165_704e56b4.pdf",
+    "syllabusUrl": "/manus-storage/MED-165_b428b0a9.pdf",
     "pdfIds": [
       "med-syllabus-MED-165",
       "med-reading-568e4c3c2b6e",
@@ -4120,7 +4142,7 @@
         "title": "Pediatric headache",
         "url": "https://www.youtube.com/watch?v=1hyyJz6VHiw",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3462.0,
+        "durationSeconds": 3462,
         "sourceUrl": "https://www.youtube.com/watch?v=1hyyJz6VHiw",
         "accessVerified": true
       },
@@ -4129,7 +4151,7 @@
         "title": "Child neurology focus on neurogenetics",
         "url": "https://www.youtube.com/watch?v=fbSGvzW1rMo",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3030.0,
+        "durationSeconds": 3030,
         "sourceUrl": "https://www.youtube.com/watch?v=fbSGvzW1rMo",
         "accessVerified": true
       },
@@ -4138,7 +4160,7 @@
         "title": "Neurogenetics",
         "url": "https://www.youtube.com/watch?v=CO4_4P9cTgA",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3575.0,
+        "durationSeconds": 3575,
         "sourceUrl": "https://www.youtube.com/watch?v=CO4_4P9cTgA",
         "accessVerified": true
       },
@@ -4147,7 +4169,7 @@
         "title": "Cerebral palsy care across the lifespan",
         "url": "https://www.youtube.com/watch?v=I_WtwSUV6cY",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3544.0,
+        "durationSeconds": 3544,
         "sourceUrl": "https://www.youtube.com/watch?v=I_WtwSUV6cY",
         "accessVerified": true
       },
@@ -4156,7 +4178,7 @@
         "title": "What is papilledema?",
         "url": "https://www.youtube.com/watch?v=PPot-kiPw2k",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3574.0,
+        "durationSeconds": 3574,
         "sourceUrl": "https://www.youtube.com/watch?v=PPot-kiPw2k",
         "accessVerified": true
       },
@@ -4165,7 +4187,7 @@
         "title": "Sleep medicine",
         "url": "https://www.youtube.com/watch?v=5roTRxJ9uJE",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3719.0,
+        "durationSeconds": 3719,
         "sourceUrl": "https://www.youtube.com/watch?v=5roTRxJ9uJE",
         "accessVerified": true
       },
@@ -4174,7 +4196,7 @@
         "title": "Neuroinfectious diseases",
         "url": "https://www.youtube.com/watch?v=fIsxfNKZqoQ",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3674.0,
+        "durationSeconds": 3674,
         "sourceUrl": "https://www.youtube.com/watch?v=fIsxfNKZqoQ",
         "accessVerified": true
       },
@@ -4183,7 +4205,7 @@
         "title": "Multiple sclerosis: diagnosis and mimics",
         "url": "https://www.youtube.com/watch?v=OEjraCKQ910",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3475.0,
+        "durationSeconds": 3475,
         "sourceUrl": "https://www.youtube.com/watch?v=OEjraCKQ910",
         "accessVerified": true
       },
@@ -4192,7 +4214,7 @@
         "title": "Neurocritical care’s greatest hits",
         "url": "https://www.youtube.com/watch?v=R0hfF7wXC-8",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 4264.0,
+        "durationSeconds": 4264,
         "sourceUrl": "https://www.youtube.com/watch?v=R0hfF7wXC-8",
         "accessVerified": true
       },
@@ -4201,7 +4223,7 @@
         "title": "Movement disorder emergencies",
         "url": "https://www.youtube.com/watch?v=z0EhEi2Ow7k",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3569.0,
+        "durationSeconds": 3569,
         "sourceUrl": "https://www.youtube.com/watch?v=z0EhEi2Ow7k",
         "accessVerified": true
       },
@@ -4210,7 +4232,7 @@
         "title": "AES Professor’s Rounds: Pediatric epilepsy case studies",
         "url": "https://www.youtube.com/watch?v=xTVvaxcmc38",
         "provider": "American Epilepsy Society",
-        "durationSeconds": 2878.0,
+        "durationSeconds": 2878,
         "sourceUrl": "https://www.youtube.com/watch?v=xTVvaxcmc38",
         "accessVerified": true
       },
@@ -4219,7 +4241,7 @@
         "title": "Childhood epilepsy syndromes, Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=14hOZk-bpD0",
         "provider": "University of Texas Health Science Center at San Antonio",
-        "durationSeconds": 3667.0,
+        "durationSeconds": 3667,
         "sourceUrl": "https://www.youtube.com/watch?v=14hOZk-bpD0",
         "accessVerified": true
       },
@@ -4228,7 +4250,7 @@
         "title": "Behavioral neurology and neuropsychiatry",
         "url": "https://www.youtube.com/watch?v=oaNwCpiYBRo",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3751.0,
+        "durationSeconds": 3751,
         "sourceUrl": "https://www.youtube.com/watch?v=oaNwCpiYBRo",
         "accessVerified": true
       },
@@ -4237,7 +4259,7 @@
         "title": "Headache medicine",
         "url": "https://www.youtube.com/watch?v=a332htjTrtk",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3231.0,
+        "durationSeconds": 3231,
         "sourceUrl": "https://www.youtube.com/watch?v=a332htjTrtk",
         "accessVerified": true
       },
@@ -4246,7 +4268,7 @@
         "title": "Effective sleep history taking",
         "url": "https://www.youtube.com/watch?v=A9524fG4NZE",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3478.0,
+        "durationSeconds": 3478,
         "sourceUrl": "https://www.youtube.com/watch?v=A9524fG4NZE",
         "accessVerified": true
       },
@@ -4255,7 +4277,7 @@
         "title": "How to be a cognitive neurology clinician",
         "url": "https://www.youtube.com/watch?v=Mzw8v2DNDzI",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3642.0,
+        "durationSeconds": 3642,
         "sourceUrl": "https://www.youtube.com/watch?v=Mzw8v2DNDzI",
         "accessVerified": true
       },
@@ -4264,7 +4286,7 @@
         "title": "Virtual Resident Lecture Series: October 2023",
         "url": "https://www.youtube.com/watch?v=LCtoKd16L24",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3771.0,
+        "durationSeconds": 3771,
         "sourceUrl": "https://www.youtube.com/watch?v=LCtoKd16L24",
         "accessVerified": true
       },
@@ -4273,7 +4295,7 @@
         "title": "Update on Treatment of Neonatal Seizures",
         "url": "https://www.youtube.com/watch?v=hN3bvx1uEBg",
         "provider": "Cleveland Clinic Children’s / Neonatal Brain Club (speaker Ronit Pressler, Great Ormond Street Hospital)",
-        "durationSeconds": 4094.0,
+        "durationSeconds": 4094,
         "sourceUrl": "https://www.youtube.com/watch?v=hN3bvx1uEBg",
         "accessVerified": true
       },
@@ -4282,7 +4304,7 @@
         "title": "Approach to Developmental Regression in Childhood",
         "url": "https://www.youtube.com/watch?v=GPpasN_iHtw",
         "provider": "University of Louisville Department of Neurology Grand Rounds",
-        "durationSeconds": 3694.0,
+        "durationSeconds": 3694,
         "sourceUrl": "https://www.youtube.com/watch?v=GPpasN_iHtw",
         "accessVerified": true
       },
@@ -4291,7 +4313,7 @@
         "title": "Multidisciplinary Care of Pediatric Neuromuscular Disorders",
         "url": "https://www.youtube.com/watch?v=kKnRYY_5wVw",
         "provider": "Norton Healthcare / 2021 Child Neurology Update",
-        "durationSeconds": 3278.0,
+        "durationSeconds": 3278,
         "sourceUrl": "https://www.youtube.com/watch?v=kKnRYY_5wVw",
         "accessVerified": true
       },
@@ -4300,7 +4322,7 @@
         "title": "Advances in Pediatric Gene Therapy for Neuromuscular Disorders",
         "url": "https://www.youtube.com/watch?v=kBih_Gm-2AM",
         "provider": "University of California Television (UCTV), Developmental Disabilities Conference",
-        "durationSeconds": 2392.0,
+        "durationSeconds": 2392,
         "sourceUrl": "https://www.youtube.com/watch?v=kBih_Gm-2AM",
         "accessVerified": true
       },
@@ -4309,7 +4331,7 @@
         "title": "Developmental Delay",
         "url": "https://www.youtube.com/watch?v=8BuoRMF96Tw",
         "provider": "Norton Healthcare / 2021 Child Neurology Update",
-        "durationSeconds": 1632.0,
+        "durationSeconds": 1632,
         "sourceUrl": "https://www.youtube.com/watch?v=8BuoRMF96Tw",
         "accessVerified": true
       },
@@ -4318,8 +4340,17 @@
         "title": "Seizures and Epilepsies (2023)",
         "url": "https://www.youtube.com/watch?v=JRG66FoUSsc",
         "provider": "The Neurophile (Rutgers Robert Wood Johnson Medical School Neurology)",
-        "durationSeconds": 5431.0,
+        "durationSeconds": 5431,
         "sourceUrl": "https://www.youtube.com/watch?v=JRG66FoUSsc",
+        "accessVerified": true
+      },
+      {
+        "id": "pitt_pediatric_stroke_grand_rounds_2021",
+        "title": "Pediatric Grand Rounds: Pediatric Stroke: Challenges, Opportunities and New Horizons",
+        "url": "https://www.youtube.com/watch?v=rTlfkySLP2Y",
+        "provider": "Pitt Department of Pediatrics / UPMC Children's Hospital of Pittsburgh",
+        "durationSeconds": 3643,
+        "sourceUrl": "https://www.youtube.com/watch?v=rTlfkySLP2Y",
         "accessVerified": true
       }
     ],
@@ -4391,7 +4422,8 @@
         "text": "Pediatric stroke, vascular disease and trauma",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "aan_neurocritical"
+          "aan_neurocritical",
+          "pitt_pediatric_stroke_grand_rounds_2021"
         ]
       },
       {
@@ -4452,11 +4484,11 @@
     ],
     "boardStatus": "A separate child-neurology initial certification examination exists: ABPN Neurology with Special Qualification in Child Neurology. No separate “pediatric neurology board” under a distinct certifier is claimed here. The exam includes 60% child-neurology and 40% adult-neurology content per the December 15, 2025 ABPN blueprint. ACGME accreditation is program accreditation, not board certification.",
     "boardEligibilityNotice": "This self-study course does not confer ABPN eligibility. ABPN requires qualifying medical degree, approved/accredited training, license and other applicable requirements. Confirm current requirements directly with ABPN.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 22.45138888888889,
-    "verifiedSpecialtyHours": 8.7975,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 23.463333333333335,
+    "verifiedSpecialtyHours": 9.809444444444445,
     "verifiedFoundationHours": 13.653888888888888,
-    "hoursGap": 13.54861111111111,
+    "hoursGap": 12.536666666666665,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -4501,7 +4533,7 @@
         "title": "Spasticity and Movement Disorders",
         "url": "https://www.youtube.com/watch?v=i59NIDOu80k",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 5399.0,
+        "durationSeconds": 5399,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4510,7 +4542,7 @@
         "title": "Pineal Region Tumors",
         "url": "https://www.youtube.com/watch?v=xsAyQO1XnwY",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 6423.0,
+        "durationSeconds": 6423,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4519,7 +4551,7 @@
         "title": "Vascular malformations",
         "url": "https://www.youtube.com/watch?v=xZtMxDbCdz4",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 5601.0,
+        "durationSeconds": 5601,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4528,7 +4560,7 @@
         "title": "Fetal Myelomeningocele Closure",
         "url": "https://www.youtube.com/watch?v=XT1rdTvHvhg",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 4185.0,
+        "durationSeconds": 4185,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4537,7 +4569,7 @@
         "title": "Craniosynostosis",
         "url": "https://www.youtube.com/watch?v=jqoGw2JBnBQ",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 3974.0,
+        "durationSeconds": 3974,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4546,7 +4578,7 @@
         "title": "Choroid Plexus Tumors",
         "url": "https://www.youtube.com/watch?v=9hl9P4SONvk",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 5884.0,
+        "durationSeconds": 5884,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4555,7 +4587,7 @@
         "title": "Pediatric Epilepsy Surgery: An Overview",
         "url": "https://www.youtube.com/watch?v=veu0pzYLBDg",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 4879.0,
+        "durationSeconds": 4879,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4564,7 +4596,7 @@
         "title": "The Brachial Plexus – workup and surgical intervention",
         "url": "https://www.youtube.com/watch?v=HyknluEeUY0",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 4722.0,
+        "durationSeconds": 4722,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4573,7 +4605,7 @@
         "title": "Virtual Planning in Open Cranial Vault Remodeling",
         "url": "https://www.youtube.com/watch?v=uAuAVrH90XU",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 3931.0,
+        "durationSeconds": 3931,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4582,7 +4614,7 @@
         "title": "Selective dorsal rhizotomy – CP Spasticity",
         "url": "https://www.youtube.com/watch?v=eNE2Qsg4j78",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 4478.0,
+        "durationSeconds": 4478,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4591,7 +4623,7 @@
         "title": "AANS Fellowship Lecture—Challenges in Hydrocephalus Management",
         "url": "https://www.youtube.com/watch?v=WXM-_auqZKI",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 1769.0,
+        "durationSeconds": 1769,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4600,7 +4632,7 @@
         "title": "Pediatric Arteriovenous Malformations",
         "url": "https://www.youtube.com/watch?v=5FOpvai5Yfk",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 3492.0,
+        "durationSeconds": 3492,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4609,7 +4641,7 @@
         "title": "Closed Spina Bifida: What is in a Name?",
         "url": "https://www.youtube.com/watch?v=lf8HV-UfphQ",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 3907.0,
+        "durationSeconds": 3907,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4618,7 +4650,7 @@
         "title": "Chiari Type I Malformation: Never Simple, Often Complex",
         "url": "https://www.youtube.com/watch?v=m4l7qqp9MFk",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 3804.0,
+        "durationSeconds": 3804,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4627,7 +4659,7 @@
         "title": "The Myelomeningocele: The Anomaly that Defined Pediatric Neurosurgery",
         "url": "https://www.youtube.com/watch?v=Iekrxjy2gKU",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 4359.0,
+        "durationSeconds": 4359,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4636,7 +4668,7 @@
         "title": "Pineal Region Tumors: The State of the Art",
         "url": "https://www.youtube.com/watch?v=3o1HVXGB9mE",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 3738.0,
+        "durationSeconds": 3738,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4645,7 +4677,7 @@
         "title": "Pediatric Neurosurgery Procedure Coding",
         "url": "https://www.youtube.com/watch?v=ie3FC--Iv7I",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 4292.0,
+        "durationSeconds": 4292,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4654,7 +4686,7 @@
         "title": "Considerations in Pediatric Supratentorial Brain Tumors",
         "url": "https://www.youtube.com/watch?v=aENfapr5bLM",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 4315.0,
+        "durationSeconds": 4315,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4663,7 +4695,7 @@
         "title": "Pediatric Neurosurgical Emergencies",
         "url": "https://www.youtube.com/watch?v=T_SMeyrr4_s",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 1453.0,
+        "durationSeconds": 1453,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4672,7 +4704,7 @@
         "title": "Evaluation and Management of Traumatic Pediatric Craniocervical Injuries",
         "url": "https://www.youtube.com/watch?v=W4JQm1skHtk",
         "provider": "AANS/CNS Section on Pediatric Neurological Surgery / Pediatric Neurosurgery Section YouTube channel",
-        "durationSeconds": 3548.0,
+        "durationSeconds": 3548,
         "sourceUrl": "https://www.youtube.com/@pediatricneurosurgerysection/videos",
         "accessVerified": true
       },
@@ -4681,7 +4713,7 @@
         "title": "Clash of the Titans - Ventricular size has no relation to the outcome of hydrocephalus treatment",
         "url": "https://www.youtube.com/watch?v=H9Ng_VUaujE",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 4302.0,
+        "durationSeconds": 4302,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4690,7 +4722,7 @@
         "title": "Clash of the Titans: ETV without CPC does not fulfil its purpose",
         "url": "https://www.youtube.com/watch?v=qNiv7aAolBc",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 4412.0,
+        "durationSeconds": 4412,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4699,7 +4731,7 @@
         "title": "Clash of the Titans: ICP monitoring is very useful in pediatric head injuries",
         "url": "https://www.youtube.com/watch?v=2VmXVsj__oM",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 5583.0,
+        "durationSeconds": 5583,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4708,7 +4740,7 @@
         "title": "Clash of the Titans - Second look surgery is useful in pediatric brain tumours",
         "url": "https://www.youtube.com/watch?v=DdcwCPdN2dk",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 5570.0,
+        "durationSeconds": 5570,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4717,7 +4749,7 @@
         "title": "Bony decompression alone is enough for symptomatic Chiari malformation with syrinx in a 10 yo child",
         "url": "https://www.youtube.com/watch?v=LWH5fDnEjbM",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 4583.0,
+        "durationSeconds": 4583,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4726,7 +4758,7 @@
         "title": "In children w/ scoliosis & asymptomatic tethering, deformity correction may be done without ....",
         "url": "https://www.youtube.com/watch?v=YELABrUdj5c",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 3919.0,
+        "durationSeconds": 3919,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4735,7 +4767,7 @@
         "title": "CSF disorders - The bacterial and viral complexity of postinfectious hydrocephalus in Africa",
         "url": "https://www.youtube.com/watch?v=o76kdP9_xmw",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 1328.0,
+        "durationSeconds": 1328,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4744,7 +4776,7 @@
         "title": "CSF disorders - TROPHY registry study on posthemorrhagic hydrocephalus in neonates: Status report",
         "url": "https://www.youtube.com/watch?v=k-c_6mZ4rsM",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 1149.0,
+        "durationSeconds": 1149,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4753,7 +4785,7 @@
         "title": "CSF disorders - Updates from the Hydrocephalus Clinical Research Network",
         "url": "https://www.youtube.com/watch?v=G5HdQXje4A0",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 957.0,
+        "durationSeconds": 957,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4762,7 +4794,7 @@
         "title": "CSF disorders - Telemetric ICP monitoring in children: State-of-the-Art",
         "url": "https://www.youtube.com/watch?v=dFDqnuFV038",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 1085.0,
+        "durationSeconds": 1085,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4771,7 +4803,7 @@
         "title": "Spine - Pediatric Cervical Spine Clearance: a consensus from the Pediatric Cervical Spine Clearance Working Group",
         "url": "https://www.youtube.com/watch?v=kWV5PS_IXsE",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 1150.0,
+        "durationSeconds": 1150,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4780,7 +4812,7 @@
         "title": "Spine - Transforming the management of Chiari I malformation and Syringomyelia",
         "url": "https://www.youtube.com/watch?v=LEJ-FEy-BSI",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 1228.0,
+        "durationSeconds": 1228,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4789,7 +4821,7 @@
         "title": "Fetal surgery & MMC - Life after MOMS: consensus and controversy",
         "url": "https://www.youtube.com/watch?v=NCNr9IvztCw",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 924.0,
+        "durationSeconds": 924,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4798,7 +4830,7 @@
         "title": "Fetal surgery & MMC - Fetoscopy or open surgery: same patients, surgeons, results?",
         "url": "https://www.youtube.com/watch?v=9K8Yw7iQB7Y",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 1065.0,
+        "durationSeconds": 1065,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4807,7 +4839,7 @@
         "title": "Oncology - Histone mutant gliomas in 2020",
         "url": "https://www.youtube.com/watch?v=lfuCMgUvt6Q",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 1281.0,
+        "durationSeconds": 1281,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4816,7 +4848,7 @@
         "title": "Oncology - Infratentorial Ependymomas in 2020",
         "url": "https://www.youtube.com/watch?v=XRXO5C2GkT8",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 943.0,
+        "durationSeconds": 943,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4825,7 +4857,7 @@
         "title": "Spine - Spine screening in posterior fossa tumors. Do we really need it?",
         "url": "https://www.youtube.com/watch?v=F5qYur8BwoA",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 752.0,
+        "durationSeconds": 752,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4834,7 +4866,7 @@
         "title": "Child's Nervous System - Selective dorsal rhizotomy (CNS Focus Issue)",
         "url": "https://www.youtube.com/watch?v=ZApGnNm7N9k",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 860.0,
+        "durationSeconds": 860,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4843,7 +4875,7 @@
         "title": "Craniofacial - Is surgical treatment justified in children with metopic synostosis?",
         "url": "https://www.youtube.com/watch?v=IqVN8StqGNU",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 971.0,
+        "durationSeconds": 971,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4852,7 +4884,7 @@
         "title": "Child's Nervous System - Annual issue on Phacomatoses",
         "url": "https://www.youtube.com/watch?v=XjeDrha-BYQ",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 369.0,
+        "durationSeconds": 369,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4861,7 +4893,7 @@
         "title": "Clash of the Titans: In pediatric neurosurgery prenatal radiological investigations do not serve any use",
         "url": "https://www.youtube.com/watch?v=KSaie7yLnTk",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 4459.0,
+        "durationSeconds": 4459,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       },
@@ -4870,7 +4902,7 @@
         "title": "Clash of the Titans - Foetal ventriculomegaly should be treated in utero",
         "url": "https://www.youtube.com/watch?v=CeC9AaT6aKw",
         "provider": "International Society for Pediatric Neurosurgery (ISPN) official YouTube channel",
-        "durationSeconds": 5161.0,
+        "durationSeconds": 5161,
         "sourceUrl": "https://www.youtube.com/channel/UC9fEnE8N7GCuwLLp6sYO9dw/videos",
         "accessVerified": true
       }
@@ -5030,11 +5062,11 @@
     ],
     "boardStatus": "The Johns Hopkins Hospital and Johns Hopkins All Children’s Hospital variants appear as Accredited in the independent ACPNF program directory (as-of dates 2026-01-02 and 2026-01-22 respectively). ACPNF is not ACGME. ABPNS states that the current North American process yields a pediatric neurosurgery subspecialty credential/focused-practice designation and includes a pediatric written focused-practice examination, qualifying practice case log, and pediatric focused oral examination (pathway-specific). This is not automatic upon fellowship completion and is distinct from primary ABNS certification. ABMS approves the RFPD; ABNS and ABPNS manage it.",
     "boardEligibilityNotice": "This course confers no eligibility. Current ABPNS pathway requirements vary with ABNS or Royal College certification, ACPNF-accredited fellowship timing, licensure/privileges, practice case logs and examinations. ABNS primary certification has separate requirements including ACGME-accredited neurological-surgery residency and current written/case-log/oral/tracking rules. Verify current rules directly with ABNS, ABPNS, ACPNF and applicable licensing bodies. No promised pass or qualification.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 36.64222222222222,
     "verifiedSpecialtyHours": 36.64222222222222,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 0.0,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -5068,7 +5100,7 @@
       "gapHours": 35.715278
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-167_847c147a.pdf",
+    "syllabusUrl": "/manus-storage/MED-167_3312baeb.pdf",
     "pdfIds": [
       "med-syllabus-MED-167",
       "med-reading-6450aa4ab0cc",
@@ -5081,7 +5113,7 @@
         "title": "Basic Pediatric Eye Exam",
         "url": "https://eyerounds.org/atlas-video/pediatric-eye-exam.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 586.0,
+        "durationSeconds": 586,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5090,7 +5122,7 @@
         "title": "Congenital Nuclear Cataract",
         "url": "https://eyerounds.org/atlas-video/Congenital-Nuclear-Cataract.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 202.0,
+        "durationSeconds": 202,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5099,7 +5131,7 @@
         "title": "Congenital and Infantile Cataract Surgery",
         "url": "https://eyerounds.org/video/PediatricOphth-Strabismus-vids/congenital-infantile-cataract-surgery.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 460.0,
+        "durationSeconds": 460,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5108,7 +5140,7 @@
         "title": "Persistent Fetal Vasculature Cataract Surgery",
         "url": "https://eyerounds.org/video/Peds-Ophth/PFV-cataract.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 320.0,
+        "durationSeconds": 320,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5117,7 +5149,7 @@
         "title": "ROP Loose Zonules And Heme",
         "url": "https://eyerounds.org/atlas-video/ROP-loose-zonules-and-heme.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 445.0,
+        "durationSeconds": 445,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5126,7 +5158,7 @@
         "title": "Adjustable Suture Technique in Strabismus Surgery — Lateral Rectus Resection",
         "url": "https://eyerounds.org/atlas-video/adjustable_Suture_Technique_in_strabismus_surgery_Lateral_Rectus_Resection.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 329.0,
+        "durationSeconds": 329,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5135,7 +5167,7 @@
         "title": "Basic Cover Test in Ocular Misalignment or Strabismus",
         "url": "https://eyerounds.org/video/basic-cover-test.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 439.0,
+        "durationSeconds": 439,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5144,7 +5176,7 @@
         "title": "Inferior Oblique Myectomy",
         "url": "https://eyerounds.org/atlas-video/Inferior-Oblique-Myectomy.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 156.0,
+        "durationSeconds": 156,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5153,7 +5185,7 @@
         "title": "Medial Rectus Recession — Fornix Approach",
         "url": "https://eyerounds.org/video/PediatricOphth-Strabismus-vids/medial-rectus-recession.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 339.0,
+        "durationSeconds": 339,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5162,7 +5194,7 @@
         "title": "Strabismus Surgery in Setting of Scleral Buckle",
         "url": "https://eyerounds.org/atlas-video/strabismus-surgery-scleral-buckle.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 313.0,
+        "durationSeconds": 313,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5171,7 +5203,7 @@
         "title": "Simultaneous Harada-Ito and Superior Oblique Tendon Tuck",
         "url": "https://eyerounds.org/video/Peds-Ophth/harada-ito-SO-tuck.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 209.0,
+        "durationSeconds": 209,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5180,7 +5212,7 @@
         "title": "Classic Adjustable Suture Technique",
         "url": "https://eyerounds.org/video/PediatricOphth-Strabismus-vids/adjustable-Suture-Technique.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 675.0,
+        "durationSeconds": 675,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5189,7 +5221,7 @@
         "title": "Inferior Oblique Recession",
         "url": "https://eyerounds.org/video/PediatricOphth-Strabismus-vids/inferior-oblique-recession.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 570.0,
+        "durationSeconds": 570,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5198,7 +5230,7 @@
         "title": "Harada-Ito Procedure",
         "url": "https://eyerounds.org/video/PediatricOphth-Strabismus-vids/Harada-Ito-Procedure.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 345.0,
+        "durationSeconds": 345,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5207,7 +5239,7 @@
         "title": "Lateral Rectus Resection — Fornix Approach",
         "url": "https://eyerounds.org/video/PediatricOphth-Strabismus-vids/lateral-rectus-resection-fornix.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 800.0,
+        "durationSeconds": 800,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5216,7 +5248,7 @@
         "title": "Lateral Rectus Resection — Limbal Approach",
         "url": "https://eyerounds.org/video/PediatricOphth-Strabismus-vids/lateral-rectus-resection-limbal.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 1200.0,
+        "durationSeconds": 1200,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5225,7 +5257,7 @@
         "title": "Superior Oblique Tenotomy",
         "url": "https://eyerounds.org/video/PediatricOphth-Strabismus-vids/superior-oblique-tenotomy.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 345.0,
+        "durationSeconds": 345,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5234,7 +5266,7 @@
         "title": "Superior Oblique Tuck",
         "url": "https://eyerounds.org/video/PediatricOphth-Strabismus-vids/Superior-oblique-tuck.htm",
         "provider": "University of Iowa EyeRounds / Department of Ophthalmology and Visual Sciences",
-        "durationSeconds": 400.0,
+        "durationSeconds": 400,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/index.htm",
         "accessVerified": true
       },
@@ -5243,7 +5275,7 @@
         "title": "Adult Strabismus Committee: Strabismus after Non-Strabismus Ocular Surgery",
         "url": "https://www.youtube.com/watch?v=AWSQFVr6GFE",
         "provider": "AAPOS Adult Strabismus Committee / AAPOS",
-        "durationSeconds": 4040.0,
+        "durationSeconds": 4040,
         "sourceUrl": "https://www.youtube.com/@aapos2873/videos",
         "accessVerified": true
       },
@@ -5252,7 +5284,7 @@
         "title": "Ocular Motor Atavisms: The Evolutionary Basis of Infantile Strabismus and Nystagmus",
         "url": "https://www.youtube.com/watch?v=ClskiM-v1pY",
         "provider": "AAPOS / Michael Brodsky, MD",
-        "durationSeconds": 1876.0,
+        "durationSeconds": 1876,
         "sourceUrl": "https://www.youtube.com/watch?v=ClskiM-v1pY",
         "accessVerified": true
       },
@@ -5261,7 +5293,7 @@
         "title": "Technology Committee: Update on Portable Devices in Pediatric Ophthalmology",
         "url": "https://www.youtube.com/watch?v=mVpJWwWAA0o",
         "provider": "AAPOS Technology Committee",
-        "durationSeconds": 5286.0,
+        "durationSeconds": 5286,
         "sourceUrl": "https://www.youtube.com/watch?v=mVpJWwWAA0o",
         "accessVerified": true
       },
@@ -5270,7 +5302,7 @@
         "title": "11th Annual Kushner Webinar: Fixing the Tilt—Sources and Treatment for Ocular Torsion",
         "url": "https://www.youtube.com/watch?v=DRJi6cQf_ek",
         "provider": "AAPOS / University of Wisconsin, Burton Kushner Webinar",
-        "durationSeconds": 4582.0,
+        "durationSeconds": 4582,
         "sourceUrl": "https://www.youtube.com/watch?v=DRJi6cQf_ek",
         "accessVerified": true
       },
@@ -5279,7 +5311,7 @@
         "title": "AAPOS 10th Annual Kushner Webinar: Strabismus & Advancements in Research",
         "url": "https://www.youtube.com/watch?v=yjPgLASpKu8",
         "provider": "AAPOS / University of Wisconsin, Burton Kushner Webinar",
-        "durationSeconds": 7456.0,
+        "durationSeconds": 7456,
         "sourceUrl": "https://www.youtube.com/@aapos2873/videos",
         "accessVerified": true
       },
@@ -5288,7 +5320,7 @@
         "title": "AAPOS Webinar: Red Flags in Pediatric Uveitis",
         "url": "https://www.youtube.com/watch?v=D2KBQ3flRW8",
         "provider": "AAPOS",
-        "durationSeconds": 6411.0,
+        "durationSeconds": 6411,
         "sourceUrl": "https://www.youtube.com/watch?v=D2KBQ3flRW8",
         "accessVerified": true
       },
@@ -5297,7 +5329,7 @@
         "title": "AAPOS/ISA Webinar: Congenital / Infantile Esotropia in 2024",
         "url": "https://www.youtube.com/watch?v=SWWwySsn4ZA",
         "provider": "AAPOS / International Strabismological Association",
-        "durationSeconds": 5974.0,
+        "durationSeconds": 5974,
         "sourceUrl": "https://www.youtube.com/@aapos2873/videos",
         "accessVerified": true
       },
@@ -5306,7 +5338,7 @@
         "title": "AAPOS 9th Annual Kushner Webinar: Glaucoma and Strabismus—A Tangled Web",
         "url": "https://www.youtube.com/watch?v=ZpaY2zWnAfE",
         "provider": "AAPOS / University of Wisconsin, Burton Kushner Webinar",
-        "durationSeconds": 5459.0,
+        "durationSeconds": 5459,
         "sourceUrl": "https://www.youtube.com/@aapos2873/videos",
         "accessVerified": true
       },
@@ -5315,7 +5347,7 @@
         "title": "AAPOS Adult Strabismus Committee: Complexities of Duane Syndrome in Adults",
         "url": "https://www.youtube.com/watch?v=Tr-fUJQOFOM",
         "provider": "AAPOS Adult Strabismus Committee",
-        "durationSeconds": 4778.0,
+        "durationSeconds": 4778,
         "sourceUrl": "https://www.youtube.com/@aapos2873/videos",
         "accessVerified": true
       },
@@ -5324,7 +5356,7 @@
         "title": "Complexities of Vertical Strabismus in Adults",
         "url": "https://www.youtube.com/watch?v=a2LcJjmLa8A",
         "provider": "AAPOS Adult Strabismus Committee",
-        "durationSeconds": 4709.0,
+        "durationSeconds": 4709,
         "sourceUrl": "https://www.aapos.org/education-and-events/webinars-mediasite",
         "accessVerified": true
       },
@@ -5333,7 +5365,7 @@
         "title": "MOLE: Strabismus",
         "url": "https://www.youtube.com/watch?v=p9A4H9pXjxs",
         "provider": "John A. Moran Eye Center, University of Utah",
-        "durationSeconds": 5973.0,
+        "durationSeconds": 5973,
         "sourceUrl": "https://morancore.utah.edu/section-06-pediatric-ophthalmology-and-strabismus/mole-strabismus/",
         "accessVerified": true
       },
@@ -5342,7 +5374,7 @@
         "title": "Pediatric Retina",
         "url": "https://www.youtube.com/watch?v=_6vvxXezsHs",
         "provider": "John A. Moran Eye Center, University of Utah",
-        "durationSeconds": 5962.0,
+        "durationSeconds": 5962,
         "sourceUrl": "https://morancore.utah.edu/section-06-pediatric-ophthalmology-and-strabismus/pediatric-retina-2/",
         "accessVerified": true
       },
@@ -5351,7 +5383,7 @@
         "title": "Pediatric/Congenital Glaucoma",
         "url": "https://www.youtube.com/watch?v=AosQfmin_y0",
         "provider": "John A. Moran Eye Center, University of Utah",
-        "durationSeconds": 4062.0,
+        "durationSeconds": 4062,
         "sourceUrl": "https://morancore.utah.edu/section-10-glaucoma/pediatric-congenital-glaucoma/",
         "accessVerified": true
       },
@@ -5360,7 +5392,7 @@
         "title": "Papilledema & Optic Neuropathies",
         "url": "https://www.youtube.com/watch?v=u5u8PyodldI",
         "provider": "John A. Moran Eye Center, University of Utah",
-        "durationSeconds": 6956.0,
+        "durationSeconds": 6956,
         "sourceUrl": "https://morancore.utah.edu/section-05-neuro-ophthalmology/papilledema-optic-neuropathies/",
         "accessVerified": true
       },
@@ -5369,7 +5401,7 @@
         "title": "OKAP Review: Pediatric Ophthalmology",
         "url": "https://www.youtube.com/watch?v=hnuxVRIENLk",
         "provider": "John A. Moran Eye Center, University of Utah",
-        "durationSeconds": 5520.0,
+        "durationSeconds": 5520,
         "sourceUrl": "https://morancore.utah.edu/section-06-pediatric-ophthalmology-and-strabismus/okap-review-pediatric-ophthalmology/",
         "accessVerified": true
       },
@@ -5378,7 +5410,7 @@
         "title": "Ocular and Orbital Anatomy",
         "url": "https://www.youtube.com/watch?v=ZCE3eoi7UgY",
         "provider": "John A. Moran Eye Center, University of Utah",
-        "durationSeconds": 3072.0,
+        "durationSeconds": 3072,
         "sourceUrl": "https://morancore.utah.edu/section-17-ophthalmic-anatomy/ocular-and-orbital-anatomy/",
         "accessVerified": true
       },
@@ -5387,7 +5419,7 @@
         "title": "Introduction to Pediatric Ophthalmology",
         "url": "https://www.youtube.com/watch?v=c59tdw3docQ",
         "provider": "John A. Moran Eye Center, University of Utah",
-        "durationSeconds": 3199.0,
+        "durationSeconds": 3199,
         "sourceUrl": "https://morancore.utah.edu/section-06-pediatric-ophthalmology-and-strabismus/introduction-to-pediatric-ophthalmology-3/",
         "accessVerified": true
       },
@@ -5396,7 +5428,7 @@
         "title": "Visual Development and Amblyopia / Pediatric Anterior Segment Disorders",
         "url": "https://www.youtube.com/watch?v=GrH8d78CLS4",
         "provider": "John A. Moran Eye Center, University of Utah",
-        "durationSeconds": 5686.0,
+        "durationSeconds": 5686,
         "sourceUrl": "https://morancore.utah.edu/section-06-pediatric-ophthalmology-and-strabismus/visual-development-and-amblyopia-pediatric-anterior-segment-disorders/",
         "accessVerified": true
       },
@@ -5405,7 +5437,7 @@
         "title": "Examination of Strabismus and Amblyopia",
         "url": "https://www.youtube.com/watch?v=7-tyvobAfbg",
         "provider": "John A. Moran Eye Center, University of Utah",
-        "durationSeconds": 3115.0,
+        "durationSeconds": 3115,
         "sourceUrl": "https://morancore.utah.edu/section-06-pediatric-ophthalmology-and-strabismus/examination-of-strabismus-and-amblyopia/",
         "accessVerified": true
       },
@@ -5414,8 +5446,17 @@
         "title": "AIOC2024 - IC589 - Pediatric Cataract Surgery",
         "url": "https://www.youtube.com/watch?v=M6_sOpPNXaQ",
         "provider": "All India Ophthalmological Society (AIOS), AIOC 2024",
-        "durationSeconds": 4624.0,
+        "durationSeconds": 4624,
         "sourceUrl": "https://abs.aios-scientificcommittee.org/view/4/aioc24/IC/589",
+        "accessVerified": true
+      },
+      {
+        "id": "aios-genetic-testing-pediatric-ophthalmology-2025-ic59",
+        "title": "AIOS2025-IC59-Genetic Testing in Pediatric Ophthalmology: When,why,what-Case Based Approach",
+        "url": "https://www.youtube.com/watch?v=8BfjldRQyWM",
+        "provider": "All India Ophthalmological Society (AIOS) Editor Proceedings",
+        "durationSeconds": 5447,
+        "sourceUrl": "https://www.youtube.com/watch?v=8BfjldRQyWM",
         "accessVerified": true
       }
     ],
@@ -5570,7 +5611,8 @@
           "moran-papilledema-optic-neuropathies-2022",
           "moran-ocular-orbital-anatomy-foundation-2022",
           "moran-visual-development-amblyopia-anterior-segment-2021",
-          "aios-aioc-2024-pediatric-cataract-surgery-ic589"
+          "aios-aioc-2024-pediatric-cataract-surgery-ic589",
+          "aios-genetic-testing-pediatric-ophthalmology-2025-ic59"
         ]
       },
       {
@@ -5604,11 +5646,11 @@
     ],
     "boardStatus": "In the United States, ABO describes general ophthalmology certification based on accredited ophthalmology training and written qualifying plus oral examinations. No separate U.S. ABO pediatric ophthalmology/strabismus board exam was identified. Separately, EBO/ESA/EPOS offers the FEBOS-SP European subspecialty examination; it requires EBO-equivalent/UEMS qualifications, specialist registration, a one-year full-time fellowship to ICO-equivalent standards, and substantial verified surgical experience; those criteria are not met or conferred by this course.",
     "boardEligibilityNotice": "This independent educational curriculum grants no ABO or FEBOS-SP eligibility, accredited training, clinical privileges, licensure, case volume or procedural competence. Consult each board for current rules; no eligibility determination is made.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 27.7125,
-    "verifiedSpecialtyHours": 26.859166666666667,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 29.225555555555555,
+    "verifiedSpecialtyHours": 28.372222222222224,
     "verifiedFoundationHours": 0.8533333333333334,
-    "hoursGap": 8.287500000000001,
+    "hoursGap": 6.774444444444445,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -5636,7 +5678,7 @@
       "basis": "Illustrative study plan: 36.0h target video curriculum (currently only 1.91366h externally verified and public), 28h readings/guideline appraisal, 20h case reasoning and assignments, 12h retrieval practice/reflection. Only measured public video runtimes count toward video hours; study estimates are planning allocations, not delivered contact time or clinical training."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-168_bdb2f59b.pdf",
+    "syllabusUrl": "/manus-storage/MED-168_eb0ad49b.pdf",
     "pdfIds": [
       "med-syllabus-MED-168",
       "med-reading-6b85b968656a"
@@ -5647,7 +5689,7 @@
         "title": "Pediatric Eye Exam",
         "url": "https://eyerounds.org/atlas-video/pediatric-eye-exam.htm",
         "provider": "University of Iowa EyeRounds (Vimeo embed)",
-        "durationSeconds": 586.0,
+        "durationSeconds": 586,
         "sourceUrl": "https://eyerounds.org/atlas-video/pediatric-eye-exam.htm",
         "accessVerified": true
       },
@@ -5674,7 +5716,7 @@
         "title": "Persistent fetal vasculature cataract surgery: Sunny Side Up",
         "url": "https://eyerounds.org/video/Peds-Ophth/PFV-cataract.htm",
         "provider": "University of Iowa EyeRounds (Vimeo embed)",
-        "durationSeconds": 320.0,
+        "durationSeconds": 320,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/PFV-cataract.htm",
         "accessVerified": true
       },
@@ -5683,7 +5725,7 @@
         "title": "ROP—Loose Zonules and Hemorrhage",
         "url": "https://eyerounds.org/atlas-video/ROP-loose-zonules-and-heme.htm",
         "provider": "University of Iowa EyeRounds (Vimeo embed)",
-        "durationSeconds": 446.0,
+        "durationSeconds": 446,
         "sourceUrl": "https://eyerounds.org/atlas-video/ROP-loose-zonules-and-heme.htm",
         "accessVerified": true
       },
@@ -5692,7 +5734,7 @@
         "title": "Adjustable Suture Technique in Strabismus Surgery—Lateral Rectus Resection",
         "url": "https://eyerounds.org/atlas-video/adjustable_Suture_Technique_in_strabismus_surgery_Lateral_Rectus_Resection.htm",
         "provider": "University of Iowa EyeRounds (Vimeo embed)",
-        "durationSeconds": 329.0,
+        "durationSeconds": 329,
         "sourceUrl": "https://eyerounds.org/atlas-video/adjustable_Suture_Technique_in_strabismus_surgery_Lateral_Rectus_Resection.htm",
         "accessVerified": true
       },
@@ -5701,7 +5743,7 @@
         "title": "Inferior Oblique Myectomy",
         "url": "https://eyerounds.org/atlas-video/Inferior-Oblique-Myectomy.htm",
         "provider": "University of Iowa EyeRounds (Vimeo embed)",
-        "durationSeconds": 157.0,
+        "durationSeconds": 157,
         "sourceUrl": "https://eyerounds.org/atlas-video/Inferior-Oblique-Myectomy.htm",
         "accessVerified": true
       },
@@ -5710,7 +5752,7 @@
         "title": "Medial Rectus Recession—Fornix Approach",
         "url": "https://eyerounds.org/video/PediatricOphth-Strabismus-vids/medial-rectus-recession.htm",
         "provider": "University of Iowa EyeRounds (Vimeo embed)",
-        "durationSeconds": 339.0,
+        "durationSeconds": 339,
         "sourceUrl": "https://eyerounds.org/video/PediatricOphth-Strabismus-vids/medial-rectus-recession.htm",
         "accessVerified": true
       },
@@ -5719,7 +5761,7 @@
         "title": "Strabismus Surgery in the Setting of a Scleral Buckle",
         "url": "https://eyerounds.org/atlas-video/strabismus-surgery-scleral-buckle.htm",
         "provider": "University of Iowa EyeRounds (Vimeo embed)",
-        "durationSeconds": 313.0,
+        "durationSeconds": 313,
         "sourceUrl": "https://eyerounds.org/atlas-video/strabismus-surgery-scleral-buckle.htm",
         "accessVerified": true
       },
@@ -5728,7 +5770,7 @@
         "title": "Simultaneous Harada-Ito and Superior Oblique Tendon Tuck",
         "url": "https://eyerounds.org/video/Peds-Ophth/harada-ito-SO-tuck.htm",
         "provider": "University of Iowa EyeRounds (Vimeo embed)",
-        "durationSeconds": 209.0,
+        "durationSeconds": 209,
         "sourceUrl": "https://eyerounds.org/video/Peds-Ophth/harada-ito-SO-tuck.htm",
         "accessVerified": true
       },
@@ -5737,7 +5779,7 @@
         "title": "Strabismus Surgery: Adjustable Suture Technique",
         "url": "https://eyerounds.org/video/PediatricOphth-Strabismus-vids/adjustable-Suture-Technique.htm",
         "provider": "University of Iowa EyeRounds (Vimeo embed)",
-        "durationSeconds": 696.0,
+        "durationSeconds": 696,
         "sourceUrl": "https://eyerounds.org/video/PediatricOphth-Strabismus-vids/adjustable-Suture-Technique.htm",
         "accessVerified": true
       },
@@ -5746,7 +5788,7 @@
         "title": "How to Perform a Basic Cover Test in Ocular Misalignment or Strabismus",
         "url": "https://eyerounds.org/video/basic-cover-test.htm",
         "provider": "University of Iowa EyeRounds (Vimeo embed)",
-        "durationSeconds": 439.0,
+        "durationSeconds": 439,
         "sourceUrl": "https://eyerounds.org/video/basic-cover-test.htm",
         "accessVerified": true
       },
@@ -5755,7 +5797,7 @@
         "title": "Introduction to Pediatric Ophthalmology [ARCHIVE]",
         "url": "https://www.youtube.com/watch?v=c59tdw3docQ",
         "provider": "John A. Moran Eye Center / Moran CORE",
-        "durationSeconds": 3199.0,
+        "durationSeconds": 3199,
         "sourceUrl": "https://morancore.utah.edu/section-06-pediatric-ophthalmology-and-strabismus/introduction-to-pediatric-ophthalmology-3/",
         "accessVerified": true
       },
@@ -5764,8 +5806,17 @@
         "title": "Pediatric Retina [ARCHIVE]",
         "url": "https://www.youtube.com/watch?v=_6vvxXezsHs",
         "provider": "John A. Moran Eye Center / Moran CORE",
-        "durationSeconds": 5962.0,
+        "durationSeconds": 5962,
         "sourceUrl": "https://morancore.utah.edu/section-06-pediatric-ophthalmology-and-strabismus/pediatric-retina-2/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED168-REC-001",
+        "title": "Lecture: Acquired Esotropia – What’s New in 2023!",
+        "url": "https://www.youtube.com/watch?v=URUkS-8xdi0",
+        "provider": "Cybersight / Project Orbis International",
+        "durationSeconds": 4185,
+        "sourceUrl": "https://cybersight.org/library/lecture-acquired-esotropia-whats-new-in-2023/",
         "accessVerified": true
       }
     ],
@@ -5829,7 +5880,9 @@
         "number": 6,
         "text": "Neurogenic, restrictive and acquired ocular misalignment",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED168-REC-001"
+        ]
       },
       {
         "number": 7,
@@ -5891,11 +5944,11 @@
     ],
     "boardStatus": "A pediatric ophthalmology/strabismus fellowship is a clinical physician subspecialty training track. It is not a separate ABMS board specialty or subspecialty certificate in the reviewed ABMS directory; ABO certifies ophthalmology with written and oral examinations.",
     "boardEligibilityNotice": "This course is independent education and grants no institutional affiliation, accredited training, licensure, clinical competence, procedure competence, ABMS/ABO eligibility, AAPOS membership or certification. ABO certification is primary ophthalmology certification and requires its own qualifying training and written/oral examinations. As checked 2026-10-07, the ABMS certificate directory lists Ophthalmology under ABO and “No Subspecialties”; no separate ABMS/ABO pediatric ophthalmology/strabismus board exam or certificate was identified. AAPOS membership and AUPO FCC-approved fellowship status are separate association/program designations, not board certification. Verify current board and fellowship rules directly.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 3.8000475000000002,
-    "verifiedSpecialtyHours": 3.0385752777777775,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 4.9625475,
+    "verifiedSpecialtyHours": 4.201075277777777,
     "verifiedFoundationHours": 0.7614722222222223,
-    "hoursGap": 32.1999525,
+    "hoursGap": 31.0374525,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

@@ -1,68 +1,51 @@
 # Board Studio — learning and remaining-work guide
 
-## Start learning
+## Open the studio
 
-[Open Harvard:John Med](https://boardstudio-svjffwzx.manus.space/med), choose a programme record and open its course. The portal is usable; **the complete original teaching series and every medical video-hour target remain unfinished**.
+Use [the original medical studio](https://boardstudio-svjffwzx.manus.space/med) or [the Vercel copy](https://noardstudiomannus.vercel.app/med). Choose a programme record, open its course, select **Original**, **University** or **All**, and press **Play ready queue**. The queue includes actual available videos, not manuscripts or plans. Native controls provide seeking, speed and captions. Outside providers retain **Open source / Skip** fallbacks when embedding or access is restricted; restrictions are not bypassed.
 
-Choose **All**, **Original** or **University**, then press **Play ready queue**. Only actual available videos enter the queue. Native controls provide pause, playback speed, seeking and captions. Provider embedding/account restrictions have **Open source / Skip** fallbacks; they are not bypassed.
+**Transcript** shows original narration; **Source reader** opens the syllabus or lawful PDF. **Self-practice** contains original source-cited questions, not protected board questions or a validated predictor of passing. **Library** provides PDFs, guides, free readings, study boards and scoped archives. **Coverage** distinguishes plans, measured video, blocked teaching and source/topic gaps.
 
-The **Transcript** tab contains original narration. The source reader opens the syllabus or a lawful linked PDF; its page controls let you read ahead. **Self-practice** contains original questions and source-cited rationales, not protected board questions or a validated passing score. **Library** contains syllabi, guides, free readings, trackers and frozen archives. **Coverage** distinguishes actual media from plans, blocked teaching and unmet source/topic requirements.
+## Current verified production snapshot — 9 October 2026
 
-## Current canonical snapshot — 9 October 2026
-
-| Item | Verified availability |
+| Item | Actual availability |
 | --- | --- |
 | Programmes | AI/CS/CSE, MBA, Finance, CTO and Harvard:John Med |
-| Base programme modules | 51, with 264 study units |
-| Medical curriculum records | 333 discovered programme/variant records; not 333 distinct board specialties |
-| All course workspaces | 384 |
-| Medical syllabus PDFs | 333; changed copies verified and uploaded by exact SHA-256 |
-| Medical records meeting the inclusive measured 36-hour target | 189 |
-| Medical records below that target | 144 |
-| Ready base original videos | 147, including orientation/reference material |
-| Ready medical original videos | 72, automated source-checked, not clinician-reviewed |
-| Ready original videos | 219; not 216 complete courses |
-| Base source/orientation plans not ready | 1,021 of 1,168 manifest entries |
-| Full PDF-to-video teaching | Unfinished |
+| Base modules / study units | 51 / 264 |
+| Medical records | 333 discovered programme/variant records, not 333 distinct board specialties |
+| Course workspaces | 384 |
+| Medical syllabus PDFs | 333, with exact byte-aware verification and durable upload |
+| Medical records meeting inclusive measured 36-hour target | 194 |
+| Medical records below target | 139 |
+| Remaining medical deficit | Approximately 2,973.99 record-hours; not schoolwide unique viewing time |
+| Ready base originals | 147 |
+| Ready medical originals | 83 |
+| All ready originals | 230; not 230 completed courses |
+| Base source/orientation manifest entries not ready | 1,021 of 1,168 |
 | Human clinician review | Not performed |
+| Full PDF-to-video teaching / complete medical curriculum | Unfinished |
 
-The recovered catalogue was confirmed published as `37f03ce`, and **all 384 actual published course endpoint lookups passed**, with exact canonical course identity, no public internal-path leakage, and anonymous private progress/notes correctly denied. The software also passed **67 automated tests**, TypeScript checking, the production build, and all 384 local endpoint checks. The recovered `MED-X117` live course and syllabus work; its PDF returned HTTP 206 with PDF content type. The latest static Library additions are saved/published separately from that already-verified catalogue release.
+This production snapshot is locally validated. The latest recovery has not yet received final publication confirmation in this guide; the published portals may temporarily show the previous saved catalogue. Ready medical media is also synchronized through a trusted fixed-kind public-feed writer, never a public write API. Counts are based on actual canonical manifests and strict source/hash gates, not elapsed production time.
 
-The new `MED-017-EXPLAIN-101` lesson played in the published course: 725-second duration, advancing playback with no media error, 153 loaded caption cues and a working transcript. This is sampled actual playback, not a claim that every external recording has been individually played.
+## What the medical-first continuation completed
 
-The final download update was confirmed published as **`409d75c`**. Live health, static route JSON, the 384-course catalogue, recovered MED-X117, both new Library download links and the exact 216-ready-media identity were verified afterward. Both archive URLs returned HTTP 206, ZIP content type and ZIP signatures.
+- Dedicated source recovery covered all **144 previously under-target records**. Conservative intake accepted **240 recording assignments** and **130 new authored chapters**, changing 138 course packets/author files. **42 contradictory or insufficient-access candidates were quarantined**. Historical duration metadata cannot override a current same-player “Video unavailable” result. Reused relevant recordings can serve several records; these assignments are not 240 new unique videos.
+- **96 changed syllabus PDFs** were compiled, checked and uploaded, followed by narrowly scoped practice-metadata corrections. All 333 current PDFs are in the refreshed archive. The medical workbook and measured-hours index were refreshed without rebuilding obsolete multi-gigabyte film archives.
+- An earlier sixteen-candidate pass produced **three** real medical clips and blocked thirteen. A subsequent twelve-candidate pass produced zero and blocked twelve; those failures were not promoted.
+- The latest **twenty-candidate pass produced eight** genuine new medical videos totaling **78.53 minutes**, with measured video/audio, captions, transcripts, exact uploaded hashes and automated source checks. Twelve candidates remained blocked. Topics include SSTR PET, pelvic-trauma imaging questions, DICOM representation/display, transplant-function evidence, decision-specific capacity, regional gut transit, ventriculitis evidence and maternal-infant medication-information boundaries. These are bounded independent lessons, not complete specialty courses.
+- **35 existing transcripts** were corrected to contain the actual approved spoken narration rather than rejected upstream author wording. Their video/caption/source identity and prior public objects were preserved. Transcript maintenance does not create new videos or new clinical validation.
+- Practice-domain labels were recovered only from existing text or exact curriculum-unit headings, without inventing validated board mappings. Existing citation aliases and one explicitly non-case credential question were corrected. **19 questions remain withheld by strict case-provenance metadata validation**, rather than silently asserting fictional patient cases.
+- Tested speech controls prevent lexical clinical hyphens becoming subtraction. Cached browser challenge pages remain unavailable evidence; no challenge, login or paywall bypass occurred. Future labels now preserve full source qualifications rather than silently cutting words; the confirmed transplant display truncation was repaired, freshly source-audited, rendered and uploaded while preserving its previous public objects; its existing ID does not increase the video count.
 
-Ready lecture metadata is synchronized through a trusted fixed-kind database writer, not a public write API. Live readers retain independent bundled fallbacks. No learner rows are included in public educational metadata. Counts can increase after this dated snapshot; the current queue and Coverage screen are the live availability views.
+## Current downloads and their boundaries
 
-## What the latest recovery added
+The Library includes the current **333-syllabus archive**, medical study workbook and measured-hours CSV. The new continuation supplement bundles **11 added videos** and changed transcripts for **33 existing lessons** relative to the preceding 219-ready snapshot. It contains only changed assets: transcript-only entries retain unchanged video/caption URLs in the index and are not 33 new standalone films. Historical public objects and earlier frozen archives remain intact.
 
-- A distinct source-cited ophthalmic-genetics fellowship curriculum, reading links, study units and syllabus—not a residency credential.
-- Recovered specialty recording evidence and substantive authored chapters, merged without changing existing clinical answers or replacing ready clips. **Authored does not mean filmed.**
-- Sixteen updated syllabi in a recovery archive; five later syllabus changes were compiled, verified and uploaded separately. Historical archives are frozen and may not contain those later changes.
-- The latest forty-episode medical pass produced six genuinely ready teaching videos and left thirty-four episodes source-blocked. No blocked episode was promoted.
-- A tested metadata-only repair recovered fourteen valid recording entries and nine authored chapters. Missing publication dates remain explicitly unknown. Unavailable access and insufficient source evidence remain disqualifying.
-- Eleven passing offline regressions verify the repaired base final-audit scope and speech fidelity. Assigned-page omissions still require correction; excluding an adjacent-page requirement does not count that page as taught.
-- Ordinary public-browser acquisition recovered exact AHA, CDC and ABIM ACHD evidence with verified hashes and provenance. **AHA item 6 is visibly truncated after “>2 to”; no missing numerical endpoint is inferred.** These are audit-cache improvements, not clinical validation.
-- One original source-bounded ACHD information-inventory lesson was rendered, uploaded and played successfully. Its seven companion scripts still failed source support and remain blocked.
-- Two existing AI videos received fresh audited revisions; their IDs were already ready, so this does not increase the base video count. Previously stored media objects remain available.
-- Four retention regressions now prevent unfinished-only passes from regenerating valid ready media merely because narration-version metadata or local scratch files changed. Three further tests verify bounded QR/least-squares/Cramer requirements. That unfinished lesson's final draft was interrupted for this publication handoff; no new video or completion is claimed for it.
-- A hash-verified download contains all 333 current syllabus PDFs. A separate 62-video recovery supplement contains 50 added and 12 revised ready clips relative to the earlier 166-file snapshot, with captions, transcripts and per-file hashes. It is a frozen supplement, not all 216 originals or a completed course series.
-
-## Latest medical-first continuation — 9 October 2026
-
-Two finite medical passes reviewed ten existing candidate lessons: **three new original videos** were genuinely rendered and uploaded with captions/transcripts; seven candidates stayed blocked. The new lessons are reconstructive defect matching (414 seconds), free-flap monitoring (552 seconds) and pediatric neuroimmunology MRI/CSF/antibody reasoning (607 seconds). Automated source review is not clinician review. The microsurgery record MED-X046 now has 36.0872 inclusive measured hours; the pediatric-neuroimmunology record remains below target.
-
-Two exact-name pediatric-rehabilitation variants now share 25 previously verified, nonduplicate, explicitly topic-mapped recording entries. Their external totals increased from 16.0686 to 25.8244 hours (MED-176) and from 14.9994 to 26.6586 hours (MED-X060). These are reused record-level credits, not 25 new unique recordings. Existing observed duration/access evidence is retained; no fresh playback verification or new clinical claim is asserted. Both remain below 36 hours. Four offline reuse guards passed, two changed syllabus PDFs were verified and uploaded, and the 333-PDF archive was refreshed from exact verified bytes.
-
-The remaining medical deficit is **144 records**, about **3,179.05 record-hours**. Shared relevant recordings can serve multiple records, so this is not unique schoolwide video time. More substantive topic/board-domain teaching is still needed. Ordinary public-page access exposed new official ACHD download links, but both direct requests and the normal browser returned 403 for the clinical source files. The seven existing unsupported ACHD companions remain blocked; access controls were not bypassed.
-
-A separate public GitHub/Vercel-ready source copy is being finalized without switching the Manus-hosted website or copying credentials, private learner rows, raw source caches or media binaries. Vercel deployment is not performed in this task; its media remains dependent on the existing hosted origin and should be playback/CORS-tested after deployment.
+A separate earlier **62-lecture supplement** contains 50 added and 12 revised clips relative to a 166-file snapshot. Neither supplement is the complete original teaching series. Publisher readings remain links unless redistribution permission is established. Archives include file hashes and their actual preceding-snapshot boundary.
 
 ## Original four programmes
 
-Verified outside lecture totals remain AI **84.67 hours**, MBA **47.35**, Finance **41.93** and CTO **54.05**, separate from original teaching. The studio retains source PDFs, free textbook/reading links, course syllabi, assignments, rubrics, programme/complete/video guides, lecture maps and editable study boards.
-
-The four-programme production order remains **AI → MBA → Finance → CTO**; those passes are paused because the user now prioritizes medical work. Thirty-five downloaded reference copies represent 34 unique sources and 6,150 physical PDF pages. Source-page accounting distinguishes teaching, practice, reference, administrative and unreadable pages. An orientation or bibliography walkthrough cannot satisfy substantive topic teaching. A planned source lesson is not a finished video.
+Verified outside lecture totals remain **AI 84.67 hours**, **MBA 47.35**, **Finance 41.93** and **CTO 54.05**, separate from original teaching. The studio retains source PDFs, free textbooks/readings, syllabi, assignments, rubrics, lecture maps and editable study boards.
 
 | Programme | All ready original hours | Instructional original hours |
 | --- | ---: | ---: |
@@ -71,38 +54,34 @@ The four-programme production order remains **AI → MBA → Finance → CTO**; 
 | Finance | 2.60 | 1.73 |
 | CTO | 0.94 | 0.26 |
 
-These are measured manifest totals, not full-PDF coverage or finished programmes. Real mathematical/pedagogical gaps remain. The focused repair preserves all in-range equations, worked examples and learner computations; it does not suppress genuine audit findings or claim all book exercises are solved. Each changed lesson needs a fresh independent source audit before rendering.
+These measured totals are not full-PDF coverage. Source-page accounting distinguishes substantive teaching, practice, references, administration and unreadable pages. Bibliography/orientation videos do not satisfy full subject instruction. Production order remains **medical first**, then **AI → MBA → Finance → CTO**. The exact unfinished AI orthogonality/least-squares/QR/Cramer lesson needs fresh source-fidelity approval; a tested repair alone is not a completed film. Existing ready assets are retained rather than regenerated merely because scratch files or speech versions changed.
 
-## Medical hour and topic requirements
+## Validation and publication history
 
-The requested minimum is **at least 36 hours per medical programme record, expanded as needed**. Specialty and foundation time are reported separately. Meeting an inclusive hour threshold does not prove 36 specialty-only hours, complete board-domain coverage or clinical competence.
+The current application passed **67 software tests**, TypeScript checking, production build and the read-only **384-course endpoint test**, including exact ready-media identity, unknown-course behavior and anonymous private progress/notes denial. The medical renderer passed 23 offline guards before the latest pass; further full-label regressions were added. Intake/domain guards passed 35 offline tests. The public-copy exporter passes strict public-manifest, private-path, exact-ready-ID and Vercel-adapter preservation tests.
 
-Unknown durations, inaccessible recordings, duplicates within a record, promotional clips, unrelated padding and planned originals do not count. Relevant videos may be mapped to more than one programme, so adding record-level hours is not schoolwide unique watch time. Historical resources retain their source dates and limitations.
+The previous GitHub/Vercel snapshot was successfully pushed at `cf19f9baba67c090002d2fb5d2245530262fcbab` to [Noard-Studio-Mannus](https://github.com/nuclearimagingconsultants-lang/Noard-Studio-Mannus). It passed 71 copy-specific tests, all 384 deployed course checks and exact 219-ready identities. A sample MED-X046 native video played with advancing time, 414-second duration and 78 captions after reselection; captions/transcript returned HTTP 200. Earlier Manus releases were verified at `37f03ce` and `409d75c`, including MED-X117 and durable PDF/archive responses. These historical observations do not automatically verify the latest unpublished recovery or every external player/browser.
 
-Blocked scripts stay blocked. Evidence is acquired through ordinary public access with exact provenance, not by bypassing authentication or paywalls. Sources with genuinely unavailable or incomplete content cannot support the missing factual teaching claim. Automated source checks compare actual narrated/displayed claims against retrieved excerpts; **they are not clinician or academic peer review**.
+The two repositories remain separate. The Manus canonical repository and original hosted site are preserved. Future validated educational data is explicitly copied to GitHub while preserving Vercel-only adapters. No credentials, private learner rows, raw source caches, internal production state or media binaries belong in the public repository. Vercel media still depends on the existing public hosted origin; this is not automatic two-way synchronization.
 
-## Progress and downloads
+## What remains
 
-Guest progress/notes are local to this browser/device. Manus sign-in enables user-scoped private storage. Use **Save** for notes. Marking a course complete is personal tracking, not an official grade or competency attestation.
-
-Library archives are availability snapshots containing only the exact media, captions, transcripts or syllabus files stated by their names—not completed degree programmes. Readings remain publisher links when redistribution rights are not established. Source plans, authored scripts, exact source checks and remaining-work ledgers are preserved for resumption. Do not infer completion from a running producer or an uploaded archive.
-
-## Everything that remains
-
-| Remaining outcome | Current gap / next work |
+| Outcome | Remaining work |
 | --- | --- |
-| Complete original teaching for the four base programmes | 1,021 source/orientation manifest entries are not ready. Continue AI → MBA → Finance → CTO, with actual source teaching, worked examples, captions, transcripts, measured video and fresh audits. Plans and summary clips do not establish full-PDF coverage. |
-| Medical 36-hour minimum | 144 of 333 programme/variant records remain below the inclusive measured floor. Add relevant source-evidenced recordings or genuine originals; exclude unknown runtime, inaccessible media, duplication within a record and unrelated padding. |
-| Medical topic and board-domain coverage | Meeting an hour floor does not close curriculum/topic gaps. More substantive source-grounded teaching and mapped practice are needed; sampled scores are not validated board readiness. |
-| Blocked teaching scripts | Retrieve sufficient lawful, accessible, claim-relevant authoritative source text or correct the claims. Seven remaining ACHD companions are still source-blocked. QR/least-squares/Cramer drafting remains unfinished despite tested source requirements. |
-| Exhaustive institutional discovery | Some official-directory/internal-curriculum limitations remain. All currently discovered records have packets and syllabi, but discovery is not certified exhaustive. |
-| Human clinician review | Not performed. Automated source checking is not a substitute. Qualified human review would be needed before describing the medical material as clinician-reviewed. |
-| Future downloadable snapshots | Refresh frozen media/curriculum/tracker archives as more content is actually completed, keeping each snapshot's date and scope truthful. |
+| Medical 36-hour minimum | 139 of 333 records remain below the inclusive measured floor. Add relevant, accessible, duration-evidenced recordings or genuine source-qualified originals, never unrelated padding or unknown runtime. |
+| Medical original teaching | 101 of the newly recovered compatible chapters are genuinely unprocessed at this snapshot; other manuscripts remain preflight/source-blocked. Continue finite exact-ID passes with fresh source checks and complete assets. |
+| Medical topic/board-domain coverage | Hour floors do not prove specialty-only hours, complete board mapping or clinical competence. More substantive teaching and mapped original practice remain necessary. |
+| Practice metadata | 19 items remain withheld pending explicit case provenance; authorship alone does not establish fictional patient cases. |
+| Base PDF teaching | 1,021 manifest entries remain not ready. Continue AI, MBA, Finance and CTO with equations, worked examples, learner computations, captions/transcripts and fresh audits. |
+| Source blocks | Obtain lawful, accessible, claim-relevant excerpts or make bounded supported corrections. Seven existing ACHD companion scripts remain blocked; a truncated AHA item cannot support an inferred numerical endpoint. |
+| Institutional discovery | Official-directory/internal-curriculum access limitations remain; discovery is not certified exhaustive. |
+| Human clinical review | Not performed. Qualified human review must be arranged before calling material clinician-reviewed. |
+| Downloads / both hosted copies | Refresh only validated snapshots, save canonical checkpoints, publish and test; explicitly synchronize the independent public copy. |
 
-**What is needed from you:** nothing further to use the published portal. I can continue ordinary production and public-source research under the existing request. For content that cannot be supported publicly, lawfully accessible source documents or an authorized alternative would help; do not send passwords or identifiable patient records. If you want clinician-reviewed medical teaching, you would need to arrange a qualified clinician reviewer. This project cannot supply accredited clinical training, credentials or a board-pass guarantee.
+**What is needed from you:** nothing further for ordinary continuation or use of the portals. Lawfully accessible authoritative source documents could help resolve claims that public sources cannot support. Do not send passwords, identifiable patient records or protected board questions. Qualified clinician review would require an actual reviewer; this task cannot substitute for one.
 
-## Institutional and clinical boundaries
+## Progress, institutional and clinical boundaries
 
-This studio is independent and unaffiliated with Harvard, Johns Hopkins, Boston Children's, MIT, edX or other source institutions. It awards no university enrolment, credit, degree or institutional certification.
+Guest progress/notes remain local to the browser/device. Authorized Manus sign-in enables user-scoped private storage; Vercel guest study requires no environment variables and uses local tracking unless separate services are configured. Marking complete is personal tracking, not a competency attestation.
 
-It cannot replace MD/DO education, accredited residency/fellowship, supervised clinical cases or procedures, licensure, authorized-user training, board eligibility or certification. **It cannot guarantee passing any/all board examinations.** Qualified human clinician review has not been performed. Do not upload identifiable patient records. Generated teaching diagrams are conceptual schematics, not patient scans. Public viewing does not establish permission to rehost copyrighted clinical resources.
+Board Studio is independent and unaffiliated with Harvard, Johns Hopkins, Boston Children’s, MIT, edX or other source institutions. It awards no enrolment, credit, degree or institutional certification. It cannot replace MD/DO education, accredited residency/fellowship, supervised clinical cases/procedures, licensure, authorized-user training, board eligibility or certification. **It cannot guarantee passing any/all board examinations.** Automated source comparison is not clinician review. Conceptual schematics are not patient scans or diagnostic ground truth; historical sources are not silently presented as current clinical guidance.

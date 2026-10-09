@@ -17,7 +17,7 @@
       "notes": "The 36-hour course video floor is not met by ready media. Planned production hours are an instructional planning target and are not actual lecture hours. Non-video study time is a learner plan, not institutional contact hours. The BWH fellowship publicly reports more than half the fellow’s time is scholarly projects, but it does not publicly publish exact hours."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X085_7f10fd46.pdf",
+    "syllabusUrl": "/manus-storage/MED-X085_9757834f.pdf",
     "pdfIds": [
       "med-syllabus-MED-X085",
       "med-reading-0380d324ea72",
@@ -32,7 +32,7 @@
         "title": "Medicine Grand Rounds: Gender Affirming Hormonal Care for Transgender and Gender Diverse People",
         "url": "https://www.youtube.com/watch?v=DnZaizQK2M0",
         "provider": "EVMS Medicine (YouTube)",
-        "durationSeconds": 3493.0,
+        "durationSeconds": 3493,
         "sourceUrl": "https://www.youtube.com/watch?v=DnZaizQK2M0",
         "accessVerified": true
       },
@@ -41,7 +41,7 @@
         "title": "Caring for Trans and Gender Diverse People — Evidence Based Medicine Across the Lifespan",
         "url": "https://www.youtube.com/watch?v=9LNrXh8Msfs",
         "provider": "UCSF School of Medicine (YouTube)",
-        "durationSeconds": 3790.0,
+        "durationSeconds": 3790,
         "sourceUrl": "https://www.youtube.com/watch?v=9LNrXh8Msfs",
         "accessVerified": true
       },
@@ -50,7 +50,7 @@
         "title": "Goodfellow Unit Webinar: Adult transgender patient care",
         "url": "https://www.youtube.com/watch?v=IS3n4Ir5_-A",
         "provider": "Goodfellow Unit (University of Auckland; YouTube)",
-        "durationSeconds": 4642.0,
+        "durationSeconds": 4642,
         "sourceUrl": "https://www.youtube.com/watch?v=IS3n4Ir5_-A",
         "accessVerified": true
       },
@@ -59,7 +59,7 @@
         "title": "Gender-Affirming Hormone Initiation and Antiretroviral Therapy Considerations in People With HIV",
         "url": "https://www.youtube.com/watch?v=UtjykxlllLQ",
         "provider": "IAS-USA (YouTube)",
-        "durationSeconds": 4512.0,
+        "durationSeconds": 4512,
         "sourceUrl": "https://www.youtube.com/watch?v=UtjykxlllLQ",
         "accessVerified": true
       },
@@ -68,7 +68,7 @@
         "title": "The Future is Now: Increasing Access to Care for Transgender/Gender Diverse Youth Using Telehealth",
         "url": "https://www.youtube.com/watch?v=v9JBVcSVVpU",
         "provider": "Northwestern University Feinberg School of Medicine (YouTube)",
-        "durationSeconds": 3432.0,
+        "durationSeconds": 3432,
         "sourceUrl": "https://www.youtube.com/watch?v=v9JBVcSVVpU",
         "accessVerified": true
       },
@@ -77,7 +77,7 @@
         "title": "Needs of transgender & gender diverse people in healthcare system: Healthcare professionals training",
         "url": "https://www.youtube.com/watch?v=cMJUY4fcqvU",
         "provider": "The Leukemia & Lymphoma Society of Canada (YouTube)",
-        "durationSeconds": 3770.0,
+        "durationSeconds": 3770,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLw0lBK4PlwF7VnrDr1MQGJoMrOFo1Uv-4",
         "accessVerified": true
       },
@@ -86,7 +86,7 @@
         "title": "Transgender Care in General Practice Webinar",
         "url": "https://www.youtube.com/watch?v=jvRE0vxASys",
         "provider": "Western Victoria PHN LEARN (YouTube)",
-        "durationSeconds": 5551.0,
+        "durationSeconds": 5551,
         "sourceUrl": "https://www.youtube.com/watch?v=jvRE0vxASys",
         "accessVerified": true
       },
@@ -95,7 +95,7 @@
         "title": "Gender Health: Insurance Navigation 101 | Christopher Mann, MSW, ASW | UCLAMDChat",
         "url": "https://www.youtube.com/watch?v=-IKadZenNTQ",
         "provider": "UCLA Health (UCLAMDChat; YouTube)",
-        "durationSeconds": 1562.0,
+        "durationSeconds": 1562,
         "sourceUrl": "https://www.youtube.com/watch?v=-IKadZenNTQ",
         "accessVerified": true
       },
@@ -104,7 +104,7 @@
         "title": "Gender Identity Development and Medical Options for Transgender Youth | UCLAMDChat",
         "url": "https://www.youtube.com/watch?v=Cb_-yu53wDM",
         "provider": "UCLA Health (UCLAMDChat; YouTube)",
-        "durationSeconds": 1656.0,
+        "durationSeconds": 1656,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLw0lBK4PlwF7VnrDr1MQGJoMrOFo1Uv-4",
         "accessVerified": true
       },
@@ -113,7 +113,7 @@
         "title": "LGBTQ+ Community Engagement in Healthcare | Mark Litwin & Christopher Mann | UCLAMDChat",
         "url": "https://www.youtube.com/watch?v=slVP3X2LbRU",
         "provider": "UCLA Health (UCLAMDChat; YouTube)",
-        "durationSeconds": 1654.0,
+        "durationSeconds": 1654,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLw0lBK4PlwF7VnrDr1MQGJoMrOFo1Uv-4",
         "accessVerified": true
       },
@@ -122,7 +122,7 @@
         "title": "Fertility Considerations for the Transgender Population | Jesse Mills & Molly Quinn, MD | UCLAMDChat",
         "url": "https://www.youtube.com/watch?v=yohRD7uLvMc",
         "provider": "UCLA Health (UCLAMDChat; YouTube)",
-        "durationSeconds": 1435.0,
+        "durationSeconds": 1435,
         "sourceUrl": "https://www.youtube.com/watch?v=yohRD7uLvMc",
         "accessVerified": true
       },
@@ -131,7 +131,7 @@
         "title": "Caring for LGBTQ Youth: Tips for Parents & Caregivers | UCLAMDChat",
         "url": "https://www.youtube.com/watch?v=DAxLlj7SJn8",
         "provider": "UCLA Health (UCLAMDChat; YouTube)",
-        "durationSeconds": 1248.0,
+        "durationSeconds": 1248,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLw0lBK4PlwF7VnrDr1MQGJoMrOFo1Uv-4",
         "accessVerified": true
       },
@@ -140,7 +140,7 @@
         "title": "Care of the Transgender Voice: Focus on Feminization | UCLA Gender Health",
         "url": "https://www.youtube.com/watch?v=sGxMA8JMBj0",
         "provider": "UCLA Health (UCLAMDChat; YouTube)",
-        "durationSeconds": 1327.0,
+        "durationSeconds": 1327,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLw0lBK4PlwF7VnrDr1MQGJoMrOFo1Uv-4",
         "accessVerified": true
       },
@@ -149,7 +149,7 @@
         "title": "The Role of Behavioral Health in Gender Affirming Care | UCLAMDChat",
         "url": "https://www.youtube.com/watch?v=XZR5OFfdEWI",
         "provider": "UCLA Health (UCLAMDChat; YouTube)",
-        "durationSeconds": 1823.0,
+        "durationSeconds": 1823,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLw0lBK4PlwF7VnrDr1MQGJoMrOFo1Uv-4",
         "accessVerified": true
       },
@@ -158,7 +158,7 @@
         "title": "Gender Affirmation Surgery Options for Female to Male Patients | UCLAMDChat",
         "url": "https://www.youtube.com/watch?v=YeOfcpyE2Fo",
         "provider": "UCLA Health (UCLAMDChat; YouTube)",
-        "durationSeconds": 1017.0,
+        "durationSeconds": 1017,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLw0lBK4PlwF7VnrDr1MQGJoMrOFo1Uv-4",
         "accessVerified": true
       },
@@ -167,7 +167,7 @@
         "title": "Gender Affirming Orchiectomy | Mark S. Litwin, MD | UCLAMDChat",
         "url": "https://www.youtube.com/watch?v=De3Iytw05TA",
         "provider": "UCLA Health (UCLAMDChat; YouTube)",
-        "durationSeconds": 1503.0,
+        "durationSeconds": 1503,
         "sourceUrl": "https://www.youtube.com/watch?v=De3Iytw05TA",
         "accessVerified": true
       },
@@ -176,7 +176,7 @@
         "title": "Gender Health: Gender Affirming Hormone Therapy | UCLA Health",
         "url": "https://www.youtube.com/watch?v=9yz-LPH0EAM",
         "provider": "UCLA Health (UCLAMDChat; YouTube)",
-        "durationSeconds": 2141.0,
+        "durationSeconds": 2141,
         "sourceUrl": "https://www.youtube.com/watch?v=9yz-LPH0EAM",
         "accessVerified": true
       },
@@ -185,7 +185,7 @@
         "title": "Gender Health: Caring for the Whole You | Amy Weimer, MD | UCLAMDChat",
         "url": "https://www.youtube.com/watch?v=Rc7bx2xQ8jI",
         "provider": "UCLA Health (UCLAMDChat; YouTube)",
-        "durationSeconds": 2104.0,
+        "durationSeconds": 2104,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLw0lBK4PlwF7VnrDr1MQGJoMrOFo1Uv-4",
         "accessVerified": true
       },
@@ -194,7 +194,7 @@
         "title": "Phalloplasty and associated Procedures | Gladys Y. Ng, MD, MPH | J. Brian Boyd, MD | UCLA",
         "url": "https://www.youtube.com/watch?v=xE-Pi-1T0sE",
         "provider": "UCLA Health (UCLAMDChat; YouTube)",
-        "durationSeconds": 2881.0,
+        "durationSeconds": 2881,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLw0lBK4PlwF7VnrDr1MQGJoMrOFo1Uv-4",
         "accessVerified": true
       },
@@ -203,8 +203,26 @@
         "title": "Reproductive and Sexual Health Considerations for Transgender and Nonbinary People",
         "url": "https://www.youtube.com/watch?v=x1PkVGPpctE",
         "provider": "California Prevention Training Center (UCSF Bixby Center / Department of Obstetrics, Gynecology & Reproductive Sciences)",
-        "durationSeconds": 5577.0,
+        "durationSeconds": 5577,
         "sourceUrl": "https://californiaptc.com/training/reproductive-and-sexual-health-considerations-for-transgender-and-nonbinary-people/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X085-ADD-008",
+        "title": "Cancer Prevention and Screening in Gender-Diverse Communities",
+        "url": "https://www.youtube.com/watch?v=GqgN2RPD50o",
+        "provider": "Mayo Clinic (YouTube)",
+        "durationSeconds": 3450,
+        "sourceUrl": "https://www.youtube.com/watch?v=GqgN2RPD50o",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X085-ADD-009",
+        "title": "Introduction to Cardiovascular Health Concerns Among LGBTQ+ Populations",
+        "url": "https://www.youtube.com/watch?v=N5CEldLlGyU",
+        "provider": "Radcliffe Cardiology (YouTube)",
+        "durationSeconds": 1759,
+        "sourceUrl": "https://www.youtube.com/watch?v=N5CEldLlGyU",
         "accessVerified": true
       }
     ],
@@ -308,7 +326,8 @@
           "LEC-002",
           "LEC-003",
           "LEC-005",
-          "LEC-017"
+          "LEC-017",
+          "MED-X085-ADD-009"
         ]
       },
       {
@@ -319,7 +338,8 @@
           "LEC-001",
           "LEC-003",
           "LEC-006",
-          "MED-X085-ADD-007"
+          "MED-X085-ADD-007",
+          "MED-X085-ADD-008"
         ]
       },
       {
@@ -377,11 +397,11 @@
     ],
     "boardStatus": "No separate transgender-medicine board examination or ABMS/ABIM certification pathway was identified as of 2026-10-07. ABIM has an Endocrinology, Diabetes, and Metabolism examination. In its January 2026 blueprint, Female Reproduction and Male Reproduction are each 7% of the exam; “sexual differentiation” including gender dysphoria is listed at <2% within each respective category. These are endocrinology exam domains, not a transgender medicine exam or complete fellowship blueprint.",
     "boardEligibilityNotice": "The BWH page describes applicants as having completed internal medicine residency followed by subspecialty endocrinology training in an ACGME-accredited U.S. programme, subject to case-by-case exceptions, and lists application/visa requirements. This self-study course grants no board eligibility. Only ABIM and relevant authorities determine certification eligibility. No claim of separate accreditation for this specific transgender medicine fellowship is made.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 15.310555555555556,
-    "verifiedSpecialtyHours": 13.023333333333333,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 16.7575,
+    "verifiedSpecialtyHours": 14.470277777777778,
     "verifiedFoundationHours": 2.2872222222222223,
-    "hoursGap": 20.689444444444444,
+    "hoursGap": 19.2425,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -409,7 +429,7 @@
       "basis": "Transparent planning estimate only: 12 units × 6 h (readings, media/case analysis, written assessment) = 72 h; 10-question review and remediation = 8 h; capstone and revision = 40 h. These are study-plan hours, not completed learner time, clinical training hours, or observed video runtime."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X086_83895fa2.pdf",
+    "syllabusUrl": "/manus-storage/MED-X086_529af775.pdf",
     "pdfIds": [
       "med-syllabus-MED-X086",
       "med-reading-f30500fae785",
@@ -424,7 +444,7 @@
         "title": "AHNS Endocrine Section & BAETS Joint webinar on Thyroid/Parathyroid Surgery",
         "url": "https://www.youtube.com/watch?v=tM9LUPoN1oE",
         "provider": "American Head & Neck Society / British Association of Endocrine and Thyroid Surgeons (YouTube video page)",
-        "durationSeconds": 4700.0,
+        "durationSeconds": 4700,
         "sourceUrl": "https://www.youtube.com/watch?v=tM9LUPoN1oE",
         "accessVerified": true
       },
@@ -433,7 +453,7 @@
         "title": "An Introduction to the 2021 ATA Guidelines for Management of Patients with Anaplastic Thyroid Cancer",
         "url": "https://player.vimeo.com/video/546966660",
         "provider": "American Thyroid Association (Vimeo)",
-        "durationSeconds": 1168.0,
+        "durationSeconds": 1168,
         "sourceUrl": "https://player.vimeo.com/video/546966660",
         "accessVerified": true
       },
@@ -442,7 +462,7 @@
         "title": "Targeted Therapies in ATC – Case Based Discussion",
         "url": "https://vimeo.com/566266576",
         "provider": "American Thyroid Association (Vimeo)",
-        "durationSeconds": 1580.0,
+        "durationSeconds": 1580,
         "sourceUrl": "https://vimeo.com/566266576",
         "accessVerified": true
       },
@@ -451,7 +471,7 @@
         "title": "Initial Diagnosis, Evaluation and Goals of Care in ATC – Case Based Discussion",
         "url": "https://vimeo.com/612111110",
         "provider": "American Thyroid Association (Vimeo)",
-        "durationSeconds": 1788.0,
+        "durationSeconds": 1788,
         "sourceUrl": "https://vimeo.com/612111110",
         "accessVerified": true
       },
@@ -460,7 +480,7 @@
         "title": "Surgical management and Radiotherapy for ATC – Case Based Discussion",
         "url": "https://vimeo.com/645237389",
         "provider": "American Thyroid Association (Vimeo)",
-        "durationSeconds": 1776.0,
+        "durationSeconds": 1776,
         "sourceUrl": "https://vimeo.com/645237389",
         "accessVerified": true
       },
@@ -469,7 +489,7 @@
         "title": "Re-operative Endocrine Surgical Cases edited",
         "url": "https://www.youtube.com/watch?v=s89M1K605s8",
         "provider": "American Head and Neck Society (YouTube; AHNS Endocrine Section archive)",
-        "durationSeconds": 3534.0,
+        "durationSeconds": 3534,
         "sourceUrl": "https://www.youtube.com/watch?v=s89M1K605s8",
         "accessVerified": true
       },
@@ -478,7 +498,7 @@
         "title": "Thyroid Cancer for the Internist; Approach and Updates - Grand Rounds SJHH",
         "url": "https://www.youtube.com/watch?v=9zV7PBan2QM",
         "provider": "McMaster University Department of Medicine, Hamilton Health Sciences, and St. Joseph's Healthcare Hamilton",
-        "durationSeconds": 3328.0,
+        "durationSeconds": 3328,
         "sourceUrl": "https://www.youtube.com/watch?v=9zV7PBan2QM",
         "accessVerified": true
       },
@@ -487,7 +507,7 @@
         "title": "9/7/18: Hyperparathyroidism: Beyond Stones and Bones",
         "url": "https://www.youtube.com/watch?v=H_p36nJinOs",
         "provider": "University of Wisconsin Department of Medicine; lecture by Subarna Dhital, MD",
-        "durationSeconds": 3360.0,
+        "durationSeconds": 3360,
         "sourceUrl": "https://www.youtube.com/watch?v=H_p36nJinOs",
         "accessVerified": true
       },
@@ -496,7 +516,7 @@
         "title": "Adrenal Incidentaloma: What Comes Next?: Surgery Grand Rounds",
         "url": "https://www.youtube.com/watch?v=4NR6wSzbCu0",
         "provider": "Northeast Georgia Health System Continuing Medical Education",
-        "durationSeconds": 3360.0,
+        "durationSeconds": 3360,
         "sourceUrl": "https://www.youtube.com/@NGHSCME",
         "accessVerified": true
       },
@@ -505,7 +525,7 @@
         "title": "Medicine Grand Rounds: Adrenal: What the Internist Needs to Know",
         "url": "https://www.youtube.com/watch?v=sDQlE0Z11uc",
         "provider": "Eastern Virginia Medical School Department of Medicine; presenter William Young, MD, Mayo Clinic College of Medicine",
-        "durationSeconds": 3621.0,
+        "durationSeconds": 3621,
         "sourceUrl": "https://www.youtube.com/watch?v=sDQlE0Z11uc",
         "accessVerified": true
       },
@@ -514,7 +534,7 @@
         "title": "Medicine Grand Rounds: Current Approaches to Evaluation and Management of Pheochromocytomas",
         "url": "https://www.youtube.com/watch?v=LLmO6xQns10",
         "provider": "Eastern Virginia Medical School Department of Medicine; presenter Karel Pacak, MD",
-        "durationSeconds": 4243.0,
+        "durationSeconds": 4243,
         "sourceUrl": "https://www.youtube.com/watch?v=LLmO6xQns10",
         "accessVerified": true
       },
@@ -523,7 +543,7 @@
         "title": "Medicine Grand Rounds: Evaluation and Management of Thyroid Cancer",
         "url": "https://www.youtube.com/watch?v=vbX-xPUFvCw",
         "provider": "Eastern Virginia Medical School Department of Medicine",
-        "durationSeconds": 3680.0,
+        "durationSeconds": 3680,
         "sourceUrl": "https://www.youtube.com/watch?v=vbX-xPUFvCw",
         "accessVerified": true
       },
@@ -532,7 +552,7 @@
         "title": "Case-Based Review of the Latest 2025 ATA Thyroid Cancer Guidelines",
         "url": "https://www.youtube.com/watch?v=KlQ9sCW_jDY",
         "provider": "THANC Foundation / TIROxMDS; clinician panel moderated by Michael Tuttle, MD",
-        "durationSeconds": 3527.0,
+        "durationSeconds": 3527,
         "sourceUrl": "https://www.youtube.com/@thancfoundation",
         "accessVerified": true
       },
@@ -541,7 +561,7 @@
         "title": "Updated Thyroid Cancer Guidelines: Personalized Approaches for Optimized Care",
         "url": "https://www.youtube.com/watch?v=fVMBeypS5x4",
         "provider": "UCSF Department of Medicine, Division of Endocrinology and Metabolism; presenter Matthew Ringel, MD",
-        "durationSeconds": 3558.0,
+        "durationSeconds": 3558,
         "sourceUrl": "https://www.youtube.com/@UCSFDepartmentofMedicine",
         "accessVerified": true
       },
@@ -550,7 +570,7 @@
         "title": "Medullary Thyroid Cancer: The Spectrum of Treatment Options (webinar)",
         "url": "https://www.youtube.com/watch?v=7uCZoGmhg44",
         "provider": "THANC Foundation",
-        "durationSeconds": 4089.0,
+        "durationSeconds": 4089,
         "sourceUrl": "https://www.youtube.com/@thancfoundation",
         "accessVerified": true
       },
@@ -559,7 +579,7 @@
         "title": "What's New in the ATA Guidelines for Thyroid Nodules? (Part 1)",
         "url": "https://www.youtube.com/watch?v=6YyELDvRNac",
         "provider": "THANC Foundation; Voices of Wisdom conversation with Susan Mandel, MD",
-        "durationSeconds": 1583.0,
+        "durationSeconds": 1583,
         "sourceUrl": "https://www.youtube.com/@thancfoundation",
         "accessVerified": true
       },
@@ -568,7 +588,7 @@
         "title": "What's New in the ATA Guidelines for Thyroid Nodules? (Part 2)",
         "url": "https://www.youtube.com/watch?v=Ju_Lrq5GjU0",
         "provider": "THANC Foundation; Voices of Wisdom conversation with Susan Mandel, MD",
-        "durationSeconds": 1349.0,
+        "durationSeconds": 1349,
         "sourceUrl": "https://www.youtube.com/@thancfoundation",
         "accessVerified": true
       },
@@ -577,7 +597,7 @@
         "title": "Diagnostic Dilemmas in Primary Hyperparathyroidism",
         "url": "https://www.youtube.com/watch?v=aN4KYzUlGIo",
         "provider": "Medical College of Wisconsin Division of Endocrinology and Molecular Medicine; presenter Joseph Shaker, MD",
-        "durationSeconds": 3806.0,
+        "durationSeconds": 3806,
         "sourceUrl": "https://www.mcw.edu/departments/medicine/divisions/endocrinology-and-molecular-medicine/events/endocrine-grand-rounds",
         "accessVerified": true
       },
@@ -586,7 +606,7 @@
         "title": "Primary Aldosteronism: The Most Common Form of Endocrine Hypertension",
         "url": "https://www.youtube.com/watch?v=UBjyl-xPtSY",
         "provider": "Medical College of Wisconsin Division of Endocrinology and Molecular Medicine; presenter Megan Gill, MD",
-        "durationSeconds": 3769.0,
+        "durationSeconds": 3769,
         "sourceUrl": "https://www.mcw.edu/departments/medicine/divisions/endocrinology-and-molecular-medicine/events/endocrine-grand-rounds",
         "accessVerified": true
       },
@@ -595,7 +615,7 @@
         "title": "Recurrent Papillary Thyroid Cancer & Clinical Management with Dr. Agosto-Salgado",
         "url": "https://www.youtube.com/watch?v=twIkS0HCO0w",
         "provider": "THANC Foundation / TIROxMDS; multidisciplinary clinician panel",
-        "durationSeconds": 3273.0,
+        "durationSeconds": 3273,
         "sourceUrl": "https://www.youtube.com/@thancfoundation",
         "accessVerified": true
       },
@@ -604,8 +624,17 @@
         "title": "Beyond Bethesda: Cytopathologic Diagnosis of Thyroid Tumors with Dr. Baloch",
         "url": "https://www.youtube.com/watch?v=fSUnMzGpA8Q",
         "provider": "THANC Foundation / Voices of Wisdom; presenter Zubair Baloch, MD",
-        "durationSeconds": 1247.0,
+        "durationSeconds": 1247,
         "sourceUrl": "https://www.youtube.com/@thancfoundation",
+        "accessVerified": true
+      },
+      {
+        "id": "MEDX086-HC-V016",
+        "title": "Pancreatic Neuroendocrine Tumors (PNET)",
+        "url": "https://www.youtube.com/watch?v=vejyYOkHnt4",
+        "provider": "Medical College of Wisconsin",
+        "durationSeconds": 1043,
+        "sourceUrl": "https://www.youtube.com/watch?v=vejyYOkHnt4",
         "accessVerified": true
       }
     ],
@@ -719,7 +748,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "MEDX086-HC-V005",
-          "MEDX086-HC-V009"
+          "MEDX086-HC-V009",
+          "MEDX086-HC-V016"
         ]
       },
       {
@@ -740,11 +770,11 @@
     ],
     "boardStatus": "No single US board certifies a broad Endocrine Surgery subspecialty. ABS ACTPS FPD is an exam/Focused Practice Designation limited to adult complex thyroid and parathyroid surgery and is not a new board subspecialty certificate. ABS/ABOHNS co-developed its blueprint. ABS lists existing board certification, case/fellowship, license, participation and practice eligibility conditions. Verify candidate-specific current rules directly with ABS/ABOHNS. The AAES accredits comprehensive clinical fellowship programs; it does not issue an endocrine-surgery board certificate. AHNS program accreditation is training-program status, not a separate board credential. No separate ABS/ABOHNS exam is identified for adrenal, pancreatic/GI NET or whole-field endocrine surgery. Current pages checked 2026-10-07.",
     "boardEligibilityNotice": "This non-credit independent course does not make learners board-eligible, satisfy any prerequisite, or qualify them to sit any examination. General surgery/ENT residency completion, certification, licensure, case logs, fellowship accreditation and examination decisions are governed only by each responsible body.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 17.316388888888888,
-    "verifiedSpecialtyHours": 16.383055555555554,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 17.60611111111111,
+    "verifiedSpecialtyHours": 16.672777777777778,
     "verifiedFoundationHours": 0.9333333333333333,
-    "hoursGap": 18.683611111111112,
+    "hoursGap": 18.39388888888889,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -942,7 +972,7 @@
         "title": "Applying the Science of Toxic Stress to Transform Outcomes in California",
         "url": "https://www.youtube.com/watch?v=azcWz2eMdlA",
         "provider": "Philip R. Lee Institute for Health Policy Studies, UCSF",
-        "durationSeconds": 3449.0,
+        "durationSeconds": 3449,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLPdSQGGMt89f64oie-XFXKwIDMNnA8Jov",
         "accessVerified": true
       },
@@ -951,7 +981,7 @@
         "title": "Guns, Obesity and Opioids: A Population Health Science Approach to Contemporary Concerns",
         "url": "https://www.youtube.com/watch?v=UKBZE-liphw",
         "provider": "Philip R. Lee Institute for Health Policy Studies, UCSF",
-        "durationSeconds": 4703.0,
+        "durationSeconds": 4703,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLPdSQGGMt89f64oie-XFXKwIDMNnA8Jov",
         "accessVerified": true
       },
@@ -960,7 +990,7 @@
         "title": "Innovation In Science and Medicine: Potential Implications for Health Policy?",
         "url": "https://www.youtube.com/watch?v=nbkV9U6t4iM",
         "provider": "Philip R. Lee Institute for Health Policy Studies, UCSF",
-        "durationSeconds": 3256.0,
+        "durationSeconds": 3256,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLPdSQGGMt89f64oie-XFXKwIDMNnA8Jov",
         "accessVerified": true
       },
@@ -969,7 +999,7 @@
         "title": "Improving Health in the Era of Ubiquitous Information: The Role of Health Policy",
         "url": "https://www.youtube.com/watch?v=W3Ja8FD4nEw",
         "provider": "Philip R. Lee Institute for Health Policy Studies, UCSF",
-        "durationSeconds": 3537.0,
+        "durationSeconds": 3537,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLPdSQGGMt89f64oie-XFXKwIDMNnA8Jov",
         "accessVerified": true
       },
@@ -978,7 +1008,7 @@
         "title": "The Changing Behavioral Health Care Landscape: The Need for Evidence-Based Practice",
         "url": "https://www.youtube.com/watch?v=buG6Qv_EiaQ",
         "provider": "Philip R. Lee Institute for Health Policy Studies, UCSF",
-        "durationSeconds": 3583.0,
+        "durationSeconds": 3583,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLPdSQGGMt89f64oie-XFXKwIDMNnA8Jov",
         "accessVerified": true
       },
@@ -987,7 +1017,7 @@
         "title": "Building the Culture of an Organization in Ten Basic Steps",
         "url": "https://www.youtube.com/watch?v=DM4RpNBVOYI",
         "provider": "Philip R. Lee Institute for Health Policy Studies, UCSF",
-        "durationSeconds": 3545.0,
+        "durationSeconds": 3545,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLPdSQGGMt89f64oie-XFXKwIDMNnA8Jov",
         "accessVerified": true
       },
@@ -996,7 +1026,7 @@
         "title": "2018 UCSF Population Health Colloquium, Part 1 - Intro & Dr. Sandro Galea’s Keynote Address",
         "url": "https://www.youtube.com/watch?v=BIiEpN-pLxA",
         "provider": "Philip R. Lee Institute for Health Policy Studies, UCSF",
-        "durationSeconds": 4705.0,
+        "durationSeconds": 4705,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLPdSQGGMt89f64oie-XFXKwIDMNnA8Jov",
         "accessVerified": true
       },
@@ -1005,7 +1035,7 @@
         "title": "2018 UCSF Population Health Colloquium, Part 2 - Expanding UCSF's Impact on Population Health",
         "url": "https://www.youtube.com/watch?v=UAjpnWz8gRs",
         "provider": "Philip R. Lee Institute for Health Policy Studies, UCSF",
-        "durationSeconds": 2026.0,
+        "durationSeconds": 2026,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLPdSQGGMt89f64oie-XFXKwIDMNnA8Jov",
         "accessVerified": true
       },
@@ -1014,7 +1044,7 @@
         "title": "Early life drivers of cardiometabolic disease  Integrating biological, behavioral, and social...",
         "url": "https://www.youtube.com/watch?v=0KuS1SE2Bng",
         "provider": "Philip R. Lee Institute for Health Policy Studies, UCSF",
-        "durationSeconds": 3334.0,
+        "durationSeconds": 3334,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLPdSQGGMt89f64oie-XFXKwIDMNnA8Jov",
         "accessVerified": true
       },
@@ -1023,7 +1053,7 @@
         "title": "Adolescent Sexual Health Programs, Policies, and Politics",
         "url": "https://www.youtube.com/watch?v=GQD8kEM5N38",
         "provider": "Philip R. Lee Institute for Health Policy Studies, UCSF",
-        "durationSeconds": 2963.0,
+        "durationSeconds": 2963,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLPdSQGGMt89f64oie-XFXKwIDMNnA8Jov",
         "accessVerified": true
       },
@@ -1032,7 +1062,7 @@
         "title": "Disparities in Access to Telemedicine for Contraception Among Young Adults",
         "url": "https://www.youtube.com/watch?v=H_iCByK9NG4",
         "provider": "Philip R. Lee Institute for Health Policy Studies, UCSF",
-        "durationSeconds": 3327.0,
+        "durationSeconds": 3327,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLPdSQGGMt89f64oie-XFXKwIDMNnA8Jov",
         "accessVerified": true
       },
@@ -1041,7 +1071,7 @@
         "title": "Evaluation of a Government sanctioned Overdose Prevention Site in San Francisco  Preliminary Finding",
         "url": "https://www.youtube.com/watch?v=ksxMhlQnEFs",
         "provider": "Philip R. Lee Institute for Health Policy Studies, UCSF",
-        "durationSeconds": 3643.0,
+        "durationSeconds": 3643,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLPdSQGGMt89f64oie-XFXKwIDMNnA8Jov",
         "accessVerified": true
       },
@@ -1050,7 +1080,7 @@
         "title": "Advancing Equity across the Cancer Care Continuum  From Evidence to Implementation and Back again",
         "url": "https://www.youtube.com/watch?v=S5kEytwwIok",
         "provider": "Philip R. Lee Institute for Health Policy Studies, UCSF",
-        "durationSeconds": 3198.0,
+        "durationSeconds": 3198,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLPdSQGGMt89f64oie-XFXKwIDMNnA8Jov",
         "accessVerified": true
       },
@@ -1059,7 +1089,7 @@
         "title": "Development of the SPANYA Trial",
         "url": "https://www.youtube.com/watch?v=FvBm4qr5i_0",
         "provider": "Philip R. Lee Institute for Health Policy Studies, UCSF",
-        "durationSeconds": 3529.0,
+        "durationSeconds": 3529,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLPdSQGGMt89f64oie-XFXKwIDMNnA8Jov",
         "accessVerified": true
       },
@@ -1068,7 +1098,7 @@
         "title": "Course Overview - A Framework to Understand the Health Impacts of Climate Change | Ash Sehgal, MD",
         "url": "https://www.youtube.com/watch?v=txTp30S4pDI",
         "provider": "Case Western Reserve University / CHEEER Climate Change and Health graduate course",
-        "durationSeconds": 1581.0,
+        "durationSeconds": 1581,
         "sourceUrl": "https://cheeer.org/education/health-disparities-course/mphp-441-climate-change-and-health-course-archive/",
         "accessVerified": true
       },
@@ -1077,7 +1107,7 @@
         "title": "Climate Change: Mechanisms, Evidence and Their Impact on Health |  Mark Stewart, PhD",
         "url": "https://www.youtube.com/watch?v=jU_iSkoPdRw",
         "provider": "Case Western Reserve University / CHEEER Climate Change and Health graduate course",
-        "durationSeconds": 2924.0,
+        "durationSeconds": 2924,
         "sourceUrl": "https://cheeer.org/education/health-disparities-course/mphp-441-climate-change-and-health-course-archive/",
         "accessVerified": true
       },
@@ -1086,7 +1116,7 @@
         "title": "Climate Change and Food Systems | Rosa Hand, RD, PhD, Department of Nutrition, Case Western",
         "url": "https://www.youtube.com/watch?v=FlkFzK0JI4k",
         "provider": "Case Western Reserve University / CHEEER Climate Change and Health graduate course",
-        "durationSeconds": 2696.0,
+        "durationSeconds": 2696,
         "sourceUrl": "https://cheeer.org/education/health-disparities-course/mphp-441-climate-change-and-health-course-archive/",
         "accessVerified": true
       },
@@ -1095,7 +1125,7 @@
         "title": "\"Communicating with the Public About Climate Change\" & \"Climate Change and Disability\"",
         "url": "https://www.youtube.com/watch?v=Wbgyxgpmbn0",
         "provider": "Case Western Reserve University / CHEEER Climate Change and Health graduate course",
-        "durationSeconds": 5680.0,
+        "durationSeconds": 5680,
         "sourceUrl": "https://cheeer.org/education/health-disparities-course/mphp-441-climate-change-and-health-course-archive/",
         "accessVerified": true
       },
@@ -1104,7 +1134,7 @@
         "title": "\"Measuring Vulnerability and Resilience to Climate Change\" & \"Heat Stress and Kidney Disease\"",
         "url": "https://www.youtube.com/watch?v=bI6Kfq7rTwg",
         "provider": "Case Western Reserve University / CHEEER Climate Change and Health graduate course",
-        "durationSeconds": 5801.0,
+        "durationSeconds": 5801,
         "sourceUrl": "https://cheeer.org/education/health-disparities-course/mphp-441-climate-change-and-health-course-archive/",
         "accessVerified": true
       },
@@ -1113,7 +1143,7 @@
         "title": "\"Infectious Diseases and Climate Change\" & \"Air Degradation, Allergies, and Pulmonary Diseases\"",
         "url": "https://www.youtube.com/watch?v=GVjuGwezT8Y",
         "provider": "Case Western Reserve University / CHEEER Climate Change and Health graduate course",
-        "durationSeconds": 7705.0,
+        "durationSeconds": 7705,
         "sourceUrl": "https://cheeer.org/education/health-disparities-course/mphp-441-climate-change-and-health-course-archive/",
         "accessVerified": true
       },
@@ -1122,7 +1152,7 @@
         "title": "\"Climate Change and Zoonotic Diseases...\" &  \"Other Impacts of Fossil Fuels Besides Climate Change\"",
         "url": "https://www.youtube.com/watch?v=O1A0SlEcT5k",
         "provider": "Case Western Reserve University / CHEEER Climate Change and Health graduate course",
-        "durationSeconds": 7771.0,
+        "durationSeconds": 7771,
         "sourceUrl": "https://cheeer.org/education/health-disparities-course/mphp-441-climate-change-and-health-course-archive/",
         "accessVerified": true
       },
@@ -1131,7 +1161,7 @@
         "title": "\"Cardiovascular Effects of Climate Change\" & \"Ethical and Social Justice Aspects\"",
         "url": "https://www.youtube.com/watch?v=ug1aozpvIoU",
         "provider": "Case Western Reserve University / CHEEER Climate Change and Health graduate course",
-        "durationSeconds": 8464.0,
+        "durationSeconds": 8464,
         "sourceUrl": "https://cheeer.org/education/health-disparities-course/mphp-441-climate-change-and-health-course-archive/",
         "accessVerified": true
       },
@@ -1140,7 +1170,7 @@
         "title": "\"MetroHealth Sustainability and Climate Change Initiatives\" & \"Worker Safety and Health\"",
         "url": "https://www.youtube.com/watch?v=hlQb0tL8hmc",
         "provider": "Case Western Reserve University / CHEEER Climate Change and Health graduate course",
-        "durationSeconds": 6035.0,
+        "durationSeconds": 6035,
         "sourceUrl": "https://cheeer.org/education/health-disparities-course/mphp-441-climate-change-and-health-course-archive/",
         "accessVerified": true
       },
@@ -1149,7 +1179,7 @@
         "title": "\"Health Effects of Wildfires\" & \" Indigenous Communities\"",
         "url": "https://www.youtube.com/watch?v=mi2BYvniG28",
         "provider": "Case Western Reserve University / CHEEER Climate Change and Health graduate course",
-        "durationSeconds": 4742.0,
+        "durationSeconds": 4742,
         "sourceUrl": "https://cheeer.org/education/health-disparities-course/mphp-441-climate-change-and-health-course-archive/",
         "accessVerified": true
       },
@@ -1158,7 +1188,7 @@
         "title": "\"Shared Drivers of COVID 19 and Climate Change\" & \"Legal and Policy Perspectives\"",
         "url": "https://www.youtube.com/watch?v=vibeC-onXvE",
         "provider": "Case Western Reserve University / CHEEER Climate Change and Health graduate course",
-        "durationSeconds": 3347.0,
+        "durationSeconds": 3347,
         "sourceUrl": "https://cheeer.org/education/health-disparities-course/mphp-441-climate-change-and-health-course-archive/",
         "accessVerified": true
       },
@@ -1167,7 +1197,7 @@
         "title": "\"Health Sector Sustainability\" & \"Climate Change, Plastic Pollution, and Effects on Human Health\"",
         "url": "https://www.youtube.com/watch?v=RDrulMMIK5Y",
         "provider": "Case Western Reserve University / CHEEER Climate Change and Health graduate course",
-        "durationSeconds": 6540.0,
+        "durationSeconds": 6540,
         "sourceUrl": "https://cheeer.org/education/health-disparities-course/mphp-441-climate-change-and-health-course-archive/",
         "accessVerified": true
       },
@@ -1176,7 +1206,7 @@
         "title": "\"Vulnerable Populations and Climate Change\" & \"Green New Deal and Climate Change\"",
         "url": "https://www.youtube.com/watch?v=cgLFSg-WM1Y",
         "provider": "Case Western Reserve University / CHEEER Climate Change and Health graduate course",
-        "durationSeconds": 6893.0,
+        "durationSeconds": 6893,
         "sourceUrl": "https://cheeer.org/education/health-disparities-course/mphp-441-climate-change-and-health-course-archive/",
         "accessVerified": true
       }
@@ -1376,11 +1406,11 @@
     ],
     "boardStatus": "Population health management is a practice focus, not a separate ABMS/ACGME primary specialty or certification exam. The official MGB page describes a physician Population Health Management Fellowship and a distinct short resident elective. The MGB page does not state that this fellowship is an ACGME-accredited residency, an ABPM-accredited Preventive Medicine residency, or a programme with a fellowship-specific board exam. ABPM separately certifies Public Health and General Preventive Medicine; ACGME lists it as a Preventive Medicine specialty. An ABPM examination exists for eligible candidates, separate from this MGB fellowship.",
     "boardEligibilityNotice": "ABPM eligibility is governed by current pathway-specific requirements, including applicable medical license/degree, clinical and specialty training, and graduate coursework. Do not infer eligibility or certification from this fellowship or this course. The MGB public page describes its audience as board-eligible graduating residents, fellows or physicians.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 36.471927395277774,
     "verifiedSpecialtyHours": 31.797777777777778,
     "verifiedFoundationHours": 4.6741496174999995,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1456,7 +1486,7 @@
         "title": "NIH Obesity Research Task Force Symposium: Clinical Research Strategies for Sustainable Obesity Care",
         "url": "https://videocast.nih.gov/watch=57065",
         "provider": "NIH VideoCast / NIDDK and NHLBI",
-        "durationSeconds": 20423.0,
+        "durationSeconds": 20423,
         "sourceUrl": "https://www.niddk.nih.gov/news/meetings-workshops/2025/clinical-research-strategies-sustainable-obesity-care",
         "accessVerified": true
       },
@@ -1465,7 +1495,7 @@
         "title": "NHLBI ONPA Seminar: Beyond Willpower: A Family-Based and Socio-Environmental Approach to Childhood Obesity",
         "url": "https://videocast.nih.gov/watch=54107",
         "provider": "NIH VideoCast / NHLBI",
-        "durationSeconds": 3648.0,
+        "durationSeconds": 3648,
         "sourceUrl": "https://videocast.nih.gov/watch=54107",
         "accessVerified": true
       },
@@ -1474,7 +1504,7 @@
         "title": "Demystifying Medicine — Appetite, Obesity and Beyond: The Role of the CNS and New Drugs",
         "url": "https://videocast.nih.gov/watch=54039",
         "provider": "NIH VideoCast / NIH Demystifying Medicine",
-        "durationSeconds": 7244.0,
+        "durationSeconds": 7244,
         "sourceUrl": "https://videocast.nih.gov/watch=54039",
         "accessVerified": true
       },
@@ -1483,7 +1513,7 @@
         "title": "NHLBI ONPA Seminar: Lancet Commission—Definition & Diagnostic Criteria of Clinical Obesity",
         "url": "https://videocast.nih.gov/watch=56927",
         "provider": "NIH VideoCast / NHLBI",
-        "durationSeconds": 3642.0,
+        "durationSeconds": 3642,
         "sourceUrl": "https://www.nhlbi.nih.gov/events/2025/nhlbi-obesity-nutrition-and-physical-activity-onpa-seminar-series-lancet-commission",
         "accessVerified": true
       },
@@ -1492,7 +1522,7 @@
         "title": "Public Meeting on Obesity (FDA Obesity Working Group)",
         "url": "https://videocast.nih.gov/watch=2876",
         "provider": "NIH VideoCast",
-        "durationSeconds": 20376.0,
+        "durationSeconds": 20376,
         "sourceUrl": "https://videocast.nih.gov/watch=2876",
         "accessVerified": true
       },
@@ -1501,7 +1531,7 @@
         "title": "Toward a National Action Plan on Overweight and Obesity: The Surgeon General's Initiative (Day 2)",
         "url": "https://videocast.nih.gov/watch=8855",
         "provider": "NIH VideoCast",
-        "durationSeconds": 20677.0,
+        "durationSeconds": 20677,
         "sourceUrl": "https://videocast.nih.gov/watch=8855",
         "accessVerified": true
       },
@@ -1510,7 +1540,7 @@
         "title": "Perspectives on Marketing, Self-Regulation and Childhood Obesity (Day 2)",
         "url": "https://videocast.nih.gov/watch=8716",
         "provider": "NIH VideoCast",
-        "durationSeconds": 14276.0,
+        "durationSeconds": 14276,
         "sourceUrl": "https://videocast.nih.gov/watch=8716",
         "accessVerified": true
       },
@@ -1519,7 +1549,7 @@
         "title": "Clinical Insights for Obesity Management: Past, Present, and Future",
         "url": "https://www.youtube.com/watch?v=M62WFrI-LgI",
         "provider": "YouTube",
-        "durationSeconds": 6202.0,
+        "durationSeconds": 6202,
         "sourceUrl": "https://www.obesity.org/od-webinar/",
         "accessVerified": true
       },
@@ -1528,7 +1558,7 @@
         "title": "Multimodal Treatment of Obesity: Lifestyle Interventions, Medications, & Bariatric Surgery",
         "url": "https://www.youtube.com/watch?v=BjM9HAQY134",
         "provider": "YouTube",
-        "durationSeconds": 3629.0,
+        "durationSeconds": 3629,
         "sourceUrl": "https://www.youtube.com/watch?v=BjM9HAQY134",
         "accessVerified": true
       },
@@ -1537,7 +1567,7 @@
         "title": "DOM Grand Rounds: Weight Loss & Obesity—Intermittent Energy Restriction and Endoscopy Therapies",
         "url": "https://www.youtube.com/watch?v=5PPV44KaSEc",
         "provider": "YouTube",
-        "durationSeconds": 3511.0,
+        "durationSeconds": 3511,
         "sourceUrl": "https://www.youtube.com/watch?v=5PPV44KaSEc",
         "accessVerified": true
       },
@@ -1546,7 +1576,7 @@
         "title": "Pediatric Obesity: An Expert Review of the New AAP Guidelines",
         "url": "https://www.youtube.com/watch?v=BH4tyR9eWHI",
         "provider": "YouTube",
-        "durationSeconds": 3550.0,
+        "durationSeconds": 3550,
         "sourceUrl": "https://www.youtube.com/watch?v=BH4tyR9eWHI",
         "accessVerified": true
       },
@@ -1555,7 +1585,7 @@
         "title": "Introduction to Pediatric Obesity Medicine",
         "url": "https://www.youtube.com/watch?v=1UKq1c_d_ds",
         "provider": "YouTube",
-        "durationSeconds": 3657.0,
+        "durationSeconds": 3657,
         "sourceUrl": "https://www.youtube.com/watch?v=1UKq1c_d_ds",
         "accessVerified": true
       },
@@ -1564,7 +1594,7 @@
         "title": "The New Science of Weight Loss: From Brain Biology to GLP-1s",
         "url": "https://www.youtube.com/watch?v=4TGwyxu7fg0",
         "provider": "YouTube",
-        "durationSeconds": 6104.0,
+        "durationSeconds": 6104,
         "sourceUrl": "https://www.youtube.com/watch?v=4TGwyxu7fg0",
         "accessVerified": true
       },
@@ -1573,7 +1603,7 @@
         "title": "Navigating GLP-1 Agonists: A Comprehensive Journey Through Past, Present and Future Perspectives",
         "url": "https://www.youtube.com/watch?v=yXhG_HpP-co",
         "provider": "YouTube",
-        "durationSeconds": 4044.0,
+        "durationSeconds": 4044,
         "sourceUrl": "https://www.youtube.com/watch?v=yXhG_HpP-co",
         "accessVerified": true
       },
@@ -1582,7 +1612,7 @@
         "title": "Medicine Grand Rounds: Why Do We Need Pharmacological Treatment for Obesity",
         "url": "https://www.youtube.com/watch?v=z-jFCMh06Fc",
         "provider": "YouTube",
-        "durationSeconds": 3661.0,
+        "durationSeconds": 3661,
         "sourceUrl": "https://www.youtube.com/watch?v=z-jFCMh06Fc",
         "accessVerified": true
       },
@@ -1591,7 +1621,7 @@
         "title": "Updates in the Medical Management of Obesity",
         "url": "https://www.youtube.com/watch?v=5eRdloqao04",
         "provider": "YouTube",
-        "durationSeconds": 3205.0,
+        "durationSeconds": 3205,
         "sourceUrl": "https://www.youtube.com/watch?v=5eRdloqao04",
         "accessVerified": true
       },
@@ -1600,7 +1630,7 @@
         "title": "Grand Rounds: Obesity Stigma—How to Dismantle It in the Room",
         "url": "https://www.youtube.com/watch?v=s12PU7vMkCo",
         "provider": "YouTube",
-        "durationSeconds": 2544.0,
+        "durationSeconds": 2544,
         "sourceUrl": "https://www.youtube.com/watch?v=s12PU7vMkCo",
         "accessVerified": true
       },
@@ -1609,7 +1639,7 @@
         "title": "Grand Rounds: The Management of Obesity",
         "url": "https://www.youtube.com/watch?v=PAT1GtY24_4",
         "provider": "YouTube",
-        "durationSeconds": 3443.0,
+        "durationSeconds": 3443,
         "sourceUrl": "https://www.youtube.com/watch?v=PAT1GtY24_4",
         "accessVerified": true
       },
@@ -1618,7 +1648,7 @@
         "title": "Comprehensive Obesity Management",
         "url": "https://sh-virtualgrandrounds.brightcovegallery.com/detail/videos/video-library/video/6352549915112/comprehensive-obesity-management?autoStart=true",
         "provider": "Sutter Health Virtual Grand Rounds",
-        "durationSeconds": 2330.0,
+        "durationSeconds": 2330,
         "sourceUrl": "https://sh-virtualgrandrounds.brightcovegallery.com/detail/videos/video-library/video/6352549915112/comprehensive-obesity-management?autoStart=true",
         "accessVerified": true
       },
@@ -1627,7 +1657,7 @@
         "title": "Metabolic Syndrome and Severe Obesity Conference—Session One",
         "url": "https://www.youtube.com/watch?v=LCPlupBXdS0",
         "provider": "YouTube",
-        "durationSeconds": 3487.0,
+        "durationSeconds": 3487,
         "sourceUrl": "https://www.bcm.edu/departments/surgery/events/metabolic-syndrome-symposium",
         "accessVerified": true
       },
@@ -1636,7 +1666,7 @@
         "title": "Metabolic Syndrome and Severe Obesity Conference—Session Two",
         "url": "https://www.youtube.com/watch?v=UgrkBRJmkhU",
         "provider": "YouTube",
-        "durationSeconds": 3771.0,
+        "durationSeconds": 3771,
         "sourceUrl": "https://www.bcm.edu/departments/surgery/events/metabolic-syndrome-symposium",
         "accessVerified": true
       },
@@ -1645,7 +1675,7 @@
         "title": "Metabolic Syndrome and Severe Obesity Conference—Session Three",
         "url": "https://www.youtube.com/watch?v=Si_cJUNfRek",
         "provider": "YouTube",
-        "durationSeconds": 4091.0,
+        "durationSeconds": 4091,
         "sourceUrl": "https://www.bcm.edu/departments/surgery/events/metabolic-syndrome-symposium",
         "accessVerified": true
       },
@@ -1654,7 +1684,7 @@
         "title": "Metabolic Syndrome and Severe Obesity Conference—Session Five",
         "url": "https://www.youtube.com/watch?v=yUaOqwrLzAI",
         "provider": "YouTube",
-        "durationSeconds": 2469.0,
+        "durationSeconds": 2469,
         "sourceUrl": "https://www.bcm.edu/departments/surgery/events/metabolic-syndrome-symposium",
         "accessVerified": true
       }
@@ -1888,11 +1918,11 @@
     ],
     "boardStatus": "ABOM offers a physician certification examination. ABOM states it continues to position for possible ABMS subspecialty recognition in future; this is not currently an ABMS-recognized subspecialty board certification based on ABOM public status statement. There is no separate ABMS obesity subspecialty examination. The named fellowships do not themselves award ABOM certification. Verify current ABOM eligibility directly.",
     "boardEligibilityNotice": "This course grants no exam eligibility. ABOM fellowship pathway requires active unrestricted US/Canada license, completed US/Canada residency, active ABMS-member-board or osteopathic-equivalent certification, completion of an Obesity Medicine Fellowship Council-recognized obesity fellowship within 36 months of application deadline, director attestation and passing ABOM exam. MGH page states ACGME residency prerequisite; BWH page states accredited IM or FM residency. Neither page alone establishes that its programme is currently recognized by OMFC; candidates must verify directly.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 41.66222222222222,
     "verifiedSpecialtyHours": 26.293055555555554,
     "verifiedFoundationHours": 15.369166666666667,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1931,7 +1961,7 @@
       "note": "Study plan, not institutional contact time. Planned video hours are not delivered hours and are not counted."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X089_7b6d05ac.pdf",
+    "syllabusUrl": "/manus-storage/MED-X089_247fc112.pdf",
     "pdfIds": [
       "med-syllabus-MED-X089",
       "med-reading-19dcf3e4654a",
@@ -1968,6 +1998,24 @@
         "durationSeconds": null,
         "sourceUrl": "https://www.youtube.com/watch?v=pPdRwMJVYng",
         "accessVerified": false
+      },
+      {
+        "id": "MED-X089-EXT-VCU-CTEPH-20261009",
+        "title": "Advancements in Chronic Thromboembolic Pulmonary Hypertension (CTEPH) - Anjali Vaidya, MD",
+        "url": "https://www.youtube.com/watch?v=f3FkIGojhIY",
+        "provider": "VCU Health Pauley Heart Center",
+        "durationSeconds": 3514,
+        "sourceUrl": "https://www.youtube.com/watch?v=f3FkIGojhIY",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X089-EXT-USASK-RVPH-20261009",
+        "title": "Pulmonary Hypertension & Right Heart Failure for the Non-Cardiac Anesthesiologist | Ep 42 | ABC",
+        "url": "https://www.youtube.com/watch?v=Ct2vipmsli0",
+        "provider": "USask Anesthesia / University of Saskatchewan Department of Anesthesiology, Perioperative Medicine & Pain Management",
+        "durationSeconds": 2350,
+        "sourceUrl": "https://www.youtube.com/watch?v=Ct2vipmsli0",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -2030,7 +2078,8 @@
         "text": "Group 4 CTEPD/CTEPH",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "YT-HMS-PH-TREAT"
+          "YT-HMS-PH-TREAT",
+          "MED-X089-EXT-VCU-CTEPH-20261009"
         ]
       },
       {
@@ -2046,7 +2095,8 @@
         "text": "RV failure, ICU, transplant and support",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "YT-WSPH-2024-REVIEW"
+          "YT-WSPH-2024-REVIEW",
+          "MED-X089-EXT-USASK-RVPH-20261009"
         ]
       },
       {
@@ -2066,11 +2116,11 @@
     ],
     "boardStatus": "No separate Pulmonary Hypertension/Pulmonary Heart Disease board examination identified in reviewed ABIM options as of 2026-10-07. ABIM lists Pulmonary Disease as a subspecialty exam. BWH accepts completed accredited Pulmonary/Critical Care or Cardiovascular Medicine fellowship as prerequisite; this is not a combined dual-board programme. Verify directly with certifying boards.",
     "boardEligibilityNotice": "BWH states applicants must have completed ACGME-accredited Pulmonary and Critical Care Medicine or Cardiovascular Medicine fellowship. This is an institutional admission prerequisite, not a claim that this course confers board eligibility, or that the advanced PH fellowship itself is ACGME-accredited.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 0.0,
-    "verifiedSpecialtyHours": 0.0,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 36.0,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 1.6288888888888888,
+    "verifiedSpecialtyHours": 1.6288888888888888,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 34.37111111111111,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2235,11 +2285,11 @@
       "notBoardEligible": "No course completion, video hour, assessment score or case simulation supplies ABVLM pathway eligibility, supervised case counts, venous ultrasound logs, medical licensure, or credentialing."
     },
     "boardEligibilityNotice": "ABVLM’s February 2026 candidate handbook lists pathway-specific prerequisites, which include specified ACGME/RCPSC/AOA/other training, medical licensure, board status, CME, ultrasound logs and/or VLM case logs depending on pathway, plus its cognitive exam. Verify the current rules directly with ABVLM. This independent course cannot confer ACGME credit, licensure, eligibility, case-volume credit, procedural competence or certification; it cannot guarantee passing.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 0.0,
-    "verifiedSpecialtyHours": 0.0,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 36.0,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 0,
+    "verifiedSpecialtyHours": 0,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 36,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2267,7 +2317,7 @@
       "totalPlannedHours": 180
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X091_591a5b66.pdf",
+    "syllabusUrl": "/manus-storage/MED-X091_d0e3b78e.pdf",
     "pdfIds": [
       "med-syllabus-MED-X091"
     ],
@@ -2277,7 +2327,7 @@
         "title": "Menorrhagia Management in Women with Cardiovascular Disease",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=638",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 1081.0,
+        "durationSeconds": 1081,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=638",
         "accessVerified": true
       },
@@ -2286,7 +2336,7 @@
         "title": "Pregnancy, Labor and Delivery, and Postpartum Care in Women with Cardiovascular Disease",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=653",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 1677.0,
+        "durationSeconds": 1677,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=653",
         "accessVerified": true
       },
@@ -2295,7 +2345,7 @@
         "title": "Menopause Management In Women with Cardiovascular Disease",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=674",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 1697.0,
+        "durationSeconds": 1697,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=674",
         "accessVerified": true
       },
@@ -2304,7 +2354,7 @@
         "title": "Contraception Decision-making for Pre-menopausal Women with Cardiovascular Disease",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=683",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 893.0,
+        "durationSeconds": 893,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=683",
         "accessVerified": true
       },
@@ -2313,7 +2363,7 @@
         "title": "Thoracic Aortic Aneurysm in Women",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=696",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 1037.0,
+        "durationSeconds": 1037,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=696",
         "accessVerified": true
       },
@@ -2322,7 +2372,7 @@
         "title": "Ischemia with No Obstructive Arteries (INOCA) in 2024",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=616",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 858.0,
+        "durationSeconds": 858,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=616",
         "accessVerified": true
       },
@@ -2331,7 +2381,7 @@
         "title": "MINOCA: Myocardial Infarction with Non-Obstructive Coronary Arteries",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=537",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 1181.0,
+        "durationSeconds": 1181,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=537",
         "accessVerified": true
       },
@@ -2340,7 +2390,7 @@
         "title": "Arrhythmias in Pregnancy",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=540",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 1163.0,
+        "durationSeconds": 1163,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=540",
         "accessVerified": true
       },
@@ -2349,7 +2399,7 @@
         "title": "CVD and Pregnancy: Peripartum Cardiomyopathy",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=502",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 1216.0,
+        "durationSeconds": 1216,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=502",
         "accessVerified": true
       },
@@ -2358,7 +2408,7 @@
         "title": "Simple Congenital Heart Disease and Pregnancy",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=458",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 998.0,
+        "durationSeconds": 998,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=458",
         "accessVerified": true
       },
@@ -2367,7 +2417,7 @@
         "title": "Physiological Underpinnings of Myocardial Ischemia",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=445",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 1461.0,
+        "durationSeconds": 1461,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=445",
         "accessVerified": true
       },
@@ -2376,7 +2426,7 @@
         "title": "Clinical Utility of Coronary Calcium Score",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=504",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 1174.0,
+        "durationSeconds": 1174,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=504",
         "accessVerified": true
       },
@@ -2385,7 +2435,7 @@
         "title": "Lipoprotein(a) Elevation: CV Risk and Treatment",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=595",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 948.0,
+        "durationSeconds": 948,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=595",
         "accessVerified": true
       },
@@ -2394,7 +2444,7 @@
         "title": "Cardiovascular Recovery in Anthracycline Cardiotoxicity",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=453",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 1255.0,
+        "durationSeconds": 1255,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=453",
         "accessVerified": true
       },
@@ -2403,7 +2453,7 @@
         "title": "Radiation Heart Disease",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=454",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 1235.0,
+        "durationSeconds": 1235,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=454",
         "accessVerified": true
       },
@@ -2412,7 +2462,7 @@
         "title": "Interventional Management of Acute Pulmonary Embolism",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=523",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 771.0,
+        "durationSeconds": 771,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=523",
         "accessVerified": true
       },
@@ -2421,7 +2471,7 @@
         "title": "Lipid Drugs Part I",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=561",
         "provider": "Mayo Clinic Cardiovascular CME Video Center",
-        "durationSeconds": 676.0,
+        "durationSeconds": 676,
         "sourceUrl": "https://cveducation.mayo.edu/lp/videos?vid=561",
         "accessVerified": true
       },
@@ -2430,7 +2480,7 @@
         "title": "Development of A Cardio-Obstetrics Team with Longitudinal Case Review",
         "url": "https://medicine.utah.edu/internal-medicine/cardiovascular-medicine/grand-rounds/video?video=1_6t9jsga6",
         "provider": "University of Utah Health, Division of Cardiovascular Medicine Grand Rounds",
-        "durationSeconds": 4114.0,
+        "durationSeconds": 4114,
         "sourceUrl": "https://medicine.utah.edu/internal-medicine/cardiovascular-medicine/grand-rounds/video?video=1_6t9jsga6",
         "accessVerified": true
       },
@@ -2439,7 +2489,7 @@
         "title": "Are Women's Hearts Different Than Men's? | DoM Grand Rounds",
         "url": "https://www.youtube.com/watch?v=sUfYBsqPyJI",
         "provider": "Stanford Department of Medicine Grand Rounds",
-        "durationSeconds": 3880.0,
+        "durationSeconds": 3880,
         "sourceUrl": "https://www.youtube.com/watch?v=sUfYBsqPyJI",
         "accessVerified": true
       },
@@ -2448,7 +2498,7 @@
         "title": "Beyond Hot Flashes: Menopause and Cardiovascular Disease",
         "url": "https://www.youtube.com/watch?v=lIrcxTQFk-Q",
         "provider": "Emory Cardiology Grand Rounds",
-        "durationSeconds": 3039.0,
+        "durationSeconds": 3039,
         "sourceUrl": "https://www.youtube.com/watch?v=lIrcxTQFk-Q",
         "accessVerified": true
       },
@@ -2457,7 +2507,7 @@
         "title": "Grand Rounds Leslee Shaw, PhD - Ischemic Heart Disease in Women - New Updates",
         "url": "https://www.youtube.com/watch?v=b5n28hy57v4",
         "provider": "Houston Methodist DeBakey Heart & Vascular Center Grand Rounds",
-        "durationSeconds": 3664.0,
+        "durationSeconds": 3664,
         "sourceUrl": "https://www.youtube.com/watch?v=b5n28hy57v4",
         "accessVerified": true
       },
@@ -2466,7 +2516,7 @@
         "title": "Pregnancy and Heart Disease: What Practitioner Needs to Know",
         "url": "https://www.youtube.com/watch?v=WKfV4HI1Oi4",
         "provider": "Houston Methodist DeBakey Heart & Vascular Center Grand Rounds",
-        "durationSeconds": 3600.0,
+        "durationSeconds": 3600,
         "sourceUrl": "https://www.youtube.com/watch?v=WKfV4HI1Oi4",
         "accessVerified": true
       },
@@ -2475,7 +2525,7 @@
         "title": "20230427 Peripartum Cardiomyopathy: An Update",
         "url": "https://www.youtube.com/watch?v=c3ROTzyLblA",
         "provider": "WMCHealth educational Grand Rounds",
-        "durationSeconds": 3796.0,
+        "durationSeconds": 3796,
         "sourceUrl": "https://www.youtube.com/watch?v=c3ROTzyLblA",
         "accessVerified": true
       },
@@ -2484,7 +2534,7 @@
         "title": "Cardiovascular Disease in the Pregnant Patient",
         "url": "https://www.youtube.com/watch?v=iFXpsjzvWwQ",
         "provider": "Emory Cardiology, 16th Annual Women and Heart Disease Conference",
-        "durationSeconds": 2696.0,
+        "durationSeconds": 2696,
         "sourceUrl": "https://www.youtube.com/watch?v=iFXpsjzvWwQ",
         "accessVerified": true
       },
@@ -2493,7 +2543,7 @@
         "title": "Obstetrics and Cardiovascular Considerations with Fertility Treatment",
         "url": "https://www.youtube.com/watch?v=6YPgdLpNZLo",
         "provider": "Emory Cardiology, 16th Annual Women and Heart Disease Conference",
-        "durationSeconds": 2492.0,
+        "durationSeconds": 2492,
         "sourceUrl": "https://www.youtube.com/watch?v=6YPgdLpNZLo",
         "accessVerified": true
       },
@@ -2502,7 +2552,7 @@
         "title": "Cardiovascular Disease in Women: Epidemiology, Awareness, Access & Delivery of Equitable Health Care",
         "url": "https://www.youtube.com/watch?v=HbgqgkRJMaU",
         "provider": "Emory Cardiology, 16th Annual Women and Heart Disease Conference",
-        "durationSeconds": 2295.0,
+        "durationSeconds": 2295,
         "sourceUrl": "https://www.youtube.com/watch?v=HbgqgkRJMaU",
         "accessVerified": true
       },
@@ -2511,7 +2561,7 @@
         "title": "Management of Peripheral Arterial Disease in Women",
         "url": "https://www.youtube.com/watch?v=I0VdABo9hys",
         "provider": "Emory Cardiology, 16th Annual Women and Heart Disease Conference",
-        "durationSeconds": 2114.0,
+        "durationSeconds": 2114,
         "sourceUrl": "https://www.youtube.com/watch?v=I0VdABo9hys",
         "accessVerified": true
       },
@@ -2520,8 +2570,17 @@
         "title": "Spontaneous Coronary Artery Dissection: New Insights & Questions - Mayo Clinic CV Grand Rounds",
         "url": "https://www.youtube.com/watch?v=g77nl0fbkKg",
         "provider": "Mayo Clinic Cardiovascular Grand Rounds",
-        "durationSeconds": 1627.0,
+        "durationSeconds": 1627,
         "sourceUrl": "https://www.youtube.com/watch?v=g77nl0fbkKg",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X091-ADD-UIC-CARDIOONCOLOGY-2025",
+        "title": "Cardio-Oncology with Mary Rodriguez Ziccardi, MD (May 2025)",
+        "url": "https://www.youtube.com/watch?v=hDpxODgToPo",
+        "provider": "University of Illinois Cancer Center",
+        "durationSeconds": 3341,
+        "sourceUrl": "https://www.youtube.com/watch?v=hDpxODgToPo",
         "accessVerified": true
       }
     ],
@@ -2647,7 +2706,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "MAYO-453",
-          "MAYO-454"
+          "MAYO-454",
+          "MED-X091-ADD-UIC-CARDIOONCOLOGY-2025"
         ]
       },
       {
@@ -2670,11 +2730,11 @@
     ],
     "boardStatus": "ABIM’s current certification list includes Cardiovascular Disease; Women’s Heart Health is not a separate listed examination. MGB states applicants must be ABIM board certified or eligible and have completed cardiology fellowship. This is focused post-cardiology clinical training, not a separate board specialty. No separate Women’s Heart Health board examination was identified in official ABIM list checked 2026-10-07.",
     "boardEligibilityNotice": "MGB institutional eligibility is not board eligibility. ABIM cardiovascular disease certification requires qualifying accredited training, competence, licensure and exam. Neither this curriculum nor this institution page determines eligibility; the MGB page does not state that its focused fellowship is an ACGME cardiovascular disease fellowship.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 14.621666666666666,
-    "verifiedSpecialtyHours": 13.528055555555556,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 15.549722222222222,
+    "verifiedSpecialtyHours": 14.456111111111111,
     "verifiedFoundationHours": 1.093611111111111,
-    "hoursGap": 21.378333333333334,
+    "hoursGap": 20.450277777777778,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2726,7 +2786,7 @@
         "title": "SIR-RFS Webinar (3/6/2018): Peripheral Arterial Disease",
         "url": "https://www.youtube.com/watch?v=8tDaKNMGr-k",
         "provider": "IR Education / Society of Interventional Radiology RFS",
-        "durationSeconds": 2696.0,
+        "durationSeconds": 2696,
         "sourceUrl": "https://www.youtube.com/watch?v=8tDaKNMGr-k",
         "accessVerified": true
       },
@@ -2735,7 +2795,7 @@
         "title": "Pathophysiology of Varicose Veins and Venous Ulcers | Grand Rounds 11.5.2021",
         "url": "https://www.youtube.com/watch?v=4XVYd4BmvJg",
         "provider": "Center for Vein Restoration",
-        "durationSeconds": 2388.0,
+        "durationSeconds": 2388,
         "sourceUrl": "https://www.youtube.com/watch?v=4XVYd4BmvJg",
         "accessVerified": true
       },
@@ -2744,7 +2804,7 @@
         "title": "Lymphedema Fellowship Lecture | Grand Rounds 3.10.2023",
         "url": "https://www.youtube.com/watch?v=vrQd20jPX98",
         "provider": "Center for Vein Restoration",
-        "durationSeconds": 2336.0,
+        "durationSeconds": 2336,
         "sourceUrl": "https://www.youtube.com/watch?v=vrQd20jPX98",
         "accessVerified": true
       },
@@ -2753,7 +2813,7 @@
         "title": "Lower Extremity Arterial Exam Interpretation and Case Examples (Joseph J. Naoum, MD), March 15 2022",
         "url": "https://www.youtube.com/watch?v=nmWPSopmnuw",
         "provider": "Houston Methodist DeBakey CV Education",
-        "durationSeconds": 3214.0,
+        "durationSeconds": 3214,
         "sourceUrl": "https://www.youtube.com/watch?v=8tDaKNMGr-k",
         "accessVerified": true
       },
@@ -2762,7 +2822,7 @@
         "title": "Vascular Ultrasound Master Class 2020 • Virtual Conference (October 24, 2020)",
         "url": "https://www.youtube.com/watch?v=rm6kkeU_lFI",
         "provider": "Houston Methodist DeBakey CV Education",
-        "durationSeconds": 19016.0,
+        "durationSeconds": 19016,
         "sourceUrl": "https://www.youtube.com/watch?v=rm6kkeU_lFI",
         "accessVerified": true
       },
@@ -2771,7 +2831,7 @@
         "title": "Vertebral Disease Interpretations (Zsolt Garami, MD), February 15, 2022",
         "url": "https://www.youtube.com/watch?v=rfFm8TlGQPs",
         "provider": "Houston Methodist DeBakey CV Education",
-        "durationSeconds": 2904.0,
+        "durationSeconds": 2904,
         "sourceUrl": "https://www.youtube.com/watch?v=rfFm8TlGQPs",
         "accessVerified": true
       },
@@ -2780,7 +2840,7 @@
         "title": "Carotid Duplex Interpretations (Zsolt Garami, MD), January 18, 2022",
         "url": "https://www.youtube.com/watch?v=kK-KIbFOzQw",
         "provider": "Houston Methodist DeBakey CV Education",
-        "durationSeconds": 2722.0,
+        "durationSeconds": 2722,
         "sourceUrl": "https://www.youtube.com/watch?v=kK-KIbFOzQw",
         "accessVerified": true
       },
@@ -2789,7 +2849,7 @@
         "title": "AVF – Top Gun (Zsolt Garami, MD and Eric Peden, MD), May 24, 2021",
         "url": "https://www.youtube.com/watch?v=MT4hAXAF5P8",
         "provider": "Houston Methodist DeBakey CV Education",
-        "durationSeconds": 3224.0,
+        "durationSeconds": 3224,
         "sourceUrl": "https://www.youtube.com/watch?v=MT4hAXAF5P8",
         "accessVerified": true
       },
@@ -2798,7 +2858,7 @@
         "title": "Interpretation Master Class (Zsolt Garami, MD; Steven To, RVT), November 17, 2020",
         "url": "https://www.youtube.com/watch?v=66r_qUq0nbI",
         "provider": "Houston Methodist DeBakey CV Education",
-        "durationSeconds": 3276.0,
+        "durationSeconds": 3276,
         "sourceUrl": "https://www.youtube.com/watch?v=66r_qUq0nbI",
         "accessVerified": true
       },
@@ -2807,7 +2867,7 @@
         "title": "Magician – Ultrasound Tricks (Zsolt Garami, MD), October 20, 2020",
         "url": "https://www.youtube.com/watch?v=bEAsLM3g_bk",
         "provider": "Houston Methodist DeBakey CV Education",
-        "durationSeconds": 3372.0,
+        "durationSeconds": 3372,
         "sourceUrl": "https://www.youtube.com/watch?v=bEAsLM3g_bk",
         "accessVerified": true
       },
@@ -2816,7 +2876,7 @@
         "title": "Waveforms Don’t Lie—Carotid & Extracranial Duplex Ultrasound (Garami, MD & Naoum, MD), June 16, 2020",
         "url": "https://www.youtube.com/watch?v=8MqODuY4zjQ",
         "provider": "Houston Methodist DeBakey CV Education",
-        "durationSeconds": 3558.0,
+        "durationSeconds": 3558,
         "sourceUrl": "https://www.youtube.com/watch?v=8MqODuY4zjQ",
         "accessVerified": true
       },
@@ -2825,7 +2885,7 @@
         "title": "Carotid Duplex (Alan B. Lumsden, MD; Zsolt Garami, MD; Steven To, RDMS, RVT), May 19, 2020",
         "url": "https://www.youtube.com/watch?v=QA-QEWzM51I",
         "provider": "Houston Methodist DeBakey CV Education",
-        "durationSeconds": 3613.0,
+        "durationSeconds": 3613,
         "sourceUrl": "https://www.youtube.com/watch?v=QA-QEWzM51I",
         "accessVerified": true
       },
@@ -2834,7 +2894,7 @@
         "title": "Medical Management of Peripheral Artery Disease: It’s About Life & Limb (Mark Creager, MD)",
         "url": "https://www.youtube.com/watch?v=PvvBkwYXPn8",
         "provider": "Houston Methodist DeBakey CV Education",
-        "durationSeconds": 3670.0,
+        "durationSeconds": 3670,
         "sourceUrl": "https://www.youtube.com/watch?v=PvvBkwYXPn8",
         "accessVerified": true
       },
@@ -2843,7 +2903,7 @@
         "title": "Improving Outcomes in Peripheral Artery Disease: How Do We Bridge the Gap?",
         "url": "https://www.youtube.com/watch?v=RpRhVFSdGg0",
         "provider": "University of Colorado Department of Medicine",
-        "durationSeconds": 3580.0,
+        "durationSeconds": 3580,
         "sourceUrl": "https://www.youtube.com/watch?v=RpRhVFSdGg0",
         "accessVerified": true
       },
@@ -2852,7 +2912,7 @@
         "title": "Clinical Trials in Peripheral Artery Disease: The Challenge to Develop New Therapeutic Advances (William Hiatt, MD)",
         "url": "https://www.youtube.com/watch?v=ULWXBxYaE7o",
         "provider": "Houston Methodist DeBakey CV Education",
-        "durationSeconds": 3513.0,
+        "durationSeconds": 3513,
         "sourceUrl": "https://www.youtube.com/watch?v=ULWXBxYaE7o",
         "accessVerified": true
       },
@@ -2861,7 +2921,7 @@
         "title": "Peripheral Artery Disease - Is There a Holistic Approach to Treatment?",
         "url": "https://www.youtube.com/watch?v=83FTHBBioE4",
         "provider": "Stanford Health Care",
-        "durationSeconds": 3572.0,
+        "durationSeconds": 3572,
         "sourceUrl": "https://www.youtube.com/watch?v=83FTHBBioE4",
         "accessVerified": true
       },
@@ -2870,7 +2930,7 @@
         "title": "Beyond the Cut Webinar - Treatment Strategies for Peripheral Artery Disease",
         "url": "https://www.youtube.com/watch?v=lWrMCuDUPVg",
         "provider": "Michigan Medicine",
-        "durationSeconds": 3505.0,
+        "durationSeconds": 3505,
         "sourceUrl": "https://www.youtube.com/watch?v=lWrMCuDUPVg",
         "accessVerified": true
       },
@@ -2879,7 +2939,7 @@
         "title": "Peripheral Arterial Disease: A Review and Updates (Katherin Leckie, MD, MS)",
         "url": "https://www.youtube.com/watch?v=3vAs6nVhpRA",
         "provider": "Minneapolis Heart Institute Foundation",
-        "durationSeconds": 2219.0,
+        "durationSeconds": 2219,
         "sourceUrl": "https://www.youtube.com/watch?v=3vAs6nVhpRA",
         "accessVerified": true
       },
@@ -2888,7 +2948,7 @@
         "title": "Peripheral Artery Disease – An Epidemic of Medical Neglect (Mount Sinai Medicine Grand Rounds)",
         "url": "https://www.youtube.com/watch?v=JQWF6-iBNFQ",
         "provider": "Icahn School of Medicine at Mount Sinai",
-        "durationSeconds": 3045.0,
+        "durationSeconds": 3045,
         "sourceUrl": "https://www.youtube.com/watch?v=JQWF6-iBNFQ",
         "accessVerified": true
       },
@@ -2897,7 +2957,7 @@
         "title": "Aortic Dissection: Pathogenesis, Classification & Treatment Options",
         "url": "https://www.youtube.com/watch?v=on4MyGg05jA",
         "provider": "Michigan Medicine",
-        "durationSeconds": 3337.0,
+        "durationSeconds": 3337,
         "sourceUrl": "https://www.youtube.com/watch?v=on4MyGg05jA",
         "accessVerified": true
       },
@@ -2906,7 +2966,7 @@
         "title": "Update on the 2022 ACC/AHA Guidelines for Aortic Disease (Kevin Harris, MD & Erik Beckmann, MD)",
         "url": "https://www.youtube.com/watch?v=ulwf12eJE4s",
         "provider": "Minneapolis Heart Institute Foundation",
-        "durationSeconds": 3597.0,
+        "durationSeconds": 3597,
         "sourceUrl": "https://www.youtube.com/watch?v=ulwf12eJE4s",
         "accessVerified": true
       },
@@ -2915,7 +2975,7 @@
         "title": "Thoracic Aortic Ground Rounds: Dr. Michelle Keir — Exercise Prescriptions for Adults with Heritable Thoracic Aortic Disease",
         "url": "https://www.youtube.com/watch?v=SyPblUyYtV8",
         "provider": "Libin Cardiovascular Institute, University of Calgary",
-        "durationSeconds": 2897.0,
+        "durationSeconds": 2897,
         "sourceUrl": "https://www.youtube.com/watch?v=SyPblUyYtV8",
         "accessVerified": true
       },
@@ -2924,7 +2984,7 @@
         "title": "Managing False Lumen Flow in Aortic Dissection",
         "url": "https://www.youtube.com/watch?v=-lnHJ9_aeU4",
         "provider": "Libin Cardiovascular Institute, University of Calgary",
-        "durationSeconds": 3080.0,
+        "durationSeconds": 3080,
         "sourceUrl": "https://www.youtube.com/watch?v=-lnHJ9_aeU4",
         "accessVerified": true
       },
@@ -2933,7 +2993,7 @@
         "title": "Mitochondria, Metabolism and Aortic Aneurysm: Can We Repair the Aorta Before It Ruptures?",
         "url": "https://www.youtube.com/watch?v=cdUDEAMhO6k",
         "provider": "Libin Cardiovascular Institute, University of Calgary",
-        "durationSeconds": 2614.0,
+        "durationSeconds": 2614,
         "sourceUrl": "https://www.youtube.com/watch?v=cdUDEAMhO6k",
         "accessVerified": true
       },
@@ -2942,7 +3002,7 @@
         "title": "Fibromuscular Dysplasia: The Rare Disease That Isn’t (Jeffrey W. Olin, DO)",
         "url": "https://www.youtube.com/watch?v=W4hMmR7z4Ok",
         "provider": "The Texas Heart Institute",
-        "durationSeconds": 2863.0,
+        "durationSeconds": 2863,
         "sourceUrl": "https://www.youtube.com/watch?v=W4hMmR7z4Ok",
         "accessVerified": true
       },
@@ -2951,7 +3011,7 @@
         "title": "Reframing Acute Pulmonary Embolism: The 2026 AHA/ACC Clinical Categories and What They Mean for Care",
         "url": "https://www.youtube.com/watch?v=VwtV-UHcALU",
         "provider": "Icahn School of Medicine at Mount Sinai",
-        "durationSeconds": 2581.0,
+        "durationSeconds": 2581,
         "sourceUrl": "https://www.youtube.com/watch?v=VwtV-UHcALU",
         "accessVerified": true
       },
@@ -2960,7 +3020,7 @@
         "title": "Clinical Fellow Lectures: Care Signature Pathways and Chronic Limb-threatening Ischemia",
         "url": "https://www.youtube.com/watch?v=dZMESAJ0ODg",
         "provider": "Yale Cardiovascular Medicine Grand Rounds",
-        "durationSeconds": 3621.0,
+        "durationSeconds": 3621,
         "sourceUrl": "https://www.youtube.com/watch?v=dZMESAJ0ODg",
         "accessVerified": true
       },
@@ -2969,7 +3029,7 @@
         "title": "Value-Based Care for the Evaluation and Management of Venous Thromboembolism (2023 Vascular Scientific Sessions)",
         "url": "https://vimeo.com/862904464/d0c474eb53",
         "provider": "Society for Vascular Medicine",
-        "durationSeconds": 3018.0,
+        "durationSeconds": 3018,
         "sourceUrl": "https://vimeo.com/862904464/d0c474eb53",
         "accessVerified": true
       },
@@ -2978,7 +3038,7 @@
         "title": "Classification, Diagnosis, and Management of Pulmonary Hypertension: Focus on Group 1 Disease",
         "url": "https://www.youtube.com/watch?v=h_LBSItjvPI",
         "provider": "Icahn School of Medicine at Mount Sinai",
-        "durationSeconds": 3560.0,
+        "durationSeconds": 3560,
         "sourceUrl": "https://www.youtube.com/watch?v=h_LBSItjvPI",
         "accessVerified": true
       },
@@ -2987,7 +3047,7 @@
         "title": "Differentiating Venous Leg Ulcers from Other Pathology",
         "url": "https://www.youtube.com/watch?v=RWO23NtdTMA",
         "provider": "Vein University / Vein and Lymphatic University",
-        "durationSeconds": 1651.0,
+        "durationSeconds": 1651,
         "sourceUrl": "https://www.youtube.com/watch?v=RWO23NtdTMA",
         "accessVerified": true
       },
@@ -2996,7 +3056,7 @@
         "title": "Compression, oxygen, & humidification improve venous wound healing & reduce venous ulcer recurrence",
         "url": "https://www.youtube.com/watch?v=czC8ScOsh80",
         "provider": "Vein University / Vein and Lymphatic University",
-        "durationSeconds": 1723.0,
+        "durationSeconds": 1723,
         "sourceUrl": "https://www.youtube.com/watch?v=czC8ScOsh80",
         "accessVerified": true
       },
@@ -3005,7 +3065,7 @@
         "title": "Why venous leg ulcers have difficulty healing?",
         "url": "https://www.youtube.com/watch?v=DIDSJviB7O4",
         "provider": "Vein University / Vein and Lymphatic University",
-        "durationSeconds": 1767.0,
+        "durationSeconds": 1767,
         "sourceUrl": "https://www.youtube.com/watch?v=DIDSJviB7O4",
         "accessVerified": true
       },
@@ -3014,7 +3074,7 @@
         "title": "Chronic Venous Disease and Cardiovascular Risk: Potential benefits of venoactive medications",
         "url": "https://www.youtube.com/watch?v=lbbvbKTEbCU",
         "provider": "Vein University / Vein and Lymphatic University",
-        "durationSeconds": 1724.0,
+        "durationSeconds": 1724,
         "sourceUrl": "https://www.youtube.com/watch?v=lbbvbKTEbCU",
         "accessVerified": true
       },
@@ -3023,7 +3083,7 @@
         "title": "Chronic Iliac Vein Obstruction",
         "url": "https://www.youtube.com/watch?v=KDKP_x78iZ4",
         "provider": "Vein University / Vein and Lymphatic University",
-        "durationSeconds": 1759.0,
+        "durationSeconds": 1759,
         "sourceUrl": "https://www.youtube.com/watch?v=KDKP_x78iZ4",
         "accessVerified": true
       },
@@ -3032,7 +3092,7 @@
         "title": "Can we ablate the saphenous vein in the presence of chronic iliofemoral outflow obstruction?",
         "url": "https://www.youtube.com/watch?v=b-21i7ND3YI",
         "provider": "Vein University / Vein and Lymphatic University",
-        "durationSeconds": 1714.0,
+        "durationSeconds": 1714,
         "sourceUrl": "https://www.youtube.com/watch?v=b-21i7ND3YI",
         "accessVerified": true
       },
@@ -3041,7 +3101,7 @@
         "title": "Fasciotomy in Iliofemoral DVT",
         "url": "https://www.youtube.com/watch?v=V5-NlnmnIEQ",
         "provider": "Vein University / Vein and Lymphatic University",
-        "durationSeconds": 1445.0,
+        "durationSeconds": 1445,
         "sourceUrl": "https://www.youtube.com/watch?v=V5-NlnmnIEQ",
         "accessVerified": true
       },
@@ -3050,7 +3110,7 @@
         "title": "Should We Offer Prophylaxis to Everyone: What Drug and How Long?",
         "url": "https://www.youtube.com/watch?v=eOtJR0U6M7o",
         "provider": "Vein University / Vein and Lymphatic University",
-        "durationSeconds": 1761.0,
+        "durationSeconds": 1761,
         "sourceUrl": "https://www.youtube.com/watch?v=eOtJR0U6M7o",
         "accessVerified": true
       },
@@ -3059,7 +3119,7 @@
         "title": "Fortegra Venous Stent: What do we know? Clinical Trial Data",
         "url": "https://www.youtube.com/watch?v=E3xqndrzYps",
         "provider": "Vein University / Vein and Lymphatic University",
-        "durationSeconds": 1551.0,
+        "durationSeconds": 1551,
         "sourceUrl": "https://www.youtube.com/watch?v=E3xqndrzYps",
         "accessVerified": true
       },
@@ -3068,7 +3128,7 @@
         "title": "When and how to treat pelvic venous escape points and their varicose veins",
         "url": "https://www.youtube.com/watch?v=D1yUU_StwPY",
         "provider": "Vein University / Vein and Lymphatic University",
-        "durationSeconds": 1833.0,
+        "durationSeconds": 1833,
         "sourceUrl": "https://www.youtube.com/watch?v=D1yUU_StwPY",
         "accessVerified": true
       },
@@ -3077,7 +3137,7 @@
         "title": "How to Avoid Unnecessary Stenting in NIVL Cases",
         "url": "https://www.youtube.com/watch?v=DyIvIblQLXg",
         "provider": "Vein University / Vein and Lymphatic University",
-        "durationSeconds": 1834.0,
+        "durationSeconds": 1834,
         "sourceUrl": "https://www.youtube.com/watch?v=DyIvIblQLXg",
         "accessVerified": true
       },
@@ -3086,7 +3146,7 @@
         "title": "Is the gold standard in venous intervention a technology... or clinical judgment?",
         "url": "https://www.youtube.com/watch?v=A-ht9Xafzgs",
         "provider": "Vein University / Vein and Lymphatic University",
-        "durationSeconds": 1703.0,
+        "durationSeconds": 1703,
         "sourceUrl": "https://www.youtube.com/watch?v=A-ht9Xafzgs",
         "accessVerified": true
       },
@@ -3095,7 +3155,7 @@
         "title": "Perforators: when to, when not to, and how to.",
         "url": "https://www.youtube.com/watch?v=TiSEAH4EMFo",
         "provider": "Vein University / Vein and Lymphatic University",
-        "durationSeconds": 1774.0,
+        "durationSeconds": 1774,
         "sourceUrl": "https://www.youtube.com/watch?v=TiSEAH4EMFo",
         "accessVerified": true
       },
@@ -3104,7 +3164,7 @@
         "title": "The TOT.e.m Trial (Total Endovenous Laser Ablation Multicenter Trial)",
         "url": "https://www.youtube.com/watch?v=u5l1-r7qF1k",
         "provider": "Vein University / Vein and Lymphatic University",
-        "durationSeconds": 1882.0,
+        "durationSeconds": 1882,
         "sourceUrl": "https://www.youtube.com/watch?v=u5l1-r7qF1k",
         "accessVerified": true
       }
@@ -3316,11 +3376,11 @@
     ],
     "boardStatus": "A distinct APCA/Inteleos ABVM Vascular Medicine certification exam exists. Current criteria require unrestricted licensure, primary ABIM/AOBIM board certification and qualifying fellowship or practice pathway. BWH says fellows are eligible for the exam but individual prerequisites still apply. PVI is a separate examination leading to the RPVI interpretation credential, not the specialty board. No separate ABIM vascular medicine subspecialty exam was established in the sources reviewed.",
     "boardEligibilityNotice": "This course grants no ABVM/RPVI eligibility. As checked 2026-10-07, ABVM requires unrestricted medical license, current ABIM/AOBIM primary certification, and a qualifying training pathway (including an eligible ≥12-month vascular medicine fellowship) or practice pathway. BWH invites physicians after accredited cardiovascular or pulmonary/critical-care fellowship; internal-medicine graduates may be individually considered. Verify current individual criteria with Inteleos/APCA and the programme.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 36.30888888888889,
     "verifiedSpecialtyHours": 36.30888888888889,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 0.0,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3435,11 +3495,11 @@
     ],
     "boardStatus": "A distinct ABS primary certificate in Vascular Surgery exists. Initial certification requires an approved training pathway and successful completion of both the Vascular Surgery Qualifying Examination (VSQE) and Vascular Surgery Certifying Examination (VSCE). The VSQE is the cognitive examination; the VSCE is an oral clinical-reasoning examination. The reviewed sources do not identify a separate endovascular-surgery board examination or certification; endovascular care is within vascular surgery training and assessment.",
     "boardEligibilityNotice": "This independent educational curriculum confers no ABS/ABMS/ACGME status, board eligibility, licensure, operative privileges, procedural competence, credential, or guarantee of passing. ABS eligibility requires approved postgraduate training, documented supervised clinical experience and operative logs, and other current requirements. As checked 2026-10-07, the ABS lists 250 major vascular reconstructions, specified critical-care cases, ATLS plus ACLS/ALS for VSQE registration, RPVI certification and unrestricted U.S./Canadian medical licensure for VSCE registration; exact requirements can change. Independent/ESP candidates need an approved General Surgery QE application before VSQE access, but passing GSQE is not necessarily prerequisite to vascular certification. Consult ABS directly.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 0.0,
-    "verifiedSpecialtyHours": 0.0,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 36.0,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 0,
+    "verifiedSpecialtyHours": 0,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 36,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3491,7 +3551,7 @@
         "title": "How should I treat a left main stenosis: focus on the stenting technique? - Webinar",
         "url": "https://www.youtube.com/watch?v=gGBqyMEI-LU",
         "provider": "PCR",
-        "durationSeconds": 3637.0,
+        "durationSeconds": 3637,
         "sourceUrl": "https://www.youtube.com/watch?v=gGBqyMEI-LU",
         "accessVerified": true
       },
@@ -3500,7 +3560,7 @@
         "title": "How should I treat a patient at high-bleeding risk requiring complex distal Left Main PCI for ACS ?",
         "url": "https://www.youtube.com/watch?v=gTB8hza4b6Y",
         "provider": "PCR",
-        "durationSeconds": 3678.0,
+        "durationSeconds": 3678,
         "sourceUrl": "https://www.youtube.com/watch?v=gTB8hza4b6Y",
         "accessVerified": true
       },
@@ -3509,7 +3569,7 @@
         "title": "PCR In The Lab Webinar - Left main bifurcation PCI – proper use of imaging guidance",
         "url": "https://www.youtube.com/watch?v=_PGjgwZsFtI",
         "provider": "PCR",
-        "durationSeconds": 5417.0,
+        "durationSeconds": 5417,
         "sourceUrl": "https://www.youtube.com/watch?v=_PGjgwZsFtI",
         "accessVerified": true
       },
@@ -3518,7 +3578,7 @@
         "title": "Management of a High Bleeding Risk (HBR) patient with a bifurcation lesion - Webinar In The Lab",
         "url": "https://www.youtube.com/watch?v=FP6NWAHGLGA",
         "provider": "PCR",
-        "durationSeconds": 5377.0,
+        "durationSeconds": 5377,
         "sourceUrl": "https://www.youtube.com/watch?v=FP6NWAHGLGA",
         "accessVerified": true
       },
@@ -3527,7 +3587,7 @@
         "title": "Left main and complex bifurcation PCI in high bleeding risk patients - EuroPCR 2022",
         "url": "https://www.youtube.com/watch?v=OVKVKlgxERY",
         "provider": "PCR",
-        "durationSeconds": 5130.0,
+        "durationSeconds": 5130,
         "sourceUrl": "https://www.youtube.com/watch?v=OVKVKlgxERY",
         "accessVerified": true
       },
@@ -3536,7 +3596,7 @@
         "title": "How should I prevent and manage complications when performing left main PCI? - Webinar",
         "url": "https://www.youtube.com/watch?v=MTjXw_WA0Jk",
         "provider": "PCR",
-        "durationSeconds": 3757.0,
+        "durationSeconds": 3757,
         "sourceUrl": "https://www.youtube.com/watch?v=MTjXw_WA0Jk",
         "accessVerified": true
       },
@@ -3545,7 +3605,7 @@
         "title": "A patient with a left main bifurcation lesion - Webinar",
         "url": "https://www.youtube.com/watch?v=YxQuc8ond_Y",
         "provider": "PCR",
-        "durationSeconds": 5340.0,
+        "durationSeconds": 5340,
         "sourceUrl": "https://www.youtube.com/watch?v=YxQuc8ond_Y",
         "accessVerified": true
       },
@@ -3554,7 +3614,7 @@
         "title": "How should I treat a patient at high bleeding risk requiring complex PCI? - Webinar",
         "url": "https://www.youtube.com/watch?v=oR0Uf36ioRs",
         "provider": "PCR",
-        "durationSeconds": 4177.0,
+        "durationSeconds": 4177,
         "sourceUrl": "https://www.youtube.com/watch?v=oR0Uf36ioRs",
         "accessVerified": true
       },
@@ -3563,7 +3623,7 @@
         "title": "Step-by-step algorithm for distal left main PCI - PCR Webinar",
         "url": "https://www.youtube.com/watch?v=QG-r3JnNsNg",
         "provider": "PCR",
-        "durationSeconds": 3826.0,
+        "durationSeconds": 3826,
         "sourceUrl": "https://www.youtube.com/watch?v=QG-r3JnNsNg",
         "accessVerified": true
       },
@@ -3572,7 +3632,7 @@
         "title": "Complex PCI Landscape: Anatomic Complexity, Complete Revascularization, and MCS",
         "url": "https://www.youtube.com/watch?v=lNIa531IOuo",
         "provider": "Teleflex",
-        "durationSeconds": 4128.0,
+        "durationSeconds": 4128,
         "sourceUrl": "https://www.youtube.com/watch?v=lNIa531IOuo",
         "accessVerified": true
       },
@@ -3581,7 +3641,7 @@
         "title": "How can physiology guide you in Left Main PCI? PCR Webinar in the Lab from Santander",
         "url": "https://www.youtube.com/watch?v=MywwE4mLyQw",
         "provider": "PCR",
-        "durationSeconds": 6178.0,
+        "durationSeconds": 6178,
         "sourceUrl": "https://www.youtube.com/watch?v=MywwE4mLyQw",
         "accessVerified": true
       },
@@ -3590,7 +3650,7 @@
         "title": "Left main and complex bifurcation stenting - A transradial approach",
         "url": "https://www.youtube.com/watch?v=lqdiUMxLbfM",
         "provider": "PCR",
-        "durationSeconds": 3553.0,
+        "durationSeconds": 3553,
         "sourceUrl": "https://www.youtube.com/watch?v=lqdiUMxLbfM",
         "accessVerified": true
       },
@@ -3599,7 +3659,7 @@
         "title": "TACS & APSC Complex LM Interventions",
         "url": "https://www.youtube.com/watch?v=iIc7_2r3oX4",
         "provider": "APSC Asian Pacific Society of Cardiology",
-        "durationSeconds": 6925.0,
+        "durationSeconds": 6925,
         "sourceUrl": "https://www.youtube.com/watch?v=iIc7_2r3oX4",
         "accessVerified": true
       },
@@ -3608,7 +3668,7 @@
         "title": "Complex Calcified Lesions: Keep it simple and stay Safe - Webinar",
         "url": "https://www.youtube.com/watch?v=BBJx95Z1E-U",
         "provider": "PCR",
-        "durationSeconds": 3663.0,
+        "durationSeconds": 3663,
         "sourceUrl": "https://www.youtube.com/watch?v=BBJx95Z1E-U",
         "accessVerified": true
       },
@@ -3617,7 +3677,7 @@
         "title": "PCI in calcified left main stenosis: tools for a safe and predictable outcome - EuroPCR 2022",
         "url": "https://www.youtube.com/watch?v=dj2wPS9xpIQ",
         "provider": "PCR",
-        "durationSeconds": 3523.0,
+        "durationSeconds": 3523,
         "sourceUrl": "https://www.youtube.com/watch?v=dj2wPS9xpIQ",
         "accessVerified": true
       },
@@ -3626,7 +3686,7 @@
         "title": "PCI of calcified left main – how to do it safely? PCR Round Table Webinar",
         "url": "https://www.youtube.com/watch?v=LmVY0sr33CU",
         "provider": "PCR",
-        "durationSeconds": 3643.0,
+        "durationSeconds": 3643,
         "sourceUrl": "https://www.youtube.com/watch?v=LmVY0sr33CU",
         "accessVerified": true
       },
@@ -3635,7 +3695,7 @@
         "title": "How should I select and treat a patient with bifurcation lesion needing a two-stent technique?",
         "url": "https://www.youtube.com/watch?v=0BC2SR3VvaQ",
         "provider": "PCR",
-        "durationSeconds": 3736.0,
+        "durationSeconds": 3736,
         "sourceUrl": "https://www.youtube.com/watch?v=0BC2SR3VvaQ",
         "accessVerified": true
       },
@@ -3644,7 +3704,7 @@
         "title": "Step by step planning and performing a bifurcation - PCR Round Table Webinar",
         "url": "https://www.youtube.com/watch?v=6rKKEQDKHKE",
         "provider": "PCR",
-        "durationSeconds": 3531.0,
+        "durationSeconds": 3531,
         "sourceUrl": "https://www.youtube.com/watch?v=6rKKEQDKHKE",
         "accessVerified": true
       },
@@ -3653,7 +3713,7 @@
         "title": "DK Crush for distal LM bifurcation: pearls and pitfalls - Webinar",
         "url": "https://www.youtube.com/watch?v=iowP5W7L39Y",
         "provider": "PCR",
-        "durationSeconds": 3660.0,
+        "durationSeconds": 3660,
         "sourceUrl": "https://www.youtube.com/watch?v=iowP5W7L39Y",
         "accessVerified": true
       },
@@ -3662,7 +3722,7 @@
         "title": "Complex double stent techniques in left main disease - PCR Round Table Webinar",
         "url": "https://www.youtube.com/watch?v=uVUFZMxYoM8",
         "provider": "PCR",
-        "durationSeconds": 3385.0,
+        "durationSeconds": 3385,
         "sourceUrl": "https://www.youtube.com/watch?v=uVUFZMxYoM8",
         "accessVerified": true
       },
@@ -3671,7 +3731,7 @@
         "title": "Imaging and functional guidance for left main and bifurcation PCI - Round Table Webinar",
         "url": "https://www.youtube.com/watch?v=v_Uw9jq5jUY",
         "provider": "PCR",
-        "durationSeconds": 3536.0,
+        "durationSeconds": 3536,
         "sourceUrl": "https://www.youtube.com/watch?v=v_Uw9jq5jUY",
         "accessVerified": true
       },
@@ -3680,7 +3740,7 @@
         "title": "[COMPLEX PCI 2020] E-Training Session I: Left Main and Bifurcation PCI",
         "url": "https://www.youtube.com/watch?v=HeMDwd73ejo",
         "provider": "CVRF Events",
-        "durationSeconds": 3656.0,
+        "durationSeconds": 3656,
         "sourceUrl": "https://www.youtube.com/watch?v=HeMDwd73ejo",
         "accessVerified": true
       },
@@ -3689,7 +3749,7 @@
         "title": "Complex Coronary Interventions XXIII",
         "url": "https://www.youtube.com/watch?v=5jAx_1JRJ3M",
         "provider": "Manos Brilakis",
-        "durationSeconds": 1985.0,
+        "durationSeconds": 1985,
         "sourceUrl": "https://www.youtube.com/watch?v=5jAx_1JRJ3M",
         "accessVerified": true
       },
@@ -3698,7 +3758,7 @@
         "title": "Circumflex CTO-PCI @ TCT 2022",
         "url": "https://www.youtube.com/watch?v=p-pJMG8oRlc",
         "provider": "University of Washington Medicine Heart Institute",
-        "durationSeconds": 2671.0,
+        "durationSeconds": 2671,
         "sourceUrl": "https://www.youtube.com/watch?v=p-pJMG8oRlc",
         "accessVerified": true
       },
@@ -3707,7 +3767,7 @@
         "title": "SCAI/SOCIME Webinar - CTO Interventions - What are the debates and what should we do in 2020?",
         "url": "https://www.youtube.com/watch?v=kYVATDE6neE",
         "provider": "SOCiME",
-        "durationSeconds": 3665.0,
+        "durationSeconds": 3665,
         "sourceUrl": "https://www.youtube.com/watch?v=kYVATDE6neE",
         "accessVerified": true
       },
@@ -3716,7 +3776,7 @@
         "title": "Incorporating coronary orbital atherectomy to my practice - EuroPCR 2022",
         "url": "https://www.youtube.com/watch?v=v5timUfzgus",
         "provider": "PCR",
-        "durationSeconds": 3602.0,
+        "durationSeconds": 3602,
         "sourceUrl": "https://www.youtube.com/watch?v=v5timUfzgus",
         "accessVerified": true
       },
@@ -3725,7 +3785,7 @@
         "title": "Live Relay: Complex PCI - October 2021",
         "url": "https://www.youtube.com/watch?v=WsnWd14HZGk",
         "provider": "CCC Live Cases",
-        "durationSeconds": 3253.0,
+        "durationSeconds": 3253,
         "sourceUrl": "https://www.youtube.com/watch?v=WsnWd14HZGk",
         "accessVerified": true
       },
@@ -3734,7 +3794,7 @@
         "title": "Imaging and angiography guidance for calcified lesion PCI: when to use which device? - Webinar",
         "url": "https://www.youtube.com/watch?v=cmLdmPh0T_s",
         "provider": "PCR",
-        "durationSeconds": 3733.0,
+        "durationSeconds": 3733,
         "sourceUrl": "https://www.youtube.com/watch?v=cmLdmPh0T_s",
         "accessVerified": true
       },
@@ -3743,7 +3803,7 @@
         "title": "Intracoronary imaging and intracoronary physiology: friends or foes? - Webinar",
         "url": "https://www.youtube.com/watch?v=OBoOupIeRn0",
         "provider": "PCR",
-        "durationSeconds": 3644.0,
+        "durationSeconds": 3644,
         "sourceUrl": "https://www.youtube.com/watch?v=OBoOupIeRn0",
         "accessVerified": true
       },
@@ -3752,7 +3812,7 @@
         "title": "How should I optimise treatment of LM disease using intracoronary guidance? - Webinar",
         "url": "https://www.youtube.com/watch?v=uZFkFuWJoNw",
         "provider": "PCR",
-        "durationSeconds": 3714.0,
+        "durationSeconds": 3714,
         "sourceUrl": "https://www.youtube.com/watch?v=uZFkFuWJoNw",
         "accessVerified": true
       },
@@ -3761,7 +3821,7 @@
         "title": "Intracoronary imaging (IVUS/OCT) & Physiology (FFR/iFR)-Data Supporting the use of FFR, IVUS & OCT.",
         "url": "https://www.youtube.com/watch?v=k0XSSC-tndk",
         "provider": "Medace",
-        "durationSeconds": 4763.0,
+        "durationSeconds": 4763,
         "sourceUrl": "https://www.youtube.com/watch?v=k0XSSC-tndk",
         "accessVerified": true
       },
@@ -3770,7 +3830,7 @@
         "title": "Beginning with the end in mind - FFR vs. IVUS imaging - AICT-AsiaPCR 2022",
         "url": "https://www.youtube.com/watch?v=CzdRo9OS8ao",
         "provider": "PCR",
-        "durationSeconds": 4771.0,
+        "durationSeconds": 4771,
         "sourceUrl": "https://www.youtube.com/watch?v=CzdRo9OS8ao",
         "accessVerified": true
       },
@@ -3779,7 +3839,7 @@
         "title": "Left main and bifurcation stenting optimised by intracoronary imaging - Webinar",
         "url": "https://www.youtube.com/watch?v=33_pbbzkGgg",
         "provider": "PCR",
-        "durationSeconds": 3678.0,
+        "durationSeconds": 3678,
         "sourceUrl": "https://www.youtube.com/watch?v=33_pbbzkGgg",
         "accessVerified": true
       },
@@ -3788,7 +3848,7 @@
         "title": "LV support in complex PCI- Left main stenting and bifurcation techniques - Elias Hanna",
         "url": "https://www.youtube.com/watch?v=o07IELwgyKo",
         "provider": "Elias Hanna",
-        "durationSeconds": 3603.0,
+        "durationSeconds": 3603,
         "sourceUrl": "https://www.youtube.com/watch?v=o07IELwgyKo",
         "accessVerified": true
       },
@@ -3797,7 +3857,7 @@
         "title": "[COMPLEX PCI 2020] E-Training Session III: Rescue Strategy for Complications During CHIP Procedure",
         "url": "https://www.youtube.com/watch?v=-6KWZ4vLnEM",
         "provider": "CVRF Events",
-        "durationSeconds": 3138.0,
+        "durationSeconds": 3138,
         "sourceUrl": "https://www.youtube.com/watch?v=-6KWZ4vLnEM",
         "accessVerified": true
       },
@@ -3806,7 +3866,7 @@
         "title": "#CasesOverCocktails - Coronary Complications",
         "url": "https://www.youtube.com/watch?v=yY4Y8Zq4rUQ",
         "provider": "University of Washington Medicine Heart Institute",
-        "durationSeconds": 5348.0,
+        "durationSeconds": 5348,
         "sourceUrl": "https://www.youtube.com/watch?v=yY4Y8Zq4rUQ",
         "accessVerified": true
       },
@@ -3815,7 +3875,7 @@
         "title": "CHIP Part 1: Calcification",
         "url": "https://www.youtube.com/watch?v=ndFaGUBevE4",
         "provider": "Cardiovascular Innovations",
-        "durationSeconds": 6066.0,
+        "durationSeconds": 6066,
         "sourceUrl": "https://www.youtube.com/watch?v=ndFaGUBevE4",
         "accessVerified": true
       },
@@ -3824,7 +3884,7 @@
         "title": "Antiplatelet Therapy in High Bleeding Risk Patients Following PCI, November 6,  2020",
         "url": "https://www.youtube.com/watch?v=MAHngpXtvuA",
         "provider": "Cardiology University of Washington",
-        "durationSeconds": 2807.0,
+        "durationSeconds": 2807,
         "sourceUrl": "https://www.youtube.com/watch?v=MAHngpXtvuA",
         "accessVerified": true
       },
@@ -3833,7 +3893,7 @@
         "title": "Optimizing the Benefit of Antiplatelet Therapy in High Risk Post-PCI Patients",
         "url": "https://www.youtube.com/watch?v=I-dSk20oxo0",
         "provider": "Interventional Cardiology ISIC",
-        "durationSeconds": 4093.0,
+        "durationSeconds": 4093,
         "sourceUrl": "https://www.youtube.com/watch?v=I-dSk20oxo0",
         "accessVerified": true
       },
@@ -3842,7 +3902,7 @@
         "title": "Pharmacology in PCI",
         "url": "https://www.youtube.com/watch?v=rW5nyU0_bUk",
         "provider": "Interventional Cardiology ISIC",
-        "durationSeconds": 2440.0,
+        "durationSeconds": 2440,
         "sourceUrl": "https://www.youtube.com/watch?v=rW5nyU0_bUk",
         "accessVerified": true
       },
@@ -3851,7 +3911,7 @@
         "title": "ISCP 2021 - Interventional Pharmacology: Walking the tightrope of ischemia and bleeding",
         "url": "https://www.youtube.com/watch?v=i3vH0QVCtVg",
         "provider": "APSC Asian Pacific Society of Cardiology",
-        "durationSeconds": 3017.0,
+        "durationSeconds": 3017,
         "sourceUrl": "https://www.youtube.com/watch?v=i3vH0QVCtVg",
         "accessVerified": true
       },
@@ -3860,7 +3920,7 @@
         "title": "Round Table Webinar - The SYNTAX II strategy: integrating best practices in complex PCI",
         "url": "https://www.youtube.com/watch?v=0MroJU5p4BQ",
         "provider": "PCR",
-        "durationSeconds": 3502.0,
+        "durationSeconds": 3502,
         "sourceUrl": "https://www.youtube.com/watch?v=0MroJU5p4BQ",
         "accessVerified": true
       },
@@ -4095,11 +4155,11 @@
     ],
     "boardStatus": "ABIM certifies Interventional Cardiology, with a separate exam and formal eligibility requirements. No separate Complex PCI/CHIP board exam identified. ABIM requires prior Cardiovascular Disease certification, qualifying accredited interventional training, documented minimum procedures, competence, unrestricted license and passing the exam. The CHIP fellowship is classified non-ACGME in supplied packet; completion does not establish eligibility.",
     "boardEligibilityNotice": "Independent course completion, or a non-ACGME complex-PCI fellowship alone, is not evidence of ABIM exam eligibility; ABIM decides under current policy.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 46.374722222222225,
     "verifiedSpecialtyHours": 46.374722222222225,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 0.0,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -4140,7 +4200,7 @@
         "title": "Etiologies and Management of Collapsed Athletes (2026) | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=-vNoPwr7G_s",
         "provider": "The AMSSM, official YouTube channel",
-        "durationSeconds": 3405.0,
+        "durationSeconds": 3405,
         "sourceUrl": "https://www.youtube.com/watch?v=-vNoPwr7G_s",
         "accessVerified": true
       },
@@ -4149,7 +4209,7 @@
         "title": "Traumatic Sports Injuries to the Knee | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=KfM-54yaob4",
         "provider": "The AMSSM, official YouTube channel",
-        "durationSeconds": 2763.0,
+        "durationSeconds": 2763,
         "sourceUrl": "https://www.youtube.com/watch?v=KfM-54yaob4",
         "accessVerified": true
       },
@@ -4158,7 +4218,7 @@
         "title": "Sports Hematology (2026) | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=X9vCoegoTIc",
         "provider": "The AMSSM, official YouTube channel",
-        "durationSeconds": 3626.0,
+        "durationSeconds": 3626,
         "sourceUrl": "https://www.youtube.com/watch?v=X9vCoegoTIc",
         "accessVerified": true
       },
@@ -4167,7 +4227,7 @@
         "title": "Pelvic Floor Dysfunction in Athletes | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=35t010kyKZ8",
         "provider": "The AMSSM, official YouTube channel",
-        "durationSeconds": 3952.0,
+        "durationSeconds": 3952,
         "sourceUrl": "https://www.youtube.com/watch?v=35t010kyKZ8",
         "accessVerified": true
       },
@@ -4176,7 +4236,7 @@
         "title": "Ophthalmic Trauma in Sports | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=o_5c9mOYfdY",
         "provider": "The AMSSM, official YouTube channel",
-        "durationSeconds": 3197.0,
+        "durationSeconds": 3197,
         "sourceUrl": "https://www.youtube.com/watch?v=o_5c9mOYfdY",
         "accessVerified": true
       },
@@ -4185,7 +4245,7 @@
         "title": "Return to Play After Injuries in Sports Medicine | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=th7NosGuLLs",
         "provider": "The AMSSM, official YouTube channel",
-        "durationSeconds": 3572.0,
+        "durationSeconds": 3572,
         "sourceUrl": "https://www.youtube.com/watch?v=th7NosGuLLs",
         "accessVerified": true
       },
@@ -4194,7 +4254,7 @@
         "title": "Exertional Heat Stroke | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=zcZnagRAgpU",
         "provider": "The AMSSM, official YouTube channel",
-        "durationSeconds": 3840.0,
+        "durationSeconds": 3840,
         "sourceUrl": "https://www.youtube.com/watch?v=zcZnagRAgpU",
         "accessVerified": true
       },
@@ -4203,7 +4263,7 @@
         "title": "Exertional Heat Illness | National Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=BYqqhfFQlKY",
         "provider": "The AMSSM, official YouTube channel",
-        "durationSeconds": 3729.0,
+        "durationSeconds": 3729,
         "sourceUrl": "https://www.youtube.com/watch?v=BYqqhfFQlKY",
         "accessVerified": true
       },
@@ -4212,7 +4272,7 @@
         "title": "Mental Health in Sports-Related Concussion | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=b8KavhB3yzI",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 4197.0,
+        "durationSeconds": 4197,
         "sourceUrl": "https://www.youtube.com/watch?v=b8KavhB3yzI",
         "accessVerified": true
       },
@@ -4221,7 +4281,7 @@
         "title": "ECG Interpretation in Athletes | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=GLAX-P0uU-Q",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3548.0,
+        "durationSeconds": 3548,
         "sourceUrl": "https://www.youtube.com/watch?v=GLAX-P0uU-Q",
         "accessVerified": true
       },
@@ -4230,7 +4290,7 @@
         "title": "Running Medicine | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=wPRgOmPcyjM",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3812.0,
+        "durationSeconds": 3812,
         "sourceUrl": "https://www.youtube.com/watch?v=wPRgOmPcyjM",
         "accessVerified": true
       },
@@ -4239,7 +4299,7 @@
         "title": "Facial Trauma and Laceration Repair | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=lHjesLubB5w",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 2658.0,
+        "durationSeconds": 2658,
         "sourceUrl": "https://www.youtube.com/watch?v=lHjesLubB5w",
         "accessVerified": true
       },
@@ -4248,7 +4308,7 @@
         "title": "Evaluation of the Pediatric Hip | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=2uPbK_nynxw",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3674.0,
+        "durationSeconds": 3674,
         "sourceUrl": "https://www.youtube.com/watch?v=2uPbK_nynxw",
         "accessVerified": true
       },
@@ -4257,7 +4317,7 @@
         "title": "Upper Extremity Trauma | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=gJkPcEt-stE",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3036.0,
+        "durationSeconds": 3036,
         "sourceUrl": "https://www.youtube.com/watch?v=gJkPcEt-stE",
         "accessVerified": true
       },
@@ -4266,7 +4326,7 @@
         "title": "Bone Stress Injuries | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=5RBzXV2RS8Y",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3548.0,
+        "durationSeconds": 3548,
         "sourceUrl": "https://www.youtube.com/watch?v=5RBzXV2RS8Y",
         "accessVerified": true
       },
@@ -4275,7 +4335,7 @@
         "title": "MRI Series: Lumbar Spine | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=3zR12EODS_w",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 2870.0,
+        "durationSeconds": 2870,
         "sourceUrl": "https://www.youtube.com/watch?v=3zR12EODS_w",
         "accessVerified": true
       },
@@ -4284,7 +4344,7 @@
         "title": "High-Yield X-Ray Series: Foot and Ankle | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=k6TbZMuv4Kw",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3673.0,
+        "durationSeconds": 3673,
         "sourceUrl": "https://www.youtube.com/watch?v=k6TbZMuv4Kw",
         "accessVerified": true
       },
@@ -4293,7 +4353,7 @@
         "title": "Skin Infections in Athletes | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=8F8DdnkPT6g",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3313.0,
+        "durationSeconds": 3313,
         "sourceUrl": "https://www.youtube.com/watch?v=8F8DdnkPT6g",
         "accessVerified": true
       },
@@ -4302,7 +4362,7 @@
         "title": "Pediatric Spine | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=aQ8FrTM0SNc",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3318.0,
+        "durationSeconds": 3318,
         "sourceUrl": "https://www.youtube.com/watch?v=aQ8FrTM0SNc",
         "accessVerified": true
       },
@@ -4311,7 +4371,7 @@
         "title": "CECS and Exertional Leg Pain | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=QVVM5bc1vtA",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3771.0,
+        "durationSeconds": 3771,
         "sourceUrl": "https://www.youtube.com/watch?v=QVVM5bc1vtA",
         "accessVerified": true
       },
@@ -4320,7 +4380,7 @@
         "title": "Core Muscle Injuries | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=DJbLpyXCGxA",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3950.0,
+        "durationSeconds": 3950,
         "sourceUrl": "https://www.youtube.com/watch?v=DJbLpyXCGxA",
         "accessVerified": true
       },
@@ -4329,7 +4389,7 @@
         "title": "Sport-Related Concussion (2025) | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=ua2UMlIFZSQ",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3773.0,
+        "durationSeconds": 3773,
         "sourceUrl": "https://www.youtube.com/watch?v=ua2UMlIFZSQ",
         "accessVerified": true
       },
@@ -4338,7 +4398,7 @@
         "title": "Elevating Mental Health and Performance in Sports Medicine | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=fzLFWxESUhs",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 2728.0,
+        "durationSeconds": 2728,
         "sourceUrl": "https://www.youtube.com/watch?v=fzLFWxESUhs",
         "accessVerified": true
       },
@@ -4347,7 +4407,7 @@
         "title": "Phalangeal Fractures and Finger Injuries | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=AT5ZpDZadqA",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3504.0,
+        "durationSeconds": 3504,
         "sourceUrl": "https://www.youtube.com/watch?v=AT5ZpDZadqA",
         "accessVerified": true
       },
@@ -4356,7 +4416,7 @@
         "title": "Preparing for a Mass Participation Event | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=cGjsy_NCLfY",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3519.0,
+        "durationSeconds": 3519,
         "sourceUrl": "https://www.youtube.com/watch?v=cGjsy_NCLfY",
         "accessVerified": true
       },
@@ -4365,7 +4425,7 @@
         "title": "MRI Series: Foot and Ankle | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=PR6U_11T7Ac",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3462.0,
+        "durationSeconds": 3462,
         "sourceUrl": "https://www.youtube.com/watch?v=PR6U_11T7Ac",
         "accessVerified": true
       },
@@ -4374,7 +4434,7 @@
         "title": "Growth Plate Injuries | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=woiAUVXQmaw",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3882.0,
+        "durationSeconds": 3882,
         "sourceUrl": "https://www.youtube.com/watch?v=woiAUVXQmaw",
         "accessVerified": true
       },
@@ -4383,7 +4443,7 @@
         "title": "Sudden Cardiac Arrest in Athletes: From Screening to Survival | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=h-xKM6YO-Zo",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3399.0,
+        "durationSeconds": 3399,
         "sourceUrl": "https://www.youtube.com/watch?v=h-xKM6YO-Zo",
         "accessVerified": true
       },
@@ -4392,7 +4452,7 @@
         "title": "Evidence-Based Rehab Modalities | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=FCvL1L808Mk",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3528.0,
+        "durationSeconds": 3528,
         "sourceUrl": "https://www.youtube.com/watch?v=FCvL1L808Mk",
         "accessVerified": true
       },
@@ -4401,7 +4461,7 @@
         "title": "Pre-Participation Evaluation: What If We Could Start From Scratch? | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=7eggnG7wfq8",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3709.0,
+        "durationSeconds": 3709,
         "sourceUrl": "https://www.youtube.com/watch?v=7eggnG7wfq8",
         "accessVerified": true
       },
@@ -4410,7 +4470,7 @@
         "title": "Foot and Ankle Fractures | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=KjLhF5QFPF0",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3573.0,
+        "durationSeconds": 3573,
         "sourceUrl": "https://www.youtube.com/watch?v=KjLhF5QFPF0",
         "accessVerified": true
       },
@@ -4419,7 +4479,7 @@
         "title": "Shoulder and Scapular Conditions in the Overhead Athlete | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=TkWpStxX_oQ",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3832.0,
+        "durationSeconds": 3832,
         "sourceUrl": "https://www.youtube.com/watch?v=TkWpStxX_oQ",
         "accessVerified": true
       },
@@ -4428,7 +4488,7 @@
         "title": "Athletes with Diabetes | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=qyc2zH1YB24",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 2837.0,
+        "durationSeconds": 2837,
         "sourceUrl": "https://www.youtube.com/watch?v=qyc2zH1YB24",
         "accessVerified": true
       },
@@ -4437,7 +4497,7 @@
         "title": "Non-Traumatic Injuries of the Hand & Wrist | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=gJHR6yI2I10",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 2577.0,
+        "durationSeconds": 2577,
         "sourceUrl": "https://www.youtube.com/watch?v=gJHR6yI2I10",
         "accessVerified": true
       },
@@ -4446,7 +4506,7 @@
         "title": "Anti-Doping in Sports Medicine | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=gTjhIuxeqpc",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3735.0,
+        "durationSeconds": 3735,
         "sourceUrl": "https://www.youtube.com/watch?v=gTjhIuxeqpc",
         "accessVerified": true
       },
@@ -4455,7 +4515,7 @@
         "title": "Trauma in Sports | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=vt9SJypQJnk",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 2504.0,
+        "durationSeconds": 2504,
         "sourceUrl": "https://www.youtube.com/watch?v=vt9SJypQJnk",
         "accessVerified": true
       },
@@ -4464,7 +4524,7 @@
         "title": "What Sports Dieticians Want Physicians to Know | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=x1A12DAhyMc",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3676.0,
+        "durationSeconds": 3676,
         "sourceUrl": "https://www.youtube.com/watch?v=x1A12DAhyMc",
         "accessVerified": true
       },
@@ -4473,7 +4533,7 @@
         "title": "Abdominal Injuries in Sports | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=8P_bgCAHhlU",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3060.0,
+        "durationSeconds": 3060,
         "sourceUrl": "https://www.youtube.com/watch?v=8P_bgCAHhlU",
         "accessVerified": true
       },
@@ -4482,7 +4542,7 @@
         "title": "Medical Legal Issues in Sports Medicine | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=mBTvyhas798",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 2662.0,
+        "durationSeconds": 2662,
         "sourceUrl": "https://www.youtube.com/watch?v=mBTvyhas798",
         "accessVerified": true
       },
@@ -4491,7 +4551,7 @@
         "title": "Emergency Action Plans | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=aJvFNhspvgc",
         "provider": "American Medical Society for Sports Medicine (AMSSM)",
-        "durationSeconds": 3265.0,
+        "durationSeconds": 3265,
         "sourceUrl": "https://www.youtube.com/watch?v=aJvFNhspvgc",
         "accessVerified": true
       }
@@ -4667,11 +4727,11 @@
       "boardEligibilityUnverified": true
     },
     "boardEligibilityNotice": "This independent course does not confer board eligibility. The MGB page says the fellowship fulfills ACGME requirements for Sports Medicine CAQ eligibility. ABEM requires qualifying underlying certification, continuing certification, medical licensure and successful completion of an ACGME-accredited sports-medicine fellowship. Specific current site accreditation and an individual’s eligibility were not independently verified. Check with ABEM/ABFM and programme officials. Passing the examination is not guaranteed.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 37.965833333333336,
     "verifiedSpecialtyHours": 37.965833333333336,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 0.0,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -4699,7 +4759,7 @@
       "plan": "A transparent 12-week self-study plan at roughly 10 hours/week: 36 hours viewing counted external free video if completed; about 48 hours reading/annotation; about 24 hours case reasoning and assignment; about 12 hours retrieval practice and review. Verified media currently supplies only 2.5528 hours, so remaining planned viewing must be developed as original material and is not ready or counted. This plan is not official fellowship time."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X096_e5c9eeb5.pdf",
+    "syllabusUrl": "/manus-storage/MED-X096_10cb2c25.pdf",
     "pdfIds": [
       "med-syllabus-MED-X096",
       "med-reading-73302202c668",
@@ -4713,7 +4773,7 @@
         "title": "Mohs Micrographic Technique - An Overview",
         "url": "https://www.youtube.com/watch?v=MfR_26msL48",
         "provider": "YouTube public video page; uploader not identified in stateless extraction",
-        "durationSeconds": 2295.0,
+        "durationSeconds": 2295,
         "sourceUrl": "https://www.youtube.com/watch?v=MfR_26msL48",
         "accessVerified": true
       },
@@ -4722,7 +4782,7 @@
         "title": "Webinar #152 (Mohs Micrographic Surgery: Latest from the PGH Department of Dermatology)",
         "url": "https://www.youtube.com/watch?v=RbYMcP1SSSs",
         "provider": "TVUPph3 / YouTube (channel attribution from search index; not independently verified in page extraction)",
-        "durationSeconds": 6895.0,
+        "durationSeconds": 6895,
         "sourceUrl": "https://www.youtube.com/watch?v=RbYMcP1SSSs",
         "accessVerified": true
       },
@@ -4731,7 +4791,7 @@
         "title": "Erasmus MC ACE Lecture: Skin Cancer by Dr Marlies Wakkee",
         "url": "https://www.youtube.com/watch?v=K2cIiOPqTmg",
         "provider": "YouTube",
-        "durationSeconds": 1295.0,
+        "durationSeconds": 1295,
         "sourceUrl": "https://www.youtube.com/watch?v=K2cIiOPqTmg",
         "accessVerified": true
       },
@@ -4740,7 +4800,7 @@
         "title": "Dermatopathology: The Molecular Basis of Melanoma w/ Dr. Desman",
         "url": "https://www.youtube.com/watch?v=O1hBtERlJGM",
         "provider": "YouTube",
-        "durationSeconds": 2655.0,
+        "durationSeconds": 2655,
         "sourceUrl": "https://www.youtube.com/watch?v=O1hBtERlJGM",
         "accessVerified": true
       },
@@ -4749,7 +4809,7 @@
         "title": "Merkel cell carcinoma: Progress in the management of an aggressive immunogenic cancer",
         "url": "https://www.youtube.com/watch?v=NOoPetGXKuA",
         "provider": "YouTube",
-        "durationSeconds": 2883.0,
+        "durationSeconds": 2883,
         "sourceUrl": "https://www.youtube.com/watch?v=NOoPetGXKuA",
         "accessVerified": true
       },
@@ -4758,7 +4818,7 @@
         "title": "Goodfellow Unit Webinar: Skin Cancer",
         "url": "https://www.youtube.com/watch?v=ZV3lmTHN3_w",
         "provider": "YouTube",
-        "durationSeconds": 4320.0,
+        "durationSeconds": 4320,
         "sourceUrl": "https://www.youtube.com/watch?v=ZV3lmTHN3_w",
         "accessVerified": true
       },
@@ -4767,7 +4827,7 @@
         "title": "Skin cancers and precancers: essentials",
         "url": "https://www.youtube.com/watch?v=kogMVDIr04I",
         "provider": "YouTube",
-        "durationSeconds": 3544.0,
+        "durationSeconds": 3544,
         "sourceUrl": "https://www.youtube.com/watch?v=kogMVDIr04I",
         "accessVerified": true
       },
@@ -4776,7 +4836,7 @@
         "title": "Dermatology Grand Rounds - November 27, 2025: Skin cancer in solid organ transplant recipients",
         "url": "https://www.youtube.com/watch?v=2dHquRVR7VI",
         "provider": "YouTube",
-        "durationSeconds": 2777.0,
+        "durationSeconds": 2777,
         "sourceUrl": "https://www.youtube.com/watch?v=2dHquRVR7VI",
         "accessVerified": true
       },
@@ -4785,7 +4845,7 @@
         "title": "Ronald Cotliar, MD | Pediatric Grand Rounds (Pediatric Melanoma)",
         "url": "https://www.youtube.com/watch?v=DPtCCOdVI4Y",
         "provider": "YouTube",
-        "durationSeconds": 3252.0,
+        "durationSeconds": 3252,
         "sourceUrl": "https://www.youtube.com/watch?v=DPtCCOdVI4Y",
         "accessVerified": true
       },
@@ -4794,7 +4854,7 @@
         "title": "Basal Cell Carcinoma (BCC) 101 - Dermpath Basics Explained by a Dermatopathologist",
         "url": "https://www.youtube.com/watch?v=og6Qywi0zsc",
         "provider": "YouTube",
-        "durationSeconds": 2260.0,
+        "durationSeconds": 2260,
         "sourceUrl": "https://www.youtube.com/watch?v=og6Qywi0zsc",
         "accessVerified": true
       },
@@ -4803,7 +4863,7 @@
         "title": "Squamous Cell Carcinoma & Actinic Keratosis 101...Dermpath Basics & Beyond",
         "url": "https://www.youtube.com/watch?v=y9OzN3-OlSU",
         "provider": "YouTube",
-        "durationSeconds": 5558.0,
+        "durationSeconds": 5558,
         "sourceUrl": "https://www.youtube.com/watch?v=y9OzN3-OlSU",
         "accessVerified": true
       },
@@ -4812,7 +4872,7 @@
         "title": "Melanocytic Dermpath Basics: Melanoma",
         "url": "https://www.youtube.com/watch?v=8N0IZZpF8ts",
         "provider": "YouTube",
-        "durationSeconds": 4556.0,
+        "durationSeconds": 4556,
         "sourceUrl": "https://www.youtube.com/watch?v=8N0IZZpF8ts",
         "accessVerified": true
       },
@@ -4821,8 +4881,17 @@
         "title": "Skin Adnexal Tumors: Dermpath Board Review for Dermatology Pathology & Dermpath",
         "url": "https://www.youtube.com/watch?v=N_CfPKu9kJg",
         "provider": "YouTube",
-        "durationSeconds": 4120.0,
+        "durationSeconds": 4120,
         "sourceUrl": "https://www.youtube.com/watch?v=N_CfPKu9kJg",
+        "accessVerified": true
+      },
+      {
+        "id": "MEDX096-R01",
+        "title": "Melanoma and Nonmelanoma Skin Cancer",
+        "url": "https://www.youtube.com/watch?v=D6mHxyLguhQ",
+        "provider": "University of California Television (UCTV) / YouTube",
+        "durationSeconds": 5205,
+        "sourceUrl": "https://www.youtube.com/watch?v=D6mHxyLguhQ",
         "accessVerified": true
       }
     ],
@@ -4852,7 +4921,8 @@
           "MEDX096-AC04",
           "MEDX096-AC05",
           "MEDX096-AC06",
-          "MEDX096-AC08"
+          "MEDX096-AC08",
+          "MEDX096-R01"
         ]
       },
       {
@@ -4865,7 +4935,8 @@
           "MEDX096-AC04",
           "MEDX096-AC05",
           "MEDX096-AC06",
-          "MEDX096-AC09"
+          "MEDX096-AC09",
+          "MEDX096-R01"
         ]
       },
       {
@@ -4889,7 +4960,8 @@
           "MEDX096-AC02",
           "MEDX096-AC05",
           "MEDX096-AC07",
-          "MEDX096-AC10"
+          "MEDX096-AC10",
+          "MEDX096-R01"
         ]
       },
       {
@@ -4959,7 +5031,8 @@
           "MEDX096-AC04",
           "MEDX096-AC05",
           "MEDX096-AC06",
-          "MEDX096-AC07"
+          "MEDX096-AC07",
+          "MEDX096-R01"
         ]
       },
       {
@@ -4980,11 +5053,11 @@
     ],
     "boardStatus": "An actual clinical physician subspecialty fellowship exists, with ACGME accreditation identified by official institutions and ABD. The American Board of Dermatology administers a separate MDS subspecialty certification exam/certificate; this is not a separate independent specialty board. ABD states that for 2026 onward, candidates must complete an ACGME-accredited MSDO fellowship; the prior practice pathway ended after 2025. No second separate MDS board examination was identified. General dermatology certification prerequisites and individual exam eligibility remain governed by ABD.",
     "boardEligibilityNotice": "This independent self-study course does not confer dermatology board certification, MDS eligibility, credentialing, or exam access. As of the ABD notice checked 2026-10-07, completion of an ACGME-accredited MSDO fellowship is required for the MDS exam beginning with the 2026 administration. ABD determines candidate-specific eligibility; verify current ABD rules.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 12.891666666666667,
-    "verifiedSpecialtyHours": 10.644166666666667,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 14.3375,
+    "verifiedSpecialtyHours": 12.09,
     "verifiedFoundationHours": 2.2475,
-    "hoursGap": 23.108333333333334,
+    "hoursGap": 21.6625,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

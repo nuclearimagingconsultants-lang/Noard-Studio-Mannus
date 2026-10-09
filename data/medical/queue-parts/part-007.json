@@ -17,7 +17,7 @@
       "note": "Not official fellowship hours, clinical rotation, case volume, accreditation credit or outcome."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-073_b4ab55d1.pdf",
+    "syllabusUrl": "/manus-storage/MED-073_f1da0b50.pdf",
     "pdfIds": [
       "med-syllabus-MED-073",
       "med-reading-6fc9f1e7f091",
@@ -29,7 +29,7 @@
         "title": "Basic Principles of the Gamma Camera",
         "url": "https://iaea.mediasite.com/Mediasite/Play/686601b3cc6c480380c49c5f20990e241d",
         "provider": "IAEA Human Health Campus / IAEA Mediasite",
-        "durationSeconds": 1501.0,
+        "durationSeconds": 1501,
         "sourceUrl": "https://iaea.mediasite.com/Mediasite/Play/686601b3cc6c480380c49c5f20990e241d",
         "accessVerified": true
       },
@@ -38,7 +38,7 @@
         "title": "SPECT and PET Reconstruction",
         "url": "https://iaea.mediasite.com/Mediasite/Play/49203263b54c4ba2afe7021c1ab412301d",
         "provider": "IAEA Human Health Campus / IAEA Mediasite",
-        "durationSeconds": 1505.0,
+        "durationSeconds": 1505,
         "sourceUrl": "https://iaea.mediasite.com/Mediasite/Play/49203263b54c4ba2afe7021c1ab412301d",
         "accessVerified": true
       },
@@ -47,7 +47,7 @@
         "title": "Optimisation in Nuclear Medicine Imaging",
         "url": "https://iaea.mediasite.com/Mediasite/Play/78866477baac4952bafae86888f1659a1d",
         "provider": "IAEA Human Health Campus / IAEA Mediasite",
-        "durationSeconds": 2356.0,
+        "durationSeconds": 2356,
         "sourceUrl": "https://iaea.mediasite.com/Mediasite/Play/78866477baac4952bafae86888f1659a1d",
         "accessVerified": true
       },
@@ -56,7 +56,7 @@
         "title": "Optimisation of Paediatric Nuclear Medicine Imaging",
         "url": "https://iaea.mediasite.com/Mediasite/Play/b3f9ef47d7df4cd19fd947ac4ca6a31e1d",
         "provider": "IAEA Human Health Campus / IAEA Mediasite",
-        "durationSeconds": 861.0,
+        "durationSeconds": 861,
         "sourceUrl": "https://iaea.mediasite.com/Mediasite/Play/b3f9ef47d7df4cd19fd947ac4ca6a31e1d",
         "accessVerified": true
       },
@@ -65,7 +65,7 @@
         "title": "SPECT and SPECT/CT Artefacts",
         "url": "https://iaea.mediasite.com/Mediasite/Play/50df6dadd8134de79a84c9822529ee391d",
         "provider": "IAEA Human Health Campus / IAEA Mediasite",
-        "durationSeconds": 1071.0,
+        "durationSeconds": 1071,
         "sourceUrl": "https://iaea.mediasite.com/Mediasite/Play/50df6dadd8134de79a84c9822529ee391d",
         "accessVerified": true
       },
@@ -74,7 +74,7 @@
         "title": "PET and PET/CT Artefacts",
         "url": "https://iaea.mediasite.com/Mediasite/Play/bce7200dc8644a3abb8cf9435f33b3f51d",
         "provider": "IAEA Human Health Campus / IAEA Mediasite",
-        "durationSeconds": 1569.0,
+        "durationSeconds": 1569,
         "sourceUrl": "https://iaea.mediasite.com/Mediasite/Play/bce7200dc8644a3abb8cf9435f33b3f51d",
         "accessVerified": true
       },
@@ -83,7 +83,7 @@
         "title": "PET/MR Physics",
         "url": "https://iaea.mediasite.com/Mediasite/Play/02c3e0891ff54d399cd6c97edd1eeb3e1d",
         "provider": "IAEA Human Health Campus / IAEA Mediasite",
-        "durationSeconds": 1851.0,
+        "durationSeconds": 1851,
         "sourceUrl": "https://iaea.mediasite.com/Mediasite/Play/02c3e0891ff54d399cd6c97edd1eeb3e1d",
         "accessVerified": true
       },
@@ -92,7 +92,7 @@
         "title": "Quality Control of Non-Imaging Equipment",
         "url": "https://iaea.mediasite.com/Mediasite/Play/ad9adc4bc9504632851f8cd939ebc7e61d",
         "provider": "IAEA Human Health Campus / IAEA Mediasite",
-        "durationSeconds": 1370.0,
+        "durationSeconds": 1370,
         "sourceUrl": "https://iaea.mediasite.com/Mediasite/Play/ad9adc4bc9504632851f8cd939ebc7e61d",
         "accessVerified": true
       },
@@ -101,7 +101,7 @@
         "title": "Nuclear Medicine Imaging QC",
         "url": "https://iaea.mediasite.com/Mediasite/Play/be3d27eb74a44032a33ccba79f258c161d",
         "provider": "IAEA Human Health Campus / IAEA Mediasite",
-        "durationSeconds": 2022.0,
+        "durationSeconds": 2022,
         "sourceUrl": "https://iaea.mediasite.com/Mediasite/Play/be3d27eb74a44032a33ccba79f258c161d",
         "accessVerified": true
       },
@@ -164,7 +164,7 @@
         "title": "IAEA/ESNM Webinar - Myocardial Perfusion Scintigraphy in Paediatric Cardiology",
         "url": "https://www.youtube.com/watch?v=EK0zU632fps",
         "provider": "International Atomic Energy Agency / European Association of Nuclear Medicine webinar",
-        "durationSeconds": 1381.0,
+        "durationSeconds": 1381,
         "sourceUrl": "https://www.iaea.org/resources/webinar/myocardial-perfusion-scintigraphy-in-paediatric-cardiology",
         "accessVerified": true
       },
@@ -173,7 +173,7 @@
         "title": "IAEA/ESNM Webinar - Lung Perfusion Scintigraphy in Paediatric Cardiology",
         "url": "https://www.youtube.com/watch?v=-peqrF_pNLc",
         "provider": "International Atomic Energy Agency / European Association of Nuclear Medicine webinar",
-        "durationSeconds": 1231.0,
+        "durationSeconds": 1231,
         "sourceUrl": "https://www.iaea.org/resources/webinar/lung-perfusion-scintigraphy-in-paediatric-cardiology",
         "accessVerified": true
       },
@@ -182,7 +182,7 @@
         "title": "IAEA/EANM webinar - The (Patho)physiology of Bone turnover - Basic Nuclear Medicine webinars series",
         "url": "https://www.youtube.com/watch?v=kLtw0qFYuRU",
         "provider": "International Atomic Energy Agency / European Association of Nuclear Medicine webinar",
-        "durationSeconds": 2503.0,
+        "durationSeconds": 2503,
         "sourceUrl": "https://www.iaea.org/resources/webinar/the-pathophysiology-of-bone-turnover",
         "accessVerified": true
       },
@@ -191,7 +191,7 @@
         "title": "IAEA/EANM webinar - Stress Testing Protocols - Basic Nuclear Medicine webinars series",
         "url": "https://www.youtube.com/watch?v=i8W8I9mKcC8",
         "provider": "International Atomic Energy Agency / European Association of Nuclear Medicine webinar",
-        "durationSeconds": 1272.0,
+        "durationSeconds": 1272,
         "sourceUrl": "https://www.iaea.org/resources/webinar/stress-testing-protocols",
         "accessVerified": true
       },
@@ -200,7 +200,7 @@
         "title": "How to read FDG PET. Part One",
         "url": "https://www.youtube.com/watch?v=mbpZqxuwjdE",
         "provider": "Australian Dementia Network (ADNeT)",
-        "durationSeconds": 3572.0,
+        "durationSeconds": 3572,
         "sourceUrl": "https://www.australiandementianetwork.org.au/2021/11/02/training-videos-reading-pet-scans/",
         "accessVerified": true
       },
@@ -209,7 +209,7 @@
         "title": "Cases- Reading FDG PET Part Two",
         "url": "https://www.youtube.com/watch?v=amNb8tpA4N4",
         "provider": "Australian Dementia Network (ADNeT)",
-        "durationSeconds": 3852.0,
+        "durationSeconds": 3852,
         "sourceUrl": "https://www.australiandementianetwork.org.au/2021/11/02/training-videos-reading-pet-scans/",
         "accessVerified": true
       },
@@ -218,7 +218,7 @@
         "title": "Amyloid PET Brain Imaging",
         "url": "https://www.youtube.com/watch?v=CNcBQ_Wxs2g",
         "provider": "Australian Dementia Network (ADNeT)",
-        "durationSeconds": 2297.0,
+        "durationSeconds": 2297,
         "sourceUrl": "https://www.youtube.com/@australiandementianetwork9099",
         "accessVerified": true
       },
@@ -245,7 +245,7 @@
         "title": "Release of Patients After Radionuclide Therapy: Radiation Protection Considerations",
         "url": "https://iaea.mediasite.com/Mediasite/Play/041eef23b2e24bc29c275a4903379f1f1d",
         "provider": "International Atomic Energy Agency, Radiation Protection of Patients (RPOP)",
-        "durationSeconds": 3403.0,
+        "durationSeconds": 3403,
         "sourceUrl": "https://www.iaea.org/resources/webinar/release-of-patients-after-radionuclide-therapy-radiation-protection-considerations",
         "accessVerified": true
       },
@@ -254,7 +254,7 @@
         "title": "Radiation Protection in Nuclear Medicine: Best Practice",
         "url": "https://iaea.mediasite.com/Mediasite/Play/7918afe661544fd293e122f1b74e520f1d",
         "provider": "International Atomic Energy Agency, Radiation Protection of Patients (RPOP)",
-        "durationSeconds": 4706.0,
+        "durationSeconds": 4706,
         "sourceUrl": "https://www.iaea.org/resources/webinar/radiation-protection-in-nuclear-medicine-best-practice",
         "accessVerified": true
       },
@@ -263,8 +263,17 @@
         "title": "Radiation Protection of Patients in Nuclear Medicine: Diagnostic Reference Levels and Accuracy of Activity Meters",
         "url": "https://iaea.mediasite.com/Mediasite/Play/03b8103f620f465eadd18b6a85f11bc71d",
         "provider": "International Atomic Energy Agency, Radiation Protection of Patients (RPOP)",
-        "durationSeconds": 4481.0,
+        "durationSeconds": 4481,
         "sourceUrl": "https://www.iaea.org/resources/webinar/radiation-protection-of-patients-in-nuclear-medicine-diagnostic-reference-levels-and-accuracy-of-activity-meters",
+        "accessVerified": true
+      },
+      {
+        "id": "IAEA-ADD-ASIASAFE-SAFE-NUCLIDES-2026",
+        "title": "AsiaSafe, AOSR–IAEA webinar: Safe Use of Radionuclides",
+        "url": "https://iaea.mediasite.com/Mediasite/Play/cc53a184b0c44112a243eca0890acce01d",
+        "provider": "International Atomic Energy Agency (IAEA), Radiation Protection of Patients",
+        "durationSeconds": 4333,
+        "sourceUrl": "https://www.iaea.org/resources/rpop/resources/webinars",
         "accessVerified": true
       }
     ],
@@ -301,7 +310,8 @@
           "IAEA-ADD-RP-NEW-RADTHERAPY-2024",
           "IAEA-ADD-RP-RELEASE-2025",
           "IAEA-ADD-RP-NM-BEST-PRACTICE-2022",
-          "IAEA-ADD-DRL-ACTIVITY-METERS-2022"
+          "IAEA-ADD-DRL-ACTIVITY-METERS-2022",
+          "IAEA-ADD-ASIASAFE-SAFE-NUCLIDES-2026"
         ]
       },
       {
@@ -350,7 +360,8 @@
           "IAEA-ADD-BONE-TURNOVER",
           "IAEA-ADD-RADTHERAPY-EVENTS-2020",
           "IAEA-ADD-RP-NEW-RADTHERAPY-2024",
-          "IAEA-ADD-RP-RELEASE-2025"
+          "IAEA-ADD-RP-RELEASE-2025",
+          "IAEA-ADD-ASIASAFE-SAFE-NUCLIDES-2026"
         ]
       },
       {
@@ -398,11 +409,11 @@
     ],
     "boardStatus": "No separate PET/CT-fellowship-specific board or certificate identified. ABNM certification is a separate primary specialty pathway with training, supervised clinical experience, licensure and examination requirements. ABR offers a distinct Nuclear Radiology subspecialty exam for eligible radiologists. Hopkins calls this PET/CT fellowship Non-Standard; programme completion alone does not establish ABR/ABNM eligibility.",
     "boardEligibilityNotice": "This self-study course confers no eligibility. Verify current pathway directly with ABNM/ABR and training sponsor; board-specific accreditation, prior residency, supervised clinical/procedural volume, NRC 10 CFR 35 experience, director attestation and licensure remain controlling.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 14.781075891944443,
-    "verifiedSpecialtyHours": 9.767187003055556,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 15.984687003055555,
+    "verifiedSpecialtyHours": 10.970798114166666,
     "verifiedFoundationHours": 5.013888888888889,
-    "hoursGap": 21.218924108055557,
+    "hoursGap": 20.015312996944445,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -528,7 +539,7 @@
         "title": "IAEA/EANM webinar: Basic PET physics and instrumentation (Part 1)",
         "url": "https://www.youtube.com/watch?v=r_vMWm4330Q",
         "provider": "International Atomic Energy Agency / EANM (IAEAhumanhealth)",
-        "durationSeconds": 2741.0,
+        "durationSeconds": 2741,
         "sourceUrl": "https://www.youtube.com/watch?v=r_vMWm4330Q",
         "accessVerified": true
       },
@@ -537,7 +548,7 @@
         "title": "IAEA/EANM webinar: Basic PET physics and instrumentation (Part 2)",
         "url": "https://www.youtube.com/watch?v=PNIUGBUBMfU",
         "provider": "International Atomic Energy Agency / EANM (IAEAhumanhealth)",
-        "durationSeconds": 3358.0,
+        "durationSeconds": 3358,
         "sourceUrl": "https://www.youtube.com/watch?v=PNIUGBUBMfU",
         "accessVerified": true
       },
@@ -546,7 +557,7 @@
         "title": "IAEA/EANM webinar: (Radio)Tracer Development",
         "url": "https://www.youtube.com/watch?v=v6-qlXB3--M",
         "provider": "International Atomic Energy Agency / EANM (IAEAhumanhealth)",
-        "durationSeconds": 2984.0,
+        "durationSeconds": 2984,
         "sourceUrl": "https://www.youtube.com/watch?v=v6-qlXB3--M",
         "accessVerified": true
       },
@@ -555,7 +566,7 @@
         "title": "PET Imaging: Introduction (Part 1) [L33]",
         "url": "https://www.youtube.com/watch?v=tkTxNEFyO7Y",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1506.0,
+        "durationSeconds": 1506,
         "sourceUrl": "https://www.youtube.com/watch?v=tkTxNEFyO7Y",
         "accessVerified": true
       },
@@ -564,7 +575,7 @@
         "title": "What is the Standard Uptake Value (SUV) in PET and SPECT Imaging? [L38]",
         "url": "https://www.youtube.com/watch?v=nmT9RrNxzK0",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 2645.0,
+        "durationSeconds": 2645,
         "sourceUrl": "https://www.youtube.com/watch?v=nmT9RrNxzK0",
         "accessVerified": true
       },
@@ -573,7 +584,7 @@
         "title": "PET Imaging: Important Technical Advancements (Part 3) [L35]",
         "url": "https://www.youtube.com/watch?v=udgz7zmFp1c",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1648.0,
+        "durationSeconds": 1648,
         "sourceUrl": "https://www.youtube.com/watch?v=udgz7zmFp1c",
         "accessVerified": true
       },
@@ -582,7 +593,7 @@
         "title": "Clinical Application of Total Body PET/CT",
         "url": "https://www.youtube.com/watch?v=OuoLEuSE7oY",
         "provider": "UVA Radiology and Medical Imaging",
-        "durationSeconds": 3663.0,
+        "durationSeconds": 3663,
         "sourceUrl": "https://www.youtube.com/watch?v=OuoLEuSE7oY",
         "accessVerified": true
       },
@@ -591,7 +602,7 @@
         "title": "Current Radiopharmaceutical Theranostic Applications in Nuclear Medicine",
         "url": "https://www.youtube.com/watch?v=MnxyZdrkEP0",
         "provider": "Medality (formerly MRI Online), Steven Rowe, MD",
-        "durationSeconds": 3757.0,
+        "durationSeconds": 3757,
         "sourceUrl": "https://www.youtube.com/watch?v=MnxyZdrkEP0",
         "accessVerified": true
       },
@@ -609,7 +620,7 @@
         "title": "What is Nuclear Medicine? [L2]",
         "url": "https://www.youtube.com/watch?v=goVDpdc-dqs",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1545.0,
+        "durationSeconds": 1545,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -618,7 +629,7 @@
         "title": "The Chart of Nuclides [L4]",
         "url": "https://www.youtube.com/watch?v=LrT54ADacss",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 2112.0,
+        "durationSeconds": 2112,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -627,7 +638,7 @@
         "title": "Types of Nuclear Decay [L5]",
         "url": "https://www.youtube.com/watch?v=M9nXYXq7vZk",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 2567.0,
+        "durationSeconds": 2567,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -636,7 +647,7 @@
         "title": "Radioactivity and the Units [L6]",
         "url": "https://www.youtube.com/watch?v=X84Stiw7wd0",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1986.0,
+        "durationSeconds": 1986,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -645,7 +656,7 @@
         "title": "Chemical and Nuclear Reactions [L9]",
         "url": "https://www.youtube.com/watch?v=p0WyR45UISA",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1667.0,
+        "durationSeconds": 1667,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -654,7 +665,7 @@
         "title": "Interaction of Radiation with Matter [L11]",
         "url": "https://www.youtube.com/watch?v=P7wjj_vcBBc",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1510.0,
+        "durationSeconds": 1510,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -663,7 +674,7 @@
         "title": "Radiation Detection [L12]",
         "url": "https://www.youtube.com/watch?v=3tDbVCMyN1s",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1516.0,
+        "durationSeconds": 1516,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -672,7 +683,7 @@
         "title": "Basic Statistics in Nuclear Medicine [L13]",
         "url": "https://www.youtube.com/watch?v=I1_91tHKJqk",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1938.0,
+        "durationSeconds": 1938,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -681,7 +692,7 @@
         "title": "Pulse Processing [L14]",
         "url": "https://www.youtube.com/watch?v=CsNNo7A-bTs",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 3702.0,
+        "durationSeconds": 3702,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -690,7 +701,7 @@
         "title": "Basic Radiation Detectors [L17]",
         "url": "https://www.youtube.com/watch?v=9YP05afFl28",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 3215.0,
+        "durationSeconds": 3215,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -699,7 +710,7 @@
         "title": "Photomultiplier Tube and Gamma Camera Detectors [L21]",
         "url": "https://www.youtube.com/watch?v=fOAS8GJNKPY",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 2353.0,
+        "durationSeconds": 2353,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -708,7 +719,7 @@
         "title": "Collimators Used in Modern Medical Imaging (Part 1) [L27]",
         "url": "https://www.youtube.com/watch?v=ytqMs_iFTJ8",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1556.0,
+        "durationSeconds": 1556,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -717,7 +728,7 @@
         "title": "Tomographic Image Reconstruction: Analytical Methods (Part 2) [L29]",
         "url": "https://www.youtube.com/watch?v=xVQzw_TM3Ss",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1891.0,
+        "durationSeconds": 1891,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -726,7 +737,7 @@
         "title": "PET Imaging: Detection & Design (Part 2) [L34]",
         "url": "https://www.youtube.com/watch?v=QsU3TrgArJw",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1224.0,
+        "durationSeconds": 1224,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -735,7 +746,7 @@
         "title": "PET Imaging: Data Corrections (Part 4) [L36]",
         "url": "https://www.youtube.com/watch?v=ja00IX_cf1Y",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 3066.0,
+        "durationSeconds": 3066,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -744,7 +755,7 @@
         "title": "PET Imaging: More Data Corrections (Part 5) [L37]",
         "url": "https://www.youtube.com/watch?v=jWs4GcG5Aek",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1429.0,
+        "durationSeconds": 1429,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -753,7 +764,7 @@
         "title": "Introduction To Kinetic Modeling (Part 1) [L39]",
         "url": "https://www.youtube.com/watch?v=W2_OZYsAOoA",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1487.0,
+        "durationSeconds": 1487,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -762,7 +773,7 @@
         "title": "Introduction to Kinetic Modeling (Part 2) [L40]",
         "url": "https://www.youtube.com/watch?v=jgc9-k7Rd2U",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 2308.0,
+        "durationSeconds": 2308,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -771,7 +782,7 @@
         "title": "Quality Assurance/Control in Nuclear Medicine [L41]",
         "url": "https://www.youtube.com/watch?v=8sMLSkwEKWU",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 3978.0,
+        "durationSeconds": 3978,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -780,7 +791,7 @@
         "title": "Simulation Software To Better Understand Nuc Med Imaging [L42]",
         "url": "https://www.youtube.com/watch?v=r_8od9-PudI",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1713.0,
+        "durationSeconds": 1713,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -789,7 +800,7 @@
         "title": "Internal Dosimetry: Quantitative Imaging (Part 1) [L45]",
         "url": "https://www.youtube.com/watch?v=qrsseskq4ak",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1092.0,
+        "durationSeconds": 1092,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -798,7 +809,7 @@
         "title": "Internal Dosimetry: Quantitative Imaging (Iterative Image Reconstruction) (Part 2) [L46]",
         "url": "https://www.youtube.com/watch?v=ZAoLMVO0Ox0",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1896.0,
+        "durationSeconds": 1896,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -807,7 +818,7 @@
         "title": "Internal Dosimetry: Dose & Biological Considerations (Part 3) [L47]",
         "url": "https://www.youtube.com/watch?v=r9ppnbLl29U",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1512.0,
+        "durationSeconds": 1512,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -816,7 +827,7 @@
         "title": "Internal Dosimetry: Radiopharmaceutical Therapies (Part 4) [L48]",
         "url": "https://www.youtube.com/watch?v=w6Cd9nrr4r0",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 1083.0,
+        "durationSeconds": 1083,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -825,7 +836,7 @@
         "title": "Internal Dosimetry: S-Values & Dose Estimation Techniques (Part 5) [L49]",
         "url": "https://www.youtube.com/watch?v=TW7YOa1FGS8",
         "provider": "Molecular Imaging & Therapy",
-        "durationSeconds": 2026.0,
+        "durationSeconds": 2026,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0FpKQ-EgTObAsB7r1bGbdBdOkt5f1W-z",
         "accessVerified": true
       },
@@ -834,7 +845,7 @@
         "title": "Current and Emerging Applications of PSMA PET",
         "url": "https://www.youtube.com/watch?v=NZizSPC7EEY",
         "provider": "Labroots",
-        "durationSeconds": 1775.0,
+        "durationSeconds": 1775,
         "sourceUrl": "https://www.youtube.com/watch?v=NZizSPC7EEY",
         "accessVerified": true
       },
@@ -843,7 +854,7 @@
         "title": "Nuclear Medicine in Oncology Workshop: PET/CT imaging (clinical lecture)",
         "url": "https://www.youtube.com/watch?v=3WQYKx0S3fg",
         "provider": "Society for Translational Oncology",
-        "durationSeconds": 1446.0,
+        "durationSeconds": 1446,
         "sourceUrl": "https://www.youtube.com/watch?v=3WQYKx0S3fg",
         "accessVerified": true
       },
@@ -852,7 +863,7 @@
         "title": "Current and Emerging Applications of PSMA PET",
         "url": "https://www.youtube.com/watch?v=csbar7Y9DuE",
         "provider": "Nuclear Medicine Webinar / professional society education",
-        "durationSeconds": 4158.0,
+        "durationSeconds": 4158,
         "sourceUrl": "https://www.youtube.com/watch?v=csbar7Y9DuE",
         "accessVerified": true
       },
@@ -861,7 +872,7 @@
         "title": "Radiation Protection in Nuclear Medicine",
         "url": "https://www.youtube.com/watch?v=KHj_GN1IH4o",
         "provider": "IOMP Official",
-        "durationSeconds": 3723.0,
+        "durationSeconds": 3723,
         "sourceUrl": "https://www.youtube.com/watch?v=KHj_GN1IH4o",
         "accessVerified": true
       },
@@ -870,7 +881,7 @@
         "title": "Nuclear Medicine and PET/CT Imaging: In the Department",
         "url": "https://www.youtube.com/watch?v=cQyoI8Kxglw",
         "provider": "NCITA Imaging",
-        "durationSeconds": 1677.0,
+        "durationSeconds": 1677,
         "sourceUrl": "https://www.youtube.com/watch?v=cQyoI8Kxglw",
         "accessVerified": true
       },
@@ -879,7 +890,7 @@
         "title": "Internal Dosimetry A Beginner's Guide",
         "url": "https://www.youtube.com/watch?v=byhWVXCDu_U",
         "provider": "The Society for Radiological Protection",
-        "durationSeconds": 3408.0,
+        "durationSeconds": 3408,
         "sourceUrl": "https://www.youtube.com/watch?v=byhWVXCDu_U",
         "accessVerified": true
       },
@@ -888,7 +899,7 @@
         "title": "Introduction to radiopharmaceutical dosimetry",
         "url": "https://www.youtube.com/watch?v=dvqDLtV7nlk",
         "provider": "KCORwOZ",
-        "durationSeconds": 2334.0,
+        "durationSeconds": 2334,
         "sourceUrl": "https://www.youtube.com/watch?v=dvqDLtV7nlk",
         "accessVerified": true
       },
@@ -897,7 +908,7 @@
         "title": "Absorbed dose calculations | Nuclear Medicine Dose Assessment | Radiopharmaceutical Dosimetry",
         "url": "https://www.youtube.com/watch?v=_RqChifrRzU",
         "provider": "Nuclear Medicine Solutions",
-        "durationSeconds": 2243.0,
+        "durationSeconds": 2243,
         "sourceUrl": "https://www.youtube.com/watch?v=_RqChifrRzU",
         "accessVerified": true
       },
@@ -906,7 +917,7 @@
         "title": "Framework for PET/CT",
         "url": "https://www.youtube.com/watch?v=OtQ-OSRMBQM",
         "provider": "Radiology Frameworks",
-        "durationSeconds": 1738.0,
+        "durationSeconds": 1738,
         "sourceUrl": "https://www.youtube.com/watch?v=OtQ-OSRMBQM",
         "accessVerified": true
       },
@@ -915,7 +926,7 @@
         "title": "WFNMB/EANM - Road to Kyoto: The Future of Theranostics is in Nuclear Medicine",
         "url": "https://www.youtube.com/watch?v=IoLansR3WEU",
         "provider": "World Federation of Nuclear Medicine and Biology / European Association of Nuclear Medicine",
-        "durationSeconds": 3908.0,
+        "durationSeconds": 3908,
         "sourceUrl": "https://www.youtube.com/watch?v=IoLansR3WEU",
         "accessVerified": true
       },
@@ -924,7 +935,7 @@
         "title": "AsiaSafe | AOSR-IAEA webinar: Nuclear Medicine Therapeutics and Theranostics: An Overview",
         "url": "https://www.youtube.com/watch?v=w3JiWz2PVxo",
         "provider": "Asian Oceanian Society of Radiology (AOSR), in cooperation with IAEA",
-        "durationSeconds": 1452.0,
+        "durationSeconds": 1452,
         "sourceUrl": "https://www.youtube.com/watch?v=w3JiWz2PVxo",
         "accessVerified": true
       },
@@ -933,7 +944,7 @@
         "title": "WARMTH ICRT 2020 - Prostate Cancer",
         "url": "https://www.youtube.com/watch?v=cKw73ndMCAQ",
         "provider": "World Association of Radiopharmaceutical and Molecular Therapy (WARMTH)",
-        "durationSeconds": 3830.0,
+        "durationSeconds": 3830,
         "sourceUrl": "https://www.youtube.com/watch?v=cKw73ndMCAQ",
         "accessVerified": true
       },
@@ -942,7 +953,7 @@
         "title": "SNMMI 2023 Patient Education Day - Neuroendocrine Tumors",
         "url": "https://www.youtube.com/watch?v=HnFnYJaMmXk",
         "provider": "Society of Nuclear Medicine and Molecular Imaging (SNMMI)",
-        "durationSeconds": 4923.0,
+        "durationSeconds": 4923,
         "sourceUrl": "https://www.youtube.com/watch?v=HnFnYJaMmXk",
         "accessVerified": true
       },
@@ -951,7 +962,7 @@
         "title": "Webinar Series: Theragnostic Principles in Managing NET Tumours",
         "url": "https://www.youtube.com/watch?v=6WG_sEieypY",
         "provider": "PET-CT Academy",
-        "durationSeconds": 3910.0,
+        "durationSeconds": 3910,
         "sourceUrl": "https://www.youtube.com/watch?v=6WG_sEieypY",
         "accessVerified": true
       },
@@ -960,7 +971,7 @@
         "title": "Radiology Grand Rounds: Theranostics for Neuroendocrine Tumors - a New Era",
         "url": "https://www.youtube.com/watch?v=NW4wuo3zpZ4",
         "provider": "LSU Health Shreveport",
-        "durationSeconds": 4346.0,
+        "durationSeconds": 4346,
         "sourceUrl": "https://www.youtube.com/watch?v=NW4wuo3zpZ4",
         "accessVerified": true
       },
@@ -969,7 +980,7 @@
         "title": "MPWB Webinar: Radionuclide Dosimetry and the Rise of Theranostics",
         "url": "https://www.youtube.com/watch?v=6tDQOTRLI9I",
         "provider": "Medical Physics for World Benefit",
-        "durationSeconds": 3480.0,
+        "durationSeconds": 3480,
         "sourceUrl": "https://www.youtube.com/watch?v=6tDQOTRLI9I",
         "accessVerified": true
       },
@@ -978,7 +989,7 @@
         "title": "WARMTH ICRT 2020 - Neuroendocrine Tumors",
         "url": "https://www.youtube.com/watch?v=hKQX8eHFTrU",
         "provider": "World Association of Radiopharmaceutical and Molecular Therapy (WARMTH)",
-        "durationSeconds": 3360.0,
+        "durationSeconds": 3360,
         "sourceUrl": "https://www.youtube.com/watch?v=hKQX8eHFTrU",
         "accessVerified": true
       },
@@ -987,7 +998,7 @@
         "title": "Nuclear Medicine for NETs",
         "url": "https://www.youtube.com/watch?v=lIycm220RBE",
         "provider": "Neuroendocrine Tumor Research Foundation (NETRF)",
-        "durationSeconds": 2485.0,
+        "durationSeconds": 2485,
         "sourceUrl": "https://www.youtube.com/watch?v=lIycm220RBE",
         "accessVerified": true
       },
@@ -996,7 +1007,7 @@
         "title": "Radiopeptides for diagnosis (receptor PET/CT) and therapy (PRRT)",
         "url": "https://www.youtube.com/watch?v=vHbgCHdWg4E",
         "provider": "Canadian Neuroendocrine Tumour Society (CNETS)",
-        "durationSeconds": 3481.0,
+        "durationSeconds": 3481,
         "sourceUrl": "https://www.youtube.com/watch?v=vHbgCHdWg4E",
         "accessVerified": true
       }
@@ -1231,11 +1242,11 @@
     ],
     "boardStatus": "The Emory PET/CT Molecular Imaging and Theragnostics Fellowship is a clinical-research fellowship, not a specialty residency. Emory separately lists a Nuclear Medicine Residency and a Nuclear Radiology Fellowship. ABNM offers a separate Nuclear Medicine certification examination; ABR offers a separate Nuclear Radiology Subspecialty Exam. There is no separate PET/CT Molecular Imaging and Theragnostics board exam identified by Emory, ABNM or ABR in the official sources reviewed.",
     "boardEligibilityNotice": "Emory states PET/CT fellowship applicants must have completed a nuclear medicine or radiology residency and be ABNM or ABR board eligible/certified, plus be eligible for unrestricted Georgia licensure. Completing this PET/CT fellowship does not itself confer ABNM/ABR eligibility, subspecialty certification, Georgia licensure, or NRC authorized-user status. ABNM and ABR eligibility is determined by the respective boards and accredited training requirements; verify individually.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 36.20861111111111,
     "verifiedSpecialtyHours": 15.151666666666667,
     "verifiedFoundationHours": 21.056944444444444,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1263,7 +1274,7 @@
       "plan": "36 hours video target + 48 hours focused source reading + 36 hours fictional case/assignment work + 24 hours retrieval practice and review. This is a suggested independent-study plan, not observed teaching or clinical training."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-075_777945d4.pdf",
+    "syllabusUrl": "/manus-storage/MED-075_e41b3d00.pdf",
     "pdfIds": [
       "med-syllabus-MED-075",
       "med-reading-e9a13eccb250",
@@ -1279,7 +1290,7 @@
         "title": "Preparing a Patient for Pediatric Echocardiogram",
         "url": "https://www.youtube.com/watch?v=rjhAf3NUp-M",
         "provider": "Medmastery (official YouTube channel)",
-        "durationSeconds": 167.0,
+        "durationSeconds": 167,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLu9YtE2mzBbP5adDzRpZFnYwB3Y9C2Bsj",
         "accessVerified": true
       },
@@ -1288,7 +1299,7 @@
         "title": "Evaluating Transposition of the Great Arteries (TGA) Pre-Surgery with Echocardiography",
         "url": "https://www.youtube.com/watch?v=86itEB38EOE",
         "provider": "Medmastery (official YouTube channel)",
-        "durationSeconds": 418.0,
+        "durationSeconds": 418,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLu9YtE2mzBbP5adDzRpZFnYwB3Y9C2Bsj",
         "accessVerified": true
       },
@@ -1297,7 +1308,7 @@
         "title": "Assessing Tetralogy of Fallot Using Echocardiography",
         "url": "https://www.youtube.com/watch?v=FC7IRCtyMIo",
         "provider": "Medmastery (official YouTube channel)",
-        "durationSeconds": 339.0,
+        "durationSeconds": 339,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLu9YtE2mzBbP5adDzRpZFnYwB3Y9C2Bsj",
         "accessVerified": true
       },
@@ -1306,7 +1317,7 @@
         "title": "How to Assess the Hemodynamics of Atrial Septal Defects (ASD)",
         "url": "https://www.youtube.com/watch?v=DM29tak7hvQ",
         "provider": "Medmastery (official YouTube channel)",
-        "durationSeconds": 283.0,
+        "durationSeconds": 283,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLu9YtE2mzBbP5adDzRpZFnYwB3Y9C2Bsj",
         "accessVerified": true
       },
@@ -1315,7 +1326,7 @@
         "title": "Mastering Parasternal Views in Pediatric Echocardiography",
         "url": "https://www.youtube.com/watch?v=NSyD6I8eAcw",
         "provider": "Medmastery (official YouTube channel)",
-        "durationSeconds": 404.0,
+        "durationSeconds": 404,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLu9YtE2mzBbP5adDzRpZFnYwB3Y9C2Bsj",
         "accessVerified": true
       },
@@ -1324,7 +1335,7 @@
         "title": "Understanding Sequential Segmental Analysis in Pediatric Echocardiography",
         "url": "https://www.youtube.com/watch?v=GShrjVL_EYc",
         "provider": "Medmastery (official YouTube channel)",
-        "durationSeconds": 174.0,
+        "durationSeconds": 174,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLu9YtE2mzBbP5adDzRpZFnYwB3Y9C2Bsj",
         "accessVerified": true
       },
@@ -1333,7 +1344,7 @@
         "title": "Tips and Tricks for Successful Pediatric Echocardiograms",
         "url": "https://www.youtube.com/watch?v=4nR7WYw64w8",
         "provider": "Medmastery (official YouTube channel)",
-        "durationSeconds": 290.0,
+        "durationSeconds": 290,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLu9YtE2mzBbP5adDzRpZFnYwB3Y9C2Bsj",
         "accessVerified": true
       },
@@ -1342,7 +1353,7 @@
         "title": "Comprehensive TEE in Children and Patients with CHD Webinar",
         "url": "https://www.youtube.com/watch?v=s9x3Cllk-AM",
         "provider": "ASE360 (official YouTube channel)",
-        "durationSeconds": 2948.0,
+        "durationSeconds": 2948,
         "sourceUrl": "https://www.youtube.com/watch?v=s9x3Cllk-AM",
         "accessVerified": true
       },
@@ -1351,7 +1362,7 @@
         "title": "3D Echo in Congenital Heart Disease Webinar",
         "url": "https://www.youtube.com/watch?v=deVkGDmuTC4",
         "provider": "ASE360 (official YouTube channel)",
-        "durationSeconds": 3517.0,
+        "durationSeconds": 3517,
         "sourceUrl": "https://www.youtube.com/watch?v=deVkGDmuTC4",
         "accessVerified": true
       },
@@ -1360,7 +1371,7 @@
         "title": "Cardiac CT in Congenital Heart Disease (B. Kelly Han, MD, Valeria Duarte, MD)",
         "url": "https://www.youtube.com/watch?v=C9Sxh6Juy3U",
         "provider": "Houston Methodist DeBakey CV Education (official YouTube channel)",
-        "durationSeconds": 4583.0,
+        "durationSeconds": 4583,
         "sourceUrl": "https://www.youtube.com/watch?v=C9Sxh6Juy3U",
         "accessVerified": true
       },
@@ -1369,7 +1380,7 @@
         "title": "Overview of Congenital Heart Disease CT/MRI",
         "url": "https://www.youtube.com/watch?v=01A3jGynXz0",
         "provider": "Dr Vimal Raj / Narayana Institute of Cardiac Sciences (public lecture channel)",
-        "durationSeconds": 1807.0,
+        "durationSeconds": 1807,
         "sourceUrl": "https://www.youtube.com/watch?v=C9Sxh6Juy3U",
         "accessVerified": true
       },
@@ -1378,7 +1389,7 @@
         "title": "Congenital Heart Disease I: A Primer for the Imager (C. Huie Lin, MD, PhD)",
         "url": "https://www.youtube.com/watch?v=xUYk_dVNVHY",
         "provider": "Houston Methodist DeBakey CV Education (official YouTube channel)",
-        "durationSeconds": 3311.0,
+        "durationSeconds": 3311,
         "sourceUrl": "https://www.youtube.com/watch?v=C9Sxh6Juy3U",
         "accessVerified": true
       },
@@ -1387,7 +1398,7 @@
         "title": "Segmental Analysis Of Congenital Heart Disease",
         "url": "https://www.youtube.com/watch?v=hvnaph4s5ys",
         "provider": "Congenital Heart Academy / Prof. Anderson Classroom",
-        "durationSeconds": 4428.0,
+        "durationSeconds": 4428,
         "sourceUrl": "https://www.youtube.com/watch?v=hvnaph4s5ys",
         "accessVerified": true
       },
@@ -1396,7 +1407,7 @@
         "title": "Pediatric echo protocol",
         "url": "https://www.youtube.com/watch?v=vaohLe4pUq0",
         "provider": "Pediatric echo: A how to guide",
-        "durationSeconds": 3082.0,
+        "durationSeconds": 3082,
         "sourceUrl": "https://www.youtube.com/@pediatricechoahowtoguide2005",
         "accessVerified": true
       },
@@ -1405,7 +1416,7 @@
         "title": "Basic Fetal Echo Protocol and Optimization",
         "url": "https://www.youtube.com/watch?v=qSqH9z7AAAE",
         "provider": "Joe Kreeger, fetal cardiac sonographer / educator",
-        "durationSeconds": 3131.0,
+        "durationSeconds": 3131,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLQ3JXiR1Iuux8Q4b6EM2UHOd2D8MZAWLM",
         "accessVerified": true
       },
@@ -1414,7 +1425,7 @@
         "title": "Fetal Doppler Assessment - Normal and Abnormal Fetal Hearts",
         "url": "https://www.youtube.com/watch?v=5ijdHuiHcqE",
         "provider": "Joe Kreeger, fetal cardiac sonographer / educator",
-        "durationSeconds": 2825.0,
+        "durationSeconds": 2825,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLQ3JXiR1Iuux8Q4b6EM2UHOd2D8MZAWLM",
         "accessVerified": true
       },
@@ -1423,7 +1434,7 @@
         "title": "Fetal Echo: Demystifying the 3VTV; common to complex abnormalities",
         "url": "https://www.youtube.com/watch?v=uEbYdPPaFIQ",
         "provider": "Joe Kreeger, fetal cardiac sonographer / educator",
-        "durationSeconds": 2860.0,
+        "durationSeconds": 2860,
         "sourceUrl": "https://www.youtube.com/@EchoKreeger",
         "accessVerified": true
       },
@@ -1432,7 +1443,7 @@
         "title": "Fetal Echocardiography: Evaluation of Fetal Arrhythmias",
         "url": "https://www.youtube.com/watch?v=8lWX7q-gYgw",
         "provider": "Joe Kreeger, fetal cardiac sonographer / educator",
-        "durationSeconds": 2259.0,
+        "durationSeconds": 2259,
         "sourceUrl": "https://www.youtube.com/@EchoKreeger",
         "accessVerified": true
       },
@@ -1441,7 +1452,7 @@
         "title": "Fetal Echocardiography: Technique for imaging late-gestation twins and multiples",
         "url": "https://www.youtube.com/watch?v=nywyNpLot88",
         "provider": "Joe Kreeger, fetal cardiac sonographer / educator",
-        "durationSeconds": 1726.0,
+        "durationSeconds": 1726,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLQ3JXiR1Iuux8Q4b6EM2UHOd2D8MZAWLM",
         "accessVerified": true
       },
@@ -1450,7 +1461,7 @@
         "title": "Introduction to Paediatric / Pediatric Echocardiograms and Common Critical Congenital Heart Defects",
         "url": "https://www.youtube.com/watch?v=ipkAb5RHF_M",
         "provider": "St. Michael's Hospital Virtual Echo Rounds / Unity Health Toronto",
-        "durationSeconds": 2354.0,
+        "durationSeconds": 2354,
         "sourceUrl": "https://www.youtube.com/@smhecho",
         "accessVerified": true
       },
@@ -1459,7 +1470,7 @@
         "title": "Case-based learning on congenital heart disease and shunts",
         "url": "https://www.youtube.com/watch?v=Tn9skPlui6s",
         "provider": "St. Michael's Hospital Virtual Echo Rounds / Unity Health Toronto",
-        "durationSeconds": 2431.0,
+        "durationSeconds": 2431,
         "sourceUrl": "https://www.youtube.com/@smhecho",
         "accessVerified": true
       },
@@ -1468,7 +1479,7 @@
         "title": "IMAGING AFTER FIRST STAGE SURGERY FOR SINGLE VENTRICLE. A PRATICAL GUIDE",
         "url": "https://www.youtube.com/watch?v=uQs2_qd9wSA",
         "provider": "Congenital Heart Academy / Prof. Meryl Cohen",
-        "durationSeconds": 3660.0,
+        "durationSeconds": 3660,
         "sourceUrl": "https://www.youtube.com/@CongenitalHeartAcademy",
         "accessVerified": true
       },
@@ -1477,7 +1488,7 @@
         "title": "Pediatric & Congenital Heart Talks: Heart Care Before Birth",
         "url": "https://www.youtube.com/watch?v=xcCWNw5OPg0",
         "provider": "Children's Hospital of Philadelphia (CHOP), Pediatric & Congenital Heart Talks",
-        "durationSeconds": 3161.0,
+        "durationSeconds": 3161,
         "sourceUrl": "https://www.chop.edu/centers-programs/cardiac-center/pediatric-congenital-heart-talks-video-series",
         "accessVerified": true
       },
@@ -1486,7 +1497,7 @@
         "title": "Pediatric & Congenital Heart Talks: Catheter-based Interventions — Standards for a New Approach",
         "url": "https://www.youtube.com/watch?v=v_127Y0mN5s",
         "provider": "Children's Hospital of Philadelphia (CHOP), Pediatric & Congenital Heart Talks",
-        "durationSeconds": 2731.0,
+        "durationSeconds": 2731,
         "sourceUrl": "https://open.chop.edu/courses/catheter-based-interventions-standards-for-a-new-approach/",
         "accessVerified": true
       },
@@ -1495,7 +1506,7 @@
         "title": "Pediatric & Congenital Heart Talks: Lymphatic System and Its Importance in Congenital Heart Disease",
         "url": "https://www.youtube.com/watch?v=bmsifGWo1uQ",
         "provider": "Children's Hospital of Philadelphia (CHOP), Pediatric & Congenital Heart Talks",
-        "durationSeconds": 4698.0,
+        "durationSeconds": 4698,
         "sourceUrl": "https://www.chop.edu/centers-programs/cardiac-center/pediatric-congenital-heart-talks-video-series",
         "accessVerified": true
       },
@@ -1504,7 +1515,7 @@
         "title": "Pediatric & Congenital Heart Talks: Understanding Valve Function in Congenital Heart Disease",
         "url": "https://www.youtube.com/watch?v=J5Wu-dSWjV4",
         "provider": "Children's Hospital of Philadelphia (CHOP), Pediatric & Congenital Heart Talks",
-        "durationSeconds": 2965.0,
+        "durationSeconds": 2965,
         "sourceUrl": "https://open.chop.edu/courses/understanding-valve-function-in-congenital-heart-disease/",
         "accessVerified": true
       },
@@ -1513,7 +1524,7 @@
         "title": "GE Webinar: Echocardiography Evaluation of Atrioventricular Canal Defects by Dr Siva Kumar",
         "url": "https://www.youtube.com/watch?v=ulBMBInbRiM",
         "provider": "GE HealthCare India",
-        "durationSeconds": 5291.0,
+        "durationSeconds": 5291,
         "sourceUrl": "https://www.youtube.com/@GEHealthCareIndiaYT",
         "accessVerified": true
       },
@@ -1522,7 +1533,7 @@
         "title": "How to build a Pediatric/Congenital joint CMR and CT program at your institution",
         "url": "https://www.youtube.com/watch?v=Bc2RwHLTzMI",
         "provider": "Society of Cardiovascular Computed Tomography (SCCT) with Society for Cardiovascular Magnetic Resonance (SCMR) Pediatric/CHD section",
-        "durationSeconds": 3274.0,
+        "durationSeconds": 3274,
         "sourceUrl": "https://www.youtube.com/watch?v=Bc2RwHLTzMI",
         "accessVerified": true
       },
@@ -1531,8 +1542,26 @@
         "title": "Double Outlet Right Ventricle",
         "url": "https://www.youtube.com/watch?v=VJ9xGI7dmbU",
         "provider": "Congenital Heart Academy",
-        "durationSeconds": 4336.0,
+        "durationSeconds": 4336,
         "sourceUrl": "https://www.youtube.com/@CongenitalHeartAcademy",
+        "accessVerified": true
+      },
+      {
+        "id": "yt-vuOIu41Nzcg",
+        "title": "Cardiac MRI in the Newborn",
+        "url": "https://www.youtube.com/watch?v=vuOIu41Nzcg",
+        "provider": "Neonatal Hemodynamics Research Centre",
+        "durationSeconds": 3958,
+        "sourceUrl": "https://www.youtube.com/watch?v=vuOIu41Nzcg",
+        "accessVerified": true
+      },
+      {
+        "id": "yt-s7T53I7ijsA",
+        "title": "Pediatric Cardiac Radiology Lecture",
+        "url": "https://www.youtube.com/watch?v=s7T53I7ijsA",
+        "provider": "RSNA Case Collection",
+        "durationSeconds": 3499,
+        "sourceUrl": "https://www.youtube.com/watch?v=s7T53I7ijsA",
         "accessVerified": true
       }
     ],
@@ -1547,7 +1576,8 @@
           "yt-hvnaph4s5ys",
           "yt-vaohLe4pUq0",
           "yt-uEbYdPPaFIQ",
-          "yt-VJ9xGI7dmbU"
+          "yt-VJ9xGI7dmbU",
+          "yt-s7T53I7ijsA"
         ]
       },
       {
@@ -1632,7 +1662,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "yt-01A3jGynXz0",
-          "yt-Bc2RwHLTzMI"
+          "yt-Bc2RwHLTzMI",
+          "yt-vuOIu41Nzcg"
         ]
       },
       {
@@ -1704,11 +1735,11 @@
     ],
     "boardStatus": "No separate U.S. pediatric cardiac-imaging specialty board examination identified in reviewed ABP/ABMS sources. ABP Pediatric Cardiology subspecialty certification is the relevant physician board pathway; this fellowship itself is not that certifying pathway.",
     "boardEligibilityNotice": "The ABP currently requires three years of full-time broad-based pediatric cardiology fellowship in an ACGME- or RCPSC-accredited program, verification of training/scholarly activity, and passing the subspecialty exam. Neither this course nor an advanced imaging fellowship alone confers eligibility. Check ABP current rules.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 19.483888888888888,
-    "verifiedSpecialtyHours": 17.37,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 21.55527777777778,
+    "verifiedSpecialtyHours": 19.441388888888888,
     "verifiedFoundationHours": 2.113888888888889,
-    "hoursGap": 16.516111111111112,
+    "hoursGap": 14.444722222222222,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1754,7 +1785,7 @@
         "title": "Pediatric Vomiting And Abdominal Pain - Complete Lecture | Health4TheWorld Academy",
         "url": "https://www.youtube.com/watch?v=qZuwaIPXsn8",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 3418.0,
+        "durationSeconds": 3418,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1763,7 +1794,7 @@
         "title": "Imaging of Pediatric Pneumonia Dr Kurian",
         "url": "https://www.youtube.com/watch?v=SA-8RY78-L0",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 3515.0,
+        "durationSeconds": 3515,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1772,7 +1803,7 @@
         "title": "Neonatal Lung Disease Dr Liszewski",
         "url": "https://www.youtube.com/watch?v=GqsKCn6sGSM",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 3696.0,
+        "durationSeconds": 3696,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1781,7 +1812,7 @@
         "title": "MRI and 3D+ Technologies in Congenital Heart Disease",
         "url": "https://www.youtube.com/watch?v=e0406rBlz6Q",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 3086.0,
+        "durationSeconds": 3086,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1790,7 +1821,7 @@
         "title": "Pediatric Non Accidental Trauma Part 1 | Health4TheWorld Academy",
         "url": "https://www.youtube.com/watch?v=mNs3EH0GS-s",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 354.0,
+        "durationSeconds": 354,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1799,7 +1830,7 @@
         "title": "Pediatric Non Accidental Trauma Part 2 | Health4TheWorld Academy",
         "url": "https://www.youtube.com/watch?v=d9gevCcOP2w",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 799.0,
+        "durationSeconds": 799,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1808,7 +1839,7 @@
         "title": "Pediatric Non Accidental Trauma Part 3 | Health4TheWorld Academy",
         "url": "https://www.youtube.com/watch?v=UVHEiONddy8",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 314.0,
+        "durationSeconds": 314,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1817,7 +1848,7 @@
         "title": "Pediatric Non Accidental Trauma Summary | Health4TheWorld Academy",
         "url": "https://www.youtube.com/watch?v=7MsFQ5PgyG0",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 86.0,
+        "durationSeconds": 86,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1826,7 +1857,7 @@
         "title": "Pearls and Pitfalls in acute pediatric neck infections - Complete Lecture | Health4TheWorld Academy",
         "url": "https://www.youtube.com/watch?v=rYTYyTX_5Mo",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 3850.0,
+        "durationSeconds": 3850,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1835,7 +1866,7 @@
         "title": "Radiation Dosimetry in Pediatric Part 1 | Health4TheWorld Academy",
         "url": "https://www.youtube.com/watch?v=Q1ej8f1wEHw",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 1056.0,
+        "durationSeconds": 1056,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1844,7 +1875,7 @@
         "title": "Radiation Dosimetry in Pediatric Part 2 | Health4TheWorld Academy",
         "url": "https://www.youtube.com/watch?v=gwlssxrC11c",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 437.0,
+        "durationSeconds": 437,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1853,7 +1884,7 @@
         "title": "Radiation Dosimetry in Pediatric Part 3 | Health4TheWorld Academy",
         "url": "https://www.youtube.com/watch?v=ItBeRkmaGCI",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 589.0,
+        "durationSeconds": 589,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1862,7 +1893,7 @@
         "title": "Radiation Dosimetry in Pediatric Summary | Health4TheWorld Academy",
         "url": "https://www.youtube.com/watch?v=5VBhuvA-I30",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 157.0,
+        "durationSeconds": 157,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1871,7 +1902,7 @@
         "title": "Postnatal Imaging of Prenatally Diagnosed Urinary Tract Dilatation",
         "url": "https://www.youtube.com/watch?v=OXgG8h2Iq8E",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 2992.0,
+        "durationSeconds": 2992,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1880,7 +1911,7 @@
         "title": "Approach to a Child with Joint Pain",
         "url": "https://www.youtube.com/watch?v=g50k-Uxl1nk",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 3632.0,
+        "durationSeconds": 3632,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1889,7 +1920,7 @@
         "title": "Pediatric Sports Medicine and Overuse Injuries",
         "url": "https://www.youtube.com/watch?v=nhPVQnsOzUs",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 4170.0,
+        "durationSeconds": 4170,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1898,7 +1929,7 @@
         "title": "Overgrowth Syndromes: A new understanding and the role of the radiologist",
         "url": "https://www.youtube.com/watch?v=HNJbXoS_AmA",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 2899.0,
+        "durationSeconds": 2899,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1907,7 +1938,7 @@
         "title": "Pediatric Abdominal Emergencies",
         "url": "https://www.youtube.com/watch?v=J9VFd2pEAhE",
         "provider": "Health4TheWorld Academy (public YouTube video; playlist listing)",
-        "durationSeconds": 3674.0,
+        "durationSeconds": 3674,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -1916,7 +1947,7 @@
         "title": "Neuroimaging of Pediatric Disease",
         "url": "https://www.youtube.com/watch?v=P_vsVK2UZwg",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 3463.0,
+        "durationSeconds": 3463,
         "sourceUrl": "https://www.youtube.com/watch?v=P_vsVK2UZwg",
         "accessVerified": true
       },
@@ -1925,7 +1956,7 @@
         "title": "Fetal MRI in Complex Prenatal Diagnoses",
         "url": "https://www.youtube.com/watch?v=V9K1eQEQvv4",
         "provider": "Baptist Health / South Miami Hospital",
-        "durationSeconds": 3584.0,
+        "durationSeconds": 3584,
         "sourceUrl": "https://www.youtube.com/watch?v=V9K1eQEQvv4",
         "accessVerified": true
       },
@@ -1934,7 +1965,7 @@
         "title": "Pediatric Musculoskeletal Radiology Imaging and Interpretation: Pearls and Pitfalls",
         "url": "https://www.youtube.com/watch?v=gSzpJ8oMzCc",
         "provider": "Scottish Rite for Children",
-        "durationSeconds": 3810.0,
+        "durationSeconds": 3810,
         "sourceUrl": "https://www.youtube.com/watch?v=gSzpJ8oMzCc",
         "accessVerified": true
       },
@@ -1943,7 +1974,7 @@
         "title": "44. Assessment of Pediatric Liver Tumors - Part 1. By Prof. Dr. Alexander Towbin",
         "url": "https://www.youtube.com/watch?v=ql9kg0eo-nk",
         "provider": "Academy of Online Radiology Education (ACORE)",
-        "durationSeconds": 2948.0,
+        "durationSeconds": 2948,
         "sourceUrl": "https://www.youtube.com/watch?v=ql9kg0eo-nk",
         "accessVerified": true
       },
@@ -1952,7 +1983,7 @@
         "title": "Paediatric Renal Mass Lesions for Radiology Exams",
         "url": "https://www.youtube.com/watch?v=qTZONNmGckM",
         "provider": "Songs4FRCR Radiology Revision",
-        "durationSeconds": 1887.0,
+        "durationSeconds": 1887,
         "sourceUrl": "https://www.youtube.com/watch?v=qTZONNmGckM",
         "accessVerified": true
       },
@@ -1961,7 +1992,7 @@
         "title": "Stanford Pediatric Grand Rounds: Pediatric Interventional Radiology: Teamwork in Action",
         "url": "https://www.youtube.com/watch?v=Kqw17LN5LPw",
         "provider": "Stanford Department of Pediatrics",
-        "durationSeconds": 4069.0,
+        "durationSeconds": 4069,
         "sourceUrl": "https://www.youtube.com/watch?v=Kqw17LN5LPw",
         "accessVerified": true
       },
@@ -1970,7 +2001,7 @@
         "title": "SIR-RFS Webinar (7/9/14): Introduction to Pediatric Interventional Radiology",
         "url": "https://www.youtube.com/watch?v=x9YJT5I3vow",
         "provider": "Society of Interventional Radiology, Resident/Fellow/Student Section",
-        "durationSeconds": 3284.0,
+        "durationSeconds": 3284,
         "sourceUrl": "https://www.youtube.com/watch?v=x9YJT5I3vow",
         "accessVerified": true
       },
@@ -1979,7 +2010,7 @@
         "title": "SIR-RFS MSC Pediatric IR Series: Vascular Anomalies",
         "url": "https://www.youtube.com/watch?v=--pXOQzcaHI",
         "provider": "Society of Interventional Radiology, Resident/Fellow/Student Section",
-        "durationSeconds": 1299.0,
+        "durationSeconds": 1299,
         "sourceUrl": "https://www.youtube.com/watch?v=--pXOQzcaHI",
         "accessVerified": true
       },
@@ -1988,7 +2019,7 @@
         "title": "Pediatric Renovascular Hypertension and Endovascular Therapy",
         "url": "https://www.youtube.com/watch?v=0RyiAtlh7g8",
         "provider": "Yale Radiology and Biomedical Imaging",
-        "durationSeconds": 3328.0,
+        "durationSeconds": 3328,
         "sourceUrl": "https://www.youtube.com/watch?v=0RyiAtlh7g8",
         "accessVerified": true
       },
@@ -1997,7 +2028,7 @@
         "title": "Pediatric Update for the Knee-dy Radiologist",
         "url": "https://www.youtube.com/watch?v=KdC19eIsOK4",
         "provider": "Yale Radiology and Biomedical Imaging",
-        "durationSeconds": 2898.0,
+        "durationSeconds": 2898,
         "sourceUrl": "https://www.youtube.com/watch?v=KdC19eIsOK4",
         "accessVerified": true
       },
@@ -2006,7 +2037,7 @@
         "title": "Pediatric Cardiac Radiology Lecture",
         "url": "https://www.youtube.com/watch?v=s7T53I7ijsA",
         "provider": "RSNA Case Collection",
-        "durationSeconds": 3499.0,
+        "durationSeconds": 3499,
         "sourceUrl": "https://www.youtube.com/watch?v=s7T53I7ijsA",
         "accessVerified": true
       },
@@ -2015,7 +2046,7 @@
         "title": "Pediatric GI Imaging (Part 1: Technique)",
         "url": "https://www.youtube.com/watch?v=am0jBiWcaME",
         "provider": "Tanta University, Radiology Department",
-        "durationSeconds": 3629.0,
+        "durationSeconds": 3629,
         "sourceUrl": "https://www.youtube.com/watch?v=am0jBiWcaME",
         "accessVerified": true
       },
@@ -2024,7 +2055,7 @@
         "title": "Pediatric GI Imaging (Part 2:Neonatal GI Imaging)",
         "url": "https://www.youtube.com/watch?v=68cEysk8Tss",
         "provider": "Tanta University, Radiology Department",
-        "durationSeconds": 5246.0,
+        "durationSeconds": 5246,
         "sourceUrl": "https://www.youtube.com/watch?v=68cEysk8Tss",
         "accessVerified": true
       },
@@ -2033,7 +2064,7 @@
         "title": "Pediatric Uroradiology (Part 1. Imaging methods & Congenital Anomalies) (Live Recording)",
         "url": "https://www.youtube.com/watch?v=JmWQhLrcnW0",
         "provider": "Tanta University, Radiology Department",
-        "durationSeconds": 5309.0,
+        "durationSeconds": 5309,
         "sourceUrl": "https://www.youtube.com/watch?v=JmWQhLrcnW0",
         "accessVerified": true
       },
@@ -2042,7 +2073,7 @@
         "title": "Pediatric Chest X-ray (Case based revision)",
         "url": "https://www.youtube.com/watch?v=o0pB2rdEj8s",
         "provider": "Tanta University, Radiology Department",
-        "durationSeconds": 5049.0,
+        "durationSeconds": 5049,
         "sourceUrl": "https://www.youtube.com/watch?v=o0pB2rdEj8s",
         "accessVerified": true
       },
@@ -2051,7 +2082,7 @@
         "title": "Sequential Segmental Approach to Congenital Heart Disease",
         "url": "https://www.youtube.com/watch?v=SvP4Alz-Pak",
         "provider": "Tanta University, Radiology Department",
-        "durationSeconds": 2337.0,
+        "durationSeconds": 2337,
         "sourceUrl": "https://www.youtube.com/watch?v=SvP4Alz-Pak",
         "accessVerified": true
       },
@@ -2060,7 +2091,7 @@
         "title": "Common Cardiac and Pericardial masses in children",
         "url": "https://www.youtube.com/watch?v=ikJlvNhoRKA",
         "provider": "Tanta University, Radiology Department",
-        "durationSeconds": 1189.0,
+        "durationSeconds": 1189,
         "sourceUrl": "https://www.youtube.com/watch?v=ikJlvNhoRKA",
         "accessVerified": true
       },
@@ -2069,7 +2100,7 @@
         "title": "MRI of Normal Fetal Brain Development -- Camilo Jaimes -- 1.19.2023",
         "url": "https://www.youtube.com/watch?v=dSuaI3RmYRk",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3524.0,
+        "durationSeconds": 3524,
         "sourceUrl": "https://www.youtube.com/watch?v=dSuaI3RmYRk",
         "accessVerified": true
       },
@@ -2078,7 +2109,7 @@
         "title": "Neonatal Brain Imaging -- Dr. Anna Trofimova -- 9/12/2024",
         "url": "https://www.youtube.com/watch?v=tjHLGGogRFM",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3783.0,
+        "durationSeconds": 3783,
         "sourceUrl": "https://www.youtube.com/watch?v=tjHLGGogRFM",
         "accessVerified": true
       },
@@ -2087,7 +2118,7 @@
         "title": "Congenital and Perinatal CNS Infections -- Dr. Yi Li -- 5/16/2024",
         "url": "https://www.youtube.com/watch?v=tELlOVGe78I",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3063.0,
+        "durationSeconds": 3063,
         "sourceUrl": "https://www.youtube.com/watch?v=tELlOVGe78I",
         "accessVerified": true
       },
@@ -2096,7 +2127,7 @@
         "title": "Posterior Fossa Tumors -- Dr. Fabrício Gonçalves -- 2.22.2024",
         "url": "https://www.youtube.com/watch?v=cv1cvleYIbY",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3943.0,
+        "durationSeconds": 3943,
         "sourceUrl": "https://www.youtube.com/watch?v=cv1cvleYIbY",
         "accessVerified": true
       },
@@ -2105,7 +2136,7 @@
         "title": "Malformations of Cortical Development -- Dr. Julie Guerin --12/12/2024",
         "url": "https://www.youtube.com/watch?v=MtBlFv3Be_Q",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3335.0,
+        "durationSeconds": 3335,
         "sourceUrl": "https://www.youtube.com/watch?v=MtBlFv3Be_Q",
         "accessVerified": true
       },
@@ -2114,7 +2145,7 @@
         "title": "Pediatric Stroke -- Dr. Anna Baer --10/30/2025",
         "url": "https://www.youtube.com/watch?v=ttd95pNRX_8",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3413.0,
+        "durationSeconds": 3413,
         "sourceUrl": "https://www.youtube.com/watch?v=ttd95pNRX_8",
         "accessVerified": true
       },
@@ -2123,7 +2154,7 @@
         "title": "Neck Masses During the First Year of Life -- Dr. Sarah Moum -- 9/11/2025",
         "url": "https://www.youtube.com/watch?v=CXi43m99M1g",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3171.0,
+        "durationSeconds": 3171,
         "sourceUrl": "https://www.youtube.com/watch?v=CXi43m99M1g",
         "accessVerified": true
       },
@@ -2132,7 +2163,7 @@
         "title": "\"Fetal Head and Neck Pathology\" -- Dr. Manuel Patino -- 7.11.2024",
         "url": "https://www.youtube.com/watch?v=vKqG0EGCvDU",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3470.0,
+        "durationSeconds": 3470,
         "sourceUrl": "https://www.youtube.com/watch?v=vKqG0EGCvDU",
         "accessVerified": true
       },
@@ -2141,7 +2172,7 @@
         "title": "Pediatric Hearing Loss -- Dr. Alexandra Foust --- 11/20/2025",
         "url": "https://www.youtube.com/watch?v=hK2bPvlK2wM",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3045.0,
+        "durationSeconds": 3045,
         "sourceUrl": "https://www.youtube.com/watch?v=hK2bPvlK2wM",
         "accessVerified": true
       },
@@ -2150,7 +2181,7 @@
         "title": "Imaging Neonatal Encephalopathy -- Dr. Jessie Aw-Zoretic -- 1.25.2024",
         "url": "https://www.youtube.com/watch?v=L0e4MrLVsPY",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 2774.0,
+        "durationSeconds": 2774,
         "sourceUrl": "https://www.youtube.com/watch?v=L0e4MrLVsPY",
         "accessVerified": true
       },
@@ -2159,7 +2190,7 @@
         "title": "Microtia Grading Made Easy -- Dr. Nadja Kadom -- 8/14/2025",
         "url": "https://www.youtube.com/watch?v=vGcBaxhLvCo",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3419.0,
+        "durationSeconds": 3419,
         "sourceUrl": "https://www.youtube.com/watch?v=vGcBaxhLvCo",
         "accessVerified": true
       }
@@ -2321,11 +2352,11 @@
     ],
     "boardStatus": "Pediatric radiology is an ABR subspecialty certification and examination after the relevant primary diagnostic-radiology or IR/DR certification; it is not a standalone primary physician specialty board. The ABR also publishes a 15-month DR-residency pathway, subject to application and supervised program requirements. Current details must be checked with ABR.",
     "boardEligibilityNotice": "This independent course does not establish ABR eligibility. As checked 2026-10-07, the ABR page states applicants normally hold an ABR general/diagnostic radiology or IR/DR certificate, complete an ACGME- or RCPSC-accredited one-year pediatric radiology fellowship, hold a current medical license, and apply within the stated post-training window; alternate/15-month pathways have distinct conditions. Requirements can change; verify directly with ABR. No examination outcome is predicted or guaranteed.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 36.803333333333335,
     "verifiedSpecialtyHours": 36.18138888888889,
     "verifiedFoundationHours": 0.6219444444444444,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2370,7 +2401,7 @@
         "title": "Dr. Velaydun. Basics of Pediatric Brain Imaging.",
         "url": "https://www.youtube.com/watch?v=FQU_13v9-Jk",
         "provider": "Downstate Neurology (SUNY Downstate Neurology Daily Didactics)",
-        "durationSeconds": 3928.0,
+        "durationSeconds": 3928,
         "sourceUrl": "https://www.youtube.com/watch?v=FQU_13v9-Jk",
         "accessVerified": true
       },
@@ -2379,7 +2410,7 @@
         "title": "Pediatric Intraventricular Masses  - Dr. Fabricio Goncalves -- 12.11.12025",
         "url": "https://www.youtube.com/watch?v=RbKPCpxPEbI",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3835.0,
+        "durationSeconds": 3835,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2388,7 +2419,7 @@
         "title": "Pediatric Hearing Loss -- Dr. Alexandra Foust --- 11/20/2025",
         "url": "https://www.youtube.com/watch?v=hK2bPvlK2wM",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3045.0,
+        "durationSeconds": 3045,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2397,7 +2428,7 @@
         "title": "Pediatric Stroke -- Dr. Anna Baer --10/30/2025",
         "url": "https://www.youtube.com/watch?v=ttd95pNRX_8",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3413.0,
+        "durationSeconds": 3413,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2406,7 +2437,7 @@
         "title": "Neck Masses During the First Year of Life -- Dr. Sarah Moum -- 9/11/2025",
         "url": "https://www.youtube.com/watch?v=CXi43m99M1g",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3172.0,
+        "durationSeconds": 3172,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2415,7 +2446,7 @@
         "title": "Microtia Grading Made Easy -- Dr. Nadja Kadom -- 8/14/2025",
         "url": "https://www.youtube.com/watch?v=vGcBaxhLvCo",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3419.0,
+        "durationSeconds": 3419,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2424,7 +2455,7 @@
         "title": "Pediatric Head and Neck Emergencies -- Dr. Sumit Singh -- 7/10/2025",
         "url": "https://www.youtube.com/watch?v=CutmX_8Iwyk",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3173.0,
+        "durationSeconds": 3173,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2433,7 +2464,7 @@
         "title": "Pediatric Head and Neck Infections -- Dr. Sarah Moum -- 12/19/2024",
         "url": "https://www.youtube.com/watch?v=R2GxIqvp-JU",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3158.0,
+        "durationSeconds": 3158,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2442,7 +2473,7 @@
         "title": "Malformations of Cortical Development -- Dr. Julie Guerin --12/12/2024",
         "url": "https://www.youtube.com/watch?v=MtBlFv3Be_Q",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3335.0,
+        "durationSeconds": 3335,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2451,7 +2482,7 @@
         "title": "Approach to Congenital Anomalies of the Inner Ear -- Dr. Trevor Thompson -- 10/10/2024",
         "url": "https://www.youtube.com/watch?v=7XgtZeLKDMc",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 2945.0,
+        "durationSeconds": 2945,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2460,7 +2491,7 @@
         "title": "Neonatal Brain Imaging -- Dr. Anna Trofimova -- 9/12/2024",
         "url": "https://www.youtube.com/watch?v=tjHLGGogRFM",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3783.0,
+        "durationSeconds": 3783,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2469,7 +2500,7 @@
         "title": "Neurometabolic Disorders of Childhood -- Dr. Jungwhan John Choi -- 8/8/20024",
         "url": "https://www.youtube.com/watch?v=RUp1Tkzo4Sc",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3248.0,
+        "durationSeconds": 3248,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2478,7 +2509,7 @@
         "title": "\"Fetal Head and Neck Pathology\" -- Dr. Manuel Patino -- 7.11.2024",
         "url": "https://www.youtube.com/watch?v=vKqG0EGCvDU",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3470.0,
+        "durationSeconds": 3470,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2487,7 +2518,7 @@
         "title": "\"Pediatric Leukocoria\" -- Dr. Nucharin Supakul -- 6.13.2024",
         "url": "https://www.youtube.com/watch?v=97510Gf7_VY",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 1988.0,
+        "durationSeconds": 1988,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2496,7 +2527,7 @@
         "title": "Congenital and Perinatal CNS Infections -- Dr. Yi Li --  5/16/2024",
         "url": "https://www.youtube.com/watch?v=tELlOVGe78I",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3064.0,
+        "durationSeconds": 3064,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2505,7 +2536,7 @@
         "title": "Pediatric Bran Tumors: What's New --  Dr.  Vanessa Rameh --   4.11.2024",
         "url": "https://www.youtube.com/watch?v=TUcjB04k2r4",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 2981.0,
+        "durationSeconds": 2981,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2514,7 +2545,7 @@
         "title": "Pediatric acquired demyelinating syndromes -- Dr. Srikala Narayanan -- 3.14.2024",
         "url": "https://www.youtube.com/watch?v=Vk2rZ6lYdPw",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 2510.0,
+        "durationSeconds": 2510,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2523,7 +2554,7 @@
         "title": "Posterior Fossa Tumors -- Dr. Fabrício Gonçalves -- 2.22.2024",
         "url": "https://www.youtube.com/watch?v=cv1cvleYIbY",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3943.0,
+        "durationSeconds": 3943,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2532,7 +2563,7 @@
         "title": "Imaging Neonatal Encephalopathy  --  Dr.  Jessie Aw-Zoretic --  1.25.2024",
         "url": "https://www.youtube.com/watch?v=L0e4MrLVsPY",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 2774.0,
+        "durationSeconds": 2774,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2541,7 +2572,7 @@
         "title": "Dermoid and Epidermoid Cysts of the Head and Neck  -- Dr  Pascale Aouad -- 12.15.2023",
         "url": "https://www.youtube.com/watch?v=SQlZcDMCrh8",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 2372.0,
+        "durationSeconds": 2372,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2550,7 +2581,7 @@
         "title": "Orbital Pathology  --  Dr. Joanne Rispoli -- 10.19.2023",
         "url": "https://www.youtube.com/watch?v=xjq8dkOCCFA",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 2996.0,
+        "durationSeconds": 2996,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2559,7 +2590,7 @@
         "title": "Neurocutaneous Syndromes (Phakomatoses) --  Dr. Usha Nagaraj -- 9.14.2023",
         "url": "https://www.youtube.com/watch?v=rx_iG-vPlFE",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3184.0,
+        "durationSeconds": 3184,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2568,7 +2599,7 @@
         "title": "Pediatric Epilepsy Imaging -- Dr. Judy Gadde -- 8.10.20223",
         "url": "https://www.youtube.com/watch?v=nPGHuAzz1js",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3046.0,
+        "durationSeconds": 3046,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2577,7 +2608,7 @@
         "title": "Pediatric midface anomalies -- Dr. Alex Foust -- 6.8.2023",
         "url": "https://www.youtube.com/watch?v=J4MJ2u9oGRo",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3037.0,
+        "durationSeconds": 3037,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2586,7 +2617,7 @@
         "title": "Abusive Head Trauma -- Dr. Asha Sarma -- 5.11.2023",
         "url": "https://www.youtube.com/watch?v=29Xe4cTsdBU",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3444.0,
+        "durationSeconds": 3444,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2595,7 +2626,7 @@
         "title": "Pediatric Cervical Spine -- Dr. Jessie Aw-Zoretic -- 4.20.2023",
         "url": "https://www.youtube.com/watch?v=EDBheAeJ9J0",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3033.0,
+        "durationSeconds": 3033,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2604,7 +2635,7 @@
         "title": "Pediatric Stroke -- Dr. Sarah Moum -- 3.9.2023",
         "url": "https://www.youtube.com/watch?v=QFMuYKvCzKs",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3130.0,
+        "durationSeconds": 3130,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2613,7 +2644,7 @@
         "title": "Pediatric Neck Masses -- Srikala Narayanan -- 2.9.2023",
         "url": "https://www.youtube.com/watch?v=FlyjDZZwzH4",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3039.0,
+        "durationSeconds": 3039,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2622,7 +2653,7 @@
         "title": "MRI of Normal Fetal Brain Development -- Camilo Jaimes -- 1.19.2023",
         "url": "https://www.youtube.com/watch?v=dSuaI3RmYRk",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3525.0,
+        "durationSeconds": 3525,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2631,7 +2662,7 @@
         "title": "Spinal Dysraphisms -- Dr. Neil Lall -- 12.8.2022",
         "url": "https://www.youtube.com/watch?v=H87IT9GDkZE",
         "provider": "PEdiatric NeUroradiology Teaching Series (PEANUTS)",
-        "durationSeconds": 3026.0,
+        "durationSeconds": 3026,
         "sourceUrl": "https://www.youtube.com/@PEANUTSlectures/videos",
         "accessVerified": true
       },
@@ -2640,7 +2671,7 @@
         "title": "5th ISMRM - WFPI Virtual Meeting: Pediatric MRI - Head & Neck Protocols",
         "url": "https://www.youtube.com/watch?v=W9R2cMq7Xac",
         "provider": "Pediatricradiologyacademy; World Federation of Pediatric Imaging (WFPI) and partner society webinar series",
-        "durationSeconds": 3777.0,
+        "durationSeconds": 3777,
         "sourceUrl": "https://www.youtube.com/channel/UCKr22IM3CM1IynQ1b9OzEpw/videos",
         "accessVerified": true
       },
@@ -2649,7 +2680,7 @@
         "title": "Principles & Practice of Pediatric MRI Safety",
         "url": "https://www.youtube.com/watch?v=RORH3y8KlOs",
         "provider": "Pediatricradiologyacademy; World Federation of Pediatric Imaging (WFPI) and partner society webinar series",
-        "durationSeconds": 7277.0,
+        "durationSeconds": 7277,
         "sourceUrl": "https://www.youtube.com/channel/UCKr22IM3CM1IynQ1b9OzEpw/videos",
         "accessVerified": true
       },
@@ -2658,7 +2689,7 @@
         "title": "Ultrasound of the Pediatric Spine- Prof. George Taylor- April 17th 2021",
         "url": "https://www.youtube.com/watch?v=-KT0cqQtOg4",
         "provider": "Pediatricradiologyacademy; World Federation of Pediatric Imaging (WFPI) and partner society webinar series",
-        "durationSeconds": 4041.0,
+        "durationSeconds": 4041,
         "sourceUrl": "https://www.youtube.com/channel/UCKr22IM3CM1IynQ1b9OzEpw/videos",
         "accessVerified": true
       },
@@ -2667,7 +2698,7 @@
         "title": "Development and Implementation of AI in Peds MRI: Current Uses, Challenges, and Future Directions",
         "url": "https://www.youtube.com/watch?v=H4Z83A2n2PI",
         "provider": "Pediatricradiologyacademy; World Federation of Pediatric Imaging (WFPI) and partner society webinar series",
-        "durationSeconds": 4691.0,
+        "durationSeconds": 4691,
         "sourceUrl": "https://www.youtube.com/channel/UCKr22IM3CM1IynQ1b9OzEpw/videos",
         "accessVerified": true
       },
@@ -2676,7 +2707,7 @@
         "title": "Soares - Pattern Approach Neurometabolic Disorders - Aug 2020",
         "url": "https://player.vimeo.com/video/447532275",
         "provider": "American Society of Neuroradiology (ASNR) Core Education",
-        "durationSeconds": 1280.0,
+        "durationSeconds": 1280,
         "sourceUrl": "https://www.asnr.org/neurocurriculum/pattern-approach-to-pediatric-neurometabolic-disorders/",
         "accessVerified": true
       },
@@ -2685,7 +2716,7 @@
         "title": "Harnessing Neuroimaging To Guide Practice in the NICU and Beyond",
         "url": "https://www.youtube.com/watch?v=jVI-T36cCPo",
         "provider": "Cleveland Clinic Department of Neonatology — Neonatal Brain Club teaching series (national speakers)",
-        "durationSeconds": 3084.0,
+        "durationSeconds": 3084,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMG0zKOgNqNmOsqvpETIRRGyHpJrYNenL",
         "accessVerified": true
       },
@@ -2694,7 +2725,7 @@
         "title": "Update on Neonatal Stroke",
         "url": "https://www.youtube.com/watch?v=rN01YCfBxkU",
         "provider": "Cleveland Clinic Department of Neonatology — Neonatal Brain Club teaching series (national speakers)",
-        "durationSeconds": 2784.0,
+        "durationSeconds": 2784,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMG0zKOgNqNmOsqvpETIRRGyHpJrYNenL",
         "accessVerified": true
       },
@@ -2703,7 +2734,7 @@
         "title": "Pediatric Head Ultrasounds",
         "url": "https://www.youtube.com/watch?v=E5pLJxMmU-8",
         "provider": "Cleveland Clinic Department of Neonatology — Neonatal Brain Club teaching series (national speakers)",
-        "durationSeconds": 3216.0,
+        "durationSeconds": 3216,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMG0zKOgNqNmOsqvpETIRRGyHpJrYNenL",
         "accessVerified": true
       },
@@ -2712,7 +2743,7 @@
         "title": "Developmental Disturbances in the CHD Fetal Brain",
         "url": "https://www.youtube.com/watch?v=sd_GSCtB6vs",
         "provider": "Cleveland Clinic Department of Neonatology — Neonatal Brain Club teaching series (national speakers)",
-        "durationSeconds": 3335.0,
+        "durationSeconds": 3335,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMG0zKOgNqNmOsqvpETIRRGyHpJrYNenL",
         "accessVerified": true
       },
@@ -2721,7 +2752,7 @@
         "title": "Brain Development in the Preterm Newborn",
         "url": "https://www.youtube.com/watch?v=ZcBwWVavzmU",
         "provider": "Cleveland Clinic Department of Neonatology — Neonatal Brain Club teaching series (national speakers)",
-        "durationSeconds": 3330.0,
+        "durationSeconds": 3330,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMG0zKOgNqNmOsqvpETIRRGyHpJrYNenL",
         "accessVerified": true
       }
@@ -2879,11 +2910,11 @@
     ],
     "boardStatus": "No separate ABR or ABMS Pediatric Neuroradiology board certificate/exam identified. ABR offers distinct neuroradiology and pediatric radiology subspecialty certifications. ASPNR states there is no ACGME accreditation in pediatric neuroradiology as a subspecialty. The institutional fellowship is real clinical physician training; its title does not confer either board certificate.",
     "boardEligibilityNotice": "Boston Children’s published eligibility requires prior completion of either an ACGME-accredited pediatric radiology fellowship or a one-year ACGME-accredited neuroradiology fellowship. This self-study course confers no fellowship credit, eligibility, board status, licensure, or supervised clinical competence. ABR eligibility is determined by ABR rules and requires separate prerequisites, training/practice evidence, licensure and application; confirm current rules directly with ABR.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 36.61972222222222,
     "verifiedSpecialtyHours": 28.920555555555556,
     "verifiedFoundationHours": 7.699166666666667,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2926,7 +2957,7 @@
         "title": "4th ISMRM/WFPI Pediatric MRI Webinar: Mimics and Pitfalls in Body and Musculoskeletal Imaging",
         "url": "https://www.youtube.com/watch?v=kNOBfOsvBTw",
         "provider": "Pediatricradiologyacademy; World Federation of Pediatric Imaging and ISMRM pediatric study group",
-        "durationSeconds": 7462.0,
+        "durationSeconds": 7462,
         "sourceUrl": "https://www.youtube.com/watch?v=kNOBfOsvBTw",
         "accessVerified": true
       },
@@ -2935,7 +2966,7 @@
         "title": "International Standardization of Peds MRI Protocols: Creation of WFPI Protocols MRI Committee",
         "url": "https://www.youtube.com/watch?v=ByKAJU7Ynhs",
         "provider": "Pediatricradiologyacademy; produced by World Federation of Pediatric Imaging with Society for Pediatric Radiology",
-        "durationSeconds": 3780.0,
+        "durationSeconds": 3780,
         "sourceUrl": "https://www.youtube.com/watch?v=ByKAJU7Ynhs",
         "accessVerified": true
       },
@@ -2944,7 +2975,7 @@
         "title": "5th ISMRM–WFPI Virtual Meeting: Pediatric MRI—Head & Neck Protocols",
         "url": "https://www.youtube.com/watch?v=W9R2cMq7Xac",
         "provider": "Pediatricradiologyacademy; ISMRM and World Federation of Pediatric Imaging",
-        "durationSeconds": 3777.0,
+        "durationSeconds": 3777,
         "sourceUrl": "https://www.youtube.com/watch?v=W9R2cMq7Xac",
         "accessVerified": true
       },
@@ -2953,7 +2984,7 @@
         "title": "SIR-RFS Webinar (7/9/14): Introduction to Pediatric Interventional Radiology",
         "url": "https://www.youtube.com/watch?v=x9YJT5I3vow",
         "provider": "IR Education / Society of Interventional Radiology Resident, Fellow, and Student Section",
-        "durationSeconds": 3284.0,
+        "durationSeconds": 3284,
         "sourceUrl": "https://www.youtube.com/watch?v=x9YJT5I3vow",
         "accessVerified": true
       },
@@ -2962,7 +2993,7 @@
         "title": "SIR-RFS Webinar 10/1/20: Introduction to Pediatric Interventional Radiology",
         "url": "https://www.youtube.com/watch?v=jqNVto_KUfg",
         "provider": "IR Education / Society of Interventional Radiology Resident, Fellow, and Student Section",
-        "durationSeconds": 3730.0,
+        "durationSeconds": 3730,
         "sourceUrl": "https://www.youtube.com/watch?v=jqNVto_KUfg",
         "accessVerified": true
       },
@@ -2971,7 +3002,7 @@
         "title": "Pediatric Vomiting And Abdominal Pain - Complete Lecture",
         "url": "https://www.youtube.com/watch?v=qZuwaIPXsn8",
         "provider": "Health4TheWorld Academy",
-        "durationSeconds": 3418.0,
+        "durationSeconds": 3418,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -2980,7 +3011,7 @@
         "title": "Imaging of Pediatric Pneumonia Dr Kurian",
         "url": "https://www.youtube.com/watch?v=SA-8RY78-L0",
         "provider": "Health4TheWorld Academy",
-        "durationSeconds": 3515.0,
+        "durationSeconds": 3515,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -2989,7 +3020,7 @@
         "title": "Neonatal Lung Disease Dr Liszewski",
         "url": "https://www.youtube.com/watch?v=GqsKCn6sGSM",
         "provider": "Health4TheWorld Academy",
-        "durationSeconds": 3695.0,
+        "durationSeconds": 3695,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -2998,7 +3029,7 @@
         "title": "MRI and 3D+ Technologies in Congenital Heart Disease",
         "url": "https://www.youtube.com/watch?v=e0406rBlz6Q",
         "provider": "Health4TheWorld Academy",
-        "durationSeconds": 3086.0,
+        "durationSeconds": 3086,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -3007,7 +3038,7 @@
         "title": "Pearls and Pitfalls in acute pediatric neck infections - Complete Lecture",
         "url": "https://www.youtube.com/watch?v=rYTYyTX_5Mo",
         "provider": "Health4TheWorld Academy",
-        "durationSeconds": 3849.0,
+        "durationSeconds": 3849,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -3016,7 +3047,7 @@
         "title": "Radiation Dosimetry in Pediatric Part 1",
         "url": "https://www.youtube.com/watch?v=Q1ej8f1wEHw",
         "provider": "Health4TheWorld Academy",
-        "durationSeconds": 1055.0,
+        "durationSeconds": 1055,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -3025,7 +3056,7 @@
         "title": "Radiation Dosimetry in Pediatric Part 2",
         "url": "https://www.youtube.com/watch?v=gwlssxrC11c",
         "provider": "Health4TheWorld Academy",
-        "durationSeconds": 437.0,
+        "durationSeconds": 437,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -3034,7 +3065,7 @@
         "title": "Radiation Dosimetry in Pediatric Part 3",
         "url": "https://www.youtube.com/watch?v=ItBeRkmaGCI",
         "provider": "Health4TheWorld Academy",
-        "durationSeconds": 589.0,
+        "durationSeconds": 589,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -3043,7 +3074,7 @@
         "title": "Postnatal Imaging of Prenatally Diagnosed Urinary Tract Dilatation",
         "url": "https://www.youtube.com/watch?v=OXgG8h2Iq8E",
         "provider": "Health4TheWorld Academy",
-        "durationSeconds": 2992.0,
+        "durationSeconds": 2992,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -3052,7 +3083,7 @@
         "title": "Overgrowth Syndromes: A new understanding and the role of the radiologist",
         "url": "https://www.youtube.com/watch?v=HNJbXoS_AmA",
         "provider": "Health4TheWorld Academy",
-        "durationSeconds": 2898.0,
+        "durationSeconds": 2898,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZZRvp76ha2Cyska-NyQuNjPz8iTNYV4R",
         "accessVerified": true
       },
@@ -3061,7 +3092,7 @@
         "title": "Pediatric Head Ultrasounds",
         "url": "https://www.youtube.com/watch?v=E5pLJxMmU-8",
         "provider": "Cleveland Clinic Children's Neonatal Brain Club",
-        "durationSeconds": 3215.0,
+        "durationSeconds": 3215,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMG0zKOgNqNmOsqvpETIRRGyHpJrYNenL",
         "accessVerified": true
       },
@@ -3070,7 +3101,7 @@
         "title": "MRI of the Newborn Brain",
         "url": "https://www.youtube.com/watch?v=cjl6nQ0V16k",
         "provider": "Cleveland Clinic Children's Neonatal Brain Club",
-        "durationSeconds": 2976.0,
+        "durationSeconds": 2976,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMG0zKOgNqNmOsqvpETIRRGyHpJrYNenL",
         "accessVerified": true
       },
@@ -3079,7 +3110,7 @@
         "title": "Brain Development in the Preterm Newborn",
         "url": "https://www.youtube.com/watch?v=ZcBwWVavzmU",
         "provider": "Cleveland Clinic Children's Neonatal Brain Club",
-        "durationSeconds": 3329.0,
+        "durationSeconds": 3329,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMG0zKOgNqNmOsqvpETIRRGyHpJrYNenL",
         "accessVerified": true
       },
@@ -3088,7 +3119,7 @@
         "title": "Harnessing Neuroimaging To Guide Practice in the NICU and Beyond",
         "url": "https://www.youtube.com/watch?v=jVI-T36cCPo",
         "provider": "Cleveland Clinic Children's Neonatal Brain Club",
-        "durationSeconds": 3084.0,
+        "durationSeconds": 3084,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMG0zKOgNqNmOsqvpETIRRGyHpJrYNenL",
         "accessVerified": true
       },
@@ -3097,7 +3128,7 @@
         "title": "3D Printing in Congenital Heart Disease",
         "url": "https://www.youtube.com/watch?v=nhzays4bU3A",
         "provider": "Cleveland Clinic Children's Tiny Hearts Lecture Series",
-        "durationSeconds": 1802.0,
+        "durationSeconds": 1802,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMG0zKOgNqNnsqeKffet3Xd_zOSEo5P7j",
         "accessVerified": true
       },
@@ -3106,7 +3137,7 @@
         "title": "Non-invasive Quantitative Cardiac Focused Imaging",
         "url": "https://www.youtube.com/watch?v=9vMmCY_eOko",
         "provider": "Cleveland Clinic Children's Tiny Hearts Lecture Series",
-        "durationSeconds": 3474.0,
+        "durationSeconds": 3474,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMG0zKOgNqNnsqeKffet3Xd_zOSEo5P7j",
         "accessVerified": true
       },
@@ -3115,7 +3146,7 @@
         "title": "Whole Body PET/MRI of Children with Cancer",
         "url": "https://www.youtube.com/watch?v=_mn-QnFQQ9o",
         "provider": "Yale Radiology and Biomedical Imaging Grand Rounds",
-        "durationSeconds": 3486.0,
+        "durationSeconds": 3486,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMoHC7ioYlMZ737wjKKRy8j-xJ9sjXvO9",
         "accessVerified": true
       },
@@ -3124,7 +3155,7 @@
         "title": "Pediatric Update for the Knee-dy Radiologist",
         "url": "https://www.youtube.com/watch?v=KdC19eIsOK4",
         "provider": "Yale Radiology and Biomedical Imaging Grand Rounds",
-        "durationSeconds": 2898.0,
+        "durationSeconds": 2898,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMoHC7ioYlMZ737wjKKRy8j-xJ9sjXvO9",
         "accessVerified": true
       },
@@ -3133,7 +3164,7 @@
         "title": "Pediatric Renovascular Hypertension and Endovascular Therapy",
         "url": "https://www.youtube.com/watch?v=0RyiAtlh7g8",
         "provider": "Yale Radiology and Biomedical Imaging Grand Rounds",
-        "durationSeconds": 3328.0,
+        "durationSeconds": 3328,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMoHC7ioYlMZ737wjKKRy8j-xJ9sjXvO9",
         "accessVerified": true
       },
@@ -3142,7 +3173,7 @@
         "title": "44. Assessment of Pediatric Liver Tumors - Part 1",
         "url": "https://www.youtube.com/watch?v=ql9kg0eo-nk",
         "provider": "Academy of Online Radiology Education (ACORE)",
-        "durationSeconds": 2948.0,
+        "durationSeconds": 2948,
         "sourceUrl": "https://www.youtube.com/@academyofonlineradiologyed8764",
         "accessVerified": true
       },
@@ -3151,7 +3182,7 @@
         "title": "Global Pediatric Imaging | Pediatric Grand Rounds - Mattel Children's Hospital UCLA",
         "url": "https://www.youtube.com/watch?v=5aLXbujFFKU",
         "provider": "Mattel Children's Hospital UCLA Pediatric Grand Rounds",
-        "durationSeconds": 1909.0,
+        "durationSeconds": 1909,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -3160,7 +3191,7 @@
         "title": "Pediatric Cardiac Radiology Lecture",
         "url": "https://www.youtube.com/watch?v=s7T53I7ijsA",
         "provider": "RSNA Case Collection",
-        "durationSeconds": 3499.0,
+        "durationSeconds": 3499,
         "sourceUrl": "https://www.youtube.com/channel/UC2fKhivTxNFWjbXFkOfw8LQ",
         "accessVerified": true
       },
@@ -3169,7 +3200,7 @@
         "title": "Fetal MRI in Complex Prenatal Diagnoses",
         "url": "https://www.youtube.com/watch?v=V9K1eQEQvv4",
         "provider": "Baptist Health International Women & Infants Lecture Series",
-        "durationSeconds": 3584.0,
+        "durationSeconds": 3584,
         "sourceUrl": "https://www.youtube.com/watch?v=V9K1eQEQvv4",
         "accessVerified": true
       }
@@ -3328,7 +3359,7 @@
       "Institutional distinction": "The two named offerings are pediatric radiology physician fellowships, not distinct board examinations or one combined Harvard/JHU course. JHU also describes an additional focused ACGME Advanced Specialty Training year in pediatric neuroradiology/fetal MR, and BCH describes possible further focused subspecialty/research years; these are not counted as additional pediatric radiology board tracks here. A 15-month ABR pathway is an alternative within diagnostic-radiology residency, not a joint institutional degree."
     },
     "boardEligibilityNotice": "An independent course cannot award prerequisites, accredited training time, board eligibility, exam access, or certification. Eligibility and examination requirements are determined only by ABR/AOBR/RCPSC as applicable. No pass guarantee.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 24.194166666666668,
     "verifiedSpecialtyHours": 21.774166666666666,
     "verifiedFoundationHours": 2.42,
@@ -3383,7 +3414,7 @@
         "title": "SIR-RFS Webinar: Pediatric Interventional Radiology: Past, Present, and Future",
         "url": "https://www.youtube.com/watch?v=-1UwTvCM7FE",
         "provider": "IR Education (Society of Interventional Radiology Resident, Fellow, and Student Section)",
-        "durationSeconds": 3368.0,
+        "durationSeconds": 3368,
         "sourceUrl": "https://www.youtube.com/watch?v=-1UwTvCM7FE",
         "accessVerified": true
       },
@@ -3392,7 +3423,7 @@
         "title": "SIR-RFS MSC Pediatric IR Series: Vascular Anomalies",
         "url": "https://www.youtube.com/watch?v=--pXOQzcaHI",
         "provider": "IR Education (SIR RFS)",
-        "durationSeconds": 1299.0,
+        "durationSeconds": 1299,
         "sourceUrl": "https://www.youtube.com/watch?v=--pXOQzcaHI",
         "accessVerified": true
       },
@@ -3401,7 +3432,7 @@
         "title": "SIR-RFS Webinar: Pediatric Series – Lymphatic Malformation Sclerotherapy",
         "url": "https://www.youtube.com/watch?v=LG870MftDHA",
         "provider": "IR Education (SIR RFS)",
-        "durationSeconds": 504.0,
+        "durationSeconds": 504,
         "sourceUrl": "https://www.youtube.com/watch?v=LG870MftDHA",
         "accessVerified": true
       },
@@ -3410,7 +3441,7 @@
         "title": "SIR-RFS Webinar: Pediatric Vascular Anomalies and Overgrowth Syndromes",
         "url": "https://www.youtube.com/watch?v=enNC_BmBD2E",
         "provider": "IR Education (SIR RFS)",
-        "durationSeconds": 3765.0,
+        "durationSeconds": 3765,
         "sourceUrl": "https://www.youtube.com/watch?v=enNC_BmBD2E",
         "accessVerified": true
       },
@@ -3419,7 +3450,7 @@
         "title": "SIR-RFS Webinar: IR for Pediatric Trauma",
         "url": "https://www.youtube.com/watch?v=wM8nlUMz_7k",
         "provider": "IR Education (SIR RFS)",
-        "durationSeconds": 4121.0,
+        "durationSeconds": 4121,
         "sourceUrl": "https://www.youtube.com/watch?v=wM8nlUMz_7k",
         "accessVerified": true
       },
@@ -3428,7 +3459,7 @@
         "title": "SIR-RFS Webinar: Pediatric Interventional Radiology: A Day in the Life",
         "url": "https://www.youtube.com/watch?v=9YoPAvpIRmo",
         "provider": "IR Education (SIR RFS)",
-        "durationSeconds": 4056.0,
+        "durationSeconds": 4056,
         "sourceUrl": "https://www.youtube.com/watch?v=9YoPAvpIRmo",
         "accessVerified": true
       },
@@ -3437,7 +3468,7 @@
         "title": "SIR-RFS Webinar (11/7/13): Vascular Anomalies, Part 1 of 3 — Classification and Diagnosis",
         "url": "https://www.youtube.com/watch?v=GIPOhINeqvY",
         "provider": "IR Education (Society of Interventional Radiology Resident, Fellow, and Student Section); Patricia Burrows, Children’s Hospital of Wisconsin / Medical College of Wisconsin",
-        "durationSeconds": 3398.0,
+        "durationSeconds": 3398,
         "sourceUrl": "https://www.youtube.com/watch?v=GIPOhINeqvY",
         "accessVerified": true
       },
@@ -3446,7 +3477,7 @@
         "title": "Classification of Vascular Anomalies | Webinar Replay",
         "url": "https://www.youtube.com/watch?v=ZID_ZkxZocU",
         "provider": "VASCERN ERN, Vascular Anomalies Working Group (VASCA-WG); Prof. Miikka Vikkula, Prof. Emir Haxhija and Dr. Paolo Gasparella",
-        "durationSeconds": 4905.0,
+        "durationSeconds": 4905,
         "sourceUrl": "https://www.youtube.com/watch?v=ZID_ZkxZocU",
         "accessVerified": true
       },
@@ -3455,7 +3486,7 @@
         "title": "Vascular Anomalies Webcast — Boston Children’s Hospital",
         "url": "https://www.youtube.com/watch?v=6HAoopzeVEQ",
         "provider": "Boston Children’s Hospital, official YouTube channel",
-        "durationSeconds": 5727.0,
+        "durationSeconds": 5727,
         "sourceUrl": "https://www.youtube.com/watch?v=6HAoopzeVEQ",
         "accessVerified": true
       },
@@ -3464,7 +3495,7 @@
         "title": "SIR-RFS Webinar (7/9/14): Introduction to Pediatric Interventional Radiology",
         "url": "https://www.youtube.com/watch?v=x9YJT5I3vow",
         "provider": "Society of Interventional Radiology Resident, Fellow, and Student Section (SIR-RFS)",
-        "durationSeconds": 3284.0,
+        "durationSeconds": 3284,
         "sourceUrl": "https://www.youtube.com/watch?v=x9YJT5I3vow",
         "accessVerified": true
       },
@@ -3473,7 +3504,7 @@
         "title": "Stanford Pediatric Grand Rounds: Pediatric Interventional Radiology: Teamwork in Action",
         "url": "https://www.youtube.com/watch?v=Kqw17LN5LPw",
         "provider": "Stanford Department of Pediatrics / Stanford School of Medicine",
-        "durationSeconds": 4069.0,
+        "durationSeconds": 4069,
         "sourceUrl": "https://www.youtube.com/watch?v=Kqw17LN5LPw",
         "accessVerified": true
       },
@@ -3482,7 +3513,7 @@
         "title": "Diagnostic and Management Pathway for Lymphatic Malformations",
         "url": "https://www.youtube.com/watch?v=j8pG1AVuClQ",
         "provider": "VASCERN Vascular Anomalies Working Group; Nader Ghaffarpour, pediatric surgeon, Karolinska University Hospital",
-        "durationSeconds": 2995.0,
+        "durationSeconds": 2995,
         "sourceUrl": "https://vascern.eu/training-and-education/webinars/",
         "accessVerified": true
       },
@@ -3491,7 +3522,7 @@
         "title": "Diagnostic and Management Pathway for Venous Malformations",
         "url": "https://www.youtube.com/watch?v=WM3FIt1tiaY",
         "provider": "VASCERN Vascular Anomalies Working Group; Laurence Boon, plastic and reconstructive surgeon, Saint-Luc University Clinics, Brussels",
-        "durationSeconds": 3496.0,
+        "durationSeconds": 3496,
         "sourceUrl": "https://vascern.eu/group/vascular-anomalies/training-and-education/webinars/",
         "accessVerified": true
       },
@@ -3500,7 +3531,7 @@
         "title": "Diagnostic and Management Pathway for Severe and Rare Infantile Hemangiomas | VASCERN Webinar Replay",
         "url": "https://www.youtube.com/watch?v=UWQ6RmOxnHo",
         "provider": "VASCERN Vascular Anomalies Working Group; Andrea Diociaiuti, dermatologist, Bambino Gesù Children’s Hospital, Rome",
-        "durationSeconds": 3311.0,
+        "durationSeconds": 3311,
         "sourceUrl": "https://vascern.eu/group/vascular-anomalies/training-and-education/webinars/",
         "accessVerified": true
       }
@@ -3656,10 +3687,10 @@
     ],
     "boardStatus": "No separate Pediatric Interventional Radiology board certification or exam was identified on current ABR certification pages as checked 2026-10-07. ABR IR/DR is the primary IR board pathway; ABR Pediatric Radiology is a distinct subspecialty certification. This curriculum maps educational topics to broad IR/DR domains and does not represent an official pediatric IR blueprint.",
     "boardEligibilityNotice": "Boston Children’s public page states candidates must hold ABR diagnostic radiology certification or equivalent and have completed a prior fellowship in pediatric or interventional radiology. That is an institutional fellowship prerequisite, not proof of eligibility for an ABR subspecialty exam. ABR Pediatric Radiology and IR/DR eligibility is governed by ABR rules and qualifying accredited training; verify current requirements directly. This independent course confers no eligibility, certification, licensure, procedural competence or exam outcome.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 13.41611111111111,
     "verifiedSpecialtyHours": 13.41611111111111,
-    "verifiedFoundationHours": 0.0,
+    "verifiedFoundationHours": 0,
     "hoursGap": 22.58388888888889,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
@@ -3844,11 +3875,11 @@
     ],
     "boardStatus": "No single examination or certifying board corresponds to the BIDMC category-level label “Radiology Fellowship.” The ABR Diagnostic Radiology Core exam is a residency-level breadth reference, not a fellowship credential. Current ABR subspecialty certification pathways/exams include neuroradiology, nuclear radiology, pediatric radiology and pain medicine. Of the exact eight BIDMC fellowship labels retained here, only Neuroradiology maps directly to the described ABR subspecialty exam. Nuclear and pediatric fellowships are not listed in the BIDMC directory; body MRI, cancer imaging, cross-sectional imaging, breast imaging, cardiothoracic imaging and MSK imaging do not each have a separate current ABR subspecialty exam under these names. ACGME programme accreditation is not board certification.",
     "boardEligibilityNotice": "This course grants no ABR eligibility. ABR primary Diagnostic Radiology certification requires the board’s current prior clinical training, accredited residency or approved alternate pathway, examinations, license and other criteria. ABR neuroradiology subspecialty eligibility requires a qualifying primary certificate, accredited neuroradiology fellowship and additional current requirements. Confirm the official board rules for the actual candidate and exam date; no guarantee of passing.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 0.0,
-    "verifiedSpecialtyHours": 0.0,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 36.0,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 0,
+    "verifiedSpecialtyHours": 0,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 36,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3925,7 +3956,7 @@
         "title": "Yale 20: Antibiotics Part I",
         "url": "https://www.youtube.com/watch?v=x3Rc-ib0ruM",
         "provider": "Yale School of Medicine / Yale Internal Medicine",
-        "durationSeconds": 1452.0,
+        "durationSeconds": 1452,
         "sourceUrl": "https://medicine.yale.edu/internal-medicine/media-player/yale-20-antibiotics-part-i/",
         "accessVerified": true
       },
@@ -3934,7 +3965,7 @@
         "title": "Yale 20: Antibiotics Part II",
         "url": "https://www.youtube.com/watch?v=OMzdQOpP4W0",
         "provider": "Yale School of Medicine / Yale Internal Medicine",
-        "durationSeconds": 566.0,
+        "durationSeconds": 566,
         "sourceUrl": "https://medicine.yale.edu/internal-medicine/media-player/yale-20-antibiotics-part-ii/",
         "accessVerified": true
       },
@@ -3943,7 +3974,7 @@
         "title": "Yale 20: Antibiotics Part III",
         "url": "https://www.youtube.com/watch?v=H176WgSAJCQ",
         "provider": "Yale School of Medicine / Yale Internal Medicine",
-        "durationSeconds": 375.0,
+        "durationSeconds": 375,
         "sourceUrl": "https://medicine.yale.edu/internal-medicine/media-player/yale-20-antibiotics-part-iii/",
         "accessVerified": true
       },
@@ -3952,7 +3983,7 @@
         "title": "Yale 20: Antibiotics Part IV",
         "url": "https://www.youtube.com/watch?v=DlNXMSvKK3A",
         "provider": "Yale School of Medicine / Yale Internal Medicine",
-        "durationSeconds": 733.0,
+        "durationSeconds": 733,
         "sourceUrl": "https://medicine.yale.edu/internal-medicine/media-player/yale-20-antibiotics-part-iv/",
         "accessVerified": true
       },
@@ -3970,7 +4001,7 @@
         "title": "Infectious Diseases Grand Rounds: Shingles Latency, Reactivation, and Prevention",
         "url": "https://www.youtube.com/watch?v=8LbkSfkVlkY",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1455.0,
+        "durationSeconds": 1455,
         "sourceUrl": "https://www.youtube.com/watch?v=8LbkSfkVlkY",
         "accessVerified": true
       },
@@ -3979,7 +4010,7 @@
         "title": "Infectious Diseases Grand Rounds: Prion Disease",
         "url": "https://www.youtube.com/watch?v=puSysma5PuI",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1361.0,
+        "durationSeconds": 1361,
         "sourceUrl": "https://www.youtube.com/watch?v=puSysma5PuI",
         "accessVerified": true
       },
@@ -3988,7 +4019,7 @@
         "title": "Infectious Diseases Grand Rounds: Types of Vaccines",
         "url": "https://www.youtube.com/watch?v=j_k5lieQg8o",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1306.0,
+        "durationSeconds": 1306,
         "sourceUrl": "https://www.youtube.com/watch?v=j_k5lieQg8o",
         "accessVerified": true
       },
@@ -3997,7 +4028,7 @@
         "title": "Infectious Disease Grand Rounds: IV to PO in Urine Source Gram-Negative Bacteremia",
         "url": "https://www.youtube.com/watch?v=2Dji60nUGaI",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1583.0,
+        "durationSeconds": 1583,
         "sourceUrl": "https://www.youtube.com/watch?v=2Dji60nUGaI",
         "accessVerified": true
       },
@@ -4006,7 +4037,7 @@
         "title": "Infectious Diseases Grand Rounds: Latent Tuberculosis Infection",
         "url": "https://www.youtube.com/watch?v=vmHQyakf80M",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1975.0,
+        "durationSeconds": 1975,
         "sourceUrl": "https://www.youtube.com/watch?v=vmHQyakf80M",
         "accessVerified": true
       },
@@ -4015,7 +4046,7 @@
         "title": "Infectious Diseases Grand Rounds: Infection Prevention and Control Through the Ages",
         "url": "https://www.youtube.com/watch?v=ozBq-tC-zuQ",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1698.0,
+        "durationSeconds": 1698,
         "sourceUrl": "https://www.youtube.com/watch?v=ozBq-tC-zuQ",
         "accessVerified": true
       },
@@ -4024,7 +4055,7 @@
         "title": "Infectious Diseases Grand Rounds: Beta Lactam Allergy",
         "url": "https://www.youtube.com/watch?v=D1IYqo1e3kM",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 3888.0,
+        "durationSeconds": 3888,
         "sourceUrl": "https://www.youtube.com/watch?v=D1IYqo1e3kM",
         "accessVerified": true
       },
@@ -4033,7 +4064,7 @@
         "title": "Infectious Diseases Grand Rounds: Pertussis: Historic Disease, A Persistent Threat",
         "url": "https://www.youtube.com/watch?v=fKSvIJL4SGk",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1576.0,
+        "durationSeconds": 1576,
         "sourceUrl": "https://www.youtube.com/watch?v=fKSvIJL4SGk",
         "accessVerified": true
       },
@@ -4042,7 +4073,7 @@
         "title": "Infectious Diseases Grand Rounds: Feel the heat? New fever in the ICU",
         "url": "https://www.youtube.com/watch?v=730wtYJQsc8",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1426.0,
+        "durationSeconds": 1426,
         "sourceUrl": "https://www.youtube.com/watch?v=730wtYJQsc8",
         "accessVerified": true
       },
@@ -4051,7 +4082,7 @@
         "title": "Infectious Diseases Grand Rounds: Candida Auris - A Growing Threat",
         "url": "https://www.youtube.com/watch?v=7gUImiLR8yk",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1560.0,
+        "durationSeconds": 1560,
         "sourceUrl": "https://www.youtube.com/watch?v=7gUImiLR8yk",
         "accessVerified": true
       },
@@ -4060,7 +4091,7 @@
         "title": "Infectious Diseases Grand Rounds: Measles, more than a rash",
         "url": "https://www.youtube.com/watch?v=sZZ_0KKzjCY",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1859.0,
+        "durationSeconds": 1859,
         "sourceUrl": "https://www.youtube.com/watch?v=sZZ_0KKzjCY",
         "accessVerified": true
       },
@@ -4069,7 +4100,7 @@
         "title": "Infectious Diseases Grand Rounds: Chronic Wounds - The Silent Epidemic",
         "url": "https://www.youtube.com/watch?v=Zgq___0raD8",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1682.0,
+        "durationSeconds": 1682,
         "sourceUrl": "https://www.youtube.com/watch?v=Zgq___0raD8",
         "accessVerified": true
       },
@@ -4078,7 +4109,7 @@
         "title": "Infectious Diseases Grand Rounds: Mycoplasma Pneumoniae",
         "url": "https://www.youtube.com/watch?v=y95EztrBmqU",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1513.0,
+        "durationSeconds": 1513,
         "sourceUrl": "https://www.youtube.com/watch?v=y95EztrBmqU",
         "accessVerified": true
       },
@@ -4087,7 +4118,7 @@
         "title": "Infectious Diseases Grand Rounds: Transmission Based Precautions",
         "url": "https://www.youtube.com/watch?v=HDNvQ5Mwl6w",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1435.0,
+        "durationSeconds": 1435,
         "sourceUrl": "https://www.youtube.com/watch?v=HDNvQ5Mwl6w",
         "accessVerified": true
       },
@@ -4096,7 +4127,7 @@
         "title": "Infectious Diseases Grand Rounds: Outbreaks what is happening around the globe",
         "url": "https://www.youtube.com/watch?v=o8Ts-qWyv-E",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1814.0,
+        "durationSeconds": 1814,
         "sourceUrl": "https://www.youtube.com/watch?v=o8Ts-qWyv-E",
         "accessVerified": true
       },
@@ -4105,7 +4136,7 @@
         "title": "Infectious Diseases Grand Rounds: Automation in Microbiology",
         "url": "https://www.youtube.com/watch?v=cKSNMSc1n6g",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2312.0,
+        "durationSeconds": 2312,
         "sourceUrl": "https://www.youtube.com/watch?v=cKSNMSc1n6g",
         "accessVerified": true
       },
@@ -4114,7 +4145,7 @@
         "title": "Infectious Diseases Grand Rounds: Tuberculosis Program Update from KDPH",
         "url": "https://www.youtube.com/watch?v=XAnYZx0dwfQ",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2951.0,
+        "durationSeconds": 2951,
         "sourceUrl": "https://www.youtube.com/watch?v=XAnYZx0dwfQ",
         "accessVerified": true
       },
@@ -4123,7 +4154,7 @@
         "title": "Infectious Diseases Grand Rounds: Tackling the Cycle of Recurrent C. difficile",
         "url": "https://www.youtube.com/watch?v=M8pnLrnQcXc",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1828.0,
+        "durationSeconds": 1828,
         "sourceUrl": "https://www.youtube.com/watch?v=M8pnLrnQcXc",
         "accessVerified": true
       },
@@ -4132,7 +4163,7 @@
         "title": "Infectious Diseases Grand Rounds: Malaria",
         "url": "https://www.youtube.com/watch?v=QaIQ5sZqGVg",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1987.0,
+        "durationSeconds": 1987,
         "sourceUrl": "https://www.youtube.com/watch?v=QaIQ5sZqGVg",
         "accessVerified": true
       },
@@ -4141,7 +4172,7 @@
         "title": "Infectious Diseases Grand Rounds: When Everything Goes Wrong - The Blood Culture Addition",
         "url": "https://www.youtube.com/watch?v=I3-1djczaZA",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2015.0,
+        "durationSeconds": 2015,
         "sourceUrl": "https://www.youtube.com/watch?v=I3-1djczaZA",
         "accessVerified": true
       },
@@ -4150,7 +4181,7 @@
         "title": "Infectious Diseases Grand Rounds: Foodborne Illnesses",
         "url": "https://www.youtube.com/watch?v=5viqlOOVAP0",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1926.0,
+        "durationSeconds": 1926,
         "sourceUrl": "https://www.youtube.com/watch?v=5viqlOOVAP0",
         "accessVerified": true
       },
@@ -4159,7 +4190,7 @@
         "title": "Infectious Diseases Grand Rounds: Highly Pathogenic Avian Influenza A(H5N1)",
         "url": "https://www.youtube.com/watch?v=ERFkp1n_D0o",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2058.0,
+        "durationSeconds": 2058,
         "sourceUrl": "https://www.youtube.com/watch?v=ERFkp1n_D0o",
         "accessVerified": true
       },
@@ -4168,7 +4199,7 @@
         "title": "Infectious Diseases Grand Rounds: The Most Interesting Bacterium in the World Helicobacter",
         "url": "https://www.youtube.com/watch?v=TpnC_kpGKqM",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2111.0,
+        "durationSeconds": 2111,
         "sourceUrl": "https://www.youtube.com/watch?v=TpnC_kpGKqM",
         "accessVerified": true
       },
@@ -4177,7 +4208,7 @@
         "title": "Infectious Diseases Grand Rounds: Community Acquired Pneumonia",
         "url": "https://www.youtube.com/watch?v=4ImQOq9gSuQ",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1879.0,
+        "durationSeconds": 1879,
         "sourceUrl": "https://www.youtube.com/watch?v=4ImQOq9gSuQ",
         "accessVerified": true
       },
@@ -4186,7 +4217,7 @@
         "title": "Infectious Diseases Grand Rounds: Mold Detection and Identification Techniques",
         "url": "https://www.youtube.com/watch?v=3r-E65SMI-c",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1979.0,
+        "durationSeconds": 1979,
         "sourceUrl": "https://www.youtube.com/watch?v=3r-E65SMI-c",
         "accessVerified": true
       },
@@ -4195,7 +4226,7 @@
         "title": "Infectious Diseases Grand Rounds: Matrix-Assisted Laser Desorption Ionization - MALDI",
         "url": "https://www.youtube.com/watch?v=o8PCoKLApbU",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2461.0,
+        "durationSeconds": 2461,
         "sourceUrl": "https://www.youtube.com/watch?v=o8PCoKLApbU",
         "accessVerified": true
       },
@@ -4204,7 +4235,7 @@
         "title": "Infectious Diseases Grand Rounds: Cool Molecular Tests – For Better and Worse",
         "url": "https://www.youtube.com/watch?v=GgzffxFmgZM",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2570.0,
+        "durationSeconds": 2570,
         "sourceUrl": "https://www.youtube.com/watch?v=GgzffxFmgZM",
         "accessVerified": true
       },
@@ -4213,7 +4244,7 @@
         "title": "Infectious Diseases Grand Rounds: Source Control",
         "url": "https://www.youtube.com/watch?v=0aFrwJF4C38",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1368.0,
+        "durationSeconds": 1368,
         "sourceUrl": "https://www.youtube.com/watch?v=0aFrwJF4C38",
         "accessVerified": true
       },
@@ -4222,7 +4253,7 @@
         "title": "Infectious Diseases Grand Rounds: Treatment of Intestinal Parasites",
         "url": "https://www.youtube.com/watch?v=FM0S7_uQ8HA",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1939.0,
+        "durationSeconds": 1939,
         "sourceUrl": "https://www.youtube.com/watch?v=FM0S7_uQ8HA",
         "accessVerified": true
       },
@@ -4231,7 +4262,7 @@
         "title": "Defending Against Chickenpox: The Power of Varicella Vaccination and Key Prevention Practices",
         "url": "https://www.youtube.com/watch?v=pWmUC6UNFuc",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1889.0,
+        "durationSeconds": 1889,
         "sourceUrl": "https://www.youtube.com/watch?v=pWmUC6UNFuc",
         "accessVerified": true
       },
@@ -4240,7 +4271,7 @@
         "title": "Infectious Diseases Grand Rounds: Intestinal Parasites",
         "url": "https://www.youtube.com/watch?v=SarS7aiMX4I",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2005.0,
+        "durationSeconds": 2005,
         "sourceUrl": "https://www.youtube.com/watch?v=SarS7aiMX4I",
         "accessVerified": true
       },
@@ -4249,7 +4280,7 @@
         "title": "Infectious Diseases Grand Rounds: Respiratory Illness: When should antibiotics be prescribed",
         "url": "https://www.youtube.com/watch?v=p5YRedLeif8",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1659.0,
+        "durationSeconds": 1659,
         "sourceUrl": "https://www.youtube.com/watch?v=p5YRedLeif8",
         "accessVerified": true
       },
@@ -4258,7 +4289,7 @@
         "title": "Infectious Diseases Grand Rounds: Catheter-Associated Urinary Tract Infection (CAUTI)",
         "url": "https://www.youtube.com/watch?v=Y18RzgXtdog",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1473.0,
+        "durationSeconds": 1473,
         "sourceUrl": "https://www.youtube.com/watch?v=Y18RzgXtdog",
         "accessVerified": true
       },
@@ -4267,7 +4298,7 @@
         "title": "Infectious Diseases Grand Rounds: Antimicrobial Stewardship for the Infection Preventionist",
         "url": "https://www.youtube.com/watch?v=MYR6w8gQVpI",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1928.0,
+        "durationSeconds": 1928,
         "sourceUrl": "https://www.youtube.com/watch?v=MYR6w8gQVpI",
         "accessVerified": true
       },
@@ -4276,7 +4307,7 @@
         "title": "Infectious Diseases Grand Rounds: Yeast Infections: a brief overview of colonization vs infection",
         "url": "https://www.youtube.com/watch?v=1Jn46lXpc5I",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1652.0,
+        "durationSeconds": 1652,
         "sourceUrl": "https://www.youtube.com/watch?v=1Jn46lXpc5I",
         "accessVerified": true
       },
@@ -4285,7 +4316,7 @@
         "title": "Infectious Diseases Grand Rounds: Yeast Infections",
         "url": "https://www.youtube.com/watch?v=iJwUBliwE4o",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2259.0,
+        "durationSeconds": 2259,
         "sourceUrl": "https://www.youtube.com/watch?v=iJwUBliwE4o",
         "accessVerified": true
       },
@@ -4294,7 +4325,7 @@
         "title": "Infectious Diseases Grand Rounds: Animal Bites and Exposure",
         "url": "https://www.youtube.com/watch?v=INJCVRxGUxg",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1640.0,
+        "durationSeconds": 1640,
         "sourceUrl": "https://www.youtube.com/watch?v=INJCVRxGUxg",
         "accessVerified": true
       },
@@ -4303,7 +4334,7 @@
         "title": "Infectious Diseases Grand Rounds: What we get from our pets",
         "url": "https://www.youtube.com/watch?v=pAwszazyZFs",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2047.0,
+        "durationSeconds": 2047,
         "sourceUrl": "https://www.youtube.com/watch?v=pAwszazyZFs",
         "accessVerified": true
       },
@@ -4312,7 +4343,7 @@
         "title": "Infectious Diseases Grand Rounds: Community-Acquired Pneumonia: Short and to the Point",
         "url": "https://www.youtube.com/watch?v=CvwshFNfGK4",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2623.0,
+        "durationSeconds": 2623,
         "sourceUrl": "https://www.youtube.com/watch?v=CvwshFNfGK4",
         "accessVerified": true
       },
@@ -4321,7 +4352,7 @@
         "title": "Infectious Diseases Grand Rounds: Gram-Negative Bacteria in Blood Cultures",
         "url": "https://www.youtube.com/watch?v=PLSOdYE2yzc",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2011.0,
+        "durationSeconds": 2011,
         "sourceUrl": "https://www.youtube.com/watch?v=PLSOdYE2yzc",
         "accessVerified": true
       },
@@ -4330,7 +4361,7 @@
         "title": "Infectious Diseases Grand Rounds: Infectious Gastroenteritis: A Microbiology Case",
         "url": "https://www.youtube.com/watch?v=dq-JBrvn8Xs",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2676.0,
+        "durationSeconds": 2676,
         "sourceUrl": "https://www.youtube.com/watch?v=dq-JBrvn8Xs",
         "accessVerified": true
       },
@@ -4339,7 +4370,7 @@
         "title": "Infectious Diseases Grand Rounds: The ABCs of Beta-lactamase",
         "url": "https://www.youtube.com/watch?v=riAlCTBIp9g",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2889.0,
+        "durationSeconds": 2889,
         "sourceUrl": "https://www.youtube.com/watch?v=riAlCTBIp9g",
         "accessVerified": true
       },
@@ -4348,7 +4379,7 @@
         "title": "Infectious Diseases Grand Rounds: Tick-Borne Illnesses",
         "url": "https://www.youtube.com/watch?v=qH4vLLN_myQ",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2123.0,
+        "durationSeconds": 2123,
         "sourceUrl": "https://www.youtube.com/watch?v=qH4vLLN_myQ",
         "accessVerified": true
       },
@@ -4357,7 +4388,7 @@
         "title": "Infectious Diseases Grand Rounds: Travel Screening",
         "url": "https://www.youtube.com/watch?v=y7hZA4FMeDs",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1502.0,
+        "durationSeconds": 1502,
         "sourceUrl": "https://www.youtube.com/watch?v=y7hZA4FMeDs",
         "accessVerified": true
       },
@@ -4366,7 +4397,7 @@
         "title": "Infectious Diseases Grand Rounds: Antimicrobial Prophylaxis in Surgery",
         "url": "https://www.youtube.com/watch?v=xPEbCpXQobs",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1764.0,
+        "durationSeconds": 1764,
         "sourceUrl": "https://www.youtube.com/watch?v=xPEbCpXQobs",
         "accessVerified": true
       },
@@ -4375,7 +4406,7 @@
         "title": "Infectious Diseases Grand Rounds: Antimicrobial Stewardship: Are we missing something?",
         "url": "https://www.youtube.com/watch?v=_4J_lyIN3lQ",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1901.0,
+        "durationSeconds": 1901,
         "sourceUrl": "https://www.youtube.com/watch?v=_4J_lyIN3lQ",
         "accessVerified": true
       },
@@ -4384,7 +4415,7 @@
         "title": "Infectious Diseases Grand Rounds: Surgical Specimens in Microbiology",
         "url": "https://www.youtube.com/watch?v=VvUuLez4Anw",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2328.0,
+        "durationSeconds": 2328,
         "sourceUrl": "https://www.youtube.com/watch?v=VvUuLez4Anw",
         "accessVerified": true
       },
@@ -4393,7 +4424,7 @@
         "title": "Infectious Diseases Grand Rounds: Treatment of Sexually Transmitted Infections",
         "url": "https://www.youtube.com/watch?v=fspldJrWc84",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1904.0,
+        "durationSeconds": 1904,
         "sourceUrl": "https://www.youtube.com/watch?v=fspldJrWc84",
         "accessVerified": true
       },
@@ -4402,7 +4433,7 @@
         "title": "Infectious Diseases Grand Rounds: The Ins N Outs of ESBL Management",
         "url": "https://www.youtube.com/watch?v=Pq2LU4RXmOQ",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1231.0,
+        "durationSeconds": 1231,
         "sourceUrl": "https://www.youtube.com/watch?v=Pq2LU4RXmOQ",
         "accessVerified": true
       },
@@ -4411,7 +4442,7 @@
         "title": "Infectious Diseases Grand Rounds: Non tuberculosis Mycobacteria NTM Infections",
         "url": "https://www.youtube.com/watch?v=ppVIUeaFJ5c",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1776.0,
+        "durationSeconds": 1776,
         "sourceUrl": "https://www.youtube.com/watch?v=ppVIUeaFJ5c",
         "accessVerified": true
       },
@@ -4420,7 +4451,7 @@
         "title": "Infectious Diseases Grand Rounds: Lab Testing for Sexually Transmitted Diseases",
         "url": "https://www.youtube.com/watch?v=rMGloV83BJQ",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2440.0,
+        "durationSeconds": 2440,
         "sourceUrl": "https://www.youtube.com/watch?v=rMGloV83BJQ",
         "accessVerified": true
       },
@@ -4429,7 +4460,7 @@
         "title": "Infectious Diseases Grand Rounds: Cleaning and Disinfecting for Infection Control and Prevention",
         "url": "https://www.youtube.com/watch?v=-aH5T8WLHEg",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1718.0,
+        "durationSeconds": 1718,
         "sourceUrl": "https://www.youtube.com/watch?v=-aH5T8WLHEg",
         "accessVerified": true
       },
@@ -4438,7 +4469,7 @@
         "title": "Infectious Diseases Grand Rounds: Antimicrobial Stewardship in Ambulatory Care",
         "url": "https://www.youtube.com/watch?v=Nqi5ykj17Vo",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1878.0,
+        "durationSeconds": 1878,
         "sourceUrl": "https://www.youtube.com/watch?v=Nqi5ykj17Vo",
         "accessVerified": true
       },
@@ -4447,7 +4478,7 @@
         "title": "Grand Rounds: Candida auris: Kentucky 2021-2022 Interfacility Communication",
         "url": "https://www.youtube.com/watch?v=1pLQRaksbJY",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2623.0,
+        "durationSeconds": 2623,
         "sourceUrl": "https://www.youtube.com/watch?v=1pLQRaksbJY",
         "accessVerified": true
       },
@@ -4456,7 +4487,7 @@
         "title": "Grand Rounds: Making Sense of Germicides: An Infection Control Primer",
         "url": "https://www.youtube.com/watch?v=PEbJZTEsg0k",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2776.0,
+        "durationSeconds": 2776,
         "sourceUrl": "https://www.youtube.com/watch?v=PEbJZTEsg0k",
         "accessVerified": true
       },
@@ -4465,7 +4496,7 @@
         "title": "Grand Rounds: Bacterial Pneumonia: It's Not That Simple",
         "url": "https://www.youtube.com/watch?v=wRGY3Z0mSmo",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2872.0,
+        "durationSeconds": 2872,
         "sourceUrl": "https://www.youtube.com/watch?v=wRGY3Z0mSmo",
         "accessVerified": true
       },
@@ -4474,7 +4505,7 @@
         "title": "Grand Rounds: Flu Season: What You Need to Know",
         "url": "https://www.youtube.com/watch?v=oOPMuwAjY5k",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2627.0,
+        "durationSeconds": 2627,
         "sourceUrl": "https://www.youtube.com/watch?v=oOPMuwAjY5k",
         "accessVerified": true
       },
@@ -4483,7 +4514,7 @@
         "title": "Grand Rounds: Sniffles, Snorts, Coughs, And Hacks: The Era of Modern Respiratory Infections",
         "url": "https://www.youtube.com/watch?v=kVm9zoHKcvk",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2582.0,
+        "durationSeconds": 2582,
         "sourceUrl": "https://www.youtube.com/watch?v=kVm9zoHKcvk",
         "accessVerified": true
       },
@@ -4492,7 +4523,7 @@
         "title": "Grand Rounds: Vancomycin and Piperacillin/Tazobactam : Where Do We Stand?",
         "url": "https://www.youtube.com/watch?v=nL8suh2Xy2Y",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2380.0,
+        "durationSeconds": 2380,
         "sourceUrl": "https://www.youtube.com/watch?v=nL8suh2Xy2Y",
         "accessVerified": true
       },
@@ -4501,7 +4532,7 @@
         "title": "Grand Rounds: Risks of Antimicrobial Use",
         "url": "https://www.youtube.com/watch?v=TrmjV64xpH4",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2257.0,
+        "durationSeconds": 2257,
         "sourceUrl": "https://www.youtube.com/watch?v=TrmjV64xpH4",
         "accessVerified": true
       },
@@ -4510,7 +4541,7 @@
         "title": "Grand Rounds: Antibiograms: Creating Them / Antibiograms: Using Them",
         "url": "https://www.youtube.com/watch?v=P4sLBZBTfYg",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 3277.0,
+        "durationSeconds": 3277,
         "sourceUrl": "https://www.youtube.com/watch?v=P4sLBZBTfYg",
         "accessVerified": true
       },
@@ -4519,7 +4550,7 @@
         "title": "Grand Rounds: IV to Oral Antibiotic Administration",
         "url": "https://www.youtube.com/watch?v=X9pM8NaaANE",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1883.0,
+        "durationSeconds": 1883,
         "sourceUrl": "https://www.youtube.com/watch?v=X9pM8NaaANE",
         "accessVerified": true
       },
@@ -4528,7 +4559,7 @@
         "title": "Grand Rounds:  Introduction to Pharmacokinetics and Pharmacodynamics in Infectious Diseases",
         "url": "https://www.youtube.com/watch?v=Ge7AFJ9EPnk",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2356.0,
+        "durationSeconds": 2356,
         "sourceUrl": "https://www.youtube.com/watch?v=Ge7AFJ9EPnk",
         "accessVerified": true
       },
@@ -4537,7 +4568,7 @@
         "title": "Grand Rounds: Need for Speed: Blood Culture Rapid Diagnostics and Antimicrobial Stewardship",
         "url": "https://www.youtube.com/watch?v=q3lb7scgqPA",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2771.0,
+        "durationSeconds": 2771,
         "sourceUrl": "https://www.youtube.com/watch?v=q3lb7scgqPA",
         "accessVerified": true
       },
@@ -4546,7 +4577,7 @@
         "title": "Grand Rounds: \"Etiology of Respiratory Tract Infections: Historical Perspective\"",
         "url": "https://www.youtube.com/watch?v=XZ0SlWyioEw",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2929.0,
+        "durationSeconds": 2929,
         "sourceUrl": "https://www.youtube.com/watch?v=XZ0SlWyioEw",
         "accessVerified": true
       },
@@ -4555,7 +4586,7 @@
         "title": "Grand Rounds: The Convoluted History of Clostridiodes difficile Testing",
         "url": "https://www.youtube.com/watch?v=J_Ryx2mjxu0",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2871.0,
+        "durationSeconds": 2871,
         "sourceUrl": "https://www.youtube.com/watch?v=J_Ryx2mjxu0",
         "accessVerified": true
       },
@@ -4564,7 +4595,7 @@
         "title": "Grand Rounds: Urine Cultures",
         "url": "https://www.youtube.com/watch?v=Ymb6jilqTn0",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 3166.0,
+        "durationSeconds": 3166,
         "sourceUrl": "https://www.youtube.com/watch?v=Ymb6jilqTn0",
         "accessVerified": true
       },
@@ -4573,7 +4604,7 @@
         "title": "Grand Rounds: Principles of Infection Control for Monkeypox",
         "url": "https://www.youtube.com/watch?v=Kroey4B81Vk",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2663.0,
+        "durationSeconds": 2663,
         "sourceUrl": "https://www.youtube.com/watch?v=Kroey4B81Vk",
         "accessVerified": true
       },
@@ -4582,7 +4613,7 @@
         "title": "Grand Rounds: The Mathematics of Laboratory Testing in the Age of COVID",
         "url": "https://www.youtube.com/watch?v=3U5mdtH_Hx4",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2911.0,
+        "durationSeconds": 2911,
         "sourceUrl": "https://www.youtube.com/watch?v=3U5mdtH_Hx4",
         "accessVerified": true
       },
@@ -4591,7 +4622,7 @@
         "title": "Grand Rounds: Vexed by Viruses: Viral Illness and Antimicrobial Stewardship",
         "url": "https://www.youtube.com/watch?v=o4SdLSfsYNU",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2742.0,
+        "durationSeconds": 2742,
         "sourceUrl": "https://www.youtube.com/watch?v=o4SdLSfsYNU",
         "accessVerified": true
       },
@@ -4600,7 +4631,7 @@
         "title": "Grand Rounds: COVID-19",
         "url": "https://www.youtube.com/watch?v=1kD3Gm4TVHc",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2409.0,
+        "durationSeconds": 2409,
         "sourceUrl": "https://www.youtube.com/watch?v=1kD3Gm4TVHc",
         "accessVerified": true
       },
@@ -4609,7 +4640,7 @@
         "title": "Grand Rounds: Improving the Reliability of Blood Cultures",
         "url": "https://www.youtube.com/watch?v=bHNYEnkWEh0",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 3395.0,
+        "durationSeconds": 3395,
         "sourceUrl": "https://www.youtube.com/watch?v=bHNYEnkWEh0",
         "accessVerified": true
       },
@@ -4618,7 +4649,7 @@
         "title": "Grand Rounds: Dissecting the Susceptibility Report",
         "url": "https://www.youtube.com/watch?v=lUb6I1XfTdc",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2918.0,
+        "durationSeconds": 2918,
         "sourceUrl": "https://www.youtube.com/watch?v=lUb6I1XfTdc",
         "accessVerified": true
       },
@@ -4627,7 +4658,7 @@
         "title": "Grand Rounds: The Basics of Laboratory Diagnosis of Infectious Diseases",
         "url": "https://www.youtube.com/watch?v=A0ww6JnafvE",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2348.0,
+        "durationSeconds": 2348,
         "sourceUrl": "https://www.youtube.com/watch?v=A0ww6JnafvE",
         "accessVerified": true
       },
@@ -4636,7 +4667,7 @@
         "title": "Grand Rounds: Reducing Device-Related Infections: A Closer look at CAUIT and CLABSI Preventions",
         "url": "https://www.youtube.com/watch?v=YiTqO0UFv_o",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2581.0,
+        "durationSeconds": 2581,
         "sourceUrl": "https://www.youtube.com/watch?v=YiTqO0UFv_o",
         "accessVerified": true
       },
@@ -4645,7 +4676,7 @@
         "title": "Grand Rounds: Review of Carbapenem-Resistant Organisms (CROs) in Kentucky",
         "url": "https://www.youtube.com/watch?v=ovxnzektGpQ",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2589.0,
+        "durationSeconds": 2589,
         "sourceUrl": "https://www.youtube.com/watch?v=ovxnzektGpQ",
         "accessVerified": true
       },
@@ -4654,7 +4685,7 @@
         "title": "Grand Rounds : Asymptomatic Bacteriuria Overview",
         "url": "https://www.youtube.com/watch?v=1hu9FZwULiQ",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2116.0,
+        "durationSeconds": 2116,
         "sourceUrl": "https://www.youtube.com/watch?v=1hu9FZwULiQ",
         "accessVerified": true
       },
@@ -4663,7 +4694,7 @@
         "title": "Grand Rounds: A Program to Control Multidrug-Resistant Organisms in Healthcare Settings",
         "url": "https://www.youtube.com/watch?v=ItIjba6H2F4",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 2008.0,
+        "durationSeconds": 2008,
         "sourceUrl": "https://www.youtube.com/watch?v=ItIjba6H2F4",
         "accessVerified": true
       },
@@ -4672,7 +4703,7 @@
         "title": "Grand Rounds: The Ins and Outs of Clostridioides difficile",
         "url": "https://www.youtube.com/watch?v=Qho1slBF2x0",
         "provider": "Norton Infectious Diseases Institute",
-        "durationSeconds": 1977.0,
+        "durationSeconds": 1977,
         "sourceUrl": "https://www.youtube.com/watch?v=Qho1slBF2x0",
         "accessVerified": true
       }
@@ -4906,11 +4937,11 @@
     ],
     "boardStatus": "A separate ABIM subspecialty certification examination in Infectious Disease exists. ABIM requires prior ABIM Internal Medicine certification, satisfactory accredited fellowship training, clinical competence and licensure; its current published policy specifies at least 24 total months including 12 full-time clinical months, and no required procedures. Johns Hopkins labels its Adult Infectious Diseases fellowship ACGME-accredited. ACGME requirements effective 2026 specify a 24-month ID program. Verify each rule with ABIM/ACGME at application; this independent course is not board-eligible training.",
     "boardEligibilityNotice": "Educational self-study does not grant ABIM eligibility. Eligibility depends on prerequisite certification, accredited training, clinical competence, licensure and current ABIM policy. No course, videos, MCQs, or certificate can confer board eligibility or guarantee a pass.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 49.13180416666667,
     "verifiedSpecialtyHours": 48.32888888888889,
     "verifiedFoundationHours": 0.8029152777777777,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -4964,7 +4995,7 @@
         "title": "Genetics and Genetic Testing 101 Lecture: Pedigrees, Penetrance, and Purgatory",
         "url": "https://www.youtube.com/watch?v=-sPJUEZ13UI",
         "provider": "Mayo Clinic (Mayo Clinic YouTube channel)",
-        "durationSeconds": 2985.0,
+        "durationSeconds": 2985,
         "sourceUrl": "https://www.youtube.com/watch?v=-sPJUEZ13UI",
         "accessVerified": true
       },
@@ -4973,7 +5004,7 @@
         "title": "Genetic Diseases 3: Genetic testing technologies",
         "url": "https://www.youtube.com/watch?v=jsK7DDZT47E",
         "provider": "pedscases / University of British Columbia medical education collaborators",
-        "durationSeconds": 1031.0,
+        "durationSeconds": 1031,
         "sourceUrl": "https://www.youtube.com/watch?v=jsK7DDZT47E",
         "accessVerified": true
       },
@@ -4982,7 +5013,7 @@
         "title": "WEBINAR: Cancer Survivorship and Role of Genetics & Genomics",
         "url": "https://www.youtube.com/watch?v=O6bNc09n0jY",
         "provider": "Cooper Norcross Health / MD Anderson Cancer Center at Cooper",
-        "durationSeconds": 2498.0,
+        "durationSeconds": 2498,
         "sourceUrl": "https://www.youtube.com/watch?v=O6bNc09n0jY",
         "accessVerified": true
       },
@@ -4991,7 +5022,7 @@
         "title": "The Basics of Inborn Errors of Metabolism | Webinar | Ambry Genetics",
         "url": "https://www.youtube.com/watch?v=GOa4Lq_1StI",
         "provider": "Ambry Genetics",
-        "durationSeconds": 3119.0,
+        "durationSeconds": 3119,
         "sourceUrl": "https://www.youtube.com/watch?v=GOa4Lq_1StI",
         "accessVerified": true
       },
@@ -5000,7 +5031,7 @@
         "title": "Newborn Screening: Beyond the Bloodspot",
         "url": "https://www.youtube.com/watch?v=rqW8IjdE0nY",
         "provider": "Mount Sinai Genetics and Genomic Sciences",
-        "durationSeconds": 2780.0,
+        "durationSeconds": 2780,
         "sourceUrl": "https://www.youtube.com/watch?v=rqW8IjdE0nY",
         "accessVerified": true
       },
@@ -5009,7 +5040,7 @@
         "title": "Adult Neurogenetic Conditions",
         "url": "https://www.youtube.com/watch?v=ITBWyGCefW8",
         "provider": "Baylor College of Medicine — Evenings with Genetics",
-        "durationSeconds": 4041.0,
+        "durationSeconds": 4041,
         "sourceUrl": "https://www.youtube.com/watch?v=ITBWyGCefW8",
         "accessVerified": true
       },
@@ -5018,7 +5049,7 @@
         "title": "Liver Disease due to Inborn Errors of Metabolism",
         "url": "https://www.youtube.com/watch?v=srmko62e3mo",
         "provider": "Mount Sinai Genetics and Genomic Sciences",
-        "durationSeconds": 4364.0,
+        "durationSeconds": 4364,
         "sourceUrl": "https://www.youtube.com/watch?v=srmko62e3mo",
         "accessVerified": true
       },
@@ -5027,7 +5058,7 @@
         "title": "Advances in Oncology Genetic Testing: From Blood Draw to Interpretation",
         "url": "https://www.youtube.com/watch?v=Nwzt6GESJyE",
         "provider": "Mount Sinai Genetics and Genomic Sciences",
-        "durationSeconds": 2635.0,
+        "durationSeconds": 2635,
         "sourceUrl": "https://www.youtube.com/watch?v=Nwzt6GESJyE",
         "accessVerified": true
       },
@@ -5036,7 +5067,7 @@
         "title": "Recent Advances in the Epidemiology and Genetics of Bipolar Disorder - Kathleen Merikangas",
         "url": "https://www.youtube.com/watch?v=Kyxsif7XBvI",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 4192.0,
+        "durationSeconds": 4192,
         "sourceUrl": "https://www.genome.gov/27556434/2014-gim-lectures",
         "accessVerified": true
       },
@@ -5045,7 +5076,7 @@
         "title": "Uses and Misuses of Clinical Genetic Testing in Psychiatry - Francis McMahon",
         "url": "https://www.youtube.com/watch?v=vlL1c3Yf_dk",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3614.0,
+        "durationSeconds": 3614,
         "sourceUrl": "https://www.genome.gov/27556434/2014-gim-lectures",
         "accessVerified": true
       },
@@ -5054,7 +5085,7 @@
         "title": "Genetic Testing for Neurological Diseases - Kurt Fischbeck",
         "url": "https://www.youtube.com/watch?v=8e7exYO06tA",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3939.0,
+        "durationSeconds": 3939,
         "sourceUrl": "https://www.genome.gov/27556434/2014-gim-lectures",
         "accessVerified": true
       },
@@ -5063,7 +5094,7 @@
         "title": "Genome and Transcriptome Dynamics in Cancer Cells - Thomas Ried",
         "url": "https://www.youtube.com/watch?v=rSR5r6w9p5E",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3336.0,
+        "durationSeconds": 3336,
         "sourceUrl": "https://www.genome.gov/27553517/20132014-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5072,7 +5103,7 @@
         "title": "When the Lifeguard for the Gene Pool Goes on Strike: DNA Repair Disorders Xeroderma Pigmentosum and Trichothiodystrophy - Kenneth Kraemer",
         "url": "https://www.youtube.com/watch?v=_z0kEsvCw9k",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3616.0,
+        "durationSeconds": 3616,
         "sourceUrl": "https://www.genome.gov/27553517/20132014-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5081,7 +5112,7 @@
         "title": "Genetics and Genomics of Thyroid Neoplasms: Moving Closer towards Personalized Patient Care - Electron Kebebew",
         "url": "https://www.youtube.com/watch?v=YTSS0bHV1Nk",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3581.0,
+        "durationSeconds": 3581,
         "sourceUrl": "https://www.genome.gov/27553517/20132014-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5090,7 +5121,7 @@
         "title": "Practicing Precision Medicine in Cancer Using Genomics - Louis Staudt",
         "url": "https://www.youtube.com/watch?v=QF6sSkOU7Ro",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3817.0,
+        "durationSeconds": 3817,
         "sourceUrl": "https://www.genome.gov/27553517/20132014-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5099,7 +5130,7 @@
         "title": "Targeting the Genetic Basis of Kidney Cancer: A Metabolic Disease - W. Marston Linehan",
         "url": "https://www.youtube.com/watch?v=oxRXDElQ_nQ",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 4239.0,
+        "durationSeconds": 4239,
         "sourceUrl": "https://www.genome.gov/27553517/20132014-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5108,7 +5139,7 @@
         "title": "Cancer Genomics and Precision Medicine in the 21st Century - Lee Helman",
         "url": "https://www.youtube.com/watch?v=B6qsUwK2Gdw",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3132.0,
+        "durationSeconds": 3132,
         "sourceUrl": "https://www.genome.gov/27553517/20132014-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5117,7 +5148,7 @@
         "title": "The New Telomere Diseases: Organ Failure and Cancer - Neal Young",
         "url": "https://www.youtube.com/watch?v=-JFyiM6Iuz4",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3682.0,
+        "durationSeconds": 3682,
         "sourceUrl": "https://www.genome.gov/27553517/20132014-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5126,7 +5157,7 @@
         "title": "Use of Pharmacogenetics in Clinical Medicine - Tristan Sissung",
         "url": "https://www.youtube.com/watch?v=KOiOC7KuHnM",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3400.0,
+        "durationSeconds": 3400,
         "sourceUrl": "https://www.genome.gov/27549874/20122013-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5135,7 +5166,7 @@
         "title": "Ophthalmic Genetics and Clinical Treatment Opportunities - Paul Sieving",
         "url": "https://www.youtube.com/watch?v=KNd1Utv4LPw",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3464.0,
+        "durationSeconds": 3464,
         "sourceUrl": "https://www.genome.gov/27549874/20122013-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5144,7 +5175,7 @@
         "title": "Diagnosis and Management of Neuromuscular Disease in the Genomic Era - Kenneth Fischbeck",
         "url": "https://www.youtube.com/watch?v=okFRLATDV8Q",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3772.0,
+        "durationSeconds": 3772,
         "sourceUrl": "https://www.genome.gov/27549874/20122013-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5153,7 +5184,7 @@
         "title": "The Genetics of Parkinson Disease: Insights from a Mendelian Disorder - Ellen Sidransky",
         "url": "https://www.youtube.com/watch?v=KSjXhjF54yU",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3752.0,
+        "durationSeconds": 3752,
         "sourceUrl": "https://www.genome.gov/27549874/20122013-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5162,7 +5193,7 @@
         "title": "The Genomics of Attention Deficit Hyperactivity Disorder - Maximillian Muenke",
         "url": "https://www.youtube.com/watch?v=HW6zDGwn0Ok",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3991.0,
+        "durationSeconds": 3991,
         "sourceUrl": "https://www.genome.gov/27549874/20122013-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5171,7 +5202,7 @@
         "title": "Horror Autoinflammaticus: Adventures in the Genomics of Inflammation - Daniel Kastner",
         "url": "https://www.youtube.com/watch?v=hBjLObwiTEE",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 4137.0,
+        "durationSeconds": 4137,
         "sourceUrl": "https://www.genome.gov/27549874/20122013-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5180,7 +5211,7 @@
         "title": "The heart of the matter: genomics and cardiovascular disease - Leslie Biesecker",
         "url": "https://www.youtube.com/watch?v=Kg82C4di5Ck",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 4237.0,
+        "durationSeconds": 4237,
         "sourceUrl": "https://www.genome.gov/27546022/20112012-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5189,7 +5220,7 @@
         "title": "Genomics in Maternal Child Health - Barbara Biesecker",
         "url": "https://www.youtube.com/watch?v=X6Wrp6_X8Gw",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3680.0,
+        "durationSeconds": 3680,
         "sourceUrl": "https://www.genome.gov/27546022/20112012-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5198,7 +5229,7 @@
         "title": "Rational therapeutics for genetic conditions - Hal Dietz",
         "url": "https://www.youtube.com/watch?v=pMYmIbCwX2s",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3867.0,
+        "durationSeconds": 3867,
         "sourceUrl": "https://www.genome.gov/27546022/20112012-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5207,7 +5238,7 @@
         "title": "Breast Cancer Diagnosis and Treatment - Stanley Lipkowitz",
         "url": "https://www.youtube.com/watch?v=TRD3od6-8eI",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3562.0,
+        "durationSeconds": 3562,
         "sourceUrl": "https://www.genome.gov/27546022/20112012-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5216,7 +5247,7 @@
         "title": "Breast Cancer Genes, Risk Assessment and Screening - Lawrence Brody",
         "url": "https://www.youtube.com/watch?v=21yzxD3CFhA",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 3182.0,
+        "durationSeconds": 3182,
         "sourceUrl": "https://www.genome.gov/27546022/20112012-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5225,7 +5256,7 @@
         "title": "The Human Genome and Individualized Medicine - David Valle",
         "url": "https://www.youtube.com/watch?v=rnMW3fdCV5g",
         "provider": "National Human Genome Research Institute (NHGRI), in collaboration with Suburban Hospital and Johns Hopkins University School of Medicine",
-        "durationSeconds": 4315.0,
+        "durationSeconds": 4315,
         "sourceUrl": "https://www.genome.gov/27546022/20112012-genomics-in-medicine-lecture-series",
         "accessVerified": true
       },
@@ -5234,7 +5265,7 @@
         "title": "The Dark Side of the Genome: Challenges and Opportunities in the Post-Genomic Era",
         "url": "https://www.youtube.com/watch?v=e0_FCCY9XJk",
         "provider": "European Society of Human Genetics (ESHG)",
-        "durationSeconds": 3685.0,
+        "durationSeconds": 3685,
         "sourceUrl": "https://www.eshg.org/education/webinar-conference-library/eshg-webinar-series-archive",
         "accessVerified": true
       },
@@ -5243,7 +5274,7 @@
         "title": "The non-coding exome in rare disease: from diagnosis to therapies",
         "url": "https://www.youtube.com/watch?v=-yVLjUnC0Q8",
         "provider": "European Society of Human Genetics (ESHG)",
-        "durationSeconds": 3488.0,
+        "durationSeconds": 3488,
         "sourceUrl": "https://www.eshg.org/education/webinar-conference-library/eshg-webinar-series-archive",
         "accessVerified": true
       },
@@ -5252,7 +5283,7 @@
         "title": "Making sense of genetic associations",
         "url": "https://www.youtube.com/watch?v=TLcrzteu7lI",
         "provider": "European Society of Human Genetics (ESHG)",
-        "durationSeconds": 3485.0,
+        "durationSeconds": 3485,
         "sourceUrl": "https://www.eshg.org/education/webinar-conference-library/eshg-webinar-series-archive",
         "accessVerified": true
       },
@@ -5261,7 +5292,7 @@
         "title": "Leveraging population data to improve variant interpretation",
         "url": "https://www.youtube.com/watch?v=pWhienkM6L4",
         "provider": "European Society of Human Genetics (ESHG)",
-        "durationSeconds": 3538.0,
+        "durationSeconds": 3538,
         "sourceUrl": "https://www.eshg.org/education/webinar-conference-library/eshg-webinar-series-archive",
         "accessVerified": true
       },
@@ -5270,7 +5301,7 @@
         "title": "From Chromatinopathies to Episignatures",
         "url": "https://www.youtube.com/watch?v=GMgWiGXq6mc",
         "provider": "European Society of Human Genetics (ESHG)",
-        "durationSeconds": 3616.0,
+        "durationSeconds": 3616,
         "sourceUrl": "https://www.eshg.org/education/webinar-conference-library/eshg-webinar-series-archive",
         "accessVerified": true
       },
@@ -5279,7 +5310,7 @@
         "title": "Translating long read genome sequencing to clinical applications for rare diseases",
         "url": "https://www.youtube.com/watch?v=j5h2BxPHAIY",
         "provider": "European Society of Human Genetics (ESHG)",
-        "durationSeconds": 3628.0,
+        "durationSeconds": 3628,
         "sourceUrl": "https://www.eshg.org/education/webinar-conference-library/eshg-webinar-series-archive",
         "accessVerified": true
       },
@@ -5288,7 +5319,7 @@
         "title": "ESHG Webinar Series Season 2 Episode 2 with Amanda Pichini, James R. Bonham and Gulcin Gumus",
         "url": "https://www.youtube.com/watch?v=3WCe7vHX784",
         "provider": "European Society of Human Genetics (ESHG)",
-        "durationSeconds": 4374.0,
+        "durationSeconds": 4374,
         "sourceUrl": "https://www.eshg.org/education/webinar-conference-library/eshg-webinar-series-archive",
         "accessVerified": true
       },
@@ -5297,7 +5328,7 @@
         "title": "ESHG Webinar Series Season 2 Episode 4 with Alexandre Reymond",
         "url": "https://www.youtube.com/watch?v=hyhdnnpWUkY",
         "provider": "European Society of Human Genetics (ESHG)",
-        "durationSeconds": 3629.0,
+        "durationSeconds": 3629,
         "sourceUrl": "https://youtube.com/playlist?list=PLi2PVGG1ibsa8ccyTwsFePvl-ZZO-TEGO",
         "accessVerified": true
       },
@@ -5306,7 +5337,7 @@
         "title": "Medical genomics in underrepresented populations from Latin America to the Pacific",
         "url": "https://www.youtube.com/watch?v=TLyky0Db6hU",
         "provider": "National Human Genome Research Institute (NHGRI); the series is co-sponsored with relevant NIH institutes and partners",
-        "durationSeconds": 4089.0,
+        "durationSeconds": 4089,
         "sourceUrl": "https://www.genome.gov/event-calendar/Genomics-Health-Disparities-Lecture-Series",
         "accessVerified": true
       },
@@ -5315,7 +5346,7 @@
         "title": "Understanding Health Disparities in Kidney Diseases Through Genetic Studies - Ali Gharavi",
         "url": "https://www.youtube.com/watch?v=gw7yNN4ipr0",
         "provider": "National Human Genome Research Institute (NHGRI); the series is co-sponsored with relevant NIH institutes and partners",
-        "durationSeconds": 4288.0,
+        "durationSeconds": 4288,
         "sourceUrl": "https://www.genome.gov/event-calendar/Genomics-Health-Disparities-Lecture-Series",
         "accessVerified": true
       },
@@ -5324,7 +5355,7 @@
         "title": "Subtype-specific Breast Cancer Risk in Highly Indigenous Latin American Women - Laura Fejerman",
         "url": "https://www.youtube.com/watch?v=m5LPtN7_0uo",
         "provider": "National Human Genome Research Institute (NHGRI); the series is co-sponsored with relevant NIH institutes and partners",
-        "durationSeconds": 3660.0,
+        "durationSeconds": 3660,
         "sourceUrl": "https://www.genome.gov/event-calendar/Genomics-Health-Disparities-Lecture-Series",
         "accessVerified": true
       },
@@ -5333,7 +5364,7 @@
         "title": "Updates on Hereditary Cancer Testing, Management, and Implementation into Clinical Practice",
         "url": "https://medicine.utah.edu/internal-medicine/grand-rounds/video?video=1_7ssj2vet",
         "provider": "University of Utah School of Medicine, Department of Internal Medicine; Huntsman Cancer Institute",
-        "durationSeconds": 4101.0,
+        "durationSeconds": 4101,
         "sourceUrl": "https://medicine.utah.edu/internal-medicine/grand-rounds/video?video=1_7ssj2vet",
         "accessVerified": true
       },
@@ -5342,7 +5373,7 @@
         "title": "Medicine Grand Rounds: Genomic Medicine for the Internist",
         "url": "https://www.youtube.com/watch?v=ZqpcIlpa-qE",
         "provider": "Eastern Virginia Medical School (EVMS), Department of Medicine Grand Rounds; presenter Lori Orlando, Duke University Medical Center",
-        "durationSeconds": 2955.0,
+        "durationSeconds": 2955,
         "sourceUrl": "https://www.youtube.com/watch?v=ZqpcIlpa-qE",
         "accessVerified": true
       }
@@ -5584,11 +5615,11 @@
     ],
     "boardStatus": "This item is the actual Johns Hopkins Categorical Medical Genetics Program, an ACGME-accredited four-year directory listing. ABMGG identifies Clinical Genetics and Genomics as a physician specialty with its own certification examination. ABMGG pathways require a minimum prior year of accredited residency/direct patient care followed by two years of accredited medical genetics residency, or the specified dual-board approved combined training pathway. The course itself is not accredited training and does not confer exam eligibility. ABMGG also lists Clinical Biochemical Genetics and Laboratory Genetics and Genomics laboratory specialties and Medical Biochemical Genetics/Molecular Genetic Pathology pathways separately; these are not bundled into the categorical physician course. The Johns Hopkins page separately lists combined IM, Pediatrics, MFM and REI tracks; not merged into this categorical curriculum. No categorical track-specific exam distinct from ABMGG Clinical Genetics and Genomics certification was found.",
     "boardEligibilityNotice": "ABMGG determines individual eligibility. Public ABMGG requirements reviewed 2026-10-07 specify two years full-time ACGME-accredited medical genetics residency after at least one prior year of ACGME-accredited residency with 12 months direct patient care, or an approved combined path; verify the live board rule and credentials. This independent course grants no board eligibility or certification.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 42.91555555555556,
     "verifiedSpecialtyHours": 37.963055555555556,
     "verifiedFoundationHours": 4.9525,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -5690,7 +5721,7 @@
         "title": "10th Webinar - Inherited Metabolic Diseases In Adults by Dr Subadra Wanninayake",
         "url": "https://www.youtube.com/watch?v=9T1yQpnSgLo",
         "provider": "College of Chemical Pathologists of Sri Lanka",
-        "durationSeconds": 3042.0,
+        "durationSeconds": 3042,
         "sourceUrl": "https://www.youtube.com/watch?v=9T1yQpnSgLo",
         "accessVerified": true
       },
@@ -5699,7 +5730,7 @@
         "title": "Mitochondrial Diseases - A Tale of Two Genomes",
         "url": "https://www.youtube.com/watch?v=Kb4CgIvUIAc",
         "provider": "Icahn School of Medicine at Mount Sinai",
-        "durationSeconds": 3300.0,
+        "durationSeconds": 3300,
         "sourceUrl": "https://www.youtube.com/watch?v=Kb4CgIvUIAc",
         "accessVerified": true
       },
@@ -5708,7 +5739,7 @@
         "title": "AANP Teaching Rounds - 2/23/2023 - Metabolic Disorders Involving The CNS: A Case-Based Discussion",
         "url": "https://www.youtube.com/watch?v=-EUCyvoJGhg",
         "provider": "American Association of Neuropathologists",
-        "durationSeconds": 3585.0,
+        "durationSeconds": 3585,
         "sourceUrl": "https://www.neuropath.org/teaching-rounds",
         "accessVerified": true
       },
@@ -5717,7 +5748,7 @@
         "title": "AANP Teaching Rounds - November 24, 2025 - Metabolic Storage Disorders of the Nervous System",
         "url": "https://www.youtube.com/watch?v=TGLD88ajhaU",
         "provider": "American Association of Neuropathologists",
-        "durationSeconds": 3465.0,
+        "durationSeconds": 3465,
         "sourceUrl": "https://www.neuropath.org/teaching-rounds",
         "accessVerified": true
       },
@@ -5726,7 +5757,7 @@
         "title": "Prof. Ola Khalifa: Emergency Management of Inborn Error Of Metabolism",
         "url": "https://www.youtube.com/watch?v=ThxzSAuckH4",
         "provider": "Pediatrics Department, Ain Shams University",
-        "durationSeconds": 2071.0,
+        "durationSeconds": 2071,
         "sourceUrl": "https://www.youtube.com/watch?v=ThxzSAuckH4",
         "accessVerified": true
       },
@@ -5735,7 +5766,7 @@
         "title": "Managing Metabolic Crisis",
         "url": "https://www.youtube.com/watch?v=5JY1qXj6rDQ",
         "provider": "United Mitochondrial Disease Foundation",
-        "durationSeconds": 3440.0,
+        "durationSeconds": 3440,
         "sourceUrl": "https://www.youtube.com/watch?v=5JY1qXj6rDQ",
         "accessVerified": true
       },
@@ -5744,7 +5775,7 @@
         "title": "Archive: Expanding Newborn Screening to X-ALD: Patient Impacts and Findings",
         "url": "https://www.youtube.com/watch?v=6kU9ecRBpuo",
         "provider": "University of Washington Video Archive / Seattle Children's Hospital biochemical genetics education",
-        "durationSeconds": 3602.0,
+        "durationSeconds": 3602,
         "sourceUrl": "https://www.youtube.com/watch?v=6kU9ecRBpuo",
         "accessVerified": true
       },
@@ -5753,7 +5784,7 @@
         "title": "Lecture 53: Inborn errors of Metabolism",
         "url": "https://www.youtube.com/watch?v=2D-lk-I_oB4",
         "provider": "NPTEL / Indian Institute of Technology Kharagpur",
-        "durationSeconds": 2861.0,
+        "durationSeconds": 2861,
         "sourceUrl": "https://www.youtube.com/watch?v=2D-lk-I_oB4",
         "accessVerified": true
       },
@@ -5762,7 +5793,7 @@
         "title": "Joseph Di Bussolo - Evaluating Nonderivatization & Derivatization Tandem MS Methods for Multianalyte",
         "url": "https://www.youtube.com/watch?v=muzRi7R3hYU",
         "provider": "Labroots",
-        "durationSeconds": 2668.0,
+        "durationSeconds": 2668,
         "sourceUrl": "https://www.youtube.com/watch?v=muzRi7R3hYU",
         "accessVerified": true
       },
@@ -5771,7 +5802,7 @@
         "title": "Newborn Screening: System Frameworks and Quality Assurance",
         "url": "https://www.youtube.com/watch?v=9xKlht4sJBk",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3293.0,
+        "durationSeconds": 3293,
         "sourceUrl": "https://www.youtube.com/watch?v=9xKlht4sJBk",
         "accessVerified": true
       },
@@ -5780,7 +5811,7 @@
         "title": "Newborn Screening: Beyond the Bloodspot",
         "url": "https://www.youtube.com/watch?v=rqW8IjdE0nY",
         "provider": "Mount Sinai Genetics and Genomic Sciences",
-        "durationSeconds": 2780.0,
+        "durationSeconds": 2780,
         "sourceUrl": "https://www.youtube.com/watch?v=rqW8IjdE0nY",
         "accessVerified": true
       },
@@ -5789,7 +5820,7 @@
         "title": "Liver Disease due to Inborn Errors of Metabolism",
         "url": "https://www.youtube.com/watch?v=srmko62e3mo",
         "provider": "Mount Sinai Genetics and Genomic Sciences",
-        "durationSeconds": 4364.0,
+        "durationSeconds": 4364,
         "sourceUrl": "https://www.youtube.com/watch?v=srmko62e3mo",
         "accessVerified": true
       }
@@ -5993,7 +6024,7 @@
     ],
     "boardStatus": "A separate ABMGG Clinical Biochemical Genetics specialty examination exists; ABMGG also has a distinct Medical Biochemical Genetics subspecialty examination, and the board publishes a shared Medical/Clinical Biochemical Genetics content blueprint. As of 2026-10-07, the next listed Clinical/Medical Biochemical Genetics exam cycle is 2027; those exams are offered in odd-numbered years. ABMGG requires passing the General exam plus a specialty exam for diplomate status. Hopkins says successful program completion makes trainees eligible to sit, but individual credential/degree requirements remain board-controlled; Hopkins misspells ABMGG as AMBGG. This independent course grants no eligibility.",
     "boardEligibilityNotice": "ABMGG states an MD, DO, or qualifying PhD is required for Clinical Biochemical Genetics; completion of accredited training is necessary but individual eligibility depends on board review. A separate and distinct Medical Biochemical Genetics physician subspecialty requires one accredited year after Clinical Genetics and Genomics residency. This is not the same fellowship. Do not infer combined-program status or eligibility from this independent curriculum.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 10.686388888888889,
     "verifiedSpecialtyHours": 7.446111111111111,
     "verifiedFoundationHours": 3.2402777777777776,
@@ -6031,7 +6062,7 @@
       "note": "Only 5.37 h of unique public lecture video is currently counted. Remaining planned video-production minutes do not count toward current ready hours."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-084_f46abca2.pdf",
+    "syllabusUrl": "/manus-storage/MED-084_293b57df.pdf",
     "pdfIds": [
       "med-syllabus-MED-084",
       "med-reading-bce4ec3334e3",
@@ -6044,7 +6075,7 @@
         "title": "Prenatal Genetic Testing Webinar",
         "url": "https://www.youtube.com/watch?v=FoluXZ2Gt1M",
         "provider": "Beth Israel Deaconess Medical Center (BIDMC)",
-        "durationSeconds": 2533.0,
+        "durationSeconds": 2533,
         "sourceUrl": "https://www.youtube.com/watch?v=FoluXZ2Gt1M",
         "accessVerified": true
       },
@@ -6053,7 +6084,7 @@
         "title": "Genetic Testing in Fetal Medicine: Navigating the Maze, Part 1",
         "url": "https://www.youtube.com/watch?v=LjEax1PEvxM",
         "provider": "Society of Fetal Medicine",
-        "durationSeconds": 7220.0,
+        "durationSeconds": 7220,
         "sourceUrl": "https://www.youtube.com/watch?v=FoluXZ2Gt1M",
         "accessVerified": true
       },
@@ -6062,7 +6093,7 @@
         "title": "Newer Genetic Tests and Fetal Medicine — Dr Ratna Puri",
         "url": "https://www.youtube.com/watch?v=ZmIVgcLiTs0",
         "provider": "Society of Fetal Medicine",
-        "durationSeconds": 4603.0,
+        "durationSeconds": 4603,
         "sourceUrl": "https://www.youtube.com/watch?v=FoluXZ2Gt1M",
         "accessVerified": true
       },
@@ -6071,7 +6102,7 @@
         "title": "Imaging-Based Genetic Testing in the First Trimester: SFM Rabih Chaoui Event, July 2020",
         "url": "https://www.youtube.com/watch?v=O4Sz3RdWbas",
         "provider": "Society of Fetal Medicine",
-        "durationSeconds": 4991.0,
+        "durationSeconds": 4991,
         "sourceUrl": "https://www.youtube.com/watch?v=FoluXZ2Gt1M",
         "accessVerified": true
       },
@@ -6089,7 +6120,7 @@
         "title": "Preeclampsia and Fetal Growth Restriction July 2025",
         "url": "https://www.youtube.com/watch?v=402Mb_uZgYw",
         "provider": "Australian Action on Preeclampsia (AAPEC); presenters include an obstetrician and two neonatologists from Royal Women's Hospital and Monash Children's Hospital",
-        "durationSeconds": 3840.0,
+        "durationSeconds": 3840,
         "sourceUrl": "https://www.youtube.com/watch?v=402Mb_uZgYw",
         "accessVerified": true
       },
@@ -6098,7 +6129,7 @@
         "title": "Gestational Diabetes Webinar",
         "url": "https://www.youtube.com/watch?v=vNU5twtqfrk",
         "provider": "Beth Israel Deaconess Medical Center (BIDMC), Department of Obstetrics and Gynecology; presented by Chloe Zera, MD, MPH",
-        "durationSeconds": 3722.0,
+        "durationSeconds": 3722,
         "sourceUrl": "https://www.youtube.com/watch?v=vNU5twtqfrk",
         "accessVerified": true
       },
@@ -6107,7 +6138,7 @@
         "title": "Hypertension in Pregnancy Action Forum: Effective Transitions of Care",
         "url": "https://www.youtube.com/watch?v=Cx6M_z44Eus",
         "provider": "Society for Maternal-Fetal Medicine (SMFM)",
-        "durationSeconds": 3445.0,
+        "durationSeconds": 3445,
         "sourceUrl": "https://www.youtube.com/watch?v=Cx6M_z44Eus",
         "accessVerified": true
       },
@@ -6116,7 +6147,7 @@
         "title": "Hypertension in Pregnancy Action Forum: Aspirin Prophylaxis for Preeclampsia Prevention",
         "url": "https://www.youtube.com/watch?v=6iU4ZbSKB9s",
         "provider": "Society for Maternal-Fetal Medicine (SMFM)",
-        "durationSeconds": 3575.0,
+        "durationSeconds": 3575,
         "sourceUrl": "https://www.youtube.com/watch?v=6iU4ZbSKB9s",
         "accessVerified": true
       },
@@ -6125,8 +6156,17 @@
         "title": "Clinical Center Grand Rounds: Genetics & Genomics of Neuropsychiatric Disorders",
         "url": "https://videocast.nih.gov/watch=54609",
         "provider": "National Institutes of Health Clinical Center Grand Rounds; lecture by Daniel Geschwind, MD, PhD, UCLA",
-        "durationSeconds": 4780.0,
+        "durationSeconds": 4780,
         "sourceUrl": "https://videocast.nih.gov/watch=54609",
+        "accessVerified": true
+      },
+      {
+        "id": "MED084-ADD-NIH-PRENATAL-GENOMICS-2018",
+        "title": "2018 Demystifying Medicine: Prenatal Genomics and Fetal Gene Therapy",
+        "url": "https://www.youtube.com/watch?v=MWYy_ALNjf4",
+        "provider": "National Institutes of Health",
+        "durationSeconds": 4936,
+        "sourceUrl": "https://www.youtube.com/watch?v=MWYy_ALNjf4",
         "accessVerified": true
       }
     ],
@@ -6146,7 +6186,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "MFMV-FOLU-XZ2GT1M",
-          "MFMV-LJEAX1PEVX"
+          "MFMV-LJEAX1PEVX",
+          "MED084-ADD-NIH-PRENATAL-GENOMICS-2018"
         ]
       },
       {
@@ -6222,7 +6263,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "MFMV-FOLU-XZ2GT1M",
-          "MFMV-LJEAX1PEVX"
+          "MFMV-LJEAX1PEVX",
+          "MED084-ADD-NIH-PRENATAL-GENOMICS-2018"
         ]
       },
       {
@@ -6251,11 +6293,11 @@
     ],
     "boardStatus": "Two distinct board certification pathways/examinations, not one joint exam: Hopkins identifies examination for ABOG MFM and ABMGG Clinical Genetics. ABMGG includes MFM/Medical Genetics among dual-board-approved combined training options. The exact current programme-specific ACGME accreditation status was not independently confirmed in the public ACGME program finder; Hopkins requires prior ACGME-accredited OB/GYN and describes its broader clinical genetics training programmes as ACGME-accredited. Generic directory “ACGME Accredited or Equivalent” wording is not treated as proof of this particular combined track’s current status. ABOG and ABMGG eligibility/credentialing are board decisions, not guaranteed by this independent course.",
     "boardEligibilityNotice": "Only the named institutional programme and each board determine training credit and eligibility. Hopkins states completed ACGME-accredited OB/GYN residency as prerequisite. ABMGG/ABOG credentialing requirements, examination applications, and certification are separate. This course does not create eligibility or prepare/guarantee passing.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 10.7525,
-    "verifiedSpecialtyHours": 9.424722222222222,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 12.123611111111112,
+    "verifiedSpecialtyHours": 10.795833333333333,
     "verifiedFoundationHours": 1.3277777777777777,
-    "hoursGap": 25.247500000000002,
+    "hoursGap": 23.87638888888889,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

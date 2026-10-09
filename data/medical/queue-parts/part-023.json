@@ -29,7 +29,7 @@
         "title": "Reconstructive Microsurgery: Training and Clinical Application – Webinar 11.4.20",
         "url": "https://www.youtube.com/watch?v=A8Dhbo5t_Rs",
         "provider": "Columbia Orthopedics YouTube channel",
-        "durationSeconds": 5193.0,
+        "durationSeconds": 5193,
         "sourceUrl": "https://www.youtube.com/watch?v=A8Dhbo5t_Rs",
         "accessVerified": true
       },
@@ -65,7 +65,7 @@
         "title": "Preparing for Transition and Gender Affirming Surgery: Mental Health and Primary Care",
         "url": "https://www.youtube.com/watch?v=n7Jd7OxKoGY",
         "provider": "University of California Television (UCTV), recorded with UCSF clinicians",
-        "durationSeconds": 4817.0,
+        "durationSeconds": 4817,
         "sourceUrl": "https://www.youtube.com/watch?v=n7Jd7OxKoGY",
         "accessVerified": true
       },
@@ -74,7 +74,7 @@
         "title": "LGBTQ+ Health Grand Rounds - Order of Operations in Gender Affirming Facial Surgery",
         "url": "https://www.youtube.com/watch?v=aFuan7rOpuM",
         "provider": "LGBTQ+ Health Grand Rounds (series identified in video title)",
-        "durationSeconds": 3635.0,
+        "durationSeconds": 3635,
         "sourceUrl": "https://www.youtube.com/watch?v=aFuan7rOpuM",
         "accessVerified": true
       },
@@ -83,7 +83,7 @@
         "title": "Role of the Otolaryngologist in Gender Affirming Surgical Care",
         "url": "https://www.youtube.com/watch?v=mZ-7tTku1UU",
         "provider": "Stanford Otolaryngology—Head & Neck Surgery Grand Rounds",
-        "durationSeconds": 3286.0,
+        "durationSeconds": 3286,
         "sourceUrl": "https://med.stanford.edu/ohns/education/continuing-education/grand-rounds/grand-rounds-archive.html",
         "accessVerified": true
       },
@@ -92,7 +92,7 @@
         "title": "Fertility Considerations for the Transgender Population | Jesse Mills & Molly Quinn, MD | UCLAMDChat",
         "url": "https://www.youtube.com/watch?v=yohRD7uLvMc",
         "provider": "UCLA Health UCLAMDChat / Gender Health",
-        "durationSeconds": 1435.0,
+        "durationSeconds": 1435,
         "sourceUrl": "https://www.youtube.com/watch?v=yohRD7uLvMc",
         "accessVerified": true
       },
@@ -101,7 +101,7 @@
         "title": "Gender Affirming Orchiectomy | Mark S. Litwin, MD | UCLAMDChat",
         "url": "https://www.youtube.com/watch?v=De3Iytw05TA",
         "provider": "UCLA Health UCLAMDChat / Urology",
-        "durationSeconds": 1503.0,
+        "durationSeconds": 1503,
         "sourceUrl": "https://www.youtube.com/watch?v=De3Iytw05TA",
         "accessVerified": true
       },
@@ -110,7 +110,7 @@
         "title": "Fundamentals of Chest Masculinization Surgery",
         "url": "https://www.youtube.com/watch?v=2-OLdn2m1q0",
         "provider": "Hackensack Meridian Health educational webinar",
-        "durationSeconds": 2079.0,
+        "durationSeconds": 2079,
         "sourceUrl": "https://www.youtube.com/watch?v=2-OLdn2m1q0",
         "accessVerified": true
       }
@@ -214,7 +214,7 @@
     ],
     "boardStatus": "ABPS is the relevant parent plastic-surgery certifying board. Official ABPS materials reviewed describe broad plastic-surgery written and oral examinations. No separate gender-affirming surgery/microsurgery board or dedicated fellowship exit exam was identified in the current official sources reviewed; this is a bounded negative finding, not a guarantee that no institution has an internal assessment. ACEPS is a match/educator organization, not a certifying board.",
     "boardEligibilityNotice": "The MGB program page requires completed plastic-surgery residency. The ACEPS national registry describes participating fellowship applicants as completing an ACGME-accredited plastic surgery residency by the match-cycle cutoff; Hopkins lists Maryland medical-license eligibility. These are program/match-specific prerequisites, not a determination of an individual’s ABPS eligibility. ABPS certification has its own prerequisite training, practice, examination, and case requirements. A fellowship and this independent course do not confer board eligibility.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 6.096666666666667,
     "verifiedSpecialtyHours": 2.004722222222222,
     "verifiedFoundationHours": 4.091944444444445,
@@ -255,7 +255,7 @@
       "disclaimer": "Transparent independent study plan only, not institutional training time. Planned video time is not yet produced and is not counted as available/verified lecture time."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X050_149efb04.pdf",
+    "syllabusUrl": "/manus-storage/MED-X050_d5582c51.pdf",
     "pdfIds": [
       "med-syllabus-MED-X050",
       "med-reading-27685f0f4025",
@@ -268,7 +268,7 @@
         "title": "Session 15 - Radiation Safety & Emergency Procedures",
         "url": "https://www.youtube.com/watch?v=LE9Yq9EzvT4",
         "provider": "Rayos Contra Cancer / HDR Brachytherapy for Medical Physicists (Africa 2022), YouTube",
-        "durationSeconds": 2571.0,
+        "durationSeconds": 2571,
         "sourceUrl": "https://www.youtube.com/watch?v=LE9Yq9EzvT4",
         "accessVerified": true
       },
@@ -277,8 +277,26 @@
         "title": "Practical Strategies for Performing Hybrid Interstitial Applicators: Cervical Cancer Brachytherapy",
         "url": "https://www.youtube.com/watch?v=cyHGWKBFcWg",
         "provider": "American Brachytherapy Society, YouTube",
-        "durationSeconds": 4470.0,
+        "durationSeconds": 4470,
         "sourceUrl": "https://www.youtube.com/watch?v=cyHGWKBFcWg",
+        "accessVerified": true
+      },
+      {
+        "id": "MEDX050-REC-ABS-MR-GYN-PROSTATE",
+        "title": "The Medical Physics Nuts and Bolts of MR for GYN and Prostate",
+        "url": "https://www.youtube.com/watch?v=ASk8AIO5zPA",
+        "provider": "American Brachytherapy Society",
+        "durationSeconds": 3926,
+        "sourceUrl": "https://www.youtube.com/watch?v=ASk8AIO5zPA",
+        "accessVerified": true
+      },
+      {
+        "id": "MEDX050-REC-ABS-GI-INTERSTITIAL",
+        "title": "Intraoperative and Interstitial Brachytherapy Applications for Gastrointestinal Malignancies",
+        "url": "https://www.youtube.com/watch?v=YBG_gmE4B0U",
+        "provider": "American Brachytherapy Society",
+        "durationSeconds": 5832,
+        "sourceUrl": "https://www.youtube.com/watch?v=YBG_gmE4B0U",
         "accessVerified": true
       }
     ],
@@ -319,14 +337,17 @@
         "number": 6,
         "text": "Other sites and technique families",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MEDX050-REC-ABS-GI-INTERSTITIAL"
+        ]
       },
       {
         "number": 7,
         "text": "Imaging, anatomy, contouring, and applicator reconstruction",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "MEDX050-REC-ABS-HYBRID-STRATEGIES"
+          "MEDX050-REC-ABS-HYBRID-STRATEGIES",
+          "MEDX050-REC-ABS-MR-GYN-PROSTATE"
         ]
       },
       {
@@ -372,11 +393,11 @@
     ],
     "boardStatus": "The ABR describes Radiation Oncology initial certification through qualifying education/training and Qualifying plus Oral Certifying examinations; brachytherapy appears in physics content. The current ABR subspecialty page lists pain medicine for radiation oncology; it does not list brachytherapy. No separate brachytherapy board examination was identified on 2026-10-07. An ABS society fellowship listing/certificate is not an ABMS/ABR board credential. Verify current status with the ABR.",
     "boardEligibilityNotice": "ABR radiation oncology board eligibility depends on ABR requirements, including eligible clinical year, completion of qualifying accredited radiation oncology training (or approved alternate pathway), examinations, and licensure. A brachytherapy fellowship does not independently confer ABR eligibility. The BWH webpage currently offers only a contact; programme-specific prerequisites were not publicly specified there. Dana-Farber describes its clinical brachytherapy appointment but does not publish detailed applicant rules on the page reviewed. Confirm all requirements with the programme and ABR.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 1.9558333333333333,
-    "verifiedSpecialtyHours": 1.9558333333333333,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 34.04416666666667,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 4.666388888888889,
+    "verifiedSpecialtyHours": 4.666388888888889,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 31.33361111111111,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -419,7 +440,7 @@
       "note": "Prospective learner workload plan, not observed programme hours or already-available learning time. The 36 video hours are a target for original future production only; currently verified ready video hours are 0."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X051_599e48b2.pdf",
+    "syllabusUrl": "/manus-storage/MED-X051_922de4e7.pdf",
     "pdfIds": [
       "med-syllabus-MED-X051",
       "med-reading-8d4eba5f15fb",
@@ -435,7 +456,7 @@
         "title": "Palliative Radiotherapy Planning - Webinar",
         "url": "https://www.youtube.com/watch?v=9AW9h71MkRs",
         "provider": "NHS England Workforce, Training and Education (@NHSE_WTE; confirmed by YouTube public oEmbed metadata); presenter Dr Romelie Rieu, ST7 Clinical Oncology Registrar, Royal Marsden Hospital",
-        "durationSeconds": 1698.0,
+        "durationSeconds": 1698,
         "sourceUrl": "https://www.youtube.com/watch?v=9AW9h71MkRs",
         "accessVerified": true
       },
@@ -444,7 +465,7 @@
         "title": "Cord Compression: Part 1",
         "url": "https://www.youtube.com/watch?v=r6lbpu2KvHA",
         "provider": "Rad Onc Talks; presented by Ria Mohker, radiation oncology resident, University of Pittsburgh (as identified in the lecture transcript)",
-        "durationSeconds": 1919.0,
+        "durationSeconds": 1919,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLls9kfiA4_hUwcbrEydClKrHTCAVjve9g",
         "accessVerified": true
       },
@@ -453,7 +474,7 @@
         "title": "Cord Compression: Part 2",
         "url": "https://www.youtube.com/watch?v=K_Fq56lbRCE",
         "provider": "Rad Onc Talks; presented by Ria Mohker, radiation oncology resident, University of Pittsburgh (as identified in the lecture transcript)",
-        "durationSeconds": 2108.0,
+        "durationSeconds": 2108,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLls9kfiA4_hUwcbrEydClKrHTCAVjve9g",
         "accessVerified": true
       },
@@ -462,7 +483,7 @@
         "title": "Bone Metastases",
         "url": "https://www.youtube.com/watch?v=c0EEGBnmcU8",
         "provider": "Rad Onc Talks",
-        "durationSeconds": 1820.0,
+        "durationSeconds": 1820,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLls9kfiA4_hUwcbrEydClKrHTCAVjve9g",
         "accessVerified": true
       },
@@ -471,7 +492,7 @@
         "title": "Whole Brain Radiotherapy",
         "url": "https://www.youtube.com/watch?v=yAqci-trCYw",
         "provider": "Rad Onc Talks",
-        "durationSeconds": 2393.0,
+        "durationSeconds": 2393,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLls9kfiA4_hUFrRiSKEZKCLNpmJ2ION1C",
         "accessVerified": true
       },
@@ -480,7 +501,7 @@
         "title": "SRS for Brain Metastases: Part 1",
         "url": "https://www.youtube.com/watch?v=_D454qLfCxQ",
         "provider": "Rad Onc Talks",
-        "durationSeconds": 2066.0,
+        "durationSeconds": 2066,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLls9kfiA4_hUFrRiSKEZKCLNpmJ2ION1C",
         "accessVerified": true
       },
@@ -489,7 +510,7 @@
         "title": "SRS for Brain Metastases: Part 2",
         "url": "https://www.youtube.com/watch?v=FohEj3RvQfw",
         "provider": "Rad Onc Talks",
-        "durationSeconds": 2383.0,
+        "durationSeconds": 2383,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLls9kfiA4_hUFrRiSKEZKCLNpmJ2ION1C",
         "accessVerified": true
       },
@@ -498,7 +519,7 @@
         "title": "Clinical Application of Ketamine in Palliative Care",
         "url": "https://www.youtube.com/watch?v=sILprM07Fcc",
         "provider": "Palliative Medicine Grand Rounds; presenter Satoru Ito, pharmacist in pain and palliative care (as introduced in the recording)",
-        "durationSeconds": 3563.0,
+        "durationSeconds": 3563,
         "sourceUrl": "https://www.youtube.com/watch?v=sILprM07Fcc",
         "accessVerified": true
       },
@@ -507,7 +528,7 @@
         "title": "Palliative Care in Chaos: The Past and Future of Palliative Care in the Emergency Department",
         "url": "https://www.youtube.com/watch?v=PKLJhY1bGS0",
         "provider": "Mass General Hospital Palliative Care and Geriatrics Grand Rounds",
-        "durationSeconds": 2654.0,
+        "durationSeconds": 2654,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -516,7 +537,7 @@
         "title": "Never worry (or work) alone: How nurses can improve palliative care",
         "url": "https://www.youtube.com/watch?v=ODynFBo1zKk",
         "provider": "Mass General Hospital Palliative Care and Geriatrics Grand Rounds",
-        "durationSeconds": 2819.0,
+        "durationSeconds": 2819,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -525,7 +546,7 @@
         "title": "Can we truly be Zipless? Lessons from the Science and Practice of Empathy",
         "url": "https://www.youtube.com/watch?v=2d_Yo5wcK6c",
         "provider": "Mass General Hospital Palliative Care and Geriatrics Grand Rounds; Michael J. Landzberg, MD",
-        "durationSeconds": 3614.0,
+        "durationSeconds": 3614,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -534,7 +555,7 @@
         "title": "Explaining palliative care to Latino Patients with advanced illness",
         "url": "https://www.youtube.com/watch?v=jk-lqkOKiMk",
         "provider": "Mass General Hospital Palliative Care and Geriatrics Grand Rounds",
-        "durationSeconds": 2985.0,
+        "durationSeconds": 2985,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -543,7 +564,7 @@
         "title": "Bringing Awareness to the Racial and Ethnic Disparities in Palliative Care",
         "url": "https://www.youtube.com/watch?v=hk0x-yiR-no",
         "provider": "Mass General Hospital Palliative Care and Geriatrics Grand Rounds; Kevin Smith, MD",
-        "durationSeconds": 3353.0,
+        "durationSeconds": 3353,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -552,7 +573,7 @@
         "title": "Promoting Resilience During Serious Illness: What I’ve Learned from Caring for Children with Cancer",
         "url": "https://www.youtube.com/watch?v=Fvf5sWkX5W0",
         "provider": "Mass General Hospital Palliative Care and Geriatrics Grand Rounds; Abby Rosenberg, MD",
-        "durationSeconds": 3044.0,
+        "durationSeconds": 3044,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -561,7 +582,7 @@
         "title": "When ‘Terminal Extubation’ isn’t Terminal: Lessons from an Acute Change in Goals of Care",
         "url": "https://www.youtube.com/watch?v=moAPUNpsYuo",
         "provider": "Mass General Hospital Palliative Care and Geriatrics Grand Rounds; Peter Butzen, MSN, PNP-BC",
-        "durationSeconds": 3136.0,
+        "durationSeconds": 3136,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -570,7 +591,7 @@
         "title": "Narrative Medicine, Ethics, + Therapy to reframe the narrative of the bereaved",
         "url": "https://www.youtube.com/watch?v=6Zqd0_2E5aw",
         "provider": "Mass General Hospital Palliative Care and Geriatrics Grand Rounds",
-        "durationSeconds": 3360.0,
+        "durationSeconds": 3360,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL0A-NKHLVrNH9etsESfPznT7V6OoBe5zT",
         "accessVerified": true
       },
@@ -579,8 +600,26 @@
         "title": "Oligometastases: An Evolving Frontier in Radiation Oncology",
         "url": "https://www.youtube.com/watch?v=m0qjNDvJCnE",
         "provider": "American College of Radiology Commission on Radiation Oncology Education; multi-presenter clinical webinar",
-        "durationSeconds": 3927.0,
+        "durationSeconds": 3927,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLsh1jAUzVC49QTi-iPbbG62nEiOutTHNy",
+        "accessVerified": true
+      },
+      {
+        "id": "VID-MX051-REC-001",
+        "title": "Bleeding",
+        "url": "https://www.youtube.com/watch?v=XGpM5nHaLLw",
+        "provider": "Rad Onc Talks",
+        "durationSeconds": 1176,
+        "sourceUrl": "https://www.youtube.com/watch?v=XGpM5nHaLLw",
+        "accessVerified": true
+      },
+      {
+        "id": "VID-MX051-REC-002",
+        "title": "The Role of Radiation Therapy in Advanced and Metastatic Disease",
+        "url": "https://www.youtube.com/watch?v=HtVrLfBPC6Y",
+        "provider": "UNC Lineberger Cancer Network",
+        "durationSeconds": 3374,
+        "sourceUrl": "https://www.youtube.com/watch?v=HtVrLfBPC6Y",
         "accessVerified": true
       }
     ],
@@ -652,7 +691,8 @@
         "text": "Bleeding and other focal symptoms",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "VID-MX051-HC-008"
+          "VID-MX051-HC-008",
+          "VID-MX051-REC-001"
         ]
       },
       {
@@ -672,7 +712,8 @@
           "VID-MX051-PALL-PLANNING",
           "VID-MX051-HC-009",
           "VID-MX051-HC-011",
-          "VID-MX051-HC-012"
+          "VID-MX051-HC-012",
+          "VID-MX051-REC-002"
         ]
       },
       {
@@ -699,7 +740,8 @@
           "VID-MX051-HC-006",
           "VID-MX051-HC-007",
           "VID-MX051-HC-008",
-          "VID-MX051-HC-014"
+          "VID-MX051-HC-014",
+          "VID-MX051-REC-002"
         ]
       },
       {
@@ -723,11 +765,11 @@
     ],
     "boardStatus": "No separate supportive/palliative radiation oncology board examination or certificate identified. ABR provides parent-specialty Radiation Oncology certification and lists Pain Medicine as a radiation-oncology subspecialty; ABR says it no longer issues Hospice and Palliative Medicine certification. A separate HPM certification examination is administered through the ABIM pathway for eligible diplomates, including ABR, requiring its own qualifying prior certification and accredited 12-month HPM fellowship. This MGB fellowship page does not establish HPM eligibility or board status.",
     "boardEligibilityNotice": "This curriculum conveys no board eligibility. ABR RO eligibility requires qualifying prior clinical training, completion of an accredited RO residency/approved pathway, examinations, licensure and other requirements. Separate ABIM HPM eligibility requires its own current policy compliance and accredited training.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 13.011666666666667,
-    "verifiedSpecialtyHours": 3.9963888888888888,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 14.275555555555556,
+    "verifiedSpecialtyHours": 5.260277777777778,
     "verifiedFoundationHours": 9.015277777777778,
-    "hoursGap": 22.988333333333333,
+    "hoursGap": 21.724444444444444,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -760,7 +802,7 @@
       "unitsAndPace": "A suggested 12-week plan of about six hours per week. Study hours are a learner workload plan, not verified lecture hours or clinical training."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X052_4d846aae.pdf",
+    "syllabusUrl": "/manus-storage/MED-X052_2fd3c88e.pdf",
     "pdfIds": [
       "med-syllabus-MED-X052",
       "med-reading-c6db2a466316",
@@ -776,7 +818,7 @@
         "title": "The Physics of Radiosurgery",
         "url": "https://www.youtube.com/watch?v=HBwKfHrIPXE",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 1321.0,
+        "durationSeconds": 1321,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -785,7 +827,7 @@
         "title": "Stereotactic Radiosurgery for Vestibular Schwannomas",
         "url": "https://www.youtube.com/watch?v=hg8fVh84RBY",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 1243.0,
+        "durationSeconds": 1243,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -794,7 +836,7 @@
         "title": "Radiosurgery for Arteriovenous Malformations",
         "url": "https://www.youtube.com/watch?v=8TV4EO19xLk",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 1676.0,
+        "durationSeconds": 1676,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -803,7 +845,7 @@
         "title": "Stereotactic Radiosurgery for Patients with Pituitary Adenomas",
         "url": "https://www.youtube.com/watch?v=p286QIE_Q9E",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 1575.0,
+        "durationSeconds": 1575,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -812,7 +854,7 @@
         "title": "Gamma Knife Radiosurgery for Trigeminal Neuralgia and Other Functional Targets",
         "url": "https://www.youtube.com/watch?v=uG8r_4lv_aM",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 2501.0,
+        "durationSeconds": 2501,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -821,7 +863,7 @@
         "title": "Radiosurgery for Brain Metastases",
         "url": "https://www.youtube.com/watch?v=TIxCAo8xzj0",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 1646.0,
+        "durationSeconds": 1646,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -830,7 +872,7 @@
         "title": "Multi Session Radiosurgery",
         "url": "https://www.youtube.com/watch?v=sXvrhp3tHIM",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 1910.0,
+        "durationSeconds": 1910,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -839,7 +881,7 @@
         "title": "Evidence Based Radiosurgery",
         "url": "https://www.youtube.com/watch?v=t_0wzc6NkDQ",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 919.0,
+        "durationSeconds": 919,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -848,7 +890,7 @@
         "title": "Neuroimaging for Radiosurgery",
         "url": "https://www.youtube.com/watch?v=TruzGdJRuI0",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 1883.0,
+        "durationSeconds": 1883,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -857,7 +899,7 @@
         "title": "Spine Radiosurgery: An Overview",
         "url": "https://www.youtube.com/watch?v=znmeMbzuCiU",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 1440.0,
+        "durationSeconds": 1440,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -866,7 +908,7 @@
         "title": "Stereotactic Radiosurgery: Technical Considerations and Limitations",
         "url": "https://www.youtube.com/watch?v=1OXXwNCH7sk",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 1587.0,
+        "durationSeconds": 1587,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -875,7 +917,7 @@
         "title": "Neurosurgery and Radiation Oncology Partnership in the Development of a Spinal Radiosurgery Program",
         "url": "https://www.youtube.com/watch?v=mP3o9yj1DWI",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 1948.0,
+        "durationSeconds": 1948,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -884,7 +926,7 @@
         "title": "Integrated Decision Making in the Management of Metastatic Spine Disease",
         "url": "https://www.youtube.com/watch?v=0_OdXLJgx6A",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 1834.0,
+        "durationSeconds": 1834,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -893,7 +935,7 @@
         "title": "Radiosurgery for Spinal AVMs and Benign Spinal Tumors",
         "url": "https://www.youtube.com/watch?v=8_4zjxysc3o",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 1212.0,
+        "durationSeconds": 1212,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -902,7 +944,7 @@
         "title": "Spine Radiosurgery and Quality of Life",
         "url": "https://www.youtube.com/watch?v=lUcj2oZYCXY",
         "provider": "Neurosurgery Research and Education Foundation (NREF)",
-        "durationSeconds": 1549.0,
+        "durationSeconds": 1549,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -911,7 +953,7 @@
         "title": "Stereotactic Radio Surgery (SRS) and brain metastases",
         "url": "https://www.youtube.com/watch?v=7GbzkGpoG8Y",
         "provider": "Greater Manchester Cancer",
-        "durationSeconds": 1475.0,
+        "durationSeconds": 1475,
         "sourceUrl": "https://www.youtube.com/watch?v=7GbzkGpoG8Y",
         "accessVerified": true
       },
@@ -920,7 +962,7 @@
         "title": "Modern Radiosurgical Practices in the Treatment of Intracranial Metastasis",
         "url": "https://www.novaliscircle.org/page/view-video?id=267",
         "provider": "Novalis Circle (five invited academic radiosurgery presenters)",
-        "durationSeconds": 4256.0,
+        "durationSeconds": 4256,
         "sourceUrl": "https://www.novaliscircle.org/page/view-video?id=267",
         "accessVerified": true
       },
@@ -929,7 +971,7 @@
         "title": "Medical Student Lecture Series: Radiosurgery and Stereotaxy with Isabelle M. Germano, MD, MBA",
         "url": "https://www.youtube.com/watch?v=wHihX4hpr2Y",
         "provider": "Mount Sinai Neurosurgery",
-        "durationSeconds": 3552.0,
+        "durationSeconds": 3552,
         "sourceUrl": "https://www.youtube.com/watch?v=wHihX4hpr2Y",
         "accessVerified": true
       },
@@ -938,7 +980,7 @@
         "title": "Protecting the Secrets of the Brain: Central Nervous System Radiotherapy and Radiosurgery",
         "url": "https://www.youtube.com/watch?v=61Lpfyq1DKs",
         "provider": "University of California Television (UCTV), UCSF Osher Mini Medical School for the Public",
-        "durationSeconds": 4911.0,
+        "durationSeconds": 4911,
         "sourceUrl": "https://ucsd.tv/shows/Protecting-the-Secrets-of-the-Brain-Central-Nervous-System-Radiotherapy-and-Radiosurgery-36507",
         "accessVerified": true
       },
@@ -947,7 +989,7 @@
         "title": "EANS Webinar: Brain Metastases",
         "url": "https://www.youtube.com/watch?v=tgnCmQITIM8",
         "provider": "European Association of Neurosurgical Societies (EANS), Tumor Section",
-        "durationSeconds": 7798.0,
+        "durationSeconds": 7798,
         "sourceUrl": "https://www.youtube.com/watch?v=tgnCmQITIM8",
         "accessVerified": true
       },
@@ -956,7 +998,7 @@
         "title": "Whole Brain Radiation Vs Stereotactic Radiosurgery",
         "url": "https://www.youtube.com/watch?v=lWfJnMmhVYs",
         "provider": "American Brain Tumor Association webinar featuring Steven D. Chang, MD, Stanford University School of Medicine",
-        "durationSeconds": 3073.0,
+        "durationSeconds": 3073,
         "sourceUrl": "https://www.youtube.com/watch?v=lWfJnMmhVYs",
         "accessVerified": true
       },
@@ -965,7 +1007,7 @@
         "title": "Dr. Eric Chang presents: Indications for WBRT vs SRS in Management of Multiple Brain Mets",
         "url": "https://www.youtube.com/watch?v=gmplFFEuRHk",
         "provider": "USC Department of Neurological Surgery / Keck Medicine of USC; Eric Chang, MD, Professor and Chair of Radiation Oncology",
-        "durationSeconds": 1721.0,
+        "durationSeconds": 1721,
         "sourceUrl": "https://medresources.keckmedicine.org/videos/indications-for-wbrt-vs-srs-in-management-of-multiple-brain-metastases",
         "accessVerified": true
       },
@@ -974,7 +1016,7 @@
         "title": "WEBINAR: Radiation Therapy for Brain Tumors",
         "url": "https://www.youtube.com/watch?v=aSuSLn4CN6g",
         "provider": "American Brain Tumor Association webinar featuring Lawrence Kleinberg, MD, Johns Hopkins University",
-        "durationSeconds": 3668.0,
+        "durationSeconds": 3668,
         "sourceUrl": "https://www.youtube.com/watch?v=aSuSLn4CN6g",
         "accessVerified": true
       },
@@ -983,7 +1025,7 @@
         "title": "Radiation Modalities and Strategies for CNS Metastases - Steve Braunstein, MD, PhD",
         "url": "https://www.youtube.com/watch?v=TNYcJMEXJHU",
         "provider": "University of California, San Francisco CNS Metastasis Symposium",
-        "durationSeconds": 1070.0,
+        "durationSeconds": 1070,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLkii83jEot9jg2N7zxkhB-rJ5v8kYXR4R",
         "accessVerified": true
       },
@@ -992,7 +1034,7 @@
         "title": "The role of brachytherapy in recurrent CNS metastases | Steve Braunstein, MD, PhD",
         "url": "https://www.youtube.com/watch?v=AOdoifNlAjE",
         "provider": "University of California, San Francisco CNS Metastasis Symposium",
-        "durationSeconds": 859.0,
+        "durationSeconds": 859,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLkii83jEot9jg2N7zxkhB-rJ5v8kYXR4R",
         "accessVerified": true
       },
@@ -1001,7 +1043,7 @@
         "title": "LITT in management of RT necrosis and treatment refractory brain metastases | Manish Aghi, MD, PhD",
         "url": "https://www.youtube.com/watch?v=qKYam3e2Ols",
         "provider": "University of California, San Francisco CNS Metastasis Symposium",
-        "durationSeconds": 1124.0,
+        "durationSeconds": 1124,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLkii83jEot9jg2N7zxkhB-rJ5v8kYXR4R",
         "accessVerified": true
       },
@@ -1010,7 +1052,7 @@
         "title": "Advanced Imaging in the early detection of brain metastases | Javier Villanueva-Meyer, MD",
         "url": "https://www.youtube.com/watch?v=y2S-nZ8ZPZo",
         "provider": "University of California, San Francisco CNS Metastasis Symposium",
-        "durationSeconds": 983.0,
+        "durationSeconds": 983,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLkii83jEot9jg2N7zxkhB-rJ5v8kYXR4R",
         "accessVerified": true
       },
@@ -1019,8 +1061,17 @@
         "title": "Overview of Brain Metastases | Neurosurgery Course | March 14, 2023",
         "url": "https://www.youtube.com/watch?v=zSpWrXUTT-s",
         "provider": "Brain & Spine Education / Neurosurgery Course; lecturer Mohammed Fouda, MD",
-        "durationSeconds": 2139.0,
+        "durationSeconds": 2139,
         "sourceUrl": "https://www.youtube.com/watch?v=zSpWrXUTT-s",
+        "accessVerified": true
+      },
+      {
+        "id": "yt-rl6xSRlai2k",
+        "title": "Summit Rounds - Stereotactic Radiosurgery for CNS Pathology",
+        "url": "https://www.youtube.com/watch?v=rl6xSRlai2k",
+        "provider": "Summit Medical Institute",
+        "durationSeconds": 2158,
+        "sourceUrl": "https://www.youtube.com/watch?v=rl6xSRlai2k",
         "accessVerified": true
       }
     ],
@@ -1031,7 +1082,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "yt-HBwKfHrIPXE",
-          "yt-wHihX4hpr2Y"
+          "yt-wHihX4hpr2Y",
+          "yt-rl6xSRlai2k"
         ]
       },
       {
@@ -1155,11 +1207,11 @@
     ],
     "boardStatus": "The actual named institutional item is an adult clinical-fellowship listing focused on CNS radiosurgery/radiotherapy, not a distinct ABMS/ABR specialty or separately listed ABR subspecialty examination. ABR certifies Radiation Oncology; the ABR subspecialty page lists pain medicine for RO and no CNS radiosurgery/SRS board exam as of 2026-10-07. This finding is scoped to ABR and does not purport to inventory every non-ABR voluntary credential.",
     "boardEligibilityNotice": "This independent course confers no ABR/ABMS eligibility. ABR initial RO certification requires its own clinical-training and accredited-residency or alternate-pathway requirements, exams, license and ethical standing; an advertised CNS fellowship does not replace these. Verify current requirements directly with ABR and the actual programme.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 16.909166666666668,
-    "verifiedSpecialtyHours": 13.931944444444444,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 17.50861111111111,
+    "verifiedSpecialtyHours": 14.53138888888889,
     "verifiedFoundationHours": 2.977222222222222,
-    "hoursGap": 19.090833333333332,
+    "hoursGap": 18.49138888888889,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1330,11 +1382,11 @@
     ],
     "boardStatus": "ABIM offers an Infectious Disease subspecialty certification examination, not a separate HIV-medicine board examination. HIV is included in infectious-disease training. AAHIVM separately offers an HIV Specialist™ credentialing exam and credential; this is not ABMS board certification. HIV is not an independent ACGME-accredited fellowship specialty in the MGB description reviewed.",
     "boardEligibilityNotice": "This independent curriculum grants no board eligibility. ABIM Infectious Disease eligibility depends on meeting current ABIM requirements, including prerequisite ABIM Internal Medicine certification, qualifying accredited fellowship training, clinical competence, licensure, and examination rules. AAHIVM credential eligibility is separately determined by AAHIVM and includes licensure, direct-care experience, education points, application, and its credentialing exam; it is not board certification. Verify current requirements directly with each body.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 0.0,
-    "verifiedSpecialtyHours": 0.0,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 36.0,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 0,
+    "verifiedSpecialtyHours": 0,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 36,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1382,7 +1434,7 @@
         "title": "Introduction to the Human Brain (University of Utah Neuroanatomy Video Lab, episode 01)",
         "url": "https://www.kaltura.com/tiny/dftxf",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 840.0,
+        "durationSeconds": 840,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1391,7 +1443,7 @@
         "title": "The Normal Unfixed Brain (University of Utah Neuroanatomy Video Lab, episode 02)",
         "url": "https://www.kaltura.com/tiny/aet1x",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 360.0,
+        "durationSeconds": 360,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1400,7 +1452,7 @@
         "title": "Orientation: The Planes of the Brain (University of Utah Neuroanatomy Video Lab, episode 03)",
         "url": "https://www.kaltura.com/tiny/bht17",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 480.0,
+        "durationSeconds": 480,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1409,7 +1461,7 @@
         "title": "The Meninges (University of Utah Neuroanatomy Video Lab, episode 04)",
         "url": "https://www.kaltura.com/tiny/3b9q5",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 900.0,
+        "durationSeconds": 900,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1418,7 +1470,7 @@
         "title": "The Ventricles (University of Utah Neuroanatomy Video Lab, episode 05)",
         "url": "https://www.kaltura.com/tiny/hq1ry",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 1620.0,
+        "durationSeconds": 1620,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1427,7 +1479,7 @@
         "title": "The Spinal Cord & Monosynaptic Reflex (University of Utah Neuroanatomy Video Lab, episode 06)",
         "url": "https://www.kaltura.com/tiny/ffd0a",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 1020.0,
+        "durationSeconds": 1020,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1436,7 +1488,7 @@
         "title": "The Unfixed Spinal Cord (University of Utah Neuroanatomy Video Lab, episode 07)",
         "url": "https://www.kaltura.com/tiny/fl75l",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 420.0,
+        "durationSeconds": 420,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1445,7 +1497,7 @@
         "title": "Cranial Nerves (University of Utah Neuroanatomy Video Lab, episode 08)",
         "url": "https://www.kaltura.com/tiny/9vvh0",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 720.0,
+        "durationSeconds": 720,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1454,7 +1506,7 @@
         "title": "Brain Stem & Reflexes (University of Utah Neuroanatomy Video Lab, episode 09)",
         "url": "https://www.kaltura.com/tiny/6gcel",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 1500.0,
+        "durationSeconds": 1500,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1463,7 +1515,7 @@
         "title": "Cerebral Circulation (University of Utah Neuroanatomy Video Lab, episode 10)",
         "url": "https://www.kaltura.com/tiny/7s8ql",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 960.0,
+        "durationSeconds": 960,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1472,7 +1524,7 @@
         "title": "Cortical Localization (University of Utah Neuroanatomy Video Lab, episode 11)",
         "url": "https://www.kaltura.com/tiny/9capl",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 780.0,
+        "durationSeconds": 780,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1481,7 +1533,7 @@
         "title": "Three Critical Vertical Pathways (University of Utah Neuroanatomy Video Lab, episode 12)",
         "url": "https://www.kaltura.com/tiny/6910n",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 540.0,
+        "durationSeconds": 540,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1490,7 +1542,7 @@
         "title": "Sensation from the Body (University of Utah Neuroanatomy Video Lab, episode 13)",
         "url": "https://www.kaltura.com/tiny/cuiis",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 1320.0,
+        "durationSeconds": 1320,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1499,7 +1551,7 @@
         "title": "Sensation from the Face (University of Utah Neuroanatomy Video Lab, episode 14)",
         "url": "https://www.kaltura.com/tiny/3d5lg",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 840.0,
+        "durationSeconds": 840,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1508,7 +1560,7 @@
         "title": "The Most Important Pathway: Motor Control (University of Utah Neuroanatomy Video Lab, episode 15)",
         "url": "https://www.kaltura.com/tiny/8d3ax",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 420.0,
+        "durationSeconds": 420,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1517,7 +1569,7 @@
         "title": "The Visual Pathway (University of Utah Neuroanatomy Video Lab, episode 16)",
         "url": "https://www.kaltura.com/tiny/7a57q",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 1620.0,
+        "durationSeconds": 1620,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1526,7 +1578,7 @@
         "title": "Control of the Pupil (University of Utah Neuroanatomy Video Lab, episode 17)",
         "url": "https://www.kaltura.com/tiny/95f4l",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 900.0,
+        "durationSeconds": 900,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1535,7 +1587,7 @@
         "title": "Control of the Eye Movements (University of Utah Neuroanatomy Video Lab, episode 18)",
         "url": "https://www.kaltura.com/tiny/0iuse",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 1080.0,
+        "durationSeconds": 1080,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1544,7 +1596,7 @@
         "title": "Vestibular System (University of Utah Neuroanatomy Video Lab, episode 19)",
         "url": "https://www.kaltura.com/tiny/5bg52",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 1920.0,
+        "durationSeconds": 1920,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1553,7 +1605,7 @@
         "title": "Auditory System (University of Utah Neuroanatomy Video Lab, episode 20)",
         "url": "https://www.kaltura.com/tiny/g9n7h",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 1860.0,
+        "durationSeconds": 1860,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1562,7 +1614,7 @@
         "title": "Cerebellum (University of Utah Neuroanatomy Video Lab, episode 21)",
         "url": "https://www.kaltura.com/tiny/bssfn",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 1740.0,
+        "durationSeconds": 1740,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1571,7 +1623,7 @@
         "title": "Basal Ganglia (University of Utah Neuroanatomy Video Lab, episode 22)",
         "url": "https://www.kaltura.com/tiny/0zsqs",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 1740.0,
+        "durationSeconds": 1740,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1580,7 +1632,7 @@
         "title": "Comparison of the Motor Systems (University of Utah Neuroanatomy Video Lab, episode 23)",
         "url": "https://www.kaltura.com/tiny/f3tjy",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 2280.0,
+        "durationSeconds": 2280,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1589,7 +1641,7 @@
         "title": "Hypothalamus (University of Utah Neuroanatomy Video Lab, episode 24)",
         "url": "https://www.kaltura.com/tiny/6jaks",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 960.0,
+        "durationSeconds": 960,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1598,7 +1650,7 @@
         "title": "Olfactory System (University of Utah Neuroanatomy Video Lab, episode 25)",
         "url": "https://www.kaltura.com/tiny/2vd3f",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 360.0,
+        "durationSeconds": 360,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1607,7 +1659,7 @@
         "title": "Limbic System (University of Utah Neuroanatomy Video Lab, episode 26)",
         "url": "https://www.kaltura.com/tiny/b9ndr",
         "provider": "University of Utah School of Medicine / NeuroLogic Exam; Suzanne S. Stensaas, PhD",
-        "durationSeconds": 1080.0,
+        "durationSeconds": 1080,
         "sourceUrl": "https://neurologicexam.med.utah.edu/adult/html/brain-dissections.html",
         "accessVerified": true
       },
@@ -1616,7 +1668,7 @@
         "title": "Medical Student Lecture Series: Radiosurgery and Stereotaxy with Isabelle M. Germano, MD, MBA",
         "url": "https://www.youtube.com/watch?v=wHihX4hpr2Y",
         "provider": "Mount Sinai Neurosurgery (YouTube)",
-        "durationSeconds": 3552.0,
+        "durationSeconds": 3552,
         "sourceUrl": "https://www.youtube.com/watch?v=wHihX4hpr2Y",
         "accessVerified": true
       },
@@ -1625,7 +1677,7 @@
         "title": "Physics of Stereotactic Radiosurgery",
         "url": "https://www.youtube.com/watch?v=jyU-Z95GeAg",
         "provider": "Neurosurgery Research & Education Foundation (NREF), YouTube",
-        "durationSeconds": 1600.0,
+        "durationSeconds": 1600,
         "sourceUrl": "https://www.youtube.com/watch?v=jyU-Z95GeAg",
         "accessVerified": true
       },
@@ -1634,7 +1686,7 @@
         "title": "Stereotactic Radiosurgery for Vestibular Schwanomas",
         "url": "https://www.youtube.com/watch?v=hg8fVh84RBY",
         "provider": "Neurosurgery Research & Education Foundation (NREF) YouTube channel",
-        "durationSeconds": 1243.0,
+        "durationSeconds": 1243,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -1643,7 +1695,7 @@
         "title": "Stereotactic Radiosurgery for Patients with Pituitary Adenomas",
         "url": "https://www.youtube.com/watch?v=p286QIE_Q9E",
         "provider": "Neurosurgery Research & Education Foundation (NREF) YouTube channel",
-        "durationSeconds": 1575.0,
+        "durationSeconds": 1575,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -1652,7 +1704,7 @@
         "title": "Gamma Knife Radiosurgery for Trigeminal Neuralgia and other Functional Targets",
         "url": "https://www.youtube.com/watch?v=uG8r_4lv_aM",
         "provider": "Neurosurgery Research & Education Foundation (NREF) YouTube channel",
-        "durationSeconds": 2501.0,
+        "durationSeconds": 2501,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -1661,7 +1713,7 @@
         "title": "Radiosurgery for Brain Metastases",
         "url": "https://www.youtube.com/watch?v=TIxCAo8xzj0",
         "provider": "Neurosurgery Research & Education Foundation (NREF) YouTube channel",
-        "durationSeconds": 1646.0,
+        "durationSeconds": 1646,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -1670,7 +1722,7 @@
         "title": "Multi Session Radiosurgery",
         "url": "https://www.youtube.com/watch?v=sXvrhp3tHIM",
         "provider": "Neurosurgery Research & Education Foundation (NREF) YouTube channel",
-        "durationSeconds": 1910.0,
+        "durationSeconds": 1910,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -1679,7 +1731,7 @@
         "title": "Evidence Based Radiosurgery",
         "url": "https://www.youtube.com/watch?v=t_0wzc6NkDQ",
         "provider": "Neurosurgery Research & Education Foundation (NREF) YouTube channel",
-        "durationSeconds": 919.0,
+        "durationSeconds": 919,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -1688,7 +1740,7 @@
         "title": "Neuroimaging for Radiosurgery",
         "url": "https://www.youtube.com/watch?v=TruzGdJRuI0",
         "provider": "Neurosurgery Research & Education Foundation (NREF) YouTube channel",
-        "durationSeconds": 1883.0,
+        "durationSeconds": 1883,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzpfJca3esUDniBzTdCmAvb4",
         "accessVerified": true
       },
@@ -1697,7 +1749,7 @@
         "title": "Neuronavigation in Neurosurgery (GAVIN BRITZ, MD)",
         "url": "https://www.youtube.com/watch?v=MrKypgVrdMo",
         "provider": "Houston Methodist DeBakey CV Education",
-        "durationSeconds": 991.0,
+        "durationSeconds": 991,
         "sourceUrl": "https://www.youtube.com/watch?v=MrKypgVrdMo",
         "accessVerified": true
       },
@@ -1706,7 +1758,7 @@
         "title": "Simulation & Image Based Modeling in Surgical Planning",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_h1dfi54q",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3244.0,
+        "durationSeconds": 3244,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2019",
         "accessVerified": true
       },
@@ -1715,7 +1767,7 @@
         "title": "MRI Guided Transcranial Thermal Interventions: Lasers & High Intensity Focused Ultrasound",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_jswvmh7k",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3087.0,
+        "durationSeconds": 3087,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2019",
         "accessVerified": true
       },
@@ -1724,7 +1776,7 @@
         "title": "Stereotactic Laser Ablation for Pediatric Brain Tumors and Drug Resistant Epilepsy: the Utah Experience",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_z6os0w7e",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3558.0,
+        "durationSeconds": 3558,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2019",
         "accessVerified": true
       },
@@ -1733,7 +1785,7 @@
         "title": "Streamlining Intraoperative Brain Tumor Diagnosis through Stimulated Raman Histology",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_o2ulqqtn",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3377.0,
+        "durationSeconds": 3377,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2019",
         "accessVerified": true
       },
@@ -1742,7 +1794,7 @@
         "title": "The Role of Deep Brain Stimulation (DBS) Lead Placement in Clinical Outcomes",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_iq159bep",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3418.0,
+        "durationSeconds": 3418,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2016",
         "accessVerified": true
       },
@@ -1751,7 +1803,7 @@
         "title": "Adult Epilepsy Surgical Techniques",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_6g0lrgt2",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3790.0,
+        "durationSeconds": 3790,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2016",
         "accessVerified": true
       },
@@ -1760,7 +1812,7 @@
         "title": "Deep Brain Stimulation: Where Are We Headed?",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_x9g11iap",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3453.0,
+        "durationSeconds": 3453,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2016",
         "accessVerified": true
       },
@@ -1769,7 +1821,7 @@
         "title": "Imaging & Epilepsy Surgery: The Key to Success",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_ie1tsooc",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 4316.0,
+        "durationSeconds": 4316,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2016",
         "accessVerified": true
       },
@@ -1778,7 +1830,7 @@
         "title": "PET Imaging for Brain Tumors",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_12mybush",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 4261.0,
+        "durationSeconds": 4261,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2016",
         "accessVerified": true
       },
@@ -1787,7 +1839,7 @@
         "title": "fMRI & DTI for Brain Tumors",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_cckc36a4",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3895.0,
+        "durationSeconds": 3895,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2016",
         "accessVerified": true
       },
@@ -1796,7 +1848,7 @@
         "title": "Giant Pituitary Adenomas: Analysis of 95 Consequent Cases & Surgery of Meningiomas of the Clivus",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_ldsypks0",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3667.0,
+        "durationSeconds": 3667,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2016",
         "accessVerified": true
       },
@@ -1805,7 +1857,7 @@
         "title": "Functional Network Disturbances in Focal Epilepsy & Implications for Surgical Treatment",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=0_6zf0wuhw",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3929.0,
+        "durationSeconds": 3929,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2016",
         "accessVerified": true
       },
@@ -1814,7 +1866,7 @@
         "title": "MRI-based TRAMs for Differentiating Tumor from Treatment Effects in Patients with Brain Tumors – and - Pulsed Electric Fields for Inducing Transient BBB Disruption Enabling Efficient Delivery of Drugs into the Brain",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_pcqv527e",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 2767.0,
+        "durationSeconds": 2767,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2023",
         "accessVerified": true
       },
@@ -1823,7 +1875,7 @@
         "title": "Surgical Treatment of Drug-Resistant Limbic Epilepsy",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_ftprpe80",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3507.0,
+        "durationSeconds": 3507,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2023",
         "accessVerified": true
       },
@@ -1832,7 +1884,7 @@
         "title": "Towards Adaptive Deep Brain Stimulation for Gait in Parkinson’s Disease",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_jpu83jmn",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3441.0,
+        "durationSeconds": 3441,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2023",
         "accessVerified": true
       },
@@ -1841,7 +1893,7 @@
         "title": "Connectome Based Neuromodulation",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_a0eh37xi",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3357.0,
+        "durationSeconds": 3357,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2023",
         "accessVerified": true
       },
@@ -1850,7 +1902,7 @@
         "title": "Psychiatric Neurosurgery: Past, Present, Future",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_2m07borj",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3665.0,
+        "durationSeconds": 3665,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2023",
         "accessVerified": true
       },
@@ -1859,7 +1911,7 @@
         "title": "Advances in Treatment and Understanding of Trigeminal Neuralgia",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_vo5i9pe2",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3637.0,
+        "durationSeconds": 3637,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2023",
         "accessVerified": true
       },
@@ -1868,7 +1920,7 @@
         "title": "Management of Brain Metastases",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_xt0aev0j",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 2978.0,
+        "durationSeconds": 2978,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2023",
         "accessVerified": true
       },
@@ -1877,7 +1929,7 @@
         "title": "Surgical Management of Skull Base Tumors – Meningioma and Chordoma",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_2yeeddjq",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3464.0,
+        "durationSeconds": 3464,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2023",
         "accessVerified": true
       },
@@ -1886,7 +1938,7 @@
         "title": "From Creativity to Virtual Biopsies; Advanced Imaging in Neurosurgery",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_kxehijei",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3197.0,
+        "durationSeconds": 3197,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2022",
         "accessVerified": true
       },
@@ -1895,7 +1947,7 @@
         "title": "Pediatric Astrocytomas",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_9ekypc9d",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3756.0,
+        "durationSeconds": 3756,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2022",
         "accessVerified": true
       },
@@ -1904,7 +1956,7 @@
         "title": "Pediatric Brain Tumors in the “Molecular Era”",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_16dlk5ug",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3375.0,
+        "durationSeconds": 3375,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2022",
         "accessVerified": true
       },
@@ -1913,7 +1965,7 @@
         "title": "Proton Therapy at the University of Utah: Applications to Tumors of the CNS, Skull Base and Spine",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_312rhq55",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 4011.0,
+        "durationSeconds": 4011,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2022",
         "accessVerified": true
       },
@@ -1922,7 +1974,7 @@
         "title": "Understanding Speech Production: Insights from DBS and Micro-ECoG",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_8xanm29j",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 2911.0,
+        "durationSeconds": 2911,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2022",
         "accessVerified": true
       },
@@ -1931,7 +1983,7 @@
         "title": "Tumor Imaging: Fundamentals to Future",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_o1lo814t",
         "provider": "University of Utah, Spencer Fox Eccles School of Medicine, Department of Neurosurgery",
-        "durationSeconds": 3537.0,
+        "durationSeconds": 3537,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2024",
         "accessVerified": true
       },
@@ -1940,7 +1992,7 @@
         "title": "3/29/2023 Digital Neurosurgery",
         "url": "https://www.youtube.com/watch?v=1CrHF_9_Mwo",
         "provider": "University of Washington Medicine",
-        "durationSeconds": 3591.0,
+        "durationSeconds": 3591,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLTrx1fjzlQs7ouEQsiL-kdet976VnjfnH",
         "accessVerified": true
       },
@@ -1949,7 +2001,7 @@
         "title": "Dr. Andrew Ko “Current work in Epilepsy and MDS”",
         "url": "https://www.youtube.com/watch?v=AHZU4yGu-0g",
         "provider": "University of Washington Medicine",
-        "durationSeconds": 2456.0,
+        "durationSeconds": 2456,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLTrx1fjzlQs7ouEQsiL-kdet976VnjfnH",
         "accessVerified": true
       },
@@ -1958,7 +2010,7 @@
         "title": "Advances in Diagnosis and Treatment of Drug Resistant Focal Epilepsy",
         "url": "https://www.youtube.com/watch?v=XH8Ai7TKLbA",
         "provider": "University of Washington Medicine",
-        "durationSeconds": 3554.0,
+        "durationSeconds": 3554,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLTrx1fjzlQs7ouEQsiL-kdet976VnjfnH",
         "accessVerified": true
       },
@@ -1967,7 +2019,7 @@
         "title": "Michelle Kim, Ph.D. - Selective Laser Ablation of the Amygdala and Hippocampus: Preliminary Data",
         "url": "https://www.youtube.com/watch?v=0tCfW5MZCqI",
         "provider": "University of Washington Medicine",
-        "durationSeconds": 2785.0,
+        "durationSeconds": 2785,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLTrx1fjzlQs7ouEQsiL-kdet976VnjfnH",
         "accessVerified": true
       },
@@ -1976,7 +2028,7 @@
         "title": "Jeffrey Ojemann, M.D. - Mapping and Remapping The Homunculus with Electrocorticography",
         "url": "https://www.youtube.com/watch?v=oeRK1WYa7I4",
         "provider": "University of Washington Medicine",
-        "durationSeconds": 3531.0,
+        "durationSeconds": 3531,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLTrx1fjzlQs7ouEQsiL-kdet976VnjfnH",
         "accessVerified": true
       },
@@ -1985,7 +2037,7 @@
         "title": "George Ojemann, M.D. - A Historical Perspective on Electrical Stimulation Mapping",
         "url": "https://www.youtube.com/watch?v=OiWMxyukYOE",
         "provider": "University of Washington Medicine",
-        "durationSeconds": 3885.0,
+        "durationSeconds": 3885,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLTrx1fjzlQs7ouEQsiL-kdet976VnjfnH",
         "accessVerified": true
       },
@@ -1994,7 +2046,7 @@
         "title": "P.J. Cimino, MD, PhD - Classification of Adult Diffuse Gliomas: Past Present and Future",
         "url": "https://www.youtube.com/watch?v=qENQ3wjS8VI",
         "provider": "University of Washington Medicine",
-        "durationSeconds": 3108.0,
+        "durationSeconds": 3108,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLTrx1fjzlQs7ouEQsiL-kdet976VnjfnH",
         "accessVerified": true
       }
@@ -2341,11 +2393,11 @@
     ],
     "boardStatus": "BWH’s public page identifies a clinical neurosurgery fellowship combining clinical methods and translational research. The ABNS public oral-exam page describes separate neurosurgery certification steps. The sources reviewed identify no separate board examination for image-guided neurosurgery; this negative claim is bounded to sources checked on 2026-10-07.",
     "boardEligibilityNotice": "This self-study course creates no board eligibility. ABNS eligibility includes completion of a seven-year (84-month) ACGME-approved neurological surgery residency and passing the ABNS written Primary Examination for credit before the chief year, among additional requirements on its current page. Fellowship completion is not a guarantee of eligibility or certification; verify directly with ABNS.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 44.60777777777778,
     "verifiedSpecialtyHours": 36.757777777777775,
     "verifiedFoundationHours": 7.85,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2387,7 +2439,7 @@
         "title": "July 2025 Grand Rounds: Prostate Cancer Update—A Paradigm Shift",
         "url": "https://www.youtube.com/watch?v=Hf55-A1XkHc",
         "provider": "Saint Als Health",
-        "durationSeconds": 1704.0,
+        "durationSeconds": 1704,
         "sourceUrl": "https://www.youtube.com/watch?v=Hf55-A1XkHc",
         "accessVerified": true
       },
@@ -2396,7 +2448,7 @@
         "title": "AUA Guidelines on Early Detection of Prostate Cancer: Maximizing Benefits, Minimizing Harm (2025 webcast)",
         "url": "https://www.youtube.com/watch?v=JvAutDBqiNU",
         "provider": "AUAUniversity",
-        "durationSeconds": 7094.0,
+        "durationSeconds": 7094,
         "sourceUrl": "https://www.youtube.com/watch?v=JvAutDBqiNU",
         "accessVerified": true
       },
@@ -2405,7 +2457,7 @@
         "title": "UW Urology Grand Rounds: Evolving Management of High-Risk Prostate Cancer",
         "url": "https://www.youtube.com/watch?v=yNyX8MbV_Dc",
         "provider": "University of Wisconsin Department of Urology",
-        "durationSeconds": 3276.0,
+        "durationSeconds": 3276,
         "sourceUrl": "https://www.youtube.com/watch?v=yNyX8MbV_Dc",
         "accessVerified": true
       },
@@ -2414,7 +2466,7 @@
         "title": "UW Urology Grand Rounds: Surgical Treatment of Testicular Cancer",
         "url": "https://www.youtube.com/watch?v=8svInY4imC4",
         "provider": "University of Wisconsin Department of Urology",
-        "durationSeconds": 3026.0,
+        "durationSeconds": 3026,
         "sourceUrl": "https://www.youtube.com/watch?v=8svInY4imC4",
         "accessVerified": true
       },
@@ -2423,7 +2475,7 @@
         "title": "UW Urology Grand Rounds: Non-Muscle Invasive Bladder Cancer",
         "url": "https://www.youtube.com/watch?v=y6xQYPfbE0Y",
         "provider": "University of Wisconsin Department of Urology",
-        "durationSeconds": 3563.0,
+        "durationSeconds": 3563,
         "sourceUrl": "https://www.youtube.com/watch?v=y6xQYPfbE0Y",
         "accessVerified": true
       },
@@ -2432,7 +2484,7 @@
         "title": "Non-Muscle Invasive Bladder Cancer Treatment Dilemmas (2025)",
         "url": "https://www.youtube.com/watch?v=mrdioMEn__k",
         "provider": "AUAUniversity",
-        "durationSeconds": 7174.0,
+        "durationSeconds": 7174,
         "sourceUrl": "https://www.youtube.com/watch?v=mrdioMEn__k",
         "accessVerified": true
       },
@@ -2441,7 +2493,7 @@
         "title": "UW Urology Grand Rounds: Perioperative Chemotherapy for Muscle-Invasive Bladder Cancer",
         "url": "https://www.youtube.com/watch?v=yJXVeSo_93k",
         "provider": "University of Wisconsin Department of Urology",
-        "durationSeconds": 3011.0,
+        "durationSeconds": 3011,
         "sourceUrl": "https://www.youtube.com/watch?v=yJXVeSo_93k",
         "accessVerified": true
       },
@@ -2450,7 +2502,7 @@
         "title": "Guidelines-Based Management of Localized and Locally Advanced RCC",
         "url": "https://www.youtube.com/watch?v=AT_ze8F44rE",
         "provider": "Grand Rounds in Urology",
-        "durationSeconds": 1479.0,
+        "durationSeconds": 1479,
         "sourceUrl": "https://www.youtube.com/watch?v=AT_ze8F44rE",
         "accessVerified": true
       },
@@ -2459,7 +2511,7 @@
         "title": "RCC Staging, Management, Guidelines and Hereditary Syndromes",
         "url": "https://www.youtube.com/watch?v=8mZABQZYbFU",
         "provider": "EMPIRE Urology",
-        "durationSeconds": 3500.0,
+        "durationSeconds": 3500,
         "sourceUrl": "https://www.youtube.com/watch?v=8mZABQZYbFU",
         "accessVerified": true
       },
@@ -2468,7 +2520,7 @@
         "title": "UW Urology Grand Rounds: Workup of Small Renal Masses",
         "url": "https://www.youtube.com/watch?v=_jKkMGBWSJo",
         "provider": "University of Wisconsin Department of Urology",
-        "durationSeconds": 2881.0,
+        "durationSeconds": 2881,
         "sourceUrl": "https://www.youtube.com/watch?v=_jKkMGBWSJo",
         "accessVerified": true
       },
@@ -2477,7 +2529,7 @@
         "title": "A Multi-Disciplinary Care Model For Patients with Muscle Invasive Bladder Cancer",
         "url": "https://www.youtube.com/watch?v=GJQ-QB_AoQg",
         "provider": "Johns Hopkins Medicine",
-        "durationSeconds": 3695.0,
+        "durationSeconds": 3695,
         "sourceUrl": "https://www.youtube.com/watch?v=GJQ-QB_AoQg",
         "accessVerified": true
       },
@@ -2486,7 +2538,7 @@
         "title": "1.25.2021 Urology COViD Didactics - Updates in Penile Cancer",
         "url": "https://www.youtube.com/watch?v=3lTZ6BZKfVo",
         "provider": "UCSF Urology COVID Didactics (speaker Philippe Spiess, MD)",
-        "durationSeconds": 2244.0,
+        "durationSeconds": 2244,
         "sourceUrl": "https://www.youtube.com/watch?v=3lTZ6BZKfVo",
         "accessVerified": true
       },
@@ -2495,7 +2547,7 @@
         "title": "Turning Research into Results: Overview & Updates in Bladder Cancer Clinical Trials",
         "url": "https://www.youtube.com/watch?v=ze-7WIMVFP4",
         "provider": "Johns Hopkins Medicine / Greenberg Bladder Cancer Institute",
-        "durationSeconds": 3395.0,
+        "durationSeconds": 3395,
         "sourceUrl": "https://www.youtube.com/watch?v=dEj0lS8bez8",
         "accessVerified": true
       },
@@ -2504,7 +2556,7 @@
         "title": "MRI/US Fusion Biopsy for Detection of Prostate Cancer - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=0BG9PTyL0-4",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by Sven Wenske, MD",
-        "durationSeconds": 2851.0,
+        "durationSeconds": 2851,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2513,7 +2565,7 @@
         "title": "Counseling patients on treatment for localized prostate cancer - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=FfuLfMpbLsA",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by Elias Hyams, MD",
-        "durationSeconds": 3613.0,
+        "durationSeconds": 3613,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2522,7 +2574,7 @@
         "title": "Prostate Brachytherapy - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=BgorHJ5iV8Q",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by Nelson Stone, MD",
-        "durationSeconds": 3299.0,
+        "durationSeconds": 3299,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2531,7 +2583,7 @@
         "title": "Stereotactic Body Radiation for Prostate Cancer - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=PmK7eNT7CZM",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by Israel Deutsch, MD",
-        "durationSeconds": 3564.0,
+        "durationSeconds": 3564,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2540,7 +2592,7 @@
         "title": "Management of Recurrent Prostate Cancer after Radiation - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=7IhY7H8s8LA",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by Aaron Katz, MD",
-        "durationSeconds": 3639.0,
+        "durationSeconds": 3639,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2549,7 +2601,7 @@
         "title": "Salvage Lymph Node Dissection for Recurrent Prostate Cancer - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=2vLHFqw5zqg",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by Martha Terris, MD",
-        "durationSeconds": 3664.0,
+        "durationSeconds": 3664,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2558,7 +2610,7 @@
         "title": "Testicular cancer basics - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=iYQAWFloodA",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by Phil Pierorazio, MD",
-        "durationSeconds": 3757.0,
+        "durationSeconds": 3757,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2567,7 +2619,7 @@
         "title": "Management of Clinical Stage 1 Germ Cell Tumors - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=nP54auds2RU",
         "provider": "EMPIRE Urology clinician-educator lecture series",
-        "durationSeconds": 3484.0,
+        "durationSeconds": 3484,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2576,7 +2628,7 @@
         "title": "Muscle invasive bladder cancer - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=0knoFlDcmPo",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by Max Kates, MD",
-        "durationSeconds": 3455.0,
+        "durationSeconds": 3455,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2585,7 +2637,7 @@
         "title": "Risk Stratified Management of nMIBC - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=X_kh_QpYaks",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by Manish Vira, MD",
-        "durationSeconds": 3432.0,
+        "durationSeconds": 3432,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2594,7 +2646,7 @@
         "title": "New Standards of Therapy for Advanced Urothelial Carcinoma - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=0D9RgJya8xM",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by Cora Sternberg, MD",
-        "durationSeconds": 2303.0,
+        "durationSeconds": 2303,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2603,7 +2655,7 @@
         "title": "Radical Cystectomy for High Grade T1 Bladder Cancer - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=lYtWuGG0tkY",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by Seth Lerner, MD",
-        "durationSeconds": 3305.0,
+        "durationSeconds": 3305,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2612,7 +2664,7 @@
         "title": "Treatment of high risk nMIBC in era of BCG shortage - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=oUN_KTOITMM",
         "provider": "EMPIRE Urology clinician-educator lecture series",
-        "durationSeconds": 3095.0,
+        "durationSeconds": 3095,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2621,7 +2673,7 @@
         "title": "Bladder preservation strategies for MIBC - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=l35wzCNCAUA",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by Richard Matulewicz, MD",
-        "durationSeconds": 3091.0,
+        "durationSeconds": 3091,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2630,7 +2682,7 @@
         "title": "Endoscopic Management of UTUC - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=S5jtjiM6yMg",
         "provider": "EMPIRE Urology clinician-educator lecture series",
-        "durationSeconds": 3083.0,
+        "durationSeconds": 3083,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2639,7 +2691,7 @@
         "title": "Role of Surgery in Advanced Kidney Cancer - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=84Xg2suJono",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by Peter Clark, MD",
-        "durationSeconds": 2675.0,
+        "durationSeconds": 2675,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2648,7 +2700,7 @@
         "title": "Immunotherapy for metastatic RCC - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=zQ88m9JO3c8",
         "provider": "EMPIRE Urology clinician-educator lecture series",
-        "durationSeconds": 3226.0,
+        "durationSeconds": 3226,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2657,7 +2709,7 @@
         "title": "Surveillance Imaging after Primary Treatment for RCC - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=IT9cxqHI42M",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by Michael Feuerstein, MD",
-        "durationSeconds": 2264.0,
+        "durationSeconds": 2264,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2666,7 +2718,7 @@
         "title": "Adrenal Diseases for the Urologist - EMPIRE Urology Lecture Series",
         "url": "https://www.youtube.com/watch?v=ObpoAaA5gtk",
         "provider": "EMPIRE Urology clinician-educator lecture series; lecture by John Phillips, MD",
-        "durationSeconds": 3513.0,
+        "durationSeconds": 3513,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLe7F6RMpK5ctHhycv-bDk1VDnz1w3y6XK",
         "accessVerified": true
       },
@@ -2675,7 +2727,7 @@
         "title": "JHGBCI Virtual Grand Rounds | Upper Tract Urothelial Cancer: It's a Team Effort",
         "url": "https://www.youtube.com/watch?v=4GOADmL38QU",
         "provider": "Johns Hopkins Greenberg Bladder Cancer Institute Virtual Grand Rounds",
-        "durationSeconds": 4924.0,
+        "durationSeconds": 4924,
         "sourceUrl": "https://www.hopkinsmedicine.org/greenberg-bladder-cancer-institute/about-bladder-cancer/virtual-grand-rounds",
         "accessVerified": true
       },
@@ -2684,7 +2736,7 @@
         "title": "5.24.2021 Urology COViD Didactics - Genetic Basis of Kidney Cancer",
         "url": "https://www.youtube.com/watch?v=BbBghbMcIgU",
         "provider": "UCSF Urology Collaborative Online Video Didactics; speaker W. Marston Linehan, MD (NCI/NIH Urologic Oncology Branch)",
-        "durationSeconds": 3369.0,
+        "durationSeconds": 3369,
         "sourceUrl": "https://urologycovid.ucsf.edu/lecture-presentations",
         "accessVerified": true
       },
@@ -2693,7 +2745,7 @@
         "title": "AUA2026: Advanced Prostate Cancer in the News 2026: A Case-Based Multidisciplinary Update",
         "url": "https://www.youtube.com/watch?v=JAeMWB2n6RM",
         "provider": "American Urological Association / AUAUniversity professional education session",
-        "durationSeconds": 5472.0,
+        "durationSeconds": 5472,
         "sourceUrl": "https://www.youtube.com/@AUAUniversity/videos",
         "accessVerified": true
       },
@@ -2702,7 +2754,7 @@
         "title": "AUA2026: Focus on: Muscle Invasive Bladder Cancer",
         "url": "https://www.youtube.com/watch?v=jGtGa9kMFbY",
         "provider": "American Urological Association / AUAUniversity professional education session",
-        "durationSeconds": 5170.0,
+        "durationSeconds": 5170,
         "sourceUrl": "https://www.youtube.com/@AUAUniversity/videos",
         "accessVerified": true
       },
@@ -2711,7 +2763,7 @@
         "title": "AUA2026: Focus on: Non-Muscle Invasive Bladder Cancer Update for the Urology Care Team",
         "url": "https://www.youtube.com/watch?v=JWJogHr8TOk",
         "provider": "American Urological Association / AUAUniversity professional education session",
-        "durationSeconds": 4438.0,
+        "durationSeconds": 4438,
         "sourceUrl": "https://www.youtube.com/@AUAUniversity/videos",
         "accessVerified": true
       }
@@ -2855,11 +2907,11 @@
     ],
     "boardStatus": "Urologic oncology is a physician subspecialty fellowship within urology. ABU general urology certification includes oncology among its domains; ABU homepage lists subspecialty certifications in Pediatric Urology and Urogynecology and Reconstructive Pelvic Surgery, not Urologic Oncology. No separate ABU urologic-oncology board exam was found. SUO accredits its own 2-year fellowship programmes and requires fellows to take OKAT each fellowship year; SUO fellowship/OKAT status is not ABU board certification. The historical SUO discussion of a possible focused practice designation is not proof of a currently available personal certification; verify with ABU/SUO directly.",
     "boardEligibilityNotice": "This independent course does not confer ABU eligibility, SUO fellowship completion/accreditation, OKAT credit, Focused Practice Designation, licensure, or board status. The ABU eligibility process depends on approved medical and urology-residency training and other Board criteria; consult ABU directly.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 36.31333333333333,
     "verifiedSpecialtyHours": 35.3375,
     "verifiedFoundationHours": 0.9758333333333333,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2952,7 +3004,7 @@
         "title": "Cushing's with Professor John Newell-Price - Virtual Pituitary Conference 2021",
         "url": "https://www.youtube.com/watch?v=A-FuiPBgWpM",
         "provider": "The Pituitary Foundation (speaker: Professor John Newell-Price, consultant professor of endocrinology)",
-        "durationSeconds": 3292.0,
+        "durationSeconds": 3292,
         "sourceUrl": "https://www.youtube.com/watch?v=A-FuiPBgWpM",
         "accessVerified": true
       },
@@ -3092,10 +3144,10 @@
     ],
     "boardStatus": "No separate pituitary fellowship board examination or pituitary-specific ABMS/ABNS certification identified in the official board sources reviewed as of 2026-10-07. ABNS primary neurological surgery certification is a separate broad pathway; MGB fellowship completion does not itself grant certification or eligibility. ACGME lists Neuroendovascular Intervention and Neurocritical Care as neurological surgery subspecialties on its page; pituitary is not listed there.",
     "boardEligibilityNotice": "Do not infer board eligibility from this fellowship. ABNS primary certification requirements include completion of a seven-year (84-month) ACGME-approved neurosurgery residency, written Primary Examination and subsequent oral examination/practice requirements. Verify current individual eligibility with ABNS and licensing authorities.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 0.9144444444444444,
     "verifiedSpecialtyHours": 0.9144444444444444,
-    "verifiedFoundationHours": 0.0,
+    "verifiedFoundationHours": 0,
     "hoursGap": 35.08555555555556,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
@@ -3134,7 +3186,7 @@
         "title": "Designing a Midline Anterior Skull Base Approach: Anterior Skull Base and Paranasal Sinus Lesion",
         "url": "https://www.youtube.com/watch?v=ibe-RUb-YeM",
         "provider": "Neurosurgery Research & Education Foundation (NREF) / AANS Resident Education Series",
-        "durationSeconds": 1582.0,
+        "durationSeconds": 1582,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzqaht98K90IyEE33d5N4W5b",
         "accessVerified": true
       },
@@ -3143,7 +3195,7 @@
         "title": "Designing a Midline Anterior Skull Base Approach: Endoscopic Endonasal Skull Base Surgery",
         "url": "https://www.youtube.com/watch?v=m1Mno-eyhvY",
         "provider": "Neurosurgery Research & Education Foundation (NREF) / AANS Resident Education Series",
-        "durationSeconds": 1911.0,
+        "durationSeconds": 1911,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzqaht98K90IyEE33d5N4W5b",
         "accessVerified": true
       },
@@ -3152,7 +3204,7 @@
         "title": "Designing an Anterolateral Skull Base Approach: FTOZ, Surgical Approaches to Cavernous Sinus",
         "url": "https://www.youtube.com/watch?v=wgozXY9GSkY",
         "provider": "Neurosurgery Research & Education Foundation (NREF) / AANS Resident Education Series",
-        "durationSeconds": 1393.0,
+        "durationSeconds": 1393,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzqaht98K90IyEE33d5N4W5b",
         "accessVerified": true
       },
@@ -3161,7 +3213,7 @@
         "title": "Designing an Anterolateral Skull Base Approach: Infratemporal Fossa Tumors Approach",
         "url": "https://www.youtube.com/watch?v=dKuK6Bgwigo",
         "provider": "Neurosurgery Research & Education Foundation (NREF) / AANS Resident Education Series",
-        "durationSeconds": 639.0,
+        "durationSeconds": 639,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzqaht98K90IyEE33d5N4W5b",
         "accessVerified": true
       },
@@ -3170,7 +3222,7 @@
         "title": "Designing a Lateral Skull Base Approach",
         "url": "https://www.youtube.com/watch?v=_to_85wn1RM",
         "provider": "Neurosurgery Research & Education Foundation (NREF) / AANS Resident Education Series",
-        "durationSeconds": 2578.0,
+        "durationSeconds": 2578,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzqaht98K90IyEE33d5N4W5b",
         "accessVerified": true
       },
@@ -3179,7 +3231,7 @@
         "title": "Designing a Posterolateral Skull Base Approach: Presigmoid vs. Retrosigmoid Approaches",
         "url": "https://www.youtube.com/watch?v=UcMkFrvmenk",
         "provider": "Neurosurgery Research & Education Foundation (NREF) / AANS Resident Education Series",
-        "durationSeconds": 1142.0,
+        "durationSeconds": 1142,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzqaht98K90IyEE33d5N4W5b",
         "accessVerified": true
       },
@@ -3188,7 +3240,7 @@
         "title": "Designing a Posterolateral Skull Base Approach: Designing a Posterior Fossa Approach",
         "url": "https://www.youtube.com/watch?v=bterSoYQ4mA",
         "provider": "Neurosurgery Research & Education Foundation (NREF) / AANS Resident Education Series",
-        "durationSeconds": 805.0,
+        "durationSeconds": 805,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzqaht98K90IyEE33d5N4W5b",
         "accessVerified": true
       },
@@ -3197,7 +3249,7 @@
         "title": "Designing an Approach to the Jugular Foramen and Posterior Cranial Base",
         "url": "https://www.youtube.com/watch?v=RCiFY_a4xZc",
         "provider": "Neurosurgery Research & Education Foundation (NREF) / AANS Resident Education Series",
-        "durationSeconds": 2048.0,
+        "durationSeconds": 2048,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzqaht98K90IyEE33d5N4W5b",
         "accessVerified": true
       },
@@ -3206,7 +3258,7 @@
         "title": "Designing an Approach to the Posterior Cranial Base: The Far Lateral Approach",
         "url": "https://www.youtube.com/watch?v=E0aJiH7SQv8",
         "provider": "Neurosurgery Research & Education Foundation (NREF) / AANS Resident Education Series",
-        "durationSeconds": 1337.0,
+        "durationSeconds": 1337,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLRrYUcBdtXzqaht98K90IyEE33d5N4W5b",
         "accessVerified": true
       },
@@ -3215,7 +3267,7 @@
         "title": "Surgical Anatomy for Transcranial Skull Base Approaches — Maria Peris-Celda",
         "url": "https://www.youtube.com/watch?v=qHJuMplGEg0",
         "provider": "Stanford Neurosurgery / Rhoton Society virtual meeting",
-        "durationSeconds": 737.0,
+        "durationSeconds": 737,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLSVqZwlZyqvt9sAqGFTLVhkawMRwL84xy",
         "accessVerified": true
       },
@@ -3224,7 +3276,7 @@
         "title": "Contemporary Skull Base Surgery: Case Discussion — Pablo Recinos",
         "url": "https://www.youtube.com/watch?v=FsR6C8cpKyc",
         "provider": "Stanford Neurosurgery / Rhoton Society virtual meeting",
-        "durationSeconds": 675.0,
+        "durationSeconds": 675,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLSVqZwlZyqvt9sAqGFTLVhkawMRwL84xy",
         "accessVerified": true
       },
@@ -3233,7 +3285,7 @@
         "title": "Surgical Anatomy for Endonasal Skull Base Approaches — Kumar Abhinav",
         "url": "https://www.youtube.com/watch?v=CbQshl-dnBU",
         "provider": "Stanford Neurosurgery / Rhoton Society virtual meeting",
-        "durationSeconds": 1300.0,
+        "durationSeconds": 1300,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLSVqZwlZyqvt9sAqGFTLVhkawMRwL84xy",
         "accessVerified": true
       },
@@ -3242,7 +3294,7 @@
         "title": "6+1 Skull Base Approaches — Juan Fernandez-Miranda",
         "url": "https://www.youtube.com/watch?v=eNyqG-8XCxg",
         "provider": "Stanford Neurosurgery / Rhoton Society virtual meeting",
-        "durationSeconds": 1445.0,
+        "durationSeconds": 1445,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLSVqZwlZyqvt9sAqGFTLVhkawMRwL84xy",
         "accessVerified": true
       },
@@ -3251,7 +3303,7 @@
         "title": "Fronto-Orbital Approach vs EEA — Daniel Prevedello",
         "url": "https://www.youtube.com/watch?v=TN_faivBhBQ",
         "provider": "Stanford Neurosurgery / Rhoton Society virtual meeting",
-        "durationSeconds": 1381.0,
+        "durationSeconds": 1381,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLSVqZwlZyqvt9sAqGFTLVhkawMRwL84xy",
         "accessVerified": true
       },
@@ -3260,7 +3312,7 @@
         "title": "Extended Middle Fossa Approach vs EEA — Paul Gardner",
         "url": "https://www.youtube.com/watch?v=zTIHAR_ijtw",
         "provider": "Stanford Neurosurgery / Rhoton Society virtual meeting",
-        "durationSeconds": 1462.0,
+        "durationSeconds": 1462,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLSVqZwlZyqvt9sAqGFTLVhkawMRwL84xy",
         "accessVerified": true
       },
@@ -3269,7 +3321,7 @@
         "title": "Tuberculum Sella Meningioma — Daniel Kelly",
         "url": "https://www.youtube.com/watch?v=KwnF45OU97Y",
         "provider": "Stanford Neurosurgery / Rhoton Society virtual meeting",
-        "durationSeconds": 1263.0,
+        "durationSeconds": 1263,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLSVqZwlZyqvt9sAqGFTLVhkawMRwL84xy",
         "accessVerified": true
       },
@@ -3278,7 +3330,7 @@
         "title": "Modified Subfrontal Transbasal Approach vs EEA — James Liu",
         "url": "https://www.youtube.com/watch?v=RykgutS8ARk",
         "provider": "Stanford Neurosurgery / Rhoton Society virtual meeting",
-        "durationSeconds": 1768.0,
+        "durationSeconds": 1768,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLSVqZwlZyqvt9sAqGFTLVhkawMRwL84xy",
         "accessVerified": true
       },
@@ -3287,7 +3339,7 @@
         "title": "Combined Transpetrosal Approach vs EEA — Shaan Raza",
         "url": "https://www.youtube.com/watch?v=s1hI5pgKuHk",
         "provider": "Stanford Neurosurgery / Rhoton Society virtual meeting",
-        "durationSeconds": 1179.0,
+        "durationSeconds": 1179,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLSVqZwlZyqvt9sAqGFTLVhkawMRwL84xy",
         "accessVerified": true
       },
@@ -3296,7 +3348,7 @@
         "title": "Extended Retrosigmoid Approach vs EEA — Nathan Zwagerman",
         "url": "https://www.youtube.com/watch?v=lPvK8ECTyfQ",
         "provider": "Stanford Neurosurgery / Rhoton Society virtual meeting",
-        "durationSeconds": 828.0,
+        "durationSeconds": 828,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLSVqZwlZyqvt9sAqGFTLVhkawMRwL84xy",
         "accessVerified": true
       },
@@ -3305,7 +3357,7 @@
         "title": "Extreme Far Lateral vs EEA — Sebastien Froelich",
         "url": "https://www.youtube.com/watch?v=pJkPBRSL7cw",
         "provider": "Stanford Neurosurgery / Rhoton Society virtual meeting",
-        "durationSeconds": 1516.0,
+        "durationSeconds": 1516,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLSVqZwlZyqvt9sAqGFTLVhkawMRwL84xy",
         "accessVerified": true
       },
@@ -3314,7 +3366,7 @@
         "title": "Endoscopic Endonasal Surgery Webinar — AANS/CNS Joint Section on Tumors",
         "url": "https://www.youtube.com/watch?v=VIPnknioLGs",
         "provider": "American Association of Neurological Surgeons (AANS), Joint Section on Tumors",
-        "durationSeconds": 2630.0,
+        "durationSeconds": 2630,
         "sourceUrl": "https://www.youtube.com/watch?v=VIPnknioLGs",
         "accessVerified": true
       },
@@ -3323,7 +3375,7 @@
         "title": "ACNS Webinar — Skull Base Surgery from Lab to OR & Keyhole Neurosurgery",
         "url": "https://www.youtube.com/watch?v=JNBRh8yC6_U",
         "provider": "Asian Congress of Neurological Surgeons (ACNS) Webinars",
-        "durationSeconds": 7335.0,
+        "durationSeconds": 7335,
         "sourceUrl": "https://www.youtube.com/watch?v=JNBRh8yC6_U",
         "accessVerified": true
       },
@@ -3332,7 +3384,7 @@
         "title": "EANS Webinar: Parasellar Tumors",
         "url": "https://www.youtube.com/watch?v=sUBBTWAEqPo",
         "provider": "European Association of Neurosurgical Societies (EANS) Skull Base Section",
-        "durationSeconds": 8633.0,
+        "durationSeconds": 8633,
         "sourceUrl": "https://www.youtube.com/watch?v=sUBBTWAEqPo",
         "accessVerified": true
       },
@@ -3341,7 +3393,7 @@
         "title": "EANS Webinar: Cavernous Sinus Surgery",
         "url": "https://www.youtube.com/watch?v=KkCI_OWU5EI",
         "provider": "European Association of Neurosurgical Societies (EANS) Skull Base Section",
-        "durationSeconds": 5164.0,
+        "durationSeconds": 5164,
         "sourceUrl": "https://www.youtube.com/watch?v=KkCI_OWU5EI",
         "accessVerified": true
       },
@@ -3350,7 +3402,7 @@
         "title": "World Vestibular Schwannoma Awareness Day 2024",
         "url": "https://www.youtube.com/watch?v=BbnMINqQ6bA",
         "provider": "Mayo Clinic",
-        "durationSeconds": 18053.0,
+        "durationSeconds": 18053,
         "sourceUrl": "https://www.youtube.com/watch?v=BbnMINqQ6bA",
         "accessVerified": true
       },
@@ -3359,7 +3411,7 @@
         "title": "Chordomas and Chondrosarcomas: Surgical Anatomy and Technical Nuances",
         "url": "https://www.youtube.com/watch?v=BHVvjVPrDUQ",
         "provider": "Juan Fernandez-Miranda (DrJFM)",
-        "durationSeconds": 5216.0,
+        "durationSeconds": 5216,
         "sourceUrl": "https://www.youtube.com/watch?v=BHVvjVPrDUQ",
         "accessVerified": true
       },
@@ -3368,7 +3420,7 @@
         "title": "Anterior Skull Base UL Neuroradiology Neurosurgery lecture series",
         "url": "https://www.youtube.com/watch?v=DmvfCdj4rP4",
         "provider": "Suresh Mukherji, neuroradiology educator",
-        "durationSeconds": 4130.0,
+        "durationSeconds": 4130,
         "sourceUrl": "https://www.youtube.com/watch?v=DmvfCdj4rP4",
         "accessVerified": true
       },
@@ -3377,7 +3429,7 @@
         "title": "Surgical Management of Meningiomas and Other Skull Base Tumors - Philip Theodosopoulos, MD",
         "url": "https://www.youtube.com/watch?v=CAYifAaBV6k",
         "provider": "UCSF Neurosurgery",
-        "durationSeconds": 1426.0,
+        "durationSeconds": 1426,
         "sourceUrl": "https://www.youtube.com/watch?v=CAYifAaBV6k",
         "accessVerified": true
       },
@@ -3386,7 +3438,7 @@
         "title": "Imaging of Skull base lesions",
         "url": "https://www.youtube.com/watch?v=jHDvdcxl98w",
         "provider": "Radiology Video - radiology made esay",
-        "durationSeconds": 2789.0,
+        "durationSeconds": 2789,
         "sourceUrl": "https://www.youtube.com/watch?v=jHDvdcxl98w",
         "accessVerified": true
       },
@@ -3395,7 +3447,7 @@
         "title": "Endoscopic Management of Anterior Skull Base Neoplasms",
         "url": "https://www.youtube.com/watch?v=UihBiCQSx7c",
         "provider": "Stanford Otolaryngology — Head & Neck Surgery",
-        "durationSeconds": 2377.0,
+        "durationSeconds": 2377,
         "sourceUrl": "https://www.youtube.com/watch?v=UihBiCQSx7c",
         "accessVerified": true
       },
@@ -3404,7 +3456,7 @@
         "title": "Challenges and Innovations in Pituitary Surgery",
         "url": "https://www.youtube.com/watch?v=lLwO-41eJzs",
         "provider": "Juan Fernandez-Miranda (DrJFM)",
-        "durationSeconds": 4277.0,
+        "durationSeconds": 4277,
         "sourceUrl": "https://www.youtube.com/watch?v=lLwO-41eJzs",
         "accessVerified": true
       },
@@ -3413,7 +3465,7 @@
         "title": "Pituitary Grand Rounds; Episode 1: Non-functioning tumor and hypopituitarism",
         "url": "https://www.youtube.com/watch?v=zcYkpB2HMt0",
         "provider": "Pituitary World News (PWN)",
-        "durationSeconds": 2561.0,
+        "durationSeconds": 2561,
         "sourceUrl": "https://www.youtube.com/watch?v=zcYkpB2HMt0",
         "accessVerified": true
       },
@@ -3422,7 +3474,7 @@
         "title": "Pituitary Grand Rounds, Episode 6: Controversies in the Management of Acromegaly",
         "url": "https://www.youtube.com/watch?v=whDk8mRaGrs",
         "provider": "Pituitary World News (PWN)",
-        "durationSeconds": 3534.0,
+        "durationSeconds": 3534,
         "sourceUrl": "https://www.youtube.com/watch?v=whDk8mRaGrs",
         "accessVerified": true
       },
@@ -3431,7 +3483,7 @@
         "title": "Sellar, Suprasellar and Parasellar Masses w/Dr. Shatzkes 7/21",
         "url": "https://www.youtube.com/watch?v=kB_CqXz8NiQ",
         "provider": "BRAINterns Webinar Series",
-        "durationSeconds": 2208.0,
+        "durationSeconds": 2208,
         "sourceUrl": "https://www.youtube.com/watch?v=kB_CqXz8NiQ",
         "accessVerified": true
       },
@@ -3440,7 +3492,7 @@
         "title": "Pituitary Grand Rounds Episode 5: Management of Craniopharyngiomas",
         "url": "https://www.youtube.com/watch?v=pMkFH13URS8",
         "provider": "Pituitary World News (PWN), recording from UCSF Controversies in Pituitary Medicine conference",
-        "durationSeconds": 1911.0,
+        "durationSeconds": 1911,
         "sourceUrl": "https://www.youtube.com/watch?v=pMkFH13URS8",
         "accessVerified": true
       },
@@ -3449,7 +3501,7 @@
         "title": "THE EANS WEBINAR: « THE POSTERIOR PETROSECTOMY »",
         "url": "https://www.youtube.com/watch?v=n8sSZOy_yUI",
         "provider": "European Association of Neurosurgical Societies (EANS), Skull Base Section",
-        "durationSeconds": 5878.0,
+        "durationSeconds": 5878,
         "sourceUrl": "https://www.youtube.com/watch?v=n8sSZOy_yUI",
         "accessVerified": true
       },
@@ -3458,7 +3510,7 @@
         "title": "Radiology Grand Rounds 4-23-15 (Temporal Bone Imaging Simplified)",
         "url": "https://www.youtube.com/watch?v=UDMw87ofhy8",
         "provider": "LSU Health Shreveport; lecture by Jerry Kovoor, MD, neuroradiology fellow, University of Iowa Hospitals and Clinics",
-        "durationSeconds": 2711.0,
+        "durationSeconds": 2711,
         "sourceUrl": "https://www.youtube.com/watch?v=UDMw87ofhy8",
         "accessVerified": true
       }
@@ -3659,7 +3711,7 @@
     ],
     "boardStatus": "As checked 2026-10-07: CAST publishes skull-base fellowship programme requirements and lists Mass General Brigham among CAST-accredited programme entries. ABNS describes one general neurological-surgery certification pathway and an oral Tumor focus that includes skull-base tumors/endoscopic surgery. It does not publish a separate Skull Base board exam or individual skull-base certificate. NASBS match is administrative selection, distinct from both. No fellowship-specific ABNS exam blueprint or exam weighting was located; course alignment is only to public CAST education requirements and ABNS broad domains, not a formal blueprint.",
     "boardEligibilityNotice": "MGB states candidates must have completed or be in their senior year of an ACGME-accredited programme or equivalent in their home country; CAST standards for a CAST-accredited post-residency fellowship require satisfactory completion of an ACGME or foreign-equivalent accredited neurological-surgery residency. A NASBS-listed BWH programme has distinct published match fields and eligibility details; verify directly with each programme. ABNS board eligibility depends on ABNS requirements and the individual’s training/certification trajectory, not on this fellowship or course. Current rules can change. Independent self-study grants no board eligibility, exam credit, licence, fellowship appointment or operative competence.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 29.950555555555557,
     "verifiedSpecialtyHours": 25.680555555555557,
     "verifiedFoundationHours": 4.27,
@@ -3709,7 +3761,7 @@
       "basis": "Transparent independent study plan, not clinical fellowship duration or accreditation. Video runtime is counted separately and only from the deduplicated public recordings with observed runtimes; the balance is planned learner study time, not video."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X058_60a77b0e.pdf",
+    "syllabusUrl": "/manus-storage/MED-X058_a1bdfe44.pdf",
     "pdfIds": [
       "med-syllabus-MED-X058",
       "med-reading-06c62d74d851",
@@ -3723,7 +3775,7 @@
         "title": "ICU Nutrition: Feeding the Critically Ill",
         "url": "https://www.youtube.com/watch?v=Oa9oAqtdZi8",
         "provider": "eddyjoemd (Eddy Gutierrez, MD; public YouTube channel)",
-        "durationSeconds": 2260.0,
+        "durationSeconds": 2260,
         "sourceUrl": "https://www.youtube.com/watch?v=Oa9oAqtdZi8",
         "accessVerified": true
       },
@@ -3732,7 +3784,7 @@
         "title": "Nutrition in ICU",
         "url": "https://www.youtube.com/watch?v=wQW5wqlg_ps",
         "provider": "Michal Pazderník / Prague ICU (public YouTube channel)",
-        "durationSeconds": 1329.0,
+        "durationSeconds": 1329,
         "sourceUrl": "https://www.youtube.com/watch?v=wQW5wqlg_ps",
         "accessVerified": true
       },
@@ -3741,7 +3793,7 @@
         "title": "Supplemental Parenteral Nutrition – A Key Tool in the Nutrition Regimen: Recording 9.8.26 MAW",
         "url": "https://www.youtube.com/watch?v=XKbZOAOW3BA",
         "provider": "ASPEN (American Society for Parenteral and Enteral Nutrition)",
-        "durationSeconds": 3890.0,
+        "durationSeconds": 3890,
         "sourceUrl": "https://www.youtube.com/watch?v=XKbZOAOW3BA",
         "accessVerified": true
       },
@@ -3750,7 +3802,7 @@
         "title": "Complications of Home Parenteral Nutrition: What To Do & How To Minimize",
         "url": "https://www.youtube.com/watch?v=rMB6GAxDB9g",
         "provider": "The Oley Foundation; speakers identified as Darlene Kelly, MD and Ann Michalek, MD",
-        "durationSeconds": 3925.0,
+        "durationSeconds": 3925,
         "sourceUrl": "https://www.youtube.com/watch?v=rMB6GAxDB9g",
         "accessVerified": true
       },
@@ -3759,7 +3811,7 @@
         "title": "Collaborating with Your Care Team to Successfully Reduce or Wean Home Parenteral Nutrition",
         "url": "https://www.youtube.com/watch?v=hcyGZiePp8A",
         "provider": "The Oley Foundation; clinical panel includes Carolyn Newberry, MD and registered dietitian Jessica Youngman",
-        "durationSeconds": 3186.0,
+        "durationSeconds": 3186,
         "sourceUrl": "https://www.youtube.com/watch?v=hcyGZiePp8A",
         "accessVerified": true
       },
@@ -3768,7 +3820,7 @@
         "title": "Nutrition Support for Short Bowel Syndrome – with Case Study",
         "url": "https://www.youtube.com/watch?v=upJMazqubIU",
         "provider": "Dietitians in Nutrition Support (Academy of Nutrition and Dietetics dietetic practice group YouTube channel)",
-        "durationSeconds": 1811.0,
+        "durationSeconds": 1811,
         "sourceUrl": "https://www.youtube.com/watch?v=upJMazqubIU",
         "accessVerified": true
       },
@@ -3777,7 +3829,7 @@
         "title": "Considerations for Enteral Feeding in Pediatric Patients with Gastrointestinal Impairment",
         "url": "https://www.youtube.com/watch?v=54Jo3_7dbNo",
         "provider": "Nestlé Nutrition Institute (public YouTube channel)",
-        "durationSeconds": 3572.0,
+        "durationSeconds": 3572,
         "sourceUrl": "https://www.youtube.com/watch?v=54Jo3_7dbNo",
         "accessVerified": true
       },
@@ -3786,7 +3838,7 @@
         "title": "24 Years of Intestinal Failure: What Do We Know?",
         "url": "https://www.youtube.com/watch?v=az_RfVI0U_8",
         "provider": "Stanford Department of Pediatrics / Stanford Pediatric Grand Rounds",
-        "durationSeconds": 3755.0,
+        "durationSeconds": 3755,
         "sourceUrl": "https://www.youtube.com/watch?v=az_RfVI0U_8",
         "accessVerified": true
       },
@@ -3795,7 +3847,7 @@
         "title": "Benefits, Burdens, and Beliefs: The Ethics of Forgoing Pediatric Nutrition and Hydration",
         "url": "https://www.youtube.com/watch?v=wiLc5D0NNcg",
         "provider": "Seattle Children's Hospital Grand Rounds",
-        "durationSeconds": 3292.0,
+        "durationSeconds": 3292,
         "sourceUrl": "https://www.youtube.com/watch?v=wiLc5D0NNcg",
         "accessVerified": true
       },
@@ -3804,7 +3856,7 @@
         "title": "Reimagining Neonatal Nutrition: Innovations to Optimize Early Life Outcomes",
         "url": "https://www.youtube.com/watch?v=63zZF7lKGCU",
         "provider": "Seattle Children's Hospital Grand Rounds",
-        "durationSeconds": 3503.0,
+        "durationSeconds": 3503,
         "sourceUrl": "https://www.youtube.com/watch?v=63zZF7lKGCU",
         "accessVerified": true
       },
@@ -3813,7 +3865,7 @@
         "title": "Optimizing Growth in Preterm Infants and Why it Matters",
         "url": "https://www.youtube.com/watch?v=BuWvavQWpE0",
         "provider": "UT Health San Antonio / Pediatric Grand Rounds",
-        "durationSeconds": 2619.0,
+        "durationSeconds": 2619,
         "sourceUrl": "https://www.youtube.com/watch?v=BuWvavQWpE0",
         "accessVerified": true
       },
@@ -3822,7 +3874,7 @@
         "title": "Neonatal Parenteral Nutrition and Alternative Lipids",
         "url": "https://www.youtube.com/watch?v=F9kugYzgv8o",
         "provider": "Children's Hospital Los Angeles",
-        "durationSeconds": 1409.0,
+        "durationSeconds": 1409,
         "sourceUrl": "https://www.youtube.com/watch?v=F9kugYzgv8o",
         "accessVerified": true
       },
@@ -3831,7 +3883,7 @@
         "title": "Precision Nutrition: Ready for Prime Time?",
         "url": "https://www.youtube.com/watch?v=LZYWvhRqRIU",
         "provider": "Stanford Department of Medicine Grand Rounds",
-        "durationSeconds": 3497.0,
+        "durationSeconds": 3497,
         "sourceUrl": "https://www.youtube.com/watch?v=LZYWvhRqRIU",
         "accessVerified": true
       },
@@ -3840,7 +3892,7 @@
         "title": "Grand Rounds: The Management of Obesity",
         "url": "https://www.youtube.com/watch?v=PAT1GtY24_4",
         "provider": "Jewish Orthodox Women's Medical Association (JOWMA)",
-        "durationSeconds": 3443.0,
+        "durationSeconds": 3443,
         "sourceUrl": "https://www.youtube.com/watch?v=PAT1GtY24_4",
         "accessVerified": true
       },
@@ -3849,7 +3901,7 @@
         "title": "DOM Grand Rounds: Weight Loss & Obesity — Intermittent Energy and Endoscopy Therapies",
         "url": "https://www.youtube.com/watch?v=5PPV44KaSEc",
         "provider": "University of Colorado Department of Medicine Grand Rounds",
-        "durationSeconds": 3511.0,
+        "durationSeconds": 3511,
         "sourceUrl": "https://www.youtube.com/watch?v=5PPV44KaSEc",
         "accessVerified": true
       },
@@ -3858,7 +3910,7 @@
         "title": "UofL Department of Medicine Grand Rounds: Dr. Craig McClain",
         "url": "https://www.youtube.com/watch?v=xgJI-_SGuPs",
         "provider": "University of Louisville Department of Medicine",
-        "durationSeconds": 3147.0,
+        "durationSeconds": 3147,
         "sourceUrl": "https://www.youtube.com/watch?v=xgJI-_SGuPs",
         "accessVerified": true
       },
@@ -3867,7 +3919,7 @@
         "title": "Malnutrition: A Review of Current Evidence & Recommendations 3/31/21",
         "url": "https://www.youtube.com/watch?v=4oaZs3Iivdo",
         "provider": "Mary Greeley Medical Center Physician Grand Rounds",
-        "durationSeconds": 2551.0,
+        "durationSeconds": 2551,
         "sourceUrl": "https://www.youtube.com/watch?v=4oaZs3Iivdo",
         "accessVerified": true
       },
@@ -3876,7 +3928,7 @@
         "title": "Enteral Nutrition in Renal Patients with Hemodialysis and AKI Cases",
         "url": "https://www.youtube.com/watch?v=hZmHv3ECWco",
         "provider": "Dietitians in Nutrition Support, a dietetic practice group of the Academy of Nutrition and Dietetics",
-        "durationSeconds": 2074.0,
+        "durationSeconds": 2074,
         "sourceUrl": "https://www.youtube.com/watch?v=hZmHv3ECWco",
         "accessVerified": true
       },
@@ -3885,7 +3937,7 @@
         "title": "Gastrointestinal and Metabolic Enteral Nutrition Complications",
         "url": "https://www.youtube.com/watch?v=z1Y_q2JZuh8",
         "provider": "Dietitians in Nutrition Support, a dietetic practice group of the Academy of Nutrition and Dietetics",
-        "durationSeconds": 1716.0,
+        "durationSeconds": 1716,
         "sourceUrl": "https://www.youtube.com/watch?v=z1Y_q2JZuh8",
         "accessVerified": true
       },
@@ -3894,7 +3946,7 @@
         "title": "RRI Conference 2020: A Practical Approach to Malnutrition in CKD",
         "url": "https://www.youtube.com/watch?v=DPT0c5mHuL0",
         "provider": "Renal Research Institute / International Conference on Dialysis",
-        "durationSeconds": 1876.0,
+        "durationSeconds": 1876,
         "sourceUrl": "https://www.youtube.com/watch?v=DPT0c5mHuL0",
         "accessVerified": true
       },
@@ -3903,8 +3955,17 @@
         "title": "Managing Nutrition Support for Critically Ill COVID-19 Patients",
         "url": "https://www.youtube.com/watch?v=0stk4Hje3TU",
         "provider": "Society of Critical Care Medicine and ASPEN webinar",
-        "durationSeconds": 4509.0,
+        "durationSeconds": 4509,
         "sourceUrl": "https://www.youtube.com/watch?v=0stk4Hje3TU",
+        "accessVerified": true
+      },
+      {
+        "id": "YT-IyhAJ0b_oYQ",
+        "title": "Yale PCCSM Grand Rounds - September 25, 2024",
+        "url": "https://www.youtube.com/watch?v=IyhAJ0b_oYQ",
+        "provider": "Yale PCCSM",
+        "durationSeconds": 3725,
+        "sourceUrl": "https://www.youtube.com/watch?v=IyhAJ0b_oYQ",
         "accessVerified": true
       }
     ],
@@ -3959,7 +4020,8 @@
           "YT-wQW5wqlg_ps",
           "YT-XKbZOAOW3BA",
           "YT-hZmHv3ECWco",
-          "YT-0stk4Hje3TU"
+          "YT-0stk4Hje3TU",
+          "YT-IyhAJ0b_oYQ"
         ]
       },
       {
@@ -4059,11 +4121,11 @@
     ],
     "boardStatus": "Nutrition support fellowship is a clinical training track, not itself a standalone ABMS-recognized physician specialty/subspecialty. NBPNS offers a separate physician certification examination (physician nutrition specialist); CNSC is a separate multidisciplinary credential. BWH’s public page expects the fellow to sit the ASPEN CNSC exam. The public ABMS member-board roster does not list clinical nutrition as an ABMS specialty/subspecialty; this does not negate NBPNS’s independent credential. No claim of a separate ABMS nutrition-support board exam is made.",
     "boardEligibilityNotice": "This independent course confers no credential and creates no eligibility. NBPNS’s current public exam page requires an active medical license, active ABMS/osteopathic/equivalent primary specialty certification, at least two of its listed nutrition expertise criteria, application/fee and board approval; criteria are reviewed annually. The BWH programme describes post-residency/prior surgical residency eligibility. CNSC and NBPNS are not interchangeable. Verify current rules directly with the boards.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 16.90972222222222,
-    "verifiedSpecialtyHours": 14.94138888888889,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 17.944444444444443,
+    "verifiedSpecialtyHours": 15.976111111111111,
     "verifiedFoundationHours": 1.9683333333333333,
-    "hoursGap": 19.09027777777778,
+    "hoursGap": 18.055555555555557,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -4092,7 +4154,7 @@
       "note": "A transparent learning plan, not an accredited curriculum requirement or observed completion."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X059_d8917416.pdf",
+    "syllabusUrl": "/manus-storage/MED-X059_f9e59972.pdf",
     "pdfIds": [
       "med-syllabus-MED-X059",
       "med-reading-bdc52724e66b",
@@ -4142,7 +4204,7 @@
         "title": "Prehospital Management with Dr. Saman Arbabi",
         "url": "https://www.youtube.com/watch?v=y7LPM2KjozQ",
         "provider": "Harborview Injury Prevention Research Center (HIPRC); session co-presented with Washington State Department of Health and University of Washington School of Medicine",
-        "durationSeconds": 1980.0,
+        "durationSeconds": 1980,
         "sourceUrl": "https://www.youtube.com/watch?v=y7LPM2KjozQ",
         "accessVerified": true
       },
@@ -4151,7 +4213,7 @@
         "title": "Geriatric Traumatic Brain Injury with Dr. Hilaire Thompson",
         "url": "https://www.youtube.com/watch?v=aFgriYHLVEM",
         "provider": "Harborview Injury Prevention Research Center (HIPRC)",
-        "durationSeconds": 2967.0,
+        "durationSeconds": 2967,
         "sourceUrl": "https://www.youtube.com/watch?v=y7LPM2KjozQ",
         "accessVerified": true
       },
@@ -4160,7 +4222,7 @@
         "title": "Rehabilitation & Outcomes after TBI with Dr. Jennifer Zumsteg",
         "url": "https://www.youtube.com/watch?v=V0GqE4T8430",
         "provider": "Harborview Injury Prevention Research Center (HIPRC)",
-        "durationSeconds": 2592.0,
+        "durationSeconds": 2592,
         "sourceUrl": "https://www.youtube.com/watch?v=y7LPM2KjozQ",
         "accessVerified": true
       },
@@ -4169,7 +4231,7 @@
         "title": "What Really Helps Brain Injury Patients? with Dr. Randall Chesnut",
         "url": "https://www.youtube.com/watch?v=Z34YzFgXtu8",
         "provider": "Harborview Injury Prevention Research Center (HIPRC)",
-        "durationSeconds": 2596.0,
+        "durationSeconds": 2596,
         "sourceUrl": "https://www.youtube.com/watch?v=y7LPM2KjozQ",
         "accessVerified": true
       },
@@ -4178,7 +4240,7 @@
         "title": "Psychiatric Sequelae of Traumatic Brain Injury with Dr. Jesse Fann",
         "url": "https://www.youtube.com/watch?v=pTvL9hZi6Ck",
         "provider": "Harborview Injury Prevention Research Center (HIPRC)",
-        "durationSeconds": 2636.0,
+        "durationSeconds": 2636,
         "sourceUrl": "https://www.youtube.com/watch?v=y7LPM2KjozQ",
         "accessVerified": true
       },
@@ -4187,7 +4249,7 @@
         "title": "TBI Topics: Pediatric Return to Learn after Concussion",
         "url": "https://www.youtube.com/watch?v=AvrBHbRgO3Y",
         "provider": "Harborview Injury Prevention Research Center (HIPRC), Washington State Department of Health and National Peer Learning Team",
-        "durationSeconds": 4246.0,
+        "durationSeconds": 4246,
         "sourceUrl": "https://www.youtube.com/watch?v=y7LPM2KjozQ",
         "accessVerified": true
       },
@@ -4196,7 +4258,7 @@
         "title": "TBI Topics Webinar: Health Disparities and Traumatic Brain Injury",
         "url": "https://www.youtube.com/watch?v=xdZ_o_slC1s",
         "provider": "Harborview Injury Prevention Research Center (HIPRC), Washington State Department of Health and TBI National Peer Learning Team",
-        "durationSeconds": 5139.0,
+        "durationSeconds": 5139,
         "sourceUrl": "https://www.youtube.com/watch?v=y7LPM2KjozQ",
         "accessVerified": true
       },
@@ -4205,7 +4267,7 @@
         "title": "TBI Topics Webinar: TBI & Fall Prevention Among Older Adults",
         "url": "https://www.youtube.com/watch?v=5NTDt6WN2Mk",
         "provider": "Harborview Injury Prevention Research Center (HIPRC), Washington State Department of Health and National Peer Learning Team",
-        "durationSeconds": 4717.0,
+        "durationSeconds": 4717,
         "sourceUrl": "https://www.youtube.com/watch?v=y7LPM2KjozQ",
         "accessVerified": true
       },
@@ -4214,7 +4276,7 @@
         "title": "Domestic Violence and Brain Injury by Peggy Reisher, MSW",
         "url": "https://www.youtube.com/watch?v=YfyO3jVXAss",
         "provider": "Harborview Injury Prevention Research Center (HIPRC), Washington State Department of Health and Brain Injury Alliance of Nebraska",
-        "durationSeconds": 2701.0,
+        "durationSeconds": 2701,
         "sourceUrl": "https://www.youtube.com/watch?v=y7LPM2KjozQ",
         "accessVerified": true
       },
@@ -4223,8 +4285,17 @@
         "title": "Traumatic Brain Injury (TBI) and Behavior",
         "url": "https://vimeo.com/985973522",
         "provider": "Colorado Department of Education (Vimeo account)",
-        "durationSeconds": 3128.0,
+        "durationSeconds": 3128,
         "sourceUrl": "https://vimeo.com/985973522",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X059-REC-001",
+        "title": "BNL w/ Sheital Bavishi, DO — Disorders of Consciousness Education Program for Health Care Providers",
+        "url": "https://www.youtube.com/watch?v=GEfV_eVlw08",
+        "provider": "The Ohio State University Center for Brain Injury Recovery & Discovery (CBIRD)",
+        "durationSeconds": 2516,
+        "sourceUrl": "https://www.youtube.com/watch?v=GEfV_eVlw08",
         "accessVerified": true
       }
     ],
@@ -4252,7 +4323,9 @@
         "number": 3,
         "text": "Disorders of consciousness and neurobehavioral recovery",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-X059-REC-001"
+        ]
       },
       {
         "number": 4,
@@ -4346,11 +4419,11 @@
     ],
     "boardStatus": "ABPMR offers a distinct Brain Injury Medicine subspecialty certification; ABPMR states it has offered the certification in partnership with ABPN since 2014. This is not a primary specialty board and is not an automatic consequence of self-study or of listing a course. The 2026 ABPMR exam outline is the blueprint used here.",
     "boardEligibilityNotice": "As checked 2026-10-07, ABPMR says BIM exam applicants need a current, valid, unrestricted medical license and must be ABPMR diplomates in good standing or hold qualifying ABMS-board sports medicine subspecialty certification (ABOS orthopaedic sports medicine is excluded); for post-2022 examinations they must also complete 12 months of an ACGME-accredited BIM fellowship after residency and be recommended by the programme director. Verify current requirements directly with ABPMR/ABPN. This independent curriculum does not confer eligibility.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 9.08388888888889,
-    "verifiedSpecialtyHours": 9.08388888888889,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 26.91611111111111,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 9.782777777777778,
+    "verifiedSpecialtyHours": 9.782777777777778,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 26.217222222222222,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -4392,7 +4465,7 @@
         "title": "Cerebral Palsy Care Across the Lifespan",
         "url": "https://www.youtube.com/watch?v=I_WtwSUV6cY",
         "provider": "American Academy of Neurology",
-        "durationSeconds": 3544.0,
+        "durationSeconds": 3544,
         "sourceUrl": "https://www.youtube.com/watch?v=I_WtwSUV6cY",
         "accessVerified": true
       },
@@ -4401,7 +4474,7 @@
         "title": "The Future of Cerebral Palsy Treatment",
         "url": "https://www.youtube.com/watch?v=3l-W_M09UHU",
         "provider": "Boston Children’s Hospital",
-        "durationSeconds": 1747.0,
+        "durationSeconds": 1747,
         "sourceUrl": "https://www.youtube.com/watch?v=3l-W_M09UHU",
         "accessVerified": true
       },
@@ -4410,7 +4483,7 @@
         "title": "Cerebral Palsy and Rehabilitation Management",
         "url": "https://www.youtube.com/watch?v=panDdFJd9xA",
         "provider": "University of California Television",
-        "durationSeconds": 2155.0,
+        "durationSeconds": 2155,
         "sourceUrl": "https://www.youtube.com/watch?v=panDdFJd9xA",
         "accessVerified": true
       },
@@ -4419,7 +4492,7 @@
         "title": "Caring for Children, Youth and Adults with Cerebral Palsy",
         "url": "https://www.youtube.com/watch?v=azp1bwaDPlU",
         "provider": "University of California Television",
-        "durationSeconds": 2353.0,
+        "durationSeconds": 2353,
         "sourceUrl": "https://www.youtube.com/watch?v=azp1bwaDPlU",
         "accessVerified": true
       },
@@ -4428,7 +4501,7 @@
         "title": "Cerebral Palsy: Etiology, Pathophysiology, Complications, Treatment",
         "url": "https://www.youtube.com/watch?v=zIZR5YIhf3g",
         "provider": "Ninja Nerd",
-        "durationSeconds": 2372.0,
+        "durationSeconds": 2372,
         "sourceUrl": "https://www.youtube.com/watch?v=zIZR5YIhf3g",
         "accessVerified": true
       },
@@ -4437,7 +4510,7 @@
         "title": "The Role of Physical Therapy & Neurodevelopmental Medicine in Children with Spina Bifida: What's New",
         "url": "https://www.youtube.com/watch?v=MkwdO2N1TVI",
         "provider": "Seattle Children's",
-        "durationSeconds": 2508.0,
+        "durationSeconds": 2508,
         "sourceUrl": "https://www.youtube.com/watch?v=MkwdO2N1TVI",
         "accessVerified": true
       },
@@ -4446,7 +4519,7 @@
         "title": "#LetsTalkNMD Webinar Series - SMA & Rehabilitation",
         "url": "https://www.youtube.com/watch?v=BWEmrNCDD7c",
         "provider": "Muscular Dystrophy Canada (MDC / DMC)",
-        "durationSeconds": 4605.0,
+        "durationSeconds": 4605,
         "sourceUrl": "https://www.youtube.com/watch?v=BWEmrNCDD7c",
         "accessVerified": true
       },
@@ -4455,7 +4528,7 @@
         "title": "Spinal Muscular Atrophy 2019: Exercise Recommendations in Spinal Muscular Atrophy",
         "url": "https://www.youtube.com/watch?v=W73vSC54PWc",
         "provider": "Stanford CME (Department of Neurology, Neuromuscular Division, Stanford University School of Medicine)",
-        "durationSeconds": 2395.0,
+        "durationSeconds": 2395,
         "sourceUrl": "https://www.youtube.com/watch?v=W73vSC54PWc",
         "accessVerified": true
       },
@@ -4464,7 +4537,7 @@
         "title": "The Art and Science of Rehabilitation for Children with Medical Complexity",
         "url": "https://www.youtube.com/watch?v=YkdKukBfaDw",
         "provider": "National Pediatric Rehabilitation Resource Center (C-PROGRESS)",
-        "durationSeconds": 2776.0,
+        "durationSeconds": 2776,
         "sourceUrl": "https://c-progress.org/didactic-interaction/",
         "accessVerified": true
       },
@@ -4473,7 +4546,7 @@
         "title": "Spasticity Management in Cerebral Palsy | UCSF Neurosurgery Community Grand Rounds",
         "url": "https://www.youtube.com/watch?v=lvy1-kPLveA",
         "provider": "UCSF Neurosurgery",
-        "durationSeconds": 3703.0,
+        "durationSeconds": 3703,
         "sourceUrl": "https://www.youtube.com/watch?v=lvy1-kPLveA",
         "accessVerified": true
       },
@@ -4482,7 +4555,7 @@
         "title": "Pediatric Neuromuscular Disorders: Red Flags & Testing for Primary Care",
         "url": "https://www.youtube.com/watch?v=ozyW-M7tCxk",
         "provider": "Muscular Dystrophy Association (MDA)",
-        "durationSeconds": 3351.0,
+        "durationSeconds": 3351,
         "sourceUrl": "https://www.mda.org/science/professional-medical-education/grand-rounds-webinars/2023/pediatric-neuromuscular-disorders-red-flags-testing-for-primary-care",
         "accessVerified": true
       },
@@ -4491,7 +4564,7 @@
         "title": "Grand Rounds Webinar: Leveraging Genetic Testing to Optimize Early Intervention in SMA & DMD",
         "url": "https://www.youtube.com/watch?v=W7dMj9tcP0U",
         "provider": "Muscular Dystrophy Association (MDA)",
-        "durationSeconds": 3003.0,
+        "durationSeconds": 3003,
         "sourceUrl": "https://www.youtube.com/watch?v=W7dMj9tcP0U",
         "accessVerified": true
       },
@@ -4500,7 +4573,7 @@
         "title": "Updates and Emerging Questions in Duchenne Muscular Dystrophy",
         "url": "https://www.youtube.com/watch?v=Z05aATo9rNk",
         "provider": "Muscular Dystrophy Association (MDA)",
-        "durationSeconds": 2920.0,
+        "durationSeconds": 2920,
         "sourceUrl": "https://www.youtube.com/watch?v=Z05aATo9rNk",
         "accessVerified": true
       },
@@ -4509,7 +4582,7 @@
         "title": "MDA Engage Webinar: Physical Therapy and Becker Muscular Dystrophy",
         "url": "https://www.youtube.com/watch?v=E-11wzftLJ4",
         "provider": "Muscular Dystrophy Association (MDA)",
-        "durationSeconds": 3703.0,
+        "durationSeconds": 3703,
         "sourceUrl": "https://www.youtube.com/watch?v=E-11wzftLJ4",
         "accessVerified": true
       },
@@ -4518,7 +4591,7 @@
         "title": "Pediatric Subacute Care - Irwin Weiss, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=Ok3v7DdKhlk",
         "provider": "David Geffen School of Medicine at UCLA / Mattel Children's Hospital",
-        "durationSeconds": 3258.0,
+        "durationSeconds": 3258,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -4527,7 +4600,7 @@
         "title": "Intellectual Disabilities - Alicia Bazzano, MD, PhD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=Yl2yCaGpkTY",
         "provider": "David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3556.0,
+        "durationSeconds": 3556,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -4536,7 +4609,7 @@
         "title": "Late Preterm Infants - Valencia Walker, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=G-OlH9PfTxA",
         "provider": "David Geffen School of Medicine at UCLA",
-        "durationSeconds": 3003.0,
+        "durationSeconds": 3003,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -4545,7 +4618,7 @@
         "title": "Cell Therapy for HIE - C. Michael Cotten, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=FGqjC1U8Ds0",
         "provider": "David Geffen School of Medicine at UCLA / Mattel Children's Hospital",
-        "durationSeconds": 3046.0,
+        "durationSeconds": 3046,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLXcPIhO1m_XH6m0O8HVzoBtck8BPMXLft",
         "accessVerified": true
       },
@@ -4554,7 +4627,7 @@
         "title": "Assistive Technology in Pediatric Rehabilitation Medicine - Peds MSK 2025",
         "url": "https://www.youtube.com/watch?v=sc8OtCTBIt4",
         "provider": "UCSF Orthopaedic Surgery (Peds MSK 2025)",
-        "durationSeconds": 1946.0,
+        "durationSeconds": 1946,
         "sourceUrl": "https://www.youtube.com/watch?v=sc8OtCTBIt4",
         "accessVerified": true
       },
@@ -4563,7 +4636,7 @@
         "title": "Introduction to Spina Bifida - Peds MSK 2025",
         "url": "https://www.youtube.com/watch?v=VRWh8iWCaZY",
         "provider": "UCSF Department of Orthopaedic Surgery; Peds MSK 2025 conference faculty",
-        "durationSeconds": 1596.0,
+        "durationSeconds": 1596,
         "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
         "accessVerified": true
       },
@@ -4572,7 +4645,7 @@
         "title": "Orthopaedic Conditions in Spina Bifida - Peds MSK 2025",
         "url": "https://www.youtube.com/watch?v=XfmRH5o_yBk",
         "provider": "UCSF Department of Orthopaedic Surgery; Peds MSK 2025 conference faculty",
-        "durationSeconds": 1913.0,
+        "durationSeconds": 1913,
         "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
         "accessVerified": true
       },
@@ -4581,7 +4654,7 @@
         "title": "Neurosurgical Aspects of Spina Bifida Care - Peds MSK 2025",
         "url": "https://www.youtube.com/watch?v=ubofClvCjuY",
         "provider": "UCSF Department of Orthopaedic Surgery; Peds MSK 2025 conference faculty",
-        "durationSeconds": 1704.0,
+        "durationSeconds": 1704,
         "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
         "accessVerified": true
       },
@@ -4590,7 +4663,7 @@
         "title": "Neuromuscular Indications for Botulinum Toxin Injections - Peds MSK 2025",
         "url": "https://www.youtube.com/watch?v=Zfcvp1cSV84",
         "provider": "Kate Sigford, MD, pediatric PM&R faculty; UCSF Peds MSK 2025",
-        "durationSeconds": 1662.0,
+        "durationSeconds": 1662,
         "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
         "accessVerified": true
       },
@@ -4599,7 +4672,7 @@
         "title": "Going With the Flow: New Respiratory Equipment and Strategies for the Pediatric Neuromuscular Population (Pediatric Grand Rounds, October 31, 2024)",
         "url": "https://www.youtube.com/watch?v=wCuac01OfHY",
         "provider": "Jane B. Taylor, MD, MsCR, ATSF, FAAP; University of Pittsburgh Department of Pediatrics",
-        "durationSeconds": 2830.0,
+        "durationSeconds": 2830,
         "sourceUrl": "https://www.youtube.com/watch?v=wCuac01OfHY",
         "accessVerified": true
       },
@@ -4608,7 +4681,7 @@
         "title": "2021 Child Neurology Update (Enduring): Multidisciplinary Care of Pediatric Neuromuscular Disorders",
         "url": "https://www.youtube.com/watch?v=kKnRYY_5wVw",
         "provider": "Elise McClanahan, MD; Star L. Nixon, MD, MPH; Natalie Renfrow, PT, DPT; Amanda B. Rogers, MD; Norton Healthcare and University of Louisville School of Medicine",
-        "durationSeconds": 3278.0,
+        "durationSeconds": 3278,
         "sourceUrl": "https://www.youtube.com/watch?v=kKnRYY_5wVw",
         "accessVerified": true
       },
@@ -4617,7 +4690,7 @@
         "title": "Advances in Pediatric Gene Therapy for Neuromuscular Disorders",
         "url": "https://www.youtube.com/watch?v=kBih_Gm-2AM",
         "provider": "Peter Kang, MD, Professor of Genetics, University of Minnesota; UCTV 2024 Developmental Disabilities Conference",
-        "durationSeconds": 2392.0,
+        "durationSeconds": 2392,
         "sourceUrl": "https://www.youtube.com/watch?v=kBih_Gm-2AM",
         "accessVerified": true
       },
@@ -4626,7 +4699,7 @@
         "title": "Pediatric Mild Traumatic Brain Injury | UCSF Neurosurgery Community Grand Rounds",
         "url": "https://www.youtube.com/watch?v=6pCGwKrmJPE",
         "provider": "Kurtis Auguste, MD, pediatric neurosurgeon; Bethany Johnson-Kerner, MD, PhD, pediatric neurologist; UCSF",
-        "durationSeconds": 2657.0,
+        "durationSeconds": 2657,
         "sourceUrl": "https://www.youtube.com/watch?v=6pCGwKrmJPE",
         "accessVerified": true
       },
@@ -4635,7 +4708,7 @@
         "title": "Navigating the Path for Chronic Pediatric Pain (Pediatric Grand Rounds, March 6, 2026)",
         "url": "https://www.youtube.com/watch?v=WwGtaL2L1Mo",
         "provider": "Mag Mina, MD; Department of Pediatrics, University of Texas Health Science Center at San Antonio",
-        "durationSeconds": 2709.0,
+        "durationSeconds": 2709,
         "sourceUrl": "https://www.youtube.com/watch?v=WwGtaL2L1Mo",
         "accessVerified": true
       },
@@ -4644,7 +4717,7 @@
         "title": "Addressing Pain in Children (Pediatric Grand Rounds, November 8, 2024)",
         "url": "https://www.youtube.com/watch?v=seGjfd6Qabc",
         "provider": "Melissa Fry Jones, MD; Department of Pediatrics, University of Texas Health Science Center at San Antonio",
-        "durationSeconds": 3930.0,
+        "durationSeconds": 3930,
         "sourceUrl": "https://www.youtube.com/watch?v=seGjfd6Qabc",
         "accessVerified": true
       },
@@ -4653,7 +4726,7 @@
         "title": "Pain Assessment and Management for Children and Adults with Developmental Disabilities",
         "url": "https://www.youtube.com/watch?v=F2jhJpi9tdA",
         "provider": "Chantel Burkitt, Senior Clinical Scientist, and Todd Dalberg, MD, Pediatrician and Palliative Medicine Physician, Gillette Children's Hospital; 2026 Developmental Disabilities Conference",
-        "durationSeconds": 2717.0,
+        "durationSeconds": 2717,
         "sourceUrl": "https://www.uctv.tv/shows/41471",
         "accessVerified": true
       },
@@ -4662,7 +4735,7 @@
         "title": "Evidence-Based Approaches for Spasticity and Dystonia Management in People with Cerebral Palsy",
         "url": "https://www.youtube.com/watch?v=OBovnkasNoQ",
         "provider": "Bhooma Aravamuthan, MD, Medical and Research Director, Cerebral Palsy and Mobility Center, Washington University in St. Louis; 2026 Developmental Disabilities Conference",
-        "durationSeconds": 2755.0,
+        "durationSeconds": 2755,
         "sourceUrl": "https://www.uctv.tv/shows/Evidence-Based-Approaches-for-Spasticity-and-Dystonia-Management-in-People-with-Cerebral-Palsy-41464",
         "accessVerified": true
       },
@@ -4671,7 +4744,7 @@
         "title": "Pediatric Hip: All Talks and Q&A - Peds MSK 2025",
         "url": "https://www.youtube.com/watch?v=ZYj3EKnWJxI",
         "provider": "UCSF Department of Orthopaedic Surgery; pediatric orthopaedic, sports medicine, PM&R, and neurosurgery faculty",
-        "durationSeconds": 9884.0,
+        "durationSeconds": 9884,
         "sourceUrl": "https://orthosurgery.ucsf.edu/about/news-media/ucsf-host-2025-pediatric-musculoskeletal-and-sports-medicine-conference-march-21",
         "accessVerified": true
       }
@@ -4809,7 +4882,7 @@
     ],
     "boardStatus": "A separate ABPMR PRM subspecialty certification examination exists; the board page lists 280 questions in two 3.5-hour sections and an every-other-year schedule (checked 2026-10-07; next listed exam October 26, 2027). It is distinct from primary PM&R certification. This is a physician fellowship, not a generic directory label, research-only postdoctoral position, or non-physician supplement.",
     "boardEligibilityNotice": "ABPMR requires ABPMR diplomate status in good standing, an unrestricted qualifying medical license, and an accepted training route. The usual route is two years of ACGME-accredited PRM fellowship after PM&R residency; ABPMR specifies combined or consecutive-training alternatives. Self-study grants none of these. Hopkins public pages say one or two years depending on prior experience, while 2026 ACGME PRM requirements say 24 months and the KKI application page describes a two-year appointment. Resolve shorter-route details directly with the program and ABPMR; do not assume eligibility.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 26.65861111111111,
     "verifiedSpecialtyHours": 19.675555555555555,
     "verifiedFoundationHours": 6.983055555555556,

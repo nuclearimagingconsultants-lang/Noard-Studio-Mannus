@@ -3,7 +3,6 @@
     "id": "pdf-da6e7782b714",
     "title": "Fairness and Machine Learning (Barocas, Hardt & Narayanan)",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/ai/barocas_hardt_narayanan_fairness_ml.pdf",
     "relativePath": "library/ai/barocas_hardt_narayanan_fairness_ml.pdf",
     "aliases": [],
     "sha256": "da6e7782b714c52d2fb30d09bcf37db1e37a4fa94a3ba7ec7ca134ad82a60dc3",
@@ -18,14 +17,12 @@
       "AI-G09",
       "AI-G12"
     ],
-    "storageUrl": "/manus-storage/barocas_hardt_narayanan_fairness_ml_1b994fa6.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-da6e7782b714.json"
+    "storageUrl": "/manus-storage/barocas_hardt_narayanan_fairness_ml_1b994fa6.pdf"
   },
   {
     "id": "pdf-40d976c83c18",
     "title": "Convex Optimization (Boyd & Vandenberghe)",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/ai/boyd_vandenberghe_convex_optimization.pdf",
     "relativePath": "library/ai/boyd_vandenberghe_convex_optimization.pdf",
     "aliases": [
       "library/mfin/03-boyd-vandenberghe-convex-optimization.pdf"
@@ -45,14 +42,12 @@
       "AI-G10",
       "MFIN-103"
     ],
-    "storageUrl": "/manus-storage/boyd_vandenberghe_convex_optimization_06b3d53d.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-40d976c83c18.json"
+    "storageUrl": "/manus-storage/boyd_vandenberghe_convex_optimization_06b3d53d.pdf"
   },
   {
     "id": "pdf-fc5a449b7974",
     "title": "MIT 18.06 ZoomNotes for Linear Algebra",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/ai/mit18_06_zoom_notes.pdf",
     "relativePath": "library/ai/mit18_06_zoom_notes.pdf",
     "aliases": [],
     "sha256": "fc5a449b797478be15171ade92cd11ea15559c42eeeb9a252bcdab325ec7b344",
@@ -73,14 +68,12 @@
       "AI-G08",
       "AI-G09"
     ],
-    "storageUrl": "/manus-storage/mit18_06_zoom_notes_3381e580.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-fc5a449b7974.json"
+    "storageUrl": "/manus-storage/mit18_06_zoom_notes_3381e580.pdf"
   },
   {
     "id": "pdf-bf0eb4662c3b",
     "title": "MIT numerical adjoint methods notes (Steven G. Johnson)",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/ai/mit18_337_adjoint_notes.pdf",
     "relativePath": "library/ai/mit18_337_adjoint_notes.pdf",
     "aliases": [],
     "sha256": "bf0eb4662c3b5c7a10ff76cf7adcd9323022c8d6438034420645cf3d7d14c601",
@@ -95,14 +88,12 @@
       "AI-G06",
       "AI-G11"
     ],
-    "storageUrl": "/manus-storage/mit18_337_adjoint_notes_4c364801.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-bf0eb4662c3b.json"
+    "storageUrl": "/manus-storage/mit18_337_adjoint_notes_4c364801.pdf"
   },
   {
     "id": "pdf-8f2f9c1ce1b6",
     "title": "MIT 6.006 Lecture 1: Algorithms and Computation",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/ai/mit6_006_algorithms_lecture1.pdf",
     "relativePath": "library/ai/mit6_006_algorithms_lecture1.pdf",
     "aliases": [],
     "sha256": "8f2f9c1ce1b63313344c86491870e487da796de71b3312ea05b681a00a5b2de5",
@@ -119,14 +110,12 @@
       "AI-G02",
       "AI-G11"
     ],
-    "storageUrl": "/manus-storage/mit6_006_algorithms_lecture1_c98fc936.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-8f2f9c1ce1b6.json"
+    "storageUrl": "/manus-storage/mit6_006_algorithms_lecture1_c98fc936.pdf"
   },
   {
     "id": "pdf-82bdf26756b6",
     "title": "MIT 6.041SC Lecture 1 transcript",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/ai/mit6_041_probability_lecture1_transcript.pdf",
     "relativePath": "library/ai/mit6_041_probability_lecture1_transcript.pdf",
     "aliases": [],
     "sha256": "82bdf26756b6b53d5983675305e1fd99e4382c855c9e2e9e601f1250205c2d2e",
@@ -143,14 +132,12 @@
       "AI-G10",
       "AI-G12"
     ],
-    "storageUrl": "/manus-storage/mit6_041_probability_lecture1_transcript_d2f5e955.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-82bdf26756b6.json"
+    "storageUrl": "/manus-storage/mit6_041_probability_lecture1_transcript_d2f5e955.pdf"
   },
   {
     "id": "pdf-ebc3c177dbdd",
     "title": "MIT 15.071 Introduction to Linear Optimization (49-page lecture notes)",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mba/mit-analytics-edge-linear-optimization-notes.pdf",
     "relativePath": "library/mba/mit-analytics-edge-linear-optimization-notes.pdf",
     "aliases": [],
     "sha256": "ebc3c177dbdd87eb4699d92b56268fb3cf554eb099b8f87038ca0d64924231f8",
@@ -164,14 +151,12 @@
       "MBA-107",
       "MBA-114"
     ],
-    "storageUrl": "/manus-storage/mit-analytics-edge-linear-optimization-notes_990d67e9.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-ebc3c177dbdd.json"
+    "storageUrl": "/manus-storage/mit-analytics-edge-linear-optimization-notes_990d67e9.pdf"
   },
   {
     "id": "pdf-6d56cf030476",
     "title": "NPTEL Business Ethics syllabus",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mba/nptel-business-ethics-syllabus.pdf",
     "relativePath": "library/mba/nptel-business-ethics-syllabus.pdf",
     "aliases": [],
     "sha256": "6d56cf030476729deeb287696192e411dd6d9769db3faa1a9d874e30b24d186b",
@@ -185,14 +170,12 @@
       "MBA-111",
       "MBA-113"
     ],
-    "storageUrl": "/manus-storage/nptel-business-ethics-syllabus_6f43c935.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-6d56cf030476.json"
+    "storageUrl": "/manus-storage/nptel-business-ethics-syllabus_6f43c935.pdf"
   },
   {
     "id": "pdf-2eb339cf78a3",
     "title": "NPTEL Financial Accounting syllabus",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mba/nptel-financial-accounting-syllabus.pdf",
     "relativePath": "library/mba/nptel-financial-accounting-syllabus.pdf",
     "aliases": [],
     "sha256": "2eb339cf78a3c9270f8c008350daf0d7af25d685cb26c70c28845946b6f6c9ad",
@@ -207,14 +190,12 @@
       "MBA-102",
       "MBA-110"
     ],
-    "storageUrl": "/manus-storage/nptel-financial-accounting-syllabus_fe2213d5.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-2eb339cf78a3.json"
+    "storageUrl": "/manus-storage/nptel-financial-accounting-syllabus_fe2213d5.pdf"
   },
   {
     "id": "pdf-81a1c6b2eff3",
     "title": "NPTEL Marketing Management I syllabus",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mba/nptel-marketing-management-i-syllabus.pdf",
     "relativePath": "library/mba/nptel-marketing-management-i-syllabus.pdf",
     "aliases": [],
     "sha256": "81a1c6b2eff30646e6e83ebc93ec4746541a49122b48ead071921ea4a5af682e",
@@ -229,14 +210,12 @@
       "MBA-105",
       "MBA-109"
     ],
-    "storageUrl": "/manus-storage/nptel-marketing-management-i-syllabus_0eca4ca4.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-81a1c6b2eff3.json"
+    "storageUrl": "/manus-storage/nptel-marketing-management-i-syllabus_0eca4ca4.pdf"
   },
   {
     "id": "pdf-ed067d58b1b4",
     "title": "NPTEL Organizational Behaviour syllabus",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mba/nptel-organizational-behaviour-syllabus.pdf",
     "relativePath": "library/mba/nptel-organizational-behaviour-syllabus.pdf",
     "aliases": [],
     "sha256": "ed067d58b1b4ab4b8e373707f600b6ff74219512ebba6b10c10ff97a3182cd83",
@@ -249,14 +228,12 @@
     "courseIds": [
       "MBA-106"
     ],
-    "storageUrl": "/manus-storage/nptel-organizational-behaviour-syllabus_8f1a813f.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-ed067d58b1b4.json"
+    "storageUrl": "/manus-storage/nptel-organizational-behaviour-syllabus_8f1a813f.pdf"
   },
   {
     "id": "pdf-f6171e4f771d",
     "title": "NPTEL Production and Operation Management syllabus",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mba/nptel-production-operation-management-syllabus.pdf",
     "relativePath": "library/mba/nptel-production-operation-management-syllabus.pdf",
     "aliases": [],
     "sha256": "f6171e4f771d3913a08da442469f637c1231cabe1cb2dec4efb86b08c1e8952c",
@@ -269,14 +246,12 @@
     "courseIds": [
       "MBA-104"
     ],
-    "storageUrl": "/manus-storage/nptel-production-operation-management-syllabus_07492764.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-f6171e4f771d.json"
+    "storageUrl": "/manus-storage/nptel-production-operation-management-syllabus_07492764.pdf"
   },
   {
     "id": "pdf-46e718b187ba",
     "title": "Introduction to Business (complete textbook)",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mba/openstax-introduction-to-business.pdf",
     "relativePath": "library/mba/openstax-introduction-to-business.pdf",
     "aliases": [],
     "sha256": "46e718b187bad53055f60c74cc919acc411840c8531ef6033d6f21a7f1ba56b5",
@@ -300,14 +275,12 @@
       "MBA-112",
       "MBA-114"
     ],
-    "storageUrl": "/manus-storage/openstax-introduction-to-business_e2e8c689.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-46e718b187ba.json"
+    "storageUrl": "/manus-storage/openstax-introduction-to-business_e2e8c689.pdf"
   },
   {
     "id": "pdf-fb4dc24f2623",
     "title": "Principles of Economics 2e (complete textbook)",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mba/openstax-principles-of-economics-2e.pdf",
     "relativePath": "library/mba/openstax-principles-of-economics-2e.pdf",
     "aliases": [],
     "sha256": "fb4dc24f2623ceea612ef040066f3d3d36f94be8959558dc864fb7c897b442d6",
@@ -323,14 +296,12 @@
       "MBA-112",
       "MBA-113"
     ],
-    "storageUrl": "/manus-storage/openstax-principles-of-economics-2e_40cbefc6.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-fb4dc24f2623.json"
+    "storageUrl": "/manus-storage/openstax-principles-of-economics-2e_40cbefc6.pdf"
   },
   {
     "id": "pdf-d9dc9bc96cb6",
     "title": "Principles of Finance",
     "author": "Julie Dahlquist and Rainford Knight / OpenStax",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mfin/01-openstax-principles-of-finance.pdf",
     "relativePath": "library/mfin/01-openstax-principles-of-finance.pdf",
     "aliases": [],
     "sha256": "d9dc9bc96cb6e3128a38aabf00609cc72d5e7721565fa3b5a672a41352f4a22c",
@@ -341,14 +312,12 @@
       "mfin"
     ],
     "courseIds": [],
-    "storageUrl": "/manus-storage/01-openstax-principles-of-finance_0eff7318.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-d9dc9bc96cb6.json"
+    "storageUrl": "/manus-storage/01-openstax-principles-of-finance_0eff7318.pdf"
   },
   {
     "id": "pdf-a98ed7dcb92e",
     "title": "OpenStax Principles of Financial Accounting",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mfin/02-openstax-financial-accounting.pdf",
     "relativePath": "library/mfin/02-openstax-financial-accounting.pdf",
     "aliases": [],
     "sha256": "a98ed7dcb92eec2bd70f32b150aa4f1d3140ad78bb1477e86a31682ec5ac31e5",
@@ -361,14 +330,12 @@
     "courseIds": [
       "MFIN-105"
     ],
-    "storageUrl": "/manus-storage/02-openstax-financial-accounting_8bfe8788.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-a98ed7dcb92e.json"
+    "storageUrl": "/manus-storage/02-openstax-financial-accounting_8bfe8788.pdf"
   },
   {
     "id": "pdf-8eb1481b403e",
     "title": "NYU Corporate Finance packet",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mfin/06-nyu-damodaran-corporate-finance-packet-1.pdf",
     "relativePath": "library/mfin/06-nyu-damodaran-corporate-finance-packet-1.pdf",
     "aliases": [],
     "sha256": "8eb1481b403e2998beee93f8f8d0cd4d53f14de2988df14326f51bc47dff0cc0",
@@ -381,14 +348,12 @@
     "courseIds": [
       "MFIN-106"
     ],
-    "storageUrl": "/manus-storage/06-nyu-damodaran-corporate-finance-packet-1_a7e76ec5.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-8eb1481b403e.json"
+    "storageUrl": "/manus-storage/06-nyu-damodaran-corporate-finance-packet-1_a7e76ec5.pdf"
   },
   {
     "id": "pdf-64afa3d31e09",
     "title": "NYU Corporate Finance project",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mfin/07-nyu-damodaran-corporate-finance-project.pdf",
     "relativePath": "library/mfin/07-nyu-damodaran-corporate-finance-project.pdf",
     "aliases": [],
     "sha256": "64afa3d31e0981b2b58401c348ca1bbd2986d6a91a2ae7950ca1922bc05b6fad",
@@ -401,14 +366,12 @@
     "courseIds": [
       "MFIN-113"
     ],
-    "storageUrl": "/manus-storage/07-nyu-damodaran-corporate-finance-project_82d8b009.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-64afa3d31e09.json"
+    "storageUrl": "/manus-storage/07-nyu-damodaran-corporate-finance-project_82d8b009.pdf"
   },
   {
     "id": "pdf-5714ee5e4925",
     "title": "MIT 15.401 Finance Theory I lecture 1",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mfin/08-mit-15-401-finance-theory-i-lecture-1.pdf",
     "relativePath": "library/mfin/08-mit-15-401-finance-theory-i-lecture-1.pdf",
     "aliases": [],
     "sha256": "5714ee5e4925f83fed349bcda93ccef33bd355b44680b47fbb108e37c928f65e",
@@ -422,14 +385,12 @@
       "MFIN-106",
       "MFIN-113"
     ],
-    "storageUrl": "/manus-storage/08-mit-15-401-finance-theory-i-lecture-1_c025ee3b.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-5714ee5e4925.json"
+    "storageUrl": "/manus-storage/08-mit-15-401-finance-theory-i-lecture-1_c025ee3b.pdf"
   },
   {
     "id": "pdf-561cfda9f205",
     "title": "MIT 15.S08 FinTech class 1 notes",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mfin/09-mit-15-s08-fintech-class-1.pdf",
     "relativePath": "library/mfin/09-mit-15-s08-fintech-class-1.pdf",
     "aliases": [],
     "sha256": "561cfda9f205eb3dc73e6f659e65888f6b9b9520e6f5a320ee3b56e44c7ce58d",
@@ -443,14 +404,12 @@
       "MFIN-111",
       "MFIN-112"
     ],
-    "storageUrl": "/manus-storage/09-mit-15-s08-fintech-class-1_ea3e1c99.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-561cfda9f205.json"
+    "storageUrl": "/manus-storage/09-mit-15-s08-fintech-class-1_ea3e1c99.pdf"
   },
   {
     "id": "pdf-661ed16fe193",
     "title": "NPTEL Financial Derivatives & Risk Management syllabus",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mfin/10-nptel-financial-derivatives-syllabus.pdf",
     "relativePath": "library/mfin/10-nptel-financial-derivatives-syllabus.pdf",
     "aliases": [],
     "sha256": "661ed16fe19393dea4fc7ce0ab304ddb090b74508841f18c41d618071e6cb351",
@@ -464,14 +423,12 @@
       "MFIN-109",
       "MFIN-110"
     ],
-    "storageUrl": "/manus-storage/10-nptel-financial-derivatives-syllabus_8009ce12.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-661ed16fe193.json"
+    "storageUrl": "/manus-storage/10-nptel-financial-derivatives-syllabus_8009ce12.pdf"
   },
   {
     "id": "pdf-86030a3015a4",
     "title": "MIT options/futures material",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/mfin/11-mit-options-futures-syllabus.pdf",
     "relativePath": "library/mfin/11-mit-options-futures-syllabus.pdf",
     "aliases": [],
     "sha256": "86030a3015a466f3e6982ba031c943b9b7b6322e8bac5cd86d18fd3182845260",
@@ -484,14 +441,12 @@
     "courseIds": [
       "MFIN-109"
     ],
-    "storageUrl": "/manus-storage/11-mit-options-futures-syllabus_cf3b999a.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-86030a3015a4.json"
+    "storageUrl": "/manus-storage/11-mit-options-futures-syllabus_cf3b999a.pdf"
   },
   {
     "id": "pdf-d8eaf484264e",
     "title": "Viewstamped Replication lecture notes",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/cto/architecture_mit_6_824_viewstamped_replication.pdf",
     "relativePath": "library/cto/architecture_mit_6_824_viewstamped_replication.pdf",
     "aliases": [],
     "sha256": "d8eaf484264e243f5570082268201c7f8ee3c2c964f74864cb0dee4a05143f1b",
@@ -504,14 +459,12 @@
     "courseIds": [
       "CTO-02"
     ],
-    "storageUrl": "/manus-storage/architecture_mit_6_824_viewstamped_replication_55a6f4fa.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-d8eaf484264e.json"
+    "storageUrl": "/manus-storage/architecture_mit_6_824_viewstamped_replication_55a6f4fa.pdf"
   },
   {
     "id": "pdf-f3449f877ac1",
     "title": "Computer Security",
     "author": "David Wagner, Nicholas Weaver, Peyrin Kao, Fuzail Shakir, Andrew Law, and Nicholas Ngai",
-    "path": "/home/ubuntu/ai-business-finance-study/library/cto/computer_security_uc_berkeley_cs161.pdf",
     "relativePath": "library/cto/computer_security_uc_berkeley_cs161.pdf",
     "aliases": [],
     "sha256": "f3449f877ac1721076cf489d37390187c7a5d4721176111c7521513816e8b83a",
@@ -522,14 +475,12 @@
       "cto"
     ],
     "courseIds": [],
-    "storageUrl": "/manus-storage/computer_security_uc_berkeley_cs161_cdc74588.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-f3449f877ac1.json"
+    "storageUrl": "/manus-storage/computer_security_uc_berkeley_cs161_cdc74588.pdf"
   },
   {
     "id": "pdf-b85b4f127188",
     "title": "Technology-based Business Transformation: Strategy Formulation",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/cto/esd57_strategy_formulation_mit.pdf",
     "relativePath": "library/cto/esd57_strategy_formulation_mit.pdf",
     "aliases": [],
     "sha256": "b85b4f1271882ed22d9bf9df488cfdd16657a2d13fc8897e219b933683a20861",
@@ -542,14 +493,12 @@
     "courseIds": [
       "CTO-01"
     ],
-    "storageUrl": "/manus-storage/esd57_strategy_formulation_mit_7f45f340.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-b85b4f127188.json"
+    "storageUrl": "/manus-storage/esd57_strategy_formulation_mit_7f45f340.pdf"
   },
   {
     "id": "pdf-a128f3e7c8b7",
     "title": "Portfolio Theory Slides 1–46",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/cto/finance_mit_15_401_portfolio_theory.pdf",
     "relativePath": "library/cto/finance_mit_15_401_portfolio_theory.pdf",
     "aliases": [],
     "sha256": "a128f3e7c8b7304fe680859750f0d94c7a483111dd65b0105f514aa155337f34",
@@ -562,14 +511,12 @@
     "courseIds": [
       "CTO-08"
     ],
-    "storageUrl": "/manus-storage/finance_mit_15_401_portfolio_theory_3a3bddf8.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-a128f3e7c8b7.json"
+    "storageUrl": "/manus-storage/finance_mit_15_401_portfolio_theory_3a3bddf8.pdf"
   },
   {
     "id": "pdf-0ed56bf06388",
     "title": "Business Plans and Designing a Business Model",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/cto/innovation_mit_15_390_business_model.pdf",
     "relativePath": "library/cto/innovation_mit_15_390_business_model.pdf",
     "aliases": [],
     "sha256": "0ed56bf0638831b4920fc3cdb83da8fea49aaef7b24503a6945ebeba82c0d93a",
@@ -582,14 +529,12 @@
     "courseIds": [
       "CTO-05"
     ],
-    "storageUrl": "/manus-storage/innovation_mit_15_390_business_model_5e613b25.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-0ed56bf06388.json"
+    "storageUrl": "/manus-storage/innovation_mit_15_390_business_model_5e613b25.pdf"
   },
   {
     "id": "pdf-d67035e55af3",
     "title": "Distributed Leadership",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/cto/leadership_mit_15_317_distributed_leadership.pdf",
     "relativePath": "library/cto/leadership_mit_15_317_distributed_leadership.pdf",
     "aliases": [],
     "sha256": "d67035e55af3e35ef97f856bd04070be8f5ce405a5c70549651f510ff38c7ef8",
@@ -602,14 +547,12 @@
     "courseIds": [
       "CTO-06"
     ],
-    "storageUrl": "/manus-storage/leadership_mit_15_317_distributed_leadership_016c2382.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-d67035e55af3.json"
+    "storageUrl": "/manus-storage/leadership_mit_15_317_distributed_leadership_016c2382.pdf"
   },
   {
     "id": "pdf-ed813c0ddfb5",
     "title": "MIT 6.S191 2024 Lecture 1 slides",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/cto/mits191_2024_lecture1_slides.pdf",
     "relativePath": "library/cto/mits191_2024_lecture1_slides.pdf",
     "aliases": [],
     "sha256": "ed813c0ddfb571835b0f28b5879f0f5d26e8982d1439c9ea5f370ad3e945eb93",
@@ -622,14 +565,12 @@
     "courseIds": [
       "CTO-04"
     ],
-    "storageUrl": "/manus-storage/mits191_2024_lecture1_slides_13ea0ef8.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-ed813c0ddfb5.json"
+    "storageUrl": "/manus-storage/mits191_2024_lecture1_slides_13ea0ef8.pdf"
   },
   {
     "id": "pdf-7576edb531d9",
     "title": "NIST AI Risk Management Framework (AI RMF 1.0)",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/cto/nist_ai_rmf_1_0.pdf",
     "relativePath": "library/cto/nist_ai_rmf_1_0.pdf",
     "aliases": [],
     "sha256": "7576edb531d9848825814ee88e28b1795d3a84b435b4b797d3670eafdc4a89f1",
@@ -643,14 +584,12 @@
       "CTO-04",
       "CTO-09"
     ],
-    "storageUrl": "/manus-storage/nist_ai_rmf_1_0_0865f93c.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-7576edb531d9.json"
+    "storageUrl": "/manus-storage/nist_ai_rmf_1_0_0865f93c.pdf"
   },
   {
     "id": "pdf-3c31f46fee98",
     "title": "The NIST Cybersecurity Framework (CSF) 2.0",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/cto/nist_csf_2_0.pdf",
     "relativePath": "library/cto/nist_csf_2_0.pdf",
     "aliases": [],
     "sha256": "3c31f46fee98cac0c4323453e5109291a213b4de7fef8c058af9bf67f717433c",
@@ -664,14 +603,12 @@
       "CTO-03",
       "CTO-09"
     ],
-    "storageUrl": "/manus-storage/nist_csf_2_0_c6ac2756.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-3c31f46fee98.json"
+    "storageUrl": "/manus-storage/nist_csf_2_0_c6ac2756.pdf"
   },
   {
     "id": "pdf-a668adff1648",
     "title": "Introduction to Operations Management: Lecture 1",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/cto/operations_management_mit_15_760b_lecture1.pdf",
     "relativePath": "library/cto/operations_management_mit_15_760b_lecture1.pdf",
     "aliases": [],
     "sha256": "a668adff16484456cb27d8b379916233ed7fb2a7906f704d3d2d9930b161d1cd",
@@ -684,14 +621,12 @@
     "courseIds": [
       "CTO-07"
     ],
-    "storageUrl": "/manus-storage/operations_management_mit_15_760b_lecture1_6999ad0c.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-a668adff1648.json"
+    "storageUrl": "/manus-storage/operations_management_mit_15_760b_lecture1_6999ad0c.pdf"
   },
   {
     "id": "pdf-17f40f05d375",
     "title": "Organizational Behavior",
     "author": "Stewart Black and Donald G. Gardner (OpenStax)",
-    "path": "/home/ubuntu/ai-business-finance-study/library/cto/organizational_behavior_openstax.pdf",
     "relativePath": "library/cto/organizational_behavior_openstax.pdf",
     "aliases": [],
     "sha256": "17f40f05d37592cc65b1c77bb7ba991cf8948b5c4b67fb5474c5ebe8fb095fa9",
@@ -702,14 +637,12 @@
       "cto"
     ],
     "courseIds": [],
-    "storageUrl": "/manus-storage/organizational_behavior_openstax_091e3e6e.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-17f40f05d375.json"
+    "storageUrl": "/manus-storage/organizational_behavior_openstax_091e3e6e.pdf"
   },
   {
     "id": "pdf-0c0d1f064488",
     "title": "Technology Roadmapping: Day One",
     "author": "",
-    "path": "/home/ubuntu/ai-business-finance-study/library/cto/roadmapping_mit_15_795_day_one.pdf",
     "relativePath": "library/cto/roadmapping_mit_15_795_day_one.pdf",
     "aliases": [],
     "sha256": "0c0d1f06448813b56933c64de8d983f6bfab13d3c1b50e78c95af75ac8f16bc0",
@@ -722,7 +655,6 @@
     "courseIds": [
       "CTO-01"
     ],
-    "storageUrl": "/manus-storage/roadmapping_mit_15_795_day_one_a51e1e1b.pdf",
-    "extractedPath": "/home/ubuntu/ai-business-finance-study/original-lectures/extracted/pdf-0c0d1f064488.json"
+    "storageUrl": "/manus-storage/roadmapping_mit_15_795_day_one_a51e1e1b.pdf"
   }
 ]

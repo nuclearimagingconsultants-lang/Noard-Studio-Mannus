@@ -245,8 +245,8 @@
         "provider": "Harvard CS50 / Harvard OpenCourseWare",
         "url": "https://cs50.harvard.edu/python/weeks/",
         "lecture_count": 10,
-        "verified_hours": 0.0,
-        "planned_hours": 20.0,
+        "verified_hours": 0,
+        "planned_hours": 20,
         "duration_status": "Planned only: official page confirms ten weeks, but no runtime sum was independently captured; 20 h is a watch allocation, not verified video runtime.",
         "duration_evidence": "https://cs50.harvard.edu/python (official page: ten weeks and a lecture/problem-set workflow)."
       },
@@ -558,7 +558,7 @@
         "url": "https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8",
         "lecture_count": 36,
         "verified_hours": 27.993333,
-        "planned_hours": 28.0,
+        "planned_hours": 28,
         "duration_status": "Verified playlist total (36 visible items, including two ancillary/course items; 34 named lectures on the official gallery).",
         "duration_evidence": "Public per-item timecodes on https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8; calculation: 100,776 seconds / 3,600 = 27.993333 h. Official 34-lecture gallery: https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/"
       },
@@ -1961,8 +1961,8 @@
         "provider": "MIT Open Learning / MIT OCW",
         "url": "https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/",
         "lecture_count": 15,
-        "verified_hours": 0.0,
-        "planned_hours": 20.0,
+        "verified_hours": 0,
+        "planned_hours": 20,
         "duration_status": "Planned only: MIT OCW confirms the free online publication and units; no aggregate runtime was independently verified.",
         "duration_evidence": "https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/ (official MIT OCW page and free Open Learning Library link)."
       },
@@ -3469,7 +3469,7 @@
         "url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe",
         "lecture_count": 76,
         "verified_hours": 31.504444,
-        "planned_hours": 32.0,
+        "planned_hours": 32,
         "duration_status": "Verified playlist total for all 76 visible lecture/recitation items; the course itself distinguishes lecture videos and problem-solving material.",
         "duration_evidence": "Public per-item timecodes on https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe; calculation: 113,416 seconds / 3,600 = 31.504444 h. Course format: https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/."
       },
@@ -4719,8 +4719,8 @@
         "provider": "Stanford Online / Stanford University",
         "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h",
         "lecture_count": 18,
-        "verified_hours": 0.0,
-        "planned_hours": 24.0,
+        "verified_hours": 0,
+        "planned_hours": 24,
         "duration_status": "Planned only: the official EE364A page verifies the course content and its lecture slides, while the linked public 2023 playlist is used for viewing; no runtime total was independently captured.",
         "duration_evidence": "https://web.stanford.edu/class/ee364a/ and https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h."
       },
@@ -6008,8 +6008,8 @@
         "provider": "MIT Mathematics",
         "url": "https://mit.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=9e659f61-1fd4-4b98-96a0-af940143c9c7",
         "lecture_count": 20,
-        "verified_hours": 0.0,
-        "planned_hours": 25.0,
+        "verified_hours": 0,
+        "planned_hours": 25,
         "duration_status": "Planned only: the official repository exposes the specific Class Videos folder and lecture sequence, but it does not publish an aggregate runtime.",
         "duration_evidence": "https://github.com/mitmath/18337 (official course repository: class-video link, lecture schedule, homeworks, and project expectations)."
       },
@@ -6583,8 +6583,8 @@
         "provider": "MIT OpenCourseWare",
         "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/video_galleries/lecture-videos/",
         "lecture_count": 20,
-        "verified_hours": 0.0,
-        "planned_hours": 25.0,
+        "verified_hours": 0,
+        "planned_hours": 25,
         "duration_status": "Planned only: MIT OCW provides the video gallery, notes, homework, readings, and final-project materials, but no series total was independently verified.",
         "duration_evidence": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/."
       },
@@ -7236,7 +7236,7 @@
         "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D",
         "lecture_count": 23,
         "verified_hours": 25.174167,
-        "planned_hours": 30.0,
+        "planned_hours": 30,
         "duration_status": "Verified lower bound: 20 of 23 visible playlist items had captured public timecodes; the 25.174167 h is not asserted as the full 23-video total. Planned viewing includes the full playlist.",
         "duration_evidence": "https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D; 20 timecoded items sum to 90,627 seconds / 3,600 = 25.174167 h. Stanford’s course page explicitly identifies this free public 2024 playlist: https://web.stanford.edu/class/cs224n/."
       },
@@ -7732,8 +7732,8 @@
         "provider": "MIT CSAIL / MIT Scene Representation Group",
         "url": "https://www.scenerepresentations.org/courses/2025/spring/advances-in-cv/",
         "lecture_count": 22,
-        "verified_hours": 0.0,
-        "planned_hours": 25.0,
+        "verified_hours": 0,
+        "planned_hours": 25,
         "duration_status": "Planned only: the official course site lists per-lecture Panopto/guest recordings; no aggregate runtime was independently verified.",
         "duration_evidence": "https://www.scenerepresentations.org/courses/2025/spring/advances-in-cv/ (schedule and recording links); MIT OCW course page: https://ocw.mit.edu/courses/6-8300-advances-in-computer-vision-spring-2025/."
       },
@@ -8265,8 +8265,8 @@
         "provider": "Berkeley RAIL / UC Berkeley EECS",
         "url": "https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps",
         "lecture_count": 25,
-        "verified_hours": 0.0,
-        "planned_hours": 30.0,
+        "verified_hours": 0,
+        "planned_hours": 30,
         "duration_status": "Planned only: Berkeley’s official current course page links the specific Fall 2023 recording playlist and course materials; no runtime sum was independently verified.",
         "duration_evidence": "https://rail.eecs.berkeley.edu/deeprlcourse/ (official page links the playlist and gives lecture/homework sequence)."
       },
@@ -9904,8 +9904,8 @@
         "provider": "MIT CSAIL",
         "url": "https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB",
         "lecture_count": 20,
-        "verified_hours": 0.0,
-        "planned_hours": 24.0,
+        "verified_hours": 0,
+        "planned_hours": 24,
         "duration_status": "Planned only: the MIT 2020 course archive and the linked specific public playlist establish the series, but no runtime sum was independently verified.",
         "duration_evidence": "http://nil.csail.mit.edu/6.824/2020/ and https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB."
       },
@@ -10436,8 +10436,8 @@
         "provider": "MIT OpenCourseWare",
         "url": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63IFQn8FklBOUhYVcmaxpOX",
         "lecture_count": 4,
-        "verified_hours": 0.0,
-        "planned_hours": 8.0,
+        "verified_hours": 0,
+        "planned_hours": 8,
         "duration_status": "Planned only: MIT OCW describes four modules designed for one to two weeks and provides the specific official lecture-video series; no aggregate runtime was independently verified.",
         "duration_evidence": "https://ocw.mit.edu/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/ and https://ocw.mit.edu/courses/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020/resources/lecture-videos/."
       },
@@ -10832,7 +10832,7 @@
         "provider": "NPTEL, IIT Bombay (Prof. Varadraj Bapat)",
         "url": "https://nptel.ac.in/courses/110101131",
         "lecture_count": 40,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 20,
         "duration_status": "Lecture/module count is verified from the linked course or playlist; runtime was not independently summed. Planned hours are a watch plan, not verified runtime.",
         "duration_evidence": "Official course page enumerates 40 lectures and links its official syllabus."
@@ -11621,7 +11621,7 @@
         "provider": "MIT OpenCourseWare / MIT Sloan (Prof. Andrew Lo)",
         "url": "https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/",
         "lecture_count": 12,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 18,
         "duration_status": "Lecture/module count is verified from the linked course or playlist; runtime was not independently summed. Planned hours are a watch plan, not verified runtime.",
         "duration_evidence": "The official graduate course page lists 12 distinct video-lecture sections; OCW identifies lecture videos, notes, problem sets, and exams."
@@ -12094,7 +12094,7 @@
         "provider": "NPTEL, IIT Kanpur (Profs. Jayanta Chatterjee and Shashi Shekhar Mishra)",
         "url": "https://nptel.ac.in/courses/110104068",
         "lecture_count": 48,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 24,
         "duration_status": "Lecture/module count is verified from the linked course or playlist; runtime was not independently summed. Planned hours are a watch plan, not verified runtime.",
         "duration_evidence": "Official course page enumerates 48 lectures across eight weeks and provides a syllabus PDF."
@@ -13089,7 +13089,7 @@
         "provider": "NPTEL / IIT Roorkee",
         "url": "https://www.youtube.com/playlist?list=PLLy_2iUCG87A-kHGx4YUY97ShTTqBfA6-",
         "lecture_count": 62,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 31,
         "duration_status": "Lecture/module count is verified from the linked course or playlist; runtime was not independently summed. Planned hours are a watch plan, not verified runtime.",
         "duration_evidence": "Specific NPTEL/IIT Roorkee YouTube playlist; publicly listed as a 62-video course series. Official course-syllabus PDF is saved locally."
@@ -14152,7 +14152,7 @@
         "provider": "NPTEL, IIT Roorkee (Prof. Vinay Sharma)",
         "url": "https://nptel.ac.in/courses/110107509",
         "lecture_count": 60,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 30,
         "duration_status": "Lecture/module count is verified from the linked course or playlist; runtime was not independently summed. Planned hours are a watch plan, not verified runtime.",
         "duration_evidence": "Official course page enumerates 60 lectures in 12 weekly blocks and provides the stated scope."
@@ -15146,7 +15146,7 @@
         "provider": "NPTEL, IIT Hyderabad (Prof. M. P. Ganesh)",
         "url": "https://nptel.ac.in/courses/110106145",
         "lecture_count": 56,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 28,
         "duration_status": "Lecture/module count is verified from the linked course or playlist; runtime was not independently summed. Planned hours are a watch plan, not verified runtime.",
         "duration_evidence": "Official course page enumerates 56 lectures across individual, group, leadership, culture, and change topics."
@@ -16162,7 +16162,7 @@
         "provider": "MIT OpenCourseWare / MIT Sloan (Prof. Dimitris Bertsimas)",
         "url": "https://ocw.mit.edu/courses/15-071-the-analytics-edge-spring-2017/",
         "lecture_count": 9,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 15,
         "duration_status": "Lecture/module count is verified from the linked course or playlist; runtime was not independently summed. Planned hours are a watch plan, not verified runtime.",
         "duration_evidence": "Official graduate course page identifies lecture videos; its nine topical modules have 27 listed lecture/recitation-note sequences. Runtime was not summed."
@@ -18819,7 +18819,7 @@
         "provider": "MIT OpenCourseWare (Prof. Ricardo Caballero)",
         "url": "https://ocw.mit.edu/courses/14-02-principles-of-macroeconomics-spring-2023/video_galleries/1402-lecture-videos/",
         "lecture_count": 25,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 25,
         "duration_status": "Lecture/module count is verified from the linked course or playlist; runtime was not independently summed. Planned hours are a watch plan, not verified runtime.",
         "duration_evidence": "Official MIT video gallery exposes 25 distinct lecture resources. MIT labels the course undergraduate; runtime was not aggregated."
@@ -20516,7 +20516,7 @@
         "provider": "NPTEL, IIT Kharagpur (Prof. Susmita Mukhopadhyay)",
         "url": "https://nptel.ac.in/courses/110105079",
         "lecture_count": 61,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 30.5,
         "duration_status": "Lecture/module count is verified from the linked course or playlist; runtime was not independently summed. Planned hours are a watch plan, not verified runtime.",
         "duration_evidence": "Official course page enumerates 61 lectures spanning stakeholders, governance, government, globalization, environment, and data/IT ethics."
@@ -22303,7 +22303,7 @@
         "provider": "Open Yale Courses (Prof. Douglas W. Rae)",
         "url": "https://oyc.yale.edu/political-science/plsc-270",
         "lecture_count": 24,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 20,
         "duration_status": "Lecture/module count is verified from the linked course or playlist; runtime was not independently summed. Planned hours are a watch plan, not verified runtime.",
         "duration_evidence": "Official Yale course page enumerates 24 videotaped lectures; runtime is not counted in the verified ledger to avoid relying on nominal 50-minute class contact."
@@ -22872,7 +22872,7 @@
         "provider": "NPTEL, IIT Roorkee (Prof. Mukesh Kumar Barua)",
         "url": "https://nptel.ac.in/courses/110107081",
         "lecture_count": 60,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 30,
         "duration_status": "Lecture/module count is verified from the linked course or playlist; runtime was not independently summed. Planned hours are a watch plan, not verified runtime.",
         "duration_evidence": "Official course page enumerates 60 lectures across initiation, appraisal, financial/risk analysis, teams, scheduling, cost, quality, procurement, and termination."
@@ -24460,7 +24460,7 @@
         "provider": "MIT OpenCourseWare, 6.0001",
         "url": "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/",
         "lecture_count": 9,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 10,
         "duration_status": "Full university course or playlist is linked, but its total runtime was not independently summed for this program. Planned hours are a study plan, not verified video runtime.",
         "duration_evidence": "Official MIT OCW lecture-video gallery; the retained 6.0001 duration file exists but is not used in the verified lower bound."
@@ -24951,7 +24951,7 @@
         "provider": "Stanford Online / Stanford University",
         "url": "https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h",
         "lecture_count": 18,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 24,
         "duration_status": "Planned only: the official EE364A page verifies the course content and its lecture slides, while the linked public 2023 playlist is used for viewing; no runtime total was independently captured.",
         "duration_evidence": "https://web.stanford.edu/class/ee364a/ and https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h."
@@ -26938,7 +26938,7 @@
         "provider": "NPTEL, IIT Bombay",
         "url": "https://nptel.ac.in/courses/110101131",
         "lecture_count": 40,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 20,
         "duration_status": "Full university course or playlist is linked, but its total runtime was not independently summed for this program. Planned hours are a study plan, not verified video runtime.",
         "duration_evidence": "Official NPTEL course page enumerates 40 lectures; the full-series duration was not summed."
@@ -27695,7 +27695,7 @@
         "provider": "MIT OpenCourseWare, 15.401 (Andrew W. Lo)",
         "url": "https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/",
         "lecture_count": 12,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 18,
         "duration_status": "Full university course or playlist is linked, but its total runtime was not independently summed for this program. Planned hours are a study plan, not verified video runtime.",
         "duration_evidence": "Official MIT OCW graduate course page lists 12 video-lecture topic sections; runtime was not independently summed."
@@ -28472,7 +28472,7 @@
         "provider": "Yale Open Courses, ECON 252 (Robert Shiller)",
         "url": "https://oyc.yale.edu/economics/econ-252",
         "lecture_count": 23,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 23,
         "duration_status": "A full 23-lecture university series is linked. It is optional additional evidence only; its runtime is deliberately excluded from this program’s conservative verified total.",
         "duration_evidence": "Official Yale Open Courses hub lists 23 lectures; no Yale timecode calculation is included in this program ledger."
@@ -29097,7 +29097,7 @@
         "provider": "MIT OpenCourseWare, 15.401",
         "url": "https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/",
         "lecture_count": 12,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 8,
         "duration_status": "The full 15.401 video course is linked; this course uses its fixed-income unit. The series is already used in MFIN-106 and is not counted in the verified-runtime ledger.",
         "duration_evidence": "MIT OCW full-course page plus fixed-income topic page: https://ocw.mit.edu/courses/15-401-finance-theory-i-fall-2008/pages/video-lectures-and-slides/fixed-income-securities/"
@@ -29360,7 +29360,7 @@
         "provider": "NPTEL, IIT Roorkee",
         "url": "https://nptel.ac.in/courses/110107128",
         "lecture_count": 60,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 20,
         "duration_status": "Full university course or playlist is linked, but its total runtime was not independently summed for this program. Planned hours are a study plan, not verified video runtime.",
         "duration_evidence": "Official NPTEL index enumerates 12 units of five lectures each (60 lectures), plus an optional live session: https://nptel.ac.in/courses/110107128. Aggregate runtime is not used in the verified floor."
@@ -30483,7 +30483,7 @@
         "provider": "NPTEL, IIT Roorkee",
         "url": "https://nptel.ac.in/courses/110107128",
         "lecture_count": 60,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 12,
         "duration_status": "The full NPTEL course is reused for a risk-management sequence; no runtime is verified and it is not double-counted.",
         "duration_evidence": "Official NPTEL index enumerates 12 units of five lectures each (60 lectures), plus an optional live session: https://nptel.ac.in/courses/110107128. Aggregate runtime is not used in the verified floor."
@@ -32080,7 +32080,7 @@
         "provider": "Yale Open Courses, ECON 252 (Robert Shiller)",
         "url": "https://oyc.yale.edu/economics/econ-252",
         "lecture_count": 23,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 8,
         "duration_status": "Yale’s full official series is used as a markets-institutions anchor. Its runtime remains uncounted in the conservative verified total.",
         "duration_evidence": "Official Yale Open Courses course hub: https://oyc.yale.edu/economics/econ-252"
@@ -32604,7 +32604,7 @@
         "provider": "MIT OpenCourseWare, 15.S08",
         "url": "https://ocw.mit.edu/courses/15-s08-fintech-shaping-the-financial-world-spring-2020/",
         "lecture_count": 12,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 5,
         "duration_status": "The official full MIT course is linked for synthesis. It is already counted only under MFIN-111 and is not added to any runtime total.",
         "duration_evidence": "Official MIT OCW full course page: https://ocw.mit.edu/courses/15-s08-fintech-shaping-the-financial-world-spring-2020/"
@@ -33050,7 +33050,7 @@
         "provider": "NPTEL, IIT Roorkee (Prof. Vinay Sharma)",
         "url": "https://nptel.ac.in/courses/110107509",
         "lecture_count": 60,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 30,
         "duration_status": "Lecture/module count is verified from the linked course or playlist; runtime was not independently summed. Planned hours are a watch plan, not verified runtime.",
         "duration_evidence": "Official course page enumerates 60 lectures in 12 weekly blocks and provides the stated scope."
@@ -36291,7 +36291,7 @@
         "provider": "NPTEL, IIT Hyderabad (Prof. M. P. Ganesh)",
         "url": "https://nptel.ac.in/courses/110106145",
         "lecture_count": 56,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 28,
         "duration_status": "Lecture/module count is verified from the linked course or playlist; runtime was not independently summed. Planned hours are a watch plan, not verified runtime.",
         "duration_evidence": "Official course page enumerates 56 lectures across individual, group, leadership, culture, and change topics."
@@ -38808,7 +38808,7 @@
         "provider": "NPTEL, IIT Kharagpur (Prof. Susmita Mukhopadhyay)",
         "url": "https://nptel.ac.in/courses/110105079",
         "lecture_count": 61,
-        "verified_hours": 0.0,
+        "verified_hours": 0,
         "planned_hours": 30.5,
         "duration_status": "Lecture/module count is verified from the linked course or playlist; runtime was not independently summed. Planned hours are a watch plan, not verified runtime.",
         "duration_evidence": "Official course page enumerates 61 lectures spanning stakeholders, governance, government, globalization, environment, and data/IT ethics."
@@ -40628,19 +40628,28 @@
     },
     {
       "id": "medical-current-333-syllabi",
-      "title": "Current 333 medical programme syllabi — verified recovery snapshot, not completed training",
+      "title": "Current 333 medical syllabi — source recovery and practice metadata snapshot",
       "kind": "ZIP",
-      "url": "/manus-storage/medical-current-333-syllabi_d8afc256.zip",
+      "url": "/manus-storage/medical-current-333-syllabi_1d0c5829.zip",
       "storageUrl": "/manus-storage/medical-current-333-syllabi_d8afc256.zip",
-      "bytes": 77497573,
-      "sha256": "fc008a4b6f38042417285ea8bdd7071e2dca8fa9d3c74d352020bb8d77bfff4f",
-      "description": "All 333 verified syllabus PDFs, including the refreshed pediatric-rehabilitation variants. Frozen 9 October 2026 snapshot; not complete medical teaching or certification coverage."
+      "bytes": 77843746,
+      "sha256": "678f647f2c49748965667392a03510828fbe2ec545a36506202d1aa52f75b742",
+      "description": "Current 333 source-cited medical syllabus PDFs with reviewed recovery evidence and explicit remaining study/clinical limits.",
+      "fileType": "ZIP"
     },
     {
       "id": "playable-lecture-recovery-62",
       "title": "62-playable-lecture recovery supplement — MP4, captions & transcripts; not full series",
       "kind": "ZIP",
       "url": "/manus-storage/playable-lecture-recovery-62-files_690c52f4.zip"
+    },
+    {
+      "id": "medical-continuation-44-assets",
+      "title": "Medical continuation — 11 new videos and 33 transcript-only revisions; changed assets only",
+      "url": "/manus-storage/playable-lecture-recovery-44-files_384206e0.zip",
+      "fileType": "ZIP",
+      "sha256": "0e655ab16440c00d3d6aef0e0bd55c6decbf48376374e4b21a2df0bb38b0b1e9",
+      "bytes": 876504328
     }
   ],
   "stats": {

@@ -83,7 +83,7 @@
         "title": "Surgery Grand Rounds — Identifying Novel Molecular Vulnerabilities in Triple-Negative Breast Cancer",
         "url": "https://www.youtube.com/watch?v=n4jpHGqNRbI",
         "provider": "McGill University Department of Surgery Grand Rounds; speaker Armen Parsyan, MD, PhD, breast surgical oncologist/clinician-scientist at Western University/London Health Sciences Centre",
-        "durationSeconds": 3508.0,
+        "durationSeconds": 3508,
         "sourceUrl": "https://www.youtube.com/watch?v=n4jpHGqNRbI",
         "accessVerified": true
       },
@@ -92,7 +92,7 @@
         "title": "Breast Cancer Treatment Part 1: Surgery, Radiation & Reconstruction | Cancer Straight Talk Podcast",
         "url": "https://www.youtube.com/watch?v=Pvw7lzilBB4",
         "provider": "Memorial Sloan Kettering Cancer Center; host Diane Reidy-Lagunes, MD, with surgical, radiation and reconstructive oncology experts",
-        "durationSeconds": 1533.0,
+        "durationSeconds": 1533,
         "sourceUrl": "https://www.youtube.com/watch?v=Pvw7lzilBB4",
         "accessVerified": true
       },
@@ -101,7 +101,7 @@
         "title": "Medicine Grand Rounds: Breast Cancer in Older Women: No Longer the Silent Majority",
         "url": "https://www.youtube.com/watch?v=-sk7UPfYyLY",
         "provider": "University of North Carolina School of Medicine / Department of Medicine Grand Rounds; speaker Hyman Muss, MD",
-        "durationSeconds": 3510.0,
+        "durationSeconds": 3510,
         "sourceUrl": "https://www.youtube.com/watch?v=-sk7UPfYyLY",
         "accessVerified": true
       }
@@ -225,10 +225,10 @@
     ],
     "boardStatus": "No separate ABS/ABMS board certification or board examination in Breast Surgical Oncology was identified in the reviewed authoritative sources. ABS lists General Surgery and Complex General Surgical Oncology (CGSO) as separate certifications. The SSO/ASBrS-approved Breast Surgical Oncology fellowship is not itself an ABS board examination and does not confer board certification, supervised training or ABS exam eligibility. ASBrS separately offers limited breast ultrasound and stereotactic-procedure certifications; these are not a board specialty. ABS CGSO eligibility requires separate ACGME-accredited CGSO training and prior general-surgery certification. Verify all eligibility directly with the relevant board.",
     "boardEligibilityNotice": "This independent educational course grants no ABS/ABMS eligibility, licensure, certification, clinical privileges or procedural competence. The MGB programme page describes a 12-month fellowship and states that applicants are board-eligible graduates of general surgery; it also describes completed ACGME-accredited general surgery and/or gynecology training in the US/Canada and ECFMG-accredited foreign graduates as welcome to apply. Preserve the source wording and contact the programme for any ambiguity. ABS general-surgery certification requires its own accredited training and examinations. ABS CGSO certification is a distinct pathway, requiring ACGME-accredited CGSO training and general-surgery certification; this BSO fellowship is not represented as CGSO training.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 2.375277777777778,
     "verifiedSpecialtyHours": 2.375277777777778,
-    "verifiedFoundationHours": 0.0,
+    "verifiedFoundationHours": 0,
     "hoursGap": 33.624722222222225,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
@@ -282,7 +282,7 @@
         "title": "The FELLOW Project: Early and Late Complications of Bariatric Surgery",
         "url": "https://asmbs.org/videos/the-fellow-project-early-and-late-complications-of-bariatric-surgery/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS)",
-        "durationSeconds": 4011.0,
+        "durationSeconds": 4011,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-early-and-late-complications-of-bariatric-surgery/",
         "accessVerified": true
       },
@@ -291,7 +291,7 @@
         "title": "The FELLOW Project: Sleeve Gastrectomy—Outcomes and Technique",
         "url": "https://asmbs.org/videos/the-fellow-project-sleeve-gastrectomy-outcomes-and-technique/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS)",
-        "durationSeconds": 4674.0,
+        "durationSeconds": 4674,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-sleeve-gastrectomy-outcomes-and-technique/",
         "accessVerified": true
       },
@@ -300,7 +300,7 @@
         "title": "The FELLOW Project: Nutritional Guidelines and Complications after Bariatric Surgery",
         "url": "https://asmbs.org/videos/the-fellow-project-nutritional-guidelines-and-complications-after-bariatric-surgery/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS)",
-        "durationSeconds": 5627.0,
+        "durationSeconds": 5627,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-nutritional-guidelines-and-complications-after-bariatric-surgery/",
         "accessVerified": true
       },
@@ -309,7 +309,7 @@
         "title": "The FELLOW Project: Surgical Treatment of Weight Recurrence following Bariatric Surgery",
         "url": "https://asmbs.org/videos/the-fellow-project-surgical-treatment-of-weight-recurrence-following-bariatric-surgery/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS)",
-        "durationSeconds": 4862.0,
+        "durationSeconds": 4862,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-surgical-treatment-of-weight-recurrence-following-bariatric-surgery/",
         "accessVerified": true
       },
@@ -318,7 +318,7 @@
         "title": "The FELLOW Project: Surgery or Medication to Treat Obesity?",
         "url": "https://asmbs.org/videos/the-fellow-project-surgery-or-medication-to-treat-obesity/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS)",
-        "durationSeconds": 3815.0,
+        "durationSeconds": 3815,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-surgery-or-medication-to-treat-obesity/",
         "accessVerified": true
       },
@@ -327,7 +327,7 @@
         "title": "The FELLOW Project: Bariatric Surgery & Pregnancy, Fertility, and Lactation",
         "url": "https://asmbs.org/videos/the-fellow-project-bariatric-surgery-pregnancy-fertility-and-lactation/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS)",
-        "durationSeconds": 4101.0,
+        "durationSeconds": 4101,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-bariatric-surgery-pregnancy-fertility-and-lactation/",
         "accessVerified": true
       },
@@ -336,7 +336,7 @@
         "title": "The FELLOW Project: History, Evolution, and Outcomes of Sleeve Gastrectomy",
         "url": "https://asmbs.org/videos/the-fellow-project-history-evolution-and-outcomes-of-sleeve-gastrectomy/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS)",
-        "durationSeconds": 6107.0,
+        "durationSeconds": 6107,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-history-evolution-and-outcomes-of-sleeve-gastrectomy/",
         "accessVerified": true
       },
@@ -345,7 +345,7 @@
         "title": "Bariatric Happy Hour: 2022 ASMBS/IFSO Indications for Metabolic and Bariatric Surgery",
         "url": "https://asmbs.org/videos/bariatric-happy-hour-2022-american-society-of-metabolic-and-bariatric-surgery-asmbs-and-international-federation-for-the-surgery-of-obesity-and-metabolic-disorders-ifso-indications-for-metabolic/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS)",
-        "durationSeconds": 3473.0,
+        "durationSeconds": 3473,
         "sourceUrl": "https://asmbs.org/videos/bariatric-happy-hour-2022-american-society-of-metabolic-and-bariatric-surgery-asmbs-and-international-federation-for-the-surgery-of-obesity-and-metabolic-disorders-ifso-indications-for-metabolic/",
         "accessVerified": true
       },
@@ -372,7 +372,7 @@
         "title": "The FELLOW Project: The Pathophysiology of Obesity",
         "url": "https://asmbs.org/videos/the-fellow-project-the-pathophysiology-of-obesity/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 4056.0,
+        "durationSeconds": 4056,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-the-pathophysiology-of-obesity/",
         "accessVerified": true
       },
@@ -381,7 +381,7 @@
         "title": "The FELLOW Project: Roux-en-Y Gastric Bypass: Outcomes and Technique",
         "url": "https://asmbs.org/videos/the-fellow-project-roux-en-y-gastric-bypass-outcomes-and-technique/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 4875.0,
+        "durationSeconds": 4875,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-roux-en-y-gastric-bypass-outcomes-and-technique/",
         "accessVerified": true
       },
@@ -390,7 +390,7 @@
         "title": "The FELLOW Project: Do Limb Lengths",
         "url": "https://asmbs.org/videos/the-fellow-project-do-limb-lengths/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 4773.0,
+        "durationSeconds": 4773,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-do-limb-lengths/",
         "accessVerified": true
       },
@@ -399,7 +399,7 @@
         "title": "The FELLOW Project: Quick Shot Tips and Tricks for Robotic Surgery, Dimitrios Stefanidis",
         "url": "https://asmbs.org/videos/the-fellow-project-quick-shot-tips-and-tricks-for-robotic-surgery-dimitrios-stefanidis/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 4077.0,
+        "durationSeconds": 4077,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-quick-shot-tips-and-tricks-for-robotic-surgery-dimitrios-stefanidis/",
         "accessVerified": true
       },
@@ -408,7 +408,7 @@
         "title": "The FELLOW Project: Bariatric Brain Busters: How to Manage Gallbladders and Hernias Before, During, and After Bariatric Surgery",
         "url": "https://asmbs.org/videos/the-fellow-project-bariatric-brain-busters-how-to-manage-gallbladders-and-hernias-before-during-and-after-bariatric-surgery/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 4410.0,
+        "durationSeconds": 4410,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-bariatric-brain-busters-how-to-manage-gallbladders-and-hernias-before-during-and-after-bariatric-surgery/",
         "accessVerified": true
       },
@@ -417,7 +417,7 @@
         "title": "The FELLOW Project: Obesity – Epidemiology, Pathophysiology, and Mechanisms of Action",
         "url": "https://asmbs.org/videos/the-fellow-project-obesity-epidemiology-pathophysiology-and-mechanisms-of-action/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 4489.0,
+        "durationSeconds": 4489,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-obesity-epidemiology-pathophysiology-and-mechanisms-of-action/",
         "accessVerified": true
       },
@@ -426,7 +426,7 @@
         "title": "The FELLOW Project: Is Protein Always the Answer? Nutrition Before and After Bariatric Surgery",
         "url": "https://asmbs.org/videos/the-fellow-project-is-protein-always-the-answer-nutrition-before-and-after-bariatric-surgery/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 4764.0,
+        "durationSeconds": 4764,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-is-protein-always-the-answer-nutrition-before-and-after-bariatric-surgery/",
         "accessVerified": true
       },
@@ -435,7 +435,7 @@
         "title": "The FELLOW Project: Variations in Technique for Roux-En-Y Gastric Bypass: What Does the Data Tell Us?",
         "url": "https://asmbs.org/videos/the-fellow-project-variations-in-technique-for-roux-en-y-gastric-bypass-what-does-the-data-tell-us/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 5236.0,
+        "durationSeconds": 5236,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-variations-in-technique-for-roux-en-y-gastric-bypass-what-does-the-data-tell-us/",
         "accessVerified": true
       },
@@ -444,7 +444,7 @@
         "title": "The FELLOW Project: Bariatric Bypasses",
         "url": "https://asmbs.org/videos/the-fellow-project-bariatric-bypasses/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 5111.0,
+        "durationSeconds": 5111,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-bariatric-bypasses/",
         "accessVerified": true
       },
@@ -453,7 +453,7 @@
         "title": "The FELLOW Project: Medical Maladies Following Bariatric Surgery",
         "url": "https://asmbs.org/videos/the-fellow-project-medical-maladies-following-bariatric-surgery/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 4866.0,
+        "durationSeconds": 4866,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-medical-maladies-following-bariatric-surgery/",
         "accessVerified": true
       },
@@ -462,7 +462,7 @@
         "title": "The FELLOW Project: Mechanisms of Action of Metabolic/Bariatric Surgery",
         "url": "https://asmbs.org/videos/the-fellow-project-mechanisms-of-action-of-metabolic-bariatric-surgery/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 4231.0,
+        "durationSeconds": 4231,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-mechanisms-of-action-of-metabolic-bariatric-surgery/",
         "accessVerified": true
       },
@@ -471,7 +471,7 @@
         "title": "The FELLOW Project: BPDDS and SADI: An Overview and A How To",
         "url": "https://asmbs.org/videos/the-fellow-project-bpdds-and-sadi-an-overview-and-a-how-to/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 5621.0,
+        "durationSeconds": 5621,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-bpdds-and-sadi-an-overview-and-a-how-to/",
         "accessVerified": true
       },
@@ -480,7 +480,7 @@
         "title": "The FELLOW Project: Robotic Bariatric Surgery, Francesca Dimou, MD and Michael Edwards, MD",
         "url": "https://asmbs.org/videos/the-fellow-project-robotic-bariatric-surgery-francesca-dimou-md-and-michael-edwards-md/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 5059.0,
+        "durationSeconds": 5059,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-robotic-bariatric-surgery-francesca-dimou-md-and-michael-edwards-md/",
         "accessVerified": true
       },
@@ -489,7 +489,7 @@
         "title": "The FELLOW Project: Sleeve Gastrectomy Video Review: Technique, Tips, and Tricks Presented by an Expert Panel",
         "url": "https://asmbs.org/videos/the-fellow-project-sleeve-gastrectomy-video-review-technique-tips-and-tricks-presented-by-an-expert-panel/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 5549.0,
+        "durationSeconds": 5549,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-sleeve-gastrectomy-video-review-technique-tips-and-tricks-presented-by-an-expert-panel/",
         "accessVerified": true
       },
@@ -498,7 +498,7 @@
         "title": "The FELLOW Project: Management of Complex Situations in Metabolic Surgery",
         "url": "https://asmbs.org/videos/the-fellow-project-management-of-complex-situations-in-metabolic-surgery/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 5083.0,
+        "durationSeconds": 5083,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-management-of-complex-situations-in-metabolic-surgery/",
         "accessVerified": true
       },
@@ -507,7 +507,7 @@
         "title": "The FELLOW Project: Endoscopy for the Bariatric Surgeon",
         "url": "https://asmbs.org/videos/the-fellow-project-endoscopy-for-the-bariatric-surgeon/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 4975.0,
+        "durationSeconds": 4975,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-endoscopy-for-the-bariatric-surgeon/",
         "accessVerified": true
       },
@@ -516,7 +516,7 @@
         "title": "The FELLOW Project: Perioperative Care in Bariatric Surgery",
         "url": "https://asmbs.org/videos/the-fellow-project-perioperative-care-in-bariatric-surgery/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 4775.0,
+        "durationSeconds": 4775,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-perioperative-care-in-bariatric-surgery/",
         "accessVerified": true
       },
@@ -525,7 +525,7 @@
         "title": "The FELLOW Project: GERD and Obesity – Choice of Procedure and Options for Revision",
         "url": "https://asmbs.org/videos/the-fellow-project-gerd-and-obesity-choice-of-procedure-and-options-for-revision/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 3471.0,
+        "durationSeconds": 3471,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-gerd-and-obesity-choice-of-procedure-and-options-for-revision/",
         "accessVerified": true
       },
@@ -534,7 +534,7 @@
         "title": "The FELLOW Project: Metabolic and Bariatric Surgery in Adolescents",
         "url": "https://asmbs.org/videos/the-fellow-project-metabolic-and-bariatric-surgery-in-adolescents/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 4521.0,
+        "durationSeconds": 4521,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-metabolic-and-bariatric-surgery-in-adolescents/",
         "accessVerified": true
       },
@@ -543,7 +543,7 @@
         "title": "The FELLOW Project: Duodenal Switch & The SADI-S",
         "url": "https://asmbs.org/videos/the-fellow-project-duodenal-switch-the-sadi-s/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 6811.0,
+        "durationSeconds": 6811,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-duodenal-switch-the-sadi-s/",
         "accessVerified": true
       },
@@ -552,7 +552,7 @@
         "title": "The FELLOW Project: SADI-S – Optimization, Technique and Outcomes",
         "url": "https://asmbs.org/videos/the-fellow-project-sadi-s-optimization-technique-and-outcomes/",
         "provider": "American Society for Metabolic and Bariatric Surgery (ASMBS), The FELLOW Project",
-        "durationSeconds": 6008.0,
+        "durationSeconds": 6008,
         "sourceUrl": "https://asmbs.org/videos/the-fellow-project-sadi-s-optimization-technique-and-outcomes/",
         "accessVerified": true
       }
@@ -695,11 +695,11 @@
     ],
     "boardStatus": "The MGB fellowship is not itself a board specialty and no distinct board examination for this Advanced GI MIS/Bariatrics fellowship was identified. The ABS MBS Focused Practice Designation examination is a distinct examination for eligible general surgeons, not a new specialty/subspecialty certificate. Beginning with 2025, eligible AOBS-certified and ABS-certified surgeons take the same MBS FPD exam; AOBS recognizes its diplomates with a certificate of added qualification and ABS recognizes its diplomates with a focused practice designation. General Surgery ABS certification is separate. Fellowship Council accreditation/designation is a training-program framework, not an individual board examination.",
     "boardEligibilityNotice": "This curriculum does not make learners eligible for any exam. ABS MBS FPD eligibility requires current ABS general surgery certification, experience/practice/privilege/case requirements and other published criteria; an MBS fellowship year may count toward the clinical-experience requirement but does not itself award designation. Fellowship eligibility, state licensure, certification and operative competency must be verified directly with official bodies.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 38.73083333333334,
     "verifiedSpecialtyHours": 38.73083333333334,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 0.0,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -729,7 +729,7 @@
       "distribution": "Each weekly unit: about 2–3 hours reading, source video as available, 2 hours case/image reasoning, and 2–3 hours assignment/review. This is a learner workload plan, not fellowship clinical hours."
     },
     "coverageStatus": "lecture_floor_met_topics_unvalidated",
-    "syllabusUrl": "/manus-storage/MED-X039_f0cf1e0c.pdf",
+    "syllabusUrl": "/manus-storage/MED-X039_1d68f952.pdf",
     "pdfIds": [
       "med-syllabus-MED-X039",
       "med-reading-ab3e68da5127",
@@ -742,7 +742,7 @@
         "title": "Angiographic Cerebrovascular Anatomy",
         "url": "https://www.youtube.com/watch?v=gGOe3TpT0b4",
         "provider": "Matthew McPheeters, MD, MBA (2020 University at Buffalo Neurosurgery Virtual Sub-Internship lecture series)",
-        "durationSeconds": 2967.0,
+        "durationSeconds": 2967,
         "sourceUrl": "https://www.youtube.com/watch?v=gGOe3TpT0b4",
         "accessVerified": true
       },
@@ -751,7 +751,7 @@
         "title": "Cerebral Angiography and Neurovascular Anatomy",
         "url": "https://www.youtube.com/watch?v=p2j-_iSVujo",
         "provider": "World Stroke Academy / World Stroke Organization",
-        "durationSeconds": 3970.0,
+        "durationSeconds": 3970,
         "sourceUrl": "https://www.youtube.com/watch?v=p2j-_iSVujo",
         "accessVerified": true
       },
@@ -760,7 +760,7 @@
         "title": "Endovascular Treatment of Cerebral Aneurysms",
         "url": "https://www.youtube.com/watch?v=4YDhD9m5lc0",
         "provider": "World Stroke Academy / World Stroke Organization",
-        "durationSeconds": 4598.0,
+        "durationSeconds": 4598,
         "sourceUrl": "https://www.youtube.com/watch?v=4YDhD9m5lc0",
         "accessVerified": true
       },
@@ -769,7 +769,7 @@
         "title": "Carotid and Vertebral Artery Disease",
         "url": "https://www.youtube.com/watch?v=NYUSxLOst0w",
         "provider": "World Stroke Academy / World Stroke Organization",
-        "durationSeconds": 4802.0,
+        "durationSeconds": 4802,
         "sourceUrl": "https://www.youtube.com/watch?v=NYUSxLOst0w",
         "accessVerified": true
       },
@@ -778,7 +778,7 @@
         "title": "Cerebrovascular and Neuroendovascular Surgery Updates: UCSF Community Grand Rounds",
         "url": "https://www.youtube.com/watch?v=DXxLH1hli_Y",
         "provider": "UCSF Neurosurgery",
-        "durationSeconds": 3163.0,
+        "durationSeconds": 3163,
         "sourceUrl": "https://www.youtube.com/watch?v=DXxLH1hli_Y",
         "accessVerified": true
       },
@@ -787,7 +787,7 @@
         "title": "Imaging for Neurointervention and Radiation Safety",
         "url": "https://www.youtube.com/watch?v=EcSjWdHWgN8",
         "provider": "World Stroke Academy / World Stroke Organization",
-        "durationSeconds": 3868.0,
+        "durationSeconds": 3868,
         "sourceUrl": "https://www.youtube.com/watch?v=EcSjWdHWgN8",
         "accessVerified": true
       },
@@ -796,7 +796,7 @@
         "title": "Mechanical Thrombectomy for Acute Ischemic Strokes",
         "url": "https://www.youtube.com/watch?v=2SsxfuNmhgM",
         "provider": "World Stroke Academy / World Stroke Organization",
-        "durationSeconds": 3631.0,
+        "durationSeconds": 3631,
         "sourceUrl": "https://www.youtube.com/watch?v=2SsxfuNmhgM",
         "accessVerified": true
       },
@@ -805,7 +805,7 @@
         "title": "Challenging Mechanical Thrombectomy Cases",
         "url": "https://www.youtube.com/watch?v=CzGAXA7D3CE",
         "provider": "World Stroke Academy / World Stroke Organization",
-        "durationSeconds": 3617.0,
+        "durationSeconds": 3617,
         "sourceUrl": "https://www.youtube.com/watch?v=CzGAXA7D3CE",
         "accessVerified": true
       },
@@ -814,7 +814,7 @@
         "title": "AI & Advanced Neuroimaging in Acute Stroke: From Patient Selection to Real-World Implementation",
         "url": "https://www.youtube.com/watch?v=I0nW5BLFX3g",
         "provider": "World Stroke Academy / World Stroke Organization",
-        "durationSeconds": 4373.0,
+        "durationSeconds": 4373,
         "sourceUrl": "https://www.youtube.com/watch?v=I0nW5BLFX3g",
         "accessVerified": true
       },
@@ -823,7 +823,7 @@
         "title": "Part 1: Basilar, Brainstem, Bypass; Part 2: Endovascular Strategies for Wide Neck Aneurysms",
         "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_n2kkrjvx",
         "provider": "University of Utah Neurosurgery Grand Rounds; Adib Adnan Abla, MD",
-        "durationSeconds": 3767.0,
+        "durationSeconds": 3767,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_n2kkrjvx",
         "accessVerified": true
       },
@@ -832,7 +832,7 @@
         "title": "Intracranial Aneurysms & Subarachnoid Hemorrhage",
         "url": "https://www.youtube.com/watch?v=6apMCLxyKRw",
         "provider": "Matthew McPheeters, MD, MBA (University at Buffalo Neurosurgery Virtual Sub-Internship series)",
-        "durationSeconds": 2755.0,
+        "durationSeconds": 2755,
         "sourceUrl": "https://www.youtube.com/watch?v=6apMCLxyKRw",
         "accessVerified": true
       },
@@ -841,7 +841,7 @@
         "title": "Hypertension and Intracerebral Hemorrhage: From Acute Blood Pressure Control to Long-Term Prevention",
         "url": "https://www.youtube.com/watch?v=7QgfY5HF_Wg",
         "provider": "World Stroke Academy / World Stroke Organization with World Hypertension League",
-        "durationSeconds": 4330.0,
+        "durationSeconds": 4330,
         "sourceUrl": "https://www.youtube.com/watch?v=7QgfY5HF_Wg",
         "accessVerified": true
       },
@@ -850,7 +850,7 @@
         "title": "EANS Webinar: Guidelines for the Management of Aneurysmal Subarachnoid Hemorrhage",
         "url": "https://www.youtube.com/watch?v=byARiyJTPmY",
         "provider": "European Association of Neurosurgical Societies (EANSonline); speakers Nima Etminan and Torstein R. Meling",
-        "durationSeconds": 3764.0,
+        "durationSeconds": 3764,
         "sourceUrl": "https://www.youtube.com/watch?v=byARiyJTPmY",
         "accessVerified": true
       },
@@ -859,7 +859,7 @@
         "title": "EANS Webinar: Cerebral Revascularization",
         "url": "https://www.youtube.com/watch?v=nsmIzcSNra0",
         "provider": "European Association of Neurosurgical Societies (EANSonline); presenter Luca Regli, moderator Veit Rohde",
-        "durationSeconds": 3631.0,
+        "durationSeconds": 3631,
         "sourceUrl": "https://www.youtube.com/watch?v=nsmIzcSNra0",
         "accessVerified": true
       },
@@ -868,7 +868,7 @@
         "title": "Brain Arteriovenous Malformation",
         "url": "https://www.youtube.com/watch?v=bUtguf337MI",
         "provider": "Seattle Science Foundation / SSFTV; speaker Philip E. Stieg, MD, PhD",
-        "durationSeconds": 3319.0,
+        "durationSeconds": 3319,
         "sourceUrl": "https://www.youtube.com/watch?v=bUtguf337MI",
         "accessVerified": true
       },
@@ -877,7 +877,7 @@
         "title": "Endovascular therapy for stroke: Current status and future directions",
         "url": "https://www.youtube.com/watch?v=WnPWRabK0Ro",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 5455.0,
+        "durationSeconds": 5455,
         "sourceUrl": "https://www.youtube.com/watch?v=WnPWRabK0Ro",
         "accessVerified": true
       },
@@ -886,7 +886,7 @@
         "title": "Endovascular Management of Cerebral Aneurysms",
         "url": "https://www.youtube.com/watch?v=E7Y7SZ6sk7U",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 5503.0,
+        "durationSeconds": 5503,
         "sourceUrl": "https://www.youtube.com/watch?v=E7Y7SZ6sk7U",
         "accessVerified": true
       },
@@ -895,7 +895,7 @@
         "title": "Wide-neck Intracranial Aneurysms – Clipping",
         "url": "https://www.youtube.com/watch?v=M1arIpVgipQ",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 3793.0,
+        "durationSeconds": 3793,
         "sourceUrl": "https://www.youtube.com/watch?v=M1arIpVgipQ",
         "accessVerified": true
       },
@@ -904,7 +904,7 @@
         "title": "Treatment of Giant Aneurysms: State of the Art",
         "url": "https://www.youtube.com/watch?v=jlRlUTVhfQE",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 4319.0,
+        "durationSeconds": 4319,
         "sourceUrl": "https://www.youtube.com/watch?v=jlRlUTVhfQE",
         "accessVerified": true
       },
@@ -913,7 +913,7 @@
         "title": "Novel Insights in Imaging and Treatment of Brain AVMs",
         "url": "https://www.youtube.com/watch?v=eDkcd_-xwL8",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 4649.0,
+        "durationSeconds": 4649,
         "sourceUrl": "https://www.youtube.com/watch?v=eDkcd_-xwL8",
         "accessVerified": true
       },
@@ -922,7 +922,7 @@
         "title": "Curative Embolization of Cerebral AVMs",
         "url": "https://www.youtube.com/watch?v=LJ5cbWqF8zo",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 4450.0,
+        "durationSeconds": 4450,
         "sourceUrl": "https://www.youtube.com/watch?v=LJ5cbWqF8zo",
         "accessVerified": true
       },
@@ -931,7 +931,7 @@
         "title": "Spinal Vascular Malformations: Classification & Management",
         "url": "https://www.youtube.com/watch?v=adnxGlL_p3Q",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 4328.0,
+        "durationSeconds": 4328,
         "sourceUrl": "https://www.youtube.com/watch?v=adnxGlL_p3Q",
         "accessVerified": true
       },
@@ -940,7 +940,7 @@
         "title": "Super Selective Transvenous dAVF Embolization",
         "url": "https://www.youtube.com/watch?v=9C2z23bgO2I",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 4420.0,
+        "durationSeconds": 4420,
         "sourceUrl": "https://www.youtube.com/watch?v=9C2z23bgO2I",
         "accessVerified": true
       },
@@ -949,7 +949,7 @@
         "title": "Dural AVF's With PIAL Supply",
         "url": "https://www.youtube.com/watch?v=i3hQmU_CKS4",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 5076.0,
+        "durationSeconds": 5076,
         "sourceUrl": "https://www.youtube.com/watch?v=i3hQmU_CKS4",
         "accessVerified": true
       },
@@ -958,7 +958,7 @@
         "title": "Epidural Vascular Malformations of the Spine",
         "url": "https://www.youtube.com/watch?v=XLva0tIzR4Y",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 4096.0,
+        "durationSeconds": 4096,
         "sourceUrl": "https://www.youtube.com/watch?v=XLva0tIzR4Y",
         "accessVerified": true
       },
@@ -967,7 +967,7 @@
         "title": "Biplane Angiography into the Intraoperative Setting",
         "url": "https://www.youtube.com/watch?v=jpulFskbeGA",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 3583.0,
+        "durationSeconds": 3583,
         "sourceUrl": "https://www.youtube.com/watch?v=jpulFskbeGA",
         "accessVerified": true
       },
@@ -976,7 +976,7 @@
         "title": "Vessel Wall Imaging in Cerebrovascular Neurosurgery",
         "url": "https://www.youtube.com/watch?v=Q2k1gWZIx9o",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 6054.0,
+        "durationSeconds": 6054,
         "sourceUrl": "https://www.youtube.com/watch?v=Q2k1gWZIx9o",
         "accessVerified": true
       },
@@ -985,7 +985,7 @@
         "title": "Perfusion Imaging in Cerebrovascular Ischemia",
         "url": "https://www.youtube.com/watch?v=ap_kQUemiaU",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 4328.0,
+        "durationSeconds": 4328,
         "sourceUrl": "https://www.youtube.com/watch?v=ap_kQUemiaU",
         "accessVerified": true
       },
@@ -994,7 +994,7 @@
         "title": "Revascularization for Moyamoya Disease",
         "url": "https://www.youtube.com/watch?v=XuRnJrAH79k",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 3742.0,
+        "durationSeconds": 3742,
         "sourceUrl": "https://www.youtube.com/watch?v=XuRnJrAH79k",
         "accessVerified": true
       },
@@ -1003,7 +1003,7 @@
         "title": "Bypass surgery for flow augmentation and replacement",
         "url": "https://www.youtube.com/watch?v=JGg-BGnQ8Uo",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 4333.0,
+        "durationSeconds": 4333,
         "sourceUrl": "https://www.youtube.com/watch?v=JGg-BGnQ8Uo",
         "accessVerified": true
       },
@@ -1012,7 +1012,7 @@
         "title": "Management of Atherosclerotic Carotid Disease",
         "url": "https://www.youtube.com/watch?v=R4bfhmBYFS0",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 3570.0,
+        "durationSeconds": 3570,
         "sourceUrl": "https://www.youtube.com/watch?v=R4bfhmBYFS0",
         "accessVerified": true
       },
@@ -1021,7 +1021,7 @@
         "title": "Revascularization for Intracranial Atherosclerotic Steno-Occlusive Disease",
         "url": "https://www.youtube.com/watch?v=owE-8We0eb4",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 4732.0,
+        "durationSeconds": 4732,
         "sourceUrl": "https://www.youtube.com/watch?v=owE-8We0eb4",
         "accessVerified": true
       },
@@ -1030,7 +1030,7 @@
         "title": "Minimally Invasive Intracerebral Hemorrhage Evacuation",
         "url": "https://www.youtube.com/watch?v=D71wD8IAE3k",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 4093.0,
+        "durationSeconds": 4093,
         "sourceUrl": "https://www.youtube.com/watch?v=D71wD8IAE3k",
         "accessVerified": true
       },
@@ -1039,7 +1039,7 @@
         "title": "Neurocognitive Outcome in Aneurysm Treatment and Novel Therapeutics for ICH",
         "url": "https://www.youtube.com/watch?v=FtubhLF260w",
         "provider": "Seattle Science Foundation",
-        "durationSeconds": 3886.0,
+        "durationSeconds": 3886,
         "sourceUrl": "https://www.youtube.com/watch?v=FtubhLF260w",
         "accessVerified": true
       }
@@ -1212,11 +1212,11 @@
     ],
     "boardStatus": "The institutional offering is a genuine physician fellowship, not a generic directory category, research-only postdoctoral appointment, or non-physician supplement. The public BWH/MGB page describes a two-year combined open and endovascular neurovascular surgery fellowship (Track B) for neurosurgery residency graduates with prior endovascular experience. CAST's current accredited-program directory lists Massachusetts General Brigham as a Neuroendovascular fellowship (NI1023, list updated December 2025); this listing is evidence of a CAST Neuroendovascular program at MGB, but the public record does not conclusively crosswalk the directory entry to every detail of BWH's combined Track B. ACGME separately recognizes Neuroendovascular Intervention as a 24-month subspecialty program; no public source retrieved in this review established that the specific BWH combined Track B is ACGME-accredited. The CNS Endovascular Recognition of Focused Practice Designation (RFPD) is an ABMS-approved joint focused-practice credential sponsored by ABNS, ABR, and ABPN, managed by ABNS, with a written exam; it is not a separate medical-specialty board certification. The applicable pathway depends on base-board certification and prerequisite training. No exam blueprint/domain weights were located in public sources; content mapping here is to published ACGME/CAST requirements and RFPD procedure categories, not a claim to reproduce or predict the exam.",
     "boardEligibilityNotice": "The BWH page states that its two-year offering is open to graduates of a seven-year ACGME-approved neurological surgery residency who have performed at least 200 catheter-based diagnostic and/or interventional cerebral angiographic procedures as primary operator. That institutional statement is not equivalent to ACGME/CAST accreditation status, ABNS board eligibility, or eligibility for the RFPD. ABNS base certification, current program rules, documented practice/cases, the appropriate credential pathway, and any future rule changes must be checked directly with the boards. ABR/ABPN pathways described on the joint RFPD page do not make those applicants eligible for the BWH Track B unless the institution confirms it. Do not use this curriculum to claim eligibility or credentials.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 39.15694444444444,
     "verifiedSpecialtyHours": 38.33277777777778,
     "verifiedFoundationHours": 0.8241666666666667,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1229,26 +1229,15 @@
       "source": "full-catalog",
       "issues": [
         "sourceCaveats must be an array.",
-        "practiceQuestions[0]: Sampled domain is missing.",
         "practiceQuestions[0]: Question must state whether its case is fictional.",
-        "practiceQuestions[1]: Sampled domain is missing.",
         "practiceQuestions[1]: Question must state whether its case is fictional.",
-        "practiceQuestions[2]: Sampled domain is missing.",
         "practiceQuestions[2]: Question must state whether its case is fictional.",
-        "practiceQuestions[3]: Sampled domain is missing.",
         "practiceQuestions[3]: Question must state whether its case is fictional.",
-        "practiceQuestions[4]: Sampled domain is missing.",
         "practiceQuestions[4]: Question must state whether its case is fictional.",
-        "practiceQuestions[5]: Sampled domain is missing.",
         "practiceQuestions[5]: Question must state whether its case is fictional.",
-        "practiceQuestions[6]: Sampled domain is missing.",
         "practiceQuestions[6]: Question must state whether its case is fictional.",
-        "practiceQuestions[7]: Sampled domain is missing.",
         "practiceQuestions[7]: Question must state whether its case is fictional.",
-        "practiceQuestions[8]: Sampled domain is missing.",
-        "practiceQuestions[8]: Question must state whether its case is fictional.",
-        "practiceQuestions[9]: Sampled domain is missing.",
-        "practiceQuestions[9]: Question must state whether its case is fictional."
+        "practiceQuestions[8]: Question must state whether its case is fictional."
       ],
       "unknownDurationCount": 0,
       "lectureEvidenceValid": true,
@@ -1272,7 +1261,7 @@
       "note": "Study-time allocation plan only. Planned videos are not rendered, uploaded, verified, or counted as available free video hours. Workload is not clinical fellowship duration."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X040_05ed2f6c.pdf",
+    "syllabusUrl": "/manus-storage/MED-X040_d23cd417.pdf",
     "pdfIds": [
       "med-syllabus-MED-X040",
       "med-reading-40b0a21873f8",
@@ -1307,7 +1296,7 @@
         "title": "Stress Nuclear: Methodology and Case Studies (Faisal Nabi, MD)",
         "url": "https://www.youtube.com/watch?v=NOYvVUzVAK8",
         "provider": "Houston Methodist DeBakey Heart & Vascular Center",
-        "durationSeconds": 2952.0,
+        "durationSeconds": 2952,
         "sourceUrl": "https://www.youtube.com/watch?v=NOYvVUzVAK8",
         "accessVerified": true
       },
@@ -1316,7 +1305,7 @@
         "title": "Achieving Quality in Cardiac PET, Part I: Techniques and Guidelines",
         "url": "https://www.youtube.com/watch?v=nFWWK48WFOM",
         "provider": "Intersocietal Accreditation Commission (IAC)",
-        "durationSeconds": 3265.0,
+        "durationSeconds": 3265,
         "sourceUrl": "https://www.youtube.com/watch?v=nFWWK48WFOM",
         "accessVerified": true
       },
@@ -1325,7 +1314,7 @@
         "title": "EACVI free webinar: Absolute quantification of myocardial perfusion",
         "url": "https://www.youtube.com/watch?v=3YVw2fOnI1w",
         "provider": "European Association of Cardiovascular Imaging (EACVI), European Society of Cardiology",
-        "durationSeconds": 4015.0,
+        "durationSeconds": 4015,
         "sourceUrl": "https://www.youtube.com/watch?v=3YVw2fOnI1w",
         "accessVerified": true
       },
@@ -1334,7 +1323,7 @@
         "title": "Stress SPECT and PET: Methodology and Case Studies",
         "url": "https://www.youtube.com/watch?v=DOXJ3gtLQW4",
         "provider": "Houston Methodist DeBakey Heart & Vascular Center",
-        "durationSeconds": 3589.0,
+        "durationSeconds": 3589,
         "sourceUrl": "https://www.youtube.com/watch?v=DOXJ3gtLQW4",
         "accessVerified": true
       },
@@ -1343,7 +1332,7 @@
         "title": "ASNC Virtual Nuclear Cardiology Elective: Cardiac PET-MPI",
         "url": "https://www.youtube.com/watch?v=KqA7i3BSm2Q",
         "provider": "American Society of Nuclear Cardiology (ASNC)",
-        "durationSeconds": 6804.0,
+        "durationSeconds": 6804,
         "sourceUrl": "https://www.youtube.com/watch?v=KqA7i3BSm2Q",
         "accessVerified": true
       },
@@ -1352,7 +1341,7 @@
         "title": "nCVI Fellows Bootcamp: Stress Testing, ECG Interpretation and Stress Lab Emergencies",
         "url": "https://www.youtube.com/watch?v=Q6tA1swPIAs",
         "provider": "American Society of Nuclear Cardiology (ASNC)",
-        "durationSeconds": 3493.0,
+        "durationSeconds": 3493,
         "sourceUrl": "https://www.youtube.com/watch?v=Q6tA1swPIAs",
         "accessVerified": true
       },
@@ -1361,7 +1350,7 @@
         "title": "JNC Compendium: F-18 Flurpiridaz PET Myocardial Perfusion Imaging",
         "url": "https://www.youtube.com/watch?v=HZ_RPQjrzio",
         "provider": "American Society of Nuclear Cardiology (ASNC), JNC CardioConnect",
-        "durationSeconds": 1465.0,
+        "durationSeconds": 1465,
         "sourceUrl": "https://www.youtube.com/watch?v=HZ_RPQjrzio",
         "accessVerified": true
       },
@@ -1370,7 +1359,7 @@
         "title": "ASNC Virtual Nuclear Cardiology Elective: Imaging Cardiac Sarcoidosis (Session 2)",
         "url": "https://www.youtube.com/watch?v=lA5r3QZmXc8",
         "provider": "American Society of Nuclear Cardiology (ASNC), Fellows-in-Training Virtual Nuclear Cardiology Elective",
-        "durationSeconds": 6958.0,
+        "durationSeconds": 6958,
         "sourceUrl": "https://www.asnc.org/resource/asnc-nuclear-cardiology-virtual-elective/",
         "accessVerified": true
       },
@@ -1379,7 +1368,7 @@
         "title": "ASNC Virtual Nuclear Cardiology Elective: Myocardial Viability Imaging (Session 6)",
         "url": "https://www.youtube.com/watch?v=3Ly53WjC8QI",
         "provider": "American Society of Nuclear Cardiology (ASNC), Fellows-in-Training Virtual Nuclear Cardiology Elective",
-        "durationSeconds": 6808.0,
+        "durationSeconds": 6808,
         "sourceUrl": "https://www.asnc.org/resource/asnc-nuclear-cardiology-virtual-elective/",
         "accessVerified": true
       },
@@ -1388,7 +1377,7 @@
         "title": "Molecular Imaging to Unravel the Pathophysiology of Cardiac Amyloidosis",
         "url": "https://www.youtube.com/watch?v=P-WAl7p5Q_w",
         "provider": "Houston Methodist DeBakey Heart & Vascular Center; Mario S. Verani Lectureship",
-        "durationSeconds": 4095.0,
+        "durationSeconds": 4095,
         "sourceUrl": "https://www.youtube.com/watch?v=P-WAl7p5Q_w",
         "accessVerified": true
       },
@@ -1397,7 +1386,7 @@
         "title": "ASNC Virtual CV Molecular Imaging Seminars: New Technologies in Nuclear Cardiology (Part 1)",
         "url": "https://www.youtube.com/watch?v=3joKW4Z6WZ4",
         "provider": "American Society of Nuclear Cardiology (ASNC), Virtual CV Molecular Imaging Seminars",
-        "durationSeconds": 3623.0,
+        "durationSeconds": 3623,
         "sourceUrl": "https://www.youtube.com/watch?v=3joKW4Z6WZ4",
         "accessVerified": true
       },
@@ -1406,7 +1395,7 @@
         "title": "Advances in Nuclear Techniques & Future Applications",
         "url": "https://www.youtube.com/watch?v=xIdGQbY1Rk8",
         "provider": "Houston Methodist DeBakey Heart & Vascular Center, Multimodality Imaging Conference",
-        "durationSeconds": 3684.0,
+        "durationSeconds": 3684,
         "sourceUrl": "https://www.youtube.com/watch?v=xIdGQbY1Rk8",
         "accessVerified": true
       },
@@ -1415,8 +1404,35 @@
         "title": "Role of Multi-Modality Imaging for the Evaluation of Cardiac Sarcoidosis",
         "url": "https://www.youtube.com/watch?v=KLNelnr4iLY",
         "provider": "Houston Methodist DeBakey Heart & Vascular Center, Multimodality Imaging Conference",
-        "durationSeconds": 3807.0,
+        "durationSeconds": 3807,
         "sourceUrl": "https://www.youtube.com/watch?v=KLNelnr4iLY",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X040-REC-001",
+        "title": "Tc99m Pyrophosphate Imaging for ATTR Cardiac Amyloidosis: Acquisition and Processing",
+        "url": "https://www.youtube.com/watch?v=Ip21W660cRU",
+        "provider": "American Society of Nuclear Cardiology (ASNC)",
+        "durationSeconds": 1363,
+        "sourceUrl": "https://www.youtube.com/watch?v=Ip21W660cRU",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X040-REC-002",
+        "title": "Cardiac Amyloidosis: Interpretation and Reporting",
+        "url": "https://www.youtube.com/watch?v=URo3wA4TgR8",
+        "provider": "American Society of Nuclear Cardiology (ASNC)",
+        "durationSeconds": 841,
+        "sourceUrl": "https://www.youtube.com/watch?v=URo3wA4TgR8",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X040-REC-003",
+        "title": "Cardiac Amyloidosis Cases: Pearls and Pitfalls",
+        "url": "https://www.youtube.com/watch?v=RgrXZlhCQBw",
+        "provider": "American Society of Nuclear Cardiology (ASNC)",
+        "durationSeconds": 1482,
+        "sourceUrl": "https://www.youtube.com/watch?v=RgrXZlhCQBw",
         "accessVerified": true
       }
     ],
@@ -1513,7 +1529,10 @@
         "text": "Cardiac amyloidosis scintigraphy and multimodality integration",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "X03"
+          "X03",
+          "MED-X040-REC-001",
+          "MED-X040-REC-002",
+          "MED-X040-REC-003"
         ]
       },
       {
@@ -1559,11 +1578,11 @@
       "institutionalFellowshipAccreditation": "Not stated on MGH public page; the public ACGME directory search page loaded without a searchable result for this specific programme in this research session. Accreditation status not confirmed, not inferred."
     },
     "boardEligibilityNotice": "This independent self-study does not provide physician training, the required supervised Level 2 case experience, case log/preceptor verification, hands-on clinical/radiation-safety work, authorized-user status, licensure, board eligibility, examination eligibility or certification. MGH states completion of cardiovascular disease fellowship is a prerequisite. CBNC eligibility requirements are separate and current as of 2026; verify directly with APCA/CBNC and applicable NRC/Agreement State regulators. No exam pass or clinical competence is promised.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 15.155,
-    "verifiedSpecialtyHours": 14.0975,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 16.17888888888889,
+    "verifiedSpecialtyHours": 15.12138888888889,
     "verifiedFoundationHours": 1.0575,
-    "hoursGap": 20.845,
+    "hoursGap": 19.82111111111111,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1602,7 +1621,7 @@
         "title": "Cardiac Amyloidosis: What Every Cardiologist Needs to Know (Mayo Clinic CV Grand Rounds)",
         "url": "https://www.youtube.com/watch?v=6WIAPzWmtEM",
         "provider": "Mayo Clinic",
-        "durationSeconds": 969.0,
+        "durationSeconds": 969,
         "sourceUrl": "https://www.youtube.com/watch?v=6WIAPzWmtEM",
         "accessVerified": true
       },
@@ -1647,7 +1666,7 @@
         "title": "Advances in Cardio-oncology: From cohorts to clinical trails",
         "url": "https://hsc.mediaspace.utah.edu/media/t/1_shzqheho",
         "provider": "University of Utah HSC MediaSpace; Cardiovascular Medicine Grand Rounds; speaker Bonnie Ky",
-        "durationSeconds": 3477.0,
+        "durationSeconds": 3477,
         "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/1_shzqheho",
         "accessVerified": true
       },
@@ -1656,7 +1675,7 @@
         "title": "Amyloidosis: A rapidly moving field",
         "url": "https://hsc.mediaspace.utah.edu/media/t/0_3v2um9w8",
         "provider": "University of Utah HSC MediaSpace; Cardiovascular Grand Rounds",
-        "durationSeconds": 3443.0,
+        "durationSeconds": 3443,
         "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/0_3v2um9w8",
         "accessVerified": true
       },
@@ -1665,7 +1684,7 @@
         "title": "Echo for identification of cardiac amyloidosis in patients with HFpEF",
         "url": "https://hsc.mediaspace.utah.edu/media/t/1_w61ekcnr",
         "provider": "University of Utah HSC MediaSpace; Cardiovascular Grand Rounds; speaker Carlos Rodriguez Correa, MD",
-        "durationSeconds": 2296.0,
+        "durationSeconds": 2296,
         "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/1_w61ekcnr",
         "accessVerified": true
       },
@@ -1674,7 +1693,7 @@
         "title": "The Evolving Clinical Therapeutic Spectrum of Amyloidosis",
         "url": "https://hsc.mediaspace.utah.edu/media/t/0_nmndu05h",
         "provider": "University of Utah HSC MediaSpace; Grand Rounds; speakers listed Tibor Kovacsovics and Jose Nativi-Nicolau",
-        "durationSeconds": 3099.0,
+        "durationSeconds": 3099,
         "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/0_nmndu05h",
         "accessVerified": true
       },
@@ -1683,7 +1702,7 @@
         "title": "Amyloidosis: Updates on diagnosis & treatments",
         "url": "https://hsc.mediaspace.utah.edu/media/t/1_aix3luv9",
         "provider": "University of Utah HSC MediaSpace; Cardiovascular Medicine Grand Rounds; speaker shown on associated university page as Spencer Carter, MD",
-        "durationSeconds": 5061.0,
+        "durationSeconds": 5061,
         "sourceUrl": "https://hsc.mediaspace.utah.edu/category/School+of+Medicine%3EInternal+Medicine%3ECardiovascular+Medicine%3EGrand+Rounds+-+Cardiovascular+Medicine/32813012",
         "accessVerified": true
       },
@@ -1692,7 +1711,7 @@
         "title": "Cardio-oncology: A new clinical frontier",
         "url": "https://hsc.mediaspace.utah.edu/media/t/1_01bdfg4u",
         "provider": "University of Utah Health, Cardiovascular Medicine Grand Rounds",
-        "durationSeconds": 3493.0,
+        "durationSeconds": 3493,
         "sourceUrl": "https://medicine.utah.edu/internal-medicine/cardiovascular-medicine/grand-rounds/video?video=1_01bdfg4u",
         "accessVerified": true
       },
@@ -1701,7 +1720,7 @@
         "title": "Medicine Grand Rounds: Cardio-Oncology: A New Frontier",
         "url": "https://www.youtube.com/watch?v=qikf7cu4s-Y",
         "provider": "Emory University School of Medicine",
-        "durationSeconds": 3310.0,
+        "durationSeconds": 3310,
         "sourceUrl": "https://www.youtube.com/watch?v=qikf7cu4s-Y",
         "accessVerified": true
       },
@@ -1710,7 +1729,7 @@
         "title": "Cardiology Grand Rounds - Dr. Javid Moslehi, 9/7/22",
         "url": "https://www.youtube.com/watch?v=yE6pVhA3wk4",
         "provider": "University of California, San Francisco, Cardiology",
-        "durationSeconds": 3028.0,
+        "durationSeconds": 3028,
         "sourceUrl": "https://www.youtube.com/watch?v=yE6pVhA3wk4",
         "accessVerified": true
       },
@@ -1719,7 +1738,7 @@
         "title": "TTR Cardiac Amyloid—How Common and How to Diagnose",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=219",
         "provider": "Mayo Clinic Cardiovascular Education",
-        "durationSeconds": 1065.0,
+        "durationSeconds": 1065,
         "sourceUrl": "https://cveducation.mayo.edu/lp/free_on_demand_cardiology_lessons",
         "accessVerified": true
       },
@@ -1728,7 +1747,7 @@
         "title": "Radiation Heart Disease",
         "url": "https://cveducation.mayo.edu/lp/videos?vid=454",
         "provider": "Mayo Clinic Cardiovascular Education",
-        "durationSeconds": 1235.0,
+        "durationSeconds": 1235,
         "sourceUrl": "https://cveducation.mayo.edu/lp/free_on_demand_cardiology_lessons",
         "accessVerified": true
       },
@@ -1737,7 +1756,7 @@
         "title": "Understanding and Managing ATTR Amyloidosis",
         "url": "https://www.youtube.com/watch?v=n-f5CD-1jKI",
         "provider": "Heart Failure Society of America",
-        "durationSeconds": 3402.0,
+        "durationSeconds": 3402,
         "sourceUrl": "https://www.youtube.com/watch?v=n-f5CD-1jKI",
         "accessVerified": true
       },
@@ -1746,7 +1765,7 @@
         "title": "Approach to Cardiac Amyloidosis",
         "url": "https://www.youtube.com/watch?v=Wyd1sD52NJA",
         "provider": "University of Washington, Division of Cardiology",
-        "durationSeconds": 3559.0,
+        "durationSeconds": 3559,
         "sourceUrl": "https://www.youtube.com/watch?v=Wyd1sD52NJA",
         "accessVerified": true
       },
@@ -1755,7 +1774,7 @@
         "title": "Cardiac Amyloidosis: Interpretation and Reporting",
         "url": "https://www.youtube.com/watch?v=URo3wA4TgR8",
         "provider": "American Society of Nuclear Cardiology",
-        "durationSeconds": 841.0,
+        "durationSeconds": 841,
         "sourceUrl": "https://www.asnc.org/resource/ondemand-bone-scintigraphy-for-cardiac-amyloidosis-a-four-lecture-series-of-short-videos-delivered-by-asnc-experts/",
         "accessVerified": true
       },
@@ -1764,7 +1783,7 @@
         "title": "Cardiac Amyloidosis Cases: Pearls and Pitfalls",
         "url": "https://www.youtube.com/watch?v=RgrXZlhCQBw",
         "provider": "American Society of Nuclear Cardiology",
-        "durationSeconds": 1483.0,
+        "durationSeconds": 1483,
         "sourceUrl": "https://www.asnc.org/resource/ondemand-bone-scintigraphy-for-cardiac-amyloidosis-a-four-lecture-series-of-short-videos-delivered-by-asnc-experts/",
         "accessVerified": true
       },
@@ -1773,7 +1792,7 @@
         "title": "Mathew S. Maurer, MD | Burchell Lecture: Cardiac Amyloidosis",
         "url": "https://www.youtube.com/watch?v=JwBdJtGJvJM",
         "provider": "Minneapolis Heart Institute Foundation",
-        "durationSeconds": 4008.0,
+        "durationSeconds": 4008,
         "sourceUrl": "https://www.youtube.com/watch?v=JwBdJtGJvJM",
         "accessVerified": true
       }
@@ -1929,10 +1948,10 @@
     ],
     "boardStatus": "The MGB page categorizes the fellowship as Non-GME; neither the official programme pages nor the reviewed ABIM/ACGME materials establish ACGME accreditation of this one-year fellowship. ABIM lists no cardio-oncology or cardiac amyloidosis subspecialty examination; cardiovascular disease is the adjacent ABIM exam and has its own accredited-training and eligibility requirements. IC-OS offers a distinct society Cardio-Oncology Knowledge Certification exam. No separate cardiac amyloidosis board examination was identified in reviewed official sources.",
     "boardEligibilityNotice": "This independent curriculum confers no board eligibility. ABIM cardiovascular disease certification requires the applicable prior internal medicine certification, eligible accredited cardiovascular fellowship training, clinical competence and licensure; completion of this listed non-GME fellowship alone does not satisfy those criteria. IC-OS eligibility has its own current requirements, including dedicated cardio-oncology training or qualifying clinical experience, active membership and letters; this course does not qualify a learner. Verify current rules with the certifying body.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 12.158055555555556,
     "verifiedSpecialtyHours": 12.158055555555556,
-    "verifiedFoundationHours": 0.0,
+    "verifiedFoundationHours": 0,
     "hoursGap": 23.841944444444444,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
@@ -1986,7 +2005,7 @@
         "title": "Molecular Biology and Genetics. Back to Basics Series, Episode 1",
         "url": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/molecular-biology-genetics-webinar.html",
         "provider": "Thermo Fisher Scientific (One Lambda)",
-        "durationSeconds": 2516.0,
+        "durationSeconds": 2516,
         "sourceUrl": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/molecular-biology-genetics-webinar.html",
         "accessVerified": true
       },
@@ -1995,7 +2014,7 @@
         "title": "Immunology. Back to Basics Series, Episode 2",
         "url": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/immunology-webinar.html",
         "provider": "Thermo Fisher Scientific (One Lambda)",
-        "durationSeconds": 2608.0,
+        "durationSeconds": 2608,
         "sourceUrl": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/immunology-webinar.html",
         "accessVerified": true
       },
@@ -2004,7 +2023,7 @@
         "title": "HLA Proteins and Genes. Back to Basics Series, Episode 3",
         "url": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/hla-proteins-genes-webinar.html",
         "provider": "Thermo Fisher Scientific (One Lambda)",
-        "durationSeconds": 3157.0,
+        "durationSeconds": 3157,
         "sourceUrl": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/hla-proteins-genes-webinar.html",
         "accessVerified": true
       },
@@ -2013,7 +2032,7 @@
         "title": "Starting with Serology: History and Evolution of HLA Assays. Back to Basics Series, Episode 5",
         "url": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/starting-serology-webinar.html",
         "provider": "Thermo Fisher Scientific (One Lambda)",
-        "durationSeconds": 3118.0,
+        "durationSeconds": 3118,
         "sourceUrl": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/starting-serology-webinar.html",
         "accessVerified": true
       },
@@ -2022,7 +2041,7 @@
         "title": "DNA Assays for HLA: SSP and RT-PCR. Back to Basics Series, Episode 1",
         "url": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/dna-assays-hla-webinar.html",
         "provider": "Thermo Fisher Scientific (One Lambda)",
-        "durationSeconds": 2910.0,
+        "durationSeconds": 2910,
         "sourceUrl": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/dna-assays-hla-webinar.html",
         "accessVerified": true
       },
@@ -2031,7 +2050,7 @@
         "title": "DNA Assays for HLA: SSO. Back to Basics Series, Episode 2",
         "url": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/dna-assays-hla-sso-webinar.html",
         "provider": "Thermo Fisher Scientific (One Lambda)",
-        "durationSeconds": 3314.0,
+        "durationSeconds": 3314,
         "sourceUrl": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/dna-assays-hla-sso-webinar.html",
         "accessVerified": true
       },
@@ -2040,7 +2059,7 @@
         "title": "Antibody Assays for HLA. Back to Basics Series, Episode 3",
         "url": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/antibody-assays-hla-webinar.html",
         "provider": "Thermo Fisher Scientific (One Lambda)",
-        "durationSeconds": 3544.0,
+        "durationSeconds": 3544,
         "sourceUrl": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/antibody-assays-hla-webinar.html",
         "accessVerified": true
       },
@@ -2049,7 +2068,7 @@
         "title": "Complement-dependent Cytotoxicity (CDC) for HLA. Back to Basics Series, Episode 1",
         "url": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/cdc-hla-webinar.html",
         "provider": "Thermo Fisher Scientific (One Lambda)",
-        "durationSeconds": 3313.0,
+        "durationSeconds": 3313,
         "sourceUrl": "https://www.thermofisher.com/us/en/home/clinical/transplant-solutions/onelambda-education/hla-fundamentals-back-to-basics-series/cdc-hla-webinar.html",
         "accessVerified": true
       },
@@ -2058,7 +2077,7 @@
         "title": "Basics of HLA in Transplantation Webinar",
         "url": "https://www.youtube.com/watch?v=6LMzLccuVao",
         "provider": "American Society for Histocompatibility and Immunogenetics (ASHI HLA)",
-        "durationSeconds": 3639.0,
+        "durationSeconds": 3639,
         "sourceUrl": "https://www.youtube.com/watch?v=6LMzLccuVao",
         "accessVerified": true
       },
@@ -2067,7 +2086,7 @@
         "title": "Engraftment Monitoring Post HSCT—Advancements in Chimerism Testing",
         "url": "https://www.youtube.com/watch?v=D-DfilxhSLU",
         "provider": "American Society for Histocompatibility and Immunogenetics (ASHI HLA)",
-        "durationSeconds": 3617.0,
+        "durationSeconds": 3617,
         "sourceUrl": "https://www.youtube.com/watch?v=D-DfilxhSLU",
         "accessVerified": true
       },
@@ -2076,7 +2095,7 @@
         "title": "High Resolution HLA Typing NGS and Nanopore",
         "url": "https://www.youtube.com/watch?v=KiNl8Ob3WoY",
         "provider": "American Society for Histocompatibility and Immunogenetics (ASHI HLA)",
-        "durationSeconds": 3672.0,
+        "durationSeconds": 3672,
         "sourceUrl": "https://www.youtube.com/watch?v=KiNl8Ob3WoY",
         "accessVerified": true
       }
@@ -2226,7 +2245,7 @@
     "boardNames": [],
     "boardStatus": "No separate physician specialty board examination or ABMS/ABPath/ABMGG subspecialty named Tissue Typing was identified in the official sources reviewed as of 2026-10-07. ACHI offers a Histocompatibility Laboratory Director professional credentialing examination, which is not a physician specialty board examination; eligibility/pathway depends on separate education, credentials and portfolio/oral steps. This BWH page does not say its fellowship prepares a fellow for ACHI examination or guarantees eligibility.",
     "boardEligibilityNotice": "This independent course does not establish eligibility for ACHI, ABPath, ABMGG, any other board or credential. Verify requirements directly with the credentialing body. No exam blueprint specific to BWH Tissue Typing was found; curriculum domains are mapped to ASHI standards and public H&I training materials, not an official board blueprint.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 9.835555555555555,
     "verifiedSpecialtyHours": 6.524444444444445,
     "verifiedFoundationHours": 3.311111111111111,
@@ -2320,7 +2339,7 @@
         "title": "Heart Transplant Surgery (Graphic)",
         "url": "https://2207941.mediaspace.kaltura.com/media/t/1_zakcnrol/86838201",
         "provider": "Cleveland Clinic MediaSpace / HVTI MEDED",
-        "durationSeconds": 602.0,
+        "durationSeconds": 602,
         "sourceUrl": "https://2207941.mediaspace.kaltura.com/media/t/1_zakcnrol/86838201",
         "accessVerified": true
       },
@@ -2329,7 +2348,7 @@
         "title": "Sequential Bilateral Lung Transplant in Situs Inversus Totalis and Kartagener Syndrome",
         "url": "https://www.ctsnet.org/article-video/sequential-bilateral-lung-transplant-in-situs-inversus-totalis-and-kartagener-syndrome/",
         "provider": "CTSNet / Vimeo",
-        "durationSeconds": 650.0,
+        "durationSeconds": 650,
         "sourceUrl": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F1219779327",
         "accessVerified": true
       },
@@ -2338,7 +2357,7 @@
         "title": "Sequential bilateral lung transplant: surgical video case (Vimeo entry)",
         "url": "https://vimeo.com/1219779327",
         "provider": "CTSNet / Vimeo",
-        "durationSeconds": 650.0,
+        "durationSeconds": 650,
         "sourceUrl": "https://vimeo.com/api/oembed.json?url=https%3A%2F%2Fvimeo.com%2F1219779327",
         "accessVerified": true
       },
@@ -2356,7 +2375,7 @@
         "title": "LVAD Therapy in 2023: Which Patients and When?",
         "url": "https://www.youtube.com/watch?v=3_kl4wpClPY",
         "provider": "Michigan Medicine / University of Michigan Health Cardiovascular Medicine Grand Rounds (YouTube)",
-        "durationSeconds": 2884.0,
+        "durationSeconds": 2884,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLNxqP-XbH8BL7l1gX2gJhWm_9N8674uZu",
         "accessVerified": true
       },
@@ -2365,7 +2384,7 @@
         "title": "Constructing a Framework to Predict and Manage Right Ventricle Failure",
         "url": "https://www.youtube.com/watch?v=zBTmBMgCj04",
         "provider": "Michigan Medicine / University of Michigan Health Cardiovascular Medicine Grand Rounds (YouTube)",
-        "durationSeconds": 3745.0,
+        "durationSeconds": 3745,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLNxqP-XbH8BL7l1gX2gJhWm_9N8674uZu",
         "accessVerified": true
       },
@@ -2374,7 +2393,7 @@
         "title": "Dilemmas of a Liminal Space: Living and Dying with an LVAD",
         "url": "https://www.youtube.com/watch?v=-a6IrCGltAM",
         "provider": "Michigan Medicine / University of Michigan Health Cardiovascular Medicine Grand Rounds (YouTube)",
-        "durationSeconds": 3770.0,
+        "durationSeconds": 3770,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLNxqP-XbH8BL7l1gX2gJhWm_9N8674uZu",
         "accessVerified": true
       },
@@ -2383,7 +2402,7 @@
         "title": "Machine-based organ perfusion for transplant: how far can we go?",
         "url": "https://www.youtube.com/watch?v=fJo3K-Ad6os",
         "provider": "Michigan Medicine / University of Michigan Health Cardiovascular Medicine Grand Rounds (YouTube)",
-        "durationSeconds": 3219.0,
+        "durationSeconds": 3219,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLNxqP-XbH8BL7l1gX2gJhWm_9N8674uZu",
         "accessVerified": true
       },
@@ -2392,7 +2411,7 @@
         "title": "Management of Cardiogenic Shock | Jacob Abraham",
         "url": "https://www.youtube.com/watch?v=NBCKb_Fb1Do",
         "provider": "University Hospitals Heart Failure Grand Rounds",
-        "durationSeconds": 3676.0,
+        "durationSeconds": 3676,
         "sourceUrl": "https://www.youtube.com/channel/UCRjrhtmjoGGATobCJjN2viA",
         "accessVerified": true
       },
@@ -2401,7 +2420,7 @@
         "title": "Approach to Antibodies in Heart Transplantation | Michelle Kittleson",
         "url": "https://www.youtube.com/watch?v=BaW3qSMdaAY",
         "provider": "University Hospitals Heart Failure Grand Rounds",
-        "durationSeconds": 3657.0,
+        "durationSeconds": 3657,
         "sourceUrl": "https://www.youtube.com/channel/UCRjrhtmjoGGATobCJjN2viA",
         "accessVerified": true
       },
@@ -2410,7 +2429,7 @@
         "title": "Cardio-Renal Syndrome and Diuretic Resistance: Mechanism and clinical implications | Jeffrey Testani",
         "url": "https://www.youtube.com/watch?v=0yKzpeauVB8",
         "provider": "University Hospitals Heart Failure Grand Rounds",
-        "durationSeconds": 3535.0,
+        "durationSeconds": 3535,
         "sourceUrl": "https://www.youtube.com/channel/UCRjrhtmjoGGATobCJjN2viA",
         "accessVerified": true
       },
@@ -2419,7 +2438,7 @@
         "title": "The ‘Right’ Way To Do A Right Heart Catheterization | Ryan Tedford",
         "url": "https://www.youtube.com/watch?v=DKSlets7rR8",
         "provider": "University Hospitals Heart Failure Grand Rounds",
-        "durationSeconds": 3507.0,
+        "durationSeconds": 3507,
         "sourceUrl": "https://www.youtube.com/channel/UCRjrhtmjoGGATobCJjN2viA",
         "accessVerified": true
       },
@@ -2428,7 +2447,7 @@
         "title": "Cardiogenic Shock Management - Where We Are and Where We Need to Go",
         "url": "https://www.youtube.com/watch?v=zNPCkPPy8Ts",
         "provider": "Michigan Medicine / U-M Health Cardiovascular Medicine Grand Rounds",
-        "durationSeconds": 3669.0,
+        "durationSeconds": 3669,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLNxqP-XbH8BL7l1gX2gJhWm_9N8674uZu",
         "accessVerified": true
       },
@@ -2437,7 +2456,7 @@
         "title": "Advancing Equitable Cardiovascular Care for Patients with Heart Failure",
         "url": "https://www.youtube.com/watch?v=09xX2CSpdx0",
         "provider": "Michigan Medicine / U-M Health Cardiovascular Medicine Grand Rounds",
-        "durationSeconds": 3609.0,
+        "durationSeconds": 3609,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLNxqP-XbH8BL7l1gX2gJhWm_9N8674uZu",
         "accessVerified": true
       },
@@ -2446,7 +2465,7 @@
         "title": "A Long Term Perspective of the Surgical Treatment for End Stage Heart Failure",
         "url": "https://www.youtube.com/watch?v=cCpah6juQD8",
         "provider": "Michigan Medicine / Frankel CVC Cardiac Surgery Grand Rounds",
-        "durationSeconds": 3220.0,
+        "durationSeconds": 3220,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLNxqP-XbH8BIjaXNkqjUicJL5AAZgnKy4",
         "accessVerified": true
       },
@@ -2455,7 +2474,7 @@
         "title": "Achieving Equity in Heart Transplantation (Monica Colvin, MD, MS)",
         "url": "https://www.youtube.com/watch?v=Ef_9bnjQnz0",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 4058.0,
+        "durationSeconds": 4058,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2464,7 +2483,7 @@
         "title": "Assessment of Right Ventricular Function: Putting ‘At Rest’ Evaluations to Rest (Ryan Tedford, MD)",
         "url": "https://www.youtube.com/watch?v=HTyZyoPWwsY",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3988.0,
+        "durationSeconds": 3988,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2473,7 +2492,7 @@
         "title": "Beware SCAI Stage B Cardiogenic Shock: Beginning of Badness (Dr. Ju H. Kim)",
         "url": "https://www.youtube.com/watch?v=-uGfDVWTa4g",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3858.0,
+        "durationSeconds": 3858,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2482,7 +2501,7 @@
         "title": "Advancing Care in Heart Failure: Strategies for Managing Acute Decompensated HF (R. Yousefzai, MD)",
         "url": "https://www.youtube.com/watch?v=ekyPSnPvKC0",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 4021.0,
+        "durationSeconds": 4021,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2491,7 +2510,7 @@
         "title": "Burden of heart failure in CHD patients - prevalence and management (Rafael Alonso-Gonzalez, MD)",
         "url": "https://www.youtube.com/watch?v=2YdrlNyKIoI",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 4488.0,
+        "durationSeconds": 4488,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2500,7 +2519,7 @@
         "title": "DeBakey CV Grand Rounds: Update on Mechanical Support to Treat Cardiogenic Shock (William O’Neill, MD)",
         "url": "https://www.youtube.com/watch?v=wVzu-9_BpIY",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 4158.0,
+        "durationSeconds": 4158,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2509,7 +2528,7 @@
         "title": "Transplants in ACHD (Stephanie Fuller, MD, MS)",
         "url": "https://www.youtube.com/watch?v=9Y0Drh2y_lg",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 4313.0,
+        "durationSeconds": 4313,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2518,7 +2537,7 @@
         "title": "Acute Heart Failure: What Is Optimal Medical Therapy? (Christopher M. O’Connor, MD)",
         "url": "https://www.youtube.com/watch?v=o2w5i0MPhjk",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3744.0,
+        "durationSeconds": 3744,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2527,7 +2546,7 @@
         "title": "Cardiogenic Shock: How Physiology has Changed Clinical Practice (Daniel Burkhoff, MD)",
         "url": "https://www.youtube.com/watch?v=dH1wFbnml3Q",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3965.0,
+        "durationSeconds": 3965,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2536,7 +2555,7 @@
         "title": "Refractory Vasoplegic Shock in Cardiac Patients (Masud, Dhala, Ratnani)",
         "url": "https://www.youtube.com/watch?v=hOvU_D7gQS4",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3419.0,
+        "durationSeconds": 3419,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2545,7 +2564,7 @@
         "title": "Changing Landscape of Heart Failure Care (Clyde W. Yancy, MD)",
         "url": "https://www.youtube.com/watch?v=6XRy2dj0ni0",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3839.0,
+        "durationSeconds": 3839,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2554,7 +2573,7 @@
         "title": "Current Heart Failure Treatment Recommendation (Biykem Bozkurt, MD)",
         "url": "https://www.youtube.com/watch?v=8COCaOvD56s",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3930.0,
+        "durationSeconds": 3930,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2563,7 +2582,7 @@
         "title": "The Changing Landscape of Advanced Heart Failure (Joseph G. Rogers, MD)",
         "url": "https://www.youtube.com/watch?v=kOdztxCA_-Q",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 4271.0,
+        "durationSeconds": 4271,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2572,7 +2591,7 @@
         "title": "Durable Mechanical Circulatory Support in ACHD (Ari M. Cedars, MD)",
         "url": "https://www.youtube.com/watch?v=2n-4-GGhTKE",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3720.0,
+        "durationSeconds": 3720,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2581,7 +2600,7 @@
         "title": "Current Landscape of Thoracic Transplant / MCS (Ulrich P. Jorde, MD)",
         "url": "https://www.youtube.com/watch?v=0r1HggNJcAQ",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3471.0,
+        "durationSeconds": 3471,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2590,7 +2609,7 @@
         "title": "Advances in Acute Mechanical Circulatory Support (Navin K. Kapur, MD)",
         "url": "https://www.youtube.com/watch?v=H1CrJ3PNqw0",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3039.0,
+        "durationSeconds": 3039,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2599,7 +2618,7 @@
         "title": "Innovative Strategies for the Refractory Heart Failure (Daniel Burkhoff, MD, PhD)",
         "url": "https://www.youtube.com/watch?v=f9mp8CMPwPA",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3753.0,
+        "durationSeconds": 3753,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2608,7 +2627,7 @@
         "title": "Heart Failure Case Presentations – A Panel Discussion (Jerry D. Estep, MD)",
         "url": "https://www.youtube.com/watch?v=B3bGBQb6SKg",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 4227.0,
+        "durationSeconds": 4227,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2617,7 +2636,7 @@
         "title": "Hemodynamic Aspects of Cardiogenic Shock: Case-Based Discussion (Guha/Bhimaraj)",
         "url": "https://www.youtube.com/watch?v=l10Sbye7l-8",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3717.0,
+        "durationSeconds": 3717,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2626,7 +2645,7 @@
         "title": "Assessment of Right Ventricle (Thomas Di Salvo, MD)",
         "url": "https://www.youtube.com/watch?v=XD6az8qP6ck",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 4014.0,
+        "durationSeconds": 4014,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2635,7 +2654,7 @@
         "title": "Approach to Heart Failure in the Adult with CHD (Laith Alshawabkeh, MD)",
         "url": "https://www.youtube.com/watch?v=jU32phxuSpU",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 5010.0,
+        "durationSeconds": 5010,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2644,7 +2663,7 @@
         "title": "MRI of the Transplanted Heart (James C. Carr, MD)",
         "url": "https://www.youtube.com/watch?v=2eywY90Mrrk",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3551.0,
+        "durationSeconds": 3551,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2653,7 +2672,7 @@
         "title": "Vascular Graft Infections (Carlos Bechara, MD)",
         "url": "https://www.youtube.com/watch?v=IvzH6pxBjRo",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3122.0,
+        "durationSeconds": 3122,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2662,7 +2681,7 @@
         "title": "Left Ventricular Bypass Pump: Birth & Renaissance (Mehmet H. Akay, MD)",
         "url": "https://www.youtube.com/watch?v=ZGUvikqq1jY",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3143.0,
+        "durationSeconds": 3143,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2671,7 +2690,7 @@
         "title": "Group 2 Pulmonary Hypertension: Isn’t it Just Heart Failure? and Left Ventricle Thrombosis",
         "url": "https://www.youtube.com/watch?v=AC3I2fxpCTo",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 4200.0,
+        "durationSeconds": 4200,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2680,7 +2699,7 @@
         "title": "Optimizing Quality of Care and Outcomes for Heart Failure (Gregg Fonarow, MD)",
         "url": "https://www.youtube.com/watch?v=yysfOqRhmao",
         "provider": "Houston Methodist DeBakey CV Education / Grand Rounds",
-        "durationSeconds": 3759.0,
+        "durationSeconds": 3759,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLZpDzANLjPtXmAPuZPjWIzQOh-fjWx6RO",
         "accessVerified": true
       },
@@ -2689,7 +2708,7 @@
         "title": "Innovations in Rejection Surveillance in Heart Transplantation | Jon A. Kobashigawa, MD",
         "url": "https://www.youtube.com/watch?v=fA6_U7V9s7s",
         "provider": "Texas Heart Institute Cardiology Grand Rounds",
-        "durationSeconds": 2490.0,
+        "durationSeconds": 2490,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLwtwDoqK7vrg_-o9_C_7ch2LEUa1SAe6z",
         "accessVerified": true
       },
@@ -2698,7 +2717,7 @@
         "title": "Heart Failure Related Cardiogenic Shock: The Spiral of Heterogeneity | Jaime Hernandez-Montfort, MD",
         "url": "https://www.youtube.com/watch?v=hAcCua9CSL8",
         "provider": "Texas Heart Institute Cardiology Grand Rounds",
-        "durationSeconds": 2445.0,
+        "durationSeconds": 2445,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLwtwDoqK7vrg_-o9_C_7ch2LEUa1SAe6z",
         "accessVerified": true
       },
@@ -2707,7 +2726,7 @@
         "title": "Beyond GDMT: Heart Transplantation and LVAD Therapy for Advanced Heart Failure",
         "url": "https://www.youtube.com/watch?v=mUFlB703w_8",
         "provider": "Emory Cardiology Grand Rounds",
-        "durationSeconds": 3676.0,
+        "durationSeconds": 3676,
         "sourceUrl": "https://www.youtube.com/watch?v=mUFlB703w_8",
         "accessVerified": true
       }
@@ -2922,11 +2941,11 @@
     ],
     "boardStatus": "The BWH institution directory labels this a clinical-surgery fellowship, but the public programme page contains no curriculum, length, entry requirement, ACGME accreditation statement, case volumes, or board-exam title. This is a subspecialty clinical fellowship, not a distinct board specialty established by the sources reviewed. ABTS primary thoracic certification has separate eligibility pathways/examinations; ABTS separately lists congenital cardiac surgery subspecialty certification. No separate transplant/MCS exam was found.",
     "boardEligibilityNotice": "This course and the directory listing do not establish eligibility for ABTS certification. ABTS pathways, accreditation, prerequisite residency, case requirements, examination, current unrestricted U.S. medical license, and all other current rules must be checked directly with ABTS. No eligibility or passing outcome is guaranteed.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 41.077777777777776,
     "verifiedSpecialtyHours": 10.456111111111111,
     "verifiedFoundationHours": 30.621666666666666,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3007,7 +3026,7 @@
         "title": "VF Masterclass: Vascular Access for Hemodialalysis June 6, 2023",
         "url": "https://www.youtube.com/watch?v=wK0-eI1cc-0",
         "provider": "Vattikuti Foundation",
-        "durationSeconds": 6487.0,
+        "durationSeconds": 6487,
         "sourceUrl": "https://vattikutifoundation.com/portfolio_page/vf-masterclass-vascular-access-for-hemodialalysis-june-6-2023/",
         "accessVerified": true
       },
@@ -3016,7 +3035,7 @@
         "title": "ISPD-AHN Joint Webinar 2",
         "url": "https://www.youtube.com/watch?v=mzUmsR1HdQA",
         "provider": "International Society for Peritoneal Dialysis (ISPD), joint with AHN",
-        "durationSeconds": 4929.0,
+        "durationSeconds": 4929,
         "sourceUrl": "https://ispd.org/webinars/",
         "accessVerified": true
       },
@@ -3025,7 +3044,7 @@
         "title": "Managing Peritoneal Dialysis Catheter Dysfunction",
         "url": "https://ispd.org/presentations/12-PDCathDysfn/presentation.html",
         "provider": "International Society for Peritoneal Dialysis (ISPD)",
-        "durationSeconds": 911.0,
+        "durationSeconds": 911,
         "sourceUrl": "https://ispd.org/lecture-series/",
         "accessVerified": true
       }
@@ -3126,10 +3145,10 @@
     ],
     "boardStatus": "ABIM offers nephrology subspecialty certification and examination. No separate ABMS/ABIM interventional nephrology board examination was identified in the official board materials checked. ASDIN procedure-specific certification is a separate professional society credential, not ABMS board certification.",
     "boardEligibilityNotice": "ABIM eligibility is governed by current ABIM policy, including prior ABIM internal medicine certification, qualifying accredited fellowship training, clinical competence and unrestricted license; this independent course confers none of these. Verify current requirements directly with ABIM.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 3.424166666666667,
     "verifiedSpecialtyHours": 3.424166666666667,
-    "verifiedFoundationHours": 0.0,
+    "verifiedFoundationHours": 0,
     "hoursGap": 32.575833333333335,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
@@ -3181,7 +3200,7 @@
       ]
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X045_8175f5f8.pdf",
+    "syllabusUrl": "/manus-storage/MED-X045_b04ea904.pdf",
     "pdfIds": [
       "med-syllabus-MED-X045",
       "med-reading-65292464382a",
@@ -3193,7 +3212,7 @@
         "title": "Focus is...",
         "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_t07maz8b?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_t07maz8b",
         "provider": "University of Utah, Department of Anesthesiology, Echocardiography and Perioperative Ultrasound",
-        "durationSeconds": 1947.0,
+        "durationSeconds": 1947,
         "sourceUrl": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_t07maz8b?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_t07maz8b",
         "accessVerified": true
       },
@@ -3202,7 +3221,7 @@
         "title": "Basic Anatomy, New",
         "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_phn0l55t?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_phn0l55t",
         "provider": "University of Utah, Department of Anesthesiology, Echocardiography and Perioperative Ultrasound",
-        "durationSeconds": 1601.0,
+        "durationSeconds": 1601,
         "sourceUrl": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_phn0l55t?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_phn0l55t",
         "accessVerified": true
       },
@@ -3211,7 +3230,7 @@
         "title": "7a. FOCUS for LV, Views and Size",
         "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_87w4vimr?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_87w4vimr",
         "provider": "University of Utah, Department of Anesthesiology, Echocardiography and Perioperative Ultrasound",
-        "durationSeconds": 1036.0,
+        "durationSeconds": 1036,
         "sourceUrl": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_87w4vimr?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_87w4vimr",
         "accessVerified": true
       },
@@ -3220,7 +3239,7 @@
         "title": "7b. FoCUS for LV, Global Fx",
         "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_q2yabdk6?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_q2yabdk6",
         "provider": "University of Utah, Department of Anesthesiology, Echocardiography and Perioperative Ultrasound",
-        "durationSeconds": 811.0,
+        "durationSeconds": 811,
         "sourceUrl": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_q2yabdk6?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_q2yabdk6",
         "accessVerified": true
       },
@@ -3229,7 +3248,7 @@
         "title": "7c. FoCUS for LV, Practice",
         "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_fzo5lrsu?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_fzo5lrsu",
         "provider": "University of Utah, Department of Anesthesiology, Echocardiography and Perioperative Ultrasound",
-        "durationSeconds": 1152.0,
+        "durationSeconds": 1152,
         "sourceUrl": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_fzo5lrsu?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_fzo5lrsu",
         "accessVerified": true
       },
@@ -3238,7 +3257,7 @@
         "title": "PoCUS Lung 1",
         "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/0_x09y2f4a?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=0_x09y2f4a",
         "provider": "University of Utah, Department of Anesthesiology, Echocardiography and Perioperative Ultrasound",
-        "durationSeconds": 2036.0,
+        "durationSeconds": 2036,
         "sourceUrl": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/0_x09y2f4a?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=0_x09y2f4a",
         "accessVerified": true
       },
@@ -3247,7 +3266,7 @@
         "title": "PoCUS Lung - Water",
         "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/0_zjofskpl?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=0_zjofskpl",
         "provider": "University of Utah, Department of Anesthesiology, Echocardiography and Perioperative Ultrasound",
-        "durationSeconds": 1289.0,
+        "durationSeconds": 1289,
         "sourceUrl": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/0_zjofskpl?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=0_zjofskpl",
         "accessVerified": true
       },
@@ -3256,7 +3275,7 @@
         "title": "PoCUS DVT",
         "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/0_kj3hg7ov?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=0_kj3hg7ov",
         "provider": "University of Utah, Department of Anesthesiology, Echocardiography and Perioperative Ultrasound",
-        "durationSeconds": 1710.0,
+        "durationSeconds": 1710,
         "sourceUrl": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/0_kj3hg7ov?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=0_kj3hg7ov",
         "accessVerified": true
       },
@@ -3265,7 +3284,7 @@
         "title": "Beyond the Basic - Intro and Parasternal",
         "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/0_jpvhw657?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=0_jpvhw657",
         "provider": "University of Utah, Department of Anesthesiology, Echocardiography and Perioperative Ultrasound",
-        "durationSeconds": 2167.0,
+        "durationSeconds": 2167,
         "sourceUrl": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/0_jpvhw657?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=0_jpvhw657",
         "accessVerified": true
       },
@@ -3274,7 +3293,7 @@
         "title": "Beyond the Basics, Apical",
         "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/0_12755nbi?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=0_12755nbi",
         "provider": "University of Utah, Department of Anesthesiology, Echocardiography and Perioperative Ultrasound",
-        "durationSeconds": 2120.0,
+        "durationSeconds": 2120,
         "sourceUrl": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/0_12755nbi?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=0_12755nbi",
         "accessVerified": true
       },
@@ -3283,8 +3302,62 @@
         "title": "Beyond the Basics, Subcostal",
         "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/0_2a1p0tbe?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=0_2a1p0tbe",
         "provider": "University of Utah, Department of Anesthesiology, Echocardiography and Perioperative Ultrasound",
-        "durationSeconds": 921.0,
+        "durationSeconds": 921,
         "sourceUrl": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/0_2a1p0tbe?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=0_2a1p0tbe",
+        "accessVerified": true
+      },
+      {
+        "id": "UTAH-0_09zlilug",
+        "title": "Ultrasound Physics I",
+        "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/0_09zlilug?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=0_09zlilug",
+        "provider": "University of Utah, Department of Anesthesiology",
+        "durationSeconds": 1655,
+        "sourceUrl": "https://medicine.utah.edu/anesthesiology/echo/lecture-series/video?video=0_09zlilug",
+        "accessVerified": true
+      },
+      {
+        "id": "UTAH-1_zio8vq8w",
+        "title": "Rescue Echo Intro",
+        "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_zio8vq8w?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_zio8vq8w",
+        "provider": "University of Utah, Department of Anesthesiology",
+        "durationSeconds": 1230,
+        "sourceUrl": "https://echo.anesthesia.med.utah.edu/introduction-to-rescue-ultrasound/",
+        "accessVerified": true
+      },
+      {
+        "id": "UTAH-1_k8tvog85",
+        "title": "FoCUS for Rescue, Preload",
+        "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_k8tvog85?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_k8tvog85",
+        "provider": "University of Utah, Department of Anesthesiology",
+        "durationSeconds": 1288,
+        "sourceUrl": "https://echo.anesthesia.med.utah.edu/intro-low-preload-low-afterload/",
+        "accessVerified": true
+      },
+      {
+        "id": "UTAH-1_5tfu0qv1",
+        "title": "FoCUS Rescue, Afterload",
+        "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_5tfu0qv1?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_5tfu0qv1",
+        "provider": "University of Utah, Department of Anesthesiology",
+        "durationSeconds": 798,
+        "sourceUrl": "https://echo.anesthesia.med.utah.edu/focus-for-rescue-low-afterload/",
+        "accessVerified": true
+      },
+      {
+        "id": "UTAH-1_hae1vcl5",
+        "title": "FoCUS for Rescue, DLVOTO",
+        "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_hae1vcl5?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_hae1vcl5",
+        "provider": "University of Utah, Department of Anesthesiology",
+        "durationSeconds": 1362,
+        "sourceUrl": "https://echo.anesthesia.med.utah.edu/dynamic-obstruction/",
+        "accessVerified": true
+      },
+      {
+        "id": "UTAH-1_ipg0ftoq",
+        "title": "FoCUS for Rescue, Tamponade",
+        "url": "https://cdnapisec.kaltura.com/html5/html5lib/v2.86/mwEmbedFrame.php/p/797802/uiconf_id/20021282/entry_id/1_ipg0ftoq?wid=_797802&iframeembed=true&playerId=kaltura_player&entry_id=1_ipg0ftoq",
+        "provider": "University of Utah, Department of Anesthesiology",
+        "durationSeconds": 1319,
+        "sourceUrl": "https://echo.anesthesia.med.utah.edu/focus-for-tamponade/",
         "accessVerified": true
       }
     ],
@@ -3299,7 +3372,9 @@
         "number": 2,
         "text": "Ultrasound physics, image formation, and artifacts",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "UTAH-0_09zlilug"
+        ]
       },
       {
         "number": 3,
@@ -3331,7 +3406,13 @@
         "number": 6,
         "text": "Hemodynamic instability and rescue FoCUS",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "UTAH-1_zio8vq8w",
+          "UTAH-1_k8tvog85",
+          "UTAH-1_5tfu0qv1",
+          "UTAH-1_hae1vcl5",
+          "UTAH-1_ipg0ftoq"
+        ]
       },
       {
         "number": 7,
@@ -3390,11 +3471,11 @@
     ],
     "boardStatus": "A separately named perioperative ultrasound board subspecialty is not listed by ABA or ACGME in the authoritative current pages reviewed. The course maps relevant anesthesia judgment domains rather than a proprietary/fellowship-specific board blueprint.",
     "boardEligibilityNotice": "No separate ABA board examination or board subspecialty named Perioperative Ultrasound is listed on the current ABA subspecialty exams page as reviewed 2026-10-07. The ABA page lists other subspecialties. The named BWH fellowship is not thereby an ABA board credential, ACGME-accredited program, or board-eligibility pathway. Basic/Advanced/Applied refer to core anesthesiology certification, not this fellowship. Verify any current credential or individual eligibility directly with ABA, ACGME and BWH.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 4.663888888888889,
-    "verifiedSpecialtyHours": 3.6783333333333332,
-    "verifiedFoundationHours": 0.9855555555555555,
-    "hoursGap": 31.336111111111112,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 6.789444444444444,
+    "verifiedSpecialtyHours": 5.344166666666666,
+    "verifiedFoundationHours": 1.4452777777777779,
+    "hoursGap": 29.210555555555555,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3443,7 +3524,7 @@
         "title": "Introduction to Compression Neuropathies",
         "url": "https://www.youtube.com/watch?v=adtGYpRvaMA",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 1638.0,
+        "durationSeconds": 1638,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3452,7 +3533,7 @@
         "title": "Thoracic Outlet Syndrome",
         "url": "https://www.youtube.com/watch?v=RHlFURi5kJA",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 787.0,
+        "durationSeconds": 787,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3461,7 +3542,7 @@
         "title": "Cubital Tunnel Syndrome",
         "url": "https://www.youtube.com/watch?v=rvQe-OBoD2M",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 2225.0,
+        "durationSeconds": 2225,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3470,7 +3551,7 @@
         "title": "Carpal Tunnel Syndrome",
         "url": "https://www.youtube.com/watch?v=BZTnO_Ghwyc",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 1031.0,
+        "durationSeconds": 1031,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3479,7 +3560,7 @@
         "title": "Introduction and Indications for Nerve Transfers",
         "url": "https://www.youtube.com/watch?v=ka9ItOpiXQU",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 789.0,
+        "durationSeconds": 789,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3488,7 +3569,7 @@
         "title": "Nerve Transfers for Radial Nerve Injuries",
         "url": "https://www.youtube.com/watch?v=uacJJfKZDVs",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 1185.0,
+        "durationSeconds": 1185,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3497,7 +3578,7 @@
         "title": "Nerve Transfers for Median Nerve Injuries",
         "url": "https://www.youtube.com/watch?v=r3Hxtl9wJjk",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 1281.0,
+        "durationSeconds": 1281,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3506,7 +3587,7 @@
         "title": "Nerve Transfers for Ulnar Nerve Injuries",
         "url": "https://www.youtube.com/watch?v=xRfWo_60rjs",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 1137.0,
+        "durationSeconds": 1137,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3515,7 +3596,7 @@
         "title": "Sensory Nerve Transfers for Hand Function",
         "url": "https://www.youtube.com/watch?v=DqFGLGQGe3M",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 1781.0,
+        "durationSeconds": 1781,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3524,7 +3605,7 @@
         "title": "Brachial Plexus Reconstruction",
         "url": "https://www.youtube.com/watch?v=y7_maWNSl_M",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 2779.0,
+        "durationSeconds": 2779,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3533,7 +3614,7 @@
         "title": "Nerve Transfers for Shoulder and Elbow Function",
         "url": "https://www.youtube.com/watch?v=896kT_Nrnac",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 3515.0,
+        "durationSeconds": 3515,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3542,7 +3623,7 @@
         "title": "Strategies of Peripheral Nerve Surgery",
         "url": "https://www.youtube.com/watch?v=59OoOBq6JFs",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 3180.0,
+        "durationSeconds": 3180,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3551,7 +3632,7 @@
         "title": "Surgeon as a Perpetual Learner: Nerve Cases I Have Learned Most From",
         "url": "https://www.youtube.com/watch?v=nhfZvKqYSaE",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 1478.0,
+        "durationSeconds": 1478,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3560,7 +3641,7 @@
         "title": "Supercharge End-to-side Nerve Transfers",
         "url": "https://www.youtube.com/watch?v=Bh5aRduLxsE",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 1591.0,
+        "durationSeconds": 1591,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3569,7 +3650,7 @@
         "title": "Median to Radial Nerve Transfers",
         "url": "https://www.youtube.com/watch?v=Qh27Y0lf0vc",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 983.0,
+        "durationSeconds": 983,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3578,7 +3659,7 @@
         "title": "Jumping the Nerve Gap",
         "url": "https://www.youtube.com/watch?v=QdB-lxm8OFA",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 1185.0,
+        "durationSeconds": 1185,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3587,7 +3668,7 @@
         "title": "2014 CRN – Peripheral Nerve Surgery",
         "url": "https://www.youtube.com/watch?v=Dlmkg_8GfHw",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 4428.0,
+        "durationSeconds": 4428,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3596,7 +3677,7 @@
         "title": "2014 CRN – Compression Neuropathies",
         "url": "https://www.youtube.com/watch?v=l_Cnw-uL5OQ",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 5056.0,
+        "durationSeconds": 5056,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3605,7 +3686,7 @@
         "title": "2014 CRN – Brachial Plexus Lesions",
         "url": "https://www.youtube.com/watch?v=LCXloWZjkEU",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 2498.0,
+        "durationSeconds": 2498,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3614,7 +3695,7 @@
         "title": "2014 CRN – Nerve Transfers for the Shoulder and Elbow",
         "url": "https://www.youtube.com/watch?v=D4_Ykgfqmdc",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 3124.0,
+        "durationSeconds": 3124,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3623,7 +3704,7 @@
         "title": "2014 CRN – Nerve Transfers for the Hand",
         "url": "https://www.youtube.com/watch?v=cN-O4uTM0zw",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 5334.0,
+        "durationSeconds": 5334,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3632,7 +3713,7 @@
         "title": "Nerve Entrapment – 2013 CME Update",
         "url": "https://www.youtube.com/watch?v=JDqSQK5do1E",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 1332.0,
+        "durationSeconds": 1332,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3641,7 +3722,7 @@
         "title": "2012 CRN – Brachial Plexus Lesions",
         "url": "https://www.youtube.com/watch?v=hTUV2uAjbao",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 5103.0,
+        "durationSeconds": 5103,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3650,7 +3731,7 @@
         "title": "2012 CRN – Acute Nerve Injury and Repair",
         "url": "https://www.youtube.com/watch?v=p00FvL-Gchw",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 2316.0,
+        "durationSeconds": 2316,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3659,7 +3740,7 @@
         "title": "2012 CRN – Acute Nerve Injury and Repair: Nerve Transfers in the Hand",
         "url": "https://www.youtube.com/watch?v=lPCOl_y8Ch4",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 3391.0,
+        "durationSeconds": 3391,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3668,7 +3749,7 @@
         "title": "Transmuscular Ulnar Nerve Transposition",
         "url": "https://www.youtube.com/watch?v=BvcGnGI1afc",
         "provider": "WUSTL Learn Surgery / Washington University in St. Louis",
-        "durationSeconds": 612.0,
+        "durationSeconds": 612,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLCendnjQGUDoveHjwnCH6WPzNAQJ3epTF",
         "accessVerified": true
       },
@@ -3677,7 +3758,7 @@
         "title": "Fibular free flap",
         "url": "https://www.youtube.com/watch?v=dkJ8XRFziJc",
         "provider": "Mayo Clinic",
-        "durationSeconds": 1212.0,
+        "durationSeconds": 1212,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3686,7 +3767,7 @@
         "title": "Radius Free Flap Harvest and Plating",
         "url": "https://www.youtube.com/watch?v=Mt-VgTPOZvw",
         "provider": "American Head and Neck Society",
-        "durationSeconds": 363.0,
+        "durationSeconds": 363,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3695,7 +3776,7 @@
         "title": "Latissimus dorsi free flap",
         "url": "https://www.youtube.com/watch?v=-9rB4Te67UY",
         "provider": "Mayo Clinic",
-        "durationSeconds": 1714.0,
+        "durationSeconds": 1714,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3704,7 +3785,7 @@
         "title": "RASP. radial artery superficial palmar branch free flap",
         "url": "https://www.youtube.com/watch?v=sAJY1P6vges",
         "provider": "HyunsikPark. MD.",
-        "durationSeconds": 249.0,
+        "durationSeconds": 249,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3713,7 +3794,7 @@
         "title": "How to Harvest the Anterolateral Thigh Free Flap.",
         "url": "https://www.youtube.com/watch?v=LUGR4u35fA4",
         "provider": "Jurnal Plastik Rekonstruksi (JPRJournal)",
-        "durationSeconds": 591.0,
+        "durationSeconds": 591,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3722,7 +3803,7 @@
         "title": "Lateral Arm Free Flap Harvest - Standard (Feat. Dr. Pet)",
         "url": "https://www.youtube.com/watch?v=L-MemQw7iYI",
         "provider": "WUSTL Learn Surgery",
-        "durationSeconds": 1158.0,
+        "durationSeconds": 1158,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3731,7 +3812,7 @@
         "title": "Microsurgery - Double free flap with Fibula and ALT - Head and Neck Reconstruction",
         "url": "https://www.youtube.com/watch?v=El3-xeTlNCI",
         "provider": "Dr. Laurent Ganry",
-        "durationSeconds": 610.0,
+        "durationSeconds": 610,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3740,7 +3821,7 @@
         "title": "How to Harvest the Free Fibula Flap",
         "url": "https://www.youtube.com/watch?v=237tbvHKQY4",
         "provider": "Jurnal Plastik Rekonstruksi (JPRJournal)",
-        "durationSeconds": 568.0,
+        "durationSeconds": 568,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3749,7 +3830,7 @@
         "title": "MSM2 - Marco Innocenti - Proximal fibula free flap / Dissection and Surgical Technique",
         "url": "https://www.youtube.com/watch?v=5m8QvLXxYIA",
         "provider": "Master Series: Microsurgery for Residents",
-        "durationSeconds": 1266.0,
+        "durationSeconds": 1266,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3758,7 +3839,7 @@
         "title": "Lateral Arm Free Flap Harvest - Extended (Feat. Dr. Pet)",
         "url": "https://www.youtube.com/watch?v=iKAOOFxcCHc",
         "provider": "WUSTL Learn Surgery",
-        "durationSeconds": 2563.0,
+        "durationSeconds": 2563,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3767,7 +3848,7 @@
         "title": "Gracilis Myocutaneous Free Flap",
         "url": "https://www.youtube.com/watch?v=T7khRMLDrTA",
         "provider": "American Head and Neck Society",
-        "durationSeconds": 264.0,
+        "durationSeconds": 264,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3776,7 +3857,7 @@
         "title": "DIEP Flap Breast Reconstruction Surgery at MedStar Franklin Square Medical Center.",
         "url": "https://www.youtube.com/watch?v=sqNrTvvEbOA",
         "provider": "MedStar Health",
-        "durationSeconds": 1095.0,
+        "durationSeconds": 1095,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3785,7 +3866,7 @@
         "title": "Free Functioning Muscle Transfer (FFMT) (Gracilis) for Brachial Plexus injuries",
         "url": "https://www.youtube.com/watch?v=yoyqgI__iA8",
         "provider": "GK Hand Surgery",
-        "durationSeconds": 1133.0,
+        "durationSeconds": 1133,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3794,7 +3875,7 @@
         "title": "Latissimus Dorsii flap Harvesting",
         "url": "https://www.youtube.com/watch?v=aax39BIoqcU",
         "provider": "Dr Hardeep Aulakh",
-        "durationSeconds": 1035.0,
+        "durationSeconds": 1035,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3803,7 +3884,7 @@
         "title": "Microsurgery - Radial Forearm Free Flap and its 2 Venous Systems - Head and Neck Surgery",
         "url": "https://www.youtube.com/watch?v=Ftv06MXMrN4",
         "provider": "Dr. Laurent Ganry",
-        "durationSeconds": 587.0,
+        "durationSeconds": 587,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3812,7 +3893,7 @@
         "title": "Radial forearm free flap with venous flux redirection",
         "url": "https://www.youtube.com/watch?v=mLEOCMDn3io",
         "provider": "ENT Learning",
-        "durationSeconds": 1006.0,
+        "durationSeconds": 1006,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3821,7 +3902,7 @@
         "title": "Free Fibula flap harvest",
         "url": "https://www.youtube.com/watch?v=9mDpcvDfR64",
         "provider": "learn head & neck surgery",
-        "durationSeconds": 515.0,
+        "durationSeconds": 515,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL-d5BBgQF75VWSkbvEq6mfYI--9579oPK",
         "accessVerified": true
       },
@@ -3830,7 +3911,7 @@
         "title": "Surgery: Total Rhinectomy Reconstruction in 5 stages [801] Surgery Full Length",
         "url": "https://www.youtube.com/watch?v=6fBoWi6azOM",
         "provider": "Facial Reconstruction & Trauma Surgical Atlas",
-        "durationSeconds": 3683.0,
+        "durationSeconds": 3683,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL8U5oEY8A_aHqYxklgmVfNqmM-_h63rwV",
         "accessVerified": true
       },
@@ -3839,7 +3920,7 @@
         "title": "Surgery: Simplified Fibula Flap Harvesting: Guide for Beginner Flap Surgeons! [603A] Surgery",
         "url": "https://www.youtube.com/watch?v=J6vZ4TL_MtM",
         "provider": "Facial Reconstruction & Trauma Surgical Atlas",
-        "durationSeconds": 2182.0,
+        "durationSeconds": 2182,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL8U5oEY8A_aHqYxklgmVfNqmM-_h63rwV",
         "accessVerified": true
       },
@@ -3848,7 +3929,7 @@
         "title": "Posterior Maxillectomy Recon: KLS Maxillary IPS Preprosthetic & Radial FF",
         "url": "https://www.youtube.com/watch?v=DepwbBmfm54",
         "provider": "Facial Reconstruction & Trauma Surgical Atlas",
-        "durationSeconds": 826.0,
+        "durationSeconds": 826,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL8U5oEY8A_aHqYxklgmVfNqmM-_h63rwV",
         "accessVerified": true
       },
@@ -3857,7 +3938,7 @@
         "title": "Debulking Radiated Free Flaps: Practical Guide with Examples",
         "url": "https://www.youtube.com/watch?v=xoVvXnRlIkA",
         "provider": "Facial Reconstruction & Trauma Surgical Atlas",
-        "durationSeconds": 447.0,
+        "durationSeconds": 447,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL8U5oEY8A_aHqYxklgmVfNqmM-_h63rwV",
         "accessVerified": true
       },
@@ -3866,7 +3947,7 @@
         "title": "Extended Condylectomy Defect Reconstruction: Fibula Flap vs. TMJ Prosthesis",
         "url": "https://www.youtube.com/watch?v=gIuR-2hyrrU",
         "provider": "Facial Reconstruction & Trauma Surgical Atlas",
-        "durationSeconds": 1053.0,
+        "durationSeconds": 1053,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL8U5oEY8A_aHqYxklgmVfNqmM-_h63rwV",
         "accessVerified": true
       },
@@ -3875,7 +3956,7 @@
         "title": "Fibula Flap Donor Site Closure: Skin Graft & Negative Pressure Dressing - Avoid Complications!",
         "url": "https://www.youtube.com/watch?v=VdX7AesWu04",
         "provider": "Facial Reconstruction & Trauma Surgical Atlas",
-        "durationSeconds": 279.0,
+        "durationSeconds": 279,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL8U5oEY8A_aHqYxklgmVfNqmM-_h63rwV",
         "accessVerified": true
       },
@@ -3884,7 +3965,7 @@
         "title": "Total Rhinectomy & Maxillectomy Reconstruction Treatment Algorithm: Key Concepts",
         "url": "https://www.youtube.com/watch?v=I7Wcvwx6s-s",
         "provider": "Facial Reconstruction & Trauma Surgical Atlas",
-        "durationSeconds": 609.0,
+        "durationSeconds": 609,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL8U5oEY8A_aHqYxklgmVfNqmM-_h63rwV",
         "accessVerified": true
       },
@@ -3893,7 +3974,7 @@
         "title": "Anterolateral Thigh Free Flap Harvest & Closure",
         "url": "https://www.youtube.com/watch?v=vd1JE2fxdL0",
         "provider": "Facial Reconstruction & Trauma Surgical Atlas",
-        "durationSeconds": 2175.0,
+        "durationSeconds": 2175,
         "sourceUrl": "https://www.youtube.com/playlist?list=PL8U5oEY8A_aHqYxklgmVfNqmM-_h63rwV",
         "accessVerified": true
       },
@@ -3902,7 +3983,7 @@
         "title": "Reconstructive Microsurgery: Training and Clinical Application – Webinar 11.4.20",
         "url": "https://www.youtube.com/watch?v=A8Dhbo5t_Rs",
         "provider": "Columbia Orthopedics",
-        "durationSeconds": 5193.0,
+        "durationSeconds": 5193,
         "sourceUrl": "https://www.youtube.com/watch?v=A8Dhbo5t_Rs",
         "accessVerified": true
       },
@@ -3911,7 +3992,7 @@
         "title": "ION 304. ZOOM lecture, Moore: Nerve Transfer 19.12.22",
         "url": "https://www.youtube.com/watch?v=QnX47KVH4BA",
         "provider": "İzmir Online Neurosurgery; expert-led neurosurgical lecture channel",
-        "durationSeconds": 4355.0,
+        "durationSeconds": 4355,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLLpsiOhFR8xxrMVBr3bmEJDNT_gPHmo4_",
         "accessVerified": true
       },
@@ -3920,7 +4001,7 @@
         "title": "İON 348. lecture, Özçakar: Ultrasound Imaging & Guidance for Peripheral Nerve Pathologies 22.05.2023",
         "url": "https://www.youtube.com/watch?v=rAZVUY-oL5M",
         "provider": "İzmir Online Neurosurgery; expert-led neurosurgical lecture channel",
-        "durationSeconds": 6338.0,
+        "durationSeconds": 6338,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLLpsiOhFR8xxrMVBr3bmEJDNT_gPHmo4_",
         "accessVerified": true
       },
@@ -3929,7 +4010,7 @@
         "title": "İON 334. ZOOM lecture, Ring: Carpal Tunnel Syndrome 03.04.23",
         "url": "https://www.youtube.com/watch?v=KXmDa5DOz5g",
         "provider": "İzmir Online Neurosurgery; expert-led neurosurgical lecture channel",
-        "durationSeconds": 3266.0,
+        "durationSeconds": 3266,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLLpsiOhFR8xxrMVBr3bmEJDNT_gPHmo4_",
         "accessVerified": true
       },
@@ -3938,7 +4019,7 @@
         "title": "Peripheral Nerve Imaging with focus on inflammatory neuropathies",
         "url": "https://www.youtube.com/watch?v=P2F3ANqxc9o",
         "provider": "European Reference Network EURO-NMD webinar, with Radboud University Medical Center and University Medical Center Utrecht faculty",
-        "durationSeconds": 4185.0,
+        "durationSeconds": 4185,
         "sourceUrl": "https://ern-euro-nmd.eu/event/peripheral-nerve-imaging-with-focus-on-inflammatory-neuropathies/",
         "accessVerified": true
       },
@@ -3947,7 +4028,7 @@
         "title": "Nerve Transfer for Cervical Spinal Cord Injury - A Surgical Strategy to Enhance Upper Limb Function",
         "url": "https://www.youtube.com/watch?v=a8WGY1p2svA",
         "provider": "Global Nerve Foundation; peripheral nerve educational webinar",
-        "durationSeconds": 3170.0,
+        "durationSeconds": 3170,
         "sourceUrl": "https://www.youtube.com/@globalnervefoundation/videos",
         "accessVerified": true
       },
@@ -3956,7 +4037,7 @@
         "title": "PRS Grand Rounds: TMR for the Treatment of Painful Neuromas",
         "url": "https://www.youtube.com/watch?v=MNj8IeDe2F4",
         "provider": "Plastic and Reconstructive Surgery (PRS) Journal / American Society of Plastic Surgeons official journal channel",
-        "durationSeconds": 3464.0,
+        "durationSeconds": 3464,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLGj_TnyPrYXQIReEMeo_1Mc49PbyMTSSz",
         "accessVerified": true
       },
@@ -3965,7 +4046,7 @@
         "title": "PRS Grand Rounds: Virtual Surgical Planning in Head and Neck Reconstruction",
         "url": "https://www.youtube.com/watch?v=-usCFduxTV8",
         "provider": "Plastic and Reconstructive Surgery (PRS) Journal / American Society of Plastic Surgeons official journal channel",
-        "durationSeconds": 2908.0,
+        "durationSeconds": 2908,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLGj_TnyPrYXQIReEMeo_1Mc49PbyMTSSz",
         "accessVerified": true
       },
@@ -3974,7 +4055,7 @@
         "title": "Peripheral Nerve Ultrasound Imaging in the Management of Nerve Trauma",
         "url": "https://www.youtube.com/watch?v=hrjhY4RZUTA",
         "provider": "Global Nerve Foundation; peripheral nerve educational webinar",
-        "durationSeconds": 3241.0,
+        "durationSeconds": 3241,
         "sourceUrl": "https://www.youtube.com/@globalnervefoundation/videos",
         "accessVerified": true
       },
@@ -3983,7 +4064,7 @@
         "title": "Acute and Chronic Peripheral Nerve Injuries - Treatment Options | NYU Langone Orthopedics Webinar",
         "url": "https://www.youtube.com/watch?v=sdQy9tp7W7s",
         "provider": "NYU Langone Orthopedics Webinar (NewYorkOrtho channel)",
-        "durationSeconds": 5886.0,
+        "durationSeconds": 5886,
         "sourceUrl": "https://www.youtube.com/watch?v=sdQy9tp7W7s",
         "accessVerified": true
       }
@@ -4175,7 +4256,7 @@
     ],
     "boardStatus": "No separate ABMS-listed microsurgery or peripheral-nerve certificate/examination identified as of 2026-10-07. The applicable primary board follows prior specialty training. A separate hand-surgery subspecialty examination/certificate exists on qualified routes; it requires its own board, case and ACGME-accredited 12-month hand-fellowship conditions. Do not infer such eligibility from the MGB fellowship.",
     "boardEligibilityNotice": "MGB lists plastic surgery, orthopaedic surgery or neurosurgery residency (or equivalent surgical training) as applicant background. It does not state a board exam, ACGME accreditation ID, hand-surgery certification pathway, or outcome guarantee. Verify eligibility with the relevant board/program.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 35.818888888888885,
     "verifiedSpecialtyHours": 34.65638888888889,
     "verifiedFoundationHours": 1.1625,
@@ -4214,7 +4295,7 @@
         "title": "Overview of 16 common skin flaps in Head and Neck surgery",
         "url": "https://www.youtube.com/watch?v=fkLjnIFOqbw",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 1881.0,
+        "durationSeconds": 1881,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4223,7 +4304,7 @@
         "title": "Flaps in Head and Neck surgery",
         "url": "https://www.youtube.com/watch?v=QGRtJ1IK_tY",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 2676.0,
+        "durationSeconds": 2676,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4232,7 +4313,7 @@
         "title": "Overview of 12 Plastic Surgery Reconstruction Techniques in Head and Neck",
         "url": "https://www.youtube.com/watch?v=7eawUTZSLzs",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 1518.0,
+        "durationSeconds": 1518,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4241,7 +4322,7 @@
         "title": "Pectoralis major muscle flap and delto-pectoral skin flap",
         "url": "https://www.youtube.com/watch?v=FHvQwxUvOR8",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 845.0,
+        "durationSeconds": 845,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4250,7 +4331,7 @@
         "title": "Interpolated flaps: Paramedian Forehead Flap",
         "url": "https://www.youtube.com/watch?v=NyjopwZh4_0",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 753.0,
+        "durationSeconds": 753,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4259,7 +4340,7 @@
         "title": "Multiple flaps in Large surgical defects",
         "url": "https://www.youtube.com/watch?v=DiC7fLqwy84",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 1105.0,
+        "durationSeconds": 1105,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4268,7 +4349,7 @@
         "title": "The 'Note' flap in Head and Neck reconstruction",
         "url": "https://www.youtube.com/watch?v=YUpYJ2pgonI",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 536.0,
+        "durationSeconds": 536,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4277,7 +4358,7 @@
         "title": "Bilobed flaps in Facial surgery",
         "url": "https://www.youtube.com/watch?v=7jR71lwK56Q",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 658.0,
+        "durationSeconds": 658,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4286,7 +4367,7 @@
         "title": "Dufourmental, Webster, Diamond and Square peg Rhomboid flaps",
         "url": "https://www.youtube.com/watch?v=0LNx4_tIkE0",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 594.0,
+        "durationSeconds": 594,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4295,7 +4376,7 @@
         "title": "Limberg Rhomboid Flaps in Head and Neck reconstruction",
         "url": "https://www.youtube.com/watch?v=l5dPsPzGHfU",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 741.0,
+        "durationSeconds": 741,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4304,7 +4385,7 @@
         "title": "East-West flaps in Head and Neck Reconstruction",
         "url": "https://www.youtube.com/watch?v=vuEfqAII2s0",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 577.0,
+        "durationSeconds": 577,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4313,7 +4394,7 @@
         "title": "Rotation Flaps in Head and Neck reconstruction",
         "url": "https://www.youtube.com/watch?v=Uk0S0sMIzoQ",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 550.0,
+        "durationSeconds": 550,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4322,7 +4403,7 @@
         "title": "A-T Plasty: Avoiding Landmark distortion",
         "url": "https://www.youtube.com/watch?v=jk_XDr-mLZk",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 533.0,
+        "durationSeconds": 533,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4331,7 +4412,7 @@
         "title": "Island flap and V-Y plasty",
         "url": "https://www.youtube.com/watch?v=osdf2yS_eE8",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 788.0,
+        "durationSeconds": 788,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4340,7 +4421,7 @@
         "title": "Burrow’s Triangles: Avoiding trap-door deformity",
         "url": "https://www.youtube.com/watch?v=Q1RgKY4V3DU",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 806.0,
+        "durationSeconds": 806,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4349,7 +4430,7 @@
         "title": "Bipedicle Advancement flaps in Head and Neck Surgery",
         "url": "https://www.youtube.com/watch?v=B0kxKIHqH9A",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 834.0,
+        "durationSeconds": 834,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4358,7 +4439,7 @@
         "title": "Single pedicle Advancement Facial flaps",
         "url": "https://www.youtube.com/watch?v=siJCKprPqn4",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 877.0,
+        "durationSeconds": 877,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4367,7 +4448,7 @@
         "title": "Facial flaps—The Basics",
         "url": "https://www.youtube.com/watch?v=zMGK2ehoxAs",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 1342.0,
+        "durationSeconds": 1342,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4376,7 +4457,7 @@
         "title": "Four-Flaps Multiple Z plasties",
         "url": "https://www.youtube.com/watch?v=6R9D9aG-_oo",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 548.0,
+        "durationSeconds": 548,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4385,7 +4466,7 @@
         "title": "Double opposing Z plasty",
         "url": "https://www.youtube.com/watch?v=4wzpn-m6D4s",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 614.0,
+        "durationSeconds": 614,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4394,7 +4475,7 @@
         "title": "Why multiple Z plasties may be needed?",
         "url": "https://www.youtube.com/watch?v=5yyORwsJDJw",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 742.0,
+        "durationSeconds": 742,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4403,7 +4484,7 @@
         "title": "Curvelinear Z plasty",
         "url": "https://www.youtube.com/watch?v=cHeW7zzHcbg",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 343.0,
+        "durationSeconds": 343,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4412,7 +4493,7 @@
         "title": "Unequal angles Z-plasty",
         "url": "https://www.youtube.com/watch?v=hwWviYvo3b4",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 281.0,
+        "durationSeconds": 281,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4421,7 +4502,7 @@
         "title": "The Z-plasty",
         "url": "https://www.youtube.com/watch?v=jkbGfZa6GFU",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 537.0,
+        "durationSeconds": 537,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4430,7 +4511,7 @@
         "title": "The Double S-plasty technique",
         "url": "https://www.youtube.com/watch?v=V8RZcehGBjA",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 415.0,
+        "durationSeconds": 415,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4439,7 +4520,7 @@
         "title": "Correcting dog-ear deformity",
         "url": "https://www.youtube.com/watch?v=Ko3xNl8fwI0",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 907.0,
+        "durationSeconds": 907,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4448,7 +4529,7 @@
         "title": "S-plasty for Surgical defects",
         "url": "https://www.youtube.com/watch?v=QoyWp3T00yM",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 390.0,
+        "durationSeconds": 390,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4457,7 +4538,7 @@
         "title": "M-plasty in Surgical defects",
         "url": "https://www.youtube.com/watch?v=EH46xRTsk9s",
         "provider": "Prof. Magdy Amin Riad (as named in the public playlist/video source)",
-        "durationSeconds": 481.0,
+        "durationSeconds": 481,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLdFtk7ur9WRZawhWDtqng9TMSD47lXL-l",
         "accessVerified": true
       },
@@ -4466,7 +4547,7 @@
         "title": "Facial Trauma and Laceration Repair | Fellow Online Lecture Series",
         "url": "https://www.youtube.com/watch?v=lHjesLubB5w",
         "provider": "The AMSSM; Roberto Martinez, MD; Alberto Oseguera, MD moderator",
-        "durationSeconds": 2658.0,
+        "durationSeconds": 2658,
         "sourceUrl": "https://www.youtube.com/watch?v=lHjesLubB5w",
         "accessVerified": true
       },
@@ -4475,7 +4556,7 @@
         "title": "Facial fractures",
         "url": "https://www.youtube.com/watch?v=rMKwp2HvYw0",
         "provider": "LearnNeuroradiology; Katie Bailey, MD",
-        "durationSeconds": 664.0,
+        "durationSeconds": 664,
         "sourceUrl": "https://www.youtube.com/watch?v=rMKwp2HvYw0",
         "accessVerified": true
       },
@@ -4484,7 +4565,7 @@
         "title": "CT (computed tomography) face radiology search pattern",
         "url": "https://www.youtube.com/watch?v=FvbusV4LE3E",
         "provider": "LearnNeuroradiology; Brent Weinberg, MD",
-        "durationSeconds": 1057.0,
+        "durationSeconds": 1057,
         "sourceUrl": "https://www.youtube.com/watch?v=FvbusV4LE3E",
         "accessVerified": true
       },
@@ -4493,7 +4574,7 @@
         "title": "ZMC, NOE, Le Fort 1 Fx CT Review, Surgical Planning OR Q&A [601A] Didactic",
         "url": "https://www.youtube.com/watch?v=tYTmKi7s778",
         "provider": "Facial Reconstruction & Trauma Surgical Atlas; Kathryn Bradburn, MD; Nima Vahidi, MD; Derek Sheen, MD; Thomas S. Lee, MD",
-        "durationSeconds": 929.0,
+        "durationSeconds": 929,
         "sourceUrl": "https://www.youtube.com/watch?v=tYTmKi7s778",
         "accessVerified": true
       },
@@ -4502,7 +4583,7 @@
         "title": "Lecture: Orbital Trauma: Rethinking Surgical Indications, Timelines, and How to Plan for Success",
         "url": "https://www.youtube.com/watch?v=EsYUq5wedFQ",
         "provider": "Cybersight; lecturer Bradford W. Lee, MD, ophthalmologist/oculofacial plastic surgeon",
-        "durationSeconds": 4590.0,
+        "durationSeconds": 4590,
         "sourceUrl": "https://cybersight.org/library/lecture-orbital-trauma-rethinking-surgical-indications-timelines-and-how-to-plan-for-success/",
         "accessVerified": true
       },
@@ -4511,7 +4592,7 @@
         "title": "PRS Grand Rounds: Virtual Surgical Planning in Head and Neck Reconstruction",
         "url": "https://www.youtube.com/watch?v=-usCFduxTV8",
         "provider": "Plastic and Reconstructive Surgery Journal Grand Rounds; lecturer Matthew Hanasono, MD, Professor and Reconstructive Microsurgery Fellowship Program Director, UT MD Anderson Cancer Center",
-        "durationSeconds": 2908.0,
+        "durationSeconds": 2908,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLGj_TnyPrYXQIReEMeo_1Mc49PbyMTSSz",
         "accessVerified": true
       },
@@ -4520,7 +4601,7 @@
         "title": "#PRSGrandRounds: Animating the Paralyzed Face",
         "url": "https://www.youtube.com/watch?v=HrRVj2TbuJs",
         "provider": "Plastic and Reconstructive Surgery Journal Grand Rounds; lecturer Alison Snyder-Warwick, MD",
-        "durationSeconds": 2642.0,
+        "durationSeconds": 2642,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLGj_TnyPrYXQIReEMeo_1Mc49PbyMTSSz",
         "accessVerified": true
       },
@@ -4529,7 +4610,7 @@
         "title": "Recon 'Round The World: Flap Reconstruction in H&N Cancer: Functional & Aesthetic Considerations",
         "url": "https://www.youtube.com/watch?v=Hq5F_6vNx0c",
         "provider": "American Head and Neck Society Reconstructive Head & Neck Surgery Section; multi-speaker society webinar",
-        "durationSeconds": 4035.0,
+        "durationSeconds": 4035,
         "sourceUrl": "https://www.youtube.com/@HeadAndNeckCancer",
         "accessVerified": true
       },
@@ -4538,7 +4619,7 @@
         "title": "Sight + Sound Bites: Head and Neck Reconstruction: Past, Present, and Future",
         "url": "https://www.youtube.com/watch?v=lyKCMTRt0es",
         "provider": "University of Pittsburgh School of Medicine / Ionia Foundation Sight + Sound Bites; lecturer Mark W. Kubik, MD, faculty in Otolaryngology and Plastic Surgery",
-        "durationSeconds": 3101.0,
+        "durationSeconds": 3101,
         "sourceUrl": "https://www.youtube.com/watch?v=lyKCMTRt0es",
         "accessVerified": true
       },
@@ -4547,7 +4628,7 @@
         "title": "Electric Stimulation for Facial Paralysis (Graphic)",
         "url": "https://www.youtube.com/watch?v=u7NraFW8cEA",
         "provider": "Cleveland Clinic Head and Neck Live; guest lecturer Myriam Loyo Li, MD, MCR, Oregon Health & Science University",
-        "durationSeconds": 2287.0,
+        "durationSeconds": 2287,
         "sourceUrl": "https://www.youtube.com/playlist?list=PLMG0zKOgNqNk_GxbMpuW1YOGifwGhdZ6T",
         "accessVerified": true
       }
@@ -4703,7 +4784,7 @@
     ],
     "boardStatus": "ACGME currently lists Craniofacial Plastic Surgery as a plastic-surgery subspecialty. The public MGB page describes a 12-month fellowship but does not itself establish this programme’s ACGME accreditation. No separate craniofacial board examination/certificate was identified: ABPS publishes primary plastic-surgery written/oral exams; a 2020 review also states no formal craniofacial certification. Re-check board rules before use. This is not board exam prep.",
     "boardEligibilityNotice": "Completion of plastic surgery residency is the stated MGB applicant requirement, not a promise of eligibility for any board. ABPS alone determines ABPS eligibility. This course confers no eligibility, certification or credential.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 12.52361111111111,
     "verifiedSpecialtyHours": 9.90611111111111,
     "verifiedFoundationHours": 2.6175,
@@ -4750,7 +4831,7 @@
         "title": "Microvascular Anastomosis Tips and Techniques [long version]",
         "url": "https://www.youtube.com/watch?v=XuPcLz5Uwjc",
         "provider": "Michael Pickett APRN, MSN, CPNP YouTube channel; presenters Christopher Pederson, MD and Edward Reece, MD; source description identifies Texas Children’s Hospital Hand and Microvascular/Plastic Surgery Section",
-        "durationSeconds": 3275.0,
+        "durationSeconds": 3275,
         "sourceUrl": "https://www.youtube.com/watch?v=XuPcLz5Uwjc",
         "accessVerified": true
       },
@@ -4759,7 +4840,7 @@
         "title": "PRS Grand Rounds: Breast Reconstruction in Patients with a Genetic Predisposition to Breast Cancer",
         "url": "https://www.youtube.com/watch?v=K4eMtR4G89I",
         "provider": "PRSJournal YouTube channel; PRS Grand Rounds; Joseph J. Disa, MD is identified as presenter in the PRS/playlist sources",
-        "durationSeconds": 2657.0,
+        "durationSeconds": 2657,
         "sourceUrl": "https://www.youtube.com/watch?v=K4eMtR4G89I",
         "accessVerified": true
       },
@@ -4768,7 +4849,7 @@
         "title": "#PRSGrandRounds Live: Pre-Pectoral Breast Reconstruction",
         "url": "https://www.youtube.com/watch?v=u0iJqbn2reY",
         "provider": "PRSJournal YouTube channel (playlist publisher verified); presenter not surfaced in watch-page extraction",
-        "durationSeconds": 2146.0,
+        "durationSeconds": 2146,
         "sourceUrl": "https://www.youtube.com/watch?v=u0iJqbn2reY",
         "accessVerified": true
       },
@@ -4777,7 +4858,7 @@
         "title": "PRSGrandRounds Live—Breast Implant ALCL: What You Need to Know",
         "url": "https://www.youtube.com/watch?v=VZOgdR4-pHM",
         "provider": "PRSJournal YouTube channel; playlist identifies PRS Grand Rounds; Mark Clemens, MD, FACS identified in source search results",
-        "durationSeconds": 2307.0,
+        "durationSeconds": 2307,
         "sourceUrl": "https://www.youtube.com/watch?v=VZOgdR4-pHM",
         "accessVerified": true
       },
@@ -4786,7 +4867,7 @@
         "title": "Understanding the Breast Reconstructive “Ladder”",
         "url": "https://www.youtube.com/watch?v=00RdG7EjjMs",
         "provider": "Johns Hopkins Medicine Health On-Demand seminar, featuring Wendy Chen, MD, MS and Nima Khavanin, MD; hosted on YouTube",
-        "durationSeconds": 3567.0,
+        "durationSeconds": 3567,
         "sourceUrl": "https://www.youtube.com/watch?v=00RdG7EjjMs",
         "accessVerified": true
       },
@@ -4813,7 +4894,7 @@
         "title": "Reconstruction Options After Breast Cancer",
         "url": "https://www.youtube.com/watch?v=Tjmo8Pl_OwM",
         "provider": "Breastcancer.org YouTube channel; webinar interview by Marisa Weiss, MD, with Clara Lee, MD, MPP, FACS and Sarosh Zafar, MD",
-        "durationSeconds": 3546.0,
+        "durationSeconds": 3546,
         "sourceUrl": "https://www.youtube.com/watch?v=Tjmo8Pl_OwM",
         "accessVerified": true
       },
@@ -4822,7 +4903,7 @@
         "title": "WVU Medicine Tuesday Talks - Microsurgical Breast Reconstruction",
         "url": "https://www.youtube.com/watch?v=xWskzbhyql4",
         "provider": "WVU Medicine YouTube channel; Dr. Majed Maalouf, plastic and reconstructive surgeon, as identified in the video description",
-        "durationSeconds": 901.0,
+        "durationSeconds": 901,
         "sourceUrl": "https://www.youtube.com/watch?v=xWskzbhyql4",
         "accessVerified": true
       },
@@ -4831,7 +4912,7 @@
         "title": "32- iBreastBook Meets GReTA, Implants vs Flaps",
         "url": "https://www.youtube.com/watch?v=xguyIDtajog",
         "provider": "iBreastBook professional webinar series; event co-presented with GReTA",
-        "durationSeconds": 5405.0,
+        "durationSeconds": 5405,
         "sourceUrl": "https://www.ibreastbook.com/webinars",
         "accessVerified": true
       },
@@ -4840,7 +4921,7 @@
         "title": "73- Implant based reconstruction revisited",
         "url": "https://www.youtube.com/watch?v=B_EVLvtBpBI",
         "provider": "iBreastBook professional webinar series",
-        "durationSeconds": 6747.0,
+        "durationSeconds": 6747,
         "sourceUrl": "https://www.ibreastbook.com/webinars",
         "accessVerified": true
       },
@@ -4849,7 +4930,7 @@
         "title": "67- Nipple Sparing Mastectomy",
         "url": "https://www.youtube.com/watch?v=V_mEWakpBQ0",
         "provider": "iBreastBook professional webinar series; Breastics session with GReTA and collaborating breast-surgery faculty",
-        "durationSeconds": 6755.0,
+        "durationSeconds": 6755,
         "sourceUrl": "https://www.ibreastbook.com/webinars",
         "accessVerified": true
       },
@@ -4858,7 +4939,7 @@
         "title": "75- Radiotherapy",
         "url": "https://www.youtube.com/watch?v=QAPNomaQpZs",
         "provider": "iBreastBook professional webinar series; includes a clinical-oncology presentation from a Barts Hospital breast clinical oncologist and a talk on radiotherapy with oncoplastic surgery",
-        "durationSeconds": 6244.0,
+        "durationSeconds": 6244,
         "sourceUrl": "https://www.ibreastbook.com/webinars",
         "accessVerified": true
       },
@@ -4867,7 +4948,7 @@
         "title": "88- Therapeutic mammoplasty",
         "url": "https://www.youtube.com/watch?v=t2jl6G1yjj0",
         "provider": "iBreastBook professional webinar series; multi-speaker breast-surgery/oncoplastic session",
-        "durationSeconds": 6796.0,
+        "durationSeconds": 6796,
         "sourceUrl": "https://www.ibreastbook.com/webinars",
         "accessVerified": true
       },
@@ -4876,7 +4957,7 @@
         "title": "Professor L. Scott Levin - Buncke Clinic Virtual Visiting Professor, June 9, 2020",
         "url": "https://www.youtube.com/watch?v=69dUBhRExqU",
         "provider": "Buncke Clinic Virtual Visiting Professor Series; professor at the University of Pennsylvania and former president of ASRM/ASRH as described in the series catalog",
-        "durationSeconds": 3979.0,
+        "durationSeconds": 3979,
         "sourceUrl": "https://www.microsurgeon.org/webinars?lecturer=levin&lecturenumber=26",
         "accessVerified": true
       }
@@ -5024,7 +5105,7 @@
     ],
     "boardStatus": "The official MGB offering is a clinical physician fellowship: applicants must have completed a plastic surgery residency, and the page describes sequential two-month apprenticeship blocks with a small number of attendings. The fellowship is not a generic directory label, combined residency, research-only job or non-physician supplement. MGB states that it participates in the San Francisco Match for Microsurgery. ABMS lists ABPS certification in Plastic Surgery and subspecialty certificates in Plastic Surgery Within the Head and Neck and Surgery of the Hand; no separate microsurgery or breast reconstruction certificate/exam is identified on the checked ABMS page. The current ACGME plastic-surgery overview lists Hand Surgery and Craniofacial Plastic Surgery as plastic surgery subspecialties, not microsurgery or breast reconstruction. A 2020 peer-reviewed review described no formal microsurgery certification then; that is a dated secondary source, not a current regulator. No fellowship-specific board exam was located as of the date checked.",
     "boardEligibilityNotice": "A plastic-surgery residency prerequisite does not establish ABPS exam eligibility. Candidates must independently confirm current requirements with ABPS and the programme/match. This course grants no ABPS eligibility, licensure, accredited training, institutional status or board certification and never guarantees passing.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 12.864166666666666,
     "verifiedSpecialtyHours": 10.849166666666667,
     "verifiedFoundationHours": 2.015,

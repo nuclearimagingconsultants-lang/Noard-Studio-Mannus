@@ -19,7 +19,7 @@
       "note": "The 60-hour learner study plan totals only viewing, reading, case/question work, capstone, and retrieval/reflection. Separately, 35.671597 hours of unique original recorded material would still need to be produced to reach the 36-hour video floor; planned clips are not ready videos and production time is not student study time."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X097_634bf9f7.pdf",
+    "syllabusUrl": "/manus-storage/MED-X097_07413112.pdf",
     "pdfIds": [
       "med-syllabus-MED-X097",
       "med-reading-0d1766f8a403",
@@ -47,6 +47,87 @@
         "durationSeconds": 667.413,
         "sourceUrl": "https://players.brightcove.net/3772599298001/ryhhcDoG_default/index.html?videoId=6312717202112",
         "accessVerified": true
+      },
+      {
+        "id": "MED-X097-V003",
+        "title": "Stand STEADI: Fall Prevention in a Geriatric Emergency Department",
+        "url": "https://www.youtube.com/watch?v=77uqmjfQNt4",
+        "provider": "Centers for Disease Control and Prevention (CDC)",
+        "durationSeconds": 215,
+        "sourceUrl": "https://www.youtube.com/watch?v=77uqmjfQNt4",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X097-V004",
+        "title": "Geriatric Emergency: Don't Steamroll Grandma: Geriatric Risk in the ED - Eileen Chu, MD",
+        "url": "https://www.youtube.com/watch?v=Rt4qkSqyqDk",
+        "provider": "University of Maryland School of Medicine Department of Emergency Medicine",
+        "durationSeconds": 1060,
+        "sourceUrl": "https://www.youtube.com/watch?v=Rt4qkSqyqDk",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X097-V005",
+        "title": "Sorting in a Minefield: Geriatric Triage - Robert Flint, MD",
+        "url": "https://www.youtube.com/watch?v=DlPwa-V4rB4",
+        "provider": "University of Maryland School of Medicine Department of Emergency Medicine",
+        "durationSeconds": 1160,
+        "sourceUrl": "https://www.youtube.com/watch?v=DlPwa-V4rB4",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X097-V006",
+        "title": "Acute Coronary Syndrome in the Elderly: When Traditional Teaching Falls Short - Amal Mattu, MD",
+        "url": "https://www.youtube.com/watch?v=oD6KsIMCFSo",
+        "provider": "University of Maryland School of Medicine Department of Emergency Medicine",
+        "durationSeconds": 1247,
+        "sourceUrl": "https://www.youtube.com/watch?v=oD6KsIMCFSo",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X097-V007",
+        "title": "Traumatic Brain Injury in the Elderly: Emergency Medicine Perspective - Mike Abraham, MD, MS",
+        "url": "https://www.youtube.com/watch?v=pM1Bx8GGNK8",
+        "provider": "University of Maryland School of Medicine Department of Emergency Medicine",
+        "durationSeconds": 1156,
+        "sourceUrl": "https://www.youtube.com/watch?v=pM1Bx8GGNK8",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X097-V008",
+        "title": "Geriatric Emergency: Geriatric Orthopedic Emergencies - Brian Corwell, MD",
+        "url": "https://www.youtube.com/watch?v=F3vtCdcWqhU",
+        "provider": "University of Maryland School of Medicine Department of Emergency Medicine",
+        "durationSeconds": 2267,
+        "sourceUrl": "https://www.youtube.com/watch?v=F3vtCdcWqhU",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X097-V009",
+        "title": "Navigating Pain Relief in Geriatric EM - Robert Flint, MD & Ashley Martinelli, PharmD",
+        "url": "https://www.youtube.com/watch?v=_oDSjeuqAL8",
+        "provider": "University of Maryland School of Medicine Department of Emergency Medicine",
+        "durationSeconds": 1332,
+        "sourceUrl": "https://www.youtube.com/watch?v=_oDSjeuqAL8",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X097-V010",
+        "title": "Conversations About the State of Palliative Care in Emergency Medicine - Drs. Schenkel and Gingold",
+        "url": "https://www.youtube.com/watch?v=dyUP7uN007Y",
+        "provider": "University of Maryland School of Medicine Department of Emergency Medicine",
+        "durationSeconds": 1322,
+        "sourceUrl": "https://www.youtube.com/watch?v=dyUP7uN007Y",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X097-V011",
+        "title": "Geriatric Emergency: Calling 911 at 91! EMS and Geriatric Interface - Ben Lawner, DO",
+        "url": "https://www.youtube.com/watch?v=gQ9_PRxAmgw",
+        "provider": "University of Maryland School of Medicine Department of Emergency Medicine",
+        "durationSeconds": 1164,
+        "sourceUrl": "https://www.youtube.com/watch?v=gQ9_PRxAmgw",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -60,13 +141,18 @@
         "number": 2,
         "text": "Initial assessment, baseline, function, frailty and what matters",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-X097-V004",
+          "MED-X097-V005"
+        ]
       },
       {
         "number": 3,
         "text": "Atypical presentations and time-critical illness",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-X097-V006"
+        ]
       },
       {
         "number": 4,
@@ -88,7 +174,11 @@
         "number": 6,
         "text": "Falls, syncope, trauma and occult injury",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-X097-V003",
+          "MED-X097-V007",
+          "MED-X097-V008"
+        ]
       },
       {
         "number": 7,
@@ -100,7 +190,9 @@
         "number": 8,
         "text": "Pain, agitation, wounds and intervention modification",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-X097-V009"
+        ]
       },
       {
         "number": 9,
@@ -112,13 +204,17 @@
         "number": 10,
         "text": "Palliative care, serious illness and goals-concordant decisions",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-X097-V010"
+        ]
       },
       {
         "number": 11,
         "text": "Disposition, transitions, safeguarding and social context",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-X097-V011"
+        ]
       },
       {
         "number": 12,
@@ -134,11 +230,11 @@
     ],
     "boardStatus": "No separate Geriatric Emergency Medicine board examination or ABEM GEM subspecialty certification was found on the current ABEM subspecialty list checked 2026-10-07. The MGH fellowship page targets ABEM-eligible/certified emergency physicians. That describes the underlying EM credential pathway, not GEM board certification. SAEM fellowship approval and ACEP GEDA department accreditation are distinct and do not certify an individual physician.",
     "boardEligibilityNotice": "This independent course does not create ABEM eligibility. MGH describes applicants as ABEM-eligible/certified emergency physicians; verify current eligibility directly with ABEM and programme-specific requirements with MGH. No separate GEM exam is listed. No board success is promised.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 0.32840277777777777,
-    "verifiedSpecialtyHours": 0.32840277777777777,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 35.671597222222225,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 3.3625694444444445,
+    "verifiedSpecialtyHours": 3.3625694444444445,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 32.637430555555554,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -619,11 +715,11 @@
     ],
     "boardStatus": "No separate “Emergency Critical Care Medicine” specialty board exam was identified. Emergency physicians may pursue distinct board pathways in critical care through ABIM/ABEM (IM-CCM), ABA/ABEM (ACCM), ABS/ABEM (Surgical Critical Care), or UCNS neurocritical care; the joint ABEM/ABIM triple board is a separate six-year integrated training route. The institution’s page does not establish any learner’s board eligibility or the specific pathway approved for this MGB track.",
     "boardEligibilityNotice": "Board eligibility is controlled by the relevant board and accredited training pathway. The institutional course listing is not proof of ACGME accreditation or a board-eligible pathway. ABEM states that it credentials eligible emergency physicians for the ABIM-developed/administered IM-CCM exam. Verify current policies directly; no eligibility, certification or exam outcome is promised.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 40.02115888888888,
     "verifiedSpecialtyHours": 37.51971999999999,
     "verifiedFoundationHours": 2.501438888888889,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -778,7 +874,7 @@
         "title": "Embedding Active Learning in Didactics Instruction",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c78ba79a-9c6a-4429-bf8e-b409012fd15e",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4560.0,
+        "durationSeconds": 4560,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -787,7 +883,7 @@
         "title": "Turning Your Teaching into Scholarship: A 5-Step Approach",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7768bf31-c801-465a-99db-b3d9014a6432",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4380.0,
+        "durationSeconds": 4380,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -796,7 +892,7 @@
         "title": "Clinical Coaching: Key Strategies for Aligning Coaching and Assessment",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df9f20c4-f242-42bc-bfc4-b39401439c3d",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 3600.0,
+        "durationSeconds": 3600,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -805,7 +901,7 @@
         "title": "How Doctors Think: Teaching Clinical Reasoning",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d613e549-b10a-40f2-aea9-b3710130fb34",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 3600.0,
+        "durationSeconds": 3600,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -814,7 +910,7 @@
         "title": "Small Teaching",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e1eb8d7a-f282-4454-8bdc-b3390134ff00",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 3060.0,
+        "durationSeconds": 3060,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -823,7 +919,7 @@
         "title": "The Evidence Behind the Assessment: Validity in Medical Education",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49bdc6fd-ab95-442b-8fec-b31c012db259",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 3360.0,
+        "durationSeconds": 3360,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -832,7 +928,7 @@
         "title": "Mastery Learning in Motion: Development and Implementation of a Simulation-Based Mastery Learning Curriculum in the Classroom",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cce2932f-4526-452b-95fa-b31601313b73",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4800.0,
+        "durationSeconds": 4800,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -841,7 +937,7 @@
         "title": "When Silence Isn’t Neutral: A Workshop on Faculty Strategies for Supporting Student Psychological Safety",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=262cfd65-ab99-4a61-b884-b2fa0131fbb5",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4260.0,
+        "durationSeconds": 4260,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -850,7 +946,7 @@
         "title": "Practical Methods for Investigating Your Teaching - A Guide to the Scholarship of Teaching and Learning (SoTL)",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=429488e5-a743-4812-bef9-b2d7012dc791",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4620.0,
+        "durationSeconds": 4620,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -859,7 +955,7 @@
         "title": "Examining Medical Education Curricula on the Social Determinants of Health Using NASEM's 5 A's Framework",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb31abc6-fcd3-4edd-8c72-b2bb01306ecb",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 3420.0,
+        "durationSeconds": 3420,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -868,7 +964,7 @@
         "title": "Fairness and Equity in Learner Assessment",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=085705c1-40ab-4345-aaf0-b29f0130a441",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 3540.0,
+        "durationSeconds": 3540,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -877,7 +973,7 @@
         "title": "Peeling Back the Layers: Examining Our Assumptions About Learning in Education Practice and Research",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b54bd4ff-6c6a-4779-88b3-b283013fc7fc",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 3480.0,
+        "durationSeconds": 3480,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -886,7 +982,7 @@
         "title": "Assessment of Health Equity in Education Scholarship: Expansion of Glassick's Criteria",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dbdb47ef-2fb0-4bac-98b1-b266013ee523",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 3180.0,
+        "durationSeconds": 3180,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -895,7 +991,7 @@
         "title": "Cognitive Load Theory to Create PowerPoint Slides that Engage Rather Than Overwhelm",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=652b4ff2-3076-4211-9f08-b260013f5cb9",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 3180.0,
+        "durationSeconds": 3180,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -904,7 +1000,7 @@
         "title": "Assessment and Validity: A Primer for Simulationists",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=60f04562-3404-4a17-8539-b24a013d9176",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 3120.0,
+        "durationSeconds": 3120,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -913,7 +1009,7 @@
         "title": "Design for Success: A Workshop on Workshops",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dde8211-6645-4e62-81ca-b22e013d3ab7",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 2820.0,
+        "durationSeconds": 2820,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -922,7 +1018,7 @@
         "title": "Did My Learners Learn: Basic Inferential Statistics in Med Ed",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=66ca946e-131f-483d-ac36-b1d301334ee1",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 5940.0,
+        "durationSeconds": 5940,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -931,7 +1027,7 @@
         "title": "Mastery Learning for Clinical Skill Acquisition",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=789d9db7-3907-4110-aef1-b1b0012e0520",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 3600.0,
+        "durationSeconds": 3600,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -940,7 +1036,7 @@
         "title": "Social Network Analysis in Medical Education & Health Professions Education",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=95c256a3-3d65-4694-8337-b1710130d882",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 3900.0,
+        "durationSeconds": 3900,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -949,7 +1045,7 @@
         "title": "How Learning Theory Shapes Your Educational Practice",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a079fbd-ff4b-4417-a42d-b172013eccac",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 5160.0,
+        "durationSeconds": 5160,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -958,7 +1054,7 @@
         "title": "Curriculum Development Made Simple",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fba74181-864c-43fc-b6fe-b13a013d121d",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4740.0,
+        "durationSeconds": 4740,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -967,7 +1063,7 @@
         "title": "Taking a Scholarly Approach to Program Evaluation",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a28d26e-64f0-4c8b-8aba-b11d01479797",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4380.0,
+        "durationSeconds": 4380,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -976,7 +1072,7 @@
         "title": "Grounded Theory: A Case Study about Near-Peer Learning in the Education-Centered Medical Home",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7bba9299-0765-4a5d-a9fa-b11c0188ccb3",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 5580.0,
+        "durationSeconds": 5580,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -985,7 +1081,7 @@
         "title": "Lies, Damned Lies, and Surveys: Designing Better Surveys for Evaluation and Research",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3da94977-6765-4317-ae59-b0fa0144326b",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4980.0,
+        "durationSeconds": 4980,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -994,7 +1090,7 @@
         "title": "Teaching in the Clinic: Challenges & Evidence-Based Strategies",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cd1e6ab8-dcae-42b2-8949-b0f901819560",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4500.0,
+        "durationSeconds": 4500,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -1003,7 +1099,7 @@
         "title": "MedEdMENTOR: A Virtual Guide for Medical Education Scholarship",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0fc83f3d-f82d-495d-8ccd-b0de0142817c",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4860.0,
+        "durationSeconds": 4860,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -1012,7 +1108,7 @@
         "title": "Building an Educator Portfolio or: How I Learned to Stop Worrying and Trust WordPress",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58eaddfd-423d-4abf-b207-b0df013eae22",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 3840.0,
+        "durationSeconds": 3840,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -1021,7 +1117,7 @@
         "title": "Making It Count Twice: Turning Scholarly Work into Scholarship",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e3598e36-f27d-4cff-8629-b0bb0141dc7a",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4260.0,
+        "durationSeconds": 4260,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -1030,7 +1126,7 @@
         "title": "Adapting Questioning Strategies to Support Safe Learning Environments",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=34757b7b-eb77-4cd1-8e0f-b0bc01435ff8",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4140.0,
+        "durationSeconds": 4140,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -1039,7 +1135,7 @@
         "title": "Validity in Education Research",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c7aeb478-b732-4b43-8474-b0a6014aa9ec",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4680.0,
+        "durationSeconds": 4680,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -1048,7 +1144,7 @@
         "title": "Hybrid, Hyflex, or Hot Mess: Practicing Good Teaching in Any Format",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa555843-3f2c-477e-9bc1-b09e0176631e",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 5520.0,
+        "durationSeconds": 5520,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -1057,7 +1153,7 @@
         "title": "Getting Curious, Scientific, and Transformational about Assessment in Medical Education",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ab62d43-37d5-4ec2-bd80-aed8012e97f1",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4620.0,
+        "durationSeconds": 4620,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -1066,7 +1162,7 @@
         "title": "Finding Hope for the UME-GME Transition Using a Systems Thinking Approach",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3d92412-9e02-4ad7-9ab2-af71017d0d4e",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 5520.0,
+        "durationSeconds": 5520,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -1075,7 +1171,7 @@
         "title": "In Pursuit of Meaningful Outcomes in GME: The Role of Implementation Science",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6878277-5202-4a5a-89d6-af330131798b",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4740.0,
+        "durationSeconds": 4740,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -1084,7 +1180,7 @@
         "title": "Concepts for Medical Education Research – A Beginner’s Guide",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbfae948-1a38-4e68-be65-b0440135826a",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 5400.0,
+        "durationSeconds": 5400,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -1093,7 +1189,7 @@
         "title": "Identifying Research Outcomes in Medical Education",
         "url": "https://feinberg-northwestern.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=23b9f361-7f53-4b16-8720-aef4013341f1",
         "provider": "Northwestern University Feinberg School of Medicine / Panopto",
-        "durationSeconds": 4200.0,
+        "durationSeconds": 4200,
         "sourceUrl": "https://www.feinberg.northwestern.edu/sites/fame/lectures-workshops/video-archive.html",
         "accessVerified": true
       },
@@ -1102,7 +1198,7 @@
         "title": "AME Grand Rounds: Flourishing as a Researcher in Health Professions Education",
         "url": "https://www.youtube.com/watch?v=fLAVIim7iZg",
         "provider": "University of Colorado School of Medicine / YouTube",
-        "durationSeconds": 3186.0,
+        "durationSeconds": 3186,
         "sourceUrl": "https://www.youtube.com/@universityofcoloradoschool5015",
         "accessVerified": true
       }
@@ -1310,11 +1406,11 @@
     ],
     "boardStatus": "ABEM lists EM subspecialty certifications and focused-practice designations; medical education is not listed as a separate ABEM subspecialty or exam. This is an academic physician-educator fellowship, not an EM clinical board-review track. The official MGB page states applicants should be ABEM board-eligible or board-certified. A separate clinical board exam does not exist for this medical-education fellowship based on the current ABEM list checked 2026-10-07.",
     "boardEligibilityNotice": "MGB programme entry is separate from ABEM eligibility. MGB page: applicants should be ABEM board eligible or board certified and able to practice clinical EM in Massachusetts if selected. ABEM eligibility is determined by ABEM after required accredited/approved EM training and medical-licensure criteria; this self-study course confers none of those statuses. Verify current policies with ABEM and MGB.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 43.535,
     "verifiedSpecialtyHours": 37.86833333333333,
     "verifiedFoundationHours": 5.666666666666667,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1343,7 +1439,7 @@
       "totalPlannedNonVideoHours": 90
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X100_7de4c2f4.pdf",
+    "syllabusUrl": "/manus-storage/MED-X100_ada79b12.pdf",
     "pdfIds": [
       "med-syllabus-MED-X100",
       "med-reading-e46d42c3ab0a",
@@ -1371,7 +1467,7 @@
         "title": "World Health Organization and Emergency Care Systems - The Global View",
         "url": "https://www.youtube.com/watch?v=ngqW9hqAFH4",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 3300.0,
+        "durationSeconds": 3300,
         "sourceUrl": "https://www.uctv.tv/shows/World-Health-Organization-and-Emergency-Care-Systems-The-Global-View-35576",
         "accessVerified": true
       },
@@ -1380,7 +1476,7 @@
         "title": "Under-5 Mortality: Keeping Kids Alive",
         "url": "https://www.youtube.com/watch?v=cKKsjC8THmY",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 3360.0,
+        "durationSeconds": 3360,
         "sourceUrl": "https://www.uctv.tv/shows/Under-5-Mortality-Keeping-Kids-Alive-35577",
         "accessVerified": true
       },
@@ -1389,7 +1485,7 @@
         "title": "Point-of-Care Ultrasound in Low Resource Settings",
         "url": "https://www.youtube.com/watch?v=rzhA-xTWz5c",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 3420.0,
+        "durationSeconds": 3420,
         "sourceUrl": "https://www.uctv.tv/shows/Point-of-Care-Ultrasound-in-Low-Resource-Settings-35574",
         "accessVerified": true
       },
@@ -1398,7 +1494,7 @@
         "title": "The Humanitarian Community: Past, Present and Future",
         "url": "https://www.youtube.com/watch?v=2AXDa54TriI",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 3420.0,
+        "durationSeconds": 3420,
         "sourceUrl": "https://www.uctv.tv/shows/The-Humanitarian-Community-Past-Present-and-Future-35575",
         "accessVerified": true
       },
@@ -1407,7 +1503,7 @@
         "title": "Disaster Response and the Asiana Plane Crash",
         "url": "https://www.youtube.com/watch?v=3uNYowJ8hx0",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 5220.0,
+        "durationSeconds": 5220,
         "sourceUrl": "https://www.uctv.tv/shows/Disaster-Response-and-the-Asiana-Plane-Crash-31565",
         "accessVerified": true
       },
@@ -1416,7 +1512,7 @@
         "title": "Climate Change and Public Health: Modernizing Community Resilience and Disaster Preparedness",
         "url": "https://www.youtube.com/watch?v=a5PQtBRDJ9Q",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 4680.0,
+        "durationSeconds": 4680,
         "sourceUrl": "https://www.uctv.tv/shows/Modernizing-Community-Resilience-and-Disaster-Preparedness-36492",
         "accessVerified": true
       },
@@ -1425,7 +1521,7 @@
         "title": "Hypothermia and Cold Emergencies",
         "url": "https://www.youtube.com/watch?v=KQpPsvFS2XU",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 3540.0,
+        "durationSeconds": 3540,
         "sourceUrl": "https://www.uctv.tv/shows/Hypothermia-and-Cold-Emergencies-32414",
         "accessVerified": true
       },
@@ -1434,7 +1530,7 @@
         "title": "Lightning Injuries and Hyperthermia",
         "url": "https://www.youtube.com/watch?v=D5BAMp_Jggw",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 2280.0,
+        "durationSeconds": 2280,
         "sourceUrl": "https://www.uctv.tv/shows/Lightning-injuries-and-Hyperthermia-32547",
         "accessVerified": true
       },
@@ -1443,7 +1539,7 @@
         "title": "Backcountry Trauma and Improvisation",
         "url": "https://www.youtube.com/watch?v=xkBhNEU3RfQ",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 4740.0,
+        "durationSeconds": 4740,
         "sourceUrl": "https://www.uctv.tv/shows/Backcountry-Trauma-and-Improvisation-32501",
         "accessVerified": true
       },
@@ -1452,7 +1548,7 @@
         "title": "Bites and Stings: The Venomous Truth",
         "url": "https://www.youtube.com/watch?v=K6Ro23d6L48",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 2520.0,
+        "durationSeconds": 2520,
         "sourceUrl": "https://www.uctv.tv/shows/Bites-and-Stings-The-Venomous-Truth-32546",
         "accessVerified": true
       },
@@ -1461,7 +1557,7 @@
         "title": "Introduction to Trauma",
         "url": "https://www.youtube.com/watch?v=eu4cic9XJD0",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 5040.0,
+        "durationSeconds": 5040,
         "sourceUrl": "https://www.uctv.tv/shows/Introduction-to-Trauma-31564",
         "accessVerified": true
       },
@@ -1470,7 +1566,7 @@
         "title": "Innovations in Trauma Care",
         "url": "https://www.youtube.com/watch?v=197r3SWsU7k",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 3240.0,
+        "durationSeconds": 3240,
         "sourceUrl": "https://www.uctv.tv/shows/Innovations-in-Trauma-Care-31569",
         "accessVerified": true
       },
@@ -1479,7 +1575,7 @@
         "title": "Infectious Diseases in Low Resource Settings",
         "url": "https://www.youtube.com/watch?v=EPu6V2crOYU",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 5340.0,
+        "durationSeconds": 5340,
         "sourceUrl": "https://www.uctv.tv/shows/Infectious-Diseases-in-Low-Resource-Settings-32416",
         "accessVerified": true
       },
@@ -1488,7 +1584,7 @@
         "title": "Dive Medicine",
         "url": "https://www.youtube.com/watch?v=OWdGw7DrBEQ",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 3360.0,
+        "durationSeconds": 3360,
         "sourceUrl": "https://www.uctv.tv/shows/Dive-Medicine-32456",
         "accessVerified": true
       },
@@ -1497,7 +1593,7 @@
         "title": "Marine Envenomations",
         "url": "https://www.youtube.com/watch?v=19EPbtJyRds",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 2640.0,
+        "durationSeconds": 2640,
         "sourceUrl": "https://www.uctv.tv/shows/Marine-Envenomations-32457",
         "accessVerified": true
       },
@@ -1506,7 +1602,7 @@
         "title": "Evolution of Emergency Medicine and Whole Patient Care - Health Talks",
         "url": "https://www.youtube.com/watch?v=Kdn90SUB1b4",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 3540.0,
+        "durationSeconds": 3540,
         "sourceUrl": "https://www.uctv.tv/shows/Evolution-of-Emergency-Medicine-and-Whole-Patient-Care-Health-Talks-37203",
         "accessVerified": true
       },
@@ -1515,7 +1611,7 @@
         "title": "Environment, War and Conflict",
         "url": "https://www.youtube.com/watch?v=pns8JU_6o3I",
         "provider": "University of California Television (UCTV)",
-        "durationSeconds": 5220.0,
+        "durationSeconds": 5220,
         "sourceUrl": "https://www.uctv.tv/shows/Environment-War-and-Conflict-36857",
         "accessVerified": true
       },
@@ -1524,7 +1620,7 @@
         "title": "University Hospitals Global Health Grand Rounds with Matthew Bonds",
         "url": "https://www.youtube.com/watch?v=PSuRXCbOADA",
         "provider": "University Hospitals / Case Western Reserve University",
-        "durationSeconds": 3746.0,
+        "durationSeconds": 3746,
         "sourceUrl": "https://www.uhhospitals.org/uh-research/for-researchers/health-services-research/speaker-series/global-health-grand-rounds",
         "accessVerified": true
       },
@@ -1533,7 +1629,7 @@
         "title": "University Hospitals Global Health Grand Rounds with Sudha Jayaraman, MD",
         "url": "https://www.youtube.com/watch?v=BR2VXqyIzD4",
         "provider": "University Hospitals / Case Western Reserve University",
-        "durationSeconds": 3744.0,
+        "durationSeconds": 3744,
         "sourceUrl": "https://www.uhhospitals.org/uh-research/for-researchers/health-services-research/speaker-series/global-health-grand-rounds",
         "accessVerified": true
       },
@@ -1542,8 +1638,17 @@
         "title": "2024 Alexander D. Langmuir Lecture by Atul Gawande",
         "url": "https://www.youtube.com/watch?v=pVnejIGpz18",
         "provider": "Centers for Disease Control and Prevention (CDC)",
-        "durationSeconds": 3307.0,
+        "durationSeconds": 3307,
         "sourceUrl": "https://archive.cdc.gov/www_cdc_gov/eis/conference/langmuir-lecture.html",
+        "accessVerified": true
+      },
+      {
+        "id": "med-x100-uctv-35573",
+        "title": "A Model for Curriculum Development for Low-Resource Settings: Improving Pediatric Emergency Care with the African Federation for Emergency Medicine",
+        "url": "https://www.youtube.com/watch?v=AjJ7BIMUYF0",
+        "provider": "University of California Television (UCTV)",
+        "durationSeconds": 3480,
+        "sourceUrl": "https://www.uctv.tv/shows/A-Model-for-Curriculum-Development-for-Low-Resource-Settings-Improving-Pediatric-Emergency-Care-with-the-African-Federation-for-Emergency-Medicine-35573",
         "accessVerified": true
       }
     ],
@@ -1612,7 +1717,9 @@
         "number": 11,
         "text": "Teaching, leadership and bidirectional capacity strengthening",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "med-x100-uctv-35573"
+        ]
       },
       {
         "number": 12,
@@ -1628,11 +1735,11 @@
     ],
     "boardStatus": "ABEM’s current public subspecialty-certification list does not list Global Emergency Medicine. The BWH fellowship is an institutional clinical fellowship, not a separate board-designated specialty. General ABEM Emergency Medicine qualifying/certifying examinations apply only to candidates who independently meet ABEM requirements; no separate Global Emergency Medicine board examination was identified in the reviewed official sources. The ABEM 2022 EM Model remains the published general EM examination content basis on the date checked; it is not a Global EM blueprint.",
     "boardEligibilityNotice": "The current BWH programme page says applicants must be board certified or board eligible in Emergency Medicine when they begin the fellowship. ABEM separately requires qualifying accredited/approved EM residency completion and its medical-licensure policy for its board-eligible status. This educational course does not confer ABEM eligibility, certification, institutional eligibility, licensure, or examination readiness.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 21.015833333333333,
-    "verifiedSpecialtyHours": 10.580555555555556,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 21.9825,
+    "verifiedSpecialtyHours": 11.547222222222222,
     "verifiedFoundationHours": 10.435277777777777,
-    "hoursGap": 14.984166666666667,
+    "hoursGap": 14.017499999999998,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1672,7 +1779,7 @@
         "title": "Backcountry Trauma and Improvisation",
         "url": "https://www.youtube.com/watch?v=xkBhNEU3RfQ",
         "provider": "UCTV / University of California Television (UCSF speakers where identified)",
-        "durationSeconds": 4740.0,
+        "durationSeconds": 4740,
         "sourceUrl": "https://www.uctv.tv/shows/Backcountry-Trauma-and-Improvisation-32501",
         "accessVerified": true
       },
@@ -1681,7 +1788,7 @@
         "title": "Bites and Stings: The Venomous Truth",
         "url": "https://www.youtube.com/watch?v=K6Ro23d6L48",
         "provider": "UCTV / University of California Television (UCSF speakers where identified)",
-        "durationSeconds": 2520.0,
+        "durationSeconds": 2520,
         "sourceUrl": "https://www.uctv.tv/shows/Bites-and-Stings-The-Venomous-Truth-32546",
         "accessVerified": true
       },
@@ -1690,7 +1797,7 @@
         "title": "Hypothermia and Cold Emergencies",
         "url": "https://www.youtube.com/watch?v=KQpPsvFS2XU",
         "provider": "UCTV / University of California Television (UCSF speakers where identified)",
-        "durationSeconds": 3540.0,
+        "durationSeconds": 3540,
         "sourceUrl": "https://www.uctv.tv/shows/Hypothermia-and-Cold-Emergencies-32414",
         "accessVerified": true
       },
@@ -1699,7 +1806,7 @@
         "title": "Dive Medicine",
         "url": "https://www.youtube.com/watch?v=OWdGw7DrBEQ",
         "provider": "UCTV / University of California Television (UCSF speakers where identified)",
-        "durationSeconds": 3360.0,
+        "durationSeconds": 3360,
         "sourceUrl": "https://www.uctv.tv/shows/Dive-Medicine-32456",
         "accessVerified": true
       },
@@ -1708,7 +1815,7 @@
         "title": "Infectious Diseases in Low Resource Settings",
         "url": "https://www.youtube.com/watch?v=EPu6V2crOYU",
         "provider": "UCTV / University of California Television (UCSF speakers where identified)",
-        "durationSeconds": 5340.0,
+        "durationSeconds": 5340,
         "sourceUrl": "https://www.uctv.tv/shows/Infectious-Diseases-in-Low-Resource-Settings-32416",
         "accessVerified": true
       },
@@ -1717,7 +1824,7 @@
         "title": "Marine Envenomations",
         "url": "https://www.youtube.com/watch?v=19EPbtJyRds",
         "provider": "UCTV / University of California Television (UCSF speakers where identified)",
-        "durationSeconds": 2640.0,
+        "durationSeconds": 2640,
         "sourceUrl": "https://www.uctv.tv/shows/Marine-Envenomations-32457",
         "accessVerified": true
       },
@@ -1726,7 +1833,7 @@
         "title": "High Altitude Illness",
         "url": "https://www.youtube.com/watch?v=V9imhh0KKhg",
         "provider": "UCTV / University of California Television (UCSF speakers where identified)",
-        "durationSeconds": 1680.0,
+        "durationSeconds": 1680,
         "sourceUrl": "https://www.uctv.tv/shows/High-Altitude-Illness-32415",
         "accessVerified": true
       },
@@ -1735,7 +1842,7 @@
         "title": "Splinting and Evacuation",
         "url": "https://www.youtube.com/watch?v=TKVFGBYCozE",
         "provider": "UCTV / University of California Television (UCSF speakers where identified)",
-        "durationSeconds": 960.0,
+        "durationSeconds": 960,
         "sourceUrl": "https://www.uctv.tv/shows/Splinting-and-Evacuation-32561",
         "accessVerified": true
       },
@@ -1744,7 +1851,7 @@
         "title": "Lightning Injuries and Hyperthermia",
         "url": "https://www.youtube.com/watch?v=D5BAMp_Jggw",
         "provider": "UCTV / University of California Television (UCSF speakers where identified)",
-        "durationSeconds": 2280.0,
+        "durationSeconds": 2280,
         "sourceUrl": "https://www.uctv.tv/shows/Lightning-Injuries-and-Hyperthermia-32547",
         "accessVerified": true
       },
@@ -1753,7 +1860,7 @@
         "title": "VTC Wilderness Medicine Journal Club: Wilderness EMS",
         "url": "https://www.youtube.com/watch?v=9DKg3z0bJ5A",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 5412.0,
+        "durationSeconds": 5412,
         "sourceUrl": "https://www.youtube.com/watch?v=9DKg3z0bJ5A",
         "accessVerified": true
       },
@@ -1762,7 +1869,7 @@
         "title": "VTC Wilderness Medicine Journal Club: Spinal Cord Protection",
         "url": "https://www.youtube.com/watch?v=WZzjN3ZG6l8",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 3566.0,
+        "durationSeconds": 3566,
         "sourceUrl": "https://www.youtube.com/watch?v=WZzjN3ZG6l8",
         "accessVerified": true
       },
@@ -1771,7 +1878,7 @@
         "title": "VTC Wilderness Medicine Journal Club: Immersion Injuries",
         "url": "https://www.youtube.com/watch?v=PgXPIP5hXFQ",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 1976.0,
+        "durationSeconds": 1976,
         "sourceUrl": "https://www.youtube.com/watch?v=PgXPIP5hXFQ",
         "accessVerified": true
       },
@@ -1780,7 +1887,7 @@
         "title": "VTC Wilderness Medicine Journal Club: Water Treatment",
         "url": "https://www.youtube.com/watch?v=tPDjsq2tgCA",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 5411.0,
+        "durationSeconds": 5411,
         "sourceUrl": "https://www.youtube.com/watch?v=tPDjsq2tgCA",
         "accessVerified": true
       },
@@ -1789,7 +1896,7 @@
         "title": "VTC Wilderness Medicine Journal Club: Heat Illness",
         "url": "https://www.youtube.com/watch?v=fjkeGmw8nlA",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 4961.0,
+        "durationSeconds": 4961,
         "sourceUrl": "https://www.youtube.com/watch?v=fjkeGmw8nlA",
         "accessVerified": true
       },
@@ -1798,7 +1905,7 @@
         "title": "VTC Wilderness Medicine Journal Club: Wildland Fires",
         "url": "https://www.youtube.com/watch?v=4ZGf2Of9Gqk",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 7243.0,
+        "durationSeconds": 7243,
         "sourceUrl": "https://www.youtube.com/watch?v=4ZGf2Of9Gqk",
         "accessVerified": true
       },
@@ -1807,7 +1914,7 @@
         "title": "VTC Wilderness Medicine Journal Club: Altitude Illness",
         "url": "https://www.youtube.com/watch?v=xnisv0Yf69M",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 5748.0,
+        "durationSeconds": 5748,
         "sourceUrl": "https://www.youtube.com/watch?v=xnisv0Yf69M",
         "accessVerified": true
       },
@@ -1816,7 +1923,7 @@
         "title": "VTC Wilderness Medicine Journal Club: Avalanche Rescue",
         "url": "https://www.youtube.com/watch?v=J-qUiNtrQio",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 6983.0,
+        "durationSeconds": 6983,
         "sourceUrl": "https://www.youtube.com/watch?v=J-qUiNtrQio",
         "accessVerified": true
       },
@@ -1825,7 +1932,7 @@
         "title": "VTC Wilderness Medicine Journal Club: Cave Rescue",
         "url": "https://www.youtube.com/watch?v=76xYei6nOdw",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 3769.0,
+        "durationSeconds": 3769,
         "sourceUrl": "https://www.youtube.com/watch?v=76xYei6nOdw",
         "accessVerified": true
       },
@@ -1834,7 +1941,7 @@
         "title": "VTC Wilderness Medicine Journal Club: Climbing Injuries",
         "url": "https://www.youtube.com/watch?v=NPzKHfmGDkg",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 5925.0,
+        "durationSeconds": 5925,
         "sourceUrl": "https://www.youtube.com/watch?v=NPzKHfmGDkg",
         "accessVerified": true
       },
@@ -1843,7 +1950,7 @@
         "title": "VTC Wilderness Medicine Journal Club: Search and Rescue",
         "url": "https://www.youtube.com/watch?v=MkImKIVFFKY",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 6117.0,
+        "durationSeconds": 6117,
         "sourceUrl": "https://www.youtube.com/watch?v=MkImKIVFFKY",
         "accessVerified": true
       },
@@ -1852,7 +1959,7 @@
         "title": "VTC Wilderness Medicine Journal Club: Backpacking",
         "url": "https://www.youtube.com/watch?v=GpKfxh4Dzjw",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 3843.0,
+        "durationSeconds": 3843,
         "sourceUrl": "https://www.youtube.com/watch?v=GpKfxh4Dzjw",
         "accessVerified": true
       },
@@ -1861,7 +1968,7 @@
         "title": "VTC Wilderness Medicine Journal Club: Animal Attacks",
         "url": "https://www.youtube.com/watch?v=l_F6G1olLas",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 4666.0,
+        "durationSeconds": 4666,
         "sourceUrl": "https://www.youtube.com/watch?v=l_F6G1olLas",
         "accessVerified": true
       },
@@ -1870,7 +1977,7 @@
         "title": "VTC Wilderness Medicine Journal Club - Women's Health in the Austere Setting",
         "url": "https://www.youtube.com/watch?v=HYthWouAmDQ",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 4808.0,
+        "durationSeconds": 4808,
         "sourceUrl": "https://www.youtube.com/watch?v=HYthWouAmDQ",
         "accessVerified": true
       },
@@ -1879,7 +1986,7 @@
         "title": "VTC Wilderness Medicine Journal Club - Plant Toxins and Dermatitis",
         "url": "https://www.youtube.com/watch?v=EUeaH3lNrn4",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 5136.0,
+        "durationSeconds": 5136,
         "sourceUrl": "https://www.youtube.com/watch?v=EUeaH3lNrn4",
         "accessVerified": true
       },
@@ -1888,7 +1995,7 @@
         "title": "VTC Wilderness Medicine Journal Club: Tickborne Illnesses",
         "url": "https://www.youtube.com/watch?v=Hbv8YVyLg9g",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 5910.0,
+        "durationSeconds": 5910,
         "sourceUrl": "https://www.youtube.com/watch?v=Hbv8YVyLg9g",
         "accessVerified": true
       },
@@ -1897,7 +2004,7 @@
         "title": "VTC Wilderness Medicine Journal Club-Dive Medicine",
         "url": "https://www.youtube.com/watch?v=GZh4ISnf4Nk",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 7438.0,
+        "durationSeconds": 7438,
         "sourceUrl": "https://www.youtube.com/watch?v=GZh4ISnf4Nk",
         "accessVerified": true
       },
@@ -1906,7 +2013,7 @@
         "title": "VTC Wilderness Medicine Journal Club - Orthopedic Injuries",
         "url": "https://www.youtube.com/watch?v=0PjjJkDNYiw",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 3983.0,
+        "durationSeconds": 3983,
         "sourceUrl": "https://www.youtube.com/watch?v=0PjjJkDNYiw",
         "accessVerified": true
       },
@@ -1915,7 +2022,7 @@
         "title": "VTC Wilderness Medicine Journal Club - Diabetes Management",
         "url": "https://www.youtube.com/watch?v=3tfzHnHcTVc",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 6344.0,
+        "durationSeconds": 6344,
         "sourceUrl": "https://www.youtube.com/watch?v=3tfzHnHcTVc",
         "accessVerified": true
       },
@@ -1924,7 +2031,7 @@
         "title": "VTC Wilderness Medicine Journal Club - Lightning Injuries",
         "url": "https://www.youtube.com/watch?v=gtDf-aenjD8",
         "provider": "Wilderness Medical Society",
-        "durationSeconds": 6923.0,
+        "durationSeconds": 6923,
         "sourceUrl": "https://www.youtube.com/watch?v=gtDf-aenjD8",
         "accessVerified": true
       }
@@ -2072,11 +2179,11 @@
     ],
     "boardStatus": "No separate wilderness-medicine physician board or examination was identified in the official ABMS/ABEM directories reviewed. ABEM/AOBEM are emergency-medicine certifying boards, not wilderness-medicine boards. WMS FAWM is an Academy designation requiring membership, credits, experience and review; it is not ABMS board certification.",
     "boardEligibilityNotice": "MGH states applicants must have graduated in good standing from an ACGME-accredited EM residency. SAEM approval criteria describe graduates of EM residency and ABEM/AOBEM eligibility or certification (or programme-specific arrangements). These are programme/peer-review criteria, not automatic eligibility for any board or certificate. Confirm current individual board rules directly. This independent course grants no eligibility.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 37.00611111111111,
     "verifiedSpecialtyHours": 37.00611111111111,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 0.0,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2119,7 +2226,7 @@
         "title": "A Healthcare Emergency Preparedness Information Gateway",
         "url": "https://www.youtube.com/watch?v=WOIPq4f39vs",
         "provider": "National Network of Libraries of Medicine / ASPR TRACIE",
-        "durationSeconds": 2982.0,
+        "durationSeconds": 2982,
         "sourceUrl": "https://www.nnlm.gov/training/class/aspr-tracie-healthcare-emergency-preparedness-information-gateway",
         "accessVerified": true
       },
@@ -2128,7 +2235,7 @@
         "title": "Radiological and Nuclear Disaster Preparedness",
         "url": "https://www.youtube.com/watch?v=QaOMddzwGGk",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 4323.0,
+        "durationSeconds": 4323,
         "sourceUrl": "https://stacks.cdc.gov/view/cdc/183032",
         "accessVerified": true
       },
@@ -2137,7 +2244,7 @@
         "title": "CDC COCA Call: Multidrug-resistant Candida auris",
         "url": "https://www.youtube.com/watch?v=QzY0FPvKtfc",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3758.0,
+        "durationSeconds": 3758,
         "sourceUrl": "https://www.cdc.gov/coca/hcp/trainings/index.html",
         "accessVerified": true
       },
@@ -2146,7 +2253,7 @@
         "title": "CDC COCA Call - Hepatitis A Outbreaks in Multiple States: CDC Recommendations and Guidance",
         "url": "https://www.youtube.com/watch?v=4GGwu2HHXuU",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3311.0,
+        "durationSeconds": 3311,
         "sourceUrl": "https://www.cdc.gov/coca/hcp/trainings/index.html",
         "accessVerified": true
       },
@@ -2155,7 +2262,7 @@
         "title": "Public Health Law: A Tool to Address Emerging Health Concerns",
         "url": "https://www.youtube.com/watch?v=d5DsDJooDrE",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3714.0,
+        "durationSeconds": 3714,
         "sourceUrl": "https://www.cdc.gov/public-health-gateway/php/about/index.html",
         "accessVerified": true
       },
@@ -2164,7 +2271,7 @@
         "title": "Introduction to Public Health Informatics",
         "url": "https://www.youtube.com/watch?v=Fzc3j8QG_Mw",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3711.0,
+        "durationSeconds": 3711,
         "sourceUrl": "https://www.cdc.gov/public-health-gateway/php/about/index.html",
         "accessVerified": true
       },
@@ -2173,7 +2280,7 @@
         "title": "Introduction to Epidemiology",
         "url": "https://www.youtube.com/watch?v=4oaQUAnA6nY",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3323.0,
+        "durationSeconds": 3323,
         "sourceUrl": "https://www.cdc.gov/public-health-gateway/php/about/index.html",
         "accessVerified": true
       },
@@ -2182,7 +2289,7 @@
         "title": "Introduction to Public Health",
         "url": "https://www.youtube.com/watch?v=-dmJSLNgjxo",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3125.0,
+        "durationSeconds": 3125,
         "sourceUrl": "https://www.cdc.gov/public-health-gateway/php/about/index.html",
         "accessVerified": true
       },
@@ -2191,7 +2298,7 @@
         "title": "CDC’s Preventive Medicine Grand Rounds: Environmental Health for Preventive Medicine",
         "url": "https://www.youtube.com/watch?v=BSAic4clZw8",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 5300.0,
+        "durationSeconds": 5300,
         "sourceUrl": "https://www.cdc.gov/prevmed/grandrounds/index.html",
         "accessVerified": true
       },
@@ -2200,7 +2307,7 @@
         "title": "Preventive Medicine Grand Rounds: Tribal Health Infrastructure and CDC",
         "url": "https://www.youtube.com/watch?v=qTn75N0YJNE",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 5400.0,
+        "durationSeconds": 5400,
         "sourceUrl": "https://www.cdc.gov/prevmed/grandrounds/index.html",
         "accessVerified": true
       },
@@ -2209,7 +2316,7 @@
         "title": "CDC’s Preventive Medicine Grand Rounds: Building a Better Public Health System",
         "url": "https://www.youtube.com/watch?v=TDb7Jlb-ENc",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 4888.0,
+        "durationSeconds": 4888,
         "sourceUrl": "https://www.cdc.gov/prevmed/grandrounds/index.html",
         "accessVerified": true
       },
@@ -2218,7 +2325,7 @@
         "title": "Public Health Laboratories (PHL) 101",
         "url": "https://www.youtube.com/watch?v=issgM4JiP3Y",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 4261.0,
+        "durationSeconds": 4261,
         "sourceUrl": "https://www.cdc.gov/labs/",
         "accessVerified": true
       },
@@ -2227,7 +2334,7 @@
         "title": "A Decade of Action Against Drug-Resistant Infections",
         "url": "https://www.youtube.com/watch?v=W0W7PPrl-Iw",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 5261.0,
+        "durationSeconds": 5261,
         "sourceUrl": "https://www.cdc.gov/antimicrobial-resistance/",
         "accessVerified": true
       },
@@ -2236,7 +2343,7 @@
         "title": "CDC Townhall: Understanding Enhanced Barrier Precautions",
         "url": "https://www.youtube.com/watch?v=WuX1Jn7SoHw",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3368.0,
+        "durationSeconds": 3368,
         "sourceUrl": "https://www.cdc.gov/long-term-care-facilities/hcp/prevent-mdro/index.html",
         "accessVerified": true
       },
@@ -2245,7 +2352,7 @@
         "title": "Lessons from an Outbreak Investigation",
         "url": "https://www.youtube.com/watch?v=dtM1lQYCdZ8",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3702.0,
+        "durationSeconds": 3702,
         "sourceUrl": "https://www.cdc.gov/coca/hcp/trainings/index.html",
         "accessVerified": true
       },
@@ -2254,7 +2361,7 @@
         "title": "Addressing Preparedness Challenges for Children in Public Health Emergencies",
         "url": "https://www.youtube.com/watch?v=zLRuR-3IZ7Q",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3767.0,
+        "durationSeconds": 3767,
         "sourceUrl": "https://www.cdc.gov/public-health-gateway/php/about/index.html",
         "accessVerified": true
       },
@@ -2263,7 +2370,7 @@
         "title": "Webinar - Mass Casualty Management: Theory and Practice",
         "url": "https://www.youtube.com/watch?v=uisIfBuqFJg",
         "provider": "Trauma Nova Scotia",
-        "durationSeconds": 3119.0,
+        "durationSeconds": 3119,
         "sourceUrl": "https://www.youtube.com/@traumanovascotia9048",
         "accessVerified": true
       },
@@ -2272,7 +2379,7 @@
         "title": "CDC’s CERC: Introduction to Crisis & Emergency Risk Communication (CERC)",
         "url": "https://www.youtube.com/watch?v=tJIe6sT1ar8",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3225.0,
+        "durationSeconds": 3225,
         "sourceUrl": "https://www.cdc.gov/cerc/php/about/index.html",
         "accessVerified": true
       },
@@ -2281,7 +2388,7 @@
         "title": "CDC’s CERC: Psychology of a Crisis",
         "url": "https://www.youtube.com/watch?v=-DV9huwBFz8",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3370.0,
+        "durationSeconds": 3370,
         "sourceUrl": "https://www.cdc.gov/cerc/php/about/index.html",
         "accessVerified": true
       },
@@ -2290,7 +2397,7 @@
         "title": "CDC’s CERC: Messages and Audiences",
         "url": "https://www.youtube.com/watch?v=NlgA0nzWomU",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3600.0,
+        "durationSeconds": 3600,
         "sourceUrl": "https://www.cdc.gov/cerc/php/about/index.html",
         "accessVerified": true
       },
@@ -2299,7 +2406,7 @@
         "title": "CDC’s CERC: Spokesperson",
         "url": "https://www.youtube.com/watch?v=CydPExb3xvg",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3398.0,
+        "durationSeconds": 3398,
         "sourceUrl": "https://www.cdc.gov/cerc/php/about/index.html",
         "accessVerified": true
       },
@@ -2308,7 +2415,7 @@
         "title": "CDC’s CERC: Community Engagement",
         "url": "https://www.youtube.com/watch?v=QIV3qnS6S_c",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3396.0,
+        "durationSeconds": 3396,
         "sourceUrl": "https://www.cdc.gov/cerc/php/about/index.html",
         "accessVerified": true
       },
@@ -2317,7 +2424,7 @@
         "title": "CDC’s CERC: Communication Channels",
         "url": "https://www.youtube.com/watch?v=rSvqC6bfiqY",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 2793.0,
+        "durationSeconds": 2793,
         "sourceUrl": "https://www.cdc.gov/cerc/php/about/index.html",
         "accessVerified": true
       },
@@ -2326,7 +2433,7 @@
         "title": "CDC’s CERC Overview for COVID-19",
         "url": "https://www.youtube.com/watch?v=upkmaXoFJH8",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 4288.0,
+        "durationSeconds": 4288,
         "sourceUrl": "https://www.cdc.gov/cerc/php/about/index.html",
         "accessVerified": true
       },
@@ -2335,7 +2442,7 @@
         "title": "Shifts in Global Health Security: Lessons from Ebola",
         "url": "https://www.youtube.com/watch?v=vbmhi8hviJ0",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3957.0,
+        "durationSeconds": 3957,
         "sourceUrl": "https://www.cdc.gov/public-health-gateway/php/about/index.html",
         "accessVerified": true
       },
@@ -2344,7 +2451,7 @@
         "title": "We Were There - E. coli O157",
         "url": "https://www.youtube.com/watch?v=Ull53xGkRT4",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 5388.0,
+        "durationSeconds": 5388,
         "sourceUrl": "https://www.cdc.gov/food-safety/",
         "accessVerified": true
       },
@@ -2353,7 +2460,7 @@
         "title": "COCA Call Clinician Update on Human Cases of H5N1 and Influenza A Virus Surveillance 5.06.25",
         "url": "https://www.youtube.com/watch?v=ARK26DwAQuY",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 4041.0,
+        "durationSeconds": 4041,
         "sourceUrl": "https://www.cdc.gov/coca/hcp/trainings/index.html",
         "accessVerified": true
       },
@@ -2362,7 +2469,7 @@
         "title": "Introduction to Public Health Surveillance",
         "url": "https://www.youtube.com/watch?v=kATQimRXcs4",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 2708.0,
+        "durationSeconds": 2708,
         "sourceUrl": "https://www.cdc.gov/public-health-gateway/php/about/index.html",
         "accessVerified": true
       },
@@ -2371,7 +2478,7 @@
         "title": "Disaster Medical Assistance Teams and Disaster Management for Prehospital Providers",
         "url": "https://www.youtube.com/watch?v=_S4LYhVlJFo",
         "provider": "Mountain Plains Regional Disaster Health Response System",
-        "durationSeconds": 6419.0,
+        "durationSeconds": 6419,
         "sourceUrl": "https://www.rdhrs.org/regional-webinars/",
         "accessVerified": true
       },
@@ -2380,7 +2487,7 @@
         "title": "Update on Highly Pathogenic Avian Influenza A(H5N1) Virus for Clinicians",
         "url": "https://www.youtube.com/watch?v=bWmFPcf9APw",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 4160.0,
+        "durationSeconds": 4160,
         "sourceUrl": "https://www.cdc.gov/coca/hcp/trainings/index.html",
         "accessVerified": true
       },
@@ -2389,7 +2496,7 @@
         "title": "Updated CDC Zika Laboratory Testing Guidance",
         "url": "https://www.youtube.com/watch?v=sDyv5GEfl88",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 3789.0,
+        "durationSeconds": 3789,
         "sourceUrl": "https://www.cdc.gov/coca/hcp/trainings/index.html",
         "accessVerified": true
       },
@@ -2398,7 +2505,7 @@
         "title": "Enhancing Disease Investigation and Intervention Functions - Day 1 of 3",
         "url": "https://www.youtube.com/watch?v=oVk0NRrm9qM",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 14156.0,
+        "durationSeconds": 14156,
         "sourceUrl": "https://www.cdc.gov/coca/hcp/trainings/index.html",
         "accessVerified": true
       },
@@ -2407,7 +2514,7 @@
         "title": "Enhancing Disease Investigation and Intervention Functions - Day 2 of 3",
         "url": "https://www.youtube.com/watch?v=b1Zct8HX8lE",
         "provider": "Centers for Disease Control and Prevention",
-        "durationSeconds": 14535.0,
+        "durationSeconds": 14535,
         "sourceUrl": "https://www.cdc.gov/coca/hcp/trainings/index.html",
         "accessVerified": true
       }
@@ -2632,11 +2739,11 @@
     ],
     "boardStatus": "ABMS-approved Disaster Medicine subspecialty announced 2026-03-02; ABEM, ABPM and ABS collaborating. As of 2026-10-07, the cited official notices say further implementation and eligibility details are forthcoming; this curriculum does not establish eligibility, an open examination, or certification. No separate examination details/blueprint located in the cited current official notices.",
     "boardEligibilityNotice": "The MGH programme page says EM residency applicants must have completed an ACGME-accredited EM residency in good standing; other ACGME-accredited specialty graduates may be considered with clinical funding arrangements, and non-ACGME applicants may be eligible with external funding. This is institutional programme eligibility language, not board eligibility. ABMS board eligibility rules for the new subspecialty were not yet published in the cited board notices. Verify directly with boards and programme.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 41.815555555555555,
     "verifiedSpecialtyHours": 28.470833333333335,
     "verifiedFoundationHours": 13.344722222222222,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2679,7 +2786,7 @@
         "title": "Emergency Department Operations On-Ramp: A Crash Course for Medical Directors, Administrators, and Researchers",
         "url": "https://www.youtube.com/watch?v=adw7UNkwddw",
         "provider": "YouTube; uploader/channel not established in accessible metadata",
-        "durationSeconds": 1709.0,
+        "durationSeconds": 1709,
         "sourceUrl": "https://www.youtube.com/watch?v=adw7UNkwddw",
         "accessVerified": true
       },
@@ -2688,7 +2795,7 @@
         "title": "Addressing Violence in the Workplace",
         "url": "https://www.youtube.com/watch?v=DM3KjPc49XE",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3430.0,
+        "durationSeconds": 3430,
         "sourceUrl": "https://www.youtube.com/watch?v=DM3KjPc49XE",
         "accessVerified": true
       },
@@ -2697,7 +2804,7 @@
         "title": "Involving Patients and Families in Safety",
         "url": "https://www.youtube.com/watch?v=-f8f-HpNB84",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3605.0,
+        "durationSeconds": 3605,
         "sourceUrl": "https://www.youtube.com/watch?v=-f8f-HpNB84",
         "accessVerified": true
       },
@@ -2706,7 +2813,7 @@
         "title": "Engaging Boards and Executive Leadership in Safety",
         "url": "https://www.youtube.com/watch?v=dV7YzGkviz4",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 4738.0,
+        "durationSeconds": 4738,
         "sourceUrl": "https://www.youtube.com/watch?v=dV7YzGkviz4",
         "accessVerified": true
       },
@@ -2715,7 +2822,7 @@
         "title": "VHA’s Journey to High Reliability: Advancing Toward Zero Harm and Becoming a Learning Health System",
         "url": "https://www.youtube.com/watch?v=bfk177p9-Mc",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3660.0,
+        "durationSeconds": 3660,
         "sourceUrl": "https://www.youtube.com/watch?v=bfk177p9-Mc",
         "accessVerified": true
       },
@@ -2724,7 +2831,7 @@
         "title": "Workforce Safety and Well-being Webinar Series, Session 2: Addressing Healthcare Workforce Burnout",
         "url": "https://www.youtube.com/watch?v=uIbw0lf-svQ",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3976.0,
+        "durationSeconds": 3976,
         "sourceUrl": "https://www.youtube.com/watch?v=uIbw0lf-svQ",
         "accessVerified": true
       },
@@ -2733,7 +2840,7 @@
         "title": "AHRQ National Webinar: Advancing Digital Healthcare Equity Navigating Disparities in the Digital Age",
         "url": "https://www.youtube.com/watch?v=v0l8uxnn4zo",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 5279.0,
+        "durationSeconds": 5279,
         "sourceUrl": "https://www.youtube.com/watch?v=v0l8uxnn4zo",
         "accessVerified": true
       },
@@ -2742,7 +2849,7 @@
         "title": "Workforce Safety and Wellbeing Webinar Series, Session 3: Resolving Workforce Turnover Crisis",
         "url": "https://www.youtube.com/watch?v=_mqzVaHYVSk",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3858.0,
+        "durationSeconds": 3858,
         "sourceUrl": "https://www.youtube.com/watch?v=_mqzVaHYVSk",
         "accessVerified": true
       },
@@ -2751,7 +2858,7 @@
         "title": "Engineering Safety Into Practice Through Implementation of the 2025 SAFER Guides",
         "url": "https://www.youtube.com/watch?v=78e1OpR6Luw",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3799.0,
+        "durationSeconds": 3799,
         "sourceUrl": "https://www.youtube.com/watch?v=78e1OpR6Luw",
         "accessVerified": true
       },
@@ -2760,7 +2867,7 @@
         "title": "Establishing Psychological Safety for Healthcare Workers",
         "url": "https://www.youtube.com/watch?v=us-cQYRVMKM",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3875.0,
+        "durationSeconds": 3875,
         "sourceUrl": "https://www.youtube.com/watch?v=us-cQYRVMKM",
         "accessVerified": true
       },
@@ -2769,7 +2876,7 @@
         "title": "Understanding and Operationalizing the National Action Alliance: Aim #1",
         "url": "https://www.youtube.com/watch?v=DOWccyxUC5s",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3676.0,
+        "durationSeconds": 3676,
         "sourceUrl": "https://www.youtube.com/watch?v=DOWccyxUC5s",
         "accessVerified": true
       },
@@ -2778,7 +2885,7 @@
         "title": "Webinar: Making Healthcare Safer by Design: Redesigning for Safety, Efficiency, and Burden Reduction",
         "url": "https://www.youtube.com/watch?v=NCVF-uLwn_M",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3628.0,
+        "durationSeconds": 3628,
         "sourceUrl": "https://www.youtube.com/watch?v=NCVF-uLwn_M",
         "accessVerified": true
       },
@@ -2787,7 +2894,7 @@
         "title": "National Action Alliance: Empowering Patient Voice in Safety Strategy",
         "url": "https://www.youtube.com/watch?v=xPndndL6RUc",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3699.0,
+        "durationSeconds": 3699,
         "sourceUrl": "https://www.youtube.com/watch?v=xPndndL6RUc",
         "accessVerified": true
       },
@@ -2796,7 +2903,7 @@
         "title": "Webinar: Empowering Frontline Staff with Competencies for Patient Safety",
         "url": "https://www.youtube.com/watch?v=b3OF3GhrJzk",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3642.0,
+        "durationSeconds": 3642,
         "sourceUrl": "https://www.youtube.com/watch?v=b3OF3GhrJzk",
         "accessVerified": true
       },
@@ -2805,7 +2912,7 @@
         "title": "National Action Alliance Webinar: Advancing Patient Safety Through Diagnostic Excellence",
         "url": "https://www.youtube.com/watch?v=wMWNuu_otAg",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3569.0,
+        "durationSeconds": 3569,
         "sourceUrl": "https://www.youtube.com/watch?v=wMWNuu_otAg",
         "accessVerified": true
       },
@@ -2814,7 +2921,7 @@
         "title": "Action Alliance Webinar: Leadership Strategies That Improve Workforce Safety and Well-Being",
         "url": "https://www.youtube.com/watch?v=i0MXUck0RBQ",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3388.0,
+        "durationSeconds": 3388,
         "sourceUrl": "https://www.youtube.com/watch?v=i0MXUck0RBQ",
         "accessVerified": true
       },
@@ -2823,7 +2930,7 @@
         "title": "Improving Safety Culture Using Teamwork and Patient Safety Norms",
         "url": "https://www.youtube.com/watch?v=_Gl65WAo0Qs",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3913.0,
+        "durationSeconds": 3913,
         "sourceUrl": "https://www.youtube.com/watch?v=_Gl65WAo0Qs",
         "accessVerified": true
       },
@@ -2832,7 +2939,7 @@
         "title": "Measuring and Responding to Safety Culture Across Healthcare",
         "url": "https://www.youtube.com/watch?v=-4F5zJHY4_A",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3618.0,
+        "durationSeconds": 3618,
         "sourceUrl": "https://www.youtube.com/watch?v=-4F5zJHY4_A",
         "accessVerified": true
       },
@@ -2841,7 +2948,7 @@
         "title": "Implementing the CMS Patient Safety Structural Measure",
         "url": "https://www.youtube.com/watch?v=yoDx2DA3rKM",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3810.0,
+        "durationSeconds": 3810,
         "sourceUrl": "https://www.youtube.com/watch?v=yoDx2DA3rKM",
         "accessVerified": true
       },
@@ -2850,7 +2957,7 @@
         "title": "National Action Alliance Webinar: Safety Best Practices of High-Performing Healthcare Systems",
         "url": "https://www.youtube.com/watch?v=QAWRJ-xapjk",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3639.0,
+        "durationSeconds": 3639,
         "sourceUrl": "https://www.youtube.com/watch?v=QAWRJ-xapjk",
         "accessVerified": true
       },
@@ -2859,7 +2966,7 @@
         "title": "National Action Alliance Webinar: Making Safety a Core Value: Building the Foundation",
         "url": "https://www.youtube.com/watch?v=kYLIQ2deO7k",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3648.0,
+        "durationSeconds": 3648,
         "sourceUrl": "https://www.youtube.com/watch?v=kYLIQ2deO7k",
         "accessVerified": true
       },
@@ -2868,7 +2975,7 @@
         "title": "National Action Alliance Webinar: Using Data for Real-Time Learning, Reporting and Review",
         "url": "https://www.youtube.com/watch?v=YySyH1KM6Xk",
         "provider": "AHRQ Patient Safety (US Agency for Healthcare Research and Quality)",
-        "durationSeconds": 3681.0,
+        "durationSeconds": 3681,
         "sourceUrl": "https://www.youtube.com/watch?v=YySyH1KM6Xk",
         "accessVerified": true
       },
@@ -2877,7 +2984,7 @@
         "title": "Patient Safety in Medical Offices: Using SOPS Tools to Drive Improvement",
         "url": "https://www.youtube.com/watch?v=hZnqvj_2Gyo",
         "provider": "AHRQ Patient Safety",
-        "durationSeconds": 3603.0,
+        "durationSeconds": 3603,
         "sourceUrl": "https://www.youtube.com/watch?v=hZnqvj_2Gyo",
         "accessVerified": true
       },
@@ -2886,7 +2993,7 @@
         "title": "New CAHPS Tools for Patient Experience Measurement (Webcast)",
         "url": "https://www.youtube.com/watch?v=UhOkHFLkWvU",
         "provider": "AHRQ Patient Safety",
-        "durationSeconds": 3485.0,
+        "durationSeconds": 3485,
         "sourceUrl": "https://www.youtube.com/watch?v=UhOkHFLkWvU",
         "accessVerified": true
       },
@@ -2895,7 +3002,7 @@
         "title": "The CAHPS Survey Development Process",
         "url": "https://www.youtube.com/watch?v=q0zKNw10Lww",
         "provider": "AHRQ Patient Safety",
-        "durationSeconds": 2609.0,
+        "durationSeconds": 2609,
         "sourceUrl": "https://www.youtube.com/watch?v=q0zKNw10Lww",
         "accessVerified": true
       },
@@ -2904,7 +3011,7 @@
         "title": "MIT 14.41 Lecture 13: How Health Insurance Works, How Generous Should Insurance Be to Patients",
         "url": "https://www.youtube.com/watch?v=dJSX1L6hT9U",
         "provider": "MIT OpenCourseWare course; public playlist by Students for Open and Universal Learning (SOUL)",
-        "durationSeconds": 4690.0,
+        "durationSeconds": 4690,
         "sourceUrl": "https://www.youtube.com/watch?v=dJSX1L6hT9U",
         "accessVerified": true
       },
@@ -2913,7 +3020,7 @@
         "title": "MIT 14.41 Lecture 14: Optimal H.I., Managed Care, Prospective Reimbursement, Medicaid, Medicare",
         "url": "https://www.youtube.com/watch?v=pqtCwgJSXDA",
         "provider": "MIT OpenCourseWare course; public playlist by Students for Open and Universal Learning (SOUL)",
-        "durationSeconds": 4701.0,
+        "durationSeconds": 4701,
         "sourceUrl": "https://www.youtube.com/watch?v=pqtCwgJSXDA",
         "accessVerified": true
       },
@@ -2922,7 +3029,7 @@
         "title": "MIT 14.41 Lecture 15: More on Medicare, Long Term Care, Health Care Reform",
         "url": "https://www.youtube.com/watch?v=UmDqstAWmYU",
         "provider": "MIT OpenCourseWare course; public playlist by Students for Open and Universal Learning (SOUL)",
-        "durationSeconds": 4761.0,
+        "durationSeconds": 4761,
         "sourceUrl": "https://www.youtube.com/watch?v=UmDqstAWmYU",
         "accessVerified": true
       },
@@ -2931,7 +3038,7 @@
         "title": "Managing the Understaffed Emergency Department | The Innovations in ED Mgmt. Course",
         "url": "https://www.youtube.com/watch?v=AyQd-1FhQGE",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 1723.0,
+        "durationSeconds": 1723,
         "sourceUrl": "https://www.youtube.com/watch?v=AyQd-1FhQGE",
         "accessVerified": true
       },
@@ -2940,7 +3047,7 @@
         "title": "Leading for Quality and Safety in the ED | The Innovations in ED Mgmt. Course",
         "url": "https://www.youtube.com/watch?v=cIXT_KRHhY4",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 1671.0,
+        "durationSeconds": 1671,
         "sourceUrl": "https://www.youtube.com/watch?v=cIXT_KRHhY4",
         "accessVerified": true
       },
@@ -2949,7 +3056,7 @@
         "title": "High Flow Tactics for Managing Capacity in Your Emerg. Dept. | The Innovations in ED Mgmt. Course",
         "url": "https://www.youtube.com/watch?v=NFvCB6rtmQQ",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 1376.0,
+        "durationSeconds": 1376,
         "sourceUrl": "https://www.youtube.com/watch?v=NFvCB6rtmQQ",
         "accessVerified": true
       },
@@ -2958,7 +3065,7 @@
         "title": "What Newly Minted EM Physicians Want | The Innovations in ED Mgmt. Course",
         "url": "https://www.youtube.com/watch?v=0_aX2kZ1aWA",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 1729.0,
+        "durationSeconds": 1729,
         "sourceUrl": "https://www.youtube.com/watch?v=0_aX2kZ1aWA",
         "accessVerified": true
       },
@@ -2967,7 +3074,7 @@
         "title": "An Emergency Department Makeover: Soup to Nuts | The Innovations in ED Mgmt. Course",
         "url": "https://www.youtube.com/watch?v=UXAgoF7Hd7k",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 1784.0,
+        "durationSeconds": 1784,
         "sourceUrl": "https://www.youtube.com/watch?v=UXAgoF7Hd7k",
         "accessVerified": true
       },
@@ -2976,7 +3083,7 @@
         "title": "Adapting ED Operations to Staffing and Boarding Challenges | The Innovations in ED Mgmt. Course",
         "url": "https://www.youtube.com/watch?v=Xq6JlKOkP4Q",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 1867.0,
+        "durationSeconds": 1867,
         "sourceUrl": "https://www.youtube.com/watch?v=Xq6JlKOkP4Q",
         "accessVerified": true
       },
@@ -2985,7 +3092,7 @@
         "title": "Conflict Resolution for EM Leaders | The Innovations in ED Mgmt. Course",
         "url": "https://www.youtube.com/watch?v=GABw4Q5_AKc",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 1463.0,
+        "durationSeconds": 1463,
         "sourceUrl": "https://www.youtube.com/watch?v=GABw4Q5_AKc",
         "accessVerified": true
       },
@@ -2994,7 +3101,7 @@
         "title": "Create a World-Class Emergency Department - The Data Survey from EDBA",
         "url": "https://www.youtube.com/watch?v=W_Ah_PpVvLc",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 3098.0,
+        "durationSeconds": 3098,
         "sourceUrl": "https://www.youtube.com/watch?v=W_Ah_PpVvLc",
         "accessVerified": true
       },
@@ -3003,7 +3110,7 @@
         "title": "Create a World-Class Emergency Department - An ED Information System The “Must Have” Basics",
         "url": "https://www.youtube.com/watch?v=LclHpyNTYyg",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 1779.0,
+        "durationSeconds": 1779,
         "sourceUrl": "https://www.youtube.com/watch?v=LclHpyNTYyg",
         "accessVerified": true
       },
@@ -3012,7 +3119,7 @@
         "title": "Create a World-Class Emergency Department - Cost Cutting Through Standardization",
         "url": "https://www.youtube.com/watch?v=-XSvsC51nn4",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 1897.0,
+        "durationSeconds": 1897,
         "sourceUrl": "https://www.youtube.com/watch?v=-XSvsC51nn4",
         "accessVerified": true
       },
@@ -3021,7 +3128,7 @@
         "title": "Create a World-Class Emergency Department - Using Data to Drive Performance: The HCA Model",
         "url": "https://www.youtube.com/watch?v=3dBg7UjeOgQ",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 1965.0,
+        "durationSeconds": 1965,
         "sourceUrl": "https://www.youtube.com/watch?v=3dBg7UjeOgQ",
         "accessVerified": true
       },
@@ -3030,7 +3137,7 @@
         "title": "Create a World-Class Emergency Department - Physician Executive Partnerships",
         "url": "https://www.youtube.com/watch?v=AvDKnBh-u7k",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 2671.0,
+        "durationSeconds": 2671,
         "sourceUrl": "https://www.youtube.com/watch?v=AvDKnBh-u7k",
         "accessVerified": true
       },
@@ -3039,7 +3146,7 @@
         "title": "Create a World-Class Emergency Department - Leadership Mentoring",
         "url": "https://www.youtube.com/watch?v=AHFL8deu500",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 2138.0,
+        "durationSeconds": 2138,
         "sourceUrl": "https://www.youtube.com/watch?v=AHFL8deu500",
         "accessVerified": true
       },
@@ -3048,7 +3155,7 @@
         "title": "Create a World-Class Emergency Department - HIPAA, EMTALA, Stark, & Anti Kickback",
         "url": "https://www.youtube.com/watch?v=qrB5PHP2RxI",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 2237.0,
+        "durationSeconds": 2237,
         "sourceUrl": "https://www.youtube.com/watch?v=qrB5PHP2RxI",
         "accessVerified": true
       },
@@ -3057,7 +3164,7 @@
         "title": "Create a World-Class Emergency Department - Managing Disruptive Physicians",
         "url": "https://www.youtube.com/watch?v=PGFKUAb4TDA",
         "provider": "The Center for Medical Education (CCME)",
-        "durationSeconds": 1396.0,
+        "durationSeconds": 1396,
         "sourceUrl": "https://www.youtube.com/watch?v=PGFKUAb4TDA",
         "accessVerified": true
       }
@@ -3245,11 +3352,11 @@
     ],
     "boardStatus": "This is a clinical physician fellowship, not a primary specialty board. ABEM administers a separate HALM subspecialty examination; some eligible physicians apply through ABA, ABFM or ABPM. Emergency Medicine primary certification is distinct. MGB public pages do not establish this fellowship is ACGME accredited or meets a HALM pathway.",
     "boardEligibilityNotice": "MGB states candidates must be ABEM board-certified or board-eligible before the July 1 start. HALM has separate ABMS certification, active continuing certification, licensure and pathway requirements. ABEM criteria describe ACGME-accredited training and time-limited training-plus-practice routes. No evidence reviewed confirms this specific MGB fellowship qualifies; verify directly. No eligibility is promised.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 37.35638888888889,
     "verifiedSpecialtyHours": 8.473055555555556,
     "verifiedFoundationHours": 28.883333333333333,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3298,7 +3405,7 @@
         "title": "AM Webinar: Treating melasma and other pigmentation on all skin types safely",
         "url": "https://www.youtube.com/watch?v=E7LyzfEbPT0",
         "provider": "Aesthetic Medicine Live / Dr Asif Hussein",
-        "durationSeconds": 2673.0,
+        "durationSeconds": 2673,
         "sourceUrl": "https://www.youtube.com/watch?v=E7LyzfEbPT0",
         "accessVerified": true
       },
@@ -3307,7 +3414,7 @@
         "title": "Lasers and skin resurfacing (chapter segment of 2024 Aesthetic Rejuvenation webinar)",
         "url": "https://www.youtube.com/watch?v=2X3N4jKoT6Y&t=1497s",
         "provider": "Laser & Skin Surgery Center of New York; chapter attributed to Dr Leonard Bernstein",
-        "durationSeconds": 854.0,
+        "durationSeconds": 854,
         "sourceUrl": "https://www.youtube.com/watch?v=2X3N4jKoT6Y",
         "accessVerified": true
       },
@@ -3316,7 +3423,7 @@
         "title": "Lecture-105: Principles of Cutaneous LASER therapy, Part-I. Rook's chapter 23.",
         "url": "https://www.youtube.com/watch?v=gNfLAXRcNrY",
         "provider": "YouTube public watch page",
-        "durationSeconds": 3233.0,
+        "durationSeconds": 3233,
         "sourceUrl": "https://www.youtube.com/watch?v=gNfLAXRcNrY",
         "accessVerified": true
       },
@@ -3325,7 +3432,7 @@
         "title": "Lynton Lasers Free Webinar: Aesthetic LASER Technologies with Dr Sam Hills PhD",
         "url": "https://www.youtube.com/watch?v=ts4rgaxcQcI",
         "provider": "YouTube public watch page",
-        "durationSeconds": 3539.0,
+        "durationSeconds": 3539,
         "sourceUrl": "https://www.youtube.com/watch?v=ts4rgaxcQcI",
         "accessVerified": true
       },
@@ -3334,7 +3441,7 @@
         "title": "Vascular Webinar with Hamish Mcnair",
         "url": "https://www.youtube.com/watch?v=4PwabiwU4hQ",
         "provider": "YouTube public watch page",
-        "durationSeconds": 4164.0,
+        "durationSeconds": 4164,
         "sourceUrl": "https://www.youtube.com/watch?v=4PwabiwU4hQ",
         "accessVerified": true
       },
@@ -3343,7 +3450,7 @@
         "title": "Lynton Lasers Free Webinar: Treating Pigmented Lesions with LASER and IPL",
         "url": "https://www.youtube.com/watch?v=rfESKJgOvWM",
         "provider": "YouTube public watch page",
-        "durationSeconds": 4028.0,
+        "durationSeconds": 4028,
         "sourceUrl": "https://www.youtube.com/watch?v=rfESKJgOvWM",
         "accessVerified": true
       },
@@ -3352,7 +3459,7 @@
         "title": "Lynton Lasers Free Webinar: Introduction to LASER Tattoo Removal",
         "url": "https://www.youtube.com/watch?v=vQTQvErvo0Y",
         "provider": "YouTube public watch page",
-        "durationSeconds": 4251.0,
+        "durationSeconds": 4251,
         "sourceUrl": "https://www.youtube.com/watch?v=vQTQvErvo0Y",
         "accessVerified": true
       },
@@ -3361,7 +3468,7 @@
         "title": "Acne and Acne Scarring: Light and Laser Treatments | Monica Boen, MD | Webinar",
         "url": "https://www.youtube.com/watch?v=U4z4AQW2D_8",
         "provider": "YouTube public watch page",
-        "durationSeconds": 1758.0,
+        "durationSeconds": 1758,
         "sourceUrl": "https://www.youtube.com/watch?v=U4z4AQW2D_8",
         "accessVerified": true
       },
@@ -3370,7 +3477,7 @@
         "title": "How to Eliminate Brown Spots and Red Spots With Lasers | Cosmetic Laser Dermatology Webinar",
         "url": "https://www.youtube.com/watch?v=6Z_ysMUsAUI",
         "provider": "YouTube public watch page",
-        "durationSeconds": 2464.0,
+        "durationSeconds": 2464,
         "sourceUrl": "https://www.youtube.com/watch?v=6Z_ysMUsAUI",
         "accessVerified": true
       },
@@ -3379,7 +3486,7 @@
         "title": "Lasers, Lasers, Lasers: A Cosmetic Laser Dermatology Webinar With Dr. William Groff",
         "url": "https://www.youtube.com/watch?v=KFT7iRZHPz8",
         "provider": "YouTube public watch page",
-        "durationSeconds": 3417.0,
+        "durationSeconds": 3417,
         "sourceUrl": "https://www.youtube.com/watch?v=KFT7iRZHPz8",
         "accessVerified": true
       }
@@ -3492,7 +3599,7 @@
     ],
     "boardStatus": "No independent ABMS/ABD board certificate or examination for laser/cosmetic dermatology identified in the current official ACGME dermatology subspecialty list or ABD subspecialty-exam FAQ reviewed 2026-10-07. ABD separately lists dermatopathology, micrographic dermatologic surgery and pediatric dermatology subspecialty exams. This is a bounded public-source finding, not proof that no local institutional certificate exists.",
     "boardEligibilityNotice": "The MGH programme page describes a clinical laser/cosmetic fellowship but does not publish application eligibility in the public page beyond an email contact. Do not infer this fellowship confers ABD board eligibility or subspecialty certification. Verify applicant eligibility with the programme and current ABD requirements. General ABD certification requires separate accredited training/exam pathway; licensure is distinct.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 8.439166666666667,
     "verifiedSpecialtyHours": 6.360277777777778,
     "verifiedFoundationHours": 2.078888888888889,
@@ -3538,7 +3645,7 @@
         "title": "Pediatric Melanoma—Ronald Cotliar, MD | Pediatric Grand Rounds",
         "url": "https://www.youtube.com/watch?v=DPtCCOdVI4Y",
         "provider": "Pediatric Grand Rounds (YouTube public watch page)",
-        "durationSeconds": 3252.0,
+        "durationSeconds": 3252,
         "sourceUrl": "https://www.youtube.com/watch?v=DPtCCOdVI4Y",
         "accessVerified": true
       },
@@ -3547,7 +3654,7 @@
         "title": "Surgical Management of Melanoma",
         "url": "https://sh-virtualgrandrounds.brightcovegallery.com/detail/videos/video-library/video/6379510319112/surgical-management-of-melanoma?autoStart=true&page=3",
         "provider": "Sutter Health Virtual Grand Rounds",
-        "durationSeconds": 2115.0,
+        "durationSeconds": 2115,
         "sourceUrl": "https://sh-virtualgrandrounds.brightcovegallery.com/detail/videos/video-library/video/6379510319112/surgical-management-of-melanoma?autoStart=true&page=3",
         "accessVerified": true
       },
@@ -3619,7 +3726,7 @@
         "title": "Melanocytic Dermpath Basics: Melanoma",
         "url": "https://www.youtube.com/watch?v=8N0IZZpF8ts",
         "provider": "YouTube",
-        "durationSeconds": 4556.0,
+        "durationSeconds": 4556,
         "sourceUrl": "https://www.youtube.com/watch?v=8N0IZZpF8ts",
         "accessVerified": true
       },
@@ -3628,7 +3735,7 @@
         "title": "Melanocytic Dermpath Basics: Benign Nevus",
         "url": "https://www.youtube.com/watch?v=jKZDqJez9jw",
         "provider": "YouTube",
-        "durationSeconds": 4529.0,
+        "durationSeconds": 4529,
         "sourceUrl": "https://www.youtube.com/watch?v=jKZDqJez9jw",
         "accessVerified": true
       },
@@ -3637,7 +3744,7 @@
         "title": "Melanocytic Immunohistochemistry: Melanocytic Lesions",
         "url": "https://www.youtube.com/watch?v=JyNnk-MdVqE",
         "provider": "YouTube",
-        "durationSeconds": 4989.0,
+        "durationSeconds": 4989,
         "sourceUrl": "https://www.youtube.com/watch?v=JyNnk-MdVqE",
         "accessVerified": true
       },
@@ -3646,7 +3753,7 @@
         "title": "Spitz Nevus, Dysplastic Nevus, Blue Nevus, Congenital Nevus & more - Dermatopathology Basics",
         "url": "https://www.youtube.com/watch?v=NcTPZB3YnXQ",
         "provider": "YouTube",
-        "durationSeconds": 4227.0,
+        "durationSeconds": 4227,
         "sourceUrl": "https://www.youtube.com/watch?v=NcTPZB3YnXQ",
         "accessVerified": true
       },
@@ -3655,7 +3762,7 @@
         "title": "Melanocytic Dermpath Board Review (melanoma, blue nevus, other nevi, & mimics)",
         "url": "https://www.youtube.com/watch?v=BN0_nV_aIdU",
         "provider": "YouTube",
-        "durationSeconds": 7562.0,
+        "durationSeconds": 7562,
         "sourceUrl": "https://www.youtube.com/watch?v=BN0_nV_aIdU",
         "accessVerified": true
       },
@@ -3664,7 +3771,7 @@
         "title": "Normal Skin Histology - Explained by a Dermatopathologist",
         "url": "https://www.youtube.com/watch?v=yQQ2Dmz42Vs",
         "provider": "YouTube",
-        "durationSeconds": 4459.0,
+        "durationSeconds": 4459,
         "sourceUrl": "https://www.youtube.com/watch?v=yQQ2Dmz42Vs",
         "accessVerified": true
       },
@@ -3673,7 +3780,7 @@
         "title": "Molecular Basis of Melanoma",
         "url": "https://www.youtube.com/watch?v=wYKThnW6Mls",
         "provider": "YouTube",
-        "durationSeconds": 4223.0,
+        "durationSeconds": 4223,
         "sourceUrl": "https://www.youtube.com/watch?v=wYKThnW6Mls",
         "accessVerified": true
       },
@@ -3682,7 +3789,7 @@
         "title": "Melanocytic Tumors: A Dermatopathology Lecture",
         "url": "https://www.youtube.com/watch?v=RPFGggomgRs",
         "provider": "YouTube",
-        "durationSeconds": 4532.0,
+        "durationSeconds": 4532,
         "sourceUrl": "https://www.youtube.com/watch?v=RPFGggomgRs",
         "accessVerified": true
       },
@@ -3691,7 +3798,7 @@
         "title": "Introduction to Melanocytic Neoplasms",
         "url": "https://www.youtube.com/watch?v=NVgcCliPO58",
         "provider": "YouTube",
-        "durationSeconds": 3802.0,
+        "durationSeconds": 3802,
         "sourceUrl": "https://www.youtube.com/watch?v=NVgcCliPO58",
         "accessVerified": true
       },
@@ -3700,7 +3807,7 @@
         "title": "Melanoma Pathology: From Clinical Presentation to Molecular Diagnosis",
         "url": "https://www.youtube.com/watch?v=xaOTNkwfvHM",
         "provider": "YouTube",
-        "durationSeconds": 4223.0,
+        "durationSeconds": 4223,
         "sourceUrl": "https://www.youtube.com/watch?v=xaOTNkwfvHM",
         "accessVerified": true
       },
@@ -3709,7 +3816,7 @@
         "title": "Dermoscopy Happy Hour - Ep.16 Season 4 – Difficult Melanomas",
         "url": "https://www.youtube.com/watch?v=rckGSRspWuA",
         "provider": "YouTube",
-        "durationSeconds": 5896.0,
+        "durationSeconds": 5896,
         "sourceUrl": "https://www.youtube.com/watch?v=rckGSRspWuA",
         "accessVerified": true
       },
@@ -3718,7 +3825,7 @@
         "title": "Dermoscopy Happy Hour - Season 2 Episode 8: Acral Melanoma",
         "url": "https://www.youtube.com/watch?v=AJjUa_-6rPk",
         "provider": "YouTube",
-        "durationSeconds": 5320.0,
+        "durationSeconds": 5320,
         "sourceUrl": "https://www.youtube.com/watch?v=AJjUa_-6rPk",
         "accessVerified": true
       },
@@ -3727,7 +3834,7 @@
         "title": "Dermoscopy Happy Hour - Ep.17 Season 4: Preoperative Assessment of Melanoma Thickness",
         "url": "https://www.youtube.com/watch?v=r4-aVn7JyIk",
         "provider": "YouTube",
-        "durationSeconds": 5424.0,
+        "durationSeconds": 5424,
         "sourceUrl": "https://www.youtube.com/watch?v=r4-aVn7JyIk",
         "accessVerified": true
       },
@@ -3736,7 +3843,7 @@
         "title": "Ep.4 - Melanoma Thickness with John Paoli",
         "url": "https://www.youtube.com/watch?v=eNNolBOoEUc",
         "provider": "YouTube",
-        "durationSeconds": 4006.0,
+        "durationSeconds": 4006,
         "sourceUrl": "https://www.youtube.com/watch?v=eNNolBOoEUc",
         "accessVerified": true
       },
@@ -3745,7 +3852,7 @@
         "title": "Ep.5 - Melanoma Epidemiology with Iris Zalaudek",
         "url": "https://www.youtube.com/watch?v=8OcrLMrOVrU",
         "provider": "YouTube",
-        "durationSeconds": 3784.0,
+        "durationSeconds": 3784,
         "sourceUrl": "https://www.youtube.com/watch?v=8OcrLMrOVrU",
         "accessVerified": true
       },
@@ -3754,7 +3861,7 @@
         "title": "Dermoscopy Happy Hour - Season 2 Episode 7: Scalp Melanoma",
         "url": "https://www.youtube.com/watch?v=_oWKZTiIYTw",
         "provider": "YouTube",
-        "durationSeconds": 4875.0,
+        "durationSeconds": 4875,
         "sourceUrl": "https://www.youtube.com/watch?v=_oWKZTiIYTw",
         "accessVerified": true
       },
@@ -3763,7 +3870,7 @@
         "title": "Dermoscopy Happy Hour - Season 2 Episode 11: Melanoma in Pregnancy and Nevi Changing in Pregnancy",
         "url": "https://www.youtube.com/watch?v=Xo26nY1pTUQ",
         "provider": "YouTube",
-        "durationSeconds": 5508.0,
+        "durationSeconds": 5508,
         "sourceUrl": "https://www.youtube.com/watch?v=Xo26nY1pTUQ",
         "accessVerified": true
       },
@@ -3772,7 +3879,7 @@
         "title": "Ep.13 Melanocytic or Not Melanocytic with Elvira Moscarella",
         "url": "https://www.youtube.com/watch?v=UCT-OHy7nok",
         "provider": "YouTube",
-        "durationSeconds": 4221.0,
+        "durationSeconds": 4221,
         "sourceUrl": "https://www.youtube.com/watch?v=UCT-OHy7nok",
         "accessVerified": true
       },
@@ -3781,7 +3888,7 @@
         "title": "Dermoscopy Happy Hour - Season 2 Episode 3: Spitz Nevi, Diagnosis and Management",
         "url": "https://www.youtube.com/watch?v=zzAYArWqHhg",
         "provider": "YouTube",
-        "durationSeconds": 5528.0,
+        "durationSeconds": 5528,
         "sourceUrl": "https://www.youtube.com/watch?v=zzAYArWqHhg",
         "accessVerified": true
       },
@@ -3790,7 +3897,7 @@
         "title": "Ep.18 Lentigo Maligna with Wilhelm Stolz",
         "url": "https://www.youtube.com/watch?v=J_qAfX4Vves",
         "provider": "YouTube",
-        "durationSeconds": 2954.0,
+        "durationSeconds": 2954,
         "sourceUrl": "https://www.youtube.com/watch?v=J_qAfX4Vves",
         "accessVerified": true
       },
@@ -3799,7 +3906,7 @@
         "title": "(Part 1 of 2) Dermoscopy Primer - Ashfaq Marghoob, MD",
         "url": "https://www.youtube.com/watch?v=EOy2bVFYTwE",
         "provider": "YouTube",
-        "durationSeconds": 3715.0,
+        "durationSeconds": 3715,
         "sourceUrl": "https://www.youtube.com/watch?v=EOy2bVFYTwE",
         "accessVerified": true
       },
@@ -3808,7 +3915,7 @@
         "title": "(Part 2 of 2) Dermoscopy Primer - Ashfaq Marghoob, MD",
         "url": "https://www.youtube.com/watch?v=uPUS90bn2gk",
         "provider": "YouTube",
-        "durationSeconds": 3793.0,
+        "durationSeconds": 3793,
         "sourceUrl": "https://www.youtube.com/watch?v=uPUS90bn2gk",
         "accessVerified": true
       },
@@ -3817,7 +3924,7 @@
         "title": "2-Step Dermoscopy Algorithm: Step 1",
         "url": "https://www.youtube.com/watch?v=4vupxETmjVQ",
         "provider": "YouTube",
-        "durationSeconds": 5093.0,
+        "durationSeconds": 5093,
         "sourceUrl": "https://www.youtube.com/watch?v=4vupxETmjVQ",
         "accessVerified": true
       },
@@ -3826,7 +3933,7 @@
         "title": "Advanced Dermoscopy Pearls Beyond the Basics, Veronica Shi, MD",
         "url": "https://www.youtube.com/watch?v=cxnwhiVwGbg",
         "provider": "YouTube",
-        "durationSeconds": 3314.0,
+        "durationSeconds": 3314,
         "sourceUrl": "https://www.youtube.com/watch?v=cxnwhiVwGbg",
         "accessVerified": true
       },
@@ -3835,7 +3942,7 @@
         "title": "Immunotherapy in Melanoma: Where Are We Going From Here?",
         "url": "https://www.youtube.com/watch?v=XudZm9uHQ1Q",
         "provider": "YouTube",
-        "durationSeconds": 3625.0,
+        "durationSeconds": 3625,
         "sourceUrl": "https://www.youtube.com/watch?v=XudZm9uHQ1Q",
         "accessVerified": true
       },
@@ -3844,7 +3951,7 @@
         "title": "Ask the Expert: Key Takeaways from ASCO – Advances in Cutaneous & Rare Melanoma Subtypes",
         "url": "https://www.youtube.com/watch?v=4DCNKtzK7NE",
         "provider": "YouTube",
-        "durationSeconds": 3681.0,
+        "durationSeconds": 3681,
         "sourceUrl": "https://www.youtube.com/watch?v=4DCNKtzK7NE",
         "accessVerified": true
       },
@@ -3853,7 +3960,7 @@
         "title": "Emerging Neoadjuvant and Adjuvant Therapies for Locally Advanced Melanoma",
         "url": "https://www.youtube.com/watch?v=mnraRQhGZmQ",
         "provider": "YouTube",
-        "durationSeconds": 1544.0,
+        "durationSeconds": 1544,
         "sourceUrl": "https://www.youtube.com/watch?v=mnraRQhGZmQ",
         "accessVerified": true
       },
@@ -3862,7 +3969,7 @@
         "title": "Ask the Expert: Acral Melanoma: Insights from Research and Real Life",
         "url": "https://www.youtube.com/watch?v=6mi1u1Y6zSo",
         "provider": "YouTube",
-        "durationSeconds": 3835.0,
+        "durationSeconds": 3835,
         "sourceUrl": "https://www.youtube.com/watch?v=6mi1u1Y6zSo",
         "accessVerified": true
       },
@@ -3871,7 +3978,7 @@
         "title": "Melanoma and Brain Metastases",
         "url": "https://www.youtube.com/watch?v=IaIO62OOblg",
         "provider": "YouTube",
-        "durationSeconds": 2164.0,
+        "durationSeconds": 2164,
         "sourceUrl": "https://www.youtube.com/watch?v=IaIO62OOblg",
         "accessVerified": true
       }
@@ -4055,11 +4162,11 @@
     ],
     "boardStatus": "This is a genuine one-year physician clinical fellowship described by Mass General Brigham for dermatology residents. It is not a separately named specialty or an ABD/ACGME melanoma subspecialty in the reviewed public listings. ABD primary Dermatology certification requires its own accredited residency and exam pathway. The MGB page does not state this fellowship is ACGME-accredited; no accreditation claim is made. No separate melanoma board examination was identified. Verify changing status with ABD/ACGME.",
     "boardEligibilityNotice": "Completion of this independent course or the institutional fellowship does not establish board eligibility or certification. Confirm requirements with ABD; the institutional page does not establish ACGME accreditation.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 36.31916666666667,
     "verifiedSpecialtyHours": 31.56861111111111,
     "verifiedFoundationHours": 4.750555555555556,
-    "hoursGap": 0.0,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -4093,7 +4200,7 @@
       "status": "Study-time plan only. It is not delivered video time or real clinical-training time. Actual ready free-video time is currently 0 verified hours, so the 36-hour viewing allocation is unmet."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X106_1b24229c.pdf",
+    "syllabusUrl": "/manus-storage/MED-X106_962e0273.pdf",
     "pdfIds": [
       "med-syllabus-MED-X106",
       "med-reading-3250341959d5",
@@ -4262,6 +4369,15 @@
         "durationSeconds": null,
         "sourceUrl": "https://www.youtube.com/watch?v=9-XT2wI9D5w",
         "accessVerified": false
+      },
+      {
+        "id": "VID-YT-jzMZtl-rBwY",
+        "title": "MDA Engage: Polymyositis and Dermatomyositis",
+        "url": "https://www.youtube.com/watch?v=jzMZtl-rBwY",
+        "provider": "Muscular Dystrophy Association (MDA)",
+        "durationSeconds": 3971,
+        "sourceUrl": "https://www.youtube.com/watch?v=jzMZtl-rBwY",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -4298,7 +4414,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "VID-YT-CpevGJMGgZI",
-          "VID-YT-cXPArcrEH10"
+          "VID-YT-cXPArcrEH10",
+          "VID-YT-jzMZtl-rBwY"
         ]
       },
       {
@@ -4381,11 +4498,11 @@
     ],
     "boardStatus": "This is an institutional Dermatology/Rheumatology fellowship for academic dermatologists, not itself a board examination, credential, or published dual-board pathway. No separate Rheumatologic Dermatology board examination was identified in the reviewed ABD, ABIM, or programme materials. ABIM Rheumatology certification is a separate pathway with its own prerequisites; the ACGME Rheumatology requirements describe internal-medicine fellowship eligibility and do not establish this dermatology fellowship as an ABIM-qualifying programme. ABD board certification is separate. The fellowship's accreditation status and any fellow board outcomes were not established from its public page.",
     "boardEligibilityNotice": "No board eligibility is created by this independent curriculum or inferred from the institutional fellowship. ABD and ABIM determine eligibility under their own current rules. The ABIM Rheumatology certification exam ordinarily follows required internal-medicine training and accredited rheumatology fellowship; the one-year BWH dermatology/rheumatology fellowship is not represented as that pathway.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 0.0,
-    "verifiedSpecialtyHours": 0.0,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 36.0,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 1.1030555555555555,
+    "verifiedSpecialtyHours": 1.1030555555555555,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 34.89694444444444,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -4430,7 +4547,7 @@
         "title": "Preoperative Evaluation from the Anesthesia Perspective — Dr. Richard Cano (recorded 2014-07-09)",
         "url": "https://www.youtube.com/watch?v=uhW7S2LzYSw",
         "provider": "Mary Greeley Medical Center",
-        "durationSeconds": 3622.0,
+        "durationSeconds": 3622,
         "sourceUrl": "https://www.youtube.com/watch?v=uhW7S2LzYSw",
         "accessVerified": true
       },
@@ -4439,7 +4556,7 @@
         "title": "Preoperative Evaluation — Dr. Hessel",
         "url": "https://www.youtube.com/watch?v=rly_YYhfzig",
         "provider": "University of Kentucky Department of Anesthesiology",
-        "durationSeconds": 2186.0,
+        "durationSeconds": 2186,
         "sourceUrl": "https://www.youtube.com/watch?v=rly_YYhfzig",
         "accessVerified": true
       },
@@ -4448,7 +4565,7 @@
         "title": "Perioperative Cardiology: Preoperative Assessment and Management",
         "url": "https://www.youtube.com/watch?v=30emqQYB7mE",
         "provider": "New England Baptist Medical Center (as identified during source-page discovery)",
-        "durationSeconds": 3217.0,
+        "durationSeconds": 3217,
         "sourceUrl": "https://www.youtube.com/watch?v=30emqQYB7mE",
         "accessVerified": true
       },
@@ -4457,7 +4574,7 @@
         "title": "Grand Rounds: Ozempic — Emerging Perioperative Risks | Ep 14",
         "url": "https://www.youtube.com/watch?v=KbhJWUeM0Us",
         "provider": "USask Anesthesia / University of Saskatchewan Department of Anesthesiology, Perioperative Medicine & Pain Management",
-        "durationSeconds": 3074.0,
+        "durationSeconds": 3074,
         "sourceUrl": "https://www.youtube.com/watch?v=KbhJWUeM0Us",
         "accessVerified": true
       },
@@ -4466,7 +4583,7 @@
         "title": "Pulmonary Hypertension & Right Heart Failure for the Non-Cardiac Anesthesiologist | Ep 42",
         "url": "https://www.youtube.com/watch?v=Ct2vipmsli0",
         "provider": "USask Anesthesia / University of Saskatchewan Department of Anesthesiology, Perioperative Medicine & Pain Management",
-        "durationSeconds": 2350.0,
+        "durationSeconds": 2350,
         "sourceUrl": "https://www.youtube.com/watch?v=Ct2vipmsli0",
         "accessVerified": true
       },
@@ -4475,7 +4592,7 @@
         "title": "Grand Rounds: Frailty in the Perioperative Setting | Ep 12",
         "url": "https://www.youtube.com/watch?v=yV-q7oQGeiw",
         "provider": "USask Anesthesia / University of Saskatchewan",
-        "durationSeconds": 3373.0,
+        "durationSeconds": 3373,
         "sourceUrl": "https://www.youtube.com/watch?v=yV-q7oQGeiw",
         "accessVerified": true
       },
@@ -4484,7 +4601,7 @@
         "title": "Grand Rounds: Mechanisms Underlying Delirium | Ep 13",
         "url": "https://www.youtube.com/watch?v=dL6lXKUvb-8",
         "provider": "USask Anesthesia / University of Saskatchewan",
-        "durationSeconds": 3878.0,
+        "durationSeconds": 3878,
         "sourceUrl": "https://www.youtube.com/watch?v=dL6lXKUvb-8",
         "accessVerified": true
       },
@@ -4493,7 +4610,7 @@
         "title": "What Goes Down Must Not Come Back Up (PONV Guidelines) | Ep 87",
         "url": "https://www.youtube.com/watch?v=gvZPozeaEwI",
         "provider": "USask Anesthesia / University of Saskatchewan",
-        "durationSeconds": 2673.0,
+        "durationSeconds": 2673,
         "sourceUrl": "https://www.youtube.com/watch?v=gvZPozeaEwI",
         "accessVerified": true
       },
@@ -4502,7 +4619,7 @@
         "title": "Perioperative Management of Anticoagulants: What Clinicians Need to Know in 2021",
         "url": "https://www.youtube.com/watch?v=w383WQiFNto",
         "provider": "Icahn School of Medicine at Mount Sinai; grand round by James D. Douketis (St Joseph’s Healthcare/McMaster University)",
-        "durationSeconds": 3386.0,
+        "durationSeconds": 3386,
         "sourceUrl": "https://www.youtube.com/watch?v=w383WQiFNto",
         "accessVerified": true
       },
@@ -4511,7 +4628,7 @@
         "title": "Difficult Airway Society 2025 Guidelines: From Evidence to Everyday Practice | Ep 82",
         "url": "https://www.youtube.com/watch?v=Ej8lQYQdcXo",
         "provider": "USask Anesthesia / University of Saskatchewan",
-        "durationSeconds": 2961.0,
+        "durationSeconds": 2961,
         "sourceUrl": "https://www.youtube.com/watch?v=Ej8lQYQdcXo",
         "accessVerified": true
       },
@@ -4520,7 +4637,7 @@
         "title": "From Sternum to Symphysis: Regional Anesthesia of the Trunk | Ep 80",
         "url": "https://www.youtube.com/watch?v=ScJsPFCfW84",
         "provider": "USask Anesthesia / University of Saskatchewan; presenter is anesthesiologist and Dalhousie associate professor Jonathan Bailey",
-        "durationSeconds": 2863.0,
+        "durationSeconds": 2863,
         "sourceUrl": "https://www.youtube.com/watch?v=ScJsPFCfW84",
         "accessVerified": true
       },
@@ -4529,7 +4646,7 @@
         "title": "Perioperative Implications of Psychedelics & Psychostimulants | Anesthesiology Grand Rounds (2025-11-03)",
         "url": "https://www.youtube.com/watch?v=adUupard7OM",
         "provider": "Stanford Anesthesia; Trent Emerick, MD",
-        "durationSeconds": 3460.0,
+        "durationSeconds": 3460,
         "sourceUrl": "https://www.youtube.com/watch?v=adUupard7OM",
         "accessVerified": true
       },
@@ -4538,7 +4655,7 @@
         "title": "Death Interrupted | Anesthesiology Grand Rounds",
         "url": "https://www.youtube.com/watch?v=3hQS7grtW4o",
         "provider": "Stanford CME; Blair Bigham, MD (Scarborough Health Network intensivist)",
-        "durationSeconds": 1888.0,
+        "durationSeconds": 1888,
         "sourceUrl": "https://www.youtube.com/watch?v=3hQS7grtW4o",
         "accessVerified": true
       },
@@ -4547,7 +4664,7 @@
         "title": "Team Learning & Execution at a Complex AMC | Anesthesiology Grand Rounds",
         "url": "https://www.youtube.com/watch?v=V4uN7A4kYFI",
         "provider": "Stanford CME; William C. Daniel, MD, UT Southwestern Chief Quality Officer",
-        "durationSeconds": 2616.0,
+        "durationSeconds": 2616,
         "sourceUrl": "https://www.youtube.com/watch?v=V4uN7A4kYFI",
         "accessVerified": true
       },
@@ -4556,7 +4673,7 @@
         "title": "Echo Lecture — Evaluation of Aortic Stenosis (2021-10-07)",
         "url": "https://medicine.utah.edu/anesthesiology/echo/lecture-series/video?video=1_gf40gmqs",
         "provider": "University of Utah Department of Anesthesiology, Echo lecture series; Nathaniel Birgenheier",
-        "durationSeconds": 1752.0,
+        "durationSeconds": 1752,
         "sourceUrl": "https://medicine.utah.edu/anesthesiology/echo/lecture-series/video?video=1_gf40gmqs",
         "accessVerified": true
       },
@@ -4565,7 +4682,7 @@
         "title": "BIS Monitoring: The Science Behind the Technology | Ep 93",
         "url": "https://www.youtube.com/watch?v=ohgx5zT-67o",
         "provider": "USask Anesthesia / University of Saskatchewan; invited biomedical engineer Robert Govin (Medtronic critical-care division)",
-        "durationSeconds": 3202.0,
+        "durationSeconds": 3202,
         "sourceUrl": "https://www.youtube.com/watch?v=ohgx5zT-67o",
         "accessVerified": true
       },
@@ -4574,7 +4691,7 @@
         "title": "Pharmacology for Anesthesia — 01 Fundamentals of Clinical Pharmacology Part 1",
         "url": "https://www.youtube.com/watch?v=8uaIj5sKKqo",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 1091.0,
+        "durationSeconds": 1091,
         "sourceUrl": "https://www.youtube.com/watch?v=8uaIj5sKKqo",
         "accessVerified": true
       },
@@ -4583,7 +4700,7 @@
         "title": "Pharmacology for Anesthesia — 01 Fundamentals of Clinical Pharmacology Part 2",
         "url": "https://www.youtube.com/watch?v=yFaWucev9w0",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 766.0,
+        "durationSeconds": 766,
         "sourceUrl": "https://www.youtube.com/watch?v=yFaWucev9w0",
         "accessVerified": true
       },
@@ -4592,7 +4709,7 @@
         "title": "Pharmacology for Anesthesia — 01 Fundamentals of Clinical Pharmacology Part 3",
         "url": "https://www.youtube.com/watch?v=m42x0aGRKFw",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 1134.0,
+        "durationSeconds": 1134,
         "sourceUrl": "https://www.youtube.com/watch?v=m42x0aGRKFw",
         "accessVerified": true
       },
@@ -4601,7 +4718,7 @@
         "title": "Pharmacology for Anesthesia — 01 Fundamentals of Clinical Pharmacology Part 4",
         "url": "https://www.youtube.com/watch?v=HTGnaZfFhHA",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 821.0,
+        "durationSeconds": 821,
         "sourceUrl": "https://www.youtube.com/watch?v=HTGnaZfFhHA",
         "accessVerified": true
       },
@@ -4610,7 +4727,7 @@
         "title": "Pharmacology for Anesthesia — 02 IV Anesthetics Part 3",
         "url": "https://www.youtube.com/watch?v=2UzErHVwFkI",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 735.0,
+        "durationSeconds": 735,
         "sourceUrl": "https://www.youtube.com/watch?v=2UzErHVwFkI",
         "accessVerified": true
       },
@@ -4619,7 +4736,7 @@
         "title": "Pharmacology for Anesthesia — 02 IV Anesthetics Part 1",
         "url": "https://www.youtube.com/watch?v=BZz8djvKZt8",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 731.0,
+        "durationSeconds": 731,
         "sourceUrl": "https://www.youtube.com/watch?v=BZz8djvKZt8",
         "accessVerified": true
       },
@@ -4628,7 +4745,7 @@
         "title": "Pharmacology for Anesthesia — 02 IV Anesthetics Part 2",
         "url": "https://www.youtube.com/watch?v=bIQQ4HPpeE4",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 726.0,
+        "durationSeconds": 726,
         "sourceUrl": "https://www.youtube.com/watch?v=bIQQ4HPpeE4",
         "accessVerified": true
       },
@@ -4637,7 +4754,7 @@
         "title": "Pharmacology for Anesthesia — 03 Opioids Part 1",
         "url": "https://www.youtube.com/watch?v=tXMauGvPbMI",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 721.0,
+        "durationSeconds": 721,
         "sourceUrl": "https://www.youtube.com/watch?v=tXMauGvPbMI",
         "accessVerified": true
       },
@@ -4646,7 +4763,7 @@
         "title": "Pharmacology for Anesthesia — 03 Opioids Part 2",
         "url": "https://www.youtube.com/watch?v=LizsLIE7kXI",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 536.0,
+        "durationSeconds": 536,
         "sourceUrl": "https://www.youtube.com/watch?v=LizsLIE7kXI",
         "accessVerified": true
       },
@@ -4655,7 +4772,7 @@
         "title": "Pharmacology for Anesthesia — 03 Opioids Part 3",
         "url": "https://www.youtube.com/watch?v=sWXprWEPDs4",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 1077.0,
+        "durationSeconds": 1077,
         "sourceUrl": "https://www.youtube.com/watch?v=sWXprWEPDs4",
         "accessVerified": true
       },
@@ -4664,7 +4781,7 @@
         "title": "Pharmacology for Anesthesia — 03 Opioids Part 4",
         "url": "https://www.youtube.com/watch?v=FWJnUKPr0Mg",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 311.0,
+        "durationSeconds": 311,
         "sourceUrl": "https://www.youtube.com/watch?v=FWJnUKPr0Mg",
         "accessVerified": true
       },
@@ -4673,7 +4790,7 @@
         "title": "Pharmacology for Anesthesia — 04 Uptake and Distribution of Inhalational Anesthetics Part 1",
         "url": "https://www.youtube.com/watch?v=b_YuRlnYk04",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 599.0,
+        "durationSeconds": 599,
         "sourceUrl": "https://www.youtube.com/watch?v=b_YuRlnYk04",
         "accessVerified": true
       },
@@ -4682,7 +4799,7 @@
         "title": "Pharmacology for Anesthesia — 04 Uptake and Distribution of Inhalational Anesthetics Part 2",
         "url": "https://www.youtube.com/watch?v=2fFiuITsSmE",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 646.0,
+        "durationSeconds": 646,
         "sourceUrl": "https://www.youtube.com/watch?v=2fFiuITsSmE",
         "accessVerified": true
       },
@@ -4691,7 +4808,7 @@
         "title": "Pharmacology for Anesthesia — 04 Uptake and Distribution of Inhalational Anesthetics Part 3",
         "url": "https://www.youtube.com/watch?v=MMEWWv2Gnew",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 1113.0,
+        "durationSeconds": 1113,
         "sourceUrl": "https://www.youtube.com/watch?v=MMEWWv2Gnew",
         "accessVerified": true
       },
@@ -4700,7 +4817,7 @@
         "title": "Pharmacology for Anesthesia — 05 Clinical Pharmacology of Inhalational Anesthetics Part 1",
         "url": "https://www.youtube.com/watch?v=vSA9GPwh_c0",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 685.0,
+        "durationSeconds": 685,
         "sourceUrl": "https://www.youtube.com/watch?v=vSA9GPwh_c0",
         "accessVerified": true
       },
@@ -4709,7 +4826,7 @@
         "title": "Pharmacology for Anesthesia — 05 Clinical Pharmacology of Inhalational Anesthetics Part 2",
         "url": "https://www.youtube.com/watch?v=6NewUcAZuqM",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 1041.0,
+        "durationSeconds": 1041,
         "sourceUrl": "https://www.youtube.com/watch?v=6NewUcAZuqM",
         "accessVerified": true
       },
@@ -4718,7 +4835,7 @@
         "title": "Pharmacology for Anesthesia — 05 Clinical Pharmacology of Inhalational Anesthetics Part 3",
         "url": "https://www.youtube.com/watch?v=rJntSoC6Ks4",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 459.0,
+        "durationSeconds": 459,
         "sourceUrl": "https://www.youtube.com/watch?v=rJntSoC6Ks4",
         "accessVerified": true
       },
@@ -4727,7 +4844,7 @@
         "title": "Pharmacology for Anesthesia — 06 Local Anesthetics Part 1",
         "url": "https://www.youtube.com/watch?v=6RA2y5IS7Y8",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 551.0,
+        "durationSeconds": 551,
         "sourceUrl": "https://www.youtube.com/watch?v=6RA2y5IS7Y8",
         "accessVerified": true
       },
@@ -4736,7 +4853,7 @@
         "title": "Pharmacology for Anesthesia — 06 Local Anesthetics Part 2",
         "url": "https://www.youtube.com/watch?v=CxNKJqkQUjI",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 1173.0,
+        "durationSeconds": 1173,
         "sourceUrl": "https://www.youtube.com/watch?v=CxNKJqkQUjI",
         "accessVerified": true
       },
@@ -4745,7 +4862,7 @@
         "title": "Pharmacology for Anesthesia — 07 Neuromuscular Blocking Agents and Reversal Drugs Part 1",
         "url": "https://www.youtube.com/watch?v=rpl07omSj4A",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 974.0,
+        "durationSeconds": 974,
         "sourceUrl": "https://www.youtube.com/watch?v=rpl07omSj4A",
         "accessVerified": true
       },
@@ -4754,7 +4871,7 @@
         "title": "Pharmacology for Anesthesia — 07 Neuromuscular Blocking Agents and Reversal Drugs Part 2",
         "url": "https://www.youtube.com/watch?v=qX3_HrGFCRI",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 959.0,
+        "durationSeconds": 959,
         "sourceUrl": "https://www.youtube.com/watch?v=qX3_HrGFCRI",
         "accessVerified": true
       },
@@ -4763,7 +4880,7 @@
         "title": "Pharmacology for Anesthesia — 07 Neuromuscular Blocking Agents and Reversal Drugs Part 3",
         "url": "https://www.youtube.com/watch?v=piTNYCTAC4c",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 1070.0,
+        "durationSeconds": 1070,
         "sourceUrl": "https://www.youtube.com/watch?v=piTNYCTAC4c",
         "accessVerified": true
       },
@@ -4772,7 +4889,7 @@
         "title": "Pharmacology for Anesthesia — 08 Autonomic Nervous System Part 1",
         "url": "https://www.youtube.com/watch?v=TC4qpHwVKzU",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 930.0,
+        "durationSeconds": 930,
         "sourceUrl": "https://www.youtube.com/watch?v=TC4qpHwVKzU",
         "accessVerified": true
       },
@@ -4781,7 +4898,7 @@
         "title": "Pharmacology for Anesthesia — 08 Autonomic Nervous System Part 2",
         "url": "https://www.youtube.com/watch?v=-EUuN4oBbME",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 693.0,
+        "durationSeconds": 693,
         "sourceUrl": "https://www.youtube.com/watch?v=-EUuN4oBbME",
         "accessVerified": true
       },
@@ -4790,7 +4907,7 @@
         "title": "Pharmacology for Anesthesia — 08 Autonomic Nervous System Part 3",
         "url": "https://www.youtube.com/watch?v=5ujtWK7-8wM",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 972.0,
+        "durationSeconds": 972,
         "sourceUrl": "https://www.youtube.com/watch?v=5ujtWK7-8wM",
         "accessVerified": true
       },
@@ -4799,7 +4916,7 @@
         "title": "Pharmacology for Anesthesia — 08 Autonomic Nervous System Part 4",
         "url": "https://www.youtube.com/watch?v=UzcsPLKS74E",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 912.0,
+        "durationSeconds": 912,
         "sourceUrl": "https://www.youtube.com/watch?v=UzcsPLKS74E",
         "accessVerified": true
       },
@@ -4808,7 +4925,7 @@
         "title": "Pharmacology for Anesthesia — 08 Autonomic Nervous System Part 5",
         "url": "https://www.youtube.com/watch?v=3bTM_6hCgEg",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 784.0,
+        "durationSeconds": 784,
         "sourceUrl": "https://www.youtube.com/watch?v=3bTM_6hCgEg",
         "accessVerified": true
       },
@@ -4817,7 +4934,7 @@
         "title": "Pharmacology for Anesthesia — 09 Cardiovascular Pharmacology Part 1",
         "url": "https://www.youtube.com/watch?v=WLp9vxAnjTg",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 532.0,
+        "durationSeconds": 532,
         "sourceUrl": "https://www.youtube.com/watch?v=WLp9vxAnjTg",
         "accessVerified": true
       },
@@ -4826,7 +4943,7 @@
         "title": "Pharmacology for Anesthesia — 09 Cardiovascular Pharmacology Part 2",
         "url": "https://www.youtube.com/watch?v=efiNUe4Ybgw",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 622.0,
+        "durationSeconds": 622,
         "sourceUrl": "https://www.youtube.com/watch?v=efiNUe4Ybgw",
         "accessVerified": true
       },
@@ -4835,7 +4952,7 @@
         "title": "Pharmacology for Anesthesia — 09 Cardiovascular Pharmacology Part 3",
         "url": "https://www.youtube.com/watch?v=xTXq7iBnF-4",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 613.0,
+        "durationSeconds": 613,
         "sourceUrl": "https://www.youtube.com/watch?v=xTXq7iBnF-4",
         "accessVerified": true
       },
@@ -4844,7 +4961,7 @@
         "title": "Pharmacology for Anesthesia — 09 Cardiovascular Pharmacology Part 4",
         "url": "https://www.youtube.com/watch?v=M5KfJxTn-c8",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 441.0,
+        "durationSeconds": 441,
         "sourceUrl": "https://www.youtube.com/watch?v=M5KfJxTn-c8",
         "accessVerified": true
       },
@@ -4853,7 +4970,7 @@
         "title": "Pharmacology for Anesthesia — 10 Renal Pharmacology Part 1",
         "url": "https://www.youtube.com/watch?v=0gGNGJC-wWI",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 570.0,
+        "durationSeconds": 570,
         "sourceUrl": "https://www.youtube.com/watch?v=0gGNGJC-wWI",
         "accessVerified": true
       },
@@ -4862,7 +4979,7 @@
         "title": "Pharmacology for Anesthesia — 10 Renal Pharmacology Part 2",
         "url": "https://www.youtube.com/watch?v=kE5Xyoi9O3E",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 406.0,
+        "durationSeconds": 406,
         "sourceUrl": "https://www.youtube.com/watch?v=kE5Xyoi9O3E",
         "accessVerified": true
       },
@@ -4871,7 +4988,7 @@
         "title": "Pharmacology for Anesthesia — 11 Antimicrobials Part 1",
         "url": "https://www.youtube.com/watch?v=Y6PToTeJDbY",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 577.0,
+        "durationSeconds": 577,
         "sourceUrl": "https://www.youtube.com/watch?v=Y6PToTeJDbY",
         "accessVerified": true
       },
@@ -4880,7 +4997,7 @@
         "title": "Pharmacology for Anesthesia — 11 Antimicrobials Part 2",
         "url": "https://www.youtube.com/watch?v=wSS_O17iwRk",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 481.0,
+        "durationSeconds": 481,
         "sourceUrl": "https://www.youtube.com/watch?v=wSS_O17iwRk",
         "accessVerified": true
       },
@@ -4889,7 +5006,7 @@
         "title": "Pharmacology for Anesthesia — 11 Antimicrobials Part 3",
         "url": "https://www.youtube.com/watch?v=-C0nWp4ufyU",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 372.0,
+        "durationSeconds": 372,
         "sourceUrl": "https://www.youtube.com/watch?v=-C0nWp4ufyU",
         "accessVerified": true
       },
@@ -4898,7 +5015,7 @@
         "title": "Pharmacology for Anesthesia — 12 Herbal Agents Part 1",
         "url": "https://www.youtube.com/watch?v=Hs6AFovP3ms",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 341.0,
+        "durationSeconds": 341,
         "sourceUrl": "https://www.youtube.com/watch?v=Hs6AFovP3ms",
         "accessVerified": true
       },
@@ -4907,7 +5024,7 @@
         "title": "Pharmacology for Anesthesia — 12 Herbal Agents Part 2",
         "url": "https://www.youtube.com/watch?v=oaMN7NkC4Jk",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 382.0,
+        "durationSeconds": 382,
         "sourceUrl": "https://www.youtube.com/watch?v=oaMN7NkC4Jk",
         "accessVerified": true
       },
@@ -4916,7 +5033,7 @@
         "title": "Pharmacology for Anesthesia — 12 Herbal Agents Part 3",
         "url": "https://www.youtube.com/watch?v=YhGRQATg490",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 351.0,
+        "durationSeconds": 351,
         "sourceUrl": "https://www.youtube.com/watch?v=YhGRQATg490",
         "accessVerified": true
       },
@@ -4925,7 +5042,7 @@
         "title": "Pharmacology for Anesthesia — 13 Coagulation Part 1",
         "url": "https://www.youtube.com/watch?v=Y7cO6w2Og6M",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 864.0,
+        "durationSeconds": 864,
         "sourceUrl": "https://www.youtube.com/watch?v=Y7cO6w2Og6M",
         "accessVerified": true
       },
@@ -4934,7 +5051,7 @@
         "title": "Pharmacology for Anesthesia — 13 Coagulation Part 2",
         "url": "https://www.youtube.com/watch?v=iFRiWubHFo4",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 938.0,
+        "durationSeconds": 938,
         "sourceUrl": "https://www.youtube.com/watch?v=iFRiWubHFo4",
         "accessVerified": true
       },
@@ -4943,7 +5060,7 @@
         "title": "Pharmacology for Anesthesia — 14 Gastrointestinal Pharmacology and Antihistamines Part 1",
         "url": "https://www.youtube.com/watch?v=84pGJEHtjWs",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 754.0,
+        "durationSeconds": 754,
         "sourceUrl": "https://www.youtube.com/watch?v=84pGJEHtjWs",
         "accessVerified": true
       },
@@ -4952,7 +5069,7 @@
         "title": "Pharmacology for Anesthesia — 14 Gastrointestinal Pharmacology and Antihistamines Part 2",
         "url": "https://www.youtube.com/watch?v=VKoRO10q6Gk",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 823.0,
+        "durationSeconds": 823,
         "sourceUrl": "https://www.youtube.com/watch?v=VKoRO10q6Gk",
         "accessVerified": true
       },
@@ -4961,7 +5078,7 @@
         "title": "Pharmacology for Anesthesia — 15 Central Nervous System Pharmacology Part 1",
         "url": "https://www.youtube.com/watch?v=S4y_xtyRnkM",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 554.0,
+        "durationSeconds": 554,
         "sourceUrl": "https://www.youtube.com/watch?v=S4y_xtyRnkM",
         "accessVerified": true
       },
@@ -4970,7 +5087,7 @@
         "title": "Pharmacology for Anesthesia — 15 Central Nervous System Pharmacology Part 2",
         "url": "https://www.youtube.com/watch?v=EPWEURfX3pE",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 772.0,
+        "durationSeconds": 772,
         "sourceUrl": "https://www.youtube.com/watch?v=EPWEURfX3pE",
         "accessVerified": true
       },
@@ -4979,7 +5096,7 @@
         "title": "Pharmacology for Anesthesia — 16 Endocrine Pharmacology Part 1",
         "url": "https://www.youtube.com/watch?v=I94VwF7uT7w",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 1293.0,
+        "durationSeconds": 1293,
         "sourceUrl": "https://www.youtube.com/watch?v=I94VwF7uT7w",
         "accessVerified": true
       },
@@ -4988,7 +5105,7 @@
         "title": "Pharmacology for Anesthesia — 16 Endocrine Pharmacology Part 2",
         "url": "https://www.youtube.com/watch?v=V3e12CzC3FI",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 782.0,
+        "durationSeconds": 782,
         "sourceUrl": "https://www.youtube.com/watch?v=V3e12CzC3FI",
         "accessVerified": true
       },
@@ -4997,7 +5114,7 @@
         "title": "Pharmacology for Anesthesia — 16 Endocrine Pharmacology Part 3",
         "url": "https://www.youtube.com/watch?v=7Q1cx0SJNAs",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 662.0,
+        "durationSeconds": 662,
         "sourceUrl": "https://www.youtube.com/watch?v=7Q1cx0SJNAs",
         "accessVerified": true
       },
@@ -5006,7 +5123,7 @@
         "title": "Pharmacology for Anesthesia — 16 Endocrine Pharmacology Part 4",
         "url": "https://www.youtube.com/watch?v=YWqtix_0k2M",
         "provider": "Michael Altose, MD / AltoseAnesthesia; course videos reported by creator to be from first-year pharmacology/physiology courses in Case Western Reserve University School of Medicine Master of Science in Anesthesia program",
-        "durationSeconds": 397.0,
+        "durationSeconds": 397,
         "sourceUrl": "https://www.youtube.com/watch?v=YWqtix_0k2M",
         "accessVerified": true
       }
@@ -5222,7 +5339,7 @@
     ],
     "boardStatus": "This BWH-named physician fellowship is a programme title, not a distinct ABA board. The ABA lists its initial anesthesiology examinations (BASIC, ADVANCED, APPLIED) and subspecialty exams. ABA and ASA announced on 2026-07-22 that perioperative medicine is a newly defined clinical topic within the initial-certification content outline; related new exam questions are scheduled to appear beginning in 2028. No separate Perioperative Medicine board examination/certification was identified in the reviewed ABA material as of 2026-10-07.",
     "boardEligibilityNotice": "Completion of this independent course does not confer eligibility for ABA initial certification or an ABA subspecialty exam. Eligibility must be verified directly against current ABA requirements and the relevant accredited training pathway. The BWH webpage publicly describes a 12-month fellowship with attending anesthesiologist clinical work and administrative, research and didactic components; the webpage does not establish ACGME accreditation or a separate board eligibility pathway.",
-    "targetVideoHours": 36.0,
+    "targetVideoHours": 36,
     "verifiedExternalHours": 22.843888888888888,
     "verifiedSpecialtyHours": 11.540833333333333,
     "verifiedFoundationHours": 11.303055555555556,
@@ -5256,7 +5373,7 @@
       "note": "Verified free-video watching currently contributes zero hours because candidate pages did not expose reliable total runtimes. The 36-hour video floor remains unmet; planned films are not available videos."
     },
     "coverageStatus": "incomplete_lecture_hours",
-    "syllabusUrl": "/manus-storage/MED-X108_bb22ca3f.pdf",
+    "syllabusUrl": "/manus-storage/MED-X108_3e8134be.pdf",
     "pdfIds": [
       "med-syllabus-MED-X108",
       "med-reading-74228c71ee53",
@@ -5283,6 +5400,51 @@
         "durationSeconds": null,
         "sourceUrl": "https://www.youtube.com/watch?v=2I3nli4XgY0",
         "accessVerified": false
+      },
+      {
+        "id": "MED-X108-REC-001",
+        "title": "Principles of Neuroanesthesia - (Dr. Rebel)",
+        "url": "https://www.youtube.com/watch?v=e3X0-G-1qGU",
+        "provider": "University of Kentucky College of Medicine Department of Anesthesiology, Perioperative, Critical Care, and Pain Medicine",
+        "durationSeconds": 2848,
+        "sourceUrl": "https://www.youtube.com/watch?v=e3X0-G-1qGU",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X108-REC-002",
+        "title": "Keyword Review: Neuro Anesthsia Part 2 - Dr. Dority",
+        "url": "https://www.youtube.com/watch?v=8wssIhNlBxI",
+        "provider": "University of Kentucky College of Medicine Department of Anesthesiology, Perioperative, Critical Care, and Pain Medicine",
+        "durationSeconds": 2572,
+        "sourceUrl": "https://www.youtube.com/watch?v=8wssIhNlBxI",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X108-REC-003",
+        "title": "Pituitary Gland and Anesthesia - (Dr. Eshelman)",
+        "url": "https://www.youtube.com/watch?v=4ehCowqthXc",
+        "provider": "University of Kentucky College of Medicine Department of Anesthesiology, Perioperative, Critical Care, and Pain Medicine",
+        "durationSeconds": 1354,
+        "sourceUrl": "https://www.youtube.com/watch?v=4ehCowqthXc",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X108-REC-004",
+        "title": "Traumatic Brain Injury - July 2019",
+        "url": "https://www.youtube.com/watch?v=_yYdUFJnL1Q",
+        "provider": "Neurocritical Care Society Education Office",
+        "durationSeconds": 2503,
+        "sourceUrl": "https://www.youtube.com/watch?v=_yYdUFJnL1Q",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X108-REC-005",
+        "title": "Sedation and Analgesia in Neurocritical Care - July 2020",
+        "url": "https://www.youtube.com/watch?v=F4l-bW9PAPM",
+        "provider": "Neurocritical Care Society Education Office",
+        "durationSeconds": 1917,
+        "sourceUrl": "https://www.youtube.com/watch?v=F4l-bW9PAPM",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -5290,7 +5452,9 @@
         "number": 1,
         "text": "Cerebral physiology, neuroanatomy, and monitoring foundations",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-X108-REC-001"
+        ]
       },
       {
         "number": 2,
@@ -5302,7 +5466,10 @@
         "number": 3,
         "text": "Intracranial hypertension, traumatic brain injury, and EVDs",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-X108-REC-002",
+          "MED-X108-REC-004"
+        ]
       },
       {
         "number": 4,
@@ -5326,13 +5493,17 @@
         "number": 7,
         "text": "Spine surgery, spinal cord perfusion, and neuromonitoring",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-X108-REC-002"
+        ]
       },
       {
         "number": 8,
         "text": "Pituitary, skull-base, and endoscopic endonasal surgery",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-X108-REC-003"
+        ]
       },
       {
         "number": 9,
@@ -5344,7 +5515,11 @@
         "number": 10,
         "text": "Neurocritical care interface, postoperative management, and neurologic emergencies",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-X108-REC-002",
+          "MED-X108-REC-004",
+          "MED-X108-REC-005"
+        ]
       },
       {
         "number": 11,
@@ -5371,11 +5546,11 @@
       "residencyBoardContext": "ABA ADVANCED is a general anesthesiology examination after residency and BASIC; the public blueprint is used only for broad educational alignment, not as a neuroanesthesia fellowship blueprint."
     },
     "boardEligibilityNotice": "This independent course does not establish ABA eligibility or board eligibility. Eligibility and certification depend on the board’s current rules and accredited training. The fellowship’s stated ICPNT accreditation is a program-level accreditation, not an individual certificate or a guarantee of examination eligibility.",
-    "targetVideoHours": 36.0,
-    "verifiedExternalHours": 0.0,
-    "verifiedSpecialtyHours": 0.0,
-    "verifiedFoundationHours": 0.0,
-    "hoursGap": 36.0,
+    "targetVideoHours": 36,
+    "verifiedExternalHours": 3.1094444444444442,
+    "verifiedSpecialtyHours": 3.1094444444444442,
+    "verifiedFoundationHours": 0,
+    "hoursGap": 32.89055555555556,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
