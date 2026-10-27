@@ -22428,7 +22428,8 @@
           "YT-aCzNj56kWtk",
           "YT-O1-hJKJSyoY",
           "YT-UU8SoGJo2Fo",
-          "YT-Emt9VODGj0A"
+          "YT-Emt9VODGj0A",
+          "MED-058-EXT-20261027E-002"
         ],
         "casePractice": "Paper-only workflow map from abnormality to pathology correlation. No procedure simulation, devices, patient data or instructions for performing a biopsy are included.",
         "assessment": "A 600-word discordance escalation memo addressed to a fictional supervising breast-imaging service, including what must not be independently decided."
@@ -22467,7 +22468,8 @@
           "YT-_z8fIkthKnQ",
           "YT-O1-hJKJSyoY",
           "YT-Emt9VODGj0A",
-          "YT-LjuGY9N0Q5Q"
+          "YT-LjuGY9N0Q5Q",
+          "MED-058-EXT-20261027E-002"
         ],
         "casePractice": "Use TCIA research labels only as teaching ground truth and identify which clinical data are missing for real-world management.",
         "assessment": "Concordance conference worksheet with observation, pathology label, limitations, source citation and escalation field."
@@ -23711,6 +23713,46 @@
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
         "coverageNote": "Direct public recording page verified. Link fallback is the exact source URL; embedding is unverified; public viewing supplies no copying, download, or redistribution licence."
+      },
+      {
+        "title": "Breast Interventions",
+        "coverageUnits": [
+          8,
+          9
+        ],
+        "accessEmbeddingNotes": "embed unverified; source fallback is the ordinary public AAR watch page; no copying rights.",
+        "id": "MED-058-EXT-20261027E-002",
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0,
+          "afterTimeSeconds": 5,
+          "normalControl": "actual ordinary visible playback observation: visible Play was clicked at 00:00; the control changed to Pause and the same public player advanced to 00:05.",
+          "observedAtUtc": "2026-10-27T10:56:19Z",
+          "durationSeconds": 1999
+        },
+        "rightsStatus": "link-only",
+        "provider": "Association of Academic Radiology (AAR), Radiology Resident Core Curriculum Lecture Series",
+        "humanClinicalReviewStatus": "not performed",
+        "freeAccessStatus": "public/free/no-login observed",
+        "channel": "Radiology Resident Core Lecture Series",
+        "url": "https://radiologyresidentcorelectures.com/3117-schlund/",
+        "relevanceEvidence": [
+          {
+            "url": "https://radiologyresidentcorelectures.com/3117-schlund/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nSource description/objective: the AAR course index labels this lecture \"Breast Interventions — James Schlund, MD, FACR, AANG.\" Visible actual teaching support on the exact public watch page at 01:01: \"Drain, Biopsy, or Excise for Confidence\" and \"The goal of Bx is to eliminate uncertainty and provide: Definitive pathologic correlation to the site or target at question.\" narrowUnitExplanation: this explicit intervention and post-biopsy correlation material maps narrowly to units 8 and 9."
+          }
+        ],
+        "accessVerified": true,
+        "observedDurationSeconds": 1999,
+        "durationEvidenceMethod": "The same ordinary public player visibly displayed total 33:19 before playback. Its visible Play control was clicked normally at 00:00; the same player then visibly displayed elapsed 00:05 and subsequently 01:01 while Pause was shown.",
+        "durationEvidenceUrl": "https://radiologyresidentcorelectures.com/3117-schlund/",
+        "category": "specialty",
+        "sourceUrl": "https://radiologyresidentcorelectures.com/3117-schlund/",
+        "durationSeconds": 1999,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "embed unverified; source fallback is the ordinary public AAR watch page; no copying rights."
       }
     ],
     "unitMap": [
@@ -23905,7 +23947,8 @@
           "YT-aCzNj56kWtk",
           "YT-O1-hJKJSyoY",
           "YT-UU8SoGJo2Fo",
-          "YT-Emt9VODGj0A"
+          "YT-Emt9VODGj0A",
+          "MED-058-EXT-20261027E-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -23932,7 +23975,8 @@
           "YT-_z8fIkthKnQ",
           "YT-O1-hJKJSyoY",
           "YT-Emt9VODGj0A",
-          "YT-LjuGY9N0Q5Q"
+          "YT-LjuGY9N0Q5Q",
+          "MED-058-EXT-20261027E-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -24011,7 +24055,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 3.506,
+      "hoursToTarget": 2.95,
       "topicGaps": [
         "No current, complete, free, verified 36-hour lecture sequence was found: 12.5058 observed specialty hours are ready and 23.4942 hours remain; original scripts/plans do not count as rendered media.",
         "Free recordings remain uneven by domain. The largest gaps are current MQSA quality/audit operations, pathology concordance, multidisciplinary workflow, CEM evidence/technical interpretation, and source-current screening strategy; recordings are supplementary and several are dated.",
@@ -24604,10 +24648,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 32.49444444444445,
-      "verifiedSpecialtyHours": 29.79388888888889,
+      "verifiedExternalHours": 33.04972222222222,
+      "verifiedSpecialtyHours": 30.349166666666665,
       "verifiedFoundationHours": 2.7005555555555554,
-      "hoursGap": 3.505555555555553,
+      "hoursGap": 2.950277777777778,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [

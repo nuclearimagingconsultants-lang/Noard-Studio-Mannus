@@ -1,3 +1,17 @@
+# Board Studio — another verified medical lecture-hour floor met
+
+Updated 27 October 2026. Two source-qualified external assignments add **1.9188 course-assigned hours**. MED-167 Pediatric Ophthalmology and Adult Strabismus now has **37.237033 measured hours** and meets its lecture-hour floor only; topic coverage remains unvalidated. The new amblyopia recording is **1.3635 hours of genuinely new catalogue video**. Breast Interventions was already catalogued in Diagnostic Radiology and is newly assigned to MED-058 Breast Imaging with supported intervention/pathology-correlation associations; it is not counted again as new unique video.
+
+**201 of 333 medical records meet their measured floors; 132 remain unmet**, with **2,880.74 overlapping record-hours remaining**. The capped deficit reduction is **0.6818 record-hours**, not the full assigned runtime. Breast Imaging remains 2.504753 hours below its target; Skull Base remains 1.683178 hours below. The mammography candidate remains held because its observed introductory statistics do not substantiate the proposed acquisition/quality unit. Login-gated or non-advancing players add zero hours.
+
+Medicine remains **incomplete**: 118 older chapter source reviews, 8 source-unavailable records and 19 withheld practice items remain; full topic coverage is not validated. **Clinician review is excluded from the requested self-study scope and remains not performed**. All 242 ready originals, 28 immutable readings, 136 development states, both original manifests, native playback/auth, downloads and existing local copies are preserved. No new original video, publisher-video copy, local deletion, purchase or Technology work occurs. External lectures stay at their normal source players; use Open source when embedding is unavailable. Original rendering/source-audit batches remain paused below the unchanged temporary-disk reserve. Private references are not publisher video; Dropbox backup is not claimed complete.
+
+Independent self-study only: no affiliation, enrolment, academic credit, accreditation, clinical competence, board eligibility/certification or board-pass guarantee is conferred. Publication and exact live verification are recorded separately.
+
+---
+
+## Earlier snapshots — historical, not current totals
+
 # Board Studio — verified external medical lecture continuation
 
 Updated 27 October 2026. **14 source-qualified course assignments** across Breast Imaging, Skull Base Surgery and Pediatric Ophthalmology add **11.8370 course-assigned hours**. After deduplicating all previously catalogued URLs, **6.9093 hours are globally new catalogue media**; the rest is existing media newly assigned to a relevant course. Those quantities are not interchangeable.

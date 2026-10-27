@@ -21761,7 +21761,7 @@
   "stats": {
     "courses": 333,
     "units": 3997,
-    "lectureEntries": 12789
+    "lectureEntries": 12791
   },
   "productionOrder": [
     "med"
@@ -21777,7 +21777,7 @@
     "minimumTargetVideoHoursPerSpecialty": 36,
     "discoveredTracks": 333,
     "availableCurricula": 333,
-    "tracksWith36VerifiedHours": 198,
+    "tracksWith36VerifiedHours": 199,
     "families": [
       "Acute, emergency, pulmonary and critical care",
       "Anesthesiology and pain medicine",

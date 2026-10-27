@@ -28147,7 +28147,8 @@
           "moran-mole-strabismus-2022",
           "moran-okap-review-pediatric-ophthalmology-2018",
           "moran-visual-development-amblyopia-anterior-segment-2021",
-          "moran-examination-strabismus-amblyopia-2017"
+          "moran-examination-strabismus-amblyopia-2017",
+          "MED-167-EXT-20261027E-001"
         ],
         "casePractice": [
           "Anisometropic amblyopia; amblyopia management"
@@ -29767,6 +29768,45 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Public Cybersight page link is the fallback; embedding unverified; no copying licence."
+      },
+      {
+        "title": "Lecture: Diagnosis and Management of Amblyopia",
+        "coverageUnits": [
+          2
+        ],
+        "accessEmbeddingNotes": "The public Cybersight watch page uses a documented Wistia embed. That ordinary player was opened and playback verified; the Cybersight source page is the source fallback. No copying or rehosting rights assessed; link-only.",
+        "id": "MED-167-EXT-20261027E-001",
+        "playbackEvidence": {
+          "beforeTimeSeconds": 2.949063,
+          "afterTimeSeconds": 19.57898,
+          "normalControl": "Clicked the ordinary visible button labelled ‘Play Video: Lecture: Diagnosis and Management of Amblyopia’ in the public Wistia player; no script playback, autoplay, seeking, or access workaround was used.",
+          "observedAtUtc": "2026-10-27T10:48:25Z",
+          "durationSeconds": 4908.767
+        },
+        "rightsStatus": "link-only",
+        "provider": "Cybersight",
+        "humanClinicalReviewStatus": "not performed",
+        "freeAccessStatus": "Public/free/no-login observed: the Cybersight watch page and its documented Wistia player loaded without sign-in, and the player exposed an ordinary visible Play Video control.",
+        "channel": "Cybersight Library",
+        "url": "https://cybersight.org/library/lecture-diagnosis-and-management-of-amblyopia/",
+        "relevanceEvidence": [
+          {
+            "url": "https://cybersight.org/library/lecture-diagnosis-and-management-of-amblyopia/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nsource description/objective: ‘The goal of the lecture is to provide an overview of amblyopia and the risk factors associated with this diagnosis. The lecture will also go over the major studies that have shaped the treatment of amblyopia.’\n\nnarrowUnitExplanation: This source’s stated focus is limited to existing unit 2, ‘Amblyopia: detection, differential and treatment reasoning.’"
+          }
+        ],
+        "accessVerified": true,
+        "observedDurationSeconds": 4908.767,
+        "durationEvidenceMethod": "The public Wistia player documented by the Cybersight watch page was opened normally. After clicking its visible ‘Play Video’ button, read-only HTMLMediaElement observation returned duration 4908.767 seconds while playback was running; the same player’s visible UI displayed 1:21:49.",
+        "durationEvidenceUrl": "https://fast.wistia.net/embed/iframe/f0s7b7n69e",
+        "category": "specialty",
+        "sourceUrl": "https://cybersight.org/library/lecture-diagnosis-and-management-of-amblyopia/",
+        "durationSeconds": 4908.767,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "The public Cybersight watch page uses a documented Wistia embed. That ordinary player was opened and playback verified; the Cybersight source page is the source fallback. No copying or rehosting rights assessed; link-only."
       }
     ],
     "unitMap": [
@@ -29797,7 +29837,8 @@
           "moran-mole-strabismus-2022",
           "moran-okap-review-pediatric-ophthalmology-2018",
           "moran-visual-development-amblyopia-anterior-segment-2021",
-          "moran-examination-strabismus-amblyopia-2017"
+          "moran-examination-strabismus-amblyopia-2017",
+          "MED-167-EXT-20261027E-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -30016,9 +30057,9 @@
         "uncoveredTopics": []
       }
     ],
-    "coverageStatus": "incomplete_lecture_hours",
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
     "remainingGaps": {
-      "hoursToTarget": 0.127,
+      "hoursToTarget": 0,
       "topicGaps": [
         "Verified video corpus is far below the 36-hour specialty floor; source-linked EyeRounds clips total only a small amount and many are brief technique demonstrations, not full lectures.",
         "Need full-length recorded teaching across visual development, pediatric assessment, amblyopia, esotropia/exotropia, adult diplopia, ROP, cataract/glaucoma, nystagmus, genetics, emergencies and evidence appraisal.",
@@ -30775,10 +30816,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 35.87348611111111,
-      "verifiedSpecialtyHours": 35.02015277777778,
+      "verifiedExternalHours": 37.237032500000005,
+      "verifiedSpecialtyHours": 36.383699166666666,
       "verifiedFoundationHours": 0.8533333333333334,
-      "hoursGap": 0.12651388888888704,
+      "hoursGap": 0,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [

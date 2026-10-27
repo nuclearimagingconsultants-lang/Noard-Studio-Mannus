@@ -5099,7 +5099,7 @@
       "targetVideoHours": 36,
       "gapHours": 35.715278
     },
-    "coverageStatus": "incomplete_lecture_hours",
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
     "syllabusUrl": "/manus-storage/MED-167_3312baeb.pdf",
     "pdfIds": [
       "med-syllabus-MED-167",
@@ -5512,6 +5512,15 @@
         "durationSeconds": 1548.52,
         "sourceUrl": "https://cybersight.org/library/lecture-pediatric-cataract-and-management/",
         "accessVerified": true
+      },
+      {
+        "id": "MED-167-EXT-20261027E-001",
+        "title": "Lecture: Diagnosis and Management of Amblyopia",
+        "url": "https://cybersight.org/library/lecture-diagnosis-and-management-of-amblyopia/",
+        "provider": "Cybersight",
+        "durationSeconds": 4908.767,
+        "sourceUrl": "https://cybersight.org/library/lecture-diagnosis-and-management-of-amblyopia/",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -5538,7 +5547,8 @@
           "moran-mole-strabismus-2022",
           "moran-okap-review-pediatric-ophthalmology-2018",
           "moran-visual-development-amblyopia-anterior-segment-2021",
-          "moran-examination-strabismus-amblyopia-2017"
+          "moran-examination-strabismus-amblyopia-2017",
+          "MED-167-EXT-20261027E-001"
         ]
       },
       {
@@ -5710,10 +5720,10 @@
     "boardStatus": "In the United States, ABO describes general ophthalmology certification based on accredited ophthalmology training and written qualifying plus oral examinations. No separate U.S. ABO pediatric ophthalmology/strabismus board exam was identified. Separately, EBO/ESA/EPOS offers the FEBOS-SP European subspecialty examination; it requires EBO-equivalent/UEMS qualifications, specialist registration, a one-year full-time fellowship to ICO-equivalent standards, and substantial verified surgical experience; those criteria are not met or conferred by this course.",
     "boardEligibilityNotice": "This independent educational curriculum grants no ABO or FEBOS-SP eligibility, accredited training, clinical privileges, licensure, case volume or procedural competence. Consult each board for current rules; no eligibility determination is made.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 35.87348611111111,
-    "verifiedSpecialtyHours": 35.02015277777778,
+    "verifiedExternalHours": 37.237032500000005,
+    "verifiedSpecialtyHours": 36.383699166666666,
     "verifiedFoundationHours": 0.8533333333333334,
-    "hoursGap": 0.12651388888888704,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -5728,7 +5738,7 @@
       "unknownDurationCount": 0,
       "lectureEvidenceValid": true,
       "hasExternalLectureEvidence": true,
-      "isReady": false
+      "isReady": true
     }
   },
   {

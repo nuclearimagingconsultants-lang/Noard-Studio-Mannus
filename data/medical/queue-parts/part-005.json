@@ -5238,6 +5238,15 @@
         "durationSeconds": 942,
         "sourceUrl": "https://radiologyresidentcorelectures.com/3121-lewis/",
         "accessVerified": true
+      },
+      {
+        "id": "MED-058-EXT-20261027E-002",
+        "title": "Breast Interventions",
+        "url": "https://radiologyresidentcorelectures.com/3117-schlund/",
+        "provider": "Association of Academic Radiology (AAR), Radiology Resident Core Curriculum Lecture Series",
+        "durationSeconds": 1999,
+        "sourceUrl": "https://radiologyresidentcorelectures.com/3117-schlund/",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -5372,7 +5381,8 @@
           "YT-aCzNj56kWtk",
           "YT-O1-hJKJSyoY",
           "YT-UU8SoGJo2Fo",
-          "YT-Emt9VODGj0A"
+          "YT-Emt9VODGj0A",
+          "MED-058-EXT-20261027E-002"
         ]
       },
       {
@@ -5390,7 +5400,8 @@
           "YT-_z8fIkthKnQ",
           "YT-O1-hJKJSyoY",
           "YT-Emt9VODGj0A",
-          "YT-LjuGY9N0Q5Q"
+          "YT-LjuGY9N0Q5Q",
+          "MED-058-EXT-20261027E-002"
         ]
       },
       {
@@ -5439,10 +5450,10 @@
     "boardStatus": "As checked 2026-10-07: there is no separate ABR Breast Imaging subspecialty certificate or board exam. ABR's DR Qualifying (Core) content includes breast imaging, noninterpretive skills and physics; its currently listed DR/IR-DR subspecialty certificates are neuroradiology, nuclear radiology, pain medicine and pediatric radiology. ABR states that after 2027 the general Diagnostic Radiology Oral Exam has a breast clinical category. That is a category of the DR certification process, not a distinct breast-imaging fellowship board. This self-study is only aligned to the published high-level domains and does not establish board eligibility, preparation sufficiency or likelihood of passing.",
     "boardEligibilityNotice": "Both institutional fellowships are post-diagnostic-radiology clinical training, not residency. Emory says fellows must be board-eligible for a DR certificate after an accredited radiology residency and able to obtain a Georgia medical license; Johns Hopkins says candidates should have completed ACGME DR residency and be DR board-certified or board-eligible at fellowship onset, with Maryland license eligibility for independent call. Applicants must check the individual programme and relevant boards/regulators for current eligibility. This independent course cannot establish eligibility, confer ABR certification, satisfy MQSA or ACR credentials, provide licensure, procedure privileges or supervised experience, or guarantee an examination result.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 32.49444444444445,
-    "verifiedSpecialtyHours": 29.79388888888889,
+    "verifiedExternalHours": 33.04972222222222,
+    "verifiedSpecialtyHours": 30.349166666666665,
     "verifiedFoundationHours": 2.7005555555555554,
-    "hoursGap": 3.505555555555553,
+    "hoursGap": 2.950277777777778,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
