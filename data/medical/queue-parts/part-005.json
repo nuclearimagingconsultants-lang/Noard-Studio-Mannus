@@ -5202,6 +5202,42 @@
         "durationSeconds": 2138,
         "sourceUrl": "https://www.youtube.com/watch?v=RKi9Xm33ZcQ",
         "accessVerified": true
+      },
+      {
+        "id": "MED-058-EXT-20261027B-001",
+        "title": "Diagnostic (Problem-Solving) Mammography",
+        "url": "https://radiologyresidentcorelectures.com/3108-kohr/",
+        "provider": "Association of Academic Radiology (AAR)",
+        "durationSeconds": 2355,
+        "sourceUrl": "https://radiologyresidentcorelectures.com/3108-kohr/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-058-EXT-20261027B-002",
+        "title": "Clinical Physics of Breast Imaging: MRI",
+        "url": "https://radiologyresidentcorelectures.com/3105-eby/",
+        "provider": "Association of Academic Radiology (AAR)",
+        "durationSeconds": 2061,
+        "sourceUrl": "https://radiologyresidentcorelectures.com/3105-eby/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-058-EXT-20261027B-003",
+        "title": "Evaluation of the Male Breast",
+        "url": "https://radiologyresidentcorelectures.com/3114-moy/",
+        "provider": "Association of Academic Radiology (AAR)",
+        "durationSeconds": 1503,
+        "sourceUrl": "https://radiologyresidentcorelectures.com/3114-moy/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-058-EXT-20261027C-001",
+        "title": "Mammographic Image Quality",
+        "url": "https://radiologyresidentcorelectures.com/3121-lewis/",
+        "provider": "Association of Academic Radiology (AAR)",
+        "durationSeconds": 942,
+        "sourceUrl": "https://radiologyresidentcorelectures.com/3121-lewis/",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -5233,7 +5269,8 @@
           "YT-poiWRh3IS-0",
           "YT-UXOuer1cINU",
           "YT-v194F3rQgqg",
-          "YT-RKi9Xm33ZcQ"
+          "YT-RKi9Xm33ZcQ",
+          "MED-058-EXT-20261027C-001"
         ]
       },
       {
@@ -5266,7 +5303,8 @@
           "YT-FJl_yf5Au68",
           "YT-LTdNr1aGbb0",
           "YT-poiWRh3IS-0",
-          "YT-v194F3rQgqg"
+          "YT-v194F3rQgqg",
+          "MED-058-EXT-20261027B-001"
         ]
       },
       {
@@ -5302,7 +5340,8 @@
           "YT-v194F3rQgqg",
           "YT-Emt9VODGj0A",
           "YT--m7Qso427Yg",
-          "YT-LjuGY9N0Q5Q"
+          "YT-LjuGY9N0Q5Q",
+          "MED-058-EXT-20261027B-002"
         ]
       },
       {
@@ -5319,7 +5358,8 @@
           "YT-LTvxZEvIUwE",
           "YT-_z8fIkthKnQ",
           "YT-v194F3rQgqg",
-          "YT-LjuGY9N0Q5Q"
+          "YT-LjuGY9N0Q5Q",
+          "MED-058-EXT-20261027B-003"
         ]
       },
       {
@@ -5363,7 +5403,8 @@
           "YT-poiWRh3IS-0",
           "YT-UXOuer1cINU",
           "YT-O1-hJKJSyoY",
-          "YT--m7Qso427Yg"
+          "YT--m7Qso427Yg",
+          "MED-058-EXT-20261027C-001"
         ]
       },
       {
@@ -5398,10 +5439,10 @@
     "boardStatus": "As checked 2026-10-07: there is no separate ABR Breast Imaging subspecialty certificate or board exam. ABR's DR Qualifying (Core) content includes breast imaging, noninterpretive skills and physics; its currently listed DR/IR-DR subspecialty certificates are neuroradiology, nuclear radiology, pain medicine and pediatric radiology. ABR states that after 2027 the general Diagnostic Radiology Oral Exam has a breast clinical category. That is a category of the DR certification process, not a distinct breast-imaging fellowship board. This self-study is only aligned to the published high-level domains and does not establish board eligibility, preparation sufficiency or likelihood of passing.",
     "boardEligibilityNotice": "Both institutional fellowships are post-diagnostic-radiology clinical training, not residency. Emory says fellows must be board-eligible for a DR certificate after an accredited radiology residency and able to obtain a Georgia medical license; Johns Hopkins says candidates should have completed ACGME DR residency and be DR board-certified or board-eligible at fellowship onset, with Maryland license eligibility for independent call. Applicants must check the individual programme and relevant boards/regulators for current eligibility. This independent course cannot establish eligibility, confer ABR certification, satisfy MQSA or ACR credentials, provide licensure, procedure privileges or supervised experience, or guarantee an examination result.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 30.58861111111111,
-    "verifiedSpecialtyHours": 28.305555555555557,
-    "verifiedFoundationHours": 2.2830555555555554,
-    "hoursGap": 5.41138888888889,
+    "verifiedExternalHours": 32.49444444444445,
+    "verifiedSpecialtyHours": 29.79388888888889,
+    "verifiedFoundationHours": 2.7005555555555554,
+    "hoursGap": 3.505555555555553,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

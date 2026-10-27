@@ -3513,6 +3513,51 @@
         "durationSeconds": 2711,
         "sourceUrl": "https://www.youtube.com/watch?v=UDMw87ofhy8",
         "accessVerified": true
+      },
+      {
+        "id": "MED-X057-EXT-20261027B-001",
+        "title": "Lecture 21: Principles of Skull base surgery",
+        "url": "https://vimeo.com/18402766",
+        "provider": "Surgical Neurology International",
+        "durationSeconds": 2593.466667,
+        "sourceUrl": "https://vimeo.com/18402766",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X057-EXT-20261027B-002",
+        "title": "Advances in Robotic Surgery in the Lateral Skull Base (UTHealth Houston ORL GR, 2023-06-22)",
+        "url": "https://vimeo.com/840940165",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 3517.59982500005,
+        "sourceUrl": "https://vimeo.com/840940165",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X057-EXT-20261027B-003",
+        "title": "Surgical Approaches to the Lateral Skull Base (UTHealth Houston ORL GR, 2023-05-11)",
+        "url": "https://vimeo.com/827442448",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 2687.86653200002,
+        "sourceUrl": "https://vimeo.com/827442448",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X057-EXT-20261027B-004",
+        "title": "Otogenic Skull Base Osteomyelitis: Diagnosis and Management (UTHealth Houston ORL GR, 2026-01-08)",
+        "url": "https://vimeo.com/1153673971",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 2739.625,
+        "sourceUrl": "https://vimeo.com/1153673971",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X057-EXT-20261027C-001",
+        "title": "Lecture: Neuroimaging in Ophthalmology",
+        "url": "https://cybersight.org/library/lecture-neuroimaging-in-ophthalmology/",
+        "provider": "Cybersight",
+        "durationSeconds": 4180,
+        "sourceUrl": "https://cybersight.org/library/lecture-neuroimaging-in-ophthalmology/",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -3538,7 +3583,9 @@
           "YT-lLwO-41eJzs",
           "YT-kB_CqXz8NiQ",
           "YT-n8sSZOy_yUI",
-          "YT-UDMw87ofhy8"
+          "YT-UDMw87ofhy8",
+          "MED-X057-EXT-20261027B-001",
+          "MED-X057-EXT-20261027B-003"
         ]
       },
       {
@@ -3557,7 +3604,10 @@
           "YT-whDk8mRaGrs",
           "YT-kB_CqXz8NiQ",
           "YT-pMkFH13URS8",
-          "YT-UDMw87ofhy8"
+          "YT-UDMw87ofhy8",
+          "MED-X057-EXT-20261027B-003",
+          "MED-X057-EXT-20261027B-004",
+          "MED-X057-EXT-20261027C-001"
         ]
       },
       {
@@ -3583,7 +3633,9 @@
           "YT-BHVvjVPrDUQ",
           "YT-UihBiCQSx7c",
           "YT-lLwO-41eJzs",
-          "YT-n8sSZOy_yUI"
+          "YT-n8sSZOy_yUI",
+          "MED-X057-EXT-20261027B-001",
+          "MED-X057-EXT-20261027B-003"
         ]
       },
       {
@@ -3593,7 +3645,8 @@
         "lectureIds": [
           "YT-JNBRh8yC6_U",
           "YT-lLwO-41eJzs",
-          "YT-n8sSZOy_yUI"
+          "YT-n8sSZOy_yUI",
+          "MED-X057-EXT-20261027B-002"
         ]
       },
       {
@@ -3612,7 +3665,8 @@
           "YT-zcYkpB2HMt0",
           "YT-whDk8mRaGrs",
           "YT-kB_CqXz8NiQ",
-          "YT-pMkFH13URS8"
+          "YT-pMkFH13URS8",
+          "MED-X057-EXT-20261027C-001"
         ]
       },
       {
@@ -3645,7 +3699,8 @@
           "YT-jHDvdcxl98w",
           "YT-UihBiCQSx7c",
           "YT-pMkFH13URS8",
-          "YT-UDMw87ofhy8"
+          "YT-UDMw87ofhy8",
+          "MED-X057-EXT-20261027B-004"
         ]
       },
       {
@@ -3712,10 +3767,10 @@
     "boardStatus": "As checked 2026-10-07: CAST publishes skull-base fellowship programme requirements and lists Mass General Brigham among CAST-accredited programme entries. ABNS describes one general neurological-surgery certification pathway and an oral Tumor focus that includes skull-base tumors/endoscopic surgery. It does not publish a separate Skull Base board exam or individual skull-base certificate. NASBS match is administrative selection, distinct from both. No fellowship-specific ABNS exam blueprint or exam weighting was located; course alignment is only to public CAST education requirements and ABNS broad domains, not a formal blueprint.",
     "boardEligibilityNotice": "MGB states candidates must have completed or be in their senior year of an ACGME-accredited programme or equivalent in their home country; CAST standards for a CAST-accredited post-residency fellowship require satisfactory completion of an ACGME or foreign-equivalent accredited neurological-surgery residency. A NASBS-listed BWH programme has distinct published match fields and eligibility details; verify directly with each programme. ABNS board eligibility depends on ABNS requirements and the individual’s training/certification trajectory, not on this fellowship or course. Current rules can change. Independent self-study grants no board eligibility, exam credit, licence, fellowship appointment or operative competence.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 29.950555555555557,
-    "verifiedSpecialtyHours": 25.680555555555557,
+    "verifiedExternalHours": 34.31682167333335,
+    "verifiedSpecialtyHours": 30.04682167333335,
     "verifiedFoundationHours": 4.27,
-    "hoursGap": 6.049444444444443,
+    "hoursGap": 1.6831783266666491,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

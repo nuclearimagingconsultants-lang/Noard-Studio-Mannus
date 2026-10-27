@@ -1,3 +1,17 @@
+# Board Studio — verified external medical lecture continuation
+
+Updated 27 October 2026. **14 source-qualified course assignments** across Breast Imaging, Skull Base Surgery and Pediatric Ophthalmology add **11.8370 course-assigned hours**. After deduplicating all previously catalogued URLs, **6.9093 hours are globally new catalogue media**; the rest is existing media newly assigned to a relevant course. Those quantities are not interchangeable.
+
+**200 of 333 medical records meet their measured floors; 133 remain unmet**, with **2,881.42 overlapping record-hours** remaining. This increment reduces the capped deficit by **11.8370 record-hours** but does not close another floor. Source observations support narrow topic associations, not entire-course or clinical completeness. Medicine remains **incomplete**; the older 118 chapter source reviews, 8 unavailable sources and 19 withheld practice items are unchanged.
+
+**Clinician review is outside the requested self-study scope**, as instructed, and its factual status remains **not performed**. This does not waive source checks or establish clinical competence, accreditation, institutional affiliation, board eligibility/certification or a passing guarantee.
+
+All **242 ready originals** (149 base, 93 medical), **28 immutable approved readings**, 136 legacy development states, prior downloads, native playback and auth remain preserved. **No new original film, publisher-video copy, local deletion or purchase** occurs. External recordings stay at their original public players: use Medicine → course → University/All, with Open source/Skip if embedding is unavailable. Compact reference/provenance backups are separate from publisher video. Original rendering remains paused at the unchanged temporary-disk reserve, and Dropbox backup is not claimed complete. Publication and live verification are recorded separately.
+
+---
+
+## Earlier snapshots — historical, not current totals
+
 # Board Studio — three measured medical targets closed
 
 Updated 27 October 2026. **14 newly source-qualified public clinical recordings add 12.1797 unique measured hours**. MED-135 Renal Pathology, MED-140 Child and Adolescent Psychiatry and MED-X074 Rhinology now meet their combined verified source-plus-ready-original lecture-hour floors. Renal Pathology has 35.931445 external hours plus 0.0775 ready-original hours, totaling 36.008945 hours; it is not 36 external hours alone. The two departmental addresses and an equivalent already-assigned cross-platform recording are excluded.

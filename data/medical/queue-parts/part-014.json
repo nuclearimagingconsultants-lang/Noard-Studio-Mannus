@@ -5467,6 +5467,51 @@
         "durationSeconds": 3899.03,
         "sourceUrl": "https://cybersight.org/library/lecture-live-pediatric-ophthalmology-strabismus-case-discussion-part-ii/",
         "accessVerified": true
+      },
+      {
+        "id": "MED-167-EXT-20261027B-001",
+        "title": "Lecture: Strabismus Surgery in Practice: Case-Based Lessons Across Horizontal, Vertical, & Reoperations",
+        "url": "https://cybersight.org/library/lecture-strabismus-surgery-in-practice-case-based-lessons-across-horizontal-vertical-reoperations/",
+        "provider": "Cybersight, an initiative of Project Orbis International, Inc.",
+        "durationSeconds": 5037,
+        "sourceUrl": "https://cybersight.org/library/lecture-strabismus-surgery-in-practice-case-based-lessons-across-horizontal-vertical-reoperations/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-167-EXT-20261027B-002",
+        "title": "Lecture: Pediatric Ophthalmology Unknowns: Interactive Case-Based, Diagnostic Reasoning",
+        "url": "https://cybersight.org/library/lecture-pediatric-ophthalmology-unknowns-interactive-case-based-diagnostic-reasoning/",
+        "provider": "Cybersight, an initiative of Project Orbis International, Inc.",
+        "durationSeconds": 3618,
+        "sourceUrl": "https://cybersight.org/library/lecture-pediatric-ophthalmology-unknowns-interactive-case-based-diagnostic-reasoning/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-167-EXT-20261027B-003",
+        "title": "Lecture: Evaluation and Surgical Management of Superior Oblique Palsy: 2020 Update, Q&A and Case Discussion",
+        "url": "https://cybersight.org/library/lecture-evaluation-and-surgical-management-of-superior-oblique-palsy-2020-update-qa-and-case-discussion/",
+        "provider": "Cybersight, an initiative of Project Orbis International, Inc.",
+        "durationSeconds": 5552,
+        "sourceUrl": "https://cybersight.org/library/lecture-evaluation-and-surgical-management-of-superior-oblique-palsy-2020-update-qa-and-case-discussion/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-167-EXT-20261027C-001",
+        "title": "Lecture: Retinopathy of Prematurity in 2026 – Evaluation, Management and Disease Burden",
+        "url": "https://cybersight.org/library/lecture-retinopathy-of-prematurity-in-2026-evaluation-management-and-disease-burden/",
+        "provider": "Cybersight",
+        "durationSeconds": 4278,
+        "sourceUrl": "https://cybersight.org/library/lecture-retinopathy-of-prematurity-in-2026-evaluation-management-and-disease-burden/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-167-EXT-20261027C-002",
+        "title": "Lecture: Pediatric Cataract and Management",
+        "url": "https://cybersight.org/library/lecture-pediatric-cataract-and-management/",
+        "provider": "Cybersight",
+        "durationSeconds": 1548.52,
+        "sourceUrl": "https://cybersight.org/library/lecture-pediatric-cataract-and-management/",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -5513,7 +5558,8 @@
           "moran-ocular-orbital-anatomy-foundation-2022",
           "moran-visual-development-amblyopia-anterior-segment-2021",
           "moran-examination-strabismus-amblyopia-2017",
-          "MED-167-EXT-20261027-005"
+          "MED-167-EXT-20261027-005",
+          "MED-167-EXT-20261027B-003"
         ]
       },
       {
@@ -5543,7 +5589,8 @@
           "aapos-duane-adult-2025",
           "aapos-adult-vertical-strabismus-2024",
           "moran-ocular-orbital-anatomy-foundation-2022",
-          "MED-167-EXT-20261027-005"
+          "MED-167-EXT-20261027-005",
+          "MED-167-EXT-20261027B-003"
         ]
       },
       {
@@ -5569,7 +5616,8 @@
           "aapos-after-ocular-surgery-2026",
           "aapos-adult-vertical-strabismus-2024",
           "moran-okap-review-pediatric-ophthalmology-2018",
-          "MED-167-EXT-20261027-005"
+          "MED-167-EXT-20261027-005",
+          "MED-167-EXT-20261027B-001"
         ]
       },
       {
@@ -5584,7 +5632,8 @@
           "aapos-kushner-9-glaucoma-strabismus",
           "moran-pediatric-congenital-glaucoma-2022",
           "moran-visual-development-amblyopia-anterior-segment-2021",
-          "aios-aioc-2024-pediatric-cataract-surgery-ic589"
+          "aios-aioc-2024-pediatric-cataract-surgery-ic589",
+          "MED-167-EXT-20261027C-002"
         ]
       },
       {
@@ -5593,7 +5642,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "iowa-rop-loose-zonules-heme",
-          "moran-pediatric-retina-2022"
+          "moran-pediatric-retina-2022",
+          "MED-167-EXT-20261027C-001"
         ]
       },
       {
@@ -5606,7 +5656,8 @@
           "aapos-kushner-10-research",
           "moran-pediatric-retina-2022",
           "moran-papilledema-optic-neuropathies-2022",
-          "moran-ocular-orbital-anatomy-foundation-2022"
+          "moran-ocular-orbital-anatomy-foundation-2022",
+          "MED-167-EXT-20261027B-002"
         ]
       },
       {
@@ -5659,10 +5710,10 @@
     "boardStatus": "In the United States, ABO describes general ophthalmology certification based on accredited ophthalmology training and written qualifying plus oral examinations. No separate U.S. ABO pediatric ophthalmology/strabismus board exam was identified. Separately, EBO/ESA/EPOS offers the FEBOS-SP European subspecialty examination; it requires EBO-equivalent/UEMS qualifications, specialist registration, a one-year full-time fellowship to ICO-equivalent standards, and substantial verified surgical experience; those criteria are not met or conferred by this course.",
     "boardEligibilityNotice": "This independent educational curriculum grants no ABO or FEBOS-SP eligibility, accredited training, clinical privileges, licensure, case volume or procedural competence. Consult each board for current rules; no eligibility determination is made.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 30.308619444444446,
-    "verifiedSpecialtyHours": 29.45528611111111,
+    "verifiedExternalHours": 35.87348611111111,
+    "verifiedSpecialtyHours": 35.02015277777778,
     "verifiedFoundationHours": 0.8533333333333334,
-    "hoursGap": 5.691380555555554,
+    "hoursGap": 0.12651388888888704,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

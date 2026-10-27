@@ -28192,7 +28192,8 @@
           "moran-ocular-orbital-anatomy-foundation-2022",
           "moran-visual-development-amblyopia-anterior-segment-2021",
           "moran-examination-strabismus-amblyopia-2017",
-          "MED-167-EXT-20261027-005"
+          "MED-167-EXT-20261027-005",
+          "MED-167-EXT-20261027B-003"
         ],
         "casePractice": [
           "Infantile esotropia; Duane syndrome; Brown syndrome"
@@ -28272,7 +28273,8 @@
           "aapos-duane-adult-2025",
           "aapos-adult-vertical-strabismus-2024",
           "moran-ocular-orbital-anatomy-foundation-2022",
-          "MED-167-EXT-20261027-005"
+          "MED-167-EXT-20261027-005",
+          "MED-167-EXT-20261027B-003"
         ],
         "casePractice": [
           "Sagging eye syndrome; strabismus with scleral buckle; acquired Brown syndrome"
@@ -28323,7 +28325,8 @@
           "aapos-after-ocular-surgery-2026",
           "aapos-adult-vertical-strabismus-2024",
           "moran-okap-review-pediatric-ophthalmology-2018",
-          "MED-167-EXT-20261027-005"
+          "MED-167-EXT-20261027-005",
+          "MED-167-EXT-20261027B-001"
         ],
         "casePractice": [
           "Case index and surgical videos (observational only)"
@@ -28363,7 +28366,8 @@
           "aapos-kushner-9-glaucoma-strabismus",
           "moran-pediatric-congenital-glaucoma-2022",
           "moran-visual-development-amblyopia-anterior-segment-2021",
-          "aios-aioc-2024-pediatric-cataract-surgery-ic589"
+          "aios-aioc-2024-pediatric-cataract-surgery-ic589",
+          "MED-167-EXT-20261027C-002"
         ],
         "casePractice": [
           "Retinoblastoma; congenital cataract; congenital glaucoma"
@@ -28397,7 +28401,8 @@
         ],
         "lectureIds": [
           "iowa-rop-loose-zonules-heme",
-          "moran-pediatric-retina-2022"
+          "moran-pediatric-retina-2022",
+          "MED-167-EXT-20261027C-001"
         ],
         "casePractice": [
           "ROP overview; FEVR; Coats disease"
@@ -28435,7 +28440,8 @@
           "aapos-kushner-10-research",
           "moran-pediatric-retina-2022",
           "moran-papilledema-optic-neuropathies-2022",
-          "moran-ocular-orbital-anatomy-foundation-2022"
+          "moran-ocular-orbital-anatomy-foundation-2022",
+          "MED-167-EXT-20261027B-002"
         ],
         "casePractice": [
           "Optic nerve hypoplasia; septo-optic dysplasia; Moebius syndrome; nystagmus"
@@ -29564,6 +29570,203 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Public Cybersight page with Wistia player; normal control only. No video was downloaded, copied, cloud-saved, rehosted, or embedded. Surgical clips are observation/discussion, not authorization for independent surgery."
+      },
+      {
+        "rightsStatus": "publisher playback only; copying permission not established",
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0,
+          "afterTimeSeconds": 1,
+          "normalControl": "Visible public Play Video button changed to Pause Video after an ordinary browser click.",
+          "observedAtUtc": "2026-10-27T09:23:30Z",
+          "durationSeconds": 5037
+        },
+        "provider": "Cybersight, an initiative of Project Orbis International, Inc.",
+        "channel": "Cybersight Library — Lectures",
+        "accessVerified": true,
+        "sourceUrl": "https://cybersight.org/library/lecture-strabismus-surgery-in-practice-case-based-lessons-across-horizontal-vertical-reoperations/",
+        "freeAccessStatus": "public_viewing_verified; ordinary publisher-player playback was observed with no login, registration, or paywall.",
+        "title": "Lecture: Strabismus Surgery in Practice: Case-Based Lessons Across Horizontal, Vertical, & Reoperations",
+        "accessEmbeddingNotes": "embedding unverified; use source fallback",
+        "category": "specialty",
+        "relevanceEvidence": [
+          {
+            "url": "https://cybersight.org/library/lecture-strabismus-surgery-in-practice-case-based-lessons-across-horizontal-vertical-reoperations/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nCases will include first-time operations as well as re-ops, as well as the elusive flap tear, with an emphasis on practical decision-making and looking to the literature as a guide. Through step-by-step discussion of diagnosis, surgical planning, technique selection, and postoperative outcomes, participants will gain actionable insights applicable across diverse clinical settings.\nSeparate source-checker narrow association explanation:\nNarrowly associates with Unit 6 because the source explicitly addresses surgical planning, technique selection, re-operations, and postoperative outcomes. It does not establish complete Unit 6 coverage or surgical competence."
+          }
+        ],
+        "durationEvidenceUrl": "https://cybersight.org/library/lecture-strabismus-surgery-in-practice-case-based-lessons-across-horizontal-vertical-reoperations/",
+        "durationEvidenceMethod": "The public publisher-embedded Wistia player control bar visibly displayed the finite runtime 1:23:57 before play, converted to 5,037 seconds. A normal visible Play Video click changed the control to Pause Video and showed advancing playback at 0:01.",
+        "id": "MED-167-EXT-20261027B-001",
+        "observedDurationSeconds": 5037,
+        "coverageUnits": [
+          6
+        ],
+        "url": "https://cybersight.org/library/lecture-strabismus-surgery-in-practice-case-based-lessons-across-horizontal-vertical-reoperations/",
+        "humanClinicalReviewStatus": "not performed",
+        "durationSeconds": 5037,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "embedding unverified; use source fallback"
+      },
+      {
+        "rightsStatus": "publisher playback only; copying permission not established",
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0,
+          "afterTimeSeconds": 1,
+          "normalControl": "Visible public Play Video button changed to Pause Video after an ordinary browser click.",
+          "observedAtUtc": "2026-10-27T09:24:48Z",
+          "durationSeconds": 3618
+        },
+        "provider": "Cybersight, an initiative of Project Orbis International, Inc.",
+        "channel": "Cybersight Library — Lectures",
+        "accessVerified": true,
+        "sourceUrl": "https://cybersight.org/library/lecture-pediatric-ophthalmology-unknowns-interactive-case-based-diagnostic-reasoning/",
+        "freeAccessStatus": "public_viewing_verified; ordinary publisher-player playback was observed with no login, registration, or paywall.",
+        "title": "Lecture: Pediatric Ophthalmology Unknowns: Interactive Case-Based, Diagnostic Reasoning",
+        "accessEmbeddingNotes": "embedding unverified; use source fallback",
+        "category": "specialty",
+        "relevanceEvidence": [
+          {
+            "url": "https://cybersight.org/library/lecture-pediatric-ophthalmology-unknowns-interactive-case-based-diagnostic-reasoning/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nIf we’re concerned about raised intracranial pressure, that can lead to a full, partial, or very subtle sixth nerve palsy.\nSeparate source-checker narrow association explanation:\nNarrowly associates with Unit 9’s pediatric neuro-ophthalmology and ocular-motility diagnostic reasoning: the on-page pediatric case discusses raised intracranial pressure and a sixth-nerve palsy. It does not cover the full unit."
+          }
+        ],
+        "durationEvidenceUrl": "https://cybersight.org/library/lecture-pediatric-ophthalmology-unknowns-interactive-case-based-diagnostic-reasoning/",
+        "durationEvidenceMethod": "The public publisher-embedded Wistia player control bar visibly displayed the finite runtime 1:00:18 before play, converted to 3,618 seconds. A normal visible Play Video click changed the control to Pause Video and showed advancing playback at 0:01.",
+        "id": "MED-167-EXT-20261027B-002",
+        "observedDurationSeconds": 3618,
+        "coverageUnits": [
+          9
+        ],
+        "url": "https://cybersight.org/library/lecture-pediatric-ophthalmology-unknowns-interactive-case-based-diagnostic-reasoning/",
+        "humanClinicalReviewStatus": "not performed",
+        "durationSeconds": 3618,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "embedding unverified; use source fallback"
+      },
+      {
+        "rightsStatus": "publisher playback only; copying permission not established",
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0,
+          "afterTimeSeconds": 1,
+          "normalControl": "Visible public Play Video button changed to Pause Video after an ordinary browser click.",
+          "observedAtUtc": "2026-10-27T09:26:36Z",
+          "durationSeconds": 5552
+        },
+        "provider": "Cybersight, an initiative of Project Orbis International, Inc.",
+        "channel": "Cybersight Library — Lectures",
+        "accessVerified": true,
+        "sourceUrl": "https://cybersight.org/library/lecture-evaluation-and-surgical-management-of-superior-oblique-palsy-2020-update-qa-and-case-discussion/",
+        "freeAccessStatus": "public_viewing_verified; ordinary publisher-player playback was observed with no login, registration, or paywall.",
+        "title": "Lecture: Evaluation and Surgical Management of Superior Oblique Palsy: 2020 Update, Q&A and Case Discussion",
+        "accessEmbeddingNotes": "embedding unverified; use source fallback",
+        "category": "specialty",
+        "relevanceEvidence": [
+          {
+            "url": "https://cybersight.org/library/lecture-evaluation-and-surgical-management-of-superior-oblique-palsy-2020-update-qa-and-case-discussion/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nIn this live webinar, we will discuss the appropriate clinical evaluation of vertical strabismus, most commonly associated with superior oblique palsy, including strabismus measurements, assessment of torsion and the Three-Step Test.\nSeparate source-checker narrow association explanation:\nNarrowly associates with Unit 3 through alignment and ocular-motility assessment, and Unit 5 through vertical/oblique diplopia and torsion assessment. It does not provide complete coverage of either unit."
+          }
+        ],
+        "durationEvidenceUrl": "https://cybersight.org/library/lecture-evaluation-and-surgical-management-of-superior-oblique-palsy-2020-update-qa-and-case-discussion/",
+        "durationEvidenceMethod": "The public publisher-embedded Wistia player control bar visibly displayed the finite runtime 1:32:32 before play, converted to 5,552 seconds. A normal visible Play Video click changed the control to Pause Video and showed advancing playback at 0:01.",
+        "id": "MED-167-EXT-20261027B-003",
+        "observedDurationSeconds": 5552,
+        "coverageUnits": [
+          3,
+          5
+        ],
+        "url": "https://cybersight.org/library/lecture-evaluation-and-surgical-management-of-superior-oblique-palsy-2020-update-qa-and-case-discussion/",
+        "humanClinicalReviewStatus": "not performed",
+        "durationSeconds": 5552,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "embedding unverified; use source fallback"
+      },
+      {
+        "freeAccessStatus": "public_viewing_verified",
+        "durationEvidenceUrl": "https://fast.wistia.net/embed/iframe/mbn1ogr3tz?web_component=true&seo=false",
+        "accessEmbeddingNotes": "Public Cybersight page link is the fallback; embedding unverified; no copying licence.",
+        "provider": "Cybersight",
+        "publicationDate": null,
+        "humanClinicalReviewStatus": "not performed",
+        "accessVerified": true,
+        "title": "Lecture: Retinopathy of Prematurity in 2026 – Evaluation, Management and Disease Burden",
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0,
+          "afterTimeSeconds": 10,
+          "normalControl": "Visible public Wistia button labelled ‘Play Video: Lecture: Retinopathy of Prematurity in 2026 – Evaluation, Management and Disease Burden’.",
+          "observedAtUtc": "2026-10-27",
+          "durationSeconds": 4278
+        },
+        "observedDurationSeconds": 4278,
+        "url": "https://cybersight.org/library/lecture-retinopathy-of-prematurity-in-2026-evaluation-management-and-disease-burden/",
+        "channel": "Cybersight",
+        "relevanceEvidence": [
+          {
+            "url": "https://cybersight.org/library/lecture-retinopathy-of-prematurity-in-2026-evaluation-management-and-disease-burden/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nThe agenda, talk about the history, pathophysiology, classification, screening and finally treatment with updates for 2026.\nSeparate source-checker narrow association explanation:\nThis transcript excerpt supports narrow instructional exposure to ROP history, pathophysiology, classification, screening, and treatment updates in Unit 8; it does not establish full unit or domain completion."
+          }
+        ],
+        "category": "specialty",
+        "coverageUnits": [
+          8
+        ],
+        "durationEvidenceMethod": "On 2026-10-27, the ordinary public Wistia embed was opened from the public Cybersight page. Clicking its visible button labelled ‘Play Video: Lecture: Retinopathy of Prematurity in 2026 – Evaluation, Management and Disease Burden’ exposed a finite visible player total of 1:11:18, equal to 4,278 seconds.",
+        "sourceUrl": "https://cybersight.org/library/lecture-retinopathy-of-prematurity-in-2026-evaluation-management-and-disease-burden/",
+        "id": "MED-167-EXT-20261027C-001",
+        "rightsStatus": "unknown",
+        "durationSeconds": 4278,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public Cybersight page link is the fallback; embedding unverified; no copying licence."
+      },
+      {
+        "freeAccessStatus": "public_viewing_verified",
+        "durationEvidenceUrl": "https://fast.wistia.net/embed/iframe/9yd43cih3e?web_component=true&seo=false",
+        "accessEmbeddingNotes": "Public Cybersight page link is the fallback; embedding unverified; no copying licence.",
+        "provider": "Cybersight",
+        "publicationDate": "2017-06-06",
+        "humanClinicalReviewStatus": "not performed",
+        "accessVerified": true,
+        "title": "Lecture: Pediatric Cataract and Management",
+        "playbackEvidence": {
+          "beforeTimeSeconds": 1,
+          "afterTimeSeconds": 21.443377,
+          "normalControl": "Visible public Wistia button labelled ‘Play Video: Lecture: Pediatric Cataract and Management’, which changed to a visible ‘Pause Video’ control after activation.",
+          "observedAtUtc": "2026-10-27",
+          "durationSeconds": 1548.52
+        },
+        "observedDurationSeconds": 1548.52,
+        "url": "https://cybersight.org/library/lecture-pediatric-cataract-and-management/",
+        "channel": "Cybersight",
+        "relevanceEvidence": [
+          {
+            "url": "https://cybersight.org/library/lecture-pediatric-cataract-and-management/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nUnderstand complications of surgery and long term follow up needs\nSeparate source-checker narrow association explanation:\nThis objective supports narrow exposure to pediatric cataract complications and long-term follow-up in Unit 7; it does not establish full unit or procedural competency."
+          }
+        ],
+        "category": "specialty",
+        "coverageUnits": [
+          7
+        ],
+        "durationEvidenceMethod": "On 2026-10-27, the ordinary public Wistia embed was activated with its visible Play control. The loaded public HTML5 player then exposed duration 1548.52 seconds at readyState 4 while playing; this is the finite runtime used here.",
+        "sourceUrl": "https://cybersight.org/library/lecture-pediatric-cataract-and-management/",
+        "id": "MED-167-EXT-20261027C-002",
+        "rightsStatus": "unknown",
+        "durationSeconds": 1548.52,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Public Cybersight page link is the fallback; embedding unverified; no copying licence."
       }
     ],
     "unitMap": [
@@ -29619,7 +29822,8 @@
           "moran-ocular-orbital-anatomy-foundation-2022",
           "moran-visual-development-amblyopia-anterior-segment-2021",
           "moran-examination-strabismus-amblyopia-2017",
-          "MED-167-EXT-20261027-005"
+          "MED-167-EXT-20261027-005",
+          "MED-167-EXT-20261027B-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -29659,7 +29863,8 @@
           "aapos-duane-adult-2025",
           "aapos-adult-vertical-strabismus-2024",
           "moran-ocular-orbital-anatomy-foundation-2022",
-          "MED-167-EXT-20261027-005"
+          "MED-167-EXT-20261027-005",
+          "MED-167-EXT-20261027B-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -29690,7 +29895,8 @@
           "aapos-after-ocular-surgery-2026",
           "aapos-adult-vertical-strabismus-2024",
           "moran-okap-review-pediatric-ophthalmology-2018",
-          "MED-167-EXT-20261027-005"
+          "MED-167-EXT-20261027-005",
+          "MED-167-EXT-20261027B-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -29710,7 +29916,8 @@
           "aapos-kushner-9-glaucoma-strabismus",
           "moran-pediatric-congenital-glaucoma-2022",
           "moran-visual-development-amblyopia-anterior-segment-2021",
-          "aios-aioc-2024-pediatric-cataract-surgery-ic589"
+          "aios-aioc-2024-pediatric-cataract-surgery-ic589",
+          "MED-167-EXT-20261027C-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -29724,7 +29931,8 @@
         "text": "Retinopathy of prematurity and pediatric retina",
         "lectureIds": [
           "iowa-rop-loose-zonules-heme",
-          "moran-pediatric-retina-2022"
+          "moran-pediatric-retina-2022",
+          "MED-167-EXT-20261027C-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -29742,7 +29950,8 @@
           "aapos-kushner-10-research",
           "moran-pediatric-retina-2022",
           "moran-papilledema-optic-neuropathies-2022",
-          "moran-ocular-orbital-anatomy-foundation-2022"
+          "moran-ocular-orbital-anatomy-foundation-2022",
+          "MED-167-EXT-20261027B-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -29809,7 +30018,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 5.691,
+      "hoursToTarget": 0.127,
       "topicGaps": [
         "Verified video corpus is far below the 36-hour specialty floor; source-linked EyeRounds clips total only a small amount and many are brief technique demonstrations, not full lectures.",
         "Need full-length recorded teaching across visual development, pediatric assessment, amblyopia, esotropia/exotropia, adult diplopia, ROP, cataract/glaucoma, nystagmus, genetics, emergencies and evidence appraisal.",
@@ -30566,10 +30775,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 30.308619444444446,
-      "verifiedSpecialtyHours": 29.45528611111111,
+      "verifiedExternalHours": 35.87348611111111,
+      "verifiedSpecialtyHours": 35.02015277777778,
       "verifiedFoundationHours": 0.8533333333333334,
-      "hoursGap": 5.691380555555554,
+      "hoursGap": 0.12651388888888704,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [

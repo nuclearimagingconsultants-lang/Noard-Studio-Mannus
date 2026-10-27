@@ -22192,7 +22192,8 @@
           "YT-poiWRh3IS-0",
           "YT-UXOuer1cINU",
           "YT-v194F3rQgqg",
-          "YT-RKi9Xm33ZcQ"
+          "YT-RKi9Xm33ZcQ",
+          "MED-058-EXT-20261027C-001"
         ],
         "casePractice": "Using linked-only CBIS-DDSM cases, record a structured technical/observation note without copying image pixels or exporting patient data.",
         "assessment": "Ten-item image-quality and workflow checklist with a one-sentence reason for each item; peer compare against the ACR practice parameter."
@@ -22268,7 +22269,8 @@
           "YT-FJl_yf5Au68",
           "YT-LTdNr1aGbb0",
           "YT-poiWRh3IS-0",
-          "YT-v194F3rQgqg"
+          "YT-v194F3rQgqg",
+          "MED-058-EXT-20261027B-001"
         ],
         "casePractice": "Work through UW case pages in source view and write an original observation/differential note; retain UW attribution and do not rehost images.",
         "assessment": "Structured report critique: identify missing technical, comparison, communication or follow-up elements in three fictional reports."
@@ -22350,7 +22352,8 @@
           "YT-v194F3rQgqg",
           "YT-Emt9VODGj0A",
           "YT--m7Qso427Yg",
-          "YT-LjuGY9N0Q5Q"
+          "YT-LjuGY9N0Q5Q",
+          "MED-058-EXT-20261027B-002"
         ],
         "casePractice": "Review de-identified TCIA MRI metadata/annotations only under its license and citation rule. Write a modality-correlation question, not a clinical recommendation.",
         "assessment": "Two-column limitation matrix: MRI, CEM and US; include one technical, one patient-safety and one evidence/credential limitation each."
@@ -22388,7 +22391,8 @@
           "YT-LTvxZEvIUwE",
           "YT-_z8fIkthKnQ",
           "YT-v194F3rQgqg",
-          "YT-LjuGY9N0Q5Q"
+          "YT-LjuGY9N0Q5Q",
+          "MED-058-EXT-20261027B-003"
         ],
         "casePractice": "Choose two UW cases and one fictional symptomatic presentation. For each, state what additional information the credentialed team would need before action.",
         "assessment": "Five-item decision audit: correctly label screening versus diagnostic question, source, uncertainty, escalation point and prohibited independent action."
@@ -22499,7 +22503,8 @@
           "YT-poiWRh3IS-0",
           "YT-UXOuer1cINU",
           "YT-O1-hJKJSyoY",
-          "YT--m7Qso427Yg"
+          "YT--m7Qso427Yg",
+          "MED-058-EXT-20261027C-001"
         ],
         "casePractice": "Audit a fictional facility checklist against the FDA/eCFR pages. Do not claim the exercise is an MQSA audit or credentialing determination.",
         "assessment": "Twelve-question open-resource regulatory quiz with citations and a written statement of the limits of self-study."
@@ -23554,6 +23559,158 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Individually addressable public watch page observed statelessly. Link only; do not mirror, redistribute, or rehost. The source is a non-institutional teaching channel; its positioning/systematic-viewing content is an adjunct and must be checked against current ACR/facility guidance."
+      },
+      {
+        "rightsStatus": "publisher playback only; copying permission not established",
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0,
+          "afterTimeSeconds": 6,
+          "normalControl": "Play button; retained same-player runtime observation: The direct public player control bar visibly showed 00:00 / 39:15 before playback; 39:15 = 2,355 seconds.",
+          "observedAtUtc": "2026-10-27T09:21:39Z",
+          "durationSeconds": 2355
+        },
+        "provider": "Association of Academic Radiology (AAR)",
+        "channel": "Radiology Resident Core Lecture Series",
+        "accessVerified": true,
+        "sourceUrl": "https://radiologyresidentcorelectures.com/3108-kohr/",
+        "freeAccessStatus": "public_viewing_verified; the normal publisher player loaded and advanced without login, registration, or paywall.",
+        "title": "Diagnostic (Problem-Solving) Mammography",
+        "accessEmbeddingNotes": "embedding unverified; use source fallback",
+        "category": "specialty",
+        "relevanceEvidence": [
+          {
+            "url": "https://radiologyresidentcorelectures.com/3108-kohr/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nVisible objectives slide: \"Review standard and supplementary mammographic views for lesion localization and characterization\" and \"Mammographic and ultrasound evaluation for breast symptoms.\"\nSeparate source-checker narrow association explanation:\nThe explicit review of standard and supplementary mammographic views for lesion localization and characterization narrowly supports Unit 4's diagnostic-views and systematic mammographic-findings content; it does not establish independent reporting authority or complete Unit coverage."
+          }
+        ],
+        "durationEvidenceUrl": "https://radiologyresidentcorelectures.com/3108-kohr/",
+        "durationEvidenceMethod": "The direct public player control bar visibly showed 00:00 / 39:15 before playback; 39:15 = 2,355 seconds.",
+        "id": "MED-058-EXT-20261027B-001",
+        "observedDurationSeconds": 2355,
+        "coverageUnits": [
+          4
+        ],
+        "url": "https://radiologyresidentcorelectures.com/3108-kohr/",
+        "humanClinicalReviewStatus": "not performed",
+        "durationSeconds": 2355,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "embedding unverified; use source fallback"
+      },
+      {
+        "rightsStatus": "publisher playback only; copying permission not established",
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0,
+          "afterTimeSeconds": 5,
+          "normalControl": "Play button; retained same-player runtime observation: The direct public player control bar visibly showed 00:00 / 34:21 before playback; 34:21 = 2,061 seconds.",
+          "observedAtUtc": "2026-10-27T09:22:52Z",
+          "durationSeconds": 2061
+        },
+        "provider": "Association of Academic Radiology (AAR)",
+        "channel": "Radiology Resident Core Lecture Series",
+        "accessVerified": true,
+        "sourceUrl": "https://radiologyresidentcorelectures.com/3105-eby/",
+        "freeAccessStatus": "public_viewing_verified; the normal publisher player loaded and advanced without login, registration, or paywall.",
+        "title": "Clinical Physics of Breast Imaging: MRI",
+        "accessEmbeddingNotes": "embedding unverified; use source fallback",
+        "category": "specialty",
+        "relevanceEvidence": [
+          {
+            "url": "https://radiologyresidentcorelectures.com/3105-eby/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nVisible introduction slide: \"Breast MRI is highly sensitive. Moderate specificity requires caution. Current approaches rely primarily on preferential gadolinium enhancement.\"\nSeparate source-checker narrow association explanation:\nThe visible discussion of MRI sensitivity, specificity caution, and gadolinium enhancement narrowly supports Unit 6's conceptual MRI enhancement and capability/constraint content; it does not establish contrast-safety competence, MRI qualification, or complete Unit coverage."
+          }
+        ],
+        "durationEvidenceUrl": "https://radiologyresidentcorelectures.com/3105-eby/",
+        "durationEvidenceMethod": "The direct public player control bar visibly showed 00:00 / 34:21 before playback; 34:21 = 2,061 seconds.",
+        "id": "MED-058-EXT-20261027B-002",
+        "observedDurationSeconds": 2061,
+        "coverageUnits": [
+          6
+        ],
+        "url": "https://radiologyresidentcorelectures.com/3105-eby/",
+        "humanClinicalReviewStatus": "not performed",
+        "durationSeconds": 2061,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "embedding unverified; use source fallback"
+      },
+      {
+        "rightsStatus": "publisher playback only; copying permission not established",
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0,
+          "afterTimeSeconds": 6,
+          "normalControl": "Play button; retained same-player runtime observation: The direct public player control bar visibly showed 00:00 / 25:03 before playback; 25:03 = 1,503 seconds.",
+          "observedAtUtc": "2026-10-27T09:25:05Z",
+          "durationSeconds": 1503
+        },
+        "provider": "Association of Academic Radiology (AAR)",
+        "channel": "Radiology Resident Core Lecture Series",
+        "accessVerified": true,
+        "sourceUrl": "https://radiologyresidentcorelectures.com/3114-moy/",
+        "freeAccessStatus": "public_viewing_verified; the normal publisher player loaded and advanced without login, registration, or paywall.",
+        "title": "Evaluation of the Male Breast",
+        "accessEmbeddingNotes": "embedding unverified; use source fallback",
+        "category": "foundation",
+        "relevanceEvidence": [
+          {
+            "url": "https://radiologyresidentcorelectures.com/3114-moy/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nVisible \"Prepubertal Period\" slide: \"Males - Androgen suppresses the development of ducts, lobular units and stroma.\"\nSeparate source-checker narrow association explanation:\nThe visible explanation is foundational male-breast anatomy/physiology context for Unit 7's male-breast-concerns topic only; it is not an appropriateness pathway, management recommendation, or complete Unit coverage."
+          }
+        ],
+        "durationEvidenceUrl": "https://radiologyresidentcorelectures.com/3114-moy/",
+        "durationEvidenceMethod": "The direct public player control bar visibly showed 00:00 / 25:03 before playback; 25:03 = 1,503 seconds.",
+        "id": "MED-058-EXT-20261027B-003",
+        "observedDurationSeconds": 1503,
+        "coverageUnits": [
+          7
+        ],
+        "url": "https://radiologyresidentcorelectures.com/3114-moy/",
+        "humanClinicalReviewStatus": "not performed",
+        "durationSeconds": 1503,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "embedding unverified; use source fallback"
+      },
+      {
+        "freeAccessStatus": "public_viewing_verified",
+        "durationEvidenceUrl": "https://radiologyresidentcorelectures.com/3121-lewis/",
+        "accessEmbeddingNotes": "Direct public recording page verified. Link fallback is the exact source URL; embedding is unverified; public viewing supplies no copying, download, or redistribution licence.",
+        "provider": "Association of Academic Radiology (AAR)",
+        "publicationDate": null,
+        "humanClinicalReviewStatus": "not performed",
+        "accessVerified": true,
+        "title": "Mammographic Image Quality",
+        "playbackEvidence": "After one blank initial browser render, the direct page loaded. At 2026-10-27T05:09:43Z the normal public control bar showed 00:00 / 15:42. Normal Play was clicked at 2026-10-27T05:09:53Z; the same player visibly advanced to 00:05 at 2026-10-27T05:09:58Z. The post-start total display reset, so the pre-play finite duration is retained.",
+        "observedDurationSeconds": 942,
+        "url": "https://radiologyresidentcorelectures.com/3121-lewis/",
+        "channel": "Radiology Resident Core Curriculum Lecture Series",
+        "relevanceEvidence": [
+          {
+            "url": "https://radiologyresidentcorelectures.com/3121-lewis/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nVisible public player slide: \"Image Quality Control\" and \"Physician responsibility to check\" with bullets including \"QC\" and \"Technologist education.\"\nSeparate source-checker narrow association explanation:\nThis is narrow exposure for Unit 2's image-quality/QC topic and Unit 10's QA context only; it does not establish full unit, domain, credential, or clinical-practice completion."
+          }
+        ],
+        "category": "specialty",
+        "coverageUnits": [
+          2,
+          10
+        ],
+        "durationEvidenceMethod": "The direct public player control bar visibly showed 00:00 / 15:42 before playback; 15:42 = 942 seconds.",
+        "sourceUrl": "https://radiologyresidentcorelectures.com/3121-lewis/",
+        "id": "MED-058-EXT-20261027C-001",
+        "rightsStatus": "unknown",
+        "durationSeconds": 942,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Direct public recording page verified. Link fallback is the exact source URL; embedding is unverified; public viewing supplies no copying, download, or redistribution licence."
       }
     ],
     "unitMap": [
@@ -23592,7 +23749,8 @@
           "YT-poiWRh3IS-0",
           "YT-UXOuer1cINU",
           "YT-v194F3rQgqg",
-          "YT-RKi9Xm33ZcQ"
+          "YT-RKi9Xm33ZcQ",
+          "MED-058-EXT-20261027C-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -23642,7 +23800,8 @@
           "YT-FJl_yf5Au68",
           "YT-LTdNr1aGbb0",
           "YT-poiWRh3IS-0",
-          "YT-v194F3rQgqg"
+          "YT-v194F3rQgqg",
+          "MED-058-EXT-20261027B-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -23696,7 +23855,8 @@
           "YT-v194F3rQgqg",
           "YT-Emt9VODGj0A",
           "YT--m7Qso427Yg",
-          "YT-LjuGY9N0Q5Q"
+          "YT-LjuGY9N0Q5Q",
+          "MED-058-EXT-20261027B-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -23722,7 +23882,8 @@
           "YT-LTvxZEvIUwE",
           "YT-_z8fIkthKnQ",
           "YT-v194F3rQgqg",
-          "YT-LjuGY9N0Q5Q"
+          "YT-LjuGY9N0Q5Q",
+          "MED-058-EXT-20261027B-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -23792,7 +23953,8 @@
           "YT-poiWRh3IS-0",
           "YT-UXOuer1cINU",
           "YT-O1-hJKJSyoY",
-          "YT--m7Qso427Yg"
+          "YT--m7Qso427Yg",
+          "MED-058-EXT-20261027C-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -23849,7 +24011,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 5.411,
+      "hoursToTarget": 3.506,
       "topicGaps": [
         "No current, complete, free, verified 36-hour lecture sequence was found: 12.5058 observed specialty hours are ready and 23.4942 hours remain; original scripts/plans do not count as rendered media.",
         "Free recordings remain uneven by domain. The largest gaps are current MQSA quality/audit operations, pathology concordance, multidisciplinary workflow, CEM evidence/technical interpretation, and source-current screening strategy; recordings are supplementary and several are dated.",
@@ -24442,10 +24604,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 30.58861111111111,
-      "verifiedSpecialtyHours": 28.305555555555557,
-      "verifiedFoundationHours": 2.2830555555555554,
-      "hoursGap": 5.41138888888889,
+      "verifiedExternalHours": 32.49444444444445,
+      "verifiedSpecialtyHours": 29.79388888888889,
+      "verifiedFoundationHours": 2.7005555555555554,
+      "hoursGap": 3.505555555555553,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
