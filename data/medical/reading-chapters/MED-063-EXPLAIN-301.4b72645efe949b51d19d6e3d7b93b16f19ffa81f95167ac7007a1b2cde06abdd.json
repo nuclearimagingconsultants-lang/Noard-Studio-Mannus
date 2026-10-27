@@ -1,0 +1,93 @@
+{
+  "episodeId": "MED-063-EXPLAIN-301",
+  "courseId": "MED-063",
+  "title": "ACR Head Trauma: Reading Short-Term Follow-Up Imaging Variants",
+  "description": "A source-limited ACR Head Trauma reading chapter that distinguishes initial imaging from three short-term follow-up variants: stable with unremarkable imaging, stable with a positive finding, and new or progressive neurologic deficits.",
+  "educationalLimits": "Independent educational self-study only. This proposal is explicitly not clinician reviewed, clinical training, patient advice, a patient-care protocol, licensure or board-eligibility instruction, or a passing guarantee. The ACR source states that the ultimate decision for a specific examination or treatment must be made by the referring physician and radiologist in light of the individual examination. No video was created; this proposal adds zero video hours.",
+  "coverageGaps": [
+    "This source-only chapter does not complete the original repeat-CT teaching for adults taking anticoagulant or antiplatelet medication.",
+    "It does not state ACEP recommendations, anticoagulant or antiplatelet rules, aspirin exceptions, recommendation grades, evidence-study counts, disposition, observation, discharge, or delayed-hemorrhage advice because this cached source does not support those original claims.",
+    "It does not provide repeat-imaging intervals, a universal modality rule, a clinical decision rule, individualized risk assessment, treatment guidance, or a patient-specific imaging plan.",
+    "It does not establish adult-only or pediatric-only applicability for ACR Variants 4–6; it only preserves the source's separate adult/pediatric relative-radiation-level context.",
+    "It does not fulfill any video requirement; zero video hours are added.",
+    "The original adult anticoagulant/antiplatelet repeat-CT topic remains incomplete; this repaired chapter does not teach its medication-defined population or policy boundary.",
+    "No ACEP recommendation, aspirin exception, recommendation grade, study count, observation/discharge statement, or delayed-hemorrhage claim is carried forward because the only permitted cached ACR source does not support it here.",
+    "No repeat interval, patient-specific modality choice, clinical escalation instruction, or treatment pathway is supplied.",
+    "The source does not make Variant 4–6 adult-only or pediatric-only; only relative-radiation-level context for adult and pediatric estimates is retained.",
+    "No video has been created; this continuation adds zero video hours."
+  ],
+  "sourceUrls": [
+    "https://acsearch.acr.org/docs/69481/Narrative/"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "d12ffce7b27b72aa38dfa7141f8dc528cae1963cea43d8499a1a4e8a8cd239bc",
+  "visualSha256": "6a460f69e61851ba109de06242fb1f5db67824ee109fa8da78c163381e4df2bb",
+  "evidenceSelectionSha256": "a12e22aec0443c4aeaca3c3b06bd9e2f4cf2c1efde5dbea1d249f09d808fce79",
+  "reviewedAt": "2026-10-09T15:02:44.773769+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://acsearch.acr.org/docs/69481/Narrative/",
+      "rawSha256": "128db5390fd9ef7d9136f4d156e5f8c0bf6c08deeb86136442f036cf3055bbb1",
+      "textSha256": "52ed94d70bc74d7e0c7947f863f24862c775188f2d1c32e14c7e0c38c53b71a3",
+      "excerptSha256": "fba253ba4a366c2ec8d10aa7f78b85b6b8bf05e3f11b9c05b7eeea72f31eaf75",
+      "excerptManifestSha256": "962e9de1e0ce3c7743f6bd60762787541f654dfb50a2bbbea85c185318797b32"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "Read the variant heading before the procedure table",
+      "narration": "This narrower chapter teaches a reading method, not a patient-care rule. The cached ACR Head Trauma text divides the topic into initial imaging and short-term follow-up imaging. It defines initial imaging as imaging at the beginning of the care episode for the condition described by a variant. That definition matters because a table entry is meaningful only after its scenario has been identified. For example, the source has separate initial-imaging variants for mild trauma when imaging is not indicated by a clinical decision rule, mild trauma when imaging is indicated, and moderate, severe, or penetrating trauma. It then begins a distinct set of short-term follow-up variants. A learner should therefore not lift a modality label from one row and apply it to a different point in the episode. First identify whether the source is asking an initial-imaging question or a short-term-follow-up question. Next read the clinical state in the heading. Only then read the listed procedures and their ACR category. This sequence makes the source's boundaries visible: a procedure table is attached to a named scenario, not to the broad phrase head trauma. The chapter does not add medication status, a repeat-scan timetable, or an individual decision pathway to that source structure.",
+      "teachingLabels": [
+        "Initial imaging and short-term follow-up are different source questions",
+        "Read the scenario heading before the procedure list"
+      ],
+      "visualPlan": "Conceptual two-stage flow: initial-imaging variants on the left and short-term follow-up variants on the right; highlight ‘read heading before table.’ No patient images."
+    },
+    {
+      "title": "Stable-negative is ACR Variant 4",
+      "narration": "Variant 4 is the stable-negative follow-up scenario in this chapter's shorthand. Its actual heading is acute head trauma with an unchanged neurologic examination and unremarkable initial imaging, followed by short-term follow-up imaging. Both conditions belong in the label: the neurologic examination is unchanged, and the initial imaging is unremarkable. The cached table lists MRI head without IV contrast and CT head without IV contrast as “May Be Appropriate” for this specific variant. A careful reader should retain the category wording and the paired conditions rather than translate it into a universal instruction to repeat—or not repeat—imaging after any negative study. In particular, this ACR text does not define a time interval, does not identify medication exposure as a qualifier, and does not set an adult-only or pediatric-only follow-up pathway. The learning point is classification: stable clinical state plus unremarkable initial imaging is its own variant. It is not interchangeable with a stable examination after a positive scan, and it is not interchangeable with a changed neurologic examination. The radiation symbols in the table are relative-radiation-level labels, not a calculation of a particular person's dose or a substitute for clinical judgment.",
+      "teachingLabels": [
+        "Variant 4: unchanged examination + unremarkable imaging",
+        "Keep both stable-negative qualifiers together",
+        "No follow-up interval is supplied here"
+      ],
+      "visualPlan": "Conceptual state card labeled Variant 4: unchanged examination + unremarkable initial imaging; show CT and MRI as source-table entries. No scans or patient imagery."
+    },
+    {
+      "title": "Stable-positive is ACR Variant 5",
+      "narration": "Variant 5 changes the imaging state while keeping the neurologic-examination state unchanged. The source calls it acute head trauma with an unchanged neurologic examination and positive finding or findings on initial imaging, giving subdural hematoma as an example, for short-term follow-up imaging. In its table, CT head without IV contrast is listed as “Usually Appropriate,” while MRI head without IV contrast is listed as “May Be Appropriate.” The educational distinction is not merely negative versus positive wording. The positive initial finding places the learner in a different ACR scenario, even though the examination remains unchanged. Thus, an unchanged examination does not erase the information supplied by the first images. Conversely, the positive-finding heading alone does not establish the timing of follow-up, the management of a subdural hematoma, or the correct choice for an individual case. The chapter uses the source's example only to explain the category boundary; it does not turn that example into a protocol. When comparing Variant 4 and Variant 5, ask two separate questions: what is the neurologic state, and what did the initial imaging show? Preserving both answers prevents the stable-negative table from being silently substituted for the stable-positive table.",
+      "teachingLabels": [
+        "Variant 5: unchanged examination + positive initial finding",
+        "A stable examination does not erase a positive imaging state",
+        "Subdural hematoma is a source example, not a protocol"
+      ],
+      "visualPlan": "Conceptual comparison panel: Variant 4 unremarkable imaging versus Variant 5 positive finding, with unchanged examination on both. Text-only, no patient images."
+    },
+    {
+      "title": "Changed neurologic status is ACR Variant 6",
+      "narration": "Variant 6 is a separate short-term follow-up scenario: acute head trauma with new or progressive neurologic deficit or deficits. The source's wording shifts the clinical-state variable from unchanged to new or progressive. In the cached table, CT head without IV contrast is listed as “Usually Appropriate,” and MRI head without IV contrast as “May Be Appropriate.” For source reading, the key lesson is that a changed neurologic state is not a small footnote to the stable variants. It is a new variant with its own procedure table. A learner should not use the phrase unchanged neurologic examination from Variant 4 or 5 when the Variant 6 heading describes new or progressive deficits. Nor should the table be expanded into advice about symptoms, urgency, observation, treatment, or an imaging schedule; none of those operational details is supplied by this cached excerpt. The source labels the clinical change broadly as new or progressive neurologic deficits and does not teach a complete examination, a diagnostic threshold, or a patient-specific response. This chapter therefore focuses on the conceptual switch in the variant heading and directs no action for an individual.",
+      "teachingLabels": [
+        "Variant 6: new or progressive neurologic deficit(s)",
+        "Changed status is a separate follow-up scenario",
+        "The source does not supply an individual action plan"
+      ],
+      "visualPlan": "Conceptual state-change arrow from ‘unchanged examination’ to ‘new or progressive deficit(s),’ leading to a separate Variant 6 table. No patient images."
+    },
+    {
+      "title": "Compare the three follow-up states without overreach",
+      "narration": "A compact comparison can reinforce the ACR structure. Stable-negative means unchanged neurologic examination plus unremarkable initial imaging: Variant 4. Stable-positive means unchanged neurologic examination plus positive initial finding or findings: Variant 5. Changed neurologic status means new or progressive neurologic deficit or deficits: Variant 6. The first two differ by imaging state; Variant 6 differs by clinical state. That is the complete teaching target of this repair. The terms “May Be Appropriate” and “Usually Appropriate” are source-table category labels for the named scenario, not recommendation grades imported from another policy. The ACR explanation says that a “May Be Appropriate” procedure may be indicated as an alternative to a procedure with a more favorable risk-benefit ratio or when the risk-benefit ratio is equivocal. It also includes relative-radiation-level information and explains that pediatric patients have higher exposure risk because of organ sensitivity and longer life expectancy; its pediatric dose-estimate ranges are lower than adult ranges. This is dose-label context only. The follow-up headings themselves do not authorize this chapter to claim a separate pediatric pathway, an adult-only rule, or any anticoagulant teaching. Checkpoint: Can you name the two state descriptors in a variant before looking at a modality? Checkpoint: Can you explain why stable-positive is not the same source question as stable-negative? These are conceptual checks, not clinical training or patient advice.",
+      "teachingLabels": [
+        "Compare clinical state and imaging state separately",
+        "ACR category labels are scenario-bound",
+        "Conceptual check, not patient advice"
+      ],
+      "visualPlan": "Three-column conceptual matrix: stable-negative / stable-positive / changed neurologic status, each with the exact ACR heading cues and no patient imagery."
+    }
+  ]
+}

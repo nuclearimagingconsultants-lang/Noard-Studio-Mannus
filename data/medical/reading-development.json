@@ -1,6 +1,6 @@
 {
   "schema": "board-studio-medical-reading-development-v1",
-  "updatedAt": "2026-10-09T13:25:31.594320+00:00",
+  "updatedAt": "2026-10-09T15:12:29.632914+00:00",
   "entries": [
     {
       "courseId": "MED-022",
@@ -10,7 +10,7 @@
     {
       "courseId": "MED-058",
       "episodeId": "MED-058-EXPLAIN-301",
-      "status": "source_review_pending"
+      "status": "source_checked"
     },
     {
       "courseId": "MED-059",
@@ -20,7 +20,7 @@
     {
       "courseId": "MED-063",
       "episodeId": "MED-063-EXPLAIN-301",
-      "status": "source_review_pending"
+      "status": "source_checked"
     },
     {
       "courseId": "MED-064",

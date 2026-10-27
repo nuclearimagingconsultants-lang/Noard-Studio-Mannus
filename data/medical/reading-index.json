@@ -96,7 +96,23 @@
       "payloadSha256": "1d866be5711e8c40167792742d09fcde141cb8a79a3113553fcd72d5a183b1f1",
       "sourceScriptSha256": "b12ef322d29393a0f4cf6174023d887742b037205ca8988877e7af03306b82cf",
       "evidenceSelectionSha256": "0e193cd69d79dd1f28d2c3d413f336ca68417ce07ab4118c0cb1e3e0b19a66f2"
+    },
+    {
+      "courseId": "MED-058",
+      "episodeId": "MED-058-EXPLAIN-301",
+      "file": "reading-chapters/MED-058-EXPLAIN-301.610d19bc81738a27ec171913075040b5d51773e0f3791334c5f5cf6725715e19.json",
+      "payloadSha256": "610d19bc81738a27ec171913075040b5d51773e0f3791334c5f5cf6725715e19",
+      "sourceScriptSha256": "da3ced87890152b0d51f32f704b3b21e94546142dd739fb636419b5938257add",
+      "evidenceSelectionSha256": "4a2fe297629faac14ff44076a27bdf5554b791e7c187b700d0f475a8cc070538"
+    },
+    {
+      "courseId": "MED-063",
+      "episodeId": "MED-063-EXPLAIN-301",
+      "file": "reading-chapters/MED-063-EXPLAIN-301.4b72645efe949b51d19d6e3d7b93b16f19ffa81f95167ac7007a1b2cde06abdd.json",
+      "payloadSha256": "4b72645efe949b51d19d6e3d7b93b16f19ffa81f95167ac7007a1b2cde06abdd",
+      "sourceScriptSha256": "d12ffce7b27b72aa38dfa7141f8dc528cae1963cea43d8499a1a4e8a8cd239bc",
+      "evidenceSelectionSha256": "a12e22aec0443c4aeaca3c3b06bd9e2f4cf2c1efde5dbea1d249f09d808fce79"
     }
   ],
-  "updatedAt": "2026-10-09T13:24:00.609741+00:00"
+  "updatedAt": "2026-10-27T01:10:00Z"
 }

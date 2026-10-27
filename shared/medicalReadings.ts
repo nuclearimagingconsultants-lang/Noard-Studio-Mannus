@@ -16,7 +16,13 @@ export type MedicalReadingChapter = {
   visualSha256: string;
   evidenceSelectionSha256: string;
   reviewedAt: string;
-  reviewedSources: { url: string; textSha256: string }[];
+  reviewedSources: {
+    url: string;
+    textSha256: string;
+    rawSha256?: string;
+    excerptSha256?: string;
+    excerptManifestSha256?: string;
+  }[];
   sourceLimitations: string;
   sections: {
     title: string;
@@ -218,12 +224,25 @@ export function validateMedicalReading(
       source =>
         source &&
         typeof source === "object" &&
-        Object.keys(source).every(key => ["url", "textSha256"].includes(key)) &&
+        Object.keys(source).every(key =>
+          [
+            "url",
+            "textSha256",
+            "rawSha256",
+            "excerptSha256",
+            "excerptManifestSha256",
+          ].includes(key)
+        ) &&
         isPublicReadingSource(source.url) &&
         item.sourceUrls instanceof Array &&
         item.sourceUrls.includes(source.url) &&
         typeof source.textSha256 === "string" &&
-        shaPattern.test(source.textSha256)
+        shaPattern.test(source.textSha256) &&
+        ["rawSha256", "excerptSha256", "excerptManifestSha256"].every(
+          key =>
+            source[key] === undefined ||
+            (typeof source[key] === "string" && shaPattern.test(source[key]))
+        )
     )
   )
     return false;

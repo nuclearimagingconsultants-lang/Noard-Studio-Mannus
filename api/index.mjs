@@ -877,7 +877,17 @@ function validateMedicalReading(value, courseId) {
   if (!Array.isArray(item.sourceUrls) || !item.sourceUrls.length || !item.sourceUrls.every(isPublicReadingSource))
     return false;
   if (!Array.isArray(item.reviewedSources) || !item.reviewedSources.length || !item.reviewedSources.every(
-    (source) => source && typeof source === "object" && Object.keys(source).every((key) => ["url", "textSha256"].includes(key)) && isPublicReadingSource(source.url) && item.sourceUrls instanceof Array && item.sourceUrls.includes(source.url) && typeof source.textSha256 === "string" && shaPattern.test(source.textSha256)
+    (source) => source && typeof source === "object" && Object.keys(source).every(
+      (key) => [
+        "url",
+        "textSha256",
+        "rawSha256",
+        "excerptSha256",
+        "excerptManifestSha256"
+      ].includes(key)
+    ) && isPublicReadingSource(source.url) && item.sourceUrls instanceof Array && item.sourceUrls.includes(source.url) && typeof source.textSha256 === "string" && shaPattern.test(source.textSha256) && ["rawSha256", "excerptSha256", "excerptManifestSha256"].every(
+      (key) => source[key] === void 0 || typeof source[key] === "string" && shaPattern.test(source[key])
+    )
   ))
     return false;
   return Array.isArray(item.sections) && item.sections.length > 0 && item.sections.every(

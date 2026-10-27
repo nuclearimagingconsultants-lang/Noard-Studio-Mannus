@@ -1,0 +1,100 @@
+{
+  "episodeId": "MED-058-EXPLAIN-301",
+  "courseId": "MED-058",
+  "title": "Breast cancer screening: the preventive-service boundary for symptom questions",
+  "description": "A deliberately narrowed, source-only Unit 7 chapter uses the USPSTF breast-screening recommendation to distinguish preventive screening scope from questions involving obvious related signs or symptoms. It teaches the recommendation's population, stated limits, potential harms, and downstream follow-up boundary; it does not teach nipple-discharge diagnosis or diagnostic imaging.",
+  "educationalLimits": "Independent educational self-study only. This is not clinical advice, clinical training, a diagnostic pathway, licensure preparation, board eligibility, or a passing guarantee. It has not been reviewed by a human clinician.",
+  "coverageGaps": [
+    "This repaired chapter intentionally does not classify, describe, or evaluate nipple discharge. All original nipple-discharge diagnostic variants—including physiologic/pathologic pattern distinctions and any case mapping—remain uncovered.",
+    "No ACR initial-imaging appropriateness ratings, diagnostic modality selections, diagnostic age or gender variants, protocols, clinical examination, image interpretation, diagnostic work-up, diagnosis, management, pregnancy/lactation considerations, or local pathways are supported by the sole cached source and therefore are not taught.",
+    "The sole cached USPSTF recommendation concerns preventive services for patients without obvious related signs or symptoms; it does not supply a symptom-evaluation pathway. It cannot complete the original diagnostic chapter.",
+    "The chapter does not cover persons excluded from the USPSTF recommendation, including those with a genetic marker or syndrome associated with high risk, prior high-dose chest radiation at a young age, previous breast cancer, or a high-risk lesion on previous biopsies.",
+    "The source concludes that evidence is insufficient for screening mammography in women 75 years or older and for supplemental screening with ultrasound or MRI in women with dense breasts and an otherwise negative screening mammogram; this is not a recommendation to use or avoid a particular diagnostic test.",
+    "Original-author missing-source requirements are preserved: a hash-verified/current copy of the ACR Appropriateness Criteria narrative at https://acsearch.acr.org/docs/3099312/Narrative/ is required before restoring scenario-specific nipple-discharge imaging appropriateness variants; a hash-verified/current copy of the ACR/RSNA patient explanation at https://www.radiologyinfo.org/en/info/acs-eval-nipple-discharge?PdfExport=1 is required before restoring nipple-discharge pattern descriptions. Neither source is available in this repair cache, so neither is represented here.",
+    "This chapter contributes zero videos, zero video minutes, and zero hours; it has not been reviewed by a human clinician.",
+    "The original chapter's nipple-discharge diagnostic content remains entirely unrepaired: physiologic/pathologic pattern cues, adult and gender-specific variants, age bands, initial diagnostic imaging appropriateness ratings, and the fictional symptom case all require unavailable ACR/RSNA sources.",
+    "All diagnostic work-up content remains outside the sole USPSTF screening source: clinical history and examination, diagnostic test selection and protocols, image interpretation, differential diagnosis, biopsy decisions, management, follow-up of symptoms, pregnancy/lactation, and additional gender-diverse presentations.",
+    "The original author’s source requirements remain outstanding. Restore the ACR narrative source https://acsearch.acr.org/docs/3099312/Narrative/ and ACR/RSNA explanation https://www.radiologyinfo.org/en/info/acs-eval-nipple-discharge?PdfExport=1 as hash-verified source records before restoring their claims; do not substitute the USPSTF screening statement for them.",
+    "The original ACR source-currency/local-protocol limitation also remains unresolved because the ACR source is not available in this cache.",
+    "The repaired chapter does not meet a video floor: it has zero videos, zero video minutes, zero hours, and no human clinician review."
+  ],
+  "sourceUrls": [
+    "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "da3ced87890152b0d51f32f704b3b21e94546142dd739fb636419b5938257add",
+  "visualSha256": "e168d674e18268be70151164bc1b5b08856f88a9cbea39bd530b30e0e9c619bb",
+  "evidenceSelectionSha256": "4a2fe297629faac14ff44076a27bdf5554b791e7c187b700d0f475a8cc070538",
+  "reviewedAt": "2026-10-09T15:02:39.417751+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening",
+      "rawSha256": "e58cf6dcf3b06a498618d11fde9b20414b89dc61bf46f7112b6f4f1dda125e58",
+      "textSha256": "0409e359fcda10e9bada00a83f25f3e55de20dad287d47bd46afd9fb5026a741",
+      "excerptSha256": "db6ca3953f384698d32c6aaf1d5b04141b090d817c380e5c8d2291ab75ab36b4",
+      "excerptManifestSha256": "3f5196b26f87c12776552b8df02eda48f09354fc3095ccca3d911e0ac869eee1"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "Begin with the population question the source actually answers",
+      "narration": "This chapter starts with a scope check, not a symptom classification. The USPSTF says that it makes recommendations about preventive care services for patients \"without obvious related signs or symptoms.\" That wording identifies the kind of question addressed by this source: whether a preventive screening service is beneficial for a defined population. It does not supply an evaluation pathway for a question prompted by an obvious related sign or symptom. A learner can therefore separate two tasks before looking for details: reading a population-level screening recommendation and evaluating an individual symptom-based presentation. The cached source supports the first task only. This boundary is useful because a statement about screening cannot, by itself, answer what diagnostic assessment, imaging, or management belongs to a symptom question. The source does not name or classify nipple-discharge patterns, and this repaired chapter will not add such categories from memory or analogy. Its honest learning objective is more limited: recognize that the preventive-service scope is a reason to stop rather than a reason to invent a diagnostic pathway. [1]",
+      "teachingLabels": [
+        "Screening scope excludes obvious related symptoms",
+        "Do not convert a screening statement into a diagnostic pathway"
+      ],
+      "visualPlan": "A text-only scope card contrasting \"preventive services without obvious related signs or symptoms\" with \"symptom question not evaluated here\"; no modality, patient image, or diagnostic branch."
+    },
+    {
+      "title": "Read the recommendation together with its stated population",
+      "narration": "Once the question is genuinely about screening, the recommendation can be read on its own terms. The USPSTF recommendation summary states: \"Women aged 40 to 74 years The USPSTF recommends biennial screening mammography for women aged 40 to 74 years. B.\" The clinician summary further says that the recommendation applies to cisgender women and to other persons assigned female at birth, including transgender men and nonbinary persons, who are 40 years or older and at average risk. It also says that the recommendation applies to people with factors associated with increased risk, such as a first-degree family history of breast cancer or dense breasts. These population statements matter because they define the reach of this screening recommendation; they are not a method for inferring a symptom-evaluation pathway. The source separately says the recommendation does not apply to people with a genetic marker or syndrome associated with high risk, a history of high-dose chest radiation at a young age, previous breast cancer, or a high-risk lesion on prior biopsies. For study, distinguish the source's stated population from populations it explicitly excludes rather than extending its conclusion beyond the text. [1]",
+      "teachingLabels": [
+        "Read population and recommendation together",
+        "Do not extend stated screening scope"
+      ],
+      "visualPlan": "A source-bound population map: stated screening population, included risk factors named by USPSTF, and explicitly excluded populations. Label all content \"screening recommendation scope.\""
+    },
+    {
+      "title": "Keep screening modality language in the screening lane",
+      "narration": "The source calls both digital mammography and digital breast tomosynthesis, also called 3D mammography, effective mammographic screening modalities. This is a statement about modalities in the recommendation's screening context. It is not a diagnostic-modality rating, and it does not compare tests for people with symptoms. The same source frames its recommendation as biennial screening mammography for women aged 40 to 74 years, with a B grade. A careful reader should preserve the terms \"screening\" and \"mammographic\" rather than silently changing them to an individual diagnostic order. The chapter also does not infer a special diagnostic role for ultrasound or MRI from their mention elsewhere in the source. When the lesson is restricted to a single screening recommendation, accurate reading requires keeping the question, population, and modality language connected. The useful conclusion here is not that a learner can choose a test; it is that the cited source describes effective screening modalities within a specific preventive recommendation. No nipple-discharge modality rating, diagnostic protocol, or symptom-driven age variant is supplied or taught. [1]",
+      "teachingLabels": [
+        "Modality wording belongs to screening context",
+        "No diagnostic rating is supplied"
+      ],
+      "visualPlan": "A single labeled lane, \"USPSTF screening context,\" containing the source terms digital mammography and DBT; a separate muted box states \"no diagnostic ratings in this source.\""
+    },
+    {
+      "title": "Learn where the recommendation reports insufficient evidence",
+      "narration": "A high-quality source reading includes the limits of what the recommendation concludes. For women 75 years or older, the USPSTF says that current evidence is insufficient to assess the balance of benefits and harms of screening mammography. For women with dense breasts who have an otherwise negative screening mammogram, it says current evidence is insufficient to assess the balance of benefits and harms of supplemental screening using breast ultrasonography or MRI. These are I statements in the recommendation summary. The teaching point is not to turn insufficient evidence into a simple instruction to use or avoid a test. Instead, the phrase marks an evidence boundary: the USPSTF did not reach a recommendation for or against those screening questions from the evidence it reviewed. That boundary has particular value in a source-only repair because it prevents the chapter from filling a gap with unsupported certainty. It also does not provide a route to a symptom work-up, a diagnosis, or a nipple-discharge imaging plan. The lesson is to report what the source concludes and, just as importantly, what it leaves unresolved. [1]",
+      "teachingLabels": [
+        "Insufficient evidence is an evidence boundary",
+        "Do not replace uncertainty with a test choice"
+      ],
+      "visualPlan": "Two text cards headed \"75 years or older\" and \"dense breasts with otherwise negative screening mammogram\"; each carries the exact concept \"insufficient evidence\" and no action arrow."
+    },
+    {
+      "title": "Connect the recommendation's benefit claim and potential harms",
+      "narration": "The full recommendation concludes with moderate certainty that biennial screening mammography in women aged 40 to 74 years has a moderate net benefit. The source explains that available evidence suggests a more favorable benefits-versus-harms trade-off for biennial than annual screening. It also lists potential harms of screening mammography: false-positive results that may lead to psychological harms, additional testing and invasive follow-up procedures, overdiagnosis and overtreatment of lesions that would not have caused health problems without detection, and radiation exposure. These details show why the chapter should not present a screening recommendation as an unconditional promise of benefit or as a diagnostic algorithm. The USPSTF's conclusion weighs benefits and harms at the population-recommendation level. Learning to name both sides of that balance helps a reader report the recommendation faithfully. It does not authorize a learner to determine an individual's screening or diagnostic plan, and it supplies no basis for the original chapter's nipple-discharge variants or diagnostic modality decisions. [1]",
+      "teachingLabels": [
+        "Screening recommendations weigh benefits and harms",
+        "Population evidence is not an individual plan"
+      ],
+      "visualPlan": "A balanced text scale labeled \"moderate net benefit in stated screening population\" on one side and the source-listed potential harms on the other; no patient-specific conclusion."
+    },
+    {
+      "title": "Recognize downstream follow-up without inventing a work-up",
+      "narration": "The USPSTF's pathway-to-benefit text says that people with abnormal screening mammography results need equitable and appropriate follow-up evaluation and additional testing, inclusive of indicated biopsies, and that people diagnosed with breast cancer need effective treatment. This is an important boundary statement. It acknowledges that screening benefit depends on what happens after an abnormal screening result, while leaving the details of evaluation, additional testing, biopsy decisions, diagnosis, and treatment outside this chapter's teaching. The source also notes that clinical decisions involve more considerations than evidence alone and that clinicians should individualize decision-making to the specific patient or situation. In a source-reading exercise, learners can label the screening recommendation as upstream and its acknowledgement of follow-up as downstream, without drawing an unsupported bridge between them. This preserves the original unit's screening-versus-symptom-evaluation boundary without pretending that the USPSTF source completes a diagnostic chapter. The appropriate endpoint is a documented scope limit, not a fabricated nipple-discharge pathway. [1]",
+      "teachingLabels": [
+        "Follow-up is acknowledged, not specified here",
+        "Stop at the source boundary"
+      ],
+      "visualPlan": "A simple upstream/downstream text sequence: screening recommendation, abnormal screening result, follow-up acknowledged but not specified. End with \"no symptom diagnostic workflow taught.\""
+    }
+  ]
+}
