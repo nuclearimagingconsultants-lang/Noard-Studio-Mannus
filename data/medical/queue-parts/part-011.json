@@ -6145,6 +6145,15 @@
         "durationSeconds": 3447,
         "sourceUrl": "https://arup.utah.edu/education/geneticTest",
         "accessVerified": true
+      },
+      {
+        "id": "MED-130-EXT-20261027-005",
+        "title": "Copy Number Abnormality Detection from Whole Genome Sequencing Data",
+        "url": "https://slhstream2.ad.slh.wisc.edu/Mediasite/Play/d9a737cd21f44cbd95d361c55f2071391d",
+        "provider": "Cancer Genomics Consortium and University of Wisconsin Collaborative Genomics Conference; public player hosted by Wisconsin State Laboratory of Hygiene Mediasite",
+        "durationSeconds": 3752.0666667,
+        "sourceUrl": "https://cancergenomics.org/cgc_2020_webinars.php",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -6185,7 +6194,8 @@
         "lectureIds": [
           "ARUP-CC-03",
           "ARUP-CNA-01",
-          "ARUP-INTROCYTO-2-2020"
+          "ARUP-INTROCYTO-2-2020",
+          "MED-130-EXT-20261027-005"
         ]
       },
       {
@@ -6203,7 +6213,8 @@
           "NHGRI-GIM-10",
           "NHGRI-GIM-14",
           "NHGRI-GIM-24",
-          "ARUP-GENETICTEST"
+          "ARUP-GENETICTEST",
+          "MED-130-EXT-20261027-005"
         ]
       },
       {
@@ -6356,10 +6367,10 @@
     "boardStatus": "ABMGG offers a distinct Laboratory Genetics and Genomics specialty certification examination for applicants meeting current degree and accredited training requirements. This is a laboratory specialty certification, not a separate ABMS-member physician board specialty. Verify current individual eligibility with ABMGG.",
     "boardEligibilityNotice": "Completion of this independent course creates no board eligibility. ABMGG requires qualifying doctoral degree credentials and full-time training in an ACGME-accredited laboratory postdoctoral program; the fellowship itself is not equivalent to this course. PhD trainees may pursue the LGG certification route if all current board requirements are met. Physician licensure is not conferred.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 26.811666666666667,
-    "verifiedSpecialtyHours": 12.185555555555556,
+    "verifiedExternalHours": 27.853907407416667,
+    "verifiedSpecialtyHours": 13.227796296305554,
     "verifiedFoundationHours": 14.626111111111111,
-    "hoursGap": 9.188333333333333,
+    "hoursGap": 8.146092592583333,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

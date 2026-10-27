@@ -15118,7 +15118,8 @@
           "MED150-HC-003",
           "MED150-HC-006",
           "MED150-HC-009",
-          "MED150-R001"
+          "MED150-R001",
+          "MED-150-EXT-20261027-006"
         ],
         "casePractice": "Create a substance comparison sheet and design a follow-up plan using current official guidance; verify any product-specific medication choice separately.",
         "assessment": "Formative: submit the unit case/worksheet and answer a 5-item retrieval quiz. Score using the course rubric: evidence fidelity 40%, clinical reasoning/safety 30%, developmental/cultural humility 20%, clear source attribution 10%. Not a validated board-passing predictor."
@@ -15155,7 +15156,8 @@
           "MED150-V006",
           "MED150-V008",
           "MED150-V009",
-          "MED150-HC-001"
+          "MED150-HC-001",
+          "MED-150-EXT-20261027-001"
         ],
         "casePractice": "Use AAP youth OUD resource and an open case to build a decision-tree of information to verify with current label, guideline and experienced prescriber. No prescribing exercise.",
         "assessment": "Formative: submit the unit case/worksheet and answer a 5-item retrieval quiz. Score using the course rubric: evidence fidelity 40%, clinical reasoning/safety 30%, developmental/cultural humility 20%, clear source attribution 10%. Not a validated board-passing predictor."
@@ -15192,7 +15194,8 @@
           "MED150-V008",
           "MED150-V009",
           "MED150-HC-001",
-          "MED150-R001"
+          "MED150-R001",
+          "MED-150-EXT-20261027-001"
         ],
         "casePractice": "Complete a tabletop overdose-response sequence from current public guidance; identify which steps require emergency services and local protocol.",
         "assessment": "Formative: submit the unit case/worksheet and answer a 5-item retrieval quiz. Score using the course rubric: evidence fidelity 40%, clinical reasoning/safety 30%, developmental/cultural humility 20%, clear source attribution 10%. Not a validated board-passing predictor."
@@ -15298,7 +15301,8 @@
           "MED150-V005",
           "MED150-V006",
           "MED150-HC-004",
-          "MED150-HC-008"
+          "MED150-HC-008",
+          "MED-150-EXT-20261027-002"
         ],
         "casePractice": "Create a strengths-and-needs map for a fictional youth; identify consent-aware supports, not coercive assumptions.",
         "assessment": "Formative: submit the unit case/worksheet and answer a 5-item retrieval quiz. Score using the course rubric: evidence fidelity 40%, clinical reasoning/safety 30%, developmental/cultural humility 20%, clear source attribution 10%. Not a validated board-passing predictor."
@@ -15338,7 +15342,8 @@
           "MED150-HC-004",
           "MED150-HC-005",
           "MED150-HC-009",
-          "MED150-R001"
+          "MED150-R001",
+          "MED-150-EXT-20261027-002"
         ],
         "casePractice": "Critique an outpatient referral pathway for feasibility, age inclusiveness, medication access, continuity and follow-up.",
         "assessment": "Formative: submit the unit case/worksheet and answer a 5-item retrieval quiz. Score using the course rubric: evidence fidelity 40%, clinical reasoning/safety 30%, developmental/cultural humility 20%, clear source attribution 10%. Not a validated board-passing predictor."
@@ -15926,6 +15931,101 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Individually addressable public YouTube recording from Seattle Children's. Observed public access is not permission to embed, mirror, redistribute, or rehost. The recording contains dated surveillance and treatment discussion; learners must verify current guidance and patient-specific decisions independently."
+      },
+      {
+        "title": "NW PTTC's Webinar Opioids, Fentanyl, and Xylazine",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Direct individually addressable public Vimeo player. Do not download, mirror, rehost, or infer embedding/redistribution permission from public viewing.",
+        "id": "MED-150-EXT-20261027-001",
+        "durationEvidenceMethod": "Fresh ordinary public Vimeo player inspection: visible control bar showed 00:00 / 1:24:56 before playback; duration is 5,096 seconds. After normal visible Play control was clicked, visible elapsed time advanced.",
+        "coverageUnits": [
+          6,
+          7
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://pttcnetwork.org/products_and_resources/opioids-fentanyl-and-xylazine-what-are-they-and-what-do-prevention-professionals-need-to-know-and-do-to-prevent-overdose/",
+        "url": "https://vimeo.com/929666746/ec417f4b83?share=copy",
+        "channel": "CASATunr",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "UTC 2026-10-27T05:23:37Z. Public Vimeo page initially visibly showed 00:00 / 1:24:56. Normal visible Play control was used; visible player elapsed time advanced from 00:00/00:01 to 00:06. No access gate appeared.",
+        "observedDurationSeconds": 5096,
+        "publicationDate": "2024-04-01",
+        "category": "specialty",
+        "provider": "Northwest Prevention Technology Transfer Center (PTTC; Washington State University partnership)",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/929666746/ec417f4b83?share=copy",
+        "freeAccessStatus": "Observed anonymous public Vimeo playback without sign-in, registration, payment, paywall, or age gate; this observed access is separate from reuse rights.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "Northwest PTTC's publisher description says the session addresses opioids, fentanyl, xylazine, naloxone safety, medications for opioid use disorder in adolescents, and prevention of drug overdose; objectives include comparing illicitly manufactured fentanyl with other opioids and debunking myths about naloxone and adolescent MOUD. Source: https://pttcnetwork.org/products_and_resources/opioids-fentanyl-and-xylazine-what-are-they-and-what-do-prevention-professionals-need-to-know-and-do-to-prevent-overdose/",
+        "durationSeconds": 5096,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Direct individually addressable public Vimeo player. Do not download, mirror, rehost, or infer embedding/redistribution permission from public viewing."
+      },
+      {
+        "title": "MPATTC: Clinical Parent Coaching as a Core Component of Adolescent and Young Adult Substance Use Treatment",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Direct individually addressable public Vimeo player. Do not download, mirror, rehost, or infer embedding/redistribution permission from public viewing.",
+        "id": "MED-150-EXT-20261027-002",
+        "durationEvidenceMethod": "Fresh ordinary public Vimeo player inspection: visible control bar showed 00:00 / 1:19:12 before playback; duration is 4,752 seconds. After normal visible Play control was clicked, visible elapsed time advanced.",
+        "coverageUnits": [
+          10,
+          11
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://attcnetwork.org/products_and_resources/clinical-parent-coaching-as-a-core-component-of-adolescent-and-young-adult-substance-use-treatment/",
+        "url": "https://vimeo.com/1196392756/eb78a3409b?share=copy&fl=sv&fe=ci",
+        "channel": "CASATunr",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "UTC 2026-10-27T05:25:01Z. Public Vimeo page initially visibly showed 00:00 / 1:19:12. Normal visible Play control was used; visible elapsed time advanced from 00:00/00:01 to 00:10. No access gate appeared.",
+        "observedDurationSeconds": 4752,
+        "publicationDate": "2026-05-28",
+        "category": "specialty",
+        "provider": "Mountain Plains Addiction Technology Transfer Center (ATTC)",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/1196392756/eb78a3409b?share=copy&fl=sv&fe=ci",
+        "freeAccessStatus": "Observed anonymous public Vimeo playback without sign-in, registration, payment, paywall, or age gate; this observed access is separate from reuse rights.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "The ATTC description states that the recording examines clinical parent coaching in adolescent and young-adult substance-use/co-occurring-disorder treatment; it covers family systems, developmentally informed treatment, parent engagement, outpatient/residential implementation, and recovery outcomes. Source: https://attcnetwork.org/products_and_resources/clinical-parent-coaching-as-a-core-component-of-adolescent-and-young-adult-substance-use-treatment/",
+        "durationSeconds": 4752,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Direct individually addressable public Vimeo player. Do not download, mirror, rehost, or infer embedding/redistribution permission from public viewing."
+      },
+      {
+        "title": "MPATTC: Closing the Treatment Gap: Introduction to Medications for Treating Alcohol Use Disorder",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Direct individually addressable public Vimeo player. General/adult AUD foundation, not youth-specific medication guidance; do not download, mirror, rehost, or infer embedding/redistribution permission from public viewing.",
+        "id": "MED-150-EXT-20261027-006",
+        "durationEvidenceMethod": "Fresh ordinary public Vimeo player inspection: visible control bar showed 00:00 / 56:32 before playback; duration is 3,392 seconds. After normal visible Play control was clicked, visible elapsed time advanced.",
+        "coverageUnits": [
+          5
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://attcnetwork.org/products_and_resources/closing-the-treatment-gap-introduction-to-medications-for-treating-alcohol-use-disorder/",
+        "url": "https://vimeo.com/1015742893",
+        "channel": "CASATunr",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "UTC 2026-10-27T05:30:25Z. Public Vimeo page initially visibly showed 00:00 / 56:32. Normal visible Play control was used; visible elapsed time advanced from 00:00/00:01 to 00:16. No access gate appeared.",
+        "observedDurationSeconds": 3392,
+        "publicationDate": "2024-10-03",
+        "category": "foundation",
+        "provider": "Mountain Plains Addiction Technology Transfer Center (ATTC)",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/1015742893",
+        "freeAccessStatus": "Observed anonymous public Vimeo playback without sign-in, registration, payment, paywall, or age gate; this observed access is separate from reuse rights.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "ATTC states that this recording covers alcohol-use-disorder prevalence, nomenclature and diagnostic criteria; FDA-approved AUD medications and regimen determination; and risk assessment/treatment planning for alcohol withdrawal. Source: https://attcnetwork.org/products_and_resources/closing-the-treatment-gap-introduction-to-medications-for-treating-alcohol-use-disorder/",
+        "durationSeconds": 3392,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Direct individually addressable public Vimeo player. General/adult AUD foundation, not youth-specific medication guidance; do not download, mirror, rehost, or infer embedding/redistribution permission from public viewing."
       }
     ],
     "unitMap": [
@@ -16019,7 +16119,8 @@
           "MED150-HC-003",
           "MED150-HC-006",
           "MED150-HC-009",
-          "MED150-R001"
+          "MED150-R001",
+          "MED-150-EXT-20261027-006"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -16039,7 +16140,8 @@
           "MED150-V006",
           "MED150-V008",
           "MED150-V009",
-          "MED150-HC-001"
+          "MED150-HC-001",
+          "MED-150-EXT-20261027-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -16059,7 +16161,8 @@
           "MED150-V008",
           "MED150-V009",
           "MED150-HC-001",
-          "MED150-R001"
+          "MED150-R001",
+          "MED-150-EXT-20261027-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -16121,7 +16224,8 @@
           "MED150-V005",
           "MED150-V006",
           "MED150-HC-004",
-          "MED150-HC-008"
+          "MED150-HC-008",
+          "MED-150-EXT-20261027-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -16146,7 +16250,8 @@
           "MED150-HC-004",
           "MED150-HC-005",
           "MED150-HC-009",
-          "MED150-R001"
+          "MED150-R001",
+          "MED-150-EXT-20261027-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -16175,7 +16280,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 18.492,
+      "hoursToTarget": 14.815,
       "topicGaps": [
         "Only 7.684 unique, free, accessible hours are verified from observed recording durations; the 36.0h floor still has an actual 28.316h gap. Existing and newly authored target minutes are not rendered video hours.",
         "No publicly inspectable complete Boston Children’s fellowship didactic/rotation schedule or official pediatric-specific Addiction Medicine board blueprint was identified; the published ABPM Addiction Medicine outline maps general board domains, not this pediatric-focused track.",
@@ -17155,10 +17260,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 17.5075,
-      "verifiedSpecialtyHours": 12.176944444444445,
-      "verifiedFoundationHours": 5.330555555555556,
-      "hoursGap": 18.4925,
+      "verifiedExternalHours": 21.185277777777777,
+      "verifiedSpecialtyHours": 14.9125,
+      "verifiedFoundationHours": 6.272777777777778,
+      "hoursGap": 14.814722222222223,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
@@ -17634,7 +17739,8 @@
         ],
         "lectureIds": [
           "OA-PA-OBESITY",
-          "UKY-PA-KEYWORD-REVIEW-1"
+          "UKY-PA-KEYWORD-REVIEW-1",
+          "MED-151-EXT-20261027-005"
         ],
         "casePractice": "Fictional lesion-physiology matrix: label knowns, unknowns, hemodynamic threats, and which congenital-cardiac anesthesiology consult is needed.",
         "assessment": "Oral reasoning rubric: physiology first, evidence quality, safe escalation, no unsupported drug/dose prescription.",
@@ -18550,6 +18656,38 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Link to the original OpenAnesthesia provider page only. Do not download, rehost, mirror, excerpt, or redistribute the recording. OpenAnesthesia terms limit use to personal informational and educational purposes and separately restrict reproduction/distribution. This 2019-updated recording is source-recovery material, not current patient-specific guidance or procedural competency training."
+      },
+      {
+        "title": "Genetic Syndromes Associated with Congenital Heart Disease",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Use the UAMS-linked original Box player only. Visible normal Play control was used; no download, extraction, proxy, or account use occurred.",
+        "id": "MED-151-EXT-20261027-005",
+        "durationEvidenceMethod": "Fresh public Box player control bar visibly displayed 0:00 / 55:57; exact displayed duration converted to 3357 seconds.",
+        "coverageUnits": [
+          5
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.uams.edu/anesthesiology/fellowships/ped-anesthesiology/didactic-curriculum/grand-rounds-recording/",
+        "url": "https://app.box.com/s/suay4kgjh1hgpyz652xze7s1kccnd3a1",
+        "channel": "UAMS Pediatric Anesthesiology Fellowship Grand Rounds Recordings",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:29:09Z. The public player showed 0:00 / 55:57, 0:01 after normal visible Play activation, and 0:06-0:07 / 55:57 after playback advanced. Observation does not endorse the lecture as current patient-specific guidance.",
+        "observedDurationSeconds": 3357,
+        "publicationDate": null,
+        "category": "specialty",
+        "provider": "University of Arkansas for Medical Sciences (UAMS), Department of Anesthesiology / Arkansas Children's Hospital",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://app.box.com/s/suay4kgjh1hgpyz652xze7s1kccnd3a1",
+        "freeAccessStatus": "Public Box recording player was reachable without payment, sign-in, or registration; optional Box Sign up/Log in links were visible. Free viewing is not reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "UAMS lists this exact 2023-2024 Grand Rounds session as \"Genetic Syndromes Associated with Congenital Heart Disease\" by Dr. Matthew Monteleone from Cincinnati Children's Hospital. On the observed player opening frame, a CDC birth-defects/Down-syndrome reference and Cincinnati Children's branding were visible, corroborating congenital/genetic content. This supports Unit 5 only. https://medicine.uams.edu/anesthesiology/fellowships/ped-anesthesiology/didactic-curriculum/grand-rounds-recording/",
+        "durationSeconds": 3357,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Use the UAMS-linked original Box player only. Visible normal Play control was used; no download, extraction, proxy, or account use occurred."
       }
     ],
     "unitMap": [
@@ -18611,7 +18749,8 @@
         "text": "Congenital heart disease, cardiovascular physiology and cardiac procedures",
         "lectureIds": [
           "OA-PA-OBESITY",
-          "UKY-PA-KEYWORD-REVIEW-1"
+          "UKY-PA-KEYWORD-REVIEW-1",
+          "MED-151-EXT-20261027-005"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -18726,7 +18865,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 22.849,
+      "hoursToTarget": 21.917,
       "topicGaps": [
         "Verified, deduplicated accessible free recordings total 8.4736 hours against the 36-hour video target; the exact recording gap is 27.5264 hours. Authored scripts and clip-plan target minutes are not rendered media and add zero verified hours.",
         "Public lecture coverage remains insufficient for developmental physiology/pharmacology, neonatal disease-specific anesthesia, detailed congenital-heart physiology and cardiac procedures, neurologic disease/neurosurgery, GI/GU and endocrine/metabolic disease, trauma/burns, oncology/transplant beyond blood management, and PACU/NORA/sedation/critical-care integration.",
@@ -19449,10 +19588,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 13.150833333333333,
-      "verifiedSpecialtyHours": 10.29111111111111,
+      "verifiedExternalHours": 14.083333333333334,
+      "verifiedSpecialtyHours": 11.223611111111111,
       "verifiedFoundationHours": 2.859722222222222,
-      "hoursGap": 22.84916666666667,
+      "hoursGap": 21.916666666666664,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
@@ -22121,7 +22260,8 @@
           "MED153-X053",
           "MED153-X054",
           "MED153-X056",
-          "MED153-X057"
+          "MED153-X057",
+          "MED-153-EXT-20261027-002"
         ],
         "casePractice": "Use the 2026 SSC recommendation table to annotate a fictional sepsis trajectory; explicitly separate guideline statements from patient-specific decisions.",
         "assessment": "Guideline-to-case matrix graded on recommendation accuracy (40%), certainty/limitations (25%), reassessment and differential (25%), citations (10%)."
@@ -22179,7 +22319,12 @@
           "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001368",
           "https://www.abp.org/sites/abp/files/outline-critical-care-updated.pdf"
         ],
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-153-EXT-20261027-001",
+          "MED-153-EXT-20261027-002",
+          "MED-153-EXT-20261027-003",
+          "MED-153-EXT-20261027-006"
+        ],
         "casePractice": "Critique a fictional comatose-child imaging/monitoring plan against the pediatric TBI guideline, noting evidence grade and clinical context.",
         "assessment": "Evidence interpretation memo scored on source accuracy (40%), uncertainty (30%), safety/age-specific reasoning (20%), citations (10%)."
       },
@@ -22364,7 +22509,8 @@
           "MED153-X053",
           "MED153-X055",
           "MED153-X056",
-          "MED153-X057"
+          "MED153-X057",
+          "MED-153-EXT-20261027-006"
         ],
         "casePractice": "Interpret de-identified educational monitor/trend resources only through their original publisher; develop a fictional SBAR transfer handoff.",
         "assessment": "Device-monitoring rationale (40%), complication analysis (25%), handoff (25%), limits/no procedural authorization (10%)."
@@ -22811,6 +22957,136 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Link learners to the original YouTube source only. Do not download, mirror, redistribute, embed as a replacement for the source platform, or infer reuse rights from free access. This 2019 lecture is a conceptual supplement for pediatric delirium in the sedation/analgesia unit, not a current protocol or independent-practice instruction."
+      },
+      {
+        "title": "Pediatric Neurocritical Care Educational Series - Predicting Neurological Complications in Pediatric Critical Care",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Link to the original Vimeo page only; no download, rehosting, or redistribution assessed or authorized.",
+        "id": "MED-153-EXT-20261027-001",
+        "durationEvidenceMethod": "Fresh public Vimeo player control bar displayed finite duration 1:01:50 before playback.",
+        "coverageUnits": [
+          5
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/1120812244",
+        "url": "https://vimeo.com/1120812244",
+        "channel": "Pediatric Neurocritical Care Education Series",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "At 2026-10-27T05:25:11Z, normal Vimeo Play control was activated; visible time advanced from 00:00 to 00:01. Finite duration 1:01:50 was visible before action. No account or gate encountered.",
+        "observedDurationSeconds": 3710,
+        "publicationDate": null,
+        "category": "specialty",
+        "provider": "CCM Pitt",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/1120812244",
+        "freeAccessStatus": "Observed public Vimeo player loaded without sign-in, payment, registration, or age gate; free viewing only, with no reuse permission inferred.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "Publisher description: \"Early detection of neurologic morbidity in critically ill children remains a major clinical challenge\" and the lecture explores identifying children at risk for neurologic injury using brain-derived biomarkers and machine learning. https://vimeo.com/1120812244",
+        "durationSeconds": 3710,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Link to the original Vimeo page only; no download, rehosting, or redistribution assessed or authorized."
+      },
+      {
+        "title": "Septic Encephalopathy - Pediatric Neurocritical Care Educational Series",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Original Vimeo link only; no copying or rehosting rights inferred.",
+        "id": "MED-153-EXT-20261027-002",
+        "durationEvidenceMethod": "Fresh public Vimeo player control bar displayed finite duration 56:04 before playback.",
+        "coverageUnits": [
+          3,
+          5
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/1201422637",
+        "url": "https://vimeo.com/1201422637",
+        "channel": "Pediatric Neurocritical Care Education Series",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "At 2026-10-27T05:25:56Z, normal Vimeo Play advanced visible time from 00:00 to 00:01; 56:04 was visible before action. No gate encountered.",
+        "observedDurationSeconds": 3364,
+        "publicationDate": null,
+        "category": "specialty",
+        "provider": "CCM Pitt",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/1201422637",
+        "freeAccessStatus": "Observed public Vimeo player loaded without sign-in, payment, registration, or age gate; free viewing only.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "Publisher description calls the lecture \"Reframing Sepsis-Associated Brain Injury as a Treatable Organ Failure\" and identifies the speaker as chief of pediatric critical care with research in sepsis-induced brain injury. https://vimeo.com/1201422637",
+        "durationSeconds": 3364,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Original Vimeo link only; no copying or rehosting rights inferred."
+      },
+      {
+        "title": "Pediatric Intracerebral Hemorrhage: From Code Stroke to Long-Term Recovery",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Original Vimeo link only; no copying or rehosting rights inferred.",
+        "id": "MED-153-EXT-20261027-003",
+        "durationEvidenceMethod": "Fresh public Vimeo player control bar displayed finite duration 1:02:54 before playback.",
+        "coverageUnits": [
+          5
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/1191159741",
+        "url": "https://vimeo.com/1191159741",
+        "channel": "Pediatric Neurocritical Care Education Series",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "At 2026-10-27T05:26:18Z, normal Vimeo Play advanced visible time from 00:00 to 00:01; 1:02:54 was visible before action. No gate encountered.",
+        "observedDurationSeconds": 3774,
+        "publicationDate": null,
+        "category": "specialty",
+        "provider": "CCM Pitt",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/1191159741",
+        "freeAccessStatus": "Observed public Vimeo player loaded without sign-in, payment, registration, or age gate; free viewing only.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "Publisher learning objectives include discussing unique aspects of intracerebral hemorrhage in children, consensus/lack of consensus on multidisciplinary acute interventions, and long-term outcome planning. https://vimeo.com/1191159741",
+        "durationSeconds": 3774,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Original Vimeo link only; no copying or rehosting rights inferred."
+      },
+      {
+        "title": "Pediatric Neurocritical Care Educational Series - Point-of-care TCD",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Original Vimeo link only; no copying or rehosting rights inferred.",
+        "id": "MED-153-EXT-20261027-006",
+        "durationEvidenceMethod": "Fresh public Vimeo player control bar displayed finite duration 58:54 before playback.",
+        "coverageUnits": [
+          5,
+          11
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/1165473269",
+        "url": "https://vimeo.com/1165473269",
+        "channel": "Pediatric Neurocritical Care Education Series",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "At 2026-10-27T05:27:20Z, normal Vimeo Play advanced visible time from 00:00 to 00:01; 58:54 was visible before action. No gate encountered.",
+        "observedDurationSeconds": 3534,
+        "publicationDate": null,
+        "category": "specialty",
+        "provider": "CCM Pitt",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/1165473269",
+        "freeAccessStatus": "Observed public Vimeo player loaded without sign-in, payment, registration, or age gate; free viewing only.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "Publisher objectives: describe pediatric transcranial Doppler physiology; list point-of-care TCD applications in critically ill children; discuss support for bedside care using case examples. https://vimeo.com/1165473269",
+        "durationSeconds": 3534,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Original Vimeo link only; no copying or rehosting rights inferred."
       }
     ],
     "unitMap": [
@@ -22856,7 +23132,8 @@
           "MED153-X053",
           "MED153-X054",
           "MED153-X056",
-          "MED153-X057"
+          "MED153-X057",
+          "MED-153-EXT-20261027-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -22887,7 +23164,12 @@
       {
         "number": 5,
         "text": "Neurologic emergencies, neurocritical care and traumatic brain injury",
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-153-EXT-20261027-001",
+          "MED-153-EXT-20261027-002",
+          "MED-153-EXT-20261027-003",
+          "MED-153-EXT-20261027-006"
+        ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
           "Seizures/status epilepticus",
@@ -22991,7 +23273,8 @@
           "MED153-X053",
           "MED153-X055",
           "MED153-X056",
-          "MED153-X057"
+          "MED153-X057",
+          "MED-153-EXT-20261027-006"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -23026,7 +23309,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 24.423,
+      "hoursToTarget": 20.428,
       "topicGaps": [
         "Verified free recording coverage remains 34.1714 hours below the 36-hour video target. Only 1.8286 unique observed hours are counted; authored scripts and planned production targets are not recordings.",
         "No counted recordings yet cover current 2026 pediatric sepsis guideline teaching, detailed PARDS definition/recommendations, pediatric cardiac arrest current guidance, renal replacement/CRRT, ECMO/ECLS, sedation/delirium, trauma/toxicology, ethical/end-of-life care, QI, or research methods.",
@@ -23872,10 +24155,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 11.576666666666666,
-      "verifiedSpecialtyHours": 9.801388888888889,
+      "verifiedExternalHours": 15.571666666666667,
+      "verifiedSpecialtyHours": 13.796388888888888,
       "verifiedFoundationHours": 1.7752777777777777,
-      "hoursGap": 24.423333333333332,
+      "hoursGap": 20.428333333333335,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
@@ -24562,7 +24845,9 @@
           "https://www.abderm.org/residents-and-fellows/fellowship-training/pediatric-dermatology",
           "https://www.acgme.org/specialties/dermatology/program-requirements-and-faqs-and-applications/"
         ],
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-154-EXT-20261027-002"
+        ],
         "casePractice": "Work through one explicitly fictional vignette plus one linked authentic, de-identified educational case/image source when available; links only; do not copy/rehost images or patient records.",
         "assessment": "Submit a one-page problem representation, ranked differential with discriminating findings, urgency/next-step rationale and 3-item self-check; rubric in course assessment."
       }
@@ -25629,6 +25914,37 @@
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
         "url": "https://www.youtube.com/watch?v=XZXYIOXsb4A",
         "coverageNote": "Link out; do not download/rehost or embed without publisher permission. Public watch page/metadata was visible at check; availability may later change."
+      },
+      {
+        "title": "7/9/2021 Dermatopathology for the win",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Link to the original University of Utah public Kaltura page only. Do not download, extract, rehost, proxy, or embed without affirmative provider permission.",
+        "id": "MED-154-EXT-20261027-002",
+        "durationEvidenceMethod": "Fresh ordinary public Kaltura player playback; visible control bar showed 01:12:11 and the player video.duration exposed 4331.984 seconds.",
+        "coverageUnits": [
+          12
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/1_dcbb3o7k",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/1_dcbb3o7k",
+        "channel": "Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "At 2026-10-27T05:37:04Z, the public player had advanced to 00:07 before a visible normal Pause control was used; the visible normal Play control then resumed it. Four seconds later the same player was currentTime 20.052461 (visible 00:19), paused=false/readyState=4, with finite duration 4331.984 seconds (visible 01:12:11).",
+        "observedDurationSeconds": 4331.984,
+        "publicationDate": "2021-07-09",
+        "category": "specialty",
+        "provider": "University of Utah Health, HSC MediaSpace",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://hsc.mediaspace.utah.edu/media/t/1_dcbb3o7k",
+        "freeAccessStatus": "Observed as a guest-accessible public player with no sign-in, registration, or payment prompt; free viewing is not a reuse licence.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "The University of Utah Grand Rounds page identifies Jamie Zussman, MD, Assistant Professor, University of Utah Department of Dermatology, and supplies the content tags \"diagnosis\", \"icthyosis\", \"immunostains\", and \"prenatal\" alongside the title \"Dermatopathology for the win.\" Those publisher metadata terms support the narrow Unit 12 clinicopathologic-reasoning mapping. https://hsc.mediaspace.utah.edu/media/t/1_dcbb3o7k",
+        "durationSeconds": 4331.984,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Link to the original University of Utah public Kaltura page only. Do not download, extract, rehost, proxy, or embed without affirmative provider permission."
       }
     ],
     "unitMap": [
@@ -25793,7 +26109,9 @@
       {
         "number": 12,
         "text": "Clinicopathologic reasoning, procedures, communication, QI, and scholarship",
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-154-EXT-20261027-002"
+        ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
           "Differential diagnosis and discriminating evidence",
@@ -25805,7 +26123,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 9.675,
+      "hoursToTarget": 8.472,
       "topicGaps": [
         "The duration-verified free public-recording ledger is 9.8056 hours against the 36-hour target; 26.1944 hours remain. Scripts and production targets are not recorded video and do not reduce this gap.",
         "The public recording inventory is uneven: atopic dermatitis, neonatal topics, genodermatoses, vascular anomalies, broad update, social context and melanoma have some viewing coverage, but this does not constitute complete instruction in any unit.",
@@ -26802,10 +27120,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 26.325,
-      "verifiedSpecialtyHours": 22.81361111111111,
+      "verifiedExternalHours": 27.52832888888889,
+      "verifiedSpecialtyHours": 24.016939999999998,
       "verifiedFoundationHours": 3.511388888888889,
-      "hoursGap": 9.675,
+      "hoursGap": 8.47167111111111,
       "unknownDurationItems": [
         {
           "id": "L6",

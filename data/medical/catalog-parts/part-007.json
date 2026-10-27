@@ -6512,7 +6512,10 @@
           "yt-uEbYdPPaFIQ",
           "yt-8lWX7q-gYgw",
           "yt-nywyNpLot88",
-          "yt-xcCWNw5OPg0"
+          "yt-xcCWNw5OPg0",
+          "MED-075-EXT-20261027-001",
+          "MED-075-EXT-20261027-004",
+          "MED-075-EXT-20261027-005"
         ],
         "casePractice": "Fictional, text-only case exercise: Annotated text-only examination checklist for a fictional fetal referral; no patient-level advice.",
         "assessment": "Annotated text-only examination checklist for a fictional fetal referral; no patient-level advice.",
@@ -7622,6 +7625,99 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Individually addressable RSNA Case Collection recording. The directly observed title establishes general pediatric cardiac-radiology relevance to the course’s modality-selection/imaging-physics unit. Its visible page did not provide a detailed agenda, so it is not mapped to CT dose protocol, lesion-specific imaging, or any unobserved subtopic."
+      },
+      {
+        "title": "Basic Fetal Cardiac Imaging: A Sonographers Approach",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual public HTML5 recording on the Children's Mercy scholarly repository; no download or copying was performed.",
+        "id": "MED-075-EXT-20261027-001",
+        "durationEvidenceMethod": "Fresh public HTML5 player: direct page visibly showed 0 seconds of 47 minutes, 54 seconds; same player API reported duration 2874.8125 seconds.",
+        "coverageUnits": [
+          5
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/43/",
+        "url": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/43/",
+        "channel": "Fetal Cardiology Education Series",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "UTC 2026-10-27T05:09:04Z. After visible Play-control attempts, standard public HTML5 player API play was invoked; currentTime advanced 0 to 3.959959 seconds, paused=false, readyState=4; same player duration=2874.8125 seconds.",
+        "observedDurationSeconds": 2874.8125,
+        "publicationDate": "2025-01",
+        "category": "specialty",
+        "provider": "Children's Mercy Kansas City Library Services",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/43/",
+        "freeAccessStatus": "Observed public playback without sign-in, payment, registration, or a gate; viewing only and no reuse right inferred.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "Publisher page labels this item ‘Basic Fetal Cardiac Imaging: A Sonographers Approach,’ in the ‘Fetal Cardiology Education Series,’ Document Type ‘Webinar,’ with a linked ‘Fetal Cardiology Webinar January 2025-Transcript.’ https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/43/",
+        "durationSeconds": 2874.8125,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual public HTML5 recording on the Children's Mercy scholarly repository; no download or copying was performed."
+      },
+      {
+        "title": "Sonographer Tips and Tools for Fetal Arrythmia Evaluation",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual public HTML5 recording; no download or copying was performed.",
+        "id": "MED-075-EXT-20261027-004",
+        "durationEvidenceMethod": "Fresh public HTML5 player visible control bar showed 43:36.",
+        "coverageUnits": [
+          5
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/48/",
+        "url": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/48/",
+        "channel": "Fetal Cardiology Education Series",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "UTC 2026-10-27T05:11:12Z. Visible normal Play control changed to Pause; displayed time advanced from 00:00 to 00:01, and the same player displayed 43:36.",
+        "observedDurationSeconds": 2616,
+        "publicationDate": "2025-07",
+        "category": "specialty",
+        "provider": "Children's Mercy Kansas City Library Services",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/48/",
+        "freeAccessStatus": "Observed public playback without sign-in, payment, registration, or a gate; viewing only and no reuse right inferred.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "Publisher labels this Document Type ‘Webinar’ item ‘Sonographer Tips and Tools for Fetal Arrythmia Evaluation’ and provides a ‘Fetal Cardiology Webinar July 2025 - Transcript.’ https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/48/",
+        "durationSeconds": 2616,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual public HTML5 recording; no download or copying was performed."
+      },
+      {
+        "title": "Total Anomalous Pulmonary Venous REturn: Challenges in fetal diagnosis",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual public HTML5 recording; no download or copying was performed.",
+        "id": "MED-075-EXT-20261027-005",
+        "durationEvidenceMethod": "Fresh public HTML5 player visible control bar showed 40:26.",
+        "coverageUnits": [
+          5
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/38/",
+        "url": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/38/",
+        "channel": "Fetal Cardiology Education Series",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "UTC 2026-10-27T05:11:31Z. Visible normal Play control changed to Pause; displayed time advanced from 00:00 to 00:01, and the same player displayed 40:26.",
+        "observedDurationSeconds": 2426,
+        "publicationDate": "2024-05",
+        "category": "specialty",
+        "provider": "Children's Mercy Kansas City Library Services",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/38/",
+        "freeAccessStatus": "Observed public playback without sign-in, payment, registration, or a gate; viewing only and no reuse right inferred.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "Publisher’s page labels this a Fetal Cardiology Education Series Document Type ‘Webinar’ titled ‘Total Anomalous Pulmonary Venous REturn: Challenges in fetal diagnosis’ and offers a May 2024 transcript. https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/38/",
+        "durationSeconds": 2426,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual public HTML5 recording; no download or copying was performed."
       }
     ],
     "unitMap": [
@@ -7737,7 +7833,10 @@
           "yt-uEbYdPPaFIQ",
           "yt-8lWX7q-gYgw",
           "yt-nywyNpLot88",
-          "yt-xcCWNw5OPg0"
+          "yt-xcCWNw5OPg0",
+          "MED-075-EXT-20261027-001",
+          "MED-075-EXT-20261027-004",
+          "MED-075-EXT-20261027-005"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -7907,7 +8006,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 14.445,
+      "hoursToTarget": 12.246,
       "topicGaps": [
         "The deduplicated ledger now has 5.066944 observed hours against the 36-hour target; 30.933056 hours remain. Of these, 0.919722 hours are adult/congenital supplementary context rather than pediatric-specialty teaching, leaving 31.852778 specialty hours to the target if only specialty-specific recordings are credited.",
         "Recordings now add congenital TEE, 3D echo, pediatric congenital CT/MR case review, congenital CT and general CHD-imager background. These are individual webinars/lectures, not a complete advanced fellowship course.",
@@ -9845,10 +9944,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 21.55527777777778,
-      "verifiedSpecialtyHours": 19.441388888888888,
+      "verifiedExternalHours": 23.754392361111112,
+      "verifiedSpecialtyHours": 21.64050347222222,
       "verifiedFoundationHours": 2.113888888888889,
-      "hoursGap": 14.444722222222222,
+      "hoursGap": 12.245607638888888,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
@@ -20625,7 +20724,8 @@
           "https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1564webNew-74666420.pdf"
         ],
         "lectureIds": [
-          "YT-RYWamzzbeSc"
+          "YT-RYWamzzbeSc",
+          "MED-080-EXT-20261027-002"
         ],
         "casePractice": "Use an ACR topic scenario and linked case only; justify modality/next-step choice with uncertainty statement.",
         "assessment": "5-item appropriateness/safety quiz plus one revised impression; rubric: indication match 40%, safety caveats 25%, uncertainty 20%, clarity 15%."
@@ -20656,7 +20756,8 @@
           "https://www.theabr.org/dr-irdr-remote-qualifying-core-exam-guide"
         ],
         "lectureIds": [
-          "YT-RYWamzzbeSc"
+          "YT-RYWamzzbeSc",
+          "MED-080-EXT-20261027-002"
         ],
         "casePractice": "Annotate one public CT case for phase, artifact, and limitation; do not download its images.",
         "assessment": "One-page protocol critique; rubric: correctly identifies technical limitation 35%, dose/contrast tradeoff 30%, alternative protocol 25%, citation 10%."
@@ -20686,7 +20787,8 @@
           "https://www.theabr.org/dr-irdr-remote-qualifying-core-exam-guide"
         ],
         "lectureIds": [
-          "YT-RYWamzzbeSc"
+          "YT-RYWamzzbeSc",
+          "MED-080-EXT-20261027-002"
         ],
         "casePractice": "Use a public neuro or body MRI case to map each sequence to the question; no procedure instructions.",
         "assessment": "Sequence-matching worksheet and 3-minute oral explanation; rubric: sequence rationale 40%, signal reasoning 30%, artifacts 20%, safety 10%."
@@ -20718,7 +20820,9 @@
           "https://acsearch.acr.org/list"
         ],
         "lectureIds": [
-          "YT-RYWamzzbeSc"
+          "YT-RYWamzzbeSc",
+          "MED-080-EXT-20261027-002",
+          "MED-080-EXT-20261027-003"
         ],
         "casePractice": "Compare modalities using ACR topic materials and a public case page; case findings are not copied.",
         "assessment": "Modality matrix; rubric: appropriate strengths 40%, limits 30%, safety 20%, readable rationale 10%."
@@ -20750,7 +20854,8 @@
         ],
         "lectureIds": [
           "YT-DdPRfPm9SI4",
-          "YT-Co7Qyu21QKU"
+          "YT-Co7Qyu21QKU",
+          "MED-080-EXT-20261027-003"
         ],
         "casePractice": "Public Radiopaedia neuro case search; write localization, differential, urgency, and one explicit limitation.",
         "assessment": "Timed image-description worksheet; rubric: systematic review 25%, localization 30%, differential 25%, critical communication 20%."
@@ -20781,7 +20886,9 @@
         ],
         "lectureIds": [
           "YT-DdPRfPm9SI4",
-          "YT-Co7Qyu21QKU"
+          "YT-Co7Qyu21QKU",
+          "MED-080-EXT-20261027-002",
+          "MED-080-EXT-20261027-003"
         ],
         "casePractice": "Use case library filters for brain/spine/head-neck. For each selected case capture the case DOI/link and page-specific rights note, not images.",
         "assessment": "Two differential-building exercises; rubric: anatomic localization 30%, useful differential 30%, modality reasoning 25%, uncertainty 15%."
@@ -21175,6 +21282,74 @@
         "accessVerified": false,
         "origin": "external",
         "coverageNote": "Creative Commons Attribution (reuse allowed) is displayed on the YouTube page. Free public streaming observed; link rather than redistribute; check linked PDF licensing before reuse."
+      },
+      {
+        "title": "Orbital Imaging",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Cybersight hosts a public inline Wistia player (media idfzvg5oya). It loaded and played on the publisher page with no login, paywall, registration, or age gate.",
+        "id": "MED-080-EXT-20261027-002",
+        "durationEvidenceMethod": "The normal embedded public Wistia control bar displayed the finite duration 47:08 on the publisher page; 47:08 = 2,828 seconds. The page's Wistia VideoObject configuration also stated PT47M8S.",
+        "coverageUnits": [
+          1,
+          2,
+          3,
+          4,
+          6
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://cybersight.org/library/lecture-orbital-imaging/",
+        "url": "https://cybersight.org/library/lecture-orbital-imaging/",
+        "channel": "Cybersight Library",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "The same visible Wistia player displayed 47:08 while ready at 2026-10-27T05:12:26Z. Its normal Play Video button was clicked at 2026-10-27T05:12:33Z; the control changed to Pause and visible current time advanced to 0:01 then 0:02. No account or bypass was used.",
+        "observedDurationSeconds": 2828,
+        "publicationDate": "2017-01-08",
+        "category": "specialty",
+        "provider": "Cybersight (Project Orbis International, Inc.)",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://cybersight.org/library/lecture-orbital-imaging/",
+        "freeAccessStatus": "Free public streaming observed on the publisher page without login or registration; this observation is separate from any reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "Publisher description: \"Dr. Hayek discusses the CT Scan and MRI in orbital imaging. He presents a few cases and explains which scan is needed in each situation.\" The transcript specifically describes CT radiation, bony detail, IV-contrast use and allergy caveats; MRI soft-tissue contrast, metal/claustrophobia limitations; T1/T2 and fat suppression; and CTA/MRA. https://cybersight.org/library/lecture-orbital-imaging/",
+        "durationSeconds": 2828,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Cybersight hosts a public inline Wistia player (media idfzvg5oya). It loaded and played on the publisher page with no login, paywall, registration, or age gate."
+      },
+      {
+        "title": "Dysthyroid Optic Neuropathy, Management of 3rd Nerve Palsy & Neurovascular Imaging",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Cybersight embeds a public inline Wistia player (media picj4urdhj). The source-page player loaded and played without login, paywall, registration, or age gate.",
+        "id": "MED-080-EXT-20261027-003",
+        "durationEvidenceMethod": "The normal embedded public Wistia control bar displayed the finite duration 1:17:04 on the publisher page; 1:17:04 = 4,624 seconds.",
+        "coverageUnits": [
+          4,
+          5,
+          6
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://cybersight.org/library/lecture-dysthyroid-optic-neuropathy-management-of-3rd-nerve-palsy-neurovascular-imaging/",
+        "url": "https://cybersight.org/library/lecture-dysthyroid-optic-neuropathy-management-of-3rd-nerve-palsy-neurovascular-imaging/",
+        "channel": "Cybersight Library",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "The same visible Wistia player displayed 1:17:04 while ready at 2026-10-27T05:13:04Z. Its normal Play Video button was clicked at 2026-10-27T05:13:14Z; the control changed to Pause and visible current time advanced to 0:01 then 0:02. No account or bypass was used.",
+        "observedDurationSeconds": 4624,
+        "publicationDate": "2020-05-18",
+        "category": "specialty",
+        "provider": "Cybersight (Project Orbis International, Inc.)",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://cybersight.org/library/lecture-dysthyroid-optic-neuropathy-management-of-3rd-nerve-palsy-neurovascular-imaging/",
+        "freeAccessStatus": "Free public streaming observed on the publisher page without login or registration; this observation is separate from any reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "Cybersight objective text states that learners should be able to \"describe new vascular neuroimaging techniques\" and its transcript identifies the three topics as dysthyroid optic neuropathy, adult isolated third-nerve palsy, and neurovascular imaging; it explicitly discusses pros and cons of CT/CTA and MRI/MRA. https://cybersight.org/library/lecture-dysthyroid-optic-neuropathy-management-of-3rd-nerve-palsy-neurovascular-imaging/",
+        "durationSeconds": 4624,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Cybersight embeds a public inline Wistia player (media picj4urdhj). The source-page player loaded and played without login, paywall, registration, or age gate."
       }
     ],
     "unitMap": [
@@ -21182,7 +21357,8 @@
         "number": 1,
         "text": "Clinical imaging decisions, safety, and communication",
         "lectureIds": [
-          "YT-RYWamzzbeSc"
+          "YT-RYWamzzbeSc",
+          "MED-080-EXT-20261027-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -21197,7 +21373,8 @@
         "number": 2,
         "text": "Image formation, CT physics, and technical quality",
         "lectureIds": [
-          "YT-RYWamzzbeSc"
+          "YT-RYWamzzbeSc",
+          "MED-080-EXT-20261027-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -21212,7 +21389,8 @@
         "number": 3,
         "text": "MRI principles, sequence selection, and body MRI workflow",
         "lectureIds": [
-          "YT-RYWamzzbeSc"
+          "YT-RYWamzzbeSc",
+          "MED-080-EXT-20261027-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -21227,7 +21405,9 @@
         "number": 4,
         "text": "Ultrasound, radiography, and cross-sectional modality integration",
         "lectureIds": [
-          "YT-RYWamzzbeSc"
+          "YT-RYWamzzbeSc",
+          "MED-080-EXT-20261027-002",
+          "MED-080-EXT-20261027-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -21243,7 +21423,8 @@
         "text": "Neuroradiology: acute brain and vascular imaging",
         "lectureIds": [
           "YT-DdPRfPm9SI4",
-          "YT-Co7Qyu21QKU"
+          "YT-Co7Qyu21QKU",
+          "MED-080-EXT-20261027-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -21259,7 +21440,9 @@
         "text": "Neuroradiology: spine, head and neck, tumor, infection",
         "lectureIds": [
           "YT-DdPRfPm9SI4",
-          "YT-Co7Qyu21QKU"
+          "YT-Co7Qyu21QKU",
+          "MED-080-EXT-20261027-002",
+          "MED-080-EXT-20261027-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -21360,7 +21543,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 36,
+      "hoursToTarget": 33.93,
       "topicGaps": [
         {
           "unitNumber": 1,
@@ -22745,10 +22928,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 0,
-      "verifiedSpecialtyHours": 0,
+      "verifiedExternalHours": 2.07,
+      "verifiedSpecialtyHours": 2.07,
       "verifiedFoundationHours": 0,
-      "hoursGap": 36,
+      "hoursGap": 33.93,
       "unknownDurationItems": [
         {
           "id": "YT-RYWamzzbeSc",

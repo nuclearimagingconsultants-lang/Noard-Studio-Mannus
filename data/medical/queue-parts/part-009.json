@@ -2239,6 +2239,114 @@
         "durationSeconds": 3037,
         "sourceUrl": "https://www.youtube.com/watch?v=eDGoPgR040k",
         "accessVerified": true
+      },
+      {
+        "id": "MED-101-EXT-20261027-001",
+        "title": "Vestibular Schwannoma Management: Past, Present, and Future (UTHealth Houston ORL GR, 2025-02-13)",
+        "url": "https://vimeo.com/1056938831",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 3551,
+        "sourceUrl": "https://vimeo.com/1056938831",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-101-EXT-20261027-002",
+        "title": "The Mechanics of Hearing: How We Interpret Sound (UTHealth Houston ORL GR, 2024-09-26)",
+        "url": "https://vimeo.com/1013687598",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 3700,
+        "sourceUrl": "https://vimeo.com/1013687598",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-101-EXT-20261027-003",
+        "title": "Contemporary Management of Facial Paralysis (UTHealth Houston ORL GR, 2024-03-14)",
+        "url": "https://vimeo.com/925166781",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 2771,
+        "sourceUrl": "https://vimeo.com/925166781",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-101-EXT-20261027-004",
+        "title": "Comprehensive Facial Reanimation (UTHealth Houston ORL GR, 2025-09-11)",
+        "url": "https://vimeo.com/1120903097",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 3096,
+        "sourceUrl": "https://vimeo.com/1120903097",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-101-EXT-20261027-005",
+        "title": "Surgical Innovation in Otolaryngology: Past Lessons, Present Tools, Future Frontiers (UTHealth Houston ORL GR, 2025-06-12)",
+        "url": "https://vimeo.com/1093232706",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 2774,
+        "sourceUrl": "https://vimeo.com/1093232706",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-101-EXT-20261027-006",
+        "title": "Management of Tinnitus for the Otolaryngologist (UTHealth Houston ORL GR, 2024-10-10)",
+        "url": "https://vimeo.com/1020265376",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 3038,
+        "sourceUrl": "https://vimeo.com/1020265376",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-101-EXT-20261027-007",
+        "title": "Surgical Approaches to the Lateral Skull Base (UTHealth Houston ORL GR, 2023-05-11)",
+        "url": "https://vimeo.com/827442448",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 2687,
+        "sourceUrl": "https://vimeo.com/827442448",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-101-EXT-20261027-008",
+        "title": "Otologic Surgery Using Mobile Cone-Beam CT (UTHealth Houston ORL GR, 2023-04-13)",
+        "url": "https://vimeo.com/818538651",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 3117,
+        "sourceUrl": "https://vimeo.com/818538651",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-101-EXT-20261027-009",
+        "title": "How to Read and Interpret Cost-Effectiveness Research: A Case Based Discussion (UTHealth Houston ORL GR, 2023-02-23)",
+        "url": "https://vimeo.com/803502954",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 2968,
+        "sourceUrl": "https://vimeo.com/803502954",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-101-EXT-20261027-010",
+        "title": "Otogenic Skull Base Osteomyelitis: Diagnosis and Management (UTHealth Houston ORL GR, 2026-01-08)",
+        "url": "https://vimeo.com/1153673971",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 2740,
+        "sourceUrl": "https://vimeo.com/1153673971",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-101-EXT-20261027-011",
+        "title": "Music Perception in Cochlear Implants (UTHealth Houston ORL GR, 2026-10-08)",
+        "url": "https://vimeo.com/1237354496",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 2789,
+        "sourceUrl": "https://vimeo.com/1237354496",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-101-EXT-20261027-012",
+        "title": "A Systematic Approach to Evaluation and Management of Facial Paralysis (UTHealth Houston ORL GR, 2026-05-28)",
+        "url": "https://vimeo.com/1196812682",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "durationSeconds": 3182,
+        "sourceUrl": "https://vimeo.com/1196812682",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -2246,13 +2354,17 @@
         "number": 1,
         "text": "Neurotologic foundations: temporal bone, lateral skull base, hearing and vestibular physiology",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-101-EXT-20261027-002"
+        ]
       },
       {
         "number": 2,
         "text": "Audiology, auditory electrophysiology and temporal-bone/skull-base imaging",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-101-EXT-20261027-008"
+        ]
       },
       {
         "number": 3,
@@ -2274,7 +2386,9 @@
         "number": 5,
         "text": "Hearing loss, chronic ear disease, otosclerosis and time-sensitive presentations",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-101-EXT-20261027-006"
+        ]
       },
       {
         "number": 6,
@@ -2282,7 +2396,11 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "MED101-V002",
-          "MED101-V006"
+          "MED101-V006",
+          "MED-101-EXT-20261027-002",
+          "MED-101-EXT-20261027-006",
+          "MED-101-EXT-20261027-008",
+          "MED-101-EXT-20261027-011"
         ]
       },
       {
@@ -2290,7 +2408,11 @@
         "text": "Facial nerve anatomy, disorders, monitoring concepts and rehabilitation",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "MED101-V001"
+          "MED101-V001",
+          "MED-101-EXT-20261027-003",
+          "MED-101-EXT-20261027-004",
+          "MED-101-EXT-20261027-005",
+          "MED-101-EXT-20261027-012"
         ]
       },
       {
@@ -2301,20 +2423,27 @@
           "MED101-V002",
           "MED101-V003",
           "MED101-V005",
-          "MED101-V006"
+          "MED101-V006",
+          "MED-101-EXT-20261027-001"
         ]
       },
       {
         "number": 9,
         "text": "Lateral skull-base, petrous-apex and temporal-bone lesions",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-101-EXT-20261027-007",
+          "MED-101-EXT-20261027-008",
+          "MED-101-EXT-20261027-010"
+        ]
       },
       {
         "number": 10,
         "text": "Surgical approaches, temporal-bone trauma and perioperative risk—conceptual overview",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-101-EXT-20261027-007"
+        ]
       },
       {
         "number": 11,
@@ -2326,7 +2455,10 @@
         "number": 12,
         "text": "Research methods, ethics, quality and integrative clinical reasoning",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-101-EXT-20261027-005",
+          "MED-101-EXT-20261027-009"
+        ]
       }
     ],
     "family": "Otolaryngology–Head and Neck Surgery; Neurotology subspecialty",
@@ -2338,10 +2470,10 @@
     "boardStatus": "This is a real physician subspecialty with an ACGME Neurotology fellowship accreditation category and a separate ABOHNS Neurotology certifying exam. ABOHNS describes Neurotology as focused on diseases of the lateral skull base. Starting in 2026, after completion of an ACGME-accredited fellowship and passing the ABOHNS Written Exam, eligible candidates may apply for/take the subspecialty exam earlier; all requirements including primary ABOHNS certification must still be met for subcertification. The seven-year eligibility window after accredited fellowship completion remains. Exam format/date may change; verify ABOHNS directly. No weighted public Neurotology exam blueprint was identified; the course maps to public scope and ACGME/ANS curriculum domains, not invented exam proportions.",
     "boardEligibilityNotice": "Hopkins states applicants must complete an ACGME OHNS residency. This independent course cannot satisfy residency/fellowship prerequisites or confer accreditation, eligibility, certification, licensure, operative competence or examination standing. ABOHNS controls current eligibility and application decisions; satisfying board requirements is not guaranteed by any course.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 8.759166666666667,
-    "verifiedSpecialtyHours": 8.759166666666667,
-    "verifiedFoundationHours": 0,
-    "hoursGap": 27.240833333333335,
+    "verifiedExternalHours": 18.87388888888889,
+    "verifiedSpecialtyHours": 18.049444444444443,
+    "verifiedFoundationHours": 0.8244444444444444,
+    "hoursGap": 17.12611111111111,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -4222,6 +4354,33 @@
         "durationSeconds": 1974,
         "sourceUrl": "https://www.youtube.com/watch?v=j-n4r65gO2E",
         "accessVerified": true
+      },
+      {
+        "id": "MED-105-EXT-20261027-002",
+        "title": "Gynecologic cancer symposium - part 2: Reducing the Risk for High-Risk Women: Medical and Psychosocial Issues or Beginning the Conversation",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/0_ekwxpf0o",
+        "provider": "University of Utah Health / HSC MediaSpace",
+        "durationSeconds": 6344.737,
+        "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/0_ekwxpf0o",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-105-EXT-20261027-004",
+        "title": "Endometrial intraepithelial neoplasia: Updates on operative & non-operative management",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/1_ih8r8wul",
+        "provider": "University of Utah Health / HSC MediaSpace",
+        "durationSeconds": 3176.977,
+        "sourceUrl": "https://medicine.utah.edu/obgyn/grandrounds/video?video=1_ih8r8wul",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-105-EXT-20261027-005",
+        "title": "Fertility sparing treatments for early stage cervical cancer",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/1_vdut9pzj",
+        "provider": "University of Utah Health / HSC MediaSpace",
+        "durationSeconds": 2977.681,
+        "sourceUrl": "https://medicine.utah.edu/obgyn/grandrounds/video?video=1_vdut9pzj",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -4242,7 +4401,8 @@
           "MED105-GAP-002",
           "MED105-GAP-014",
           "MED105-GAP-015",
-          "MED105-GAP-020"
+          "MED105-GAP-020",
+          "MED-105-EXT-20261027-002"
         ]
       },
       {
@@ -4298,7 +4458,8 @@
           "MED105-GAP-020",
           "MED105-GAP-021",
           "MED105-GAP-022",
-          "MED105-GAP-030"
+          "MED105-GAP-030",
+          "MED-105-EXT-20261027-004"
         ]
       },
       {
@@ -4310,7 +4471,8 @@
           "MED105-GAP-002",
           "MED105-GAP-010",
           "MED105-GAP-018",
-          "MED105-GAP-019"
+          "MED105-GAP-019",
+          "MED-105-EXT-20261027-005"
         ]
       },
       {
@@ -4395,7 +4557,9 @@
           "MED105-GAP-022",
           "MED105-GAP-026",
           "MED105-GAP-027",
-          "MED105-GAP-028"
+          "MED105-GAP-028",
+          "MED-105-EXT-20261027-002",
+          "MED-105-EXT-20261027-005"
         ]
       },
       {
@@ -4419,10 +4583,10 @@
     "boardStatus": "Gynecologic oncology is a recognized clinical physician subspecialty/fellowship and ABOG subspecialty certification pathway following primary OB-GYN certification. ABOG describes a distinct QE followed by CE. This is not merely a generic directory tag, research-only postdoc, allied-health track, or combined programme.",
     "boardEligibilityNotice": "ABOG’s dynamic eligibility and curriculum pages could not be fully read in stateless extraction. Its search result states a minimum of 32 of 36 fellowship months at QE application; applicants must independently check current ABOG bulletins, primary certification requirements, training completion and board verification. A course does not qualify anyone for an exam or certification.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 25.0975,
-    "verifiedSpecialtyHours": 25.0975,
+    "verifiedExternalHours": 28.569554166666663,
+    "verifiedSpecialtyHours": 28.569554166666663,
     "verifiedFoundationHours": 0,
-    "hoursGap": 10.9025,
+    "hoursGap": 7.430445833333337,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -5435,6 +5599,15 @@
         "durationSeconds": null,
         "sourceUrl": "https://www.hopkinsmedicine.org/clinical-connection/gynecology-and-obstetrics/fetal-therapy-webinar-series",
         "accessVerified": false
+      },
+      {
+        "id": "MED-107-EXT-20261027-002",
+        "title": "The clinical conundrum of fetal growth",
+        "url": "https://medicine.utah.edu/obgyn/grandrounds/video?video=0_07ip9gfi",
+        "provider": "University of Utah Health, Spencer Fox Eccles School of Medicine",
+        "durationSeconds": 3152.854512,
+        "sourceUrl": "https://medicine.utah.edu/obgyn/grandrounds/2018",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -5465,7 +5638,8 @@
           "BIDMC-4kiYVtQRp5Q",
           "BIDMC-y-egsE7Y8Pg",
           "BIDMC-HFiG4yi1egk",
-          "HOPKINS-uJNNdtixjaI"
+          "HOPKINS-uJNNdtixjaI",
+          "MED-107-EXT-20261027-002"
         ]
       },
       {
@@ -5570,10 +5744,10 @@
     "boardStatus": "ABOG has a separate MFM subspecialty qualifying examination and publishes an MFM blueprint. ABOG’s detailed eligibility page/blueprint content was JavaScript-loading at review and could not be independently examined; no detailed candidate-eligibility interpretation is made. For the distinct JHU combined MFM/Medical Genetics track, JHU states successful completers are eligible to seek ABOG MFM and ABMGG Clinical Genetics examinations, subject to each board’s criteria.",
     "boardEligibilityNotice": "This independent curriculum confers no ABMS/ABOG/ABMGG status and cannot establish board eligibility. Verify current training, credential, application and examination rules directly with the relevant board. Completing this course does not qualify a learner for any examination.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 16.038888888888888,
-    "verifiedSpecialtyHours": 16.038888888888888,
+    "verifiedExternalHours": 16.91468180888889,
+    "verifiedSpecialtyHours": 16.91468180888889,
     "verifiedFoundationHours": 0,
-    "hoursGap": 19.961111111111112,
+    "hoursGap": 19.08531819111111,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

@@ -22526,7 +22526,9 @@
           "IAEA-BPET-02",
           "MED069-UVA-TOTALBODY-PET-01",
           "MED069-HM-NUCLEAR-CARDIOLOGY-01",
-          "MED069-IAC-CARDIAC-PET-01"
+          "MED069-IAC-CARDIAC-PET-01",
+          "MED-069-EXT-20261027-002",
+          "MED-069-EXT-20261027-003"
         ],
         "casePractice": "Compare IAEA-described artifacts and gallery cases; no equipment use or patient-specific protocoling.",
         "assessment": "Annotate a conceptual artifact/QC decision tree; Q2 and Q3."
@@ -22551,7 +22553,12 @@
         ],
         "lectureIds": [
           "MED069-IAEA-RADIOPHARM-DOSIMETRY-01",
-          "MED069-IAEA-RP-NEW-RNT-01"
+          "MED069-IAEA-RP-NEW-RNT-01",
+          "MED-069-EXT-20261027-001",
+          "MED-069-EXT-20261027-002",
+          "MED-069-EXT-20261027-003",
+          "MED-069-EXT-20261027-004",
+          "MED-069-EXT-20261027-005"
         ],
         "casePractice": "Work through published regulatory requirements; no actual dose preparation, administration, exposure calculation for a patient or safety authorization.",
         "assessment": "Map which requirements are knowledge-based versus supervised/attested; Q4."
@@ -22751,7 +22758,10 @@
           "MED069-PCRI-PSMA-01",
           "MED069-IAEA-RADIOPHARM-DOSIMETRY-01",
           "MED069-IAEA-BASIC-RNT-01",
-          "MED069-IAEA-RP-NEW-RNT-01"
+          "MED069-IAEA-RP-NEW-RNT-01",
+          "MED-069-EXT-20261027-003",
+          "MED-069-EXT-20261027-004",
+          "MED-069-EXT-20261027-005"
         ],
         "casePractice": "IAEA therapy education pages are references only; no patient treatment selection, activity or administration instruction.",
         "assessment": "For a fictional scenario, distinguish evidence needed for selection from what imaging alone cannot establish; Q7 and Q12."
@@ -22801,7 +22811,9 @@
           "https://www.acgme.org/globalassets/pfassets/programrequirements/2026-prs/200_nuclearmedicine_2026.pdf",
           "https://med.emory.edu/departments/radiology/education/diagnostic-radiology-residency/residency-tracks/mim.html"
         ],
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-069-EXT-20261027-005"
+        ],
         "casePractice": "Learner selects only lawful linked gallery cases; case conference remains educational and non-clinical.",
         "assessment": "Capstone: source-cited case analysis plus gap statement and individual reflection; Q14."
       }
@@ -23665,6 +23677,169 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "IAEA radiation-protection webinar addressing new radionuclide-therapy procedures. Link to the official page or direct source file only; do not rehost. It is educational and does not authorize radiation-safety work, patient release determinations, treatment selection, administration, dose calculations, or local protocol decisions."
+      },
+      {
+        "title": "Radiation Protection in Nuclear Medicine: Best Practice",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Public IAEA Mediasite player was playable. Link to the source only; do not download, mirror, or treat as operational radiation-safety authorization.",
+        "id": "MED-069-EXT-20261027-001",
+        "durationEvidenceMethod": "After a normal click on the visible public Mediasite player, the exposed HTML5 player duration was 4706.8 seconds; finite duration observed while the player was loading/playing.",
+        "coverageUnits": [
+          3
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://www.iaea.org/resources/webinar/radiation-protection-in-nuclear-medicine-best-practice",
+        "url": "https://iaea.mediasite.com/Mediasite/Play/7918afe661544fd293e122f1b74e520f1d",
+        "channel": "IAEA Radiation Protection of Patients webinars / Mediasite",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:10:33Z–2026-10-27T05:11:15Z. Before playback: HTML5 currentTime 0 seconds. Normal control: clicked the visible public player surface. Duration then exposed as 4706.8 seconds at 2026-10-27T05:10:53Z; after buffering, currentTime advanced to 1.920179 seconds, paused false, readyState 2. This establishes playback advancement but not viewing of the whole program.",
+        "observedDurationSeconds": 4706.8,
+        "publicationDate": null,
+        "category": "foundation",
+        "provider": "International Atomic Energy Agency (IAEA)",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://iaea.mediasite.com/Mediasite/Play/7918afe661544fd293e122f1b74e520f1d",
+        "freeAccessStatus": "Free public viewing observed on the IAEA-linked Mediasite player without sign-in or registration. Viewing access is not reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "IAEA states that the webinar covers medical, occupational, and public exposure in nuclear medicine, optimization of radionuclide use, and tools/measures to limit dose; its objectives include information on exposure groups, optimizing radiopharmaceutical management, and radiation-protection tools. https://www.iaea.org/resources/webinar/radiation-protection-in-nuclear-medicine-best-practice",
+        "durationSeconds": 4706.8,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public IAEA Mediasite player was playable. Link to the source only; do not download, mirror, or treat as operational radiation-safety authorization."
+      },
+      {
+        "title": "Radiation Protection of Patients in Nuclear Medicine: Diagnostic Reference Levels and Accuracy of Activity Meters",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Public IAEA Mediasite player was playable. Source is educational context only; it does not authorize activity-meter work, local protocoling, or patient-specific dose decisions.",
+        "id": "MED-069-EXT-20261027-002",
+        "durationEvidenceMethod": "After a normal click on the visible public Mediasite play button, the exposed HTML5 player reported a finite duration of 4481.4400000000005 seconds.",
+        "coverageUnits": [
+          2,
+          3
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://www.iaea.org/resources/webinar/radiation-protection-of-patients-in-nuclear-medicine-diagnostic-reference-levels-and-accuracy-of-activity-meters",
+        "url": "https://iaea.mediasite.com/Mediasite/Play/03b8103f620f465eadd18b6a85f11bc71d",
+        "channel": "IAEA Radiation Protection of Patients webinars / Mediasite",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:11:54Z–2026-10-27T05:12:06Z. Before/initial state after normal visible Play Video button: currentTime 0 seconds, duration 4481.4400000000005 seconds. The public player subsequently advanced to currentTime 6.480973 seconds; readyState 4, paused false, buffered range 0–7.988162 seconds. This establishes playback advancement but not viewing of the whole program.",
+        "observedDurationSeconds": 4481.4400000000005,
+        "publicationDate": null,
+        "category": "foundation",
+        "provider": "International Atomic Energy Agency (IAEA)",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://iaea.mediasite.com/Mediasite/Play/03b8103f620f465eadd18b6a85f11bc71d",
+        "freeAccessStatus": "Free public viewing observed on the IAEA-linked Mediasite player without sign-in or registration. Viewing access is not reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "IAEA says the recording reviews nuclear-medicine diagnostic-reference levels, radiopharmaceutical activity, multi-modality studies, and activity-meter calibration/traceability. Its objectives include DRL quantities in nuclear medicine and activity-meter operation/calibration traceability. https://www.iaea.org/resources/webinar/radiation-protection-of-patients-in-nuclear-medicine-diagnostic-reference-levels-and-accuracy-of-activity-meters",
+        "durationSeconds": 4481.4400000000005,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public IAEA Mediasite player was playable. Source is educational context only; it does not authorize activity-meter work, local protocoling, or patient-specific dose decisions."
+      },
+      {
+        "title": "Artificial Intelligence in Radiation Protection of Patients: Diagnostic and therapeutic nuclear medicine",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Public IAEA Mediasite player was playable. Educational discussion of AI, image enhancement, dosimetry and QA only; it does not validate an AI tool or authorize local clinical, dose, or therapy decisions.",
+        "id": "MED-069-EXT-20261027-003",
+        "durationEvidenceMethod": "After a normal click on the visible public Mediasite play button, the exposed HTML5 player reported a finite duration of 3570 seconds.",
+        "coverageUnits": [
+          2,
+          3,
+          10
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://www.iaea.org/resources/webinar/artificial-intelligence-in-radiation-protection-of-patients-diagnostic-and-therapeutic-nuclear-medicine",
+        "url": "https://iaea.mediasite.com/Mediasite/Play/c768ecacf4ab4cea85f910a016eaf0361d",
+        "channel": "IAEA Radiation Protection of Patients webinars / Mediasite",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:13:47Z–2026-10-27T05:14:06Z. Normal control: clicked the visible Play Video button. Exposed public HTML5 player advanced to currentTime 13.543809 seconds with exact finite duration 3570 seconds; paused false and readyState 4. This establishes playback advancement but not viewing of the whole program.",
+        "observedDurationSeconds": 3570,
+        "publicationDate": "2025-11-27",
+        "category": "specialty",
+        "provider": "International Atomic Energy Agency (IAEA)",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://iaea.mediasite.com/Mediasite/Play/c768ecacf4ab4cea85f910a016eaf0361d",
+        "freeAccessStatus": "Free public viewing observed on the IAEA-linked Mediasite player without sign-in or registration. Viewing access is not reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "IAEA describes this session as examining AI for justification, protection/safety in diagnostic and therapeutic nuclear medicine. Objectives explicitly include AI for procedure and image enhancement, patient dosimetry and dose optimization, and automated quality control. https://www.iaea.org/resources/webinar/artificial-intelligence-in-radiation-protection-of-patients-diagnostic-and-therapeutic-nuclear-medicine",
+        "durationSeconds": 3570,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Public IAEA Mediasite player was playable. Educational discussion of AI, image enhancement, dosimetry and QA only; it does not validate an AI tool or authorize local clinical, dose, or therapy decisions."
+      },
+      {
+        "title": "Release of Patients After Radionuclide Therapy: Radiation Protection Considerations",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Public IAEA Mediasite player was playable. It is education on regulatory/safety considerations and does not authorize release determinations, individual dose assessment, treatment administration, or local-policy decisions.",
+        "id": "MED-069-EXT-20261027-004",
+        "durationEvidenceMethod": "After a normal click on the visible public Mediasite play button, the exposed HTML5 player reported a finite duration of 3403.7200000000003 seconds.",
+        "coverageUnits": [
+          3,
+          10
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://www.iaea.org/resources/webinar/release-of-patients-after-radionuclide-therapy-radiation-protection-considerations",
+        "url": "https://iaea.mediasite.com/Mediasite/Play/041eef23b2e24bc29c275a4903379f1f1d",
+        "channel": "IAEA Radiation Protection of Patients webinars / Mediasite",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:14:24Z–2026-10-27T05:14:42Z. Normal control: clicked the visible Play Video button. Exposed public HTML5 player advanced to currentTime 6.11742 seconds with exact finite duration 3403.7200000000003 seconds; paused false and readyState 4. This establishes playback advancement but not viewing of the whole program.",
+        "observedDurationSeconds": 3403.7200000000003,
+        "publicationDate": "2025-09-23",
+        "category": "specialty",
+        "provider": "International Atomic Energy Agency (IAEA)",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://iaea.mediasite.com/Mediasite/Play/041eef23b2e24bc29c275a4903379f1f1d",
+        "freeAccessStatus": "Free public viewing observed on the IAEA-linked Mediasite player without sign-in or registration. Viewing access is not reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "IAEA says the webinar addresses regulatory, public and occupational safety around patient release after radionuclide therapy. Objectives include release criteria, risks/protective measures, and dose-assessment methods/regulatory criteria. https://www.iaea.org/resources/webinar/release-of-patients-after-radionuclide-therapy-radiation-protection-considerations",
+        "durationSeconds": 3403.7200000000003,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Public IAEA Mediasite player was playable. It is education on regulatory/safety considerations and does not authorize release determinations, individual dose assessment, treatment administration, or local-policy decisions."
+      },
+      {
+        "title": "Radionuclide therapy events: What we can learn and what to do?",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Direct IAEA public media played in the browser's native player. Link to IAEA only; no rehosting. Educational safety/QM discussion does not authorize therapy work, incident handling, patient-specific treatment, or quality-management implementation.",
+        "id": "MED-069-EXT-20261027-005",
+        "durationEvidenceMethod": "Normal native browser player control bar visibly showed 0:08 / 59:26 after playback started; the exposed HTML5 player reported exact finite duration 3566.769211 seconds.",
+        "coverageUnits": [
+          3,
+          10,
+          12
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://www.iaea.org/resources/webinar/radionuclide-therapy-events-what-we-can-learn-and-what-to-do",
+        "url": "https://ns-files.iaea.org/video/rpop-webinar-july2020.mp4",
+        "channel": "IAEA Radiation Protection of Patients webinars / direct public media",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:15:09Z–2026-10-27T05:15:17Z. Before normal interaction, visible native control bar displayed 0:00. Normal control: clicked the visible native browser play icon. Player visibly advanced to 0:08 / 59:26; console read currentTime 8.193577 seconds and finite duration 3566.769211 seconds. The player was paused by the observation point; advancement had already occurred. This establishes playback advancement but not viewing of the whole program.",
+        "observedDurationSeconds": 3566.769211,
+        "publicationDate": "2020-07-15",
+        "category": "specialty",
+        "provider": "International Atomic Energy Agency (IAEA)",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://ns-files.iaea.org/video/rpop-webinar-july2020.mp4",
+        "freeAccessStatus": "Free public individual MP4 viewing observed from the official IAEA page, without sign-in. Direct access is not affirmative permission to download, redistribute, or rehost.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "IAEA states that the program covers prevention of unintended/accidental exposure through a robust quality-management program and use of the SAFRON incident-learning system to improve radionuclide-therapy safety and quality. https://www.iaea.org/resources/webinar/radionuclide-therapy-events-what-we-can-learn-and-what-to-do",
+        "durationSeconds": 3566.769211,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Direct IAEA public media played in the browser's native player. Link to IAEA only; no rehosting. Educational safety/QM discussion does not authorize therapy work, incident handling, patient-specific treatment, or quality-management implementation."
       }
     ],
     "unitMap": [
@@ -23697,7 +23872,9 @@
           "IAEA-BPET-02",
           "MED069-UVA-TOTALBODY-PET-01",
           "MED069-HM-NUCLEAR-CARDIOLOGY-01",
-          "MED069-IAC-CARDIAC-PET-01"
+          "MED069-IAC-CARDIAC-PET-01",
+          "MED-069-EXT-20261027-002",
+          "MED-069-EXT-20261027-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -23710,7 +23887,12 @@
         "text": "Radiation protection, regulations and safe practice boundaries",
         "lectureIds": [
           "MED069-IAEA-RADIOPHARM-DOSIMETRY-01",
-          "MED069-IAEA-RP-NEW-RNT-01"
+          "MED069-IAEA-RP-NEW-RNT-01",
+          "MED-069-EXT-20261027-001",
+          "MED-069-EXT-20261027-002",
+          "MED-069-EXT-20261027-003",
+          "MED-069-EXT-20261027-004",
+          "MED-069-EXT-20261027-005"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -23825,7 +24007,10 @@
           "MED069-PCRI-PSMA-01",
           "MED069-IAEA-RADIOPHARM-DOSIMETRY-01",
           "MED069-IAEA-BASIC-RNT-01",
-          "MED069-IAEA-RP-NEW-RNT-01"
+          "MED069-IAEA-RP-NEW-RNT-01",
+          "MED-069-EXT-20261027-003",
+          "MED-069-EXT-20261027-004",
+          "MED-069-EXT-20261027-005"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -23849,7 +24034,9 @@
       {
         "number": 12,
         "text": "Integrated synthesis, quality improvement and board-pathway literacy",
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-069-EXT-20261027-005"
+        ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
           "Cross-domain case conference, quality improvement, reporting, multidisciplinary communication, board domain maps, credentialing/eligibility and limits of public curricula"
@@ -23859,7 +24046,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 13.613,
+      "hoursToTarget": 8.132,
       "topicGaps": [
         "Public verified specialty recordings now include only a pediatric PET/CT pitfalls webinar and a conceptual radiotracer-development webinar (1.4081 specialty hours total); most of the clinical curriculum remains without measured recorded teaching time.",
         "No complete public Emory MIM lecture archive, rotation-by-rotation schedule, case volumes or exact didactic totals were located. Do not infer access to the named Nuclear Medicine and Molecular Imaging Lecture Series from its appearance on the programme page.",
@@ -24350,10 +24537,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 22.387311111111114,
-      "verifiedSpecialtyHours": 16.233977777777778,
-      "verifiedFoundationHours": 6.153333333333333,
-      "hoursGap": 13.612688888888886,
+      "verifiedExternalHours": 27.86751366972223,
+      "verifiedSpecialtyHours": 19.1618914475,
+      "verifiedFoundationHours": 8.705622222222221,
+      "hoursGap": 8.132486330277771,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [

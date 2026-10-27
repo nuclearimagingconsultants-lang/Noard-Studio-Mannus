@@ -41,7 +41,8 @@
         ],
         "lectureIds": [
           "mit705s20-lec19",
-          "mit705s20-lec20"
+          "mit705s20-lec20",
+          "MED-085-EXT-20261027-003"
         ],
         "casePractice": [
           "Fictional acute decompensation vignette; build prioritized differential and next-test table."
@@ -345,7 +346,9 @@
           "https://www.acmg.net/ACMG/Medical-Genetics-Practice-Resources/ACT_Sheets_and_Algorithms.aspx",
           "https://www.msdmanuals.com/professional/pediatrics/inherited-disorders-of-metabolism/approach-to-the-patient-with-a-suspected-inherited-disorder-of-metabolism"
         ],
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-085-EXT-20261027-003"
+        ],
         "casePractice": [
           "Fictional de-identified lab tables only; no patient record or clinical result copied."
         ],
@@ -858,6 +861,39 @@
         "accessVerified": false,
         "origin": "external",
         "coverageNote": "Candidate only; no free access or runtime verified."
+      },
+      {
+        "title": "Screening for Inborn Errors of Metabolism Using Untargeted Metabolomic Profiling",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "External publisher link/player only; no rehosting or download. This archived course is not available for CE credit, but the public player was available.",
+        "id": "MED-085-EXT-20261027-003",
+        "durationEvidenceMethod": "Fresh ordinary public HTML5-player inspection after normal visible controls: the same loaded player exposed a finite duration property of 2967.71475 seconds; the publisher's individual lecture page displays Video Length: 49 min 28 sec.",
+        "coverageUnits": [
+          1,
+          11
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://arup.utah.edu/media/sutton-inbornErrorsMetabolism-2017/videoLecture",
+        "url": "https://arup.utah.edu/education/sutton-inbornerrorsmetabolism-2017",
+        "channel": "ARUP Institute for Learning Video Lectures",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed UTC 2026-10-27T05:10:09Z. Same player began at currentTime 0 with finite duration 2967.71475 seconds (observed 2026-10-27T05:09:27Z). Normal click inside the visible player started it; its displayed content advanced from the title slide to the disclosure slide, and the same player reported currentTime 19.857833, paused false. No login, alternate host, proxy, extraction, or download was used. Limit: only a short advancement was observed, not full viewing.",
+        "observedDurationSeconds": 2967.71475,
+        "publicationDate": null,
+        "category": "specialty",
+        "provider": "ARUP Laboratories, University of Utah Department of Pathology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://arup.utah.edu/media/sutton-inbornErrorsMetabolism-2017/videoLecture",
+        "freeAccessStatus": "Anonymous public viewing verified; no sign-in, registration, paywall, or access gate was observed. The publisher says the educational content is provided FREE OF CHARGE as a service to laboratory medical professionals.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "ARUP says untargeted metabolic profiling measures small biochemical compounds in biological fluids and that the presentation describes analysis of metabolic patterns in clinical specimens to assist diagnosis of rare disorders. Objectives specify disorders identifiable with untargeted metabolomic profiling, use in interpretation of variants of uncertain significance, and discovery of disease biomarkers. https://arup.utah.edu/education/sutton-inbornerrorsmetabolism-2017",
+        "durationSeconds": 2967.71475,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "External publisher link/player only; no rehosting or download. This archived course is not available for CE credit, but the public player was available."
       }
     ],
     "unitMap": [
@@ -866,7 +902,8 @@
         "text": "Biochemical genetics clinical reasoning and acute metabolic presentations",
         "lectureIds": [
           "mit705s20-lec19",
-          "mit705s20-lec20"
+          "mit705s20-lec20",
+          "MED-085-EXT-20261027-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -990,7 +1027,9 @@
       {
         "number": 11,
         "text": "Biochemical genetics laboratory methods, quality and result interpretation",
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-085-EXT-20261027-003"
+        ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
           "MS/MS and acylcarnitines; amino-acid chromatography; urine organic acids/GC-MS; enzyme assays; NGS/variant interpretation; QA/QC, artifacts, method limits, regulation and lab-clinician collaboration."
@@ -1011,7 +1050,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 17.49,
+      "hoursToTarget": 16.665,
       "topicGaps": [
         "36-hour floor remains unmet: verified free public full-length recordings with exact observed duration total 18.510444 h (18.510444 h foundation, 0.000000 h specialty, 0.000000 h supplementary); residual 17.489556 h. No screened candidate was added to the counted media ledger because ordinary public access/duration evidence was incomplete. The SIMD 2026 MBG archive is unusually well-matched and supplies direct watch links and transcripts for some videos, but its player/runtime could not be verified here without bypassing YouTube restrictions; exact durations must not be inferred from last transcript cue.",
         "Domain-level instruction remains incomplete: the original 12-unit syllabus maps the blueprint, but lacks a full specialist course depth across all conditions. Top priorities for recording/qualified review are cofactor and organic-acid differential interpretation; lysosomal/peroxisomal assay pitfalls; mitochondrial tissue/pre-analytic interpretation; noncanonical transport, creatine, neurotransmitter and metals; and adult presentations/longitudinal systems. Blueprint XV ‘Other disease category’ is intentionally unspecified.",
@@ -1867,10 +1906,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 18.51044388888889,
-      "verifiedSpecialtyHours": 0,
+      "verifiedExternalHours": 19.334809097222223,
+      "verifiedSpecialtyHours": 0.8243652083333334,
       "verifiedFoundationHours": 18.51044388888889,
-      "hoursGap": 17.48955611111111,
+      "hoursGap": 16.665190902777777,
       "unknownDurationItems": [
         {
           "id": "acmg-citrulline-vimeo-1011109629",

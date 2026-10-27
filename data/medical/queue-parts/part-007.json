@@ -1563,6 +1563,33 @@
         "durationSeconds": 3499,
         "sourceUrl": "https://www.youtube.com/watch?v=s7T53I7ijsA",
         "accessVerified": true
+      },
+      {
+        "id": "MED-075-EXT-20261027-001",
+        "title": "Basic Fetal Cardiac Imaging: A Sonographers Approach",
+        "url": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/43/",
+        "provider": "Children's Mercy Kansas City Library Services",
+        "durationSeconds": 2874.8125,
+        "sourceUrl": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/43/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-075-EXT-20261027-004",
+        "title": "Sonographer Tips and Tools for Fetal Arrythmia Evaluation",
+        "url": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/48/",
+        "provider": "Children's Mercy Kansas City Library Services",
+        "durationSeconds": 2616,
+        "sourceUrl": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/48/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-075-EXT-20261027-005",
+        "title": "Total Anomalous Pulmonary Venous REturn: Challenges in fetal diagnosis",
+        "url": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/38/",
+        "provider": "Children's Mercy Kansas City Library Services",
+        "durationSeconds": 2426,
+        "sourceUrl": "https://scholarlyexchange.childrensmercy.org/fetal_cardiology_series/38/",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -1641,7 +1668,10 @@
           "yt-uEbYdPPaFIQ",
           "yt-8lWX7q-gYgw",
           "yt-nywyNpLot88",
-          "yt-xcCWNw5OPg0"
+          "yt-xcCWNw5OPg0",
+          "MED-075-EXT-20261027-001",
+          "MED-075-EXT-20261027-004",
+          "MED-075-EXT-20261027-005"
         ]
       },
       {
@@ -1736,10 +1766,10 @@
     "boardStatus": "No separate U.S. pediatric cardiac-imaging specialty board examination identified in reviewed ABP/ABMS sources. ABP Pediatric Cardiology subspecialty certification is the relevant physician board pathway; this fellowship itself is not that certifying pathway.",
     "boardEligibilityNotice": "The ABP currently requires three years of full-time broad-based pediatric cardiology fellowship in an ACGME- or RCPSC-accredited program, verification of training/scholarly activity, and passing the subspecialty exam. Neither this course nor an advanced imaging fellowship alone confers eligibility. Check ABP current rules.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 21.55527777777778,
-    "verifiedSpecialtyHours": 19.441388888888888,
+    "verifiedExternalHours": 23.754392361111112,
+    "verifiedSpecialtyHours": 21.64050347222222,
     "verifiedFoundationHours": 2.113888888888889,
-    "hoursGap": 14.444722222222222,
+    "hoursGap": 12.245607638888888,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3767,6 +3797,24 @@
         "durationSeconds": null,
         "sourceUrl": "https://www.youtube.com/watch?v=OtQ-OSRMBQM",
         "accessVerified": false
+      },
+      {
+        "id": "MED-080-EXT-20261027-002",
+        "title": "Orbital Imaging",
+        "url": "https://cybersight.org/library/lecture-orbital-imaging/",
+        "provider": "Cybersight (Project Orbis International, Inc.)",
+        "durationSeconds": 2828,
+        "sourceUrl": "https://cybersight.org/library/lecture-orbital-imaging/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-080-EXT-20261027-003",
+        "title": "Dysthyroid Optic Neuropathy, Management of 3rd Nerve Palsy & Neurovascular Imaging",
+        "url": "https://cybersight.org/library/lecture-dysthyroid-optic-neuropathy-management-of-3rd-nerve-palsy-neurovascular-imaging/",
+        "provider": "Cybersight (Project Orbis International, Inc.)",
+        "durationSeconds": 4624,
+        "sourceUrl": "https://cybersight.org/library/lecture-dysthyroid-optic-neuropathy-management-of-3rd-nerve-palsy-neurovascular-imaging/",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -3775,7 +3823,8 @@
         "text": "Clinical imaging decisions, safety, and communication",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "YT-RYWamzzbeSc"
+          "YT-RYWamzzbeSc",
+          "MED-080-EXT-20261027-002"
         ]
       },
       {
@@ -3783,7 +3832,8 @@
         "text": "Image formation, CT physics, and technical quality",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "YT-RYWamzzbeSc"
+          "YT-RYWamzzbeSc",
+          "MED-080-EXT-20261027-002"
         ]
       },
       {
@@ -3791,7 +3841,8 @@
         "text": "MRI principles, sequence selection, and body MRI workflow",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "YT-RYWamzzbeSc"
+          "YT-RYWamzzbeSc",
+          "MED-080-EXT-20261027-002"
         ]
       },
       {
@@ -3799,7 +3850,9 @@
         "text": "Ultrasound, radiography, and cross-sectional modality integration",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "YT-RYWamzzbeSc"
+          "YT-RYWamzzbeSc",
+          "MED-080-EXT-20261027-002",
+          "MED-080-EXT-20261027-003"
         ]
       },
       {
@@ -3808,7 +3861,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "YT-DdPRfPm9SI4",
-          "YT-Co7Qyu21QKU"
+          "YT-Co7Qyu21QKU",
+          "MED-080-EXT-20261027-003"
         ]
       },
       {
@@ -3817,7 +3871,9 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "YT-DdPRfPm9SI4",
-          "YT-Co7Qyu21QKU"
+          "YT-Co7Qyu21QKU",
+          "MED-080-EXT-20261027-002",
+          "MED-080-EXT-20261027-003"
         ]
       },
       {
@@ -3876,10 +3932,10 @@
     "boardStatus": "No single examination or certifying board corresponds to the BIDMC category-level label “Radiology Fellowship.” The ABR Diagnostic Radiology Core exam is a residency-level breadth reference, not a fellowship credential. Current ABR subspecialty certification pathways/exams include neuroradiology, nuclear radiology, pediatric radiology and pain medicine. Of the exact eight BIDMC fellowship labels retained here, only Neuroradiology maps directly to the described ABR subspecialty exam. Nuclear and pediatric fellowships are not listed in the BIDMC directory; body MRI, cancer imaging, cross-sectional imaging, breast imaging, cardiothoracic imaging and MSK imaging do not each have a separate current ABR subspecialty exam under these names. ACGME programme accreditation is not board certification.",
     "boardEligibilityNotice": "This course grants no ABR eligibility. ABR primary Diagnostic Radiology certification requires the board’s current prior clinical training, accredited residency or approved alternate pathway, examinations, license and other criteria. ABR neuroradiology subspecialty eligibility requires a qualifying primary certificate, accredited neuroradiology fellowship and additional current requirements. Confirm the official board rules for the actual candidate and exam date; no guarantee of passing.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 0,
-    "verifiedSpecialtyHours": 0,
+    "verifiedExternalHours": 2.07,
+    "verifiedSpecialtyHours": 2.07,
     "verifiedFoundationHours": 0,
-    "hoursGap": 36,
+    "hoursGap": 33.93,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

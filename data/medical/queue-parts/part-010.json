@@ -964,6 +964,15 @@
         "durationSeconds": 2895,
         "sourceUrl": "https://www.youtube.com/watch?v=3ji8pKdqIAQ",
         "accessVerified": true
+      },
+      {
+        "id": "MED-110-EXT-20261027-010",
+        "title": "UCRM Guest Speaker - Embryo Cryopreservation",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/0_qxuaqmjr",
+        "provider": "University of Utah Health",
+        "durationSeconds": 3931,
+        "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/0_qxuaqmjr",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -1056,7 +1065,8 @@
         "lectureIds": [
           "ASRM-GR-SgfhhDUxzD0",
           "ASRM-GR-zNCykjzUFlY",
-          "ASRM-GR-kDqzdjrE5Io"
+          "ASRM-GR-kDqzdjrE5Io",
+          "MED-110-EXT-20261027-010"
         ]
       },
       {
@@ -1108,10 +1118,10 @@
     "boardStatus": "A distinct ABOG REI subspecialty certification and qualifying/certifying examination pathway exists. ABOG pages and its REI standards page are JavaScript-rendered; detailed current eligibility/blueprint wording could not be retrieved statelessly. Verify current official candidate bulletin directly before relying on requirements. Combined REI–Medical Genetics is a distinct offering with separate genetics certification considerations, not included as the core board track.",
     "boardEligibilityNotice": "This independent course does not establish ABOG eligibility. The Hopkins clinical fellowship requires completed ACGME-accredited OB/GYN residency and Maryland medical-licensure eligibility; actual ABOG examination eligibility is controlled solely by ABOG and may change.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 0.8041666666666667,
-    "verifiedSpecialtyHours": 0.8041666666666667,
+    "verifiedExternalHours": 1.896111111111111,
+    "verifiedSpecialtyHours": 1.896111111111111,
     "verifiedFoundationHours": 0,
-    "hoursGap": 35.19583333333333,
+    "hoursGap": 34.10388888888889,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

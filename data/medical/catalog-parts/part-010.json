@@ -3164,7 +3164,8 @@
         "lectureIds": [
           "ASRM-GR-SgfhhDUxzD0",
           "ASRM-GR-zNCykjzUFlY",
-          "ASRM-GR-kDqzdjrE5Io"
+          "ASRM-GR-kDqzdjrE5Io",
+          "MED-110-EXT-20261027-010"
         ],
         "casePractice": "Create process map and explain a cycle-cancellation/transfer decision in fictional case.",
         "assessment": "Create process map and explain a cycle-cancellation/transfer decision in fictional case."
@@ -4186,6 +4187,41 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Use the direct University of Chicago Obstetrics and Gynecology YouTube watch page only. The visible transcript supports oncofertility/fertility-preservation relevance. This is external source media, not a copied asset; do not mirror, download for redistribution, or represent it as University of Chicago credit or training."
+      },
+      {
+        "title": "UCRM Guest Speaker - Embryo Cryopreservation",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Public University of Utah Kaltura player; visible normal controls used. No download, copying, extraction, rehosting, or reuse permission asserted.",
+        "id": "MED-110-EXT-20261027-010",
+        "durationEvidenceMethod": "Exact finite duration displayed by the same public Kaltura player control bar: 01:05:31, after a normal manual pause followed by normal Play.",
+        "coverageUnits": [
+          8
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/0_qxuaqmjr",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/0_qxuaqmjr",
+        "channel": "Grand Rounds / OBGYN",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "UTC 2026-10-27T05:25:35Z normal Pause left 00:09 / 01:05:31 visible; UTC 2026-10-27T05:25:43Z normal Play advanced to 00:10 / 01:05:31. Public Guest player; no login or gate.",
+        "observedDurationSeconds": 3931,
+        "publicationDate": null,
+        "category": "specialty",
+        "provider": "University of Utah Health",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://hsc.mediaspace.utah.edu/media/t/0_qxuaqmjr",
+        "freeAccessStatus": "Observed publicly playable as a Guest without login; free viewing observed, with no reuse right inferred.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Publisher title is ‘Embryo Cryopreservation’; tags include cryopreserved, vitrification and blastocysts; observed content slide listed basic cryobiology for human embryos, cryobiological background of vitrification, ultra-rapid vitrification for human blastocyst cryopreservation, and reproductive outcomes/congenital-defect follow-up after blastocyst vitrification.",
+          "url": "https://hsc.mediaspace.utah.edu/media/t/0_qxuaqmjr"
+        },
+        "durationSeconds": 3931,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public University of Utah Kaltura player; visible normal controls used. No download, copying, extraction, rehosting, or reuse permission asserted."
       }
     ],
     "unitMap": [
@@ -4305,7 +4341,8 @@
         "lectureIds": [
           "ASRM-GR-SgfhhDUxzD0",
           "ASRM-GR-zNCykjzUFlY",
-          "ASRM-GR-kDqzdjrE5Io"
+          "ASRM-GR-kDqzdjrE5Io",
+          "MED-110-EXT-20261027-010"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -4372,7 +4409,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 35.196,
+      "hoursToTarget": 34.104,
       "topicGaps": [
         "All 38 previously listed ASRM Grand Rounds remain runtime-unverified in the accessible evidence checked for this expansion; the additional Johns Hopkins recording is public but its complete player runtime is not exposed. None is counted until a complete duration and free playback are revalidated.",
         "No eligible observed-duration recordings were verified in this expansion; observed external ready hours remain zero and the full 36-hour target gap remains. There is no basis to infer 36 hours from 36 planned clips or from lists of lectures.",
@@ -5325,10 +5362,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 0.8041666666666667,
-      "verifiedSpecialtyHours": 0.8041666666666667,
+      "verifiedExternalHours": 1.896111111111111,
+      "verifiedSpecialtyHours": 1.896111111111111,
       "verifiedFoundationHours": 0,
-      "hoursGap": 35.19583333333333,
+      "hoursGap": 34.10388888888889,
       "unknownDurationItems": [
         {
           "id": "ASRM-GR-BNdNjZ4DOy8",

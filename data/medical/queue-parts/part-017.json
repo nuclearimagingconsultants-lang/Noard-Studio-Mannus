@@ -2589,6 +2589,15 @@
         "durationSeconds": 3687,
         "sourceUrl": "https://learn.unclcn.org/pathology-of-disease/content/understanding-psychosocial-needs-patients-experiencing-cancer-spoc",
         "accessVerified": true
+      },
+      {
+        "id": "MED-196-EXT-20261027-001",
+        "title": "Psycho-oncology: The Evolving Practice of Psychiatry in Cancer",
+        "url": "https://echo360.org/media/11408330-ad40-4ff0-91dc-8bc68be7e55b/public",
+        "provider": "Oregon Health & Science University Department of Psychiatry",
+        "durationSeconds": 3108,
+        "sourceUrl": "https://www.ohsu.edu/school-of-medicine/psychiatry/archived-grand-rounds",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -2602,7 +2611,8 @@
           "MED196-ADD-UW-FAMILY-CAREGIVING-2023",
           "MED196-ADD-UW-PALLIATIVE-COLLAB-2023",
           "MED196-ADD-STANFORD-SPIRITUAL-ASSESSMENT-2024",
-          "MED196-ADD-UNC-PSYCHOSOCIAL-NEEDS-2017"
+          "MED196-ADD-UNC-PSYCHOSOCIAL-NEEDS-2017",
+          "MED-196-EXT-20261027-001"
         ]
       },
       {
@@ -2733,10 +2743,10 @@
     "boardStatus": "A separate ABPN Consultation-Liaison Psychiatry subspecialty certification examination exists; the official board calls the subspecialty Consultation-Liaison Psychiatry (name changed 2018). No separate ABPN, ABMS or specialty board examination specifically titled Psychosocial Oncology or Psycho-Oncology was identified. The Dana-Farber oncology track is a clinical track within C-L psychiatry, not a separate board credential. Current exam schedule and requirements must be checked with ABPN.",
     "boardEligibilityNotice": "ABPN requires primary general psychiatry certification by December 31 before the subspecialty exam year and one year of ACGME-accredited consultation-liaison psychiatry fellowship training for standard candidates, subject to all current ABPN rules. ABPN alone determines admissibility on an approved application; its policy says it does not issue independent statements of “board eligibility.” This self-study course creates no eligibility and does not replace residency, accredited fellowship, licensure, supervised practice or certification.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 11.696666666666667,
-    "verifiedSpecialtyHours": 2.9755555555555557,
+    "verifiedExternalHours": 12.56,
+    "verifiedSpecialtyHours": 3.838888888888889,
     "verifiedFoundationHours": 8.721111111111112,
-    "hoursGap": 24.303333333333335,
+    "hoursGap": 23.439999999999998,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3849,6 +3859,15 @@
         "durationSeconds": 1354,
         "sourceUrl": "https://www.youtube.com/watch?v=Oy1lys7KMtw",
         "accessVerified": true
+      },
+      {
+        "id": "MED-199-EXT-20261027-003",
+        "title": "The Great Outdoors: Campfire and Cooking Injuries",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/1_3hp8ltom",
+        "provider": "University of Utah Health",
+        "durationSeconds": 3673,
+        "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/1_3hp8ltom",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -3872,7 +3891,8 @@
           "UTAH-BURN-GR-2024",
           "MED199-ADD-TRAUMA-NS-INITIAL-BURN-2022",
           "MED199-ADD-UAB-ADVANCES-BURN-2017",
-          "MED199-ADD-SURGERY101-ACUTE-BURNS-2019"
+          "MED199-ADD-SURGERY101-ACUTE-BURNS-2019",
+          "MED-199-EXT-20261027-003"
         ]
       },
       {
@@ -3884,7 +3904,8 @@
           "MED199-ADD-TRAUMA-NS-INITIAL-BURN-2022",
           "MED199-ADD-UAB-ADVANCES-BURN-2017",
           "MED199-ADD-SURGERY101-ACUTE-BURNS-2019",
-          "MED199-ADD-WASHU-BURNS-PART1-2025"
+          "MED199-ADD-WASHU-BURNS-PART1-2025",
+          "MED-199-EXT-20261027-003"
         ]
       },
       {
@@ -3938,7 +3959,8 @@
         "lectureIds": [
           "UTAH-BURN-GR-2024",
           "UTAH-BURN-SCC-2024",
-          "MED199-ADD-SURGERY101-ACUTE-BURNS-2019"
+          "MED199-ADD-SURGERY101-ACUTE-BURNS-2019",
+          "MED-199-EXT-20261027-003"
         ]
       },
       {
@@ -3989,10 +4011,10 @@
     "boardStatus": "As checked 2026-10-07, no separate burn-surgery specialty board examination/certificate was identified in the Johns Hopkins programme description or ABS certification pages reviewed. ABS does have a distinct Surgical Critical Care certifying examination, but its route requires qualifying accredited SCC training and primary surgery certification. Do not imply the Hopkins Burn Surgery Fellowship by itself is ACGME-accredited SCC training or confers SCC exam eligibility. ABA FABA is a professional fellowship recognition and is not represented as a board exam. No burn-specific board blueprint/weights were found.",
     "boardEligibilityNotice": "The current Johns Hopkins listing calls the fellowship “Non-Standard,” describes 1 or 2 years, and states that a position is available to physicians board eligible/certified in plastic or general surgery, or those who have completed three years of general surgery training; international medical graduates may be considered with appropriate qualifications and ECFMG certification. This is the institution’s published statement, not a guarantee of eligibility, selection, accreditation, licensure, or board access. ABS SCC eligibility is separate and depends on ABS requirements in effect at application, including qualifying accredited SCC training and primary certification. Confirm directly with the programme and board.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 6.902777777777778,
-    "verifiedSpecialtyHours": 6.902777777777778,
+    "verifiedExternalHours": 7.923055555555556,
+    "verifiedSpecialtyHours": 7.923055555555556,
     "verifiedFoundationHours": 0,
-    "hoursGap": 29.09722222222222,
+    "hoursGap": 28.076944444444443,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -5461,6 +5483,33 @@
         "durationSeconds": 3095,
         "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds",
         "accessVerified": true
+      },
+      {
+        "id": "MED-203-EXT-20261027-002",
+        "title": "Spondylodiscitis",
+        "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_fvsjtssd",
+        "provider": "University of Utah Department of Neurosurgery",
+        "durationSeconds": 2845.489342,
+        "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2022",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-203-EXT-20261027-004",
+        "title": "Adult Spinal Deformity",
+        "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_os5ju1pl",
+        "provider": "University of Utah Department of Neurosurgery",
+        "durationSeconds": 3265.2,
+        "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2021",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-203-EXT-20261027-006",
+        "title": "Spine Surgery in the Elderly",
+        "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_hr8p98ox",
+        "provider": "University of Utah Department of Neurosurgery",
+        "durationSeconds": 3320.170998,
+        "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2021",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -5515,7 +5564,8 @@
           "VID-203-04",
           "VID-203-ADD-03",
           "VID-203-ADD-04",
-          "VID-203-ADD-12"
+          "VID-203-ADD-12",
+          "MED-203-EXT-20261027-004"
         ]
       },
       {
@@ -5541,7 +5591,9 @@
         "text": "Bone health, frailty and perioperative optimization",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "VID-203-ADD-03"
+          "VID-203-ADD-03",
+          "MED-203-EXT-20261027-004",
+          "MED-203-EXT-20261027-006"
         ]
       },
       {
@@ -5566,7 +5618,9 @@
         "number": 10,
         "text": "Spinal infection and postoperative infection",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-203-EXT-20261027-002"
+        ]
       },
       {
         "number": 11,
@@ -5600,10 +5654,10 @@
     "boardStatus": "Johns Hopkins lists the institutional Complex Spine Reconstruction Fellowship as Non-Standard, one year. The official departmental page describes training for orthopaedic and neurosurgical graduates and joint collaboration; the Hopkins directory and department use the exact titles recorded below for the same institutional spine-surgery offering, not separate board-recognized combined programs. No separate ABMS-recognized spine-surgery specialty board examination or distinct spine-board blueprint was identified; ABOS/ABNS certification pathways concern the core specialty and have their own entry, training, and examination requirements. Do not infer board eligibility from completion of this independent course or from a Hopkins fellowship.",
     "boardEligibilityNotice": "This self-study course creates no board eligibility, specialty/fellowship credential, institutional affiliation, residency credit, licensure, procedure competence, supervised case volume, or promise of examination success. ABOS and ABNS eligibility rules are set and verified only by those boards. The Hopkins listing says Non-Standard; ACGME publishes separate Orthopaedic Surgery of the Spine requirements, but this is not proof that this particular Hopkins fellowship is ACGME-accredited. No distinct spine-board exam was found.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 21.719166666666666,
-    "verifiedSpecialtyHours": 20.727777777777778,
+    "verifiedExternalHours": 24.338850094444446,
+    "verifiedSpecialtyHours": 23.347461205555554,
     "verifiedFoundationHours": 0.9913888888888889,
-    "hoursGap": 14.280833333333334,
+    "hoursGap": 11.661149905555554,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

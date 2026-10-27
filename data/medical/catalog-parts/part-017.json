@@ -9304,7 +9304,8 @@
           "MED196-ADD-UW-FAMILY-CAREGIVING-2023",
           "MED196-ADD-UW-PALLIATIVE-COLLAB-2023",
           "MED196-ADD-STANFORD-SPIRITUAL-ASSESSMENT-2024",
-          "MED196-ADD-UNC-PSYCHOSOCIAL-NEEDS-2017"
+          "MED196-ADD-UNC-PSYCHOSOCIAL-NEEDS-2017",
+          "MED-196-EXT-20261027-001"
         ],
         "casePractice": "Use fictional composite vignettes only for exercises. Follow linked published/de-identified clinical cases in place; do not copy/rehost patient details or images.",
         "assessment": "Written scope map and handoff: identify need, role, and appropriate referral; rubric 0-2 each for accuracy, boundaries, continuity."
@@ -10202,6 +10203,37 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Individually addressable UNC Lineberger Cancer Network YouTube recording. Direct page returned HTTP 200 without credentials and displayed the public runtime, description, chapters, and transcript. Preserve provider hosting; no mirroring, embedding guarantee, redistribution right, or fresh playback claim is asserted."
+      },
+      {
+        "title": "Psycho-oncology: The Evolving Practice of Psychiatry in Cancer",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Link-only public playback. The page exposes two synchronized presentation sources and a transcript; no redistribution or download permission was observed.",
+        "id": "MED-196-EXT-20261027-001",
+        "durationEvidenceMethod": "The anonymous public Echo360 control bar displayed 0:00/51:48 before playback; 51:48 = 3,108 seconds.",
+        "coverageUnits": [
+          1
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://www.ohsu.edu/school-of-medicine/psychiatry/archived-grand-rounds",
+        "url": "https://echo360.org/media/11408330-ad40-4ff0-91dc-8bc68be7e55b/public",
+        "channel": "OHSU Psychiatry Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed UTC 2026-10-27T05:35:12Z. Normal visible Play control was used. Control bar advanced from 0:01/51:48 immediately after play to 0:10/51:48 on reinspection; no gate appeared.",
+        "observedDurationSeconds": 3108,
+        "publicationDate": "2023-06-27",
+        "category": "specialty",
+        "provider": "Oregon Health & Science University Department of Psychiatry",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://echo360.org/media/11408330-ad40-4ff0-91dc-8bc68be7e55b/public",
+        "freeAccessStatus": "Observed anonymously playable in the ordinary public Echo360 player without login, payment, registration, or age gate on 2026-10-27.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "OHSU's archive lists the individual talk as \"Psycho-oncology: The Evolving Practice of Psychiatry in Cancer\" by Kamalika Roy, MD, MCR, FAPA (https://www.ohsu.edu/school-of-medicine/psychiatry/archived-grand-rounds). In the public player transcript the introduction states, \"Today's topic is psycho oncology, the evolving practice of psychiatry and cancer,\" and identifies Dr Roy as board certified in consultation-liaison psychiatry (https://echo360.org/media/11408330-ad40-4ff0-91dc-8bc68be7e55b/public). This supports only Unit 1's scope/clinical-role mapping; no broader mapping is inferred.",
+        "durationSeconds": 3108,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Link-only public playback. The page exposes two synchronized presentation sources and a transcript; no redistribution or download permission was observed."
       }
     ],
     "unitMap": [
@@ -10214,7 +10246,8 @@
           "MED196-ADD-UW-FAMILY-CAREGIVING-2023",
           "MED196-ADD-UW-PALLIATIVE-COLLAB-2023",
           "MED196-ADD-STANFORD-SPIRITUAL-ASSESSMENT-2024",
-          "MED196-ADD-UNC-PSYCHOSOCIAL-NEEDS-2017"
+          "MED196-ADD-UNC-PSYCHOSOCIAL-NEEDS-2017",
+          "MED-196-EXT-20261027-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -10424,7 +10457,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 24.303,
+      "hoursToTarget": 23.44,
       "topicGaps": [
         "The required 36 verified specialty video hours are not met. Only 6,655 seconds (1.8486 h) of conservative transcript-time floors across two relevant free public recordings are countable; residual target gap is 34.1514 h. Exact full player runtimes were not retrievable, so these totals are minimum transcript-timestamp evidence, not full runtime claims.",
         "Existing non-counted candidate media remain unverified for duration and/or anonymous free playback: VID-UNCCN-HOLT, VID-ASCO-ANX-2023, VID-ADDRESS-MH, VID-PSYCHPOD. UNC Mediasite pages showed public metadata/runtime but their fetched player displayed Presentation_NotAvailable; those items were not counted.",
@@ -11346,10 +11379,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 11.696666666666667,
-      "verifiedSpecialtyHours": 2.9755555555555557,
+      "verifiedExternalHours": 12.56,
+      "verifiedSpecialtyHours": 3.838888888888889,
       "verifiedFoundationHours": 8.721111111111112,
-      "hoursGap": 24.303333333333335,
+      "hoursGap": 23.439999999999998,
       "unknownDurationItems": [
         {
           "id": "VID-UNCCN-HOLT",
@@ -16678,7 +16711,8 @@
           "UTAH-BURN-GR-2024",
           "MED199-ADD-TRAUMA-NS-INITIAL-BURN-2022",
           "MED199-ADD-UAB-ADVANCES-BURN-2017",
-          "MED199-ADD-SURGERY101-ACUTE-BURNS-2019"
+          "MED199-ADD-SURGERY101-ACUTE-BURNS-2019",
+          "MED-199-EXT-20261027-003"
         ],
         "casePractice": "Compare linked cases only as source-bound learning material; distinguish their model/clinical facts from extrapolation.",
         "assessment": "Depth/mechanism concept map with citations and uncertainty."
@@ -16706,7 +16740,8 @@
           "MED199-ADD-TRAUMA-NS-INITIAL-BURN-2022",
           "MED199-ADD-UAB-ADVANCES-BURN-2017",
           "MED199-ADD-SURGERY101-ACUTE-BURNS-2019",
-          "MED199-ADD-WASHU-BURNS-PART1-2025"
+          "MED199-ADD-WASHU-BURNS-PART1-2025",
+          "MED-199-EXT-20261027-003"
         ],
         "casePractice": "Use fictional mechanism and findings to draft a referral reasoning note; do not make real transfer decisions.",
         "assessment": "Case conference memo scored for hazard recognition, referral source and caveats."
@@ -16842,7 +16877,8 @@
         "lectureIds": [
           "UTAH-BURN-GR-2024",
           "UTAH-BURN-SCC-2024",
-          "MED199-ADD-SURGERY101-ACUTE-BURNS-2019"
+          "MED199-ADD-SURGERY101-ACUTE-BURNS-2019",
+          "MED-199-EXT-20261027-003"
         ],
         "casePractice": "Discuss the published deidentified high-voltage case by link only; no individual care recommendation.",
         "assessment": "Mechanism differential with patient-safety escalation and rights check."
@@ -17227,6 +17263,39 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
         "coverageNote": "A complete audio-podcast episode published as a full video on the official WashU channel, not a promotional excerpt. Use the original player; no rehosting or redistribution rights are assumed. It is not Hopkins curriculum or accredited burn training."
+      },
+      {
+        "title": "The Great Outdoors: Campfire and Cooking Injuries",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Original University of Utah public Kaltura page only; no download, extraction, or rehosting.",
+        "id": "MED-199-EXT-20261027-003",
+        "durationEvidenceMethod": "Native public Kaltura visible control bar exposed finite 01:01:13, equal to 3,673 seconds.",
+        "coverageUnits": [
+          2,
+          3,
+          8
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/1_3hp8ltom",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/1_3hp8ltom",
+        "channel": "Trauma EMS Grand Rounds Clinical",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "At 2026-10-27T05:41:11Z, ordinary visible Pause set the player to 00:13 / 01:01:13. Normal visible Play was then pressed; at 2026-10-27T05:41:18Z the player was at 00:14 and extracted control-bar text at 00:15 / 01:01:13, confirming advancement.",
+        "observedDurationSeconds": 3673,
+        "publicationDate": "2022-08-10",
+        "category": "specialty",
+        "provider": "University of Utah Health",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://hsc.mediaspace.utah.edu/media/t/1_3hp8ltom",
+        "freeAccessStatus": "Observed anonymous public Kaltura playback with no payment, registration, or sign-in gate. Free viewing is not evidence of reuse rights.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "The official page states: \"This EMS Trauma Grand Rounds discusses initial scene and hospital management of burn patients with injuries related to campfires and cooking.\" It identifies Annette Newman, MS, RN, CCRN; Service Line Trauma Program, Burn; Date Recorded August 10, 2022. Source: https://hsc.mediaspace.utah.edu/media/t/1_3hp8ltom",
+        "durationSeconds": 3673,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Original University of Utah public Kaltura page only; no download, extraction, or rehosting."
       }
     ],
     "unitMap": [
@@ -17253,7 +17322,8 @@
           "UTAH-BURN-GR-2024",
           "MED199-ADD-TRAUMA-NS-INITIAL-BURN-2022",
           "MED199-ADD-UAB-ADVANCES-BURN-2017",
-          "MED199-ADD-SURGERY101-ACUTE-BURNS-2019"
+          "MED199-ADD-SURGERY101-ACUTE-BURNS-2019",
+          "MED-199-EXT-20261027-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -17269,7 +17339,8 @@
           "MED199-ADD-TRAUMA-NS-INITIAL-BURN-2022",
           "MED199-ADD-UAB-ADVANCES-BURN-2017",
           "MED199-ADD-SURGERY101-ACUTE-BURNS-2019",
-          "MED199-ADD-WASHU-BURNS-PART1-2025"
+          "MED199-ADD-WASHU-BURNS-PART1-2025",
+          "MED-199-EXT-20261027-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -17343,7 +17414,8 @@
         "lectureIds": [
           "UTAH-BURN-GR-2024",
           "UTAH-BURN-SCC-2024",
-          "MED199-ADD-SURGERY101-ACUTE-BURNS-2019"
+          "MED199-ADD-SURGERY101-ACUTE-BURNS-2019",
+          "MED-199-EXT-20261027-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -17407,7 +17479,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 29.097,
+      "hoursToTarget": 28.077,
       "topicGaps": [
         "Two unique Utah recordings are now counted: 53:18 from 2024-11-06 and 01:06:38 from the single 2024-03-27 session; total 01:59:56 (7,196 seconds; 1.9989 hours). The March session contains two burn/critical-care fellow talks and is counted once, not as two videos.",
         "The verified video floor remains short by 34.0011 hours. Target minutes and authored scripts are production plans, not rendered or verified media and do not close this gap.",
@@ -17892,10 +17964,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 6.902777777777778,
-      "verifiedSpecialtyHours": 6.902777777777778,
+      "verifiedExternalHours": 7.923055555555556,
+      "verifiedSpecialtyHours": 7.923055555555556,
       "verifiedFoundationHours": 0,
-      "hoursGap": 29.09722222222222,
+      "hoursGap": 28.076944444444443,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
@@ -25792,7 +25864,8 @@
           "VID-203-04",
           "VID-203-ADD-03",
           "VID-203-ADD-04",
-          "VID-203-ADD-12"
+          "VID-203-ADD-12",
+          "MED-203-EXT-20261027-004"
         ],
         "casePractice": "Analyze AO Spine/peer-reviewed case material through publisher links; no images are downloaded or rehosted.",
         "assessment": "Write an alignment phenotype plus three competing explanations; rubric: measurements 25%, compensation 25%, goals/uncertainty 50%."
@@ -25848,7 +25921,9 @@
           "https://www.youtube.com/watch?v=Hem0-rH9egU"
         ],
         "lectureIds": [
-          "VID-203-ADD-03"
+          "VID-203-ADD-03",
+          "MED-203-EXT-20261027-004",
+          "MED-203-EXT-20261027-006"
         ],
         "casePractice": "Create a fictional risk/optimization checklist; avoid prescriptions or fixed treatment thresholds unsupported by source.",
         "assessment": "Checklist and shared-decision note; rubric: comprehensive risks 35%, actionable team coordination 35%, patient preferences 30%."
@@ -25916,7 +25991,9 @@
           "https://www.cns.org/guidelines/browse-guidelines-detail/1-introduction-methodology-2",
           "https://www.idsociety.org/practice-guideline/vertebral-osteomyelitis/"
         ],
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-203-EXT-20261027-002"
+        ],
         "casePractice": "Fictional differential exercise; link to public cases only, with explicit not-medical-advice caveat.",
         "assessment": "Differential and escalation memo; rubric: emergency recognition 30%, tests/differential 35%, uncertainty 35%."
       },
@@ -26550,6 +26627,97 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
         "coverageNote": "Link only; no permission to download/rehost. General degenerative spine imaging does not supply a complete stenosis treatment curriculum."
+      },
+      {
+        "title": "Spondylodiscitis",
+        "accessEmbeddingNotes": "Public university Kaltura player; link/embed only. No media downloaded, copied, or rehosted.",
+        "id": "MED-203-EXT-20261027-002",
+        "durationEvidenceMethod": "Fresh public Kaltura player playback after normal visible player-overlay activation; finite duration 2845.489342 seconds (visible bar 47:25).",
+        "coverageUnits": [
+          10
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2022",
+        "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_fvsjtssd",
+        "channel": "Neurosurgery Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Visible public overlay activated, then normal player play API; currentTime advanced 0 to 2.404793 seconds; finite duration 2845.489342 seconds; observed 2026-10-27T05:39:43Z. Caption sample observed at 180.916386 seconds. No login or bypass used.",
+        "observedDurationSeconds": 2845.489342,
+        "publicationDate": "2021-06-02",
+        "category": "specialty",
+        "provider": "University of Utah Department of Neurosurgery",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_fvsjtssd",
+        "freeAccessStatus": "Observed publicly playable without sign-in or registration; free viewing does not establish reuse rights.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "Publisher page names Marcus Mazur, MD and identifies the recording as Neurosurgery Grand Rounds. In the public caption track at about 180.9 seconds, observed content included ‘Klebsiella and pterobacter species,’ supporting a narrow spinal-infection mapping. https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_fvsjtssd",
+        "durationSeconds": 2845.489342,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Public university Kaltura player; link/embed only. No media downloaded, copied, or rehosted."
+      },
+      {
+        "title": "Adult Spinal Deformity",
+        "accessEmbeddingNotes": "Public university Kaltura player; link/embed only. No media downloaded, copied, or rehosted.",
+        "id": "MED-203-EXT-20261027-004",
+        "durationEvidenceMethod": "Fresh public Kaltura player playback after normal visible player-overlay activation; finite duration 3265.2 seconds (visible bar 54:25).",
+        "coverageUnits": [
+          5,
+          7
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2021",
+        "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_os5ju1pl",
+        "channel": "Neurosurgery Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Visible public overlay activated, then normal player play API; currentTime advanced 0 to 2.407151 seconds; finite duration 3265.2 seconds; observed 2026-10-27T05:41:17Z. Caption sample observed at 180.610584 seconds. No login or bypass used.",
+        "observedDurationSeconds": 3265.2,
+        "publicationDate": "2021-06-30",
+        "category": "specialty",
+        "provider": "University of Utah Department of Neurosurgery",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_os5ju1pl",
+        "freeAccessStatus": "Observed publicly playable without sign-in or registration; free viewing does not establish reuse rights.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "University of Utah identifies Marcus D. Mazur, MD and Neurosurgery Grand Rounds. Public caption content at about 180.6 seconds referred to ‘about 28 million older patients with a spinal,’ supporting a narrow adult-deformity and patient-context mapping. https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_os5ju1pl",
+        "durationSeconds": 3265.2,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Public university Kaltura player; link/embed only. No media downloaded, copied, or rehosted."
+      },
+      {
+        "title": "Spine Surgery in the Elderly",
+        "accessEmbeddingNotes": "Public university Kaltura player; link/embed only. No media downloaded, copied, or rehosted.",
+        "id": "MED-203-EXT-20261027-006",
+        "durationEvidenceMethod": "Fresh public Kaltura player playback after normal visible player-overlay activation; finite duration 3320.170998 seconds (visible bar 55:20).",
+        "coverageUnits": [
+          7
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/2021",
+        "url": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_hr8p98ox",
+        "channel": "Neurosurgery Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Visible public overlay activated, then normal player play API; currentTime advanced 0 to 1.707706 seconds; finite duration 3320.170998 seconds; observed 2026-10-27T05:42:23Z. No login or bypass used.",
+        "observedDurationSeconds": 3320.170998,
+        "publicationDate": "2021-04-14",
+        "category": "specialty",
+        "provider": "University of Utah Department of Neurosurgery",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_hr8p98ox",
+        "freeAccessStatus": "Observed publicly playable without sign-in or registration; free viewing does not establish reuse rights.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "University of Utah identifies Davide Croci, MD and Neurosurgery Grand Rounds. This narrowly supports age/health-context and optimization discussion in unit 7, not a universal operative recommendation. https://medicine.utah.edu/neurosurgery/grand-rounds/video?video=1_hr8p98ox",
+        "durationSeconds": 3320.170998,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Public university Kaltura player; link/embed only. No media downloaded, copied, or rehosted."
       }
     ],
     "unitMap": [
@@ -26619,7 +26787,8 @@
           "VID-203-04",
           "VID-203-ADD-03",
           "VID-203-ADD-04",
-          "VID-203-ADD-12"
+          "VID-203-ADD-12",
+          "MED-203-EXT-20261027-004"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -26653,7 +26822,9 @@
         "number": 7,
         "text": "Bone health, frailty and perioperative optimization",
         "lectureIds": [
-          "VID-203-ADD-03"
+          "VID-203-ADD-03",
+          "MED-203-EXT-20261027-004",
+          "MED-203-EXT-20261027-006"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -26690,7 +26861,9 @@
       {
         "number": 10,
         "text": "Spinal infection and postoperative infection",
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-203-EXT-20261027-002"
+        ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
           "Discitis/osteomyelitis, epidural infection, host risk factors, imaging/labs/cultures, source control concepts and implant-associated infection."
@@ -26730,7 +26903,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 14.281,
+      "hoursToTarget": 11.661,
       "topicGaps": [
         "Basic clinical examination, neurologic localization and red-flag recognition: existing DCM/deformity talks are only partial; no dedicated verified examination lecture.",
         "Spine imaging decision-making, artifact and deformity measurement: current talks cover selected concepts, not a complete imaging curriculum.",
@@ -27211,10 +27384,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 21.719166666666666,
-      "verifiedSpecialtyHours": 20.727777777777778,
+      "verifiedExternalHours": 24.338850094444446,
+      "verifiedSpecialtyHours": 23.347461205555554,
       "verifiedFoundationHours": 0.9913888888888889,
-      "hoursGap": 14.280833333333334,
+      "hoursGap": 11.661149905555554,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [

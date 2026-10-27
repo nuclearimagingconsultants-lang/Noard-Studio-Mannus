@@ -7727,6 +7727,42 @@
         "durationSeconds": 1937,
         "sourceUrl": "https://neurology.uw.edu/2025/05/15/recent-breakthroughs-from-dr-kalumes-lab-advancement-in-gene-therapy-for-dravet-syndrome/",
         "accessVerified": true
+      },
+      {
+        "id": "MED-X012-EXT-20261027-001",
+        "title": "CRISPR and Diagnostics: Challenges and Strategies for Understanding Results from Sequencing including Variants of Unknown Significance",
+        "url": "https://arup.utah.edu/education/bonkowsky-crispr-2019",
+        "provider": "ARUP Laboratories Institute for Learning / University of Utah Department of Pathology",
+        "durationSeconds": 2793.2905,
+        "sourceUrl": "https://arup.utah.edu/education/bonkowsky-crispr-2019",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X012-EXT-20261027-002",
+        "title": "Clinical Applications of Whole Genome Sequencing",
+        "url": "https://arup.utah.edu/education/best-wholegenome-2025",
+        "provider": "ARUP Laboratories Institute for Learning / University of Utah Department of Pathology",
+        "durationSeconds": 2316.380733,
+        "sourceUrl": "https://arup.utah.edu/education/best-wholegenome-2025",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X012-EXT-20261027-003",
+        "title": "More Is Better, Right? Panel vs. Targeted Testing",
+        "url": "https://arup.utah.edu/education/pratt-more-2022",
+        "provider": "ARUP Laboratories Institute for Learning / University of Utah Department of Pathology",
+        "durationSeconds": 3161.825333,
+        "sourceUrl": "https://arup.utah.edu/education/pratt-more-2022",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X012-EXT-20261027-004",
+        "title": "Genetic Data Sharing and Reanalysis of Genomic Test Results: Challenges and Benefits to Implementation",
+        "url": "https://arup.utah.edu/education/geneData-2020",
+        "provider": "ARUP Laboratories Institute for Learning / University of Utah Department of Pathology",
+        "durationSeconds": 3117.166667,
+        "sourceUrl": "https://arup.utah.edu/education/geneData-2020",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -7766,7 +7802,11 @@
           "MED-X012-ADD03",
           "MED-X012-ADD04",
           "MED-X012-ADD05",
-          "MED-X012-ADD08"
+          "MED-X012-ADD08",
+          "MED-X012-EXT-20261027-001",
+          "MED-X012-EXT-20261027-002",
+          "MED-X012-EXT-20261027-003",
+          "MED-X012-EXT-20261027-004"
         ]
       },
       {
@@ -7780,7 +7820,9 @@
           "MED-X012-ADD04",
           "MED-X012-ADD05",
           "MED-X012-ADD08",
-          "MED-X012-ADD10"
+          "MED-X012-ADD10",
+          "MED-X012-EXT-20261027-001",
+          "MED-X012-EXT-20261027-004"
         ]
       },
       {
@@ -7794,7 +7836,10 @@
           "MED-X012-ADD04",
           "MED-X012-ADD05",
           "MED-X012-ADD08",
-          "MED-X012-ADD09"
+          "MED-X012-ADD09",
+          "MED-X012-EXT-20261027-001",
+          "MED-X012-EXT-20261027-002",
+          "MED-X012-EXT-20261027-004"
         ]
       },
       {
@@ -7895,10 +7940,10 @@
     "boardStatus": "No separate ABPN Neurogenetics/Gene Therapy examination is listed on the ABPN examination page checked 2026-10-07. ABPN lists Neurology as primary specialty and other specified subspecialty examinations; neurogenetics is a content area in its Neurology blueprint, not a separate named board here. ABMGG Clinical Genetics and Genomics has separate accredited training and board pathways. MGB’s page states applicants must be board-eligible in Neurology after residency; this does not establish the fellowship’s ACGME accreditation or confer ABMGG eligibility.",
     "boardEligibilityNotice": "This self-study course does not confer board eligibility. Verify current eligibility with the relevant board and accredited programme. ABPN Neurology eligibility requires qualifying medical education, accredited training, clinical skills evaluations and unrestricted licensure as stated by ABPN. MGB programme eligibility is independently stated as board-eligible in Neurology with residency completed before fellowship. Do not infer dual board eligibility.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 15.591666666666667,
+    "verifiedExternalHours": 18.75518423138889,
     "verifiedSpecialtyHours": 10.924444444444445,
-    "verifiedFoundationHours": 4.667222222222223,
-    "hoursGap": 20.40833333333333,
+    "verifiedFoundationHours": 7.830739786944445,
+    "hoursGap": 17.24481576861111,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

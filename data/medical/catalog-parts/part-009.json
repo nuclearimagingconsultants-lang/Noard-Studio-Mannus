@@ -12602,7 +12602,9 @@
           "https://www.americanneurotologysociety.com/assets/Neurotology%20Fellows%20Curriculum%20v2.pdf",
           "https://www.nidcd.nih.gov/health/hearing-ear-infections-deafness"
         ],
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-101-EXT-20261027-002"
+        ],
         "casePractice": "Label a public normal temporal-bone CT case from Radiopaedia by linking to its source page only; no screenshot or copied image. State which structures cannot be confidently identified from the view.",
         "assessment": "Submit an annotated text-only anatomy map and a 5-item self-quiz; rubric: spatial relationships 40%, physiology 30%, uncertainty 20%, source citation 10%."
       },
@@ -12628,7 +12630,9 @@
           "https://www.americanneurotologysociety.com/assets/Neurotology%20Fellows%20Curriculum%20v2.pdf",
           "https://radiopaedia.org/cases/normal-temporal-bone-ct-with-annotated-images?lang=us"
         ],
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-101-EXT-20261027-008"
+        ],
         "casePractice": "Use the Radiopaedia axial labeling case link to create a text-based localization exercise; do not copy or redistribute images and check current access/terms.",
         "assessment": "One-page test-selection table and written case explanation; rubric: test-purpose match 40%, interpretation limits 30%, differential 20%, citation 10%."
       },
@@ -12711,7 +12715,9 @@
           "https://www.americanneurotologysociety.com/assets/Neurotology%20Fellows%20Curriculum%20v2.pdf",
           "https://www.acgme.org/globalassets/pfassets/programrequirements/2026-prs/286_neurotology_2026.pdf"
         ],
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-101-EXT-20261027-006"
+        ],
         "casePractice": "Create fictional audiogram descriptions (text, not synthetic diagnostic images) that separate conductive, sensorineural and mixed patterns; include one urgent referral discussion for education only.",
         "assessment": "Short differential-and-evaluation memo; rubric: localization 30%, time-sensitive reasoning 25%, tests 25%, limits/citations 20%."
       },
@@ -12741,7 +12747,11 @@
         ],
         "lectureIds": [
           "MED101-V002",
-          "MED101-V006"
+          "MED101-V006",
+          "MED-101-EXT-20261027-002",
+          "MED-101-EXT-20261027-006",
+          "MED-101-EXT-20261027-008",
+          "MED-101-EXT-20261027-011"
         ],
         "casePractice": "Use public NERVE archive lecture titles on cochlear implantation/rehabilitation for a fictional multidisciplinary referral question; no patient content copied.",
         "assessment": "Compare three fictional referral profiles; rubric: needs assessment 30%, modality reasoning 30%, rehabilitation/team 25%, uncertainty 15%."
@@ -12770,7 +12780,11 @@
           "https://www.americanneurotologysociety.com/educational-resources"
         ],
         "lectureIds": [
-          "MED101-V001"
+          "MED101-V001",
+          "MED-101-EXT-20261027-003",
+          "MED-101-EXT-20261027-004",
+          "MED-101-EXT-20261027-005",
+          "MED-101-EXT-20261027-012"
         ],
         "casePractice": "View the public 2025 ANS facial-nerve-management lecture; use only its teaching frame, no clinical video/image is copied. Discuss what monitoring can and cannot establish.",
         "assessment": "Safety-systems critique of a fictional signal discrepancy; rubric: monitoring limits 35%, team/supervision 30%, differential 20%, non-operative wording 15%."
@@ -12806,7 +12820,8 @@
           "MED101-V002",
           "MED101-V003",
           "MED101-V005",
-          "MED101-V006"
+          "MED101-V006",
+          "MED-101-EXT-20261027-001"
         ],
         "casePractice": "Use CNS public guideline tables and one Radiopaedia temporal bone/IAC case link, if available; learner documents key unknowns rather than making a treatment recommendation. No patient images copied.",
         "assessment": "Evidence-based comparison of management domains with source dates; rubric: guideline fidelity 35%, options/risks 25%, hearing/facial function 20%, uncertainty 20%."
@@ -12834,7 +12849,11 @@
           "https://medicine.musc.edu/departments/otolaryngology/neurotology-education-series",
           "https://www.cns.org/guidelines/treatment-adults-vestibular-schwannoma/1-guidelines-treatment-of-adults-with-vestibular-s"
         ],
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-101-EXT-20261027-007",
+          "MED-101-EXT-20261027-008",
+          "MED-101-EXT-20261027-010"
+        ],
         "casePractice": "Follow a NERVE archive link for a public topic on paraganglioma, petrosal approach, trauma or CSF leak; use a constructed differential worksheet, not copied patient media.",
         "assessment": "Anatomy-based differential brief; rubric: lesion compartment 30%, differential 25%, tests 20%, team/uncertainty 25%."
       },
@@ -12860,7 +12879,9 @@
           "https://www.americanneurotologysociety.com/assets/Neurotology%20Fellows%20Curriculum%20v2.pdf",
           "https://www.headmirror.com/temporal-bone-video-lecture-series"
         ],
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-101-EXT-20261027-007"
+        ],
         "casePractice": "Use Headmirror as a freely linked visual teaching resource if accessible; learners write a text-only approach-comparison worksheet. Viewing is not operative authorization; do not download or rehost media.",
         "assessment": "Approach concept map; rubric: anatomy/trade-offs 35%, risks 25%, supervision boundaries 25%, sources 15%."
       },
@@ -12916,7 +12937,10 @@
           "https://www.youtube.com/watch?v=tyDglbuDeC8",
           "https://www.cns.org/guidelines/treatment-adults-vestibular-schwannoma/1-guidelines-treatment-of-adults-with-vestibular-s"
         ],
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-101-EXT-20261027-005",
+          "MED-101-EXT-20261027-009"
+        ],
         "casePractice": "Final fictional cross-domain case and one-page evidence appraisal using only lawfully accessible linked sources; no real record/image.",
         "assessment": "Portfolio oral/written conference; rubric: localization/differential 25%, evidence 25%, uncertainty/safety 20%, team/ethics 15%, clarity/citations 15%."
       }
@@ -13136,13 +13160,429 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Individual direct video page, not a playlist. The page identifies a House Institute Foundation ONE digital grand-rounds lecture on vestibular migraine; public chapter labels include current diagnostic criteria and outcome measures. Link only: do not download, embed, rehost, redistribute transcripts, reuse images, or infer a patient-specific recommendation. The page also showed a generic player fallback, so fresh playback is not claimed."
+      },
+      {
+        "title": "Vestibular Schwannoma Management: Past, Present, and Future (UTHealth Houston ORL GR, 2025-02-13)",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed.",
+        "id": "MED-101-EXT-20261027-001",
+        "durationEvidenceMethod": "Fresh direct public Vimeo player UI exposed a finite 59:11 duration before playback. After a normal visible Play-button click, the player changed to Pause and a subsequent direct UI observation showed elapsed time at 00:12.",
+        "coverageUnits": [
+          8
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/1056938831",
+        "url": "https://vimeo.com/1056938831",
+        "channel": "UTHealth ORL",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:15:47Z: public control bar initially showed 00:00 and finite 59:11; normal visible Play control was used; playback state changed to Pause and elapsed display advanced to 00:12. Limit: only a brief ordinary-playback check was performed, not full viewing.",
+        "observedDurationSeconds": 3551,
+        "publicationDate": "2025-02-13",
+        "category": "specialty",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/1056938831",
+        "freeAccessStatus": "Direct Vimeo page was publicly playable without sign-in, registration, payment, or a paywall shown during this observation; free viewing is separate from reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "UTHealth’s description says the lecture covers the history, epidemiology, and management of vestibular schwannomas, treatment evolution, MRI in early detection, patient-reported outcomes, and dizziness/balance research.",
+          "url": "https://vimeo.com/1056938831"
+        },
+        "durationSeconds": 3551,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed."
+      },
+      {
+        "title": "The Mechanics of Hearing: How We Interpret Sound (UTHealth Houston ORL GR, 2024-09-26)",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed.",
+        "id": "MED-101-EXT-20261027-002",
+        "durationEvidenceMethod": "Fresh direct public Vimeo player UI exposed a finite 1:01:40 duration before playback. After a normal visible Play-button click, the player displayed Pause and elapsed time advanced to 00:01.",
+        "coverageUnits": [
+          1,
+          6
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/1013687598",
+        "url": "https://vimeo.com/1013687598",
+        "channel": "UTHealth ORL",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:17:20Z: public control bar initially showed 00:00 and finite 1:01:40; normal visible Play control was used; playback state changed to Pause and elapsed display advanced to 00:01. Limit: only a brief ordinary-playback check was performed, not full viewing.",
+        "observedDurationSeconds": 3700,
+        "publicationDate": "2024-09-26",
+        "category": "specialty",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/1013687598",
+        "freeAccessStatus": "Direct Vimeo page was publicly playable without sign-in, registration, payment, or a paywall shown during this observation; free viewing is separate from reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Publisher description: the lecture explores outer-, middle-, and inner-ear sound processing; resonance and impedance; and hearing-aid and cochlear-implant technologies and challenges.",
+          "url": "https://vimeo.com/1013687598"
+        },
+        "durationSeconds": 3700,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed."
+      },
+      {
+        "title": "Contemporary Management of Facial Paralysis (UTHealth Houston ORL GR, 2024-03-14)",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed.",
+        "id": "MED-101-EXT-20261027-003",
+        "durationEvidenceMethod": "Fresh direct public Vimeo player UI exposed a finite 46:11 duration before playback. After a normal visible Play-button click, the player displayed Pause and elapsed time advanced to 00:01.",
+        "coverageUnits": [
+          7
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/925166781",
+        "url": "https://vimeo.com/925166781",
+        "channel": "UTHealth ORL",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:17:46Z: public control bar initially showed 00:00 and finite 46:11; normal visible Play control was used; playback state changed to Pause and elapsed display advanced to 00:01. Limit: only a brief ordinary-playback check was performed, not full viewing.",
+        "observedDurationSeconds": 2771,
+        "publicationDate": "2024-03-14",
+        "category": "specialty",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/925166781",
+        "freeAccessStatus": "Direct Vimeo page was publicly playable without sign-in, registration, payment, or a paywall shown during this observation; free viewing is separate from reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "The individual publisher page identifies this as Amy Leming, MD’s UTHealth Houston Grand Rounds discussion of contemporary facial-paralysis management; the observed player’s opening title slide and page identify the specific topic and series.",
+          "url": "https://vimeo.com/925166781"
+        },
+        "durationSeconds": 2771,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed."
+      },
+      {
+        "title": "Comprehensive Facial Reanimation (UTHealth Houston ORL GR, 2025-09-11)",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed.",
+        "id": "MED-101-EXT-20261027-004",
+        "durationEvidenceMethod": "Fresh direct public Vimeo player UI exposed a finite 51:36 duration before playback. After a normal visible Play-button click, the player displayed Pause and elapsed time advanced to 00:01.",
+        "coverageUnits": [
+          7
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/1120903097",
+        "url": "https://vimeo.com/1120903097",
+        "channel": "UTHealth ORL",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:18:08Z: public control bar initially showed 00:00 and finite 51:36; normal visible Play control was used; playback state changed to Pause and elapsed display advanced to 00:01. Limit: only a brief ordinary-playback check was performed, not full viewing.",
+        "observedDurationSeconds": 3096,
+        "publicationDate": "2025-09-11",
+        "category": "specialty",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/1120903097",
+        "freeAccessStatus": "Direct Vimeo page was publicly playable without sign-in, registration, payment, or a paywall shown during this observation; free viewing is separate from reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Publisher description says the session addresses flaccid versus synkinetic facial paralysis, individualized assessment with validated outcome measures, facial-retraining roles, and multidisciplinary care. Its procedural examples do not create operative instruction or competence.",
+          "url": "https://vimeo.com/1120903097"
+        },
+        "durationSeconds": 3096,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed."
+      },
+      {
+        "title": "Surgical Innovation in Otolaryngology: Past Lessons, Present Tools, Future Frontiers (UTHealth Houston ORL GR, 2025-06-12)",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed.",
+        "id": "MED-101-EXT-20261027-005",
+        "durationEvidenceMethod": "Fresh direct public Vimeo player UI exposed a finite 46:14 duration before playback. After a normal visible Play-button click, the player displayed Pause and elapsed time advanced to 00:01.",
+        "coverageUnits": [
+          7,
+          12
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/1093232706",
+        "url": "https://vimeo.com/1093232706",
+        "channel": "UTHealth ORL",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:18:33Z: public control bar initially showed 00:00 and finite 46:14; normal visible Play control was used; playback state changed to Pause and elapsed display advanced to 00:01. Limit: only a brief ordinary-playback check was performed, not full viewing.",
+        "observedDurationSeconds": 2774,
+        "publicationDate": "2025-06-12",
+        "category": "specialty",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/1093232706",
+        "freeAccessStatus": "Direct Vimeo page was publicly playable without sign-in, registration, payment, or a paywall shown during this observation; free viewing is separate from reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Publisher description explicitly includes intraoperative neuromonitoring, cochlear-implantation history, patient safety, ethical considerations, and regulatory/financial challenges. This supports only conceptual monitoring/ethics context, not procedural training.",
+          "url": "https://vimeo.com/1093232706"
+        },
+        "durationSeconds": 2774,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed."
+      },
+      {
+        "title": "Management of Tinnitus for the Otolaryngologist (UTHealth Houston ORL GR, 2024-10-10)",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed.",
+        "id": "MED-101-EXT-20261027-006",
+        "durationEvidenceMethod": "Fresh direct public Vimeo player UI exposed a finite 50:38 duration before playback. After a normal visible Play-button click, the player displayed Pause and elapsed time advanced to 00:01.",
+        "coverageUnits": [
+          5,
+          6
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/1020265376",
+        "url": "https://vimeo.com/1020265376",
+        "channel": "UTHealth ORL",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:18:54Z: public control bar initially showed 00:00 and finite 50:38; normal visible Play control was used; playback state changed to Pause and elapsed display advanced to 00:01. Limit: only a brief ordinary-playback check was performed, not full viewing.",
+        "observedDurationSeconds": 3038,
+        "publicationDate": "2024-10-10",
+        "category": "specialty",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/1020265376",
+        "freeAccessStatus": "Direct Vimeo page was publicly playable without sign-in, registration, payment, or a paywall shown during this observation; free viewing is separate from reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Publisher description states objectives to explain tinnitus prevalence/pathophysiology, list current treatment options, and describe therapy/research frontiers; it also notes hearing aids and CBT. It is educational context, not patient-specific treatment guidance.",
+          "url": "https://vimeo.com/1020265376"
+        },
+        "durationSeconds": 3038,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed."
+      },
+      {
+        "title": "Surgical Approaches to the Lateral Skull Base (UTHealth Houston ORL GR, 2023-05-11)",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed.",
+        "id": "MED-101-EXT-20261027-007",
+        "durationEvidenceMethod": "Fresh direct public Vimeo player UI exposed a finite 44:47 duration before playback. After a normal visible Play-button click, the player displayed Pause and elapsed time advanced to 00:01.",
+        "coverageUnits": [
+          9,
+          10
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/827442448",
+        "url": "https://vimeo.com/827442448",
+        "channel": "UTHealth ORL",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:19:13Z: public control bar initially showed 00:00 and finite 44:47; normal visible Play control was used; playback state changed to Pause and elapsed display advanced to 00:01. Limit: only a brief ordinary-playback check was performed, not full viewing.",
+        "observedDurationSeconds": 2687,
+        "publicationDate": "2023-05-11",
+        "category": "specialty",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/827442448",
+        "freeAccessStatus": "Direct Vimeo page was publicly playable without sign-in, registration, payment, or a paywall shown during this observation; free viewing is separate from reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Observed opening objective slide states: describe lateral-skull-base surgical anatomy; list lateral-skull-base pathologies and imaging features; and discuss/rationalize surgical approaches. This is mapped as conceptual anatomy/pathology/approach context only, not surgical skills credit.",
+          "url": "https://vimeo.com/827442448"
+        },
+        "durationSeconds": 2687,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed."
+      },
+      {
+        "title": "Otologic Surgery Using Mobile Cone-Beam CT (UTHealth Houston ORL GR, 2023-04-13)",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed.",
+        "id": "MED-101-EXT-20261027-008",
+        "durationEvidenceMethod": "Fresh direct public Vimeo player UI exposed a finite 51:57 duration before playback. After a normal visible Play-button click, the player displayed Pause and elapsed time advanced to 00:01.",
+        "coverageUnits": [
+          2,
+          6,
+          9
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/818538651",
+        "url": "https://vimeo.com/818538651",
+        "channel": "UTHealth ORL",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:19:35Z: public control bar initially showed 00:00 and finite 51:57; normal visible Play control was used; playback state changed to Pause and elapsed display advanced to 00:01. Limit: only a brief ordinary-playback check was performed, not full viewing.",
+        "observedDurationSeconds": 3117,
+        "publicationDate": "2023-04-13",
+        "category": "specialty",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/818538651",
+        "freeAccessStatus": "Direct Vimeo page was publicly playable without sign-in, registration, payment, or a paywall shown during this observation; free viewing is separate from reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Observed opening objectives specify assessing cochlear-implant electrode status with CT images, identifying the endolymphatic sac with mobile cone-beam CT, and discussing image-guided navigation usefulness in otologic/lateral-skull-base surgery. Mapping is limited to imaging and implant/anatomic concepts, not operative instruction.",
+          "url": "https://vimeo.com/818538651"
+        },
+        "durationSeconds": 3117,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed."
+      },
+      {
+        "title": "How to Read and Interpret Cost-Effectiveness Research: A Case Based Discussion (UTHealth Houston ORL GR, 2023-02-23)",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual original Vimeo recording page, not a playlist. The observed player displayed a notice that the beginning of the Grand Rounds was not recorded; the finite recorded duration is still reported exactly. No download, extraction, embedding, rehosting, or reproduction was performed.",
+        "id": "MED-101-EXT-20261027-009",
+        "durationEvidenceMethod": "Fresh direct public Vimeo player UI exposed a finite 49:28 duration before playback. After a normal visible Play-button click, the player displayed Pause and elapsed time advanced to 00:01.",
+        "coverageUnits": [
+          12
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/803502954",
+        "url": "https://vimeo.com/803502954",
+        "channel": "UTHealth ORL",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:19:54Z: public control bar initially showed 00:00 and finite 49:28; normal visible Play control was used; playback state changed to Pause and elapsed display advanced to 00:01. Limit: only a brief ordinary-playback check was performed, not full viewing; the player itself warns that the beginning was not recorded.",
+        "observedDurationSeconds": 2968,
+        "publicationDate": "2023-02-23",
+        "category": "foundation",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/803502954",
+        "freeAccessStatus": "Direct Vimeo page was publicly playable without sign-in, registration, payment, or a paywall shown during this observation; free viewing is separate from reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "The direct publisher page identifies a UTHealth Grand Rounds case-based discussion by George Scangas, MD (Massachusetts Eye & Ear) on reading and interpreting cost-effectiveness research. This narrowly supports research-appraisal methods; it is not neurotology clinical guidance.",
+          "url": "https://vimeo.com/803502954"
+        },
+        "durationSeconds": 2968,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual original Vimeo recording page, not a playlist. The observed player displayed a notice that the beginning of the Grand Rounds was not recorded; the finite recorded duration is still reported exactly. No download, extraction, embedding, rehosting, or reproduction was performed."
+      },
+      {
+        "title": "Otogenic Skull Base Osteomyelitis: Diagnosis and Management (UTHealth Houston ORL GR, 2026-01-08)",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed.",
+        "id": "MED-101-EXT-20261027-010",
+        "durationEvidenceMethod": "Fresh direct public Vimeo player UI exposed a finite 45:40 duration before playback. After a normal visible Play-button click, the player displayed Pause and elapsed time advanced to 00:01.",
+        "coverageUnits": [
+          9
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/1153673971",
+        "url": "https://vimeo.com/1153673971",
+        "channel": "UTHealth ORL",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:21:02Z: public control bar initially showed 00:00 and finite 45:40; normal visible Play control was used; playback state changed to Pause and elapsed display advanced to 00:01. Limit: only a brief ordinary-playback check was performed, not full viewing.",
+        "observedDurationSeconds": 2740,
+        "publicationDate": "2026-01-08",
+        "category": "specialty",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/1153673971",
+        "freeAccessStatus": "Direct Vimeo page was publicly playable without sign-in, registration, payment, or a paywall shown during this observation; free viewing is separate from reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Publisher description identifies otogenic skull-base osteomyelitis and specifically discusses presentation/risk factors, CT/MRI, cultures, diagnostic uncertainty, staging, and multidisciplinary management concepts. It supports the lesion/imaging differential unit without creating treatment instructions.",
+          "url": "https://vimeo.com/1153673971"
+        },
+        "durationSeconds": 2740,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed."
+      },
+      {
+        "title": "Music Perception in Cochlear Implants (UTHealth Houston ORL GR, 2026-10-08)",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed.",
+        "id": "MED-101-EXT-20261027-011",
+        "durationEvidenceMethod": "Fresh direct public Vimeo player UI exposed a finite 46:29 duration before playback. After a normal visible Play-button click, the player displayed Pause and elapsed time advanced to 00:01.",
+        "coverageUnits": [
+          6
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/1237354496",
+        "url": "https://vimeo.com/1237354496",
+        "channel": "UTHealth ORL",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:21:21Z: public control bar initially showed 00:00 and finite 46:29; normal visible Play control was used; playback state changed to Pause and elapsed display advanced to 00:01. Limit: only a brief ordinary-playback check was performed, not full viewing.",
+        "observedDurationSeconds": 2789,
+        "publicationDate": "2026-10-08",
+        "category": "specialty",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/1237354496",
+        "freeAccessStatus": "Direct Vimeo page was publicly playable without sign-in, registration, payment, or a paywall shown during this observation; free viewing is separate from reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Publisher description covers cochlear-implant sound processing, electrode stimulation, neural signal transmission, auditory rehabilitation, and technical limits affecting pitch/timbre and music appreciation. It supports implant/re-habilitation reasoning, not device candidacy or outcome guarantees.",
+          "url": "https://vimeo.com/1237354496"
+        },
+        "durationSeconds": 2789,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed."
+      },
+      {
+        "title": "A Systematic Approach to Evaluation and Management of Facial Paralysis (UTHealth Houston ORL GR, 2026-05-28)",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed.",
+        "id": "MED-101-EXT-20261027-012",
+        "durationEvidenceMethod": "Fresh direct public Vimeo player UI exposed a finite 53:02 duration before playback. After a normal visible Play-button click, the player displayed Pause and elapsed time advanced to 00:01.",
+        "coverageUnits": [
+          7
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://vimeo.com/1196812682",
+        "url": "https://vimeo.com/1196812682",
+        "channel": "UTHealth ORL",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed 2026-10-27T05:21:39Z: public control bar initially showed 00:00 and finite 53:02; normal visible Play control was used; playback state changed to Pause and elapsed display advanced to 00:01. Limit: only a brief ordinary-playback check was performed, not full viewing.",
+        "observedDurationSeconds": 3182,
+        "publicationDate": "2026-05-28",
+        "category": "specialty",
+        "provider": "UTHealth Houston Otorhinolaryngology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://vimeo.com/1196812682",
+        "freeAccessStatus": "Direct Vimeo page was publicly playable without sign-in, registration, payment, or a paywall shown during this observation; free viewing is separate from reuse permission.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Publisher description says the session reviews facial-nerve anatomy and injury pathophysiology, structured evaluation, diagnostic considerations, common etiologies, and multidisciplinary care. Mapping is limited to conceptual facial-nerve disorders/rehabilitation content.",
+          "url": "https://vimeo.com/1196812682"
+        },
+        "durationSeconds": 3182,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Individual original Vimeo recording page, not a playlist. Observed via normal public player controls only; no download, extraction, embedding, rehosting, or reproduction was performed."
       }
     ],
     "unitMap": [
       {
         "number": 1,
         "text": "Neurotologic foundations: temporal bone, lateral skull base, hearing and vestibular physiology",
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-101-EXT-20261027-002"
+        ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
           "Temporal-bone and IAC/CPA anatomy; facial nerve course; vascular and dural relationships",
@@ -13155,7 +13595,9 @@
       {
         "number": 2,
         "text": "Audiology, auditory electrophysiology and temporal-bone/skull-base imaging",
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-101-EXT-20261027-008"
+        ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
           "Air/bone conduction, tympanometry, speech recognition; audiometric patterns and conductive/sensorineural/mixed loss",
@@ -13198,7 +13640,9 @@
       {
         "number": 5,
         "text": "Hearing loss, chronic ear disease, otosclerosis and time-sensitive presentations",
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-101-EXT-20261027-006"
+        ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
           "Cholesteatoma and chronic otitis: clinical/imaging/pathology reasoning and complication awareness",
@@ -13213,7 +13657,11 @@
         "text": "Auditory rehabilitation and implantable hearing technologies",
         "lectureIds": [
           "MED101-V002",
-          "MED101-V006"
+          "MED101-V006",
+          "MED-101-EXT-20261027-002",
+          "MED-101-EXT-20261027-006",
+          "MED-101-EXT-20261027-008",
+          "MED-101-EXT-20261027-011"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -13228,7 +13676,11 @@
         "number": 7,
         "text": "Facial nerve anatomy, disorders, monitoring concepts and rehabilitation",
         "lectureIds": [
-          "MED101-V001"
+          "MED101-V001",
+          "MED-101-EXT-20261027-003",
+          "MED-101-EXT-20261027-004",
+          "MED-101-EXT-20261027-005",
+          "MED-101-EXT-20261027-012"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -13246,7 +13698,8 @@
           "MED101-V002",
           "MED101-V003",
           "MED101-V005",
-          "MED101-V006"
+          "MED101-V006",
+          "MED-101-EXT-20261027-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -13260,7 +13713,11 @@
       {
         "number": 9,
         "text": "Lateral skull-base, petrous-apex and temporal-bone lesions",
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-101-EXT-20261027-007",
+          "MED-101-EXT-20261027-008",
+          "MED-101-EXT-20261027-010"
+        ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
           "Meningioma, paraganglioma, petrous-apex lesions, other skull-base tumors and temporal-bone malignancies",
@@ -13273,7 +13730,9 @@
       {
         "number": 10,
         "text": "Surgical approaches, temporal-bone trauma and perioperative risk—conceptual overview",
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-101-EXT-20261027-007"
+        ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
           "Retrosigmoid, translabyrinthine, middle-fossa and other approaches: anatomy and broad hearing trade-offs only",
@@ -13299,7 +13758,10 @@
       {
         "number": 12,
         "text": "Research methods, ethics, quality and integrative clinical reasoning",
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-101-EXT-20261027-005",
+          "MED-101-EXT-20261027-009"
+        ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
           "Epidemiology, statistics, experimental design, research ethics and manuscript preparation",
@@ -13312,7 +13774,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 27.241,
+      "hoursToTarget": 17.126,
       "topicGaps": [
         "28.0844 verified free video hours remain; 7:54:56 of unique runtime is verified at review.",
         "Remaining specialty video gaps: temporal-bone and lateral skull-base anatomy; audiology/ABR/OAE; broad vestibular testing beyond the verified webinar; BPPV, Ménière disease, vestibular migraine, PPPD, SSCD and central syndromes; adult sudden hearing loss/chronic ear disease; implant/rehabilitation domains beyond focused VS-associated CI; facial-nerve diagnostics/monitoring; non-VS skull-base differential and approach families; pediatric neurotology; research methods and guideline appraisal.",
@@ -13918,10 +14380,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 8.759166666666667,
-      "verifiedSpecialtyHours": 8.759166666666667,
-      "verifiedFoundationHours": 0,
-      "hoursGap": 27.240833333333335,
+      "verifiedExternalHours": 18.87388888888889,
+      "verifiedSpecialtyHours": 18.049444444444443,
+      "verifiedFoundationHours": 0.8244444444444444,
+      "hoursGap": 17.12611111111111,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
@@ -21873,7 +22335,8 @@
           "MED105-GAP-002",
           "MED105-GAP-014",
           "MED105-GAP-015",
-          "MED105-GAP-020"
+          "MED105-GAP-020",
+          "MED-105-EXT-20261027-002"
         ],
         "casePractice": "Unit 2: create a test-order interpretation map; score against completeness, not treatment authority.",
         "assessment": "Unit 2: create a test-order interpretation map; score against completeness, not treatment authority. Rubric: 0 = omitted/unsafe, 1 = partial or weakly supported, 2 = accurate, source-linked, appropriately qualified; 80% (16/20) is a course progression threshold, not competence or board-readiness evidence."
@@ -21980,7 +22443,8 @@
           "MED105-GAP-020",
           "MED105-GAP-021",
           "MED105-GAP-022",
-          "MED105-GAP-030"
+          "MED105-GAP-030",
+          "MED-105-EXT-20261027-004"
         ],
         "casePractice": "Unit 5: stage/risk worksheet plus written follow-up contingencies.",
         "assessment": "Unit 5: stage/risk worksheet plus written follow-up contingencies. Rubric: 0 = omitted/unsafe, 1 = partial or weakly supported, 2 = accurate, source-linked, appropriately qualified; 80% (16/20) is a course progression threshold, not competence or board-readiness evidence."
@@ -22009,7 +22473,8 @@
           "MED105-GAP-002",
           "MED105-GAP-010",
           "MED105-GAP-018",
-          "MED105-GAP-019"
+          "MED105-GAP-019",
+          "MED-105-EXT-20261027-005"
         ],
         "casePractice": "Unit 6: board-style stage-and-management rationale; note where modern local protocols supersede older media.",
         "assessment": "Unit 6: board-style stage-and-management rationale; note where modern local protocols supersede older media. Rubric: 0 = omitted/unsafe, 1 = partial or weakly supported, 2 = accurate, source-linked, appropriately qualified; 80% (16/20) is a course progression threshold, not competence or board-readiness evidence."
@@ -22177,7 +22642,9 @@
           "MED105-GAP-022",
           "MED105-GAP-026",
           "MED105-GAP-027",
-          "MED105-GAP-028"
+          "MED105-GAP-028",
+          "MED-105-EXT-20261027-002",
+          "MED-105-EXT-20261027-005"
         ],
         "casePractice": "Unit 11: reflective consent/communication plan with rubric and referral map.",
         "assessment": "Unit 11: reflective consent/communication plan with rubric and referral map. Rubric: 0 = omitted/unsafe, 1 = partial or weakly supported, 2 = accurate, source-linked, appropriately qualified; 80% (16/20) is a course progression threshold, not competence or board-readiness evidence."
@@ -23275,6 +23742,98 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Individual recording only; link to the provider-hosted watch page. Do not download, mirror, rehost, extract patient material, or imply UCSF endorsement. The video is from 2022 and is retained only as a dated teaching recording; it must not be used as current indication, regimen, label, or guideline evidence."
+      },
+      {
+        "title": "Gynecologic cancer symposium - part 2: Reducing the Risk for High-Risk Women: Medical and Psychosocial Issues or Beginning the Conversation",
+        "accessEmbeddingNotes": "Link to the University of Utah player only. Do not download, rehost, or infer redistribution permission from public viewing.",
+        "id": "MED-105-EXT-20261027-002",
+        "durationEvidenceMethod": "Fresh ordinary public Kaltura player playback; visible control bar showed 01:45:44 and the loaded HTML5 player reported finite duration 6344.737 seconds.",
+        "coverageUnits": [
+          2,
+          11
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/0_ekwxpf0o",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/0_ekwxpf0o",
+        "channel": "OBGYN Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed UTC 2026-10-27T05:23Z. Public player started at 00:00; loaded HTML5 state advanced to 4.055393 seconds with duration 6344.737 and readyState 4; visible control bar then advanced to 00:11–00:12 / 01:45:44 with Pause control showing. No login gate encountered.",
+        "observedDurationSeconds": 6344.737,
+        "publicationDate": "2012-09-07",
+        "category": "specialty",
+        "provider": "University of Utah Health / HSC MediaSpace",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://hsc.mediaspace.utah.edu/media/t/0_ekwxpf0o",
+        "freeAccessStatus": "Observed anonymous public playback without login, registration, or payment prompt; viewing access only, not a reuse grant.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "The public player’s observed title slide reads \"Reducing the Risk for High-Risk Women: Medical and Psychosocial Issues; or Beginning the Conversation\" and identifies Saundra Buys, MD, September 7, 2012. Publisher metadata lists speaker Saundra Buys, MD, date recorded September 7, 2012, and Grand Rounds/OBGYN. This supports narrow mapping to hereditary/high-risk counseling and psychosocial discussion, not treatment authority. https://hsc.mediaspace.utah.edu/media/t/0_ekwxpf0o",
+        "durationSeconds": 6344.737,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Link to the University of Utah player only. Do not download, rehost, or infer redistribution permission from public viewing."
+      },
+      {
+        "title": "Endometrial intraepithelial neoplasia: Updates on operative & non-operative management",
+        "accessEmbeddingNotes": "Link to the University of Utah player only. Do not download, rehost, or infer redistribution permission from public viewing.",
+        "id": "MED-105-EXT-20261027-004",
+        "durationEvidenceMethod": "Fresh ordinary public Kaltura player playback; visible control bar showed 52:56 and the loaded HTML5 player reported finite duration 3176.977 seconds.",
+        "coverageUnits": [
+          5
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.utah.edu/obgyn/grandrounds/video?video=1_ih8r8wul",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/1_ih8r8wul",
+        "channel": "OBGYN Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed UTC 2026-10-27T05:24Z. Public player started at 00:00; loaded HTML5 state advanced to 5.627190 seconds with duration 3176.977 and readyState 4; visible control bar then advanced to 00:11–00:12 / 52:56 with Pause control. No login gate encountered.",
+        "observedDurationSeconds": 3176.977,
+        "publicationDate": "2021-10-21",
+        "category": "specialty",
+        "provider": "University of Utah Health / HSC MediaSpace",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://hsc.mediaspace.utah.edu/media/t/1_ih8r8wul",
+        "freeAccessStatus": "Observed anonymous public playback without login, registration, or payment prompt; viewing access only, not a reuse grant.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "University of Utah’s individual public Grand Rounds page identifies \"Endometrial intraepithelial neoplasia: Updates on operative & non-operative management\"; observed page metadata names Melissa Brackmann, MD and date recorded October 21, 2021. This directly supports the Unit 5 objective distinguishing EIN/atypical hyperplasia discussion from invasive cancer pathways. https://hsc.mediaspace.utah.edu/media/t/1_ih8r8wul",
+        "durationSeconds": 3176.977,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Link to the University of Utah player only. Do not download, rehost, or infer redistribution permission from public viewing."
+      },
+      {
+        "title": "Fertility sparing treatments for early stage cervical cancer",
+        "accessEmbeddingNotes": "Link to the University of Utah player only. Do not download, rehost, or infer redistribution permission from public viewing.",
+        "id": "MED-105-EXT-20261027-005",
+        "durationEvidenceMethod": "Fresh ordinary public Kaltura player playback; visible control bar showed 49:37 and the loaded HTML5 player reported finite duration 2977.681 seconds.",
+        "coverageUnits": [
+          6,
+          11
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.utah.edu/obgyn/grandrounds/video?video=1_vdut9pzj",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/1_vdut9pzj",
+        "channel": "OBGYN Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Observed UTC 2026-10-27T05:24Z. Public player started at 00:00; loaded HTML5 state advanced to 3.148124 seconds with duration 2977.681 and readyState 4; visible control bar then advanced to 00:10–00:11 / 49:37 with Pause control. No login gate encountered.",
+        "observedDurationSeconds": 2977.681,
+        "publicationDate": "2021-09-02",
+        "category": "specialty",
+        "provider": "University of Utah Health / HSC MediaSpace",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://hsc.mediaspace.utah.edu/media/t/1_vdut9pzj",
+        "freeAccessStatus": "Observed anonymous public playback without login, registration, or payment prompt; viewing access only, not a reuse grant.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "University of Utah’s individual public Grand Rounds page identifies \"Fertility sparing treatments for early stage cervical cancer\"; observed metadata names Chelsey Vranes, MD, date recorded September 2, 2021, and tags include gynecology, oncology, and childbearing. This narrowly supports early cervical cancer fertility-sparing discussion and fertility counseling context. https://hsc.mediaspace.utah.edu/media/t/1_vdut9pzj",
+        "durationSeconds": 2977.681,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Link to the University of Utah player only. Do not download, rehost, or infer redistribution permission from public viewing."
       }
     ],
     "unitMap": [
@@ -23298,7 +23857,8 @@
           "MED105-GAP-002",
           "MED105-GAP-014",
           "MED105-GAP-015",
-          "MED105-GAP-020"
+          "MED105-GAP-020",
+          "MED-105-EXT-20261027-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -23366,7 +23926,8 @@
           "MED105-GAP-020",
           "MED105-GAP-021",
           "MED105-GAP-022",
-          "MED105-GAP-030"
+          "MED105-GAP-030",
+          "MED-105-EXT-20261027-004"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -23382,7 +23943,8 @@
           "MED105-GAP-002",
           "MED105-GAP-010",
           "MED105-GAP-018",
-          "MED105-GAP-019"
+          "MED105-GAP-019",
+          "MED-105-EXT-20261027-005"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -23487,7 +24049,9 @@
           "MED105-GAP-022",
           "MED105-GAP-026",
           "MED105-GAP-027",
-          "MED105-GAP-028"
+          "MED105-GAP-028",
+          "MED-105-EXT-20261027-002",
+          "MED-105-EXT-20261027-005"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -23514,7 +24078,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 10.902,
+      "hoursToTarget": 7.43,
       "topicGaps": [
         "The numerical 36-hour target is met in the currently observed ledger (39.034 unique external hours; 140521 seconds; 44 unique recordings). No planned/authored minutes are included in that total.",
         "Public recordings improve breadth but are not equivalent to a formal fellowship curriculum: many new OCRA event sessions are expert-led patient/caregiver education, not board-level didactics. Supplement them with the linked NCI professional PDQs and current specialty guidance.",
@@ -24562,10 +25126,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 25.0975,
-      "verifiedSpecialtyHours": 25.0975,
+      "verifiedExternalHours": 28.569554166666663,
+      "verifiedSpecialtyHours": 28.569554166666663,
       "verifiedFoundationHours": 0,
-      "hoursGap": 10.9025,
+      "hoursGap": 7.430445833333337,
       "unknownDurationItems": [
         {
           "id": "V01",
@@ -28161,7 +28725,8 @@
           "BIDMC-4kiYVtQRp5Q",
           "BIDMC-y-egsE7Y8Pg",
           "BIDMC-HFiG4yi1egk",
-          "HOPKINS-uJNNdtixjaI"
+          "HOPKINS-uJNNdtixjaI",
+          "MED-107-EXT-20261027-002"
         ],
         "casePractice": "BIDMC prevention of preeclampsia, chronic hypertension, FGR and NST/Dopplers; SMFM Consult #52. No patient data or patient images reproduced.",
         "assessment": "Reason through fictional growth percentile and Doppler scenario; state missing context."
@@ -29095,6 +29660,38 @@
         "accessVerified": false,
         "origin": "external",
         "coverageNote": "Source-player link only; no media copied or hosted. Duration unverified and not counted. Distinct ID checked against the 19 existing track video IDs."
+      },
+      {
+        "title": "The clinical conundrum of fetal growth",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Direct publisher page with Kaltura player; link-out only. No media downloaded, copied, or rehosted.",
+        "id": "MED-107-EXT-20261027-002",
+        "durationEvidenceMethod": "Finite duration exposed by rendered public Kaltura/HTML5 player (3152.854512 seconds; control bar displayed 52:32).",
+        "coverageUnits": [
+          3
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.utah.edu/obgyn/grandrounds/2018",
+        "url": "https://medicine.utah.edu/obgyn/grandrounds/video?video=0_07ip9gfi",
+        "channel": "OBGYN Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Before normal player action: currentTime 0, duration 3152.854512. Normal action: trusted coordinate click in visible public player. After: visible control bar advanced to 0:01 and player displayed observed opening content. Observed 2026-10-27T05:18:47Z. No login, download, extraction, or bypass used.",
+        "observedDurationSeconds": 3152.854512,
+        "publicationDate": null,
+        "category": "specialty",
+        "provider": "University of Utah Health, Spencer Fox Eccles School of Medicine",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://medicine.utah.edu/obgyn/grandrounds/video?video=0_07ip9gfi",
+        "freeAccessStatus": "Observed public free-to-view publisher player without sign-in, registration, paywall, or bot gate. Free viewing is distinct from reuse rights.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": "The observed opening slide/content states that fetal growth restriction is a major public-health problem and lists how to identify it, standards, ROC curves, and evidence; publisher page identifies Nathan Blue and the title \"The clinical conundrum of fetal growth.\" This supports Unit 3 fetal-growth-restriction assessment, not a clinical-management guarantee. https://medicine.utah.edu/obgyn/grandrounds/video?video=0_07ip9gfi",
+        "durationSeconds": 3152.854512,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Direct publisher page with Kaltura player; link-out only. No media downloaded, copied, or rehosted."
       }
     ],
     "unitMap": [
@@ -29128,7 +29725,8 @@
           "BIDMC-4kiYVtQRp5Q",
           "BIDMC-y-egsE7Y8Pg",
           "BIDMC-HFiG4yi1egk",
-          "HOPKINS-uJNNdtixjaI"
+          "HOPKINS-uJNNdtixjaI",
+          "MED-107-EXT-20261027-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [],
@@ -29247,7 +29845,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 19.961,
+      "hoursToTarget": 19.085,
       "topicGaps": [
         "19.96 verified free-recording hours remain to the 36-hour video floor; target minutes in authored scripts and plans are not rendered hours.",
         "Public full recordings remain disproportionately concentrated in selected BIDMC maternal disease, prenatal genetics, hypertensive disease, labor and fetal-growth sessions. Added Hopkins fetal-therapy topics have unknown runtime and cannot close the numeric gap.",
@@ -29825,10 +30423,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 16.038888888888888,
-      "verifiedSpecialtyHours": 16.038888888888888,
+      "verifiedExternalHours": 16.91468180888889,
+      "verifiedSpecialtyHours": 16.91468180888889,
       "verifiedFoundationHours": 0,
-      "hoursGap": 19.961111111111112,
+      "hoursGap": 19.08531819111111,
       "unknownDurationItems": [
         {
           "id": "HOPKINS-t41wntkifcc",

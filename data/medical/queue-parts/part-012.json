@@ -6722,6 +6722,78 @@
         "durationSeconds": 3533,
         "sourceUrl": "https://capfellowship.semel.ucla.edu/grand-rounds/",
         "accessVerified": true
+      },
+      {
+        "id": "MED-140-EXT-20261027-001",
+        "title": "Searching for New Treatment Strategies for Obsessive-Compulsive Disorder",
+        "url": "https://medicine.yale.edu/childstudy/media-player/09-29-2026-grand-roundschristopher-pittenger-md-phd/",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "durationSeconds": 4286.44,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/09-29-2026-grand-roundschristopher-pittenger-md-phd/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-140-EXT-20261027-002",
+        "title": "Irritability: A Hidden Driver of Youth Mental Health Problems",
+        "url": "https://medicine.yale.edu/childstudy/media-player/03-31-2026-grand-roundswan-ling-tseng/",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "durationSeconds": 3845.4,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/03-31-2026-grand-roundswan-ling-tseng/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-140-EXT-20261027-003",
+        "title": "Engaging the Dialectical Paradox: Applications of DBT with Complex Adolescents",
+        "url": "https://medicine.yale.edu/childstudy/media-player/12-02-2025-grand-roundsrebecca-kamody-phd/",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "durationSeconds": 3563.68,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/12-02-2025-grand-roundsrebecca-kamody-phd/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-140-EXT-20261027-004",
+        "title": "From genes to evidence-based treatments: Translational research in trichotillomania and excoriation disorder",
+        "url": "https://medicine.yale.edu/childstudy/media-player/06-10-2025-grand-rounds-from-genes-to-evidence-based-treatments/",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "durationSeconds": 3473.36,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/06-10-2025-grand-rounds-from-genes-to-evidence-based-treatments/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-140-EXT-20261027-005",
+        "title": "Addressing youth suicide: A matter of life and death",
+        "url": "https://medicine.yale.edu/childstudy/media-player/04-22-2025-grand-rounds-addressing-youth-suicide/",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "durationSeconds": 3623.48,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/04-22-2025-grand-rounds-addressing-youth-suicide/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-140-EXT-20261027-006",
+        "title": "Addiction, adversity, and attachment—Supporting families impacted by parental substance use",
+        "url": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-1-14-25/",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "durationSeconds": 3453.48,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-1-14-25/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-140-EXT-20261027-007",
+        "title": "Differential diagnosis in early childhood",
+        "url": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-12-17-24/",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "durationSeconds": 3247.92,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-12-17-24/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-140-EXT-20261027-008",
+        "title": "Sleep Well, Bee Well – A Focus on Early Childhood Sleep to Promote Parent-Child Relationships and Reduce Health Disparities",
+        "url": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-6-4-24/",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "durationSeconds": 3431.2,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-6-4-24/",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -6744,7 +6816,8 @@
         "lectureIds": [
           "YT-zMicGn7DR2A",
           "YT-VM8K5fsL4nA",
-          "YT-00NaItJxtTc"
+          "YT-00NaItJxtTc",
+          "MED-140-EXT-20261027-007"
         ]
       },
       {
@@ -6760,21 +6833,26 @@
         "text": "Mood disorders: depression, bipolar spectrum and irritability",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "YT-gZ-3BZiKSLo"
+          "YT-gZ-3BZiKSLo",
+          "MED-140-EXT-20261027-002"
         ]
       },
       {
         "number": 5,
         "text": "Anxiety, OCD and related conditions",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-140-EXT-20261027-001",
+          "MED-140-EXT-20261027-004"
+        ]
       },
       {
         "number": 6,
         "text": "Trauma, stress, attachment and safeguarding",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "YT-XHR1WBWD4UU"
+          "YT-XHR1WBWD4UU",
+          "MED-140-EXT-20261027-006"
         ]
       },
       {
@@ -6782,7 +6860,8 @@
         "text": "Suicidality, self-injury, emergency and acute care",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "YT-UTbrB2fOhgg"
+          "YT-UTbrB2fOhgg",
+          "MED-140-EXT-20261027-005"
         ]
       },
       {
@@ -6805,7 +6884,8 @@
           "YT-vSW64AR9Vgo",
           "YT-RK0Jqw1RAms",
           "YT-WJLBjFUvk3M",
-          "YT-TAM-V49nSf8"
+          "YT-TAM-V49nSf8",
+          "MED-140-EXT-20261027-003"
         ]
       },
       {
@@ -6817,7 +6897,8 @@
           "YT-00NaItJxtTc",
           "YT-mmnBxrc3wlY",
           "YT-FHNtQX0Kv0A",
-          "YT-L_ocJMkPxWM"
+          "YT-L_ocJMkPxWM",
+          "MED-140-EXT-20261027-008"
         ]
       },
       {
@@ -6861,10 +6942,10 @@
     "boardStatus": "Separate ABPN subspecialty certification exam exists. ABPN states applicants must hold Psychiatry certification by the deadline, complete two full years (24 calendar months) of CAP subspecialty training in qualifying accredited programmes (with defined exceptional pathways and detailed rules), meet clinical skills evaluation and license conditions. Programme-specific accreditation/eligibility was not independently verified for both packet-listed sites; consult current ABPN requirements and ACGME directory.",
     "boardEligibilityNotice": "This independent self-study course confers no ABPN eligibility. ABPN requirements are date-sensitive; as checked 2026-10-07, ABPN describes CAP as a psychiatry subspecialty, requires Psychiatry certification by the year before the CAP exam and two full years of CAP training subject to published detailed rules, plus clinical skills evaluations and unrestricted license. Verify exact individual eligibility directly with ABPN and the programme.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 24.034166666666668,
-    "verifiedSpecialtyHours": 19.63,
+    "verifiedExternalHours": 32.06887777777777,
+    "verifiedSpecialtyHours": 27.664711111111103,
     "verifiedFoundationHours": 4.404166666666667,
-    "hoursGap": 11.965833333333332,
+    "hoursGap": 3.9311222222222284,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

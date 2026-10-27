@@ -1043,6 +1043,15 @@
         "durationSeconds": 3525,
         "sourceUrl": "https://www.youtube.com/watch?v=IuXhmyU77Uc",
         "accessVerified": true
+      },
+      {
+        "id": "MED-X015-EXT-20261027-006",
+        "title": "Women with Epilepsy: Healthy Pregnancies Minimising Seizure Risks",
+        "url": "https://vimeo.com/1069796758",
+        "provider": "Epilepsy Action Australia",
+        "durationSeconds": 4479,
+        "sourceUrl": "https://vimeo.com/1069796758",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -1093,7 +1102,8 @@
           "MED-X015-ADD-003",
           "MED-X015-ADD-004",
           "MED-X015-ADD-006",
-          "MED-X015-ADD-007"
+          "MED-X015-ADD-007",
+          "MED-X015-EXT-20261027-006"
         ]
       },
       {
@@ -1186,10 +1196,10 @@
     "boardStatus": "The MGB women’s neurology fellowship is an institutional clinical fellowship in an emerging focus area. ABPN’s current public examination pages list Neurology primary certification and recognized subspecialty examinations, but do not list a separate Women’s Neurology examination. The appropriate board framework here is broad ABPN Neurology content, not a separate women’s neurology blueprint. Fellowship completion does not itself grant ABPN certification.",
     "boardEligibilityNotice": "The MGB public programme page says applicants should have completed an ACGME-accredited neurology residency and be board eligible or certified in neurology. ABPN independently determines certification examination eligibility under its training, licensure and other requirements. This independent course confers no board eligibility. Verify the current ABPN requirements directly.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 12.618611111111111,
-    "verifiedSpecialtyHours": 12.618611111111111,
+    "verifiedExternalHours": 13.862777777777778,
+    "verifiedSpecialtyHours": 13.862777777777778,
     "verifiedFoundationHours": 0,
-    "hoursGap": 23.38138888888889,
+    "hoursGap": 22.13722222222222,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

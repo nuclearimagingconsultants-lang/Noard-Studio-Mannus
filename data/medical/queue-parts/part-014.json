@@ -5458,6 +5458,15 @@
         "durationSeconds": 5447,
         "sourceUrl": "https://www.youtube.com/watch?v=8BfjldRQyWM",
         "accessVerified": true
+      },
+      {
+        "id": "MED-167-EXT-20261027-005",
+        "title": "Lecture: Live Pediatric Ophthalmology & Strabismus Case Discussion Part II",
+        "url": "https://cybersight.org/library/lecture-live-pediatric-ophthalmology-strabismus-case-discussion-part-ii/",
+        "provider": "Cybersight, an initiative of Project Orbis International, Inc.",
+        "durationSeconds": 3899.03,
+        "sourceUrl": "https://cybersight.org/library/lecture-live-pediatric-ophthalmology-strabismus-case-discussion-part-ii/",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -5503,7 +5512,8 @@
           "moran-okap-review-pediatric-ophthalmology-2018",
           "moran-ocular-orbital-anatomy-foundation-2022",
           "moran-visual-development-amblyopia-anterior-segment-2021",
-          "moran-examination-strabismus-amblyopia-2017"
+          "moran-examination-strabismus-amblyopia-2017",
+          "MED-167-EXT-20261027-005"
         ]
       },
       {
@@ -5532,7 +5542,8 @@
           "aapos-kushner-10-research",
           "aapos-duane-adult-2025",
           "aapos-adult-vertical-strabismus-2024",
-          "moran-ocular-orbital-anatomy-foundation-2022"
+          "moran-ocular-orbital-anatomy-foundation-2022",
+          "MED-167-EXT-20261027-005"
         ]
       },
       {
@@ -5557,7 +5568,8 @@
           "aapos-infantile-esotropia-2024",
           "aapos-after-ocular-surgery-2026",
           "aapos-adult-vertical-strabismus-2024",
-          "moran-okap-review-pediatric-ophthalmology-2018"
+          "moran-okap-review-pediatric-ophthalmology-2018",
+          "MED-167-EXT-20261027-005"
         ]
       },
       {
@@ -5647,10 +5659,10 @@
     "boardStatus": "In the United States, ABO describes general ophthalmology certification based on accredited ophthalmology training and written qualifying plus oral examinations. No separate U.S. ABO pediatric ophthalmology/strabismus board exam was identified. Separately, EBO/ESA/EPOS offers the FEBOS-SP European subspecialty examination; it requires EBO-equivalent/UEMS qualifications, specialist registration, a one-year full-time fellowship to ICO-equivalent standards, and substantial verified surgical experience; those criteria are not met or conferred by this course.",
     "boardEligibilityNotice": "This independent educational curriculum grants no ABO or FEBOS-SP eligibility, accredited training, clinical privileges, licensure, case volume or procedural competence. Consult each board for current rules; no eligibility determination is made.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 29.225555555555555,
-    "verifiedSpecialtyHours": 28.372222222222224,
+    "verifiedExternalHours": 30.308619444444446,
+    "verifiedSpecialtyHours": 29.45528611111111,
     "verifiedFoundationHours": 0.8533333333333334,
-    "hoursGap": 6.774444444444445,
+    "hoursGap": 5.691380555555554,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

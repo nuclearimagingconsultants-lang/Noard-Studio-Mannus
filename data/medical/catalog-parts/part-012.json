@@ -27251,7 +27251,8 @@
         "lectureIds": [
           "YT-zMicGn7DR2A",
           "YT-VM8K5fsL4nA",
-          "YT-00NaItJxtTc"
+          "YT-00NaItJxtTc",
+          "MED-140-EXT-20261027-007"
         ],
         "casePractice": "Use a published educational vignette or an instructor-authored fictional scenario; state missing data, protect confidentiality, and do not infer facts absent from prompt. See case resources https://pmc.ncbi.nlm.nih.gov/articles/PMC6440400/ and https://www.mededportal.org/doi/10.15766/mep_2374-8265.11400.",
         "assessment": "Written formative check: 2-item retrieval quiz plus a one-page case formulation and reflection on uncertainty, safety, family/system context; feedback rubric: accuracy 40%, reasoning/differential 30%, safety/ethics 20%, clarity 10%."
@@ -27299,7 +27300,8 @@
           "https://www.mededportal.org/doi/10.15766/mep_2374-8265.11400"
         ],
         "lectureIds": [
-          "YT-gZ-3BZiKSLo"
+          "YT-gZ-3BZiKSLo",
+          "MED-140-EXT-20261027-002"
         ],
         "casePractice": "Use a published educational vignette or an instructor-authored fictional scenario; state missing data, protect confidentiality, and do not infer facts absent from prompt. See case resources https://pmc.ncbi.nlm.nih.gov/articles/PMC6440400/ and https://www.mededportal.org/doi/10.15766/mep_2374-8265.11400.",
         "assessment": "Written formative check: 2-item retrieval quiz plus a one-page case formulation and reflection on uncertainty, safety, family/system context; feedback rubric: accuracy 40%, reasoning/differential 30%, safety/ethics 20%, clarity 10%."
@@ -27320,7 +27322,10 @@
           "https://pmc.ncbi.nlm.nih.gov/articles/PMC6440400/",
           "https://www.mededportal.org/doi/10.15766/mep_2374-8265.11400"
         ],
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-140-EXT-20261027-001",
+          "MED-140-EXT-20261027-004"
+        ],
         "casePractice": "Use a published educational vignette or an instructor-authored fictional scenario; state missing data, protect confidentiality, and do not infer facts absent from prompt. See case resources https://pmc.ncbi.nlm.nih.gov/articles/PMC6440400/ and https://www.mededportal.org/doi/10.15766/mep_2374-8265.11400.",
         "assessment": "Written formative check: 2-item retrieval quiz plus a one-page case formulation and reflection on uncertainty, safety, family/system context; feedback rubric: accuracy 40%, reasoning/differential 30%, safety/ethics 20%, clarity 10%."
       },
@@ -27342,7 +27347,8 @@
           "https://www.aacap.org/aacap/Resources_for_Primary_Care/CAP_Resources_for_Medical_Student_Educators.aspx"
         ],
         "lectureIds": [
-          "YT-XHR1WBWD4UU"
+          "YT-XHR1WBWD4UU",
+          "MED-140-EXT-20261027-006"
         ],
         "casePractice": "Use a published educational vignette or an instructor-authored fictional scenario; state missing data, protect confidentiality, and do not infer facts absent from prompt. See case resources https://pmc.ncbi.nlm.nih.gov/articles/PMC6440400/ and https://www.mededportal.org/doi/10.15766/mep_2374-8265.11400.",
         "assessment": "Written formative check: 2-item retrieval quiz plus a one-page case formulation and reflection on uncertainty, safety, family/system context; feedback rubric: accuracy 40%, reasoning/differential 30%, safety/ethics 20%, clarity 10%."
@@ -27365,7 +27371,8 @@
           "https://www.aacap.org/AACAP/Resources_for_Primary_Care/Practice_Parameters_and_Resource_Centers/Practice-Parameters/CPGs.aspx"
         ],
         "lectureIds": [
-          "YT-UTbrB2fOhgg"
+          "YT-UTbrB2fOhgg",
+          "MED-140-EXT-20261027-005"
         ],
         "casePractice": "Use a published educational vignette or an instructor-authored fictional scenario; state missing data, protect confidentiality, and do not infer facts absent from prompt. See case resources https://pmc.ncbi.nlm.nih.gov/articles/PMC6440400/ and https://www.mededportal.org/doi/10.15766/mep_2374-8265.11400.",
         "assessment": "Written formative check: 2-item retrieval quiz plus a one-page case formulation and reflection on uncertainty, safety, family/system context; feedback rubric: accuracy 40%, reasoning/differential 30%, safety/ethics 20%, clarity 10%."
@@ -27419,7 +27426,8 @@
           "YT-vSW64AR9Vgo",
           "YT-RK0Jqw1RAms",
           "YT-WJLBjFUvk3M",
-          "YT-TAM-V49nSf8"
+          "YT-TAM-V49nSf8",
+          "MED-140-EXT-20261027-003"
         ],
         "casePractice": "Use a published educational vignette or an instructor-authored fictional scenario; state missing data, protect confidentiality, and do not infer facts absent from prompt. See case resources https://pmc.ncbi.nlm.nih.gov/articles/PMC6440400/ and https://www.mededportal.org/doi/10.15766/mep_2374-8265.11400.",
         "assessment": "Written formative check: 2-item retrieval quiz plus a one-page case formulation and reflection on uncertainty, safety, family/system context; feedback rubric: accuracy 40%, reasoning/differential 30%, safety/ethics 20%, clarity 10%."
@@ -27446,7 +27454,8 @@
           "YT-00NaItJxtTc",
           "YT-mmnBxrc3wlY",
           "YT-FHNtQX0Kv0A",
-          "YT-L_ocJMkPxWM"
+          "YT-L_ocJMkPxWM",
+          "MED-140-EXT-20261027-008"
         ],
         "casePractice": "Use a published educational vignette or an instructor-authored fictional scenario; state missing data, protect confidentiality, and do not infer facts absent from prompt. See case resources https://pmc.ncbi.nlm.nih.gov/articles/PMC6440400/ and https://www.mededportal.org/doi/10.15766/mep_2374-8265.11400.",
         "assessment": "Written formative check: 2-item retrieval quiz plus a one-page case formulation and reflection on uncertainty, safety, family/system context; feedback rubric: accuracy 40%, reasoning/differential 30%, safety/ethics 20%, clarity 10%."
@@ -28214,6 +28223,278 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
         "coverageNote": "Culturally responsive formulation and family intervention content; it concerns a specific community and should not be generalized as a substitute for community-led or patient-centered inquiry. Do not download/rehost/embed without permission."
+      },
+      {
+        "title": "Searching for New Treatment Strategies for Obsessive-Compulsive Disorder",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Publisher link only; no download, rehost, or embedding permission inferred.",
+        "id": "MED-140-EXT-20261027-001",
+        "durationEvidenceMethod": "Visible player showed 1:11:26; after normal visible Play control use, exposed HTML5 duration was 4286.44 seconds.",
+        "coverageUnits": [
+          5
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/09-29-2026-grand-roundschristopher-pittenger-md-phd/",
+        "url": "https://medicine.yale.edu/childstudy/media-player/09-29-2026-grand-roundschristopher-pittenger-md-phd/",
+        "channel": "YCSC Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Normal visible Play control was used. currentTime advanced from 1.588245 to 9.617743 seconds; duration=4286.44 and paused=false at latter observation. Observed 2026-10-27T05:23:52Z. Timing/access only.",
+        "observedDurationSeconds": 4286.44,
+        "publicationDate": "2026-09-30",
+        "category": "specialty",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://medicine.yale.edu/childstudy/media-player/09-29-2026-grand-roundschristopher-pittenger-md-phd/",
+        "freeAccessStatus": "Observed free public full-video playback; no sign-in, registration, paywall, age gate, or bot challenge appeared.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Transcript gives an OCD overview and discusses using OCD knowledge to develop new treatments, including psychotherapy, brain stimulation, and pharmacology.",
+          "url": "https://medicine.yale.edu/childstudy/media-player/09-29-2026-grand-roundschristopher-pittenger-md-phd/"
+        },
+        "durationSeconds": 4286.44,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Publisher link only; no download, rehost, or embedding permission inferred."
+      },
+      {
+        "title": "Irritability: A Hidden Driver of Youth Mental Health Problems",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Publisher link only; no download, rehost, or embedding permission inferred.",
+        "id": "MED-140-EXT-20261027-002",
+        "durationEvidenceMethod": "Visible player showed 1:04:05; after normal visible Play control use, exposed HTML5 duration was 3845.4 seconds.",
+        "coverageUnits": [
+          4
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/03-31-2026-grand-roundswan-ling-tseng/",
+        "url": "https://medicine.yale.edu/childstudy/media-player/03-31-2026-grand-roundswan-ling-tseng/",
+        "channel": "YCSC Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Normal visible Play control was used. currentTime advanced from 0 to 2.857634 seconds; duration=3845.4. Observed 2026-10-27T05:24:48Z. Timing/access only.",
+        "observedDurationSeconds": 3845.4,
+        "publicationDate": "2026-03-31",
+        "category": "specialty",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://medicine.yale.edu/childstudy/media-player/03-31-2026-grand-roundswan-ling-tseng/",
+        "freeAccessStatus": "Observed free public full-video playback; no sign-in, registration, paywall, age gate, or bot challenge appeared.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Transcript distinguishes temper outbursts from sustained irritable mood and relates phasic irritability to ADHD, aggression, and conduct problems and tonic irritability to anxiety and depression.",
+          "url": "https://medicine.yale.edu/childstudy/media-player/03-31-2026-grand-roundswan-ling-tseng/"
+        },
+        "durationSeconds": 3845.4,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Publisher link only; no download, rehost, or embedding permission inferred."
+      },
+      {
+        "title": "Engaging the Dialectical Paradox: Applications of DBT with Complex Adolescents",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Publisher link only; no download, rehost, embedding permission, or psychotherapy credential inferred.",
+        "id": "MED-140-EXT-20261027-003",
+        "durationEvidenceMethod": "Visible player showed 59:23; after normal visible Play control use, exposed HTML5 duration was 3563.68 seconds.",
+        "coverageUnits": [
+          9
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/12-02-2025-grand-roundsrebecca-kamody-phd/",
+        "url": "https://medicine.yale.edu/childstudy/media-player/12-02-2025-grand-roundsrebecca-kamody-phd/",
+        "channel": "YCSC Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Normal visible Play control was used. currentTime advanced from 0 to 2.093150 seconds; duration=3563.68. Observed 2026-10-27T05:25:50Z. Timing/access only.",
+        "observedDurationSeconds": 3563.68,
+        "publicationDate": "2025-12-03",
+        "category": "specialty",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://medicine.yale.edu/childstudy/media-player/12-02-2025-grand-roundsrebecca-kamody-phd/",
+        "freeAccessStatus": "Observed free public full-video playback; no sign-in, registration, paywall, age gate, or bot challenge appeared.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Transcript objectives are to understand DBT tenets for youth with complex concerns, describe transdiagnostic youth applications, and discuss adaptations for different levels of care.",
+          "url": "https://medicine.yale.edu/childstudy/media-player/12-02-2025-grand-roundsrebecca-kamody-phd/"
+        },
+        "durationSeconds": 3563.68,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Publisher link only; no download, rehost, embedding permission, or psychotherapy credential inferred."
+      },
+      {
+        "title": "From genes to evidence-based treatments: Translational research in trichotillomania and excoriation disorder",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Publisher link only; no download, rehost, or embedding permission inferred.",
+        "id": "MED-140-EXT-20261027-004",
+        "durationEvidenceMethod": "Visible player showed 57:53; after normal visible Play control use, exposed HTML5 duration was 3473.36 seconds.",
+        "coverageUnits": [
+          5
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/06-10-2025-grand-rounds-from-genes-to-evidence-based-treatments/",
+        "url": "https://medicine.yale.edu/childstudy/media-player/06-10-2025-grand-rounds-from-genes-to-evidence-based-treatments/",
+        "channel": "YCSC Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Normal visible Play control was used. currentTime advanced from 0 to 3.836455 seconds; duration=3473.36. Observed 2026-10-27T05:26:40Z. Timing/access only.",
+        "observedDurationSeconds": 3473.36,
+        "publicationDate": "2025-06-11",
+        "category": "specialty",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://medicine.yale.edu/childstudy/media-player/06-10-2025-grand-rounds-from-genes-to-evidence-based-treatments/",
+        "freeAccessStatus": "Observed free public full-video playback; no sign-in, registration, paywall, age gate, or bot challenge appeared.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Transcript identifies trichotillomania and excoriation as obsessive-compulsive-related body-focused repetitive behavior disorders and states they tend to begin in adolescence.",
+          "url": "https://medicine.yale.edu/childstudy/media-player/06-10-2025-grand-rounds-from-genes-to-evidence-based-treatments/"
+        },
+        "durationSeconds": 3473.36,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Publisher link only; no download, rehost, or embedding permission inferred."
+      },
+      {
+        "title": "Addressing youth suicide: A matter of life and death",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Publisher link only; no download, rehost, embedding permission, or risk-assessment credential inferred.",
+        "id": "MED-140-EXT-20261027-005",
+        "durationEvidenceMethod": "Visible player showed 1:00:23; after normal visible Play control use, exposed HTML5 duration was 3623.48 seconds.",
+        "coverageUnits": [
+          7
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/04-22-2025-grand-rounds-addressing-youth-suicide/",
+        "url": "https://medicine.yale.edu/childstudy/media-player/04-22-2025-grand-rounds-addressing-youth-suicide/",
+        "channel": "YCSC Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Normal visible Play control was used. currentTime advanced from 0 to 4.210598 seconds; duration=3623.48. Observed 2026-10-27T05:27:20Z. Timing/access only.",
+        "observedDurationSeconds": 3623.48,
+        "publicationDate": "2025-04-23",
+        "category": "specialty",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://medicine.yale.edu/childstudy/media-player/04-22-2025-grand-rounds-addressing-youth-suicide/",
+        "freeAccessStatus": "Observed free public full-video playback; no sign-in, registration, paywall, age gate, or bot challenge appeared.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Transcript says the speaker focuses on youth suicide and self-injury and studies assessment, prediction, and intervention for suicidal behavior.",
+          "url": "https://medicine.yale.edu/childstudy/media-player/04-22-2025-grand-rounds-addressing-youth-suicide/"
+        },
+        "durationSeconds": 3623.48,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Publisher link only; no download, rehost, embedding permission, or risk-assessment credential inferred."
+      },
+      {
+        "title": "Addiction, adversity, and attachment—Supporting families impacted by parental substance use",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Publisher link only; no download, rehost, embedding permission, or safeguarding credential inferred.",
+        "id": "MED-140-EXT-20261027-006",
+        "durationEvidenceMethod": "Visible player showed 57:33; after normal visible Play control use, exposed HTML5 duration was 3453.48 seconds.",
+        "coverageUnits": [
+          6
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-1-14-25/",
+        "url": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-1-14-25/",
+        "channel": "YCSC Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Normal visible Play control was used. currentTime advanced from 0 to 4.731913 seconds; duration=3453.48. Observed 2026-10-27T05:27:59Z. Timing/access only.",
+        "observedDurationSeconds": 3453.48,
+        "publicationDate": "2025-01-15",
+        "category": "specialty",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-1-14-25/",
+        "freeAccessStatus": "Observed free public full-video playback; no sign-in, registration, paywall, age gate, or bot challenge appeared.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Transcript describes research on addiction, adversity, and attachment in parental responses to infant cues and interventions for parents with substance-use disorders.",
+          "url": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-1-14-25/"
+        },
+        "durationSeconds": 3453.48,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Publisher link only; no download, rehost, embedding permission, or safeguarding credential inferred."
+      },
+      {
+        "title": "Differential diagnosis in early childhood",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Publisher link only; no download, rehost, embedding permission, or diagnostic credential inferred.",
+        "id": "MED-140-EXT-20261027-007",
+        "durationEvidenceMethod": "Visible player showed 54:07; after normal visible Play control use, exposed HTML5 duration was 3247.92 seconds.",
+        "coverageUnits": [
+          2
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-12-17-24/",
+        "url": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-12-17-24/",
+        "channel": "YCSC Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Normal visible Play control was used. currentTime advanced from 0 to 6.528260 seconds; duration=3247.92. Observed 2026-10-27T05:28:42Z. Timing/access only.",
+        "observedDurationSeconds": 3247.92,
+        "publicationDate": "2024-12-18",
+        "category": "specialty",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-12-17-24/",
+        "freeAccessStatus": "Observed free public full-video playback; no sign-in, registration, paywall, age gate, or bot challenge appeared.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Transcript addresses early neurodevelopmental differential diagnosis, including autism, ADHD, global delay, language disorders, motor stereotypies, and overlapping presentations.",
+          "url": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-12-17-24/"
+        },
+        "durationSeconds": 3247.92,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Publisher link only; no download, rehost, embedding permission, or diagnostic credential inferred."
+      },
+      {
+        "title": "Sleep Well, Bee Well – A Focus on Early Childhood Sleep to Promote Parent-Child Relationships and Reduce Health Disparities",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Publisher link only; no download, rehost, or embedding permission inferred.",
+        "id": "MED-140-EXT-20261027-008",
+        "durationEvidenceMethod": "Visible player showed 57:11; after normal visible Play control use, exposed HTML5 duration was 3431.2 seconds.",
+        "coverageUnits": [
+          10
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-6-4-24/",
+        "url": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-6-4-24/",
+        "channel": "YCSC Grand Rounds",
+        "licenceEvidenceText": null,
+        "playbackEvidence": "Normal visible Play control was used. currentTime advanced from 0 to 0.856057 seconds; duration=3431.2. Observed 2026-10-27T05:29:22Z. Timing/access only.",
+        "observedDurationSeconds": 3431.2,
+        "publicationDate": "2024-06-04",
+        "category": "specialty",
+        "provider": "Yale Child Study Center, Yale School of Medicine",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-6-4-24/",
+        "freeAccessStatus": "Observed free public full-video playback; no sign-in, registration, paywall, age gate, or bot challenge appeared.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Transcript objectives cover early-childhood sleep, barriers to healthy sleep, and sleep-promotion interventions that strengthen parent-child relationships; it calls sleep a foundation of health.",
+          "url": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-6-4-24/"
+        },
+        "durationSeconds": 3431.2,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Publisher link only; no download, rehost, or embedding permission inferred."
       }
     ],
     "unitMap": [
@@ -28239,7 +28520,8 @@
         "lectureIds": [
           "YT-zMicGn7DR2A",
           "YT-VM8K5fsL4nA",
-          "YT-00NaItJxtTc"
+          "YT-00NaItJxtTc",
+          "MED-140-EXT-20261027-007"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -28263,7 +28545,8 @@
         "number": 4,
         "text": "Mood disorders: depression, bipolar spectrum and irritability",
         "lectureIds": [
-          "YT-gZ-3BZiKSLo"
+          "YT-gZ-3BZiKSLo",
+          "MED-140-EXT-20261027-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -28274,7 +28557,10 @@
       {
         "number": 5,
         "text": "Anxiety, OCD and related conditions",
-        "lectureIds": [],
+        "lectureIds": [
+          "MED-140-EXT-20261027-001",
+          "MED-140-EXT-20261027-004"
+        ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
           "Separation/social/generalized anxiety, panic, phobias, selective mutism; OCD, body-focused repetitive disorders; CBT/exposure principles; school avoidance."
@@ -28285,7 +28571,8 @@
         "number": 6,
         "text": "Trauma, stress, attachment and safeguarding",
         "lectureIds": [
-          "YT-XHR1WBWD4UU"
+          "YT-XHR1WBWD4UU",
+          "MED-140-EXT-20261027-006"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -28297,7 +28584,8 @@
         "number": 7,
         "text": "Suicidality, self-injury, emergency and acute care",
         "lectureIds": [
-          "YT-UTbrB2fOhgg"
+          "YT-UTbrB2fOhgg",
+          "MED-140-EXT-20261027-005"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -28328,7 +28616,8 @@
           "YT-vSW64AR9Vgo",
           "YT-RK0Jqw1RAms",
           "YT-WJLBjFUvk3M",
-          "YT-TAM-V49nSf8"
+          "YT-TAM-V49nSf8",
+          "MED-140-EXT-20261027-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -28344,7 +28633,8 @@
           "YT-00NaItJxtTc",
           "YT-mmnBxrc3wlY",
           "YT-FHNtQX0Kv0A",
-          "YT-L_ocJMkPxWM"
+          "YT-L_ocJMkPxWM",
+          "MED-140-EXT-20261027-008"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -28395,7 +28685,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 11.966,
+      "hoursToTarget": 3.931,
       "topicGaps": [
         "29.3928 of the 36 target video hours remain unverified; five added recordings contribute 6.6072 observed specialty hours. Target hours remain unmet and scripted episodes are not rendered video.",
         "The packet’s six original public links remain uncounted because free full playback and/or observed runtime is not verified.",
@@ -28933,10 +29223,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 24.034166666666668,
-      "verifiedSpecialtyHours": 19.63,
+      "verifiedExternalHours": 32.06887777777777,
+      "verifiedSpecialtyHours": 27.664711111111103,
       "verifiedFoundationHours": 4.404166666666667,
-      "hoursGap": 11.965833333333332,
+      "hoursGap": 3.9311222222222284,
       "unknownDurationItems": [
         {
           "id": "YT-uwBH9Y4WLy4",

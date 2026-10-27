@@ -28191,7 +28191,8 @@
           "moran-okap-review-pediatric-ophthalmology-2018",
           "moran-ocular-orbital-anatomy-foundation-2022",
           "moran-visual-development-amblyopia-anterior-segment-2021",
-          "moran-examination-strabismus-amblyopia-2017"
+          "moran-examination-strabismus-amblyopia-2017",
+          "MED-167-EXT-20261027-005"
         ],
         "casePractice": [
           "Infantile esotropia; Duane syndrome; Brown syndrome"
@@ -28270,7 +28271,8 @@
           "aapos-kushner-10-research",
           "aapos-duane-adult-2025",
           "aapos-adult-vertical-strabismus-2024",
-          "moran-ocular-orbital-anatomy-foundation-2022"
+          "moran-ocular-orbital-anatomy-foundation-2022",
+          "MED-167-EXT-20261027-005"
         ],
         "casePractice": [
           "Sagging eye syndrome; strabismus with scleral buckle; acquired Brown syndrome"
@@ -28320,7 +28322,8 @@
           "aapos-infantile-esotropia-2024",
           "aapos-after-ocular-surgery-2026",
           "aapos-adult-vertical-strabismus-2024",
-          "moran-okap-review-pediatric-ophthalmology-2018"
+          "moran-okap-review-pediatric-ophthalmology-2018",
+          "MED-167-EXT-20261027-005"
         ],
         "casePractice": [
           "Case index and surgical videos (observational only)"
@@ -29528,6 +29531,39 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Direct public link only. The full video was not downloaded, copied into the course, embedded, or represented as a current clinical protocol. The provider's proceedings site triggered verification when checked, so no protected access was bypassed."
+      },
+      {
+        "title": "Lecture: Live Pediatric Ophthalmology & Strabismus Case Discussion Part II",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Public Cybersight page with Wistia player; normal control only. No video was downloaded, copied, cloud-saved, rehosted, or embedded. Surgical clips are observation/discussion, not authorization for independent surgery.",
+        "id": "MED-167-EXT-20261027-005",
+        "durationEvidenceMethod": "Before ordinary play, the public player visibly exposed 1:04:59. Following a normal click on the visible Play Video control, the same documented public Wistia API reported duration 3899.03 seconds (hash 6ynf9gtstx) and playing state.",
+        "coverageUnits": [
+          3,
+          5,
+          6
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": "https://cybersight.org/terms-conditions/",
+        "sourceUrl": "https://cybersight.org/library/lecture-live-pediatric-ophthalmology-strabismus-case-discussion-part-ii/",
+        "url": "https://cybersight.org/library/lecture-live-pediatric-ophthalmology-strabismus-case-discussion-part-ii/",
+        "channel": "Cybersight Library — Lectures",
+        "licenceEvidenceText": "Cybersight terms state that all rights not expressly granted are reserved by Orbis and permit downloading only for one’s own personal, non-commercial use, \"not for further reproduction, publication or distribution.\"",
+        "playbackEvidence": "The pre-play public control displayed total 1:04:59. A normal click changed Play Video to Pause Video; visible time advanced to 0:02, then the same public player API read currentTime=10.324703 seconds, state=playing, duration=3899.03 seconds. Observed 2026-10-27T05:32:58Z. No sign-in, proxy, alternate host, extraction, or download was used.",
+        "observedDurationSeconds": 3899.03,
+        "publicationDate": "2017-08-28",
+        "category": "specialty",
+        "provider": "Cybersight, an initiative of Project Orbis International, Inc.",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://cybersight.org/library/lecture-live-pediatric-ophthalmology-strabismus-case-discussion-part-ii/",
+        "freeAccessStatus": "Observed ordinary public playback on the publisher page without sign-in, registration, paywall, age gate, or bot challenge. Free viewing is distinct from reuse rights.",
+        "rightsStatus": "Limited personal, non-commercial use only under Cybersight terms; redistribution/rehosting is not granted.",
+        "relevanceEvidence": "Cybersight says: \"Dr. Daniel Neely presents more real patient cases in Pediatric Ophthalmology / Strabismus that have been submitted on Cybersight Consult. The examination, diagnosis and treatment of each case are covered.\" The observed transcript describes complex strabismus cases, trauma/restriction differential, head posture, motility examination, traction testing, and discussion of surgical technique videos. Source: https://cybersight.org/library/lecture-live-pediatric-ophthalmology-strabismus-case-discussion-part-ii/",
+        "durationSeconds": 3899.03,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Public Cybersight page with Wistia player; normal control only. No video was downloaded, copied, cloud-saved, rehosted, or embedded. Surgical clips are observation/discussion, not authorization for independent surgery."
       }
     ],
     "unitMap": [
@@ -29582,7 +29618,8 @@
           "moran-okap-review-pediatric-ophthalmology-2018",
           "moran-ocular-orbital-anatomy-foundation-2022",
           "moran-visual-development-amblyopia-anterior-segment-2021",
-          "moran-examination-strabismus-amblyopia-2017"
+          "moran-examination-strabismus-amblyopia-2017",
+          "MED-167-EXT-20261027-005"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -29621,7 +29658,8 @@
           "aapos-kushner-10-research",
           "aapos-duane-adult-2025",
           "aapos-adult-vertical-strabismus-2024",
-          "moran-ocular-orbital-anatomy-foundation-2022"
+          "moran-ocular-orbital-anatomy-foundation-2022",
+          "MED-167-EXT-20261027-005"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -29651,7 +29689,8 @@
           "aapos-infantile-esotropia-2024",
           "aapos-after-ocular-surgery-2026",
           "aapos-adult-vertical-strabismus-2024",
-          "moran-okap-review-pediatric-ophthalmology-2018"
+          "moran-okap-review-pediatric-ophthalmology-2018",
+          "MED-167-EXT-20261027-005"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -29770,7 +29809,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 6.774,
+      "hoursToTarget": 5.691,
       "topicGaps": [
         "Verified video corpus is far below the 36-hour specialty floor; source-linked EyeRounds clips total only a small amount and many are brief technique demonstrations, not full lectures.",
         "Need full-length recorded teaching across visual development, pediatric assessment, amblyopia, esotropia/exotropia, adult diplopia, ROP, cataract/glaucoma, nystagmus, genetics, emergencies and evidence appraisal.",
@@ -30527,10 +30566,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 29.225555555555555,
-      "verifiedSpecialtyHours": 28.372222222222224,
+      "verifiedExternalHours": 30.308619444444446,
+      "verifiedSpecialtyHours": 29.45528611111111,
       "verifiedFoundationHours": 0.8533333333333334,
-      "hoursGap": 6.774444444444445,
+      "hoursGap": 5.691380555555554,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [

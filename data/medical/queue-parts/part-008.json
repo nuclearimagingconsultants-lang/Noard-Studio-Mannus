@@ -178,6 +178,15 @@
         "durationSeconds": null,
         "sourceUrl": "https://www.youtube.com/watch?v=cO7UMbmvazk",
         "accessVerified": false
+      },
+      {
+        "id": "MED-085-EXT-20261027-003",
+        "title": "Screening for Inborn Errors of Metabolism Using Untargeted Metabolomic Profiling",
+        "url": "https://arup.utah.edu/education/sutton-inbornerrorsmetabolism-2017",
+        "provider": "ARUP Laboratories, University of Utah Department of Pathology",
+        "durationSeconds": 2967.71475,
+        "sourceUrl": "https://arup.utah.edu/media/sutton-inbornErrorsMetabolism-2017/videoLecture",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -187,7 +196,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "mit705s20-lec19",
-          "mit705s20-lec20"
+          "mit705s20-lec20",
+          "MED-085-EXT-20261027-003"
         ]
       },
       {
@@ -271,7 +281,9 @@
         "number": 11,
         "text": "Biochemical genetics laboratory methods, quality and result interpretation",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-085-EXT-20261027-003"
+        ]
       },
       {
         "number": 12,
@@ -288,10 +300,10 @@
     "boardStatus": "Distinct ABMGG physician subspecialty certification exam exists. ABMGG’s official 2026 Dates & Fees page states Clinical/Medical Biochemical Genetics is offered during the 2027 examination cycle. The 2025 ABMGG biochemical genetics blueprint is the source for the 2026 examination-cycle content. As of 2026-10-07, the exact board exam label in the current board schedule is “Clinical/Medical Biochemical Genetics”; ABMGG pathway/specialty pages identify Medical Biochemical Genetics as the physician subspecialty and Clinical Biochemical Genetics as a separate laboratory specialty.",
     "boardEligibilityNotice": "ABMGG says Medical Biochemical Genetics requires one year of accredited subspecialty training and is available only to physicians who completed a clinical genetics and genomics residency; this course confers no eligibility. Confirm current individual credentials and policy with ABMGG. Clinical Biochemical Genetics is a distinct laboratory specialty, not a synonym for this physician fellowship.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 18.51044388888889,
-    "verifiedSpecialtyHours": 0,
+    "verifiedExternalHours": 19.334809097222223,
+    "verifiedSpecialtyHours": 0.8243652083333334,
     "verifiedFoundationHours": 18.51044388888889,
-    "hoursGap": 17.48955611111111,
+    "hoursGap": 16.665190902777777,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

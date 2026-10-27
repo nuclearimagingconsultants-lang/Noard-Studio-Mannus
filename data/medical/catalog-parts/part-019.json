@@ -34573,7 +34573,11 @@
           "MED-X012-ADD03",
           "MED-X012-ADD04",
           "MED-X012-ADD05",
-          "MED-X012-ADD08"
+          "MED-X012-ADD08",
+          "MED-X012-EXT-20261027-001",
+          "MED-X012-EXT-20261027-002",
+          "MED-X012-EXT-20261027-003",
+          "MED-X012-EXT-20261027-004"
         ],
         "casePractice": "Use only a constructed vignette plus public variant-level assertions or the linked published case as a discussion prompt. Do not reproduce patient images/records; follow source rights and avoid treating public submissions as a clinical diagnosis.",
         "assessment": "Unit 3 short retrieval quiz plus a one-page reasoning artifact; score against rubric: accurate scope/interpretation 40%, evidence and uncertainty 30%, communication/safety 20%, citations 10%."
@@ -34603,7 +34607,9 @@
           "MED-X012-ADD04",
           "MED-X012-ADD05",
           "MED-X012-ADD08",
-          "MED-X012-ADD10"
+          "MED-X012-ADD10",
+          "MED-X012-EXT-20261027-001",
+          "MED-X012-EXT-20261027-004"
         ],
         "casePractice": "Use only a constructed vignette plus public variant-level assertions or the linked published case as a discussion prompt. Do not reproduce patient images/records; follow source rights and avoid treating public submissions as a clinical diagnosis.",
         "assessment": "Unit 4 short retrieval quiz plus a one-page reasoning artifact; score against rubric: accurate scope/interpretation 40%, evidence and uncertainty 30%, communication/safety 20%, citations 10%."
@@ -34633,7 +34639,10 @@
           "MED-X012-ADD04",
           "MED-X012-ADD05",
           "MED-X012-ADD08",
-          "MED-X012-ADD09"
+          "MED-X012-ADD09",
+          "MED-X012-EXT-20261027-001",
+          "MED-X012-EXT-20261027-002",
+          "MED-X012-EXT-20261027-004"
         ],
         "casePractice": "Use only a constructed vignette plus public variant-level assertions or the linked published case as a discussion prompt. Do not reproduce patient images/records; follow source rights and avoid treating public submissions as a clinical diagnosis.",
         "assessment": "Unit 5 short retrieval quiz plus a one-page reasoning artifact; score against rubric: accurate scope/interpretation 40%, evidence and uncertainty 30%, communication/safety 20%, citations 10%."
@@ -35347,6 +35356,178 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
         "coverageNote": "Aisha Khasawneh, MD, presents translational work from Dr. Kalume's lab on gene therapy for Dravet syndrome. Treat as a dated research/grand-rounds overview, not an approved therapy claim, trial-eligibility resource, procedural instruction, or care recommendation."
+      },
+      {
+        "title": "CRISPR and Diagnostics: Challenges and Strategies for Understanding Results from Sequencing including Variants of Unknown Significance",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Public ARUP HTML5 player; no account, download, extraction, or rehosting used.",
+        "id": "MED-X012-EXT-20261027-001",
+        "durationEvidenceMethod": "Visible public control bar 0:00/46:33; same public HTML5 player duration=2793.2905 after visible play action.",
+        "coverageUnits": [
+          3,
+          4,
+          5
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://arup.utah.edu/education/bonkowsky-crispr-2019",
+        "url": "https://arup.utah.edu/education/bonkowsky-crispr-2019",
+        "channel": "ARUP Video Lectures",
+        "licenceEvidenceText": null,
+        "playbackEvidence": {
+          "beforeCurrentTimeSeconds": 0,
+          "afterCurrentTimeSeconds": 4.879103,
+          "durationSeconds": 2793.2905,
+          "normalControl": "Visible play control, then standard public HTML5 player API.",
+          "observedAtUtc": "2026-10-27T05:42:12Z",
+          "limits": "Short advancing-playback observation only."
+        },
+        "observedDurationSeconds": 2793.2905,
+        "publicationDate": null,
+        "category": "foundation",
+        "provider": "ARUP Laboratories Institute for Learning / University of Utah Department of Pathology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://arup.utah.edu/media/bonkowsky-crispr-2019/videoLecture",
+        "freeAccessStatus": "Observed public no-login playback; ARUP states educational content is provided free of charge.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Objectives include NGS benefits/challenges in neurologic disease and CRISPR as a tool to assess pathogenicity of variants identified by NGS.",
+          "url": "https://arup.utah.edu/education/bonkowsky-crispr-2019"
+        },
+        "durationSeconds": 2793.2905,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public ARUP HTML5 player; no account, download, extraction, or rehosting used."
+      },
+      {
+        "title": "Clinical Applications of Whole Genome Sequencing",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Public ARUP HTML5 player; no account or media copying used.",
+        "id": "MED-X012-EXT-20261027-002",
+        "durationEvidenceMethod": "ARUP lists 38:36; public HTML5 player duration=2316.380733 with advancing playback after visible Launch Lecture Video control.",
+        "coverageUnits": [
+          3,
+          5
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://arup.utah.edu/education/best-wholegenome-2025",
+        "url": "https://arup.utah.edu/education/best-wholegenome-2025",
+        "channel": "ARUP Video Lectures",
+        "licenceEvidenceText": null,
+        "playbackEvidence": {
+          "beforeCurrentTimeSeconds": 0,
+          "afterCurrentTimeSeconds": 3.408153,
+          "durationSeconds": 2316.380733,
+          "normalControl": "Visible Launch Lecture Video control then standard public HTML5 player API.",
+          "observedAtUtc": "2026-10-27T05:43:31Z",
+          "limits": "Short advancing-playback observation only."
+        },
+        "observedDurationSeconds": 2316.380733,
+        "publicationDate": "2025-10-14",
+        "category": "foundation",
+        "provider": "ARUP Laboratories Institute for Learning / University of Utah Department of Pathology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://arup.utah.edu/media/best-wholegenome-2025/videoLecture",
+        "freeAccessStatus": "Observed public no-login playback; no fee stated for CE activity.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Objectives: distinguish rapid versus standard WGS, identify clinical use in suspected genetic disease, and recognize benefits/limitations.",
+          "url": "https://arup.utah.edu/education/best-wholegenome-2025"
+        },
+        "durationSeconds": 2316.380733,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "coverageNote": "Public ARUP HTML5 player; no account or media copying used."
+      },
+      {
+        "title": "More Is Better, Right? Panel vs. Targeted Testing",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Public ARUP HTML5 player; no account, download, extraction, or rehosting used.",
+        "id": "MED-X012-EXT-20261027-003",
+        "durationEvidenceMethod": "Visible public control bar 0:00/52:41; same public HTML5 player duration=3161.825333.",
+        "coverageUnits": [
+          3
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://arup.utah.edu/education/pratt-more-2022",
+        "url": "https://arup.utah.edu/education/pratt-more-2022",
+        "channel": "ARUP Video Lectures",
+        "licenceEvidenceText": null,
+        "playbackEvidence": {
+          "beforeCurrentTimeSeconds": 0,
+          "afterCurrentTimeSeconds": 1.280159,
+          "durationSeconds": 3161.825333,
+          "normalControl": "Visible play icon then standard public HTML5 player API.",
+          "observedAtUtc": "2026-10-27T05:45:14Z",
+          "limits": "Short advancing-playback observation only."
+        },
+        "observedDurationSeconds": 3161.825333,
+        "publicationDate": null,
+        "category": "foundation",
+        "provider": "ARUP Laboratories Institute for Learning / University of Utah Department of Pathology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://arup.utah.edu/media/pratt-more-2022/videoLecture",
+        "freeAccessStatus": "Observed public no-login playback; ARUP states content is free of charge.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "ARUP states the talk explores genomic testing advances and objective is to differentiate evidence of genes included in genomic panel testing.",
+          "url": "https://arup.utah.edu/education/pratt-more-2022"
+        },
+        "durationSeconds": 3161.825333,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public ARUP HTML5 player; no account, download, extraction, or rehosting used."
+      },
+      {
+        "title": "Genetic Data Sharing and Reanalysis of Genomic Test Results: Challenges and Benefits to Implementation",
+        "permittedPublicDownloadUrl": null,
+        "accessEmbeddingNotes": "Public ARUP HTML5 player; no account or media copying used.",
+        "id": "MED-X012-EXT-20261027-004",
+        "durationEvidenceMethod": "Visible public control bar 0:00/51:57; same public HTML5 player duration=3117.166667.",
+        "coverageUnits": [
+          3,
+          4,
+          5
+        ],
+        "accessVerified": true,
+        "licenceEvidenceUrl": null,
+        "sourceUrl": "https://arup.utah.edu/education/geneData-2020",
+        "url": "https://arup.utah.edu/education/geneData-2020",
+        "channel": "ARUP Video Lectures",
+        "licenceEvidenceText": null,
+        "playbackEvidence": {
+          "beforeCurrentTimeSeconds": 0,
+          "afterCurrentTimeSeconds": 1.109526,
+          "durationSeconds": 3117.166667,
+          "normalControl": "Visible play icon then standard public HTML5 player API.",
+          "observedAtUtc": "2026-10-27T05:45:49Z",
+          "limits": "Short advancing-playback observation only."
+        },
+        "observedDurationSeconds": 3117.166667,
+        "publicationDate": null,
+        "category": "foundation",
+        "provider": "ARUP Laboratories Institute for Learning / University of Utah Department of Pathology",
+        "humanClinicalReviewStatus": "not performed",
+        "durationEvidenceUrl": "https://arup.utah.edu/media/geneData-2020/videoLecture",
+        "freeAccessStatus": "Observed public no-login playback; ARUP states content is free of charge.",
+        "rightsStatus": "unknown",
+        "relevanceEvidence": {
+          "text": "Objectives cover genetic-data sharing, variant reanalysis, reevaluation across NGS and chromosomal microarray, and implementation through review/cases.",
+          "url": "https://arup.utah.edu/education/geneData-2020"
+        },
+        "durationSeconds": 3117.166667,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public ARUP HTML5 player; no account or media copying used."
       }
     ],
     "unitMap": [
@@ -35393,7 +35574,11 @@
           "MED-X012-ADD03",
           "MED-X012-ADD04",
           "MED-X012-ADD05",
-          "MED-X012-ADD08"
+          "MED-X012-ADD08",
+          "MED-X012-EXT-20261027-001",
+          "MED-X012-EXT-20261027-002",
+          "MED-X012-EXT-20261027-003",
+          "MED-X012-EXT-20261027-004"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -35411,7 +35596,9 @@
           "MED-X012-ADD04",
           "MED-X012-ADD05",
           "MED-X012-ADD08",
-          "MED-X012-ADD10"
+          "MED-X012-ADD10",
+          "MED-X012-EXT-20261027-001",
+          "MED-X012-EXT-20261027-004"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -35429,7 +35616,10 @@
           "MED-X012-ADD04",
           "MED-X012-ADD05",
           "MED-X012-ADD08",
-          "MED-X012-ADD09"
+          "MED-X012-ADD09",
+          "MED-X012-EXT-20261027-001",
+          "MED-X012-EXT-20261027-002",
+          "MED-X012-EXT-20261027-004"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -35556,7 +35746,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 20.408,
+      "hoursToTarget": 17.245,
       "topicGaps": [
         "Observed free recording total is 4.5422 hours (16352 seconds); 31.46 of the 36-hour target remains. Scripted episodes and originalClipPlan target minutes are not rendered or counted.",
         "Long, disease-specific teaching is still sparse for pediatric developmental neurogenetics, epilepsy, dementia, leukodystrophy, hereditary spastic paraplegia, mitochondrial/metabolic disease and phenotype-specific testing across assay blind spots.",
@@ -36403,10 +36593,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 15.591666666666667,
+      "verifiedExternalHours": 18.75518423138889,
       "verifiedSpecialtyHours": 10.924444444444445,
-      "verifiedFoundationHours": 4.667222222222223,
-      "hoursGap": 20.40833333333333,
+      "verifiedFoundationHours": 7.830739786944445,
+      "hoursGap": 17.24481576861111,
       "unknownDurationItems": [
         {
           "id": "MED-X012-V01",

@@ -3216,6 +3216,33 @@
         "durationSeconds": 4585,
         "sourceUrl": "https://www.youtube.com/watch?v=EvCiztdKm4Q",
         "accessVerified": true
+      },
+      {
+        "id": "MED-150-EXT-20261027-001",
+        "title": "NW PTTC's Webinar Opioids, Fentanyl, and Xylazine",
+        "url": "https://vimeo.com/929666746/ec417f4b83?share=copy",
+        "provider": "Northwest Prevention Technology Transfer Center (PTTC; Washington State University partnership)",
+        "durationSeconds": 5096,
+        "sourceUrl": "https://pttcnetwork.org/products_and_resources/opioids-fentanyl-and-xylazine-what-are-they-and-what-do-prevention-professionals-need-to-know-and-do-to-prevent-overdose/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-150-EXT-20261027-002",
+        "title": "MPATTC: Clinical Parent Coaching as a Core Component of Adolescent and Young Adult Substance Use Treatment",
+        "url": "https://vimeo.com/1196392756/eb78a3409b?share=copy&fl=sv&fe=ci",
+        "provider": "Mountain Plains Addiction Technology Transfer Center (ATTC)",
+        "durationSeconds": 4752,
+        "sourceUrl": "https://attcnetwork.org/products_and_resources/clinical-parent-coaching-as-a-core-component-of-adolescent-and-young-adult-substance-use-treatment/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-150-EXT-20261027-006",
+        "title": "MPATTC: Closing the Treatment Gap: Introduction to Medications for Treating Alcohol Use Disorder",
+        "url": "https://vimeo.com/1015742893",
+        "provider": "Mountain Plains Addiction Technology Transfer Center (ATTC)",
+        "durationSeconds": 3392,
+        "sourceUrl": "https://attcnetwork.org/products_and_resources/closing-the-treatment-gap-introduction-to-medications-for-treating-alcohol-use-disorder/",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -3281,7 +3308,8 @@
           "MED150-HC-003",
           "MED150-HC-006",
           "MED150-HC-009",
-          "MED150-R001"
+          "MED150-R001",
+          "MED-150-EXT-20261027-006"
         ]
       },
       {
@@ -3293,7 +3321,8 @@
           "MED150-V006",
           "MED150-V008",
           "MED150-V009",
-          "MED150-HC-001"
+          "MED150-HC-001",
+          "MED-150-EXT-20261027-001"
         ]
       },
       {
@@ -3305,7 +3334,8 @@
           "MED150-V008",
           "MED150-V009",
           "MED150-HC-001",
-          "MED150-R001"
+          "MED150-R001",
+          "MED-150-EXT-20261027-001"
         ]
       },
       {
@@ -3342,7 +3372,8 @@
           "MED150-V005",
           "MED150-V006",
           "MED150-HC-004",
-          "MED150-HC-008"
+          "MED150-HC-008",
+          "MED-150-EXT-20261027-002"
         ]
       },
       {
@@ -3359,7 +3390,8 @@
           "MED150-HC-004",
           "MED150-HC-005",
           "MED150-HC-009",
-          "MED150-R001"
+          "MED150-R001",
+          "MED-150-EXT-20261027-002"
         ]
       },
       {
@@ -3377,10 +3409,10 @@
     "boardStatus": "ABPM lists Addiction Medicine as a subspecialty certification. Its published Addiction Medicine outline covers general addiction medicine; no separate pediatric addiction medicine examination or pediatric-specific exam blueprint was found in the current official ABPM materials checked. ACGME accreditation of the institutional fellowship is a separate matter from board certification.",
     "boardEligibilityNotice": "ABPM’s current ACGME-fellowship pathway requires 12 months or more in an ACGME-accredited Addiction Medicine fellowship and current primary specialty certification through an eligible board. The institutional listing says this one-year clinical fellowship is ACGME-accredited, but independent self-study confers no fellowship completion, eligibility determination, examination access or certification. Confirm current rules directly with ABPM and the relevant primary board.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 17.5075,
-    "verifiedSpecialtyHours": 12.176944444444445,
-    "verifiedFoundationHours": 5.330555555555556,
-    "hoursGap": 18.4925,
+    "verifiedExternalHours": 21.185277777777777,
+    "verifiedSpecialtyHours": 14.9125,
+    "verifiedFoundationHours": 6.272777777777778,
+    "hoursGap": 14.814722222222223,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3679,6 +3711,15 @@
         "durationSeconds": 1898,
         "sourceUrl": "https://www.openanesthesia.org/vodcasts/anesthetic-implications-for-pediatric-patients-undergoing-scoliosis-repair/",
         "accessVerified": true
+      },
+      {
+        "id": "MED-151-EXT-20261027-005",
+        "title": "Genetic Syndromes Associated with Congenital Heart Disease",
+        "url": "https://app.box.com/s/suay4kgjh1hgpyz652xze7s1kccnd3a1",
+        "provider": "University of Arkansas for Medical Sciences (UAMS), Department of Anesthesiology / Arkansas Children's Hospital",
+        "durationSeconds": 3357,
+        "sourceUrl": "https://medicine.uams.edu/anesthesiology/fellowships/ped-anesthesiology/didactic-curriculum/grand-rounds-recording/",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -3725,7 +3766,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "OA-PA-OBESITY",
-          "UKY-PA-KEYWORD-REVIEW-1"
+          "UKY-PA-KEYWORD-REVIEW-1",
+          "MED-151-EXT-20261027-005"
         ]
       },
       {
@@ -3813,10 +3855,10 @@
     "boardStatus": "An ABA pediatric anesthesiology subspecialty exam and certification exist; ABA says it has offered the subspecialty since 2013. This is not a separate primary pediatric anesthesia specialty board or an ABP pediatric subspecialty board. Primary ABA certification sequence is distinct. No second pediatric-anesthesiology board was established by reviewed authoritative sources.",
     "boardEligibilityNotice": "Eligibility is determined only by ABA rules and the candidate’s primary certification/training route and credentials. ABA’s public exam page links current outline/blueprint and exam resources but this curriculum does not adjudicate an individual’s eligibility. Complete qualifying training and contact ABA for current rule/exception details. Completion of this independent course does not confer eligibility, examination access, board status or certification.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 13.150833333333333,
-    "verifiedSpecialtyHours": 10.29111111111111,
+    "verifiedExternalHours": 14.083333333333334,
+    "verifiedSpecialtyHours": 11.223611111111111,
     "verifiedFoundationHours": 2.859722222222222,
-    "hoursGap": 22.84916666666667,
+    "hoursGap": 21.916666666666664,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -4392,6 +4434,42 @@
         "durationSeconds": 2321,
         "sourceUrl": "https://www.youtube.com/watch?v=Afd7LN0-sGI",
         "accessVerified": true
+      },
+      {
+        "id": "MED-153-EXT-20261027-001",
+        "title": "Pediatric Neurocritical Care Educational Series - Predicting Neurological Complications in Pediatric Critical Care",
+        "url": "https://vimeo.com/1120812244",
+        "provider": "CCM Pitt",
+        "durationSeconds": 3710,
+        "sourceUrl": "https://vimeo.com/1120812244",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-153-EXT-20261027-002",
+        "title": "Septic Encephalopathy - Pediatric Neurocritical Care Educational Series",
+        "url": "https://vimeo.com/1201422637",
+        "provider": "CCM Pitt",
+        "durationSeconds": 3364,
+        "sourceUrl": "https://vimeo.com/1201422637",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-153-EXT-20261027-003",
+        "title": "Pediatric Intracerebral Hemorrhage: From Code Stroke to Long-Term Recovery",
+        "url": "https://vimeo.com/1191159741",
+        "provider": "CCM Pitt",
+        "durationSeconds": 3774,
+        "sourceUrl": "https://vimeo.com/1191159741",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-153-EXT-20261027-006",
+        "title": "Pediatric Neurocritical Care Educational Series - Point-of-care TCD",
+        "url": "https://vimeo.com/1165473269",
+        "provider": "CCM Pitt",
+        "durationSeconds": 3534,
+        "sourceUrl": "https://vimeo.com/1165473269",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -4423,7 +4501,8 @@
           "MED153-X053",
           "MED153-X054",
           "MED153-X056",
-          "MED153-X057"
+          "MED153-X057",
+          "MED-153-EXT-20261027-002"
         ]
       },
       {
@@ -4438,7 +4517,12 @@
         "number": 5,
         "text": "Neurologic emergencies, neurocritical care and traumatic brain injury",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-153-EXT-20261027-001",
+          "MED-153-EXT-20261027-002",
+          "MED-153-EXT-20261027-003",
+          "MED-153-EXT-20261027-006"
+        ]
       },
       {
         "number": 6,
@@ -4494,7 +4578,8 @@
           "MED153-X053",
           "MED153-X055",
           "MED153-X056",
-          "MED153-X057"
+          "MED153-X057",
+          "MED-153-EXT-20261027-006"
         ]
       },
       {
@@ -4517,10 +4602,10 @@
     "boardStatus": "Pediatric Critical Care Medicine is a distinct ABP subspecialty certification with a separate ABP certifying examination. ABP's page (updated 2026-09-15) requires three years of full-time broad-based fellowship in an ACGME- or RCPSC-accredited training program, scholarly activity, satisfactory program-director verification, and passing the subspecialty examination. This course confers no eligibility. ABP describes a separate, individually approved joint PCCM/anesthesiology pathway with ABA; that exceptional pathway is not this curriculum or a general dual-board entitlement.",
     "boardEligibilityNotice": "A course-completion certificate or this independent curriculum does not make anyone eligible for ABP or ABA certification. Candidates must satisfy current board-specific training, prior-certification, scholarly-activity, licensing, and other rules through qualifying accredited programs. Confirm current requirements directly with ABP/ABA.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 11.576666666666666,
-    "verifiedSpecialtyHours": 9.801388888888889,
+    "verifiedExternalHours": 15.571666666666667,
+    "verifiedSpecialtyHours": 13.796388888888888,
     "verifiedFoundationHours": 1.7752777777777777,
-    "hoursGap": 24.423333333333332,
+    "hoursGap": 20.428333333333335,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -4840,6 +4925,15 @@
         "durationSeconds": 2754,
         "sourceUrl": "https://www.youtube.com/watch?v=XZXYIOXsb4A",
         "accessVerified": true
+      },
+      {
+        "id": "MED-154-EXT-20261027-002",
+        "title": "7/9/2021 Dermatopathology for the win",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/1_dcbb3o7k",
+        "provider": "University of Utah Health, HSC MediaSpace",
+        "durationSeconds": 4331.984,
+        "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/1_dcbb3o7k",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -4939,7 +5033,9 @@
         "number": 12,
         "text": "Clinicopathologic reasoning, procedures, communication, QI, and scholarship",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-154-EXT-20261027-002"
+        ]
       }
     ],
     "family": "Pediatrics and pediatric subspecialties",
@@ -4951,10 +5047,10 @@
     "boardStatus": "Actual physician subspecialty: yes. ABD explicitly offers Pediatric Dermatology subspecialty certification and exam, dependent on primary ABD dermatology certification, an ACGME-accredited pediatric dermatology fellowship, unrestricted license and other current rules. AOBD separately advertises a DO subspecialty route; Boston Children’s says its fellowship accepts candidates eligible for ABD and Massachusetts licensure. This is not a generic directory-only label, combined programme, research-only appointment or non-physician supplement. No evidence of a Johns Hopkins variant was identified for this named track; the assigned institutional variant is Boston Children’s only.",
     "boardEligibilityNotice": "This independent course confers no ABD/AOBD board eligibility, exam credit, certification, licensure or accredited training. ABD requires primary ABD dermatology certification and additional ACGME-accredited pediatric dermatology fellowship training; current official criteria control. BCH states fellows must be eligible for ABD and Massachusetts medical licensure. AOBD is a distinct certifier/pathway. Verify with each board.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 26.325,
-    "verifiedSpecialtyHours": 22.81361111111111,
+    "verifiedExternalHours": 27.52832888888889,
+    "verifiedSpecialtyHours": 24.016939999999998,
     "verifiedFoundationHours": 3.511388888888889,
-    "hoursGap": 9.675,
+    "hoursGap": 8.47167111111111,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

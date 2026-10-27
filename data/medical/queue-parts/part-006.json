@@ -4566,6 +4566,51 @@
         "durationSeconds": 3765.32,
         "sourceUrl": "https://www.iaea.org/resources/webinar/radiation-protection-in-new-radionuclide-therapy-procedures",
         "accessVerified": true
+      },
+      {
+        "id": "MED-069-EXT-20261027-001",
+        "title": "Radiation Protection in Nuclear Medicine: Best Practice",
+        "url": "https://iaea.mediasite.com/Mediasite/Play/7918afe661544fd293e122f1b74e520f1d",
+        "provider": "International Atomic Energy Agency (IAEA)",
+        "durationSeconds": 4706.8,
+        "sourceUrl": "https://www.iaea.org/resources/webinar/radiation-protection-in-nuclear-medicine-best-practice",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-069-EXT-20261027-002",
+        "title": "Radiation Protection of Patients in Nuclear Medicine: Diagnostic Reference Levels and Accuracy of Activity Meters",
+        "url": "https://iaea.mediasite.com/Mediasite/Play/03b8103f620f465eadd18b6a85f11bc71d",
+        "provider": "International Atomic Energy Agency (IAEA)",
+        "durationSeconds": 4481.4400000000005,
+        "sourceUrl": "https://www.iaea.org/resources/webinar/radiation-protection-of-patients-in-nuclear-medicine-diagnostic-reference-levels-and-accuracy-of-activity-meters",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-069-EXT-20261027-003",
+        "title": "Artificial Intelligence in Radiation Protection of Patients: Diagnostic and therapeutic nuclear medicine",
+        "url": "https://iaea.mediasite.com/Mediasite/Play/c768ecacf4ab4cea85f910a016eaf0361d",
+        "provider": "International Atomic Energy Agency (IAEA)",
+        "durationSeconds": 3570,
+        "sourceUrl": "https://www.iaea.org/resources/webinar/artificial-intelligence-in-radiation-protection-of-patients-diagnostic-and-therapeutic-nuclear-medicine",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-069-EXT-20261027-004",
+        "title": "Release of Patients After Radionuclide Therapy: Radiation Protection Considerations",
+        "url": "https://iaea.mediasite.com/Mediasite/Play/041eef23b2e24bc29c275a4903379f1f1d",
+        "provider": "International Atomic Energy Agency (IAEA)",
+        "durationSeconds": 3403.7200000000003,
+        "sourceUrl": "https://www.iaea.org/resources/webinar/release-of-patients-after-radionuclide-therapy-radiation-protection-considerations",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-069-EXT-20261027-005",
+        "title": "Radionuclide therapy events: What we can learn and what to do?",
+        "url": "https://ns-files.iaea.org/video/rpop-webinar-july2020.mp4",
+        "provider": "International Atomic Energy Agency (IAEA)",
+        "durationSeconds": 3566.769211,
+        "sourceUrl": "https://www.iaea.org/resources/webinar/radionuclide-therapy-events-what-we-can-learn-and-what-to-do",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -4595,7 +4640,9 @@
           "IAEA-BPET-02",
           "MED069-UVA-TOTALBODY-PET-01",
           "MED069-HM-NUCLEAR-CARDIOLOGY-01",
-          "MED069-IAC-CARDIAC-PET-01"
+          "MED069-IAC-CARDIAC-PET-01",
+          "MED-069-EXT-20261027-002",
+          "MED-069-EXT-20261027-003"
         ]
       },
       {
@@ -4604,7 +4651,12 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "MED069-IAEA-RADIOPHARM-DOSIMETRY-01",
-          "MED069-IAEA-RP-NEW-RNT-01"
+          "MED069-IAEA-RP-NEW-RNT-01",
+          "MED-069-EXT-20261027-001",
+          "MED-069-EXT-20261027-002",
+          "MED-069-EXT-20261027-003",
+          "MED-069-EXT-20261027-004",
+          "MED-069-EXT-20261027-005"
         ]
       },
       {
@@ -4691,7 +4743,10 @@
           "MED069-PCRI-PSMA-01",
           "MED069-IAEA-RADIOPHARM-DOSIMETRY-01",
           "MED069-IAEA-BASIC-RNT-01",
-          "MED069-IAEA-RP-NEW-RNT-01"
+          "MED069-IAEA-RP-NEW-RNT-01",
+          "MED-069-EXT-20261027-003",
+          "MED-069-EXT-20261027-004",
+          "MED-069-EXT-20261027-005"
         ]
       },
       {
@@ -4707,7 +4762,9 @@
         "number": 12,
         "text": "Integrated synthesis, quality improvement and board-pathway literacy",
         "coverage": "mapped, not verified complete",
-        "lectureIds": []
+        "lectureIds": [
+          "MED-069-EXT-20261027-005"
+        ]
       }
     ],
     "family": "Imaging, radiology and nuclear medicine",
@@ -4719,10 +4776,10 @@
     "boardStatus": "Emory’s current public MIM page describes a combined diagnostic radiology and nuclear medicine residency track, with a stated goal of dual ABR/ABNM board eligibility/certification. The current ABNM rules allow an integrated diagnostic radiology route with 16 months (64 weeks) of nuclear medicine training during a four-year DR residency, subject to all requirements and board review. The ABR and ABNM are separate certifying boards and separate examinations/certifications. ABR exam format is in transition: the ABR page describes computer-based Certifying Exams in 2026–2027 and an oral exam after 2027. Individual eligibility is determined by the boards and accredited training, not by this course.",
     "boardEligibilityNotice": "This independent self-study course confers no ABR/ABNM eligibility, ACGME training credit, medical licensure, board certification, supervised interpretation/procedure competence, clinical case logs, NRC authorized-user status, radiation-safety authorization or institutional credentialing. The ABNM/NRC pathway requires supervised hands-on work, specified experience and attestation; online learning cannot supply these. Confirm current eligibility and requirements directly with ABR, ABNM, ACGME, the programme and applicable regulators. No exam pass or readiness is promised.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 22.387311111111114,
-    "verifiedSpecialtyHours": 16.233977777777778,
-    "verifiedFoundationHours": 6.153333333333333,
-    "hoursGap": 13.612688888888886,
+    "verifiedExternalHours": 27.86751366972223,
+    "verifiedSpecialtyHours": 19.1618914475,
+    "verifiedFoundationHours": 8.705622222222221,
+    "hoursGap": 8.132486330277771,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

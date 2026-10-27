@@ -1,3 +1,15 @@
+# Board Studio — external medical lecture increment
+
+Updated 27 October 2026. This additive increment adds **63 source-qualified external recordings**, totaling **59.63 unique measured hours** across **22 medical course records**. It creates no new original films. Select **Medicine → a course → University or All**; publisher-hosted lessons retain **Open source / Skip** fallbacks. These recordings remain at their publishers: ordinary public playback is not permission to copy them into Dropbox.
+
+All **242 ready originals** (149 base, 93 medical), **28 immutable approved readings**, **136 legacy development states**, earlier downloads, source records and clinical-review limitations are preserved. **136 measured 36-hour floors remain unmet**, totaling **2,906.40 overlapping record-hours**. None of these record-hour figures estimates unique media still required, nor does an hour floor establish topic, clinical or board completeness. The 118 older draft reviews, 8 source-unavailable records and 19 withheld practice-metadata items remain unresolved. Human clinician review was **not performed**; medicine is **not complete**.
+
+The current increment passed TypeScript checks, all 91 software tests, production build, all 384 workspace checks, all 333 reader endpoints and exact media/reading identity checks locally. Publication and live verification are separate operations. Existing original-medical films and study packages are being privately backed up under **Board Studio Medical** in Dropbox; backup copies add zero lecture hours, and earlier local/Drive copies remain protected.
+
+---
+
+## Previous increments below — historical facts, not current totals
+
 # Board Studio — cloud-first medical pilot
 
 Updated 27 October 2026. This three-film increment is locally validated; publication verification is tracked separately.

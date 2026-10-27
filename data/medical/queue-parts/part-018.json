@@ -327,6 +327,42 @@
         "durationSeconds": 11293,
         "sourceUrl": "https://advances.massgeneral.org/ortho/video.aspx?id=1216",
         "accessVerified": true
+      },
+      {
+        "id": "MED-205-EXT-20261027-003",
+        "title": "Hand Surgery Boot Camp – Part 1: The Basics",
+        "url": "https://vimeopro.com/tsrh/hand-surgery-boot-camp/video/688078791",
+        "provider": "Scottish Rite for Children",
+        "durationSeconds": 3652,
+        "sourceUrl": "https://vimeopro.com/tsrh/hand-surgery-boot-camp",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-205-EXT-20261027-004",
+        "title": "Hand Surgery Boot Camp – Part 2: Soft Tissues",
+        "url": "https://vimeopro.com/tsrh/hand-surgery-boot-camp/video/688121296",
+        "provider": "Scottish Rite for Children",
+        "durationSeconds": 2998,
+        "sourceUrl": "https://vimeopro.com/tsrh/hand-surgery-boot-camp",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-205-EXT-20261027-005",
+        "title": "Hand Surgery Boot Camp – Part 3: Hard Tissues",
+        "url": "https://vimeopro.com/tsrh/hand-surgery-boot-camp/video/688130109",
+        "provider": "Scottish Rite for Children",
+        "durationSeconds": 2982,
+        "sourceUrl": "https://vimeopro.com/tsrh/hand-surgery-boot-camp",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-205-EXT-20261027-006",
+        "title": "Hand Surgery Boot Camp – Part 4: The Nasties",
+        "url": "https://vimeopro.com/tsrh/hand-surgery-boot-camp/video/688136239",
+        "provider": "Scottish Rite for Children",
+        "durationSeconds": 2260,
+        "sourceUrl": "https://vimeopro.com/tsrh/hand-surgery-boot-camp",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -343,7 +379,8 @@
           "MED205-ADD-xoqgQhb1dSg",
           "MED205-ADD-9XeZ1g5WiPM",
           "MED205-ADD-U9VDdWK8gpE",
-          "MED205-ADD-7m3H6F2oUKs"
+          "MED205-ADD-7m3H6F2oUKs",
+          "MED-205-EXT-20261027-005"
         ]
       },
       {
@@ -365,7 +402,8 @@
           "MED205-ADD-9XeZ1g5WiPM",
           "MED205-ADD-U9VDdWK8gpE",
           "MED205-ADD-7m3H6F2oUKs",
-          "MED205-ADD-xu3QRpEwJBU"
+          "MED205-ADD-xu3QRpEwJBU",
+          "MED-205-EXT-20261027-005"
         ]
       },
       {
@@ -403,7 +441,8 @@
           "MED205-ADD-gJHR6yI2I10",
           "MED205-ADD-7m3H6F2oUKs",
           "MED205-ADD-6glTPi4ObRc",
-          "MED205-ADD-xu3QRpEwJBU"
+          "MED205-ADD-xu3QRpEwJBU",
+          "MED-205-EXT-20261027-005"
         ]
       },
       {
@@ -415,7 +454,8 @@
           "lecture-sqadia-hand-tendon-injuries",
           "MED205-ADD-y79DluW6FnM",
           "MED205-ADD-9XeZ1g5WiPM",
-          "MED205-ADD-gJHR6yI2I10"
+          "MED205-ADD-gJHR6yI2I10",
+          "MED-205-EXT-20261027-004"
         ]
       },
       {
@@ -431,7 +471,8 @@
           "MED205-ADD-xPImldszDKA",
           "MED205-ADD-9XeZ1g5WiPM",
           "MED205-ADD-gJHR6yI2I10",
-          "MED205-ADD-vC0XgHvQWXc"
+          "MED205-ADD-vC0XgHvQWXc",
+          "MED-205-EXT-20261027-004"
         ]
       },
       {
@@ -440,7 +481,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "lecture-whats-new-carilion",
-          "MED205-ADD-AFdC4VSgTuM"
+          "MED205-ADD-AFdC4VSgTuM",
+          "MED-205-EXT-20261027-003"
         ]
       },
       {
@@ -453,7 +495,9 @@
           "MED205-ADD-AFdC4VSgTuM",
           "MED205-ADD-xDEcMBAKvx8",
           "MED205-ADD-9XeZ1g5WiPM",
-          "MED205-ADD-U9VDdWK8gpE"
+          "MED205-ADD-U9VDdWK8gpE",
+          "MED-205-EXT-20261027-003",
+          "MED-205-EXT-20261027-006"
         ]
       },
       {
@@ -493,7 +537,8 @@
           "MED205-ADD-xoqgQhb1dSg",
           "MED205-ADD-gJHR6yI2I10",
           "MED205-ADD-7m3H6F2oUKs",
-          "MED205-ADD-vC0XgHvQWXc"
+          "MED205-ADD-vC0XgHvQWXc",
+          "MED-205-EXT-20261027-004"
         ]
       },
       {
@@ -514,10 +559,10 @@
     "boardStatus": "This is an ACGME-recognized physician fellowship specialty area. Johns Hopkins identifies its one-year fellowship as ACGME accredited. Surgery of the Hand has separate subspecialty examination/certification pathways through ABOS/ABPS; it is not a primary residency board. Certification is conditional on each board’s current primary certification, case, application and other requirements.",
     "boardEligibilityNotice": "Johns Hopkins says fellows must be board eligible at entry and graduates are eligible to apply for the hand certification examination through their individual board; this self-study curriculum creates no eligibility, credential or case-list credit. ABOS currently describes an earlier examination timing pathway after fellowship, while primary certification and case requirements still govern certification. Check ABOS and ABPS rules for the specific applicant/year; do not infer automatic or dual-board certification.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 23.87611111111111,
-    "verifiedSpecialtyHours": 17.578055555555554,
+    "verifiedExternalHours": 27.179444444444446,
+    "verifiedSpecialtyHours": 20.88138888888889,
     "verifiedFoundationHours": 6.298055555555556,
-    "hoursGap": 12.123888888888889,
+    "hoursGap": 8.820555555555554,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2123,6 +2168,24 @@
         "durationSeconds": 1775,
         "sourceUrl": "https://www.youtube.com/watch?v=9Vh6TzGhn1A",
         "accessVerified": true
+      },
+      {
+        "id": "MED-208-EXT-20261027-002",
+        "title": "Genes, Hands, Nerves, and Brains",
+        "url": "https://podcasts.ox.ac.uk/genes-hands-nerves-and-brains?video=1",
+        "provider": "University of Oxford Podcasts / Nuffield Department of Surgical Sciences",
+        "durationSeconds": 2338.04,
+        "sourceUrl": "https://podcasts.ox.ac.uk/genes-hands-nerves-and-brains",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-208-EXT-20261027-003",
+        "title": "Helping with breathing and eating – reconstruction of the temporomandibular joint",
+        "url": "https://podcasts.ox.ac.uk/helping-breathing-and-eating-reconstruction-temporomandibular-joint?video=1",
+        "provider": "University of Oxford Podcasts / Nuffield Department of Surgical Sciences",
+        "durationSeconds": 2417.8,
+        "sourceUrl": "https://podcasts.ox.ac.uk/helping-breathing-and-eating-reconstruction-temporomandibular-joint",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -2188,7 +2251,8 @@
           "MED-208-ADD-07",
           "MED-208-ADD-09",
           "MED-208-ADD-11",
-          "MED-208-ADD-12"
+          "MED-208-ADD-12",
+          "MED-208-EXT-20261027-002"
         ]
       },
       {
@@ -2202,7 +2266,8 @@
           "MED-208-ADD-04",
           "MED-208-ADD-08",
           "MED-208-ADD-14",
-          "MED-208-ADD-15"
+          "MED-208-ADD-15",
+          "MED-208-EXT-20261027-003"
         ]
       },
       {
@@ -2280,10 +2345,10 @@
     },
     "boardEligibilityNotice": "Independent educational self-study does not create ABPS or other board eligibility, certification, accredited training, licensure, procedural competence or supervision. ABPS has written and oral examination steps, and only ABPS determines a candidate’s eligibility under current rules. Confirm all current pathway details directly with ABPS.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 21.559722222222224,
-    "verifiedSpecialtyHours": 20.343333333333334,
+    "verifiedExternalHours": 22.880788888888887,
+    "verifiedSpecialtyHours": 21.6644,
     "verifiedFoundationHours": 1.216388888888889,
-    "hoursGap": 14.440277777777776,
+    "hoursGap": 13.119211111111113,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
