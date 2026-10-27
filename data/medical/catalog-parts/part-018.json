@@ -11952,7 +11952,8 @@
           "VBWTMR8GZ5Q",
           "r1ltM1Cn6iQ",
           "MNj8IeDe2F4",
-          "HrRVj2TbuJs"
+          "HrRVj2TbuJs",
+          "MED-209-EXT-PUB-20261027-004"
         ],
         "casePractice": "Use a fictional text-only unit 11 vignette: state given facts, missing information, domain and evidence limits; discuss goals/options and when licensed-team input is necessary. No procedural steps or patient-specific advice.",
         "assessment": {
@@ -12605,6 +12606,49 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute or rehost publisher media.",
         "coverageNote": "Link out only; do not download/rehost or reproduce graphic pressure-injury or operative images. Lecture includes images of pressure injuries/surgery; it discusses care in a spinal-cord-injury context and does not authorize procedures or replace current guidance."
+      },
+      {
+        "publicationDate": null,
+        "permittedPublicDownloadUrl": null,
+        "title": "Peripheral Nerve Trauma",
+        "humanClinicalReviewStatus": "not performed",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/0_x5lolrhn",
+        "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/0_x5lolrhn",
+        "rightsStatus": "unknown; no copying permission established",
+        "accessVerified": true,
+        "durationEvidenceMethod": "Visible native HSC MediaSpace/Kaltura player control bar displayed 01:01:07, converted to 3667 seconds.",
+        "durationEvidenceUrl": "https://hsc.mediaspace.utah.edu/media/t/0_x5lolrhn",
+        "accessEmbeddingNotes": "Use only the individual public publisher page as a narrow supplemental resource; it is not a complete course. Do not download, extract, rehost, or infer redistribution permission from public playback.",
+        "id": "MED-209-EXT-PUB-20261027-004",
+        "licenceEvidenceUrl": null,
+        "category": "specialty",
+        "relevanceEvidence": [
+          {
+            "text": "Visible lecture content at the paused 00:29 frame states: \"START WITH CONCLUSIONS — Nerves have the innate capacity to regenerate.\" This directly and narrowly supports MED-209 Unit 11, whose title and topics address nerve reconstruction and nerves; it does not establish coverage of the other units.",
+            "url": "https://hsc.mediaspace.utah.edu/media/t/0_x5lolrhn"
+          }
+        ],
+        "playbackEvidence": {
+          "afterCurrentTimeSeconds": 29,
+          "beforeCurrentTimeSeconds": 13,
+          "durationSeconds": 3667,
+          "normalControl": "Visible native Kaltura Pause control was used at 00:13; the visible native Play control was used; then the visible native Pause control was used again at 00:29, leaving the player paused.",
+          "observedAtUtc": "2026-10-27T07:46:17Z"
+        },
+        "provider": "University of Utah Health, HSC MediaSpace",
+        "channel": "Grand Rounds- Neurosurgery",
+        "freeAccessStatus": "Public viewing verified. Observed playable as GUEST without sign-in, payment, registration, or access gate on 2026-10-27; this establishes viewing access only, not reuse permission.",
+        "licenceEvidenceText": null,
+        "coverageUnits": [
+          11
+        ],
+        "observedDurationSeconds": 3667,
+        "durationSeconds": 3667,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Use only the individual public publisher page as a narrow supplemental resource; it is not a complete course. Do not download, extract, rehost, or infer redistribution permission from public playback."
       }
     ],
     "unitMap": [
@@ -12768,7 +12812,8 @@
           "VBWTMR8GZ5Q",
           "r1ltM1Cn6iQ",
           "MNj8IeDe2F4",
-          "HrRVj2TbuJs"
+          "HrRVj2TbuJs",
+          "MED-209-EXT-PUB-20261027-004"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -12798,7 +12843,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 18.692,
+      "hoursToTarget": 17.673,
       "topicGaps": [
         "36-hour freely accessible, runtime-observed specialty-video floor remains unmet: 7.698611 verified specialty hours; residual is 28.301389 hours. Authored scripts and target production minutes are not rendered videos and count as zero.",
         "Public lecture coverage improved for head/neck virtual planning, lymphatic/microsurgery, scarring/wound biology, cleft care, and breast reconstruction. No public video search established a full rotation-level curriculum or the full seven-year Hopkins didactic archive.",
@@ -14140,10 +14185,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 17.308055555555555,
-      "verifiedSpecialtyHours": 17.308055555555555,
+      "verifiedExternalHours": 18.326666666666668,
+      "verifiedSpecialtyHours": 18.326666666666668,
       "verifiedFoundationHours": 0,
-      "hoursGap": 18.691944444444445,
+      "hoursGap": 17.673333333333332,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
@@ -14794,7 +14839,8 @@
           "PRS-PATEL-LYMPHEDEMA-2021",
           "PRS-TMR-NEUROMA",
           "PRS-FACIAL-REANIMATION",
-          "PRS-CHANG-LYMPHEDEMA-2017"
+          "PRS-CHANG-LYMPHEDEMA-2017",
+          "MED-210-EXT-PUB-20261027-004"
         ],
         "casePractice": "Fictional symptom/function scenario: propose outcome domains and uncertainties; no diagnosis or procedural indication.",
         "assessment": {
@@ -15475,6 +15521,49 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Link only to the publisher-hosted YouTube page; do not download, copy, rehost, or reuse video, patient material, or images. Public viewing does not establish reuse permission. The description also links to a commercial trainer; the staged item is accepted only as a substantive 54:35 specialty teaching recording, not as an endorsement of a product."
+      },
+      {
+        "publicationDate": null,
+        "permittedPublicDownloadUrl": null,
+        "title": "Peripheral Nerve Trauma",
+        "humanClinicalReviewStatus": "not performed",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/0_x5lolrhn",
+        "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/0_x5lolrhn",
+        "rightsStatus": "unknown; no copying permission established",
+        "accessVerified": true,
+        "durationEvidenceMethod": "Visible native HSC MediaSpace/Kaltura player control bar displayed 01:01:07, converted to 3667 seconds.",
+        "durationEvidenceUrl": "https://hsc.mediaspace.utah.edu/media/t/0_x5lolrhn",
+        "accessEmbeddingNotes": "Use only the individual public publisher page as a narrow supplemental resource; it is not a complete course. Do not download, extract, rehost, or infer redistribution permission from public playback.",
+        "id": "MED-210-EXT-PUB-20261027-004",
+        "licenceEvidenceUrl": null,
+        "category": "specialty",
+        "relevanceEvidence": [
+          {
+            "text": "Visible lecture content at the paused 00:29 frame states: \"START WITH CONCLUSIONS — Nerves have the innate capacity to regenerate.\" This directly and narrowly supports MED-210 Unit 9, which covers the biological objectives and physiology of nerve repair/transfer; it does not establish coverage of other fellowship units.",
+            "url": "https://hsc.mediaspace.utah.edu/media/t/0_x5lolrhn"
+          }
+        ],
+        "playbackEvidence": {
+          "afterCurrentTimeSeconds": 29,
+          "beforeCurrentTimeSeconds": 13,
+          "durationSeconds": 3667,
+          "normalControl": "Visible native Kaltura Pause control was used at 00:13; the visible native Play control was used; then the visible native Pause control was used again at 00:29, leaving the player paused.",
+          "observedAtUtc": "2026-10-27T07:46:17Z"
+        },
+        "provider": "University of Utah Health, HSC MediaSpace",
+        "channel": "Grand Rounds- Neurosurgery",
+        "freeAccessStatus": "Public viewing verified. Observed playable as GUEST without sign-in, payment, registration, or access gate on 2026-10-27; this establishes viewing access only, not reuse permission.",
+        "licenceEvidenceText": null,
+        "coverageUnits": [
+          9
+        ],
+        "observedDurationSeconds": 3667,
+        "durationSeconds": 3667,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Use only the individual public publisher page as a narrow supplemental resource; it is not a complete course. Do not download, extract, rehost, or infer redistribution permission from public playback."
       }
     ],
     "unitMap": [
@@ -15599,7 +15688,8 @@
           "PRS-PATEL-LYMPHEDEMA-2021",
           "PRS-TMR-NEUROMA",
           "PRS-FACIAL-REANIMATION",
-          "PRS-CHANG-LYMPHEDEMA-2017"
+          "PRS-CHANG-LYMPHEDEMA-2017",
+          "MED-210-EXT-PUB-20261027-004"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -15648,7 +15738,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 20.831,
+      "hoursToTarget": 19.813,
       "topicGaps": [
         "No recording has a publicly observed, independently retrievable numeric runtime in this audit; the existing six unverified items remain excluded and no new duration-qualified item was found. Verified external video hours remain 0/36; residual gap 36 hours.",
         "Full-length, runtime-verified free recording coverage remains insufficient or unverified across the core and subspecialty domains (anatomy, breast, head/neck, extremity, lymphatic/nerve, monitoring, failure, evidence and ethics).",
@@ -16213,10 +16303,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 15.168611111111112,
-      "verifiedSpecialtyHours": 13.252222222222223,
+      "verifiedExternalHours": 16.18722222222222,
+      "verifiedSpecialtyHours": 14.270833333333334,
       "verifiedFoundationHours": 1.916388888888889,
-      "hoursGap": 20.83138888888889,
+      "hoursGap": 19.81277777777778,
       "unknownDurationItems": [
         {
           "id": "BUNCKE-LEV-2020",

@@ -2603,6 +2603,15 @@
         "durationSeconds": 3562,
         "sourceUrl": "https://www.youtube.com/watch?v=8Ig4C_-iaXA",
         "accessVerified": true
+      },
+      {
+        "id": "MED-209-EXT-PUB-20261027-004",
+        "title": "Peripheral Nerve Trauma",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/0_x5lolrhn",
+        "provider": "University of Utah Health, HSC MediaSpace",
+        "durationSeconds": 3667,
+        "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/0_x5lolrhn",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -2718,7 +2727,8 @@
           "VBWTMR8GZ5Q",
           "r1ltM1Cn6iQ",
           "MNj8IeDe2F4",
-          "HrRVj2TbuJs"
+          "HrRVj2TbuJs",
+          "MED-209-EXT-PUB-20261027-004"
         ]
       },
       {
@@ -2744,10 +2754,10 @@
     "boardStatus": "A distinct ABPS Plastic Surgery certification exists. The ABPS calls the written exam cognitive and the oral exam an assessment of reasoning, judgment and problem-solving; both are required for certification. ABPS states six years of requisite integrated plastic-surgery training; Hopkins lists its integrated program as seven years total, six clinical and one mandatory research year. These descriptions are not contradictory: one reports total institutional program length, the other minimum plastic-surgery training. Formal ABPS review/admissibility, current license, privileges and other requirements apply. No separate board exam is asserted for hand, burn, craniofacial or microsurgery generic tracks or the research year. Checked 2026-10-07.",
     "boardEligibilityNotice": "This course grants no board examination eligibility/admissibility. ABPS requires its formal approval and current pathway, training, licensure and privilege requirements. Independent self-study does not confer ACGME/RCPSC training, medical degree/prerequisites, supervised case volume, operative competence, state license, ABPS eligibility/certification or a passing guarantee.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 17.308055555555555,
-    "verifiedSpecialtyHours": 17.308055555555555,
+    "verifiedExternalHours": 18.326666666666668,
+    "verifiedSpecialtyHours": 18.326666666666668,
     "verifiedFoundationHours": 0,
-    "hoursGap": 18.691944444444445,
+    "hoursGap": 17.673333333333332,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -2982,6 +2992,15 @@
         "durationSeconds": 3275,
         "sourceUrl": "https://www.youtube.com/watch?v=XuPcLz5Uwjc",
         "accessVerified": true
+      },
+      {
+        "id": "MED-210-EXT-PUB-20261027-004",
+        "title": "Peripheral Nerve Trauma",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/0_x5lolrhn",
+        "provider": "University of Utah Health, HSC MediaSpace",
+        "durationSeconds": 3667,
+        "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/0_x5lolrhn",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -3075,7 +3094,8 @@
           "PRS-PATEL-LYMPHEDEMA-2021",
           "PRS-TMR-NEUROMA",
           "PRS-FACIAL-REANIMATION",
-          "PRS-CHANG-LYMPHEDEMA-2017"
+          "PRS-CHANG-LYMPHEDEMA-2017",
+          "MED-210-EXT-PUB-20261027-004"
         ]
       },
       {
@@ -3113,10 +3133,10 @@
     "boardStatus": "No separate reconstructive microsurgery board examination/ABMS certification identified in sources checked 2026-10-07. ABPS plastic surgery written/oral examination outlines include microsurgery and reconstruction domains; hand surgery and craniofacial surgery have distinct ACGME programme requirements, not equivalent to microsurgery board status.",
     "boardEligibilityNotice": "The BIDMC fellowship page states applicants must have completed plastic surgery residency and meet Massachusetts licensure and BIDMC credentialing requirements. This independent curriculum confers no eligibility for ABPS or any other examination; board eligibility must be determined by the relevant board.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 15.168611111111112,
-    "verifiedSpecialtyHours": 13.252222222222223,
+    "verifiedExternalHours": 16.18722222222222,
+    "verifiedSpecialtyHours": 14.270833333333334,
     "verifiedFoundationHours": 1.916388888888889,
-    "hoursGap": 20.83138888888889,
+    "hoursGap": 19.81277777777778,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

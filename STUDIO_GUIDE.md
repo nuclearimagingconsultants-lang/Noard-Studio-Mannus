@@ -1,3 +1,15 @@
+# Board Studio — final medical publication snapshot
+
+Prepared 27 October 2026. The latest verified increment adds one public University of Utah **Peripheral Nerve Trauma** recording, **61 minutes 7 seconds**, assigned narrowly to MED-209 Unit 11 and MED-210 Unit 9. It is one unique recording, not two hours of distinct video. Publisher media remains at its source; public viewing does not establish permission to copy or redistribute it. The earlier 63-recording increment is retained.
+
+All **242 ready originals** (149 base and 93 medical), **28 approved readings**, **136 legacy development states**, existing downloads and native players remain unchanged. **136 medical hour targets remain unmet**, with **2,904.36 overlapping record-hours** remaining. The 118 pending draft source reviews, 8 source-unavailable records and 19 withheld practice-metadata items remain unresolved. Human clinician review was **not performed**. This is independent self-study; medicine is **not complete**, and neither hour totals nor software checks establish clinical competence, board eligibility/certification or a passing guarantee.
+
+The latest publication is being finalized after software, source-preservation and live-release checks. Dropbox holds 89 of 93 original medical MP4s with remote size verification; four films and two supporting archives remain pending. Remote file sizes alone are not cryptographic backup verification. No new publisher video is copied into Dropbox, and no local study file is deleted in this increment.
+
+---
+
+## Previous increments below — historical snapshots, not current totals
+
 # Board Studio — external medical lecture increment
 
 Updated 27 October 2026. This additive increment adds **63 source-qualified external recordings**, totaling **59.63 unique measured hours** across **22 medical course records**. It creates no new original films. Select **Medicine → a course → University or All**; publisher-hosted lessons retain **Open source / Skip** fallbacks. These recordings remain at their publishers: ordinary public playback is not permission to copy them into Dropbox.
