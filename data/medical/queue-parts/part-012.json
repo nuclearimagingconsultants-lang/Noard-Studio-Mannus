@@ -4127,6 +4127,42 @@
         "durationSeconds": 361,
         "sourceUrl": "https://www.youtube.com/@glomcon",
         "accessVerified": true
+      },
+      {
+        "id": "MED-135-EXT-20261027-001",
+        "title": "The Birth and Evolution of Medical Renal Pathology",
+        "url": "https://medicine.yale.edu/pathology/media-player/the-birth-and-evolution-of-medical-renal-pathology/",
+        "provider": "Yale School of Medicine, Department of Pathology",
+        "durationSeconds": 3289,
+        "sourceUrl": "https://medicine.yale.edu/pathology/media-player/the-birth-and-evolution-of-medical-renal-pathology/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-135-EXT-20261027-002",
+        "title": "Approach to Interpreting Kidney Histology: A Discussion",
+        "url": "https://player.vimeo.com/video/716943147?h=b74b9d3491",
+        "provider": "AJKD Blog, official blog of the American Journal of Kidney Diseases",
+        "durationSeconds": 2120,
+        "sourceUrl": "https://ajkdblog.org/2022/11/16/approach-to-interpreting-kidney-histology-a-discussion/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-135-EXT-20261027-003",
+        "title": "Non-neoplastic Kidney Pathology for the General Surgical Pathologist",
+        "url": "https://arup.utah.edu/media/barry-kidneyPath-pcap20/videoLecture",
+        "provider": "University of Utah Department of Pathology / ARUP Laboratories",
+        "durationSeconds": 3715.503458,
+        "sourceUrl": "https://arup.utah.edu/education/barry-kidneypath-pcap20",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-135-EXT-20261027-005",
+        "title": "IgA Dominant Infection Associated Glomerulonephritis",
+        "url": "https://vimeo.com/184928133",
+        "provider": "Vimeo",
+        "durationSeconds": 799.6989,
+        "sourceUrl": "https://vimeo.com/184928133",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -4135,7 +4171,8 @@
         "text": "Specimen triage, adequacy, and laboratory workflow",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "L2"
+          "L2",
+          "MED-135-EXT-20261027-002"
         ]
       },
       {
@@ -4165,7 +4202,9 @@
           "L9",
           "MED135-ADD-018",
           "MED135-ADD-019",
-          "MED135-ADD-020"
+          "MED135-ADD-020",
+          "MED-135-EXT-20261027-001",
+          "MED-135-EXT-20261027-002"
         ]
       },
       {
@@ -4191,7 +4230,8 @@
           "L4",
           "L5",
           "L6",
-          "MED135-ADD-020"
+          "MED135-ADD-020",
+          "MED-135-EXT-20261027-005"
         ]
       },
       {
@@ -4234,7 +4274,8 @@
           "L5",
           "L6",
           "L9",
-          "MED135-ADD-019"
+          "MED135-ADD-019",
+          "MED-135-EXT-20261027-003"
         ]
       },
       {
@@ -4258,7 +4299,8 @@
         "text": "Autopsy/excision, synthesis, and board-style visual reasoning",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "MED135-ADD-018"
+          "MED135-ADD-018",
+          "MED-135-EXT-20261027-003"
         ]
       }
     ],
@@ -4270,10 +4312,10 @@
     "boardStatus": "Johns Hopkins states the renal pathology fellowship is ACGME-accredited for one year; a second year emphasizing research is case-by-case and non-ACGME-accredited. ABPath publishes a renal pathology resident competency-expectations document, but renal pathology is not listed among ABPath subspecialty certification examinations as of 2026-10-07; there is no separate ABPath renal pathology board exam identified.",
     "boardEligibilityNotice": "Hopkins states applicants must be board eligible or board certified in AP or AP/CP from an ACGME-accredited residency. This describes that specific program, not a general eligibility determination. This independent course confers no board eligibility.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 33.17472222222222,
-    "verifiedSpecialtyHours": 31.275555555555556,
+    "verifiedExternalHours": 35.931445099444446,
+    "verifiedSpecialtyHours": 34.03227843277778,
     "verifiedFoundationHours": 1.8991666666666667,
-    "hoursGap": 2.825277777777778,
+    "hoursGap": 0.06855490055555435,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -6460,7 +6502,7 @@
       "planHours": 120,
       "note": "Suggested self-study plan: 36 video lecture hours are a target only and no external video hours are currently verified; allocate 48 hours reading, 20 hours case/assessment work, 16 hours review and synthesis. These are learner planning estimates, not observed media durations or clinical training time."
     },
-    "coverageStatus": "incomplete_lecture_hours",
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
     "syllabusUrl": "/manus-storage/MED-140_f0c34bad.pdf",
     "pdfIds": [
       "med-syllabus-MED-140",
@@ -6794,6 +6836,51 @@
         "durationSeconds": 3431.2,
         "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/grand-rounds-6-4-24/",
         "accessVerified": true
+      },
+      {
+        "id": "MED-140-EXT-20261027-009",
+        "title": "Postdoctoral Fellowship in Childhood Neuropsychiatric Disorders (T32) Trainee Talks",
+        "url": "https://medicine.yale.edu/childstudy/media-player/05-26-2026-grand-roundst32-trainee-talks/",
+        "provider": "Yale School of Medicine, Child Study Center",
+        "durationSeconds": 4036.32,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/05-26-2026-grand-roundst32-trainee-talks/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-140-EXT-20261027-010",
+        "title": "Postdoctoral Fellowship in Childhood Neuropsychiatric Disorders (T32) Trainee Talks",
+        "url": "https://medicine.yale.edu/childstudy/media-player/04-29-2025-grand-rounds-t32-trainee-talks/",
+        "provider": "Yale School of Medicine, Child Study Center",
+        "durationSeconds": 2960.36,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/04-29-2025-grand-rounds-t32-trainee-talks/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-140-EXT-20261027-011",
+        "title": "Babies and Autism: Advances in Research and Clinical Care",
+        "url": "https://medicine.yale.edu/childstudy/media-player/2-23-22-webinar-babies-and-autism/",
+        "provider": "Yale School of Medicine, Child Study Center",
+        "durationSeconds": 3138.28,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/2-23-22-webinar-babies-and-autism/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-140-CLINICAL-20261027-001",
+        "title": "Child Study Center Grand Rounds 02.16.2021 — Using Meta-Analysis to Guide Assessment and Treatment of ADHD",
+        "url": "https://medicine.yale.edu/childstudy/media-player/child-study-center-grand-round-02162021/",
+        "provider": "Yale School of Medicine, Child Study Center",
+        "durationSeconds": 3359.56,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/child-study-center-grand-round-02162021/",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-140-CLINICAL-20261027-002",
+        "title": "Eating Disorders in Complex Adolescents",
+        "url": "https://medicine.yale.edu/childstudy/media-player/eatingdisorders/",
+        "provider": "Yale School of Medicine, Child Study Center",
+        "durationSeconds": 2834.28,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/eatingdisorders/",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -6817,7 +6904,9 @@
           "YT-zMicGn7DR2A",
           "YT-VM8K5fsL4nA",
           "YT-00NaItJxtTc",
-          "MED-140-EXT-20261027-007"
+          "MED-140-EXT-20261027-007",
+          "MED-140-EXT-20261027-009",
+          "MED-140-EXT-20261027-011"
         ]
       },
       {
@@ -6825,7 +6914,8 @@
         "text": "ADHD, disruptive behavior and school systems",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "YT-6qpyqdiuz9k"
+          "YT-6qpyqdiuz9k",
+          "MED-140-CLINICAL-20261027-001"
         ]
       },
       {
@@ -6843,7 +6933,8 @@
         "coverage": "mapped, not verified complete",
         "lectureIds": [
           "MED-140-EXT-20261027-001",
-          "MED-140-EXT-20261027-004"
+          "MED-140-EXT-20261027-004",
+          "MED-140-EXT-20261027-010"
         ]
       },
       {
@@ -6898,7 +6989,8 @@
           "YT-mmnBxrc3wlY",
           "YT-FHNtQX0Kv0A",
           "YT-L_ocJMkPxWM",
-          "MED-140-EXT-20261027-008"
+          "MED-140-EXT-20261027-008",
+          "MED-140-CLINICAL-20261027-002"
         ]
       },
       {
@@ -6942,10 +7034,10 @@
     "boardStatus": "Separate ABPN subspecialty certification exam exists. ABPN states applicants must hold Psychiatry certification by the deadline, complete two full years (24 calendar months) of CAP subspecialty training in qualifying accredited programmes (with defined exceptional pathways and detailed rules), meet clinical skills evaluation and license conditions. Programme-specific accreditation/eligibility was not independently verified for both packet-listed sites; consult current ABPN requirements and ACGME directory.",
     "boardEligibilityNotice": "This independent self-study course confers no ABPN eligibility. ABPN requirements are date-sensitive; as checked 2026-10-07, ABPN describes CAP as a psychiatry subspecialty, requires Psychiatry certification by the year before the CAP exam and two full years of CAP training subject to published detailed rules, plus clinical skills evaluations and unrestricted license. Verify exact individual eligibility directly with ABPN and the programme.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 32.06887777777777,
-    "verifiedSpecialtyHours": 27.664711111111103,
+    "verifiedExternalHours": 36.60465555555555,
+    "verifiedSpecialtyHours": 32.200488888888884,
     "verifiedFoundationHours": 4.404166666666667,
-    "hoursGap": 3.9311222222222284,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

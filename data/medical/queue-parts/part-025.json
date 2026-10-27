@@ -791,7 +791,7 @@
       "totalCurrentStudyPlanHours": 93.97,
       "note": "Study-hours other than verified video hours are planning allocations only, not measured contact time. The additional 14.25 h is an original-film plan and is NOT available/ready/verified or counted; target plan rounds above the measured gap by 0.222222 h, but no planned film is included in current video totals."
     },
-    "coverageStatus": "incomplete_lecture_hours",
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
     "syllabusUrl": "/manus-storage/MED-X074_ec0cae4d.pdf",
     "pdfIds": [
       "med-syllabus-MED-X074",
@@ -1232,6 +1232,51 @@
         "durationSeconds": 2541,
         "sourceUrl": "https://www.youtube.com/watch?v=4clL0W5TGCg",
         "accessVerified": true
+      },
+      {
+        "id": "MED-X074-UTHEALTH-VIMEO-939719970",
+        "title": "Defining \"Disease Control\" for Chronic Rhinosinusitis (UTHealth Houston ORL GR, 2024-04-25)",
+        "url": "https://vimeo.com/939719970",
+        "provider": "UTHealth ORL",
+        "durationSeconds": 3873,
+        "sourceUrl": "https://vimeo.com/939719970",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X074-UTHEALTH-VIMEO-786637365",
+        "title": "Emerging Biologics in the Management of Chronic Rhinosinusitis with Nasal Polyposis (UTHealth Houston ORL GR, 2022-12-29)",
+        "url": "https://vimeo.com/786637365",
+        "provider": "UTHealth ORL",
+        "durationSeconds": 3255,
+        "sourceUrl": "https://vimeo.com/786637365",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X074-UTHEALTH-VIMEO-1147125061",
+        "title": "SNOT on the Clock: Does Time to Endoscopic Sinus Surgery Affect Patient Outcomes? (UTHealth Houston ORL GR, 2025-12-11)",
+        "url": "https://vimeo.com/1147125061",
+        "provider": "UTHealth ORL",
+        "durationSeconds": 3368,
+        "sourceUrl": "https://vimeo.com/1147125061",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X074-UTHEALTH-VIMEO-823441810",
+        "title": "Management of the Nasal Valve (UTHealth Houston ORL GR, 2023-04-27)",
+        "url": "https://vimeo.com/823441810",
+        "provider": "UTHealth ORL",
+        "durationSeconds": 3866,
+        "sourceUrl": "https://vimeo.com/823441810",
+        "accessVerified": true
+      },
+      {
+        "id": "MED-X074-UTHEALTH-VIMEO-913514275",
+        "title": "Management of Caudal Septal Deformities (UTHealth Houston ORL GR, 2024-02-08)",
+        "url": "https://vimeo.com/913514275",
+        "provider": "UTHealth ORL",
+        "durationSeconds": 3232,
+        "sourceUrl": "https://vimeo.com/913514275",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -1272,7 +1317,8 @@
           "MED-X074-HC006",
           "MED-X074-HC007",
           "MED-X074-HC008",
-          "MED-X074-HC009"
+          "MED-X074-HC009",
+          "MED-X074-UTHEALTH-VIMEO-939719970"
         ]
       },
       {
@@ -1298,7 +1344,8 @@
           "V31",
           "V38",
           "V41",
-          "MED-X074-HC007"
+          "MED-X074-HC007",
+          "MED-X074-UTHEALTH-VIMEO-786637365"
         ]
       },
       {
@@ -1324,7 +1371,9 @@
           "V29",
           "V30",
           "V40",
-          "MED-X074-HC008"
+          "MED-X074-HC008",
+          "MED-X074-UTHEALTH-VIMEO-823441810",
+          "MED-X074-UTHEALTH-VIMEO-913514275"
         ]
       },
       {
@@ -1338,7 +1387,8 @@
           "V16",
           "V39",
           "V40",
-          "MED-X074-HC007"
+          "MED-X074-HC007",
+          "MED-X074-UTHEALTH-VIMEO-1147125061"
         ]
       },
       {
@@ -1403,10 +1453,10 @@
     },
     "boardEligibilityNotice": "This independent course cannot establish ABOHNS eligibility, MEE fellowship eligibility, ACGME completion/accreditation, a qualifying prior residency, medical licensure, supervised experience/case volume, clinical or procedural competence, or certification. Rhinology has no separate ABOHNS subcertification/board exam listed as of 2026-10-07. Consult MEE, ACGME and ABOHNS directly for current programme/accreditation/eligibility facts.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 31.581666666666667,
-    "verifiedSpecialtyHours": 29.801944444444445,
+    "verifiedExternalHours": 36.46888888888889,
+    "verifiedSpecialtyHours": 34.689166666666665,
     "verifiedFoundationHours": 1.7797222222222222,
-    "hoursGap": 4.418333333333333,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -1421,7 +1471,7 @@
       "unknownDurationCount": 0,
       "lectureEvidenceValid": true,
       "hasExternalLectureEvidence": true,
-      "isReady": false
+      "isReady": true
     }
   },
   {

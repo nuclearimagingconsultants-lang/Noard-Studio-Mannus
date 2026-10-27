@@ -3207,7 +3207,8 @@
           "MED-X074-HC006",
           "MED-X074-HC007",
           "MED-X074-HC008",
-          "MED-X074-HC009"
+          "MED-X074-HC009",
+          "MED-X074-UTHEALTH-VIMEO-939719970"
         ],
         "casePractice": "Use fictional symptom and endoscopy/CT summaries; classify missing objective information and alternative diagnoses.",
         "assessment": "A structured diagnosis/evidence matrix graded for symptom/objective separation. Sources R7,R8,R16.",
@@ -3270,7 +3271,8 @@
           "V31",
           "V38",
           "V41",
-          "MED-X074-HC007"
+          "MED-X074-HC007",
+          "MED-X074-UTHEALTH-VIMEO-786637365"
         ],
         "casePractice": "Fictional CRSwNP + asthma scenario: identify phenotype-relevant facts, missing information and guideline source; do not write a prescription or certify eligibility.",
         "assessment": "Biologic/AERD evidence brief graded on current source, qualification, comorbidity and uncertainty. Sources R7,R8,R16.",
@@ -3333,7 +3335,9 @@
           "V29",
           "V30",
           "V40",
-          "MED-X074-HC008"
+          "MED-X074-HC008",
+          "MED-X074-UTHEALTH-VIMEO-823441810",
+          "MED-X074-UTHEALTH-VIMEO-913514275"
         ],
         "casePractice": "Use fictional symptom-only vignettes to identify alternative causes and information required before a clinician considers structural intervention.",
         "assessment": "Anatomic reasoning worksheet; no procedural credential. Sources R4,R5,R8."
@@ -3365,7 +3369,8 @@
           "V16",
           "V39",
           "V40",
-          "MED-X074-HC007"
+          "MED-X074-HC007",
+          "MED-X074-UTHEALTH-VIMEO-1147125061"
         ],
         "casePractice": "For a fictional referral summary, state the evidence and uncertainties required for a board-style decision discussion; do not create an operative plan.",
         "assessment": "Compare indication/evidence/limitations in a source-annotated structured oral response. Sources R1,R4,R7,R8.",
@@ -4621,6 +4626,166 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Individually addressable source-hosted watch URL only. Observed public viewing does not grant permission to download, reproduce, rehost, redistribute, or embed media; provider terms and regional availability apply."
+      },
+      {
+        "playbackEvidence": "On 2026-10-27, the ordinary visible Vimeo Play control was selected in a guest browser session. It changed to Pause and the player time advanced from 00:00 to 00:01.",
+        "id": "MED-X074-UTHEALTH-VIMEO-939719970",
+        "url": "https://vimeo.com/939719970",
+        "humanClinicalReviewStatus": "not performed",
+        "category": "specialty",
+        "durationEvidenceMethod": "The normal Vimeo control bar visibly displayed 1:04:33 before playback; 1:04:33 = 3,873 seconds.",
+        "relevanceEvidence": [
+          {
+            "url": "https://vimeo.com/939719970",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nThis talk by Dr. Ahmad Sedaghat from the University of Cincinnati is about defining disease control for chronic rhinosinusitis (CRS) ... He presents his research on how patients and rhinologists perceive and assess CRS control, and how current guidelines may not align well with their views.\nSeparate source-checker narrow association explanation:\nThe quoted publisher description specifically addresses assessment of CRS control and the relation between patient/rhinologist perspectives and guideline criteria. This aligns with the unit's CRS phenotype/outcome-measure concepts; it does not establish an individual diagnosis or treatment."
+          }
+        ],
+        "provider": "UTHealth ORL",
+        "accessVerified": true,
+        "channel": "UTHealth ORL",
+        "durationEvidenceUrl": "https://vimeo.com/939719970",
+        "accessEmbeddingNotes": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage.",
+        "observedDurationSeconds": 3873,
+        "sourceUrl": "https://vimeo.com/939719970",
+        "freeAccessStatus": "Public Vimeo guest watch page observed. The page displayed optional Log in/Join controls but no sign-in, enrollment, or payment was required to start the player; availability can change.",
+        "title": "Defining \"Disease Control\" for Chronic Rhinosinusitis (UTHealth Houston ORL GR, 2024-04-25)",
+        "coverageUnits": [
+          3
+        ],
+        "durationSeconds": 3873,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage."
+      },
+      {
+        "playbackEvidence": "On 2026-10-27, selecting the visible standard Vimeo Play control in a guest browser session changed it to Pause and advanced time from 00:00 to 00:01.",
+        "id": "MED-X074-UTHEALTH-VIMEO-786637365",
+        "url": "https://vimeo.com/786637365",
+        "humanClinicalReviewStatus": "not performed",
+        "category": "specialty",
+        "durationEvidenceMethod": "The normal Vimeo control bar visibly displayed 54:15 before playback; 54:15 = 3,255 seconds.",
+        "relevanceEvidence": [
+          {
+            "url": "https://vimeo.com/786637365",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nOutline pathophysiology of CRSwNP and mechanism of biologics. Describe emerging biologics and clinical implications. Discuss safety and cost utility profile of biologics.\nSeparate source-checker narrow association explanation:\nThese are the three objectives visibly presented on the public recording's opening slide, which directly supports the unit's CRSwNP/type-2 and biologic-decision concepts. The unit should still be treated as conceptual self-study rather than an individual treatment recommendation."
+          }
+        ],
+        "provider": "UTHealth ORL",
+        "accessVerified": true,
+        "channel": "UTHealth ORL",
+        "durationEvidenceUrl": "https://vimeo.com/786637365",
+        "accessEmbeddingNotes": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage.",
+        "observedDurationSeconds": 3255,
+        "sourceUrl": "https://vimeo.com/786637365",
+        "freeAccessStatus": "Public Vimeo guest watch page observed. The page displayed optional Log in/Join controls but no sign-in, enrollment, or payment was required to start the player; availability can change.",
+        "title": "Emerging Biologics in the Management of Chronic Rhinosinusitis with Nasal Polyposis (UTHealth Houston ORL GR, 2022-12-29)",
+        "coverageUnits": [
+          5
+        ],
+        "durationSeconds": 3255,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage."
+      },
+      {
+        "playbackEvidence": "On 2026-10-27, selecting the visible standard Vimeo Play control in a guest browser session changed it to Pause and advanced time from 00:00 to 00:01.",
+        "id": "MED-X074-UTHEALTH-VIMEO-1147125061",
+        "url": "https://vimeo.com/1147125061",
+        "humanClinicalReviewStatus": "not performed",
+        "category": "specialty",
+        "durationEvidenceMethod": "The normal Vimeo control bar visibly displayed 56:08 before playback; 56:08 = 3,368 seconds.",
+        "relevanceEvidence": [
+          {
+            "url": "https://vimeo.com/1147125061",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nIn this UTHealth Houston ORL Grand Rounds, Dr. Christopher Bell explores the impact of surgical timing on outcomes for patients with chronic rhinosinusitis (CRS) ... [and] the implications of early versus late endoscopic sinus surgery.\nSeparate source-checker narrow association explanation:\nThe publisher description directly identifies CRS, endoscopic sinus surgery, timing, and patient outcomes, supporting this unit's surgical-decision and outcomes concepts without presenting the recording as procedural training or patient-specific advice."
+          }
+        ],
+        "provider": "UTHealth ORL",
+        "accessVerified": true,
+        "channel": "UTHealth ORL",
+        "durationEvidenceUrl": "https://vimeo.com/1147125061",
+        "accessEmbeddingNotes": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage.",
+        "observedDurationSeconds": 3368,
+        "sourceUrl": "https://vimeo.com/1147125061",
+        "freeAccessStatus": "Public Vimeo guest watch page observed. The page displayed optional Log in/Join controls but no sign-in, enrollment, or payment was required to start the player; availability can change.",
+        "title": "SNOT on the Clock: Does Time to Endoscopic Sinus Surgery Affect Patient Outcomes? (UTHealth Houston ORL GR, 2025-12-11)",
+        "coverageUnits": [
+          8
+        ],
+        "durationSeconds": 3368,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage."
+      },
+      {
+        "playbackEvidence": "On 2026-10-27, selecting the visible standard Vimeo Play control in a guest browser session changed it to Pause and advanced time from 00:00 to 00:01.",
+        "id": "MED-X074-UTHEALTH-VIMEO-823441810",
+        "url": "https://vimeo.com/823441810",
+        "humanClinicalReviewStatus": "not performed",
+        "category": "specialty",
+        "durationEvidenceMethod": "The normal Vimeo control bar visibly displayed 1:04:26 before playback; 1:04:26 = 3,866 seconds.",
+        "relevanceEvidence": [
+          {
+            "url": "https://vimeo.com/823441810",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nUnderstand the anatomic and physiologic considerations of the nasal valve. Describe traditional treatment options for the management of nasal valve obstruction. Discuss in-office treatment options ... and indications for repair of nasal valve obstruction.\nSeparate source-checker narrow association explanation:\nThe quoted opening-slide objectives explicitly cover nasal-valve anatomy/physiology and obstruction. This is direct conceptual support for the unit's organization of mechanical causes of nasal obstruction, while avoiding an unsupervised procedural or treatment directive."
+          }
+        ],
+        "provider": "UTHealth ORL",
+        "accessVerified": true,
+        "channel": "UTHealth ORL",
+        "durationEvidenceUrl": "https://vimeo.com/823441810",
+        "accessEmbeddingNotes": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage.",
+        "observedDurationSeconds": 3866,
+        "sourceUrl": "https://vimeo.com/823441810",
+        "freeAccessStatus": "Public Vimeo guest watch page observed. The page displayed optional Log in/Join controls but no sign-in, enrollment, or payment was required to start the player; availability can change.",
+        "title": "Management of the Nasal Valve (UTHealth Houston ORL GR, 2023-04-27)",
+        "coverageUnits": [
+          7
+        ],
+        "durationSeconds": 3866,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage."
+      },
+      {
+        "playbackEvidence": "On 2026-10-27, selecting the visible standard Vimeo Play control in a guest browser session changed it to Pause and advanced time from 00:00 to 00:01.",
+        "id": "MED-X074-UTHEALTH-VIMEO-913514275",
+        "url": "https://vimeo.com/913514275",
+        "humanClinicalReviewStatus": "not performed",
+        "category": "specialty",
+        "durationEvidenceMethod": "The normal Vimeo control bar visibly displayed 53:52 before playback; 53:52 = 3,232 seconds.",
+        "relevanceEvidence": [
+          {
+            "url": "https://vimeo.com/913514275",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nDescribe the anatomy related to caudal septal deformities. Explain the significance of caudal septal deformities with regard to function and aesthetics. Understand current techniques for managing caudal septal deformities.\nSeparate source-checker narrow association explanation:\nThe quoted opening-slide objectives directly address caudal-septal anatomy and functional significance, which is a focused addition to the unit's septal-mechanical-obstruction concepts. It is not offered as a step-by-step procedure or patient-specific plan."
+          }
+        ],
+        "provider": "UTHealth ORL",
+        "accessVerified": true,
+        "channel": "UTHealth ORL",
+        "durationEvidenceUrl": "https://vimeo.com/913514275",
+        "accessEmbeddingNotes": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage.",
+        "observedDurationSeconds": 3232,
+        "sourceUrl": "https://vimeo.com/913514275",
+        "freeAccessStatus": "Public Vimeo guest watch page observed. The page displayed optional Log in/Join controls but no sign-in, enrollment, or payment was required to start the player; availability can change.",
+        "title": "Management of Caudal Septal Deformities (UTHealth Houston ORL GR, 2024-02-08)",
+        "coverageUnits": [
+          7
+        ],
+        "durationSeconds": 3232,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage."
       }
     ],
     "unitMap": [
@@ -4668,7 +4833,8 @@
           "MED-X074-HC006",
           "MED-X074-HC007",
           "MED-X074-HC008",
-          "MED-X074-HC009"
+          "MED-X074-HC009",
+          "MED-X074-UTHEALTH-VIMEO-939719970"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -4702,7 +4868,8 @@
           "V31",
           "V38",
           "V41",
-          "MED-X074-HC007"
+          "MED-X074-HC007",
+          "MED-X074-UTHEALTH-VIMEO-786637365"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -4736,7 +4903,9 @@
           "V29",
           "V30",
           "V40",
-          "MED-X074-HC008"
+          "MED-X074-HC008",
+          "MED-X074-UTHEALTH-VIMEO-823441810",
+          "MED-X074-UTHEALTH-VIMEO-913514275"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -4754,7 +4923,8 @@
           "V16",
           "V39",
           "V40",
-          "MED-X074-HC007"
+          "MED-X074-HC007",
+          "MED-X074-UTHEALTH-VIMEO-1147125061"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -4827,9 +4997,9 @@
         "uncoveredTopics": []
       }
     ],
-    "coverageStatus": "incomplete_lecture_hours",
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
     "remainingGaps": {
-      "hoursToTarget": 4.418,
+      "hoursToTarget": 0,
       "topicGaps": [
         "Primary ABOHNS core ENT domains outside this rhinology-focused set, since rhinology-specific blueprint weighting is not public.",
         "More updated, specialist-level CRSwNP/biologic evidence interpretation and patient preference; current AAO-HNS guidance is newer than several open lecture recordings.",
@@ -5519,10 +5689,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 31.581666666666667,
-      "verifiedSpecialtyHours": 29.801944444444445,
+      "verifiedExternalHours": 36.46888888888889,
+      "verifiedSpecialtyHours": 34.689166666666665,
       "verifiedFoundationHours": 1.7797222222222222,
-      "hoursGap": 4.418333333333333,
+      "hoursGap": 0,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [

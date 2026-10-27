@@ -479,6 +479,19 @@ export function normalizeMedicalGeneratedHours(
         : 0;
       return {
         ...course,
+        ...([
+          "incomplete_lecture_hours",
+          "lecture_floor_met_topics_unvalidated",
+        ].includes(course.coverageStatus ?? "")
+          ? {
+              coverageStatus:
+                isFiniteNonNegativeNumber(targetHours) &&
+                targetHours > 0 &&
+                verifiedTotalHours >= targetHours
+                  ? "lecture_floor_met_topics_unvalidated"
+                  : "incomplete_lecture_hours",
+            }
+          : {}),
         verifiedGeneratedHours,
         verifiedTotalHours,
         // The derived actual gap supersedes a raw curriculum declaration.
@@ -672,14 +685,18 @@ export async function getLessonTranscript(lessonId: string) {
       const signedUrl = await storageGetSignedUrl(storageKey);
       response = await fetch(signedUrl, requestOptions);
       if (!response.ok)
-        throw new Error(`Signed transcript request failed (${response.status})`);
+        throw new Error(
+          `Signed transcript request failed (${response.status})`
+        );
     } catch (signedError) {
       if (!publicTranscriptUrl) throw signedError;
       // This read-only fallback comes only from the trusted local manifest
       // storage path plus a fixed operator origin, never a client-supplied URL.
       response = await fetch(publicTranscriptUrl, requestOptions);
       if (!response.ok)
-        throw new Error(`Public transcript request failed (${response.status})`);
+        throw new Error(
+          `Public transcript request failed (${response.status})`
+        );
     }
     const transcript = (await response.text()).slice(0, 2_000_000);
     return transcript.trim()

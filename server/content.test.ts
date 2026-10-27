@@ -151,6 +151,7 @@ describe("isolated medical overlays", () => {
             verifiedGeneratedHours: 999,
             verifiedTotalHours: 999,
             hoursGap: 0,
+            coverageStatus: "incomplete_lecture_hours",
           },
         ],
         documents: [],
@@ -235,7 +236,45 @@ describe("isolated medical overlays", () => {
       verifiedGeneratedHours: 36,
       verifiedTotalHours: 38,
       hoursGap: 0,
+      coverageStatus: "lecture_floor_met_topics_unvalidated",
     });
+  });
+
+  it("does not derive floor-met labels from planned time or erase separate source-status boundaries", () => {
+    const catalog = mergeCatalogContent(
+      { programs: [], courses: [], documents: [], downloads: [] },
+      {
+        programs: [{ id: "med", name: "Med" }],
+        courses: [
+          {
+            id: "MED-PLANNED",
+            programId: "med",
+            title: "Unmet",
+            targetVideoHours: 36,
+            verifiedExternalHours: 2,
+            verifiedGeneratedHours: 999,
+            coverageStatus: "lecture_floor_met_topics_unvalidated",
+          },
+          {
+            id: "MED-SOURCE",
+            programId: "med",
+            title: "Separate source boundary",
+            targetVideoHours: 36,
+            verifiedExternalHours: 36,
+            coverageStatus: "source_unavailable",
+          },
+        ],
+        documents: [],
+        downloads: [],
+      }
+    );
+    const normalized = normalizeMedicalGeneratedHours(catalog, { lessons: [] });
+    expect(normalized.courses[0]).toMatchObject({
+      verifiedGeneratedHours: 0,
+      hoursGap: 34,
+      coverageStatus: "incomplete_lecture_hours",
+    });
+    expect(normalized.courses[1]?.coverageStatus).toBe("source_unavailable");
   });
 
   it("keeps corrected-pilot review semantics but requires every exact new-series hash gate", () => {

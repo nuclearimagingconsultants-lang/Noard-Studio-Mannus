@@ -1,3 +1,17 @@
+# Board Studio — three measured medical targets closed
+
+Updated 27 October 2026. **14 newly source-qualified public clinical recordings add 12.1797 unique measured hours**. MED-135 Renal Pathology, MED-140 Child and Adolescent Psychiatry and MED-X074 Rhinology now meet their combined verified source-plus-ready-original lecture-hour floors. Renal Pathology has 35.931445 external hours plus 0.0775 ready-original hours, totaling 36.008945 hours; it is not 36 external hours alone. The two departmental addresses and an equivalent already-assigned cross-platform recording are excluded.
+
+**200 of 333 medical records meet their measured floors; 133 remain unmet**, with **2,893.26 overlapping record-hours** remaining. The capped deficit reduction is 11.0972 record-hours, not the full new unique-video total. Meeting a time floor does not establish full topic coverage or completed medical teaching. The 118 pending older chapter reviews, 8 source-unavailable records, 19 withheld practice items and human clinician review **not performed** remain unchanged. Medicine is **not complete**.
+
+All **242 ready original videos** (149 base, 93 medical), **28 immutable approved readings**, 136 legacy development states, prior downloads, native playback and auth are preserved. This increment creates **zero original films and zero publisher-video copies**. Source lectures remain on their normal public players; use Medicine → course → University/All, with Open source/Skip if embedding is unavailable. The reference/evidence package is privately backed up to Drive, not a rehosting of publisher video. Publication/live verification are tracked separately. Dropbox's earlier partial backup is not claimed complete; earlier local/Drive copies remain protected.
+
+Independent self-study only: no institutional affiliation, degree, clinical competence, board eligibility/certification or passing guarantee is conferred.
+
+---
+
+## Earlier snapshots below — historical, not current totals
+
 # Board Studio — final medical publication snapshot
 
 Prepared 27 October 2026. The latest verified increment adds one public University of Utah **Peripheral Nerve Trauma** recording, **61 minutes 7 seconds**, assigned narrowly to MED-209 Unit 11 and MED-210 Unit 9. It is one unique recording, not two hours of distinct video. Publisher media remains at its source; public viewing does not establish permission to copy or redistribute it. The earlier 63-recording increment is retained.

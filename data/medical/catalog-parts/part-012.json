@@ -12764,7 +12764,8 @@
           "https://www.youtube.com/watch?v=VbvUtJ49HXc"
         ],
         "lectureIds": [
-          "L2"
+          "L2",
+          "MED-135-EXT-20261027-002"
         ],
         "casePractice": "Review a linked public reference case or atlas entry in its source viewer; document only descriptive features and differential. If no licensed image set is available, use written vignette; never export images.",
         "assessment": "Submit a one-page structured interpretation (adequacy; LM compartment pattern; IF; EM; clinical correlation; ranked differential; caveat) and answer the unit quiz with source citations."
@@ -12835,7 +12836,9 @@
           "L9",
           "MED135-ADD-018",
           "MED135-ADD-019",
-          "MED135-ADD-020"
+          "MED135-ADD-020",
+          "MED-135-EXT-20261027-001",
+          "MED-135-EXT-20261027-002"
         ],
         "casePractice": "Review a linked public reference case or atlas entry in its source viewer; document only descriptive features and differential. If no licensed image set is available, use written vignette; never export images.",
         "assessment": "Submit a one-page structured interpretation (adequacy; LM compartment pattern; IF; EM; clinical correlation; ranked differential; caveat) and answer the unit quiz with source citations."
@@ -12902,7 +12905,8 @@
           "L4",
           "L5",
           "L6",
-          "MED135-ADD-020"
+          "MED135-ADD-020",
+          "MED-135-EXT-20261027-005"
         ],
         "casePractice": "Review a linked public reference case or atlas entry in its source viewer; document only descriptive features and differential. If no licensed image set is available, use written vignette; never export images.",
         "assessment": "Submit a one-page structured interpretation (adequacy; LM compartment pattern; IF; EM; clinical correlation; ranked differential; caveat) and answer the unit quiz with source citations."
@@ -13023,7 +13027,8 @@
           "L5",
           "L6",
           "L9",
-          "MED135-ADD-019"
+          "MED135-ADD-019",
+          "MED-135-EXT-20261027-003"
         ],
         "casePractice": "Review a linked public reference case or atlas entry in its source viewer; document only descriptive features and differential. If no licensed image set is available, use written vignette; never export images.",
         "assessment": "Submit a one-page structured interpretation (adequacy; LM compartment pattern; IF; EM; clinical correlation; ranked differential; caveat) and answer the unit quiz with source citations."
@@ -13106,7 +13111,8 @@
           "https://ajkdblog.org/atlas-of-renal-pathology-ii/"
         ],
         "lectureIds": [
-          "MED135-ADD-018"
+          "MED135-ADD-018",
+          "MED-135-EXT-20261027-003"
         ],
         "casePractice": "Review a linked public reference case or atlas entry in its source viewer; document only descriptive features and differential. If no licensed image set is available, use written vignette; never export images.",
         "assessment": "Submit a one-page structured interpretation (adequacy; LM compartment pattern; IF; EM; clinical correlation; ranked differential; caveat) and answer the unit quiz with source citations."
@@ -13998,6 +14004,168 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "The direct description identifies renal pathologist Vanesa Bijol, MD, and a kidney-pathology session on challenging cases and samples. The public transcript covers a nephrotic patient with IgG lambda findings, IF interpretation, tubular protein-reabsorption granules, and Congo-red-positive amyloid deposits. This is a short, case-specific example supporting monoclonal/amyloid biopsy interpretation, not comprehensive coverage of U8. Public viewing was observed; embedding and redistribution rights were not established."
+      },
+      {
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0,
+          "afterTimeSeconds": 87,
+          "normalControl": "Visible Yale Play control.",
+          "observedAtUtc": "2026-10-27T05:19:03Z",
+          "durationSeconds": 3289
+        },
+        "id": "MED-135-EXT-20261027-001",
+        "url": "https://medicine.yale.edu/pathology/media-player/the-birth-and-evolution-of-medical-renal-pathology/",
+        "humanClinicalReviewStatus": "not performed",
+        "category": "specialty",
+        "durationEvidenceMethod": "Observed finite public Yale player control-bar total 54:49 after ordinary no-login playback was started; 54:49 = 3289 seconds.",
+        "relevanceEvidence": [
+          {
+            "url": "https://medicine.yale.edu/pathology/media-player/the-birth-and-evolution-of-medical-renal-pathology/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nThe approach for for diagnosing renal biopsy requires information from these several different sources to be integrated into a single interpretation. The sources included the clinical data examination by light microscopy, immunohistology and electron microscopy… [these] had to either be included or dismissed in order to make the final diagnosis.\nSeparate source-checker narrow association explanation:\nUnit 3 only: this transcript explicitly describes integrating clinical data with LM, immunohistology/IF, and EM in renal-biopsy interpretation."
+          }
+        ],
+        "provider": "Yale School of Medicine, Department of Pathology",
+        "accessVerified": true,
+        "channel": "Yale School of Medicine, Department of Pathology",
+        "durationEvidenceUrl": "https://medicine.yale.edu/pathology/media-player/the-birth-and-evolution-of-medical-renal-pathology/",
+        "accessEmbeddingNotes": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage.",
+        "observedDurationSeconds": 3289,
+        "sourceUrl": "https://medicine.yale.edu/pathology/media-player/the-birth-and-evolution-of-medical-renal-pathology/",
+        "freeAccessStatus": "free public no-login Yale player; normal playback was observed without payment, account, or registration prompt.",
+        "title": "The Birth and Evolution of Medical Renal Pathology",
+        "coverageUnits": [
+          3
+        ],
+        "durationSeconds": 3289,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage."
+      },
+      {
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0,
+          "afterTimeSeconds": 7,
+          "normalControl": "Visible Vimeo Play button.",
+          "observedAtUtc": "2026-10-27T05:20:43Z",
+          "durationSeconds": 2120
+        },
+        "id": "MED-135-EXT-20261027-002",
+        "url": "https://player.vimeo.com/video/716943147?h=b74b9d3491",
+        "humanClinicalReviewStatus": "not performed",
+        "category": "specialty",
+        "durationEvidenceMethod": "The publisher-documented public Vimeo fallback player displayed finite total 35:20 before normal no-login playback advanced to 00:07; 35:20 = 2120 seconds.",
+        "relevanceEvidence": [
+          {
+            "url": "https://ajkdblog.org/2022/11/16/approach-to-interpreting-kidney-histology-a-discussion/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\napproaches to allocate and process kidney biopsies\nSeparate source-checker narrow association explanation:\nUnit 1 only: allocation and processing of kidney biopsies directly matches specimen triage and laboratory workflow."
+          },
+          {
+            "url": "https://ajkdblog.org/2022/11/16/approach-to-interpreting-kidney-histology-a-discussion/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\ndifferential diagnoses of a spectrum of patterns of injury and consideration for interpretation of specific lesions.\nSeparate source-checker narrow association explanation:\nUnit 3 only: the excerpt expressly addresses injury-pattern differential diagnosis and lesion interpretation."
+          }
+        ],
+        "provider": "AJKD Blog, official blog of the American Journal of Kidney Diseases",
+        "accessVerified": true,
+        "channel": "AJKD Blog, official blog of the American Journal of Kidney Diseases",
+        "durationEvidenceUrl": "https://player.vimeo.com/video/716943147?h=b74b9d3491",
+        "accessEmbeddingNotes": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage.",
+        "observedDurationSeconds": 2120,
+        "sourceUrl": "https://ajkdblog.org/2022/11/16/approach-to-interpreting-kidney-histology-a-discussion/",
+        "freeAccessStatus": "free public no-login AJKD Blog page and publisher-documented Vimeo player; normal playback was observed without payment, account, or registration prompt.",
+        "title": "Approach to Interpreting Kidney Histology: A Discussion",
+        "coverageUnits": [
+          1,
+          3
+        ],
+        "durationSeconds": 2120,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage."
+      },
+      {
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0,
+          "afterTimeSeconds": 5.685756,
+          "normalControl": "Visible native HTML5 control was present. After two visible-control attempts did not register, the already-loaded standard public HTML5 player entered an unpaused state and advanced; no login, download, extraction, or alternate route was used.",
+          "observedAtUtc": "2026-10-27T05:23:12Z",
+          "durationSeconds": 3715.503458
+        },
+        "id": "MED-135-EXT-20261027-003",
+        "url": "https://arup.utah.edu/media/barry-kidneyPath-pcap20/videoLecture",
+        "humanClinicalReviewStatus": "not performed",
+        "category": "specialty",
+        "durationEvidenceMethod": "Loaded public native HTML5 player reported finite duration 3715.503458 seconds; the visible bar showed 0:00 / 1:01:55, and the already-loaded player advanced unpaused from currentTime 0 to 5.685756.",
+        "relevanceEvidence": [
+          {
+            "url": "https://arup.utah.edu/education/barry-kidneypath-pcap20",
+            "text": "Retained selected source content excerpt (not a full publisher work):\ncommon autopsy-kidney findings including differentiating acute tubular injury from tubular autolytic artifact.\nSeparate source-checker narrow association explanation:\nUnit 9 only: the objective expressly includes acute tubular injury and the autopsy-artifact differential."
+          },
+          {
+            "url": "https://arup.utah.edu/education/barry-kidneypath-pcap20",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nthe non-neoplastic component of a nephrectomy or partial nephrectomy specimen; the workup of the donor kidney for transplantation… common findings at frozen section; and common autopsy-kidney findings\nSeparate source-checker narrow association explanation:\nUnit 12 only: the objectives expressly cover non-neoplastic nephrectomy and autopsy-kidney findings, matching the autopsy/excision scope."
+          }
+        ],
+        "provider": "University of Utah Department of Pathology / ARUP Laboratories",
+        "accessVerified": true,
+        "channel": "University of Utah Department of Pathology / ARUP Laboratories",
+        "durationEvidenceUrl": "https://arup.utah.edu/media/barry-kidneyPath-pcap20/videoLecture",
+        "accessEmbeddingNotes": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage.",
+        "observedDurationSeconds": 3715.503458,
+        "sourceUrl": "https://arup.utah.edu/education/barry-kidneypath-pcap20",
+        "freeAccessStatus": "free public no-login ARUP native HTML5 player; it loaded without account or registration prompt, and the course page states it is not available for credit.",
+        "title": "Non-neoplastic Kidney Pathology for the General Surgical Pathologist",
+        "coverageUnits": [
+          9,
+          12
+        ],
+        "durationSeconds": 3715.503458,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage."
+      },
+      {
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0,
+          "afterTimeSeconds": 8.526199,
+          "normalControl": "Visible Vimeo Play control.",
+          "observedAtUtc": "2026-10-27T08:29:55Z",
+          "durationSeconds": 799.6989
+        },
+        "id": "MED-135-EXT-20261027-005",
+        "url": "https://vimeo.com/184928133",
+        "humanClinicalReviewStatus": "not performed",
+        "category": "specialty",
+        "durationEvidenceMethod": "Public Vimeo control bar displayed 00:00 / 13:20 before ordinary no-login playback; after Play it advanced, and the loaded playing video reported finite duration 799.6989 seconds.",
+        "relevanceEvidence": [
+          {
+            "url": "https://vimeo.com/184928133",
+            "text": "Retained selected source content excerpt (not a full publisher work):\n10 minute histologic review of IgA dominant infection associated glomerulonephritis from Washington University in St. Louis Division of Nephrology\nSeparate source-checker narrow association explanation:\nUnit 5 only: the publisher description expressly identifies a histologic review of IgA-dominant infection-associated GN."
+          }
+        ],
+        "provider": "Vimeo",
+        "accessVerified": true,
+        "channel": "Timothy Yau",
+        "durationEvidenceUrl": "https://vimeo.com/184928133",
+        "accessEmbeddingNotes": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage.",
+        "observedDurationSeconds": 799.6989,
+        "sourceUrl": "https://vimeo.com/184928133",
+        "freeAccessStatus": "free public no-login Vimeo watch page; visible Play control advanced without payment, account, or registration prompt.",
+        "title": "IgA Dominant Infection Associated Glomerulonephritis",
+        "coverageUnits": [
+          5
+        ],
+        "durationSeconds": 799.6989,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage."
       }
     ],
     "unitMap": [
@@ -14005,7 +14173,8 @@
         "number": 1,
         "text": "Specimen triage, adequacy, and laboratory workflow",
         "lectureIds": [
-          "L2"
+          "L2",
+          "MED-135-EXT-20261027-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -14047,7 +14216,9 @@
           "L9",
           "MED135-ADD-018",
           "MED135-ADD-019",
-          "MED135-ADD-020"
+          "MED135-ADD-020",
+          "MED-135-EXT-20261027-001",
+          "MED-135-EXT-20261027-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -14085,7 +14256,8 @@
           "L4",
           "L5",
           "L6",
-          "MED135-ADD-020"
+          "MED135-ADD-020",
+          "MED-135-EXT-20261027-005"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -14152,7 +14324,8 @@
           "L5",
           "L6",
           "L9",
-          "MED135-ADD-019"
+          "MED135-ADD-019",
+          "MED-135-EXT-20261027-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -14194,7 +14367,8 @@
         "number": 12,
         "text": "Autopsy/excision, synthesis, and board-style visual reasoning",
         "lectureIds": [
-          "MED135-ADD-018"
+          "MED135-ADD-018",
+          "MED-135-EXT-20261027-003"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -14207,7 +14381,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 2.825,
+      "hoursToTarget": 0.069,
       "topicGaps": [
         "Added distinct free recordings improve coverage of kidney biopsy IF/EM, broad nephritic and tubulointerstitial patterns, lupus histopathology and acute allograft T-cell-mediated rejection. Each mapping is adjunctive and does not replace current classification or disease-specific guidance.",
         "Unresolved recorded-topic gaps include focused current IgAN/IgAV and Oxford scoring; ANCA/anti-GBM pathology; MCD/FSGS/membranous interpretation beyond existing general recordings; monoclonal and organized-deposit typing; diabetic, hereditary and vascular disease; transplant AMR/Banff update, infection and ancillary/molecular testing; specimen triage, QC, autopsy/excision, and integrated reporting.",
@@ -15142,10 +15316,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 33.17472222222222,
-      "verifiedSpecialtyHours": 31.275555555555556,
+      "verifiedExternalHours": 35.931445099444446,
+      "verifiedSpecialtyHours": 34.03227843277778,
       "verifiedFoundationHours": 1.8991666666666667,
-      "hoursGap": 2.825277777777778,
+      "hoursGap": 0.06855490055555435,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
@@ -27252,7 +27426,9 @@
           "YT-zMicGn7DR2A",
           "YT-VM8K5fsL4nA",
           "YT-00NaItJxtTc",
-          "MED-140-EXT-20261027-007"
+          "MED-140-EXT-20261027-007",
+          "MED-140-EXT-20261027-009",
+          "MED-140-EXT-20261027-011"
         ],
         "casePractice": "Use a published educational vignette or an instructor-authored fictional scenario; state missing data, protect confidentiality, and do not infer facts absent from prompt. See case resources https://pmc.ncbi.nlm.nih.gov/articles/PMC6440400/ and https://www.mededportal.org/doi/10.15766/mep_2374-8265.11400.",
         "assessment": "Written formative check: 2-item retrieval quiz plus a one-page case formulation and reflection on uncertainty, safety, family/system context; feedback rubric: accuracy 40%, reasoning/differential 30%, safety/ethics 20%, clarity 10%."
@@ -27276,7 +27452,8 @@
           "https://www.aacap.org/aacap/Resources_for_Primary_Care/CAP_Resources_for_Medical_Student_Educators.aspx"
         ],
         "lectureIds": [
-          "YT-6qpyqdiuz9k"
+          "YT-6qpyqdiuz9k",
+          "MED-140-CLINICAL-20261027-001"
         ],
         "casePractice": "Use a published educational vignette or an instructor-authored fictional scenario; state missing data, protect confidentiality, and do not infer facts absent from prompt. See case resources https://pmc.ncbi.nlm.nih.gov/articles/PMC6440400/ and https://www.mededportal.org/doi/10.15766/mep_2374-8265.11400.",
         "assessment": "Written formative check: 2-item retrieval quiz plus a one-page case formulation and reflection on uncertainty, safety, family/system context; feedback rubric: accuracy 40%, reasoning/differential 30%, safety/ethics 20%, clarity 10%."
@@ -27324,7 +27501,8 @@
         ],
         "lectureIds": [
           "MED-140-EXT-20261027-001",
-          "MED-140-EXT-20261027-004"
+          "MED-140-EXT-20261027-004",
+          "MED-140-EXT-20261027-010"
         ],
         "casePractice": "Use a published educational vignette or an instructor-authored fictional scenario; state missing data, protect confidentiality, and do not infer facts absent from prompt. See case resources https://pmc.ncbi.nlm.nih.gov/articles/PMC6440400/ and https://www.mededportal.org/doi/10.15766/mep_2374-8265.11400.",
         "assessment": "Written formative check: 2-item retrieval quiz plus a one-page case formulation and reflection on uncertainty, safety, family/system context; feedback rubric: accuracy 40%, reasoning/differential 30%, safety/ethics 20%, clarity 10%."
@@ -27455,7 +27633,8 @@
           "YT-mmnBxrc3wlY",
           "YT-FHNtQX0Kv0A",
           "YT-L_ocJMkPxWM",
-          "MED-140-EXT-20261027-008"
+          "MED-140-EXT-20261027-008",
+          "MED-140-CLINICAL-20261027-002"
         ],
         "casePractice": "Use a published educational vignette or an instructor-authored fictional scenario; state missing data, protect confidentiality, and do not infer facts absent from prompt. See case resources https://pmc.ncbi.nlm.nih.gov/articles/PMC6440400/ and https://www.mededportal.org/doi/10.15766/mep_2374-8265.11400.",
         "assessment": "Written formative check: 2-item retrieval quiz plus a one-page case formulation and reflection on uncertainty, safety, family/system context; feedback rubric: accuracy 40%, reasoning/differential 30%, safety/ethics 20%, clarity 10%."
@@ -28495,6 +28674,168 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Publisher link only; no download, rehost, or embedding permission inferred."
+      },
+      {
+        "playbackEvidence": "On 2026-10-27, the source page’s visible Play control was used, followed by the exposed visible in-player Play control. The ordinary in-page player then showed active playback: currentTime advanced to 2.372526 seconds, paused=false, readyState=4.",
+        "id": "MED-140-EXT-20261027-009",
+        "url": "https://medicine.yale.edu/childstudy/media-player/05-26-2026-grand-roundst32-trainee-talks/",
+        "humanClinicalReviewStatus": "not performed",
+        "category": "specialty",
+        "durationEvidenceMethod": "After ordinary visible player control use, the active page HTML5 player reported duration=4036.3199999999997 seconds (normalized to 4036.32 seconds in duration fields), with currentTime=2.372526 and paused=false. This is a full recording runtime observed in the actual public player.",
+        "relevanceEvidence": [
+          {
+            "url": "https://medicine.yale.edu/childstudy/media-player/05-26-2026-grand-roundst32-trainee-talks/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nVerbatim publisher content: “Lacey Chetcuti, PhD: ‘Bridging Transdiagnostic Models and Measurement: Dimensional Characterization of Social Functioning in Autism’”; the transcript states, “Autism in particular is defined through two core symptom domains in the DSM. Criterion A is social communication and interaction deficits, and criterion B is restricted repetitive behaviors, interests, or activities.” Narrow unit mapping: this directly concerns autism symptom domains and their clinical measurement, fitting Unit 2’s ASD and diagnostic-evaluation focus."
+          }
+        ],
+        "provider": "Yale School of Medicine, Child Study Center",
+        "accessVerified": true,
+        "channel": "Yale School of Medicine, Child Study Center",
+        "durationEvidenceUrl": "https://medicine.yale.edu/childstudy/media-player/05-26-2026-grand-roundst32-trainee-talks/",
+        "accessEmbeddingNotes": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage.",
+        "observedDurationSeconds": 4036.32,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/05-26-2026-grand-roundst32-trainee-talks/",
+        "freeAccessStatus": "Observed free public full-video playback in Yale School of Medicine’s normal public player. No login/Guest sign-in prompt, registration, paywall, age gate, or bot challenge appeared.",
+        "title": "Postdoctoral Fellowship in Childhood Neuropsychiatric Disorders (T32) Trainee Talks",
+        "coverageUnits": [
+          2
+        ],
+        "durationSeconds": 4036.32,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage."
+      },
+      {
+        "playbackEvidence": "On 2026-10-27, the source page’s visible Play control was used. The ordinary in-page player then showed active playback: currentTime advanced to 9.876981 seconds, paused=false, readyState=4.",
+        "id": "MED-140-EXT-20261027-010",
+        "url": "https://medicine.yale.edu/childstudy/media-player/04-29-2025-grand-rounds-t32-trainee-talks/",
+        "humanClinicalReviewStatus": "not performed",
+        "category": "specialty",
+        "durationEvidenceMethod": "After ordinary visible player control use, the active page HTML5 player reported duration=2960.3599999999997 seconds (normalized to 2960.36 seconds in duration fields), with currentTime=9.876981 and paused=false. This is a full recording runtime observed in the actual public player.",
+        "relevanceEvidence": [
+          {
+            "url": "https://medicine.yale.edu/childstudy/media-player/04-29-2025-grand-rounds-t32-trainee-talks/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nVerbatim publisher content: “The Avoidant Brain: Neural Signatures of Risk Avoidance in Adolescence”; the transcript states, “exaggerated risk avoidance plays an important role in anxiety. So across all of the disorders under the anxiety umbrella in the DSM five, avoidance of stimuli or situations perceived as dangerous or threatening is a cardinal feature in the development and maintenance of anxiety.” Narrow unit mapping: the adolescent anxiety/avoidance content supports Unit 5’s anxiety differential and functional-impairment focus."
+          }
+        ],
+        "provider": "Yale School of Medicine, Child Study Center",
+        "accessVerified": true,
+        "channel": "Yale School of Medicine, Child Study Center",
+        "durationEvidenceUrl": "https://medicine.yale.edu/childstudy/media-player/04-29-2025-grand-rounds-t32-trainee-talks/",
+        "accessEmbeddingNotes": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage.",
+        "observedDurationSeconds": 2960.36,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/04-29-2025-grand-rounds-t32-trainee-talks/",
+        "freeAccessStatus": "Observed free public full-video playback in Yale School of Medicine’s normal public player. No login/Guest sign-in prompt, registration, paywall, age gate, or bot challenge appeared.",
+        "title": "Postdoctoral Fellowship in Childhood Neuropsychiatric Disorders (T32) Trainee Talks",
+        "coverageUnits": [
+          5
+        ],
+        "durationSeconds": 2960.36,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage."
+      },
+      {
+        "playbackEvidence": "On 2026-10-27, the source page’s visible Play control was used. The ordinary in-page player then showed active playback: currentTime advanced to 6.24433 seconds, paused=false, readyState=4.",
+        "id": "MED-140-EXT-20261027-011",
+        "url": "https://medicine.yale.edu/childstudy/media-player/2-23-22-webinar-babies-and-autism/",
+        "humanClinicalReviewStatus": "not performed",
+        "category": "specialty",
+        "durationEvidenceMethod": "After ordinary visible player control use, the active page HTML5 player reported duration=3138.28 seconds, with currentTime=6.24433 and paused=false. This is a full recording runtime observed in the actual public player.",
+        "relevanceEvidence": [
+          {
+            "url": "https://medicine.yale.edu/childstudy/media-player/2-23-22-webinar-babies-and-autism/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nVerbatim publisher description: “The session involved an overview of lab resources and pilot studies, fetal/neonatal imaging, supporting parents of newly diagnosed babies, diversity and inclusion initiatives, and more.” The transcript adds that the faculty work “with babies and toddlers with autism and developmental disabilities” and will discuss “emotional development in children with autism” and “how they partner with families.” Narrow unit mapping: autism/developmental-disability content and family partnership fit Unit 2’s ASD and family-partnership focus."
+          }
+        ],
+        "provider": "Yale School of Medicine, Child Study Center",
+        "accessVerified": true,
+        "channel": "Yale School of Medicine, Child Study Center",
+        "durationEvidenceUrl": "https://medicine.yale.edu/childstudy/media-player/2-23-22-webinar-babies-and-autism/",
+        "accessEmbeddingNotes": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage.",
+        "observedDurationSeconds": 3138.28,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/2-23-22-webinar-babies-and-autism/",
+        "freeAccessStatus": "Observed free public full-video playback in Yale School of Medicine’s normal public player. No login/Guest sign-in prompt, registration, paywall, age gate, or bot challenge appeared.",
+        "title": "Babies and Autism: Advances in Research and Clinical Care",
+        "coverageUnits": [
+          2
+        ],
+        "durationSeconds": 3138.28,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage."
+      },
+      {
+        "playbackEvidence": "On 2026-10-27, the unloaded visible player initially read 00:00. After the visible page Play control and then the visible in-player Play control were used, the ordinary player displayed 00:05 of 55:59. The active page video then reported currentTime=5.159166 seconds and readyState=4, establishing actual advancement from zero; the immediate state snapshot recorded paused=true.",
+        "id": "MED-140-CLINICAL-20261027-001",
+        "url": "https://medicine.yale.edu/childstudy/media-player/child-study-center-grand-round-02162021/",
+        "humanClinicalReviewStatus": "not performed",
+        "category": "specialty",
+        "durationEvidenceMethod": "On 2026-10-27, normal visible page and in-player Play controls were used. The same loaded public HTML5 player reported a finite duration of 3359.56 seconds; its ordinary visible controls displayed 55:59 (rounded display).",
+        "relevanceEvidence": [
+          {
+            "url": "https://medicine.yale.edu/childstudy/media-player/child-study-center-grand-round-02162021/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nVerbatim publisher on-page transcript: “I think there's a lot of complexities too. The diagnosis and treatment of ADHD by race and ethnicity, and I don't think it's a simple story. I think they're probably different cut points on assessments and informants. It affects the outcome.”\nSeparate source-checker narrow association explanation:\nThis explicitly addresses ADHD diagnosis/treatment and assessment informants, narrowly matching Unit 3's multi-informant ADHD assessment and evidence-supported treatment scope."
+          }
+        ],
+        "provider": "Yale School of Medicine, Child Study Center",
+        "accessVerified": true,
+        "channel": "Yale School of Medicine, Child Study Center",
+        "durationEvidenceUrl": "https://medicine.yale.edu/childstudy/media-player/child-study-center-grand-round-02162021/",
+        "accessEmbeddingNotes": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage.",
+        "observedDurationSeconds": 3359.56,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/child-study-center-grand-round-02162021/",
+        "freeAccessStatus": "exact public/no-gate observation: the normal Yale player loaded and advanced without login, guest sign-in, registration, paywall, age gate, or bot challenge.",
+        "rightsStatus": "public streaming only; copying permission not established.",
+        "title": "Child Study Center Grand Rounds 02.16.2021 — Using Meta-Analysis to Guide Assessment and Treatment of ADHD",
+        "coverageUnits": [
+          3
+        ],
+        "durationSeconds": 3359.56,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage."
+      },
+      {
+        "playbackEvidence": "On 2026-10-27, the visible player initially read 00:00. After the visible public Play control was used and metadata loaded, the ordinary player showed 47:14 and a visible Pause control. The active page video then reported currentTime=4.860068 seconds, paused=false, readyState=2, establishing actual advancement from zero.",
+        "id": "MED-140-CLINICAL-20261027-002",
+        "url": "https://medicine.yale.edu/childstudy/media-player/eatingdisorders/",
+        "humanClinicalReviewStatus": "not performed",
+        "category": "specialty",
+        "durationEvidenceMethod": "On 2026-10-27, the normal visible Yale page Play control was used. The same loaded public HTML5 player reported a finite duration of 2834.28 seconds; its ordinary visible controls displayed 47:14 (rounded display).",
+        "relevanceEvidence": [
+          {
+            "url": "https://medicine.yale.edu/childstudy/media-player/eatingdisorders/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nVerbatim publisher on-page transcript: “So in essence to meet criteria, a persistence disturbance in eating or eating related behaviors that results in an altered consumption of food and significantly impairs functioning, either physical or psychosocial.”\nSeparate source-checker narrow association explanation:\nThis explicitly defines an eating-disorder presentation through altered eating and physical or psychosocial impairment, narrowly matching Unit 10's eating-concerns recognition focus."
+          }
+        ],
+        "provider": "Yale School of Medicine, Child Study Center",
+        "accessVerified": true,
+        "channel": "Yale School of Medicine, Child Study Center",
+        "durationEvidenceUrl": "https://medicine.yale.edu/childstudy/media-player/eatingdisorders/",
+        "accessEmbeddingNotes": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage.",
+        "observedDurationSeconds": 2834.28,
+        "sourceUrl": "https://medicine.yale.edu/childstudy/media-player/eatingdisorders/",
+        "freeAccessStatus": "exact public/no-gate observation: the normal Yale player loaded and advanced without login, guest sign-in, registration, paywall, age gate, or bot challenge.",
+        "rightsStatus": "public streaming only; copying permission not established.",
+        "title": "Eating Disorders in Complex Adolescents",
+        "coverageUnits": [
+          10
+        ],
+        "durationSeconds": 2834.28,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback observed; see retained evidence. In-app embedding has not been verified: open the original source if embedding is unavailable. Download/rehosting permission is not established. Independent medical self-study only; human clinician review not performed. Narrow association, not complete unit coverage."
       }
     ],
     "unitMap": [
@@ -28521,7 +28862,9 @@
           "YT-zMicGn7DR2A",
           "YT-VM8K5fsL4nA",
           "YT-00NaItJxtTc",
-          "MED-140-EXT-20261027-007"
+          "MED-140-EXT-20261027-007",
+          "MED-140-EXT-20261027-009",
+          "MED-140-EXT-20261027-011"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -28533,7 +28876,8 @@
         "number": 3,
         "text": "ADHD, disruptive behavior and school systems",
         "lectureIds": [
-          "YT-6qpyqdiuz9k"
+          "YT-6qpyqdiuz9k",
+          "MED-140-CLINICAL-20261027-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -28559,7 +28903,8 @@
         "text": "Anxiety, OCD and related conditions",
         "lectureIds": [
           "MED-140-EXT-20261027-001",
-          "MED-140-EXT-20261027-004"
+          "MED-140-EXT-20261027-004",
+          "MED-140-EXT-20261027-010"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -28634,7 +28979,8 @@
           "YT-mmnBxrc3wlY",
           "YT-FHNtQX0Kv0A",
           "YT-L_ocJMkPxWM",
-          "MED-140-EXT-20261027-008"
+          "MED-140-EXT-20261027-008",
+          "MED-140-CLINICAL-20261027-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -28683,9 +29029,9 @@
         "uncoveredTopics": []
       }
     ],
-    "coverageStatus": "incomplete_lecture_hours",
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
     "remainingGaps": {
-      "hoursToTarget": 3.931,
+      "hoursToTarget": 0,
       "topicGaps": [
         "29.3928 of the 36 target video hours remain unverified; five added recordings contribute 6.6072 observed specialty hours. Target hours remain unmet and scripted episodes are not rendered video.",
         "The packet’s six original public links remain uncounted because free full playback and/or observed runtime is not verified.",
@@ -29223,10 +29569,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 32.06887777777777,
-      "verifiedSpecialtyHours": 27.664711111111103,
+      "verifiedExternalHours": 36.60465555555555,
+      "verifiedSpecialtyHours": 32.200488888888884,
       "verifiedFoundationHours": 4.404166666666667,
-      "hoursGap": 3.9311222222222284,
+      "hoursGap": 0,
       "unknownDurationItems": [
         {
           "id": "YT-uwBH9Y4WLy4",

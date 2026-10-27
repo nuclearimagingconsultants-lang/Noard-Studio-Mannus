@@ -1855,6 +1855,12 @@ function normalizeMedicalGeneratedHours(catalog, medicalMediaValue) {
       const hoursGap = isFiniteNonNegativeNumber(targetHours) ? Math.max(0, targetHours - verifiedTotalHours) : 0;
       return {
         ...course,
+        ...[
+          "incomplete_lecture_hours",
+          "lecture_floor_met_topics_unvalidated"
+        ].includes(course.coverageStatus ?? "") ? {
+          coverageStatus: isFiniteNonNegativeNumber(targetHours) && targetHours > 0 && verifiedTotalHours >= targetHours ? "lecture_floor_met_topics_unvalidated" : "incomplete_lecture_hours"
+        } : {},
         verifiedGeneratedHours,
         verifiedTotalHours,
         // The derived actual gap supersedes a raw curriculum declaration.
@@ -1958,12 +1964,16 @@ async function getLessonTranscript(lessonId) {
       const signedUrl = await storageGetSignedUrl(storageKey);
       response = await fetch(signedUrl, requestOptions);
       if (!response.ok)
-        throw new Error(`Signed transcript request failed (${response.status})`);
+        throw new Error(
+          `Signed transcript request failed (${response.status})`
+        );
     } catch (signedError) {
       if (!publicTranscriptUrl) throw signedError;
       response = await fetch(publicTranscriptUrl, requestOptions);
       if (!response.ok)
-        throw new Error(`Public transcript request failed (${response.status})`);
+        throw new Error(
+          `Public transcript request failed (${response.status})`
+        );
     }
     const transcript = (await response.text()).slice(0, 2e6);
     return transcript.trim() ? { status: "ready", transcript, title: lesson.title } : { status: "unavailable", transcript: "", title: lesson.title };
