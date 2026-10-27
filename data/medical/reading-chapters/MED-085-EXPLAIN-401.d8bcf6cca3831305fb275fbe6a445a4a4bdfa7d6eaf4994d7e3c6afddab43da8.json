@@ -1,0 +1,124 @@
+{
+  "episodeId": "MED-085-EXPLAIN-401",
+  "courseId": "MED-085",
+  "title": "A well-state acylcarnitine profile can miss a VLCAD signal",
+  "description": "Proposed source-grounded repair of the pending focused, fictional Unit 5 lesson. It explains why a non-stressed plasma acylcarnitine profile cannot by itself close a VLCAD-deficiency differential, how collection context changes interpretation, and why corroborating evidence remains separate from a profile.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility, or a passing guarantee. The source script is not a ready video and has zero counted video minutes.",
+  "coverageGaps": [
+    "The repair covers only state-dependent interpretation of a VLCAD-related acylcarnitine profile; it is not comprehensive fatty-acid-oxidation instruction.",
+    "No assay-specific reference interval, sensitivity, predictive value, diagnostic threshold, or individualized interpretation is supplied.",
+    "No management, emergency, dietary, fasting, medication, exercise, or specimen-collection protocol is supplied; the Mayo catalog’s caution against deliberately stressing metabolism is retained as a safety boundary, not converted into care advice.",
+    "The ACMG page is focused on initial screen-positive newborn support and cannot be generalized here into an adult or well-state testing algorithm.",
+    "Human clinical review has not been performed.",
+    "This proposal does not fulfill the course video floor; it contains no video and adds zero counted minutes."
+  ],
+  "sourceUrls": [
+    "https://pediatric.testcatalog.org/show/ACRN",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6331364/",
+    "https://www.acmg.net/act-sheets-and-algorithms/",
+    "https://newbornscreening.hrsa.gov/conditions/very-long-chain-acyl-coa-dehydrogenase-deficiency"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "593c6c7b3c87bf78b2fd12436239fd28e2548362146a6da558192395528826f4",
+  "visualSha256": "c5df4f99a8fe8fc3c827858f69f4ee163187747e153933d8aa11142c12a4b283",
+  "evidenceSelectionSha256": "9bbcbc8bf0d77b332419f3e47ae88b49a8012afbd74da067377795f37fab4be6",
+  "reviewedAt": "2026-10-27T02:32:48.423428+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://pediatric.testcatalog.org/show/ACRN",
+      "sourceKind": "selected_public_text",
+      "selectedRecordSha256": "902b621769478ee36665e9d4fcef41933282628256f7c11fd72481f168eab4de",
+      "selectedTextSha256": [
+        "8e2a1944e40016f0328cdf16957f4f345d1638a4f6848c9b6b0aaa1caf1e6746",
+        "a0d3084c9d146b3f977fa3a6296ec437690d4df789c946198f19e7258172f393",
+        "7332f5f6e3dc5d1823c692df0fa56ff2ebb0b2627cd9c7a54ccc35639805a6a2"
+      ],
+      "excerptSha256": "86cca8e042385492723f8f0186507f2e0cc4a22721bbcf645b9ece9230a55d4d",
+      "excerptManifestSha256": "8df0126b1cb3581ebfbf4900d95109ac3a3464860d666cce5b5c86e5f3f77395"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6331364/",
+      "sourceKind": "selected_public_text",
+      "selectedRecordSha256": "163a7f987e705d16c105350f3087961d12cbb0577fae5d69003af8dea4ff9e47",
+      "selectedTextSha256": [
+        "2292b273163362e73e3edcbb56b666f67bb3adbea56ce77974636b02c1f4b04f",
+        "e022c6c6fc8e057b8ca35e324ff51bae42d9240e571ce62810484bc86dd5f4d4"
+      ],
+      "excerptSha256": "31ec8a1f78a927f3445491ae3ef7aa889b3d7f289208f54bfe59ebf3b782b762",
+      "excerptManifestSha256": "0d0372cc55d1f100d2a728d80ffc023c8864117c847c95f3ac6b9c8723aa7725"
+    },
+    {
+      "url": "https://www.acmg.net/act-sheets-and-algorithms/",
+      "sourceKind": "selected_public_text",
+      "selectedRecordSha256": "ac80b69a8115763482eb6dbeb7caf8c18926e1d0b4287444491ad493405e9680",
+      "selectedTextSha256": [
+        "81528458a2131cef5d85644f6ad6d94f8384145349fcd7376e6e394a0301860f"
+      ],
+      "excerptSha256": "81528458a2131cef5d85644f6ad6d94f8384145349fcd7376e6e394a0301860f",
+      "excerptManifestSha256": "48c3069a636e36c59e4cc099b385825a388fead69837271492afe3a54a9f377b"
+    },
+    {
+      "url": "https://newbornscreening.hrsa.gov/conditions/very-long-chain-acyl-coa-dehydrogenase-deficiency",
+      "sourceKind": "selected_public_text",
+      "selectedRecordSha256": "1c54ee154a6f9636577eb95364bb910abedf484143a059470d2fdd3818230c48",
+      "selectedTextSha256": [
+        "1ad346e42ed92808630ffd0248076a1a99e89939d38597873a068c433078339e"
+      ],
+      "excerptSha256": "1ad346e42ed92808630ffd0248076a1a99e89939d38597873a068c433078339e",
+      "excerptManifestSha256": "363d3ab569634e4548745999866e8f6b839ec02e1942827d64e6cf27b28bce85"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation. Selected-public-text provenance covers retained selected UTF-8 excerpts only; it does not identify whole works or publisher bytes.",
+  "sections": [
+    {
+      "title": "What a profile observes, and what it does not decide",
+      "narration": "This focused lesson uses a fictional well-state plasma acylcarnitine result to separate an observation from a diagnostic conclusion. HRSA identifies elevated C14:1 with or without other long-chain acylcarnitines as the newborn-screening finding for VLCAD deficiency [S4]. ACMG lists the VLCAD C14:1 plus-or-minus screen item as time critical and frames its ACT material as support after an initial screen-positive newborn result [S3]. That setting matters: a screening flag is not the same thing as a diagnosis, and this lesson does not replace the current local response to a screen-positive infant. In a plasma acylcarnitine analysis, individual quantitative values support pattern recognition but are not diagnostic by themselves; a profile can point to more than one condition [S1b]. The learning task is therefore precise: a non-characteristic sample shows what this specimen did or did not display at collection. It does not, by itself, settle whether a VLCAD-related disorder is excluded.",
+      "teachingLabels": [
+        "Screening finding is not a diagnosis",
+        "Pattern recognition is not a stand-alone verdict"
+      ],
+      "visualPlan": "A nonnumeric evidence-boundary diagram with three separate labels: newborn screening finding, plasma profile pattern, and final diagnostic integration. Mark the ACT-sheet branch as time critical and clinician-directed; do not draw a treatment pathway."
+    },
+    {
+      "title": "Why a well-state sample can be uninformative",
+      "narration": "The VLCAD-specific review states that plasma acylcarnitine profiles may be normal when the person is not in acute metabolic stress [S2a]. The Mayo laboratory catalog gives the broader interpretive reason: in some disorders, an informative profile may not be detected because diagnostic acylcarnitine accumulation reflects residual enzyme activity, dietary precursor load, and anabolic, catabolic, or treatment state [S1c]. This does not mean every stable specimen is normal, and neither source gives a personal probability that a result has missed disease. It means that a result needs its collection context. The catalog asks for age, family history, clinical condition such as asymptomatic versus acute episode, diet, and drug therapy information [S1a]. Carnitine deficiency can also limit the appearance of abnormally high acylcarnitine concentrations according to the catalog [S1c]. Those are context variables for qualified interpretation, not a checklist that establishes a diagnosis.",
+      "teachingLabels": [
+        "A profile is a state-dependent observation",
+        "State, diet, therapy, and carnitine context matter"
+      ],
+      "visualPlan": "A conceptual snapshot illustration with the same hypothetical biochemical pathway under “non-stressed” and “metabolic-stress” contexts. Use no numeric axis and no claim that either state predicts a result for an individual."
+    },
+    {
+      "title": "Keep corroborating evidence separate",
+      "narration": "For VLCAD deficiency, the review says that, because a plasma profile may be normal outside acute metabolic stress, ACADVL sequencing is recommended for confirmation [S2a]. It also describes leukocyte enzyme assay or fatty-acid-oxidation probe analysis as evidence that may help with persistent biochemical findings and unresolved single-heterozygous or novel variants [S2a]. The Mayo catalog independently says that abnormal acylcarnitine findings usually cannot conclusively establish a specific disease and that independent biochemical or molecular genetic analyses are required to verify a preliminary diagnosis [S1b]. These are different evidence categories. A biochemical profile describes the observed pattern. Molecular and functional findings may add different kinds of corroboration. This lesson does not assign a sequence of testing, interpret variants, or convert any combination of results into an individual diagnosis; it models the narrower discipline of naming what each evidence type can and cannot answer.",
+      "teachingLabels": [
+        "Independent corroboration",
+        "Do not collapse evidence types into certainty"
+      ],
+      "visualPlan": "Three nonhierarchical evidence cards labelled biochemical pattern, molecular finding, and functional finding. Arrows meet at “qualified clinical-laboratory integration,” with no threshold or decision box."
+    },
+    {
+      "title": "A fictional adult illustration without a diagnostic shortcut",
+      "narration": "Author-created fiction: an adult reports episodic muscle symptoms around illness or exertion. At a stable outpatient visit, the plasma acylcarnitine profile is not characteristic. The review describes partial VLCAD deficiency as potentially presenting in adolescence or adulthood with myopathy or rhabdomyolysis, while also warning that a profile may be normal outside acute metabolic stress [S2a] [S2b]. Those population-level observations make the fictional scenario suitable for discussing uncertainty; they do not diagnose the fictional adult and say nothing about a real person. A disciplined interpretation has two statements: the collected specimen did not show a characteristic pattern on that analysis, and that fact alone does not exclude the suspected category. The next educational step is not to provoke a signal or select treatment. It is to recognize the remaining uncertainty and distinguish it from either false reassurance or unwarranted certainty.",
+      "teachingLabels": [
+        "Author-created fiction",
+        "Describe the sample without diagnosing the person"
+      ],
+      "visualPlan": "An author-created fiction card showing clinical context, state at collection, and observed profile, ending in “uncertainty remains.” Include a prominent “not a real patient; not a diagnostic pathway” label."
+    },
+    {
+      "title": "Safety boundary and remaining question",
+      "narration": "The Mayo catalog states that intentionally stressing metabolism, for example with a fasting test, is not advisable before collecting an acylcarnitine profile [S1c]. This episode preserves that statement as a safety boundary and does not turn it into a management protocol. It also does not give reference ranges, quantify false-negative risk, or teach a complete fatty-acid-oxidation differential. For a real specimen, the performing laboratory’s current requirements and qualified clinical-laboratory evaluation control. The durable lesson is smaller: record the state and specimen context, resist treating a profile as a self-sufficient answer, and keep the gap between an observed pattern and a final diagnosis explicit. Source support for this script repair does not mean it has undergone clinician review or that it confers clinical competence or certification.",
+      "teachingLabels": [
+        "Do not deliberately induce metabolic stress",
+        "Scripted educational material; zero video minutes"
+      ],
+      "visualPlan": "A final boundary panel: “no deliberate metabolic stress,” “no individual diagnosis,” “current laboratory and qualified clinical team govern real care,” and “script not video.” Avoid patient imagery and treatment recommendations."
+    }
+  ]
+}

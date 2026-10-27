@@ -1,0 +1,94 @@
+{
+  "episodeId": "MED-X012-EXPLAIN-401",
+  "courseId": "MED-X012",
+  "title": "Constitutional CNVs: classify the variant, then ask what it explains",
+  "description": "Staged source-grounded repair for the pending Unit 5 conceptual lesson. It reinforces the boundary between constitutional CNV classification, ClinGen dosage-sensitivity evidence, and patient-specific clinical correlation without presenting a laboratory scoring exercise or an individual interpretation.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility or a passing guarantee.",
+  "coverageGaps": [
+    "No disease-specific diagnostic algorithm, patient-specific conclusion, formal CNV score, genomic-coordinate interpretation, or laboratory report is supplied.",
+    "The sources support high-level constitutional-CNV classification and dosage-sensitivity concepts, but this proposal does not survey post-2020 updates, local laboratory methods, assay performance, or every CNV evidence category in operational detail.",
+    "The proposed fictional learning activity is not a substitute for qualified laboratory and clinical interpretation.",
+    "Human clinical review has not been performed.",
+    "The source script is not a ready video and adds zero verified minutes. The related public recording lacks positively verified runtime evidence and is not included in lectures."
+  ],
+  "sourceUrls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7313390/",
+    "https://clinicalgenome.org/curation-activities/dosage-sensitivity/",
+    "https://clinicalgenome.org/tools/cnv-webinar/uncoupling-variant-classification-from-clinical-significance-considerations-for-reporting/",
+    "https://www.youtube.com/watch?v=a9HZotQMwGw"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "8ca44b9565cbf43be8b501e925c3a13139728fd5088d8430d5c8794bbcb2546b",
+  "visualSha256": "0e6c9e688527e56c1f61a33fe12040dd46c675dbe3e60dfe81b358181d0bfa8b",
+  "evidenceSelectionSha256": "296a49d0d0460adf20dbc2598d1b28d0c8a4fb20ee99775c78c889fd06fe0be8",
+  "reviewedAt": "2026-10-27T02:38:47.578814+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7313390/",
+      "textSha256": "783ab3ba984d343f6d8d784e2c17819f32c310c0ea9afc8aa497e474b9d22f0c"
+    },
+    {
+      "url": "https://clinicalgenome.org/curation-activities/dosage-sensitivity/",
+      "textSha256": "b8701129c615999877b9b758a216ec6e9b1f19b9e60fa916c17b1c4950a32123"
+    },
+    {
+      "url": "https://clinicalgenome.org/tools/cnv-webinar/uncoupling-variant-classification-from-clinical-significance-considerations-for-reporting/",
+      "textSha256": "54e0af28f47a445f809c40ec1add62bc1c49d51f18a3a90d71d62f01795bac3f"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "Start with the setting and the question",
+      "narration": "This lesson concerns constitutional copy-number variants, meaning copy gains or losses considered in the constitutional setting rather than acquired-neoplasia testing. The ACMG/ClinGen technical standard was developed to promote consistent and transparent classification and reporting of constitutional CNVs across clinical laboratories.[1] Before interpreting a result, separate two tasks. One task is the laboratory evidence question: how well does the available evidence support a category for the defined CNV? The other is the clinical-correlation question: how, if at all, does that result relate to the person being evaluated? The official ClinGen CNV webinar identifies this distinction as uncoupling variant classification from clinical significance in the patient under study.[3] This is a conceptual distinction, not a direction to reclassify a result or decide care. Technical detection and validation, current laboratory policies, and patient-level clinical interpretation remain outside this lesson.",
+      "teachingLabels": [
+        "Constitutional CNV scope",
+        "Classification and clinical correlation are distinct"
+      ],
+      "visualPlan": "A three-panel nonclinical schematic: constitutional CNV report; evidence-based classification; patient-specific clinical correlation. Place a clear boundary line between the latter two. No patient, pedigree, coordinates, score, or real report."
+    },
+    {
+      "title": "Use an evidence map, not a single striking feature",
+      "narration": "The ACMG/ClinGen consensus process identifies several relevant evidence categories for CNV classification: genomic content, dosage-sensitivity predictions and curations, predicted functional effect, clinical overlap reported in the literature, case-control or population evidence, and inheritance patterns.[1] The point of presenting these categories here is to make the evidence landscape visible, not to teach an independent point calculation. A disciplined learner can ask four bounded questions: What evidence is named? What evidence is absent or conflicting? Which statements concern the CNV itself? Which statements concern a phenotype or family context? Keeping those questions separate avoids turning one familiar feature, a reported inheritance pattern, or a single database observation into a complete conclusion. The resulting evidence map is an educational aid. Formal classification and reporting require the responsible laboratory's current process and professional judgment.",
+      "teachingLabels": [
+        "Evidence categories",
+        "Missing and conflicting evidence"
+      ],
+      "visualPlan": "An abstract evidence ledger with six source-category cards flowing to a labeled 'laboratory classification process' box. A separate side box says 'clinical correlation uses additional context'. Do not display points or thresholds."
+    },
+    {
+      "title": "Treat loss and gain as different dosage questions",
+      "narration": "ClinGen describes dosage-sensitivity curation as collecting evidence that supports or refutes haploinsufficiency and triplosensitivity for genes and genomic regions.[2] That wording supports a useful conceptual precaution: a loss and a gain raise different dosage-mechanism questions. Similar-looking intervals do not, by themselves, establish that evidence about a loss transfers to a gain, or the reverse. For teaching purposes, label one path 'loss: ask about haploinsufficiency evidence' and the other 'gain: ask about triplosensitivity evidence.' Then leave an explicit 'unknown or not curated' space rather than assuming that a missing curation is affirmative or negative evidence. The curation resource describes a process for evidence collection; it is not a patient-specific answer. This segment deliberately omits curation scores, gene names, coordinates, and disease claims. Learners should not infer that this conceptual map can validate a detected CNV or determine whether it explains an individual's findings.",
+      "teachingLabels": [
+        "Haploinsufficiency",
+        "Triplosensitivity",
+        "Absence of curation is not a conclusion"
+      ],
+      "visualPlan": "Two parallel paths: loss to haploinsufficiency evidence, gain to triplosensitivity evidence. Both lead to 'evidence review' and then a separate 'qualified laboratory process' box. Add an 'unknown/not curated' note without a score."
+    },
+    {
+      "title": "Keep report language and individual meaning in view",
+      "narration": "The ClinGen webinar's stated purpose is to discuss how a variant's classification may be uncoupled from its clinical significance for the patient under study and how that distinction may be conveyed on clinical reports.[3] The related public recording discusses constitutional CNV interpretation and reporting, including evidence categories used toward classification.[4] A safe conceptual reading exercise is therefore to make two columns. In the first, write only what the report-level classification statement says about the defined CNV. In the second, write the separate clinical questions that still require phenotype, family, and professional context. Do not populate either column with an invented diagnosis, a predicted outcome, or a formal category. Clear separation can make uncertainty visible rather than hiding it. It does not authorize the learner to amend a report, order family testing, or decide management.",
+      "teachingLabels": [
+        "Report language",
+        "Individual relevance remains a separate question"
+      ],
+      "visualPlan": "A generic, fictional report card with a 'classification statement' column beside a 'clinical-correlation questions still open' column. Use neutral placeholders only; do not show any patient data, laboratory name, or clinical outcome."
+    },
+    {
+      "title": "Bounded self-check and referral boundary",
+      "narration": "Self-check: Which evidence categories are being discussed as support for classification, and which questions concern the person rather than the CNV? Self-check: Why should a learner avoid transferring dosage evidence from a loss directly to a gain, or treating an absent curation as proof of benignity? The intended answer is a process boundary, not a score. The consensus framework was designed to improve consistency and transparency across clinical laboratories, and ClinGen's dosage resource curates supporting and refuting evidence for specific dosage mechanisms.[1][2] Neither source turns this source script into a laboratory workflow or a clinical consultation. Escalate real reports and patient-specific questions to the responsible laboratory and qualified clinical team. This staged script has not received human clinical review and adds no video minutes.",
+      "teachingLabels": [
+        "Original self-check prompts",
+        "Refer rather than self-classify",
+        "No video minutes"
+      ],
+      "visualPlan": "A closing boundary diagram: educational evidence map on the left; qualified laboratory and clinical-team responsibilities on the right; an arrow labeled 'refer, do not self-classify'. No patient imagery."
+    }
+  ]
+}

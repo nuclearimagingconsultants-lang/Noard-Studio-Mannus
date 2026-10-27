@@ -1,0 +1,117 @@
+{
+  "episodeId": "MED-X117-EXPLAIN-401",
+  "courseId": "MED-X117",
+  "title": "Pediatric IRD sequencing: choices about secondary findings beyond the retinal question",
+  "description": "Staged, source-grounded repair of the pending independent-study chapter. It distinguishes the retinal indication from possible secondary findings, frames pediatric participation and counseling from AMA ethics guidance, and labels the 2015 family-benefit analysis as historical scholarly argument rather than current consensus. Scripted only; not clinically reviewed, rendered, measured, or ready as a video.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility, fellowship credit, or a passing guarantee. The current laboratory's assay, reporting options, professional guidance, law, and local consent process must be checked by the responsible clinical and genetics team in any real setting.",
+  "coverageGaps": [
+    "Partial coverage only: this chapter addresses the pretest distinction between the retinal question and secondary findings. It is not a complete curriculum in pediatric genetics, consent, counseling, sequencing, result disclosure, or medical ethics.",
+    "The retained AMA source is general ethics guidance, not an inherited-retinal-disease-specific sequencing guideline or a laboratory-specific reporting policy.",
+    "The retained MedlinePlus page defines secondary findings and explains why broader sequencing can surface them. It is patient education and does not establish an individual laboratory's current menu, opt-out process, or reportable-gene list.",
+    "The retained Wilfond et al. article is a 2015 scholarly ethics argument. It is used only to illustrate one historical family-benefit perspective and is not presented as current consensus, clinical guidance, or a basis for individual disclosure.",
+    "No individualized consent, result-disclosure, test-ordering, treatment, or family decision is provided.",
+    "No video exists for this script. It adds zero video minutes and does not resolve the record's verified-hour or verified-external-media deficit.",
+    "Human clinical review has not been performed."
+  ],
+  "sourceUrls": [
+    "https://code-medical-ethics.ama-assn.org/ethics-opinions/genetic-testing-children",
+    "https://medlineplus.gov/genetics/understanding/testing/secondaryfindings/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4617182/"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "69cbd418fdcea46d804d6e09624d2b253e70f7aaf5f563fab5bfb78f4bc59a01",
+  "visualSha256": "4a5e52e4c70c5eccd8a180c209c90203fb039f157f8a954d643b2bd5d522d4de",
+  "evidenceSelectionSha256": "8fa775323f6e50660b8f4deb8e1c2d7945345a4145d0f465096f0fa580c1f3f9",
+  "reviewedAt": "2026-10-27T02:33:55.437866+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://code-medical-ethics.ama-assn.org/ethics-opinions/genetic-testing-children",
+      "sourceKind": "selected_public_text",
+      "selectedRecordSha256": "be2d59e45017c476436c36c1cdaea68298cd83cc9d950a069f94c62bac11b4ba",
+      "selectedTextSha256": [
+        "a8a105f89f295f7c14cf88f171eb7dca74f94835a4119c7d63652947bbc567a8"
+      ],
+      "excerptSha256": "a8a105f89f295f7c14cf88f171eb7dca74f94835a4119c7d63652947bbc567a8",
+      "excerptManifestSha256": "bfdd371548d486db499cefe046a2a4b7a44550309224d4be26512b3b2bcbf6de"
+    },
+    {
+      "url": "https://medlineplus.gov/genetics/understanding/testing/secondaryfindings/",
+      "sourceKind": "selected_public_text",
+      "selectedRecordSha256": "7c93de3d08c0191f6fbec3561960e5cc94747c8a15e89967e5da8ef78416819c",
+      "selectedTextSha256": [
+        "4551d4d5df97ce3ab9b021aa9e84f9c2e590dda934abde437a3ff060f435e5ea"
+      ],
+      "excerptSha256": "4551d4d5df97ce3ab9b021aa9e84f9c2e590dda934abde437a3ff060f435e5ea",
+      "excerptManifestSha256": "061fec51aae3d924983b7e275b07a2522307fc01bf421a2602fc1d7e753d9473"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4617182/",
+      "sourceKind": "selected_public_text",
+      "selectedRecordSha256": "aace5446a286eea5ba1e1d3be0f97907ba08d952ee283843c6e364d205767e84",
+      "selectedTextSha256": [
+        "29eac343a8628702a54a3ad74723f56700ffb4bcaccdde08ad1385cbfb368d67"
+      ],
+      "excerptSha256": "29eac343a8628702a54a3ad74723f56700ffb4bcaccdde08ad1385cbfb368d67",
+      "excerptManifestSha256": "0a3a0e96aeb0a96c30ca2757f905cf2e52c5b01dd3d1b836d703c3e189250fe5"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation. Selected-public-text provenance covers retained selected UTF-8 excerpts only; it does not identify whole works or publisher bytes.",
+  "sections": [
+    {
+      "title": "Name the retinal question before discussing additional information",
+      "narration": "A sequencing conversation for suspected inherited retinal disease can begin by stating the retinal question that prompted testing. Secondary findings are different: MedlinePlus defines them as results about variants unrelated to the test's primary purpose. The same source explains that whole-exome and whole-genome sequencing can identify more genetic changes than sequencing one or a few genes. [S2] This distinction is educationally useful because it keeps the intended retinal diagnostic question visible while acknowledging that broader testing can create a separate question about unrelated information. It does not mean that every test looks for, analyzes, or reports the same categories of findings. The chapter therefore frames a source-grounded question for the responsible team: what is the intended retinal indication, and what additional information could this particular testing pathway address?",
+      "teachingLabels": [
+        "Primary retinal indication",
+        "Secondary finding: unrelated to the primary purpose",
+        "Testing pathways differ"
+      ],
+      "visualPlan": "An image-free two-branch diagram: one branch labeled intended retinal question and the other labeled secondary findings unrelated to the primary purpose; a boundary note says that a laboratory-specific workflow must be confirmed locally."
+    },
+    {
+      "title": "Use the scope of sequencing to explain why the question can arise",
+      "narration": "The source-supported point is limited. MedlinePlus says that whole-exome and whole-genome sequencing can identify many more genetic changes than testing one or a few genes, and that an unexpected potential health problem can bring stress and additional costs for individuals and families. [S2] A study discussion can therefore separate two ideas: broader sequencing may reveal information beyond the retinal indication, and the existence of possible information does not settle whether it is wanted, useful, or handled identically across settings. Avoid turning this into a promise that a particular secondary finding will appear or that a named result would change care. A real testing service, not this script, determines the assay, analysis, reporting options, and current pretest materials.",
+      "teachingLabels": [
+        "Broader sequencing can identify more variation",
+        "Unexpected information can have burdens",
+        "Do not promise a report or outcome"
+      ],
+      "visualPlan": "A simple spectrum from one-or-few-gene testing to whole-exome or whole-genome sequencing, with a separate callout that more detectable variation is not the same as a predetermined report or care decision."
+    },
+    {
+      "title": "Keep the child's present and future interests in the conversation",
+      "narration": "AMA ethics guidance says genetic testing of children raises concerns about present and future autonomy and best interests. It says decisions should balance likely benefits, risks of knowing genetic status, age of onset, and the availability of preventive, therapeutic, or palliative interventions. [S1] For a minor, the AMA says to seek informed consent from the parent or guardian and engage the patient in decision making at a developmentally appropriate level. It also says to help the patient, parent, or guardian access appropriate counseling. [S1] In this self-study chapter, those statements support a structured conversation rather than a fixed answer: identify the retinal question, describe the possible additional-information question, and make room for the child at an appropriate developmental level. They do not authorize the learner to conduct consent or decide a real family's preferences.",
+      "teachingLabels": [
+        "Best interests and future autonomy",
+        "Parent or guardian consent",
+        "Developmentally appropriate child participation",
+        "Appropriate counseling"
+      ],
+      "visualPlan": "Three connected, text-only circles labeled child interests and future autonomy, parent or guardian consent, and developmentally appropriate participation; a fourth circle identifies appropriate counseling."
+    },
+    {
+      "title": "Treat family-benefit reasoning as a perspective, not a standing rule",
+      "narration": "A 2015 ethics article by Wilfond and colleagues argues that secondary findings for adult-onset diseases in pediatric sequencing can benefit parents or other relatives. Its abstract also says some parents might decline such information because it could distract from the child's underlying condition, and that family-impact data may improve future policy. [S3] This chapter uses that article only to show that family interests and the child's interests can be discussed separately. It is not a current professional consensus statement, an inherited-retinal-disease guideline, or a reason to assume that a family should receive or refuse any result. The AMA's attention to the child's present and future autonomy remains an important counterweight. [S1] A responsible discussion labels uncertainty rather than making family benefit a predetermined answer.",
+      "teachingLabels": [
+        "Historical family-benefit perspective",
+        "Not current consensus",
+        "Do not collapse child and family interests"
+      ],
+      "visualPlan": "A balanced, non-directive diagram with child interests and future autonomy on one side, possible family interests on the other, and an uncertainty marker between them. The caption identifies the 2015 article as historical scholarly argument only."
+    },
+    {
+      "title": "Fictional pretest questions and an explicit stopping point",
+      "narration": "Fictional teaching case: a child is being evaluated for a possible inherited retinal disorder, and a parent asks whether a broader test can yield information beyond the retinal question. The source-grounded educational response is to distinguish the primary indication from secondary findings, identify that broader sequencing can detect more variation, and explain that pediatric testing requires attention to best interests, parent or guardian consent, developmentally appropriate participation, and access to counseling. [S1] [S2] The discussion stops before test selection, laboratory-policy interpretation, or result-return decisions. Self-check: Can you state the intended retinal question separately from secondary findings? Can you name why a child's developmental participation and appropriate counseling matter? A real decision requires the responsible clinical and genetics team to review the current assay and local process.",
+      "teachingLabels": [
+        "Author-created fictional case",
+        "Separate questions before results",
+        "Stop before clinical decisions"
+      ],
+      "visualPlan": "A fictional, no-patient-image question map: retinal indication, possible secondary findings, child participation, parent or guardian consent, counseling, and a red boundary line before laboratory or clinical decisions."
+    }
+  ]
+}

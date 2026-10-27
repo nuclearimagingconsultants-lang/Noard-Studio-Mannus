@@ -1,0 +1,86 @@
+{
+  "episodeId": "MED-135-EXPLAIN-401",
+  "courseId": "MED-135",
+  "title": "Kidney Allograft AMR: Reasoning Across MVI, C4d, and DSA",
+  "description": "Proposed source-grounded repair for the pending Unit 10 chapter. It uses the live Banff renal-transplant reference and the Banff 2024 meeting report to teach a bounded evidence-integration approach to AMR/MVI categories. A fictional text-only evidence table illustrates uncertainty; it does not supply patient care advice or diagnostic sign-out.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility or a passing guarantee.",
+  "coverageGaps": [
+    "This narrow proposal does not teach the whole transplant unit, all Banff categories, recurrent or de novo glomerular disease, infection, drug injury, TCMR, molecular assay validation, or local reporting requirements.",
+    "It does not give treatment recommendations, patient-specific interpretation, or a substitute for the live Banff reference, complete biopsy, serology, ancillary testing, multidisciplinary correlation, and qualified local review.",
+    "The Banff 2024 report describes biopsy-based transcript diagnostics as limited to a few centers and constrained by clinical/analytical validity and context-of-use issues; no universal molecular-testing pathway is proposed here.",
+    "No new recording is proposed. This authored script is not a video and contributes zero minutes; the packet's external-recording deficit remains unresolved pending parent validation."
+  ],
+  "sourceUrls": [
+    "https://banfffoundation.org/central-repository-for-banff-classification-resources-3/",
+    "https://www.amjtransplant.org/article/S1600-6135(26)00040-7/fulltext"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "13cc8063ae41b41d7709236fdf8d0b3029da5fb952fd2ad7f876a6d82c5f1657",
+  "visualSha256": "933b8fa9d67da45f81ab762bc92ab0215be0b2b0d00f90798d708cd0c3c8c77b",
+  "evidenceSelectionSha256": "6d06b257ac6f967de0fddad9ac3bebef196306399ba5ee44b072711ab1b60125",
+  "reviewedAt": "2026-10-27T02:37:00.177193+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://banfffoundation.org/central-repository-for-banff-classification-resources-3/",
+      "textSha256": "d60de7fb1ce4317d405dbb776b655ad4982c1c75bc209e13c1ede9288a1e1f24"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "Use a conjunctive framework, not a single-clue label",
+      "narration": "This chapter is limited to evidence integration for the Banff AMR/MVI category. Active AMR is not established from microvascular inflammation, C4d, or donor-specific antibody alone. The live Banff reference requires all three named criteria: a qualifying active lesion, evidence of current or recent antibody interaction with vascular endothelium, and circulating donor-specific antibody evidence; C4d can substitute for the serologic criterion only in the stated framework. The Banff 2024 report says the kidney-classification rules did not change and reaffirms the AMR/MVI clinical-reasoning framework. The learner's task is to keep each criterion separate and mark it present, absent, or unresolved. [1] [2]",
+      "teachingLabels": [
+        "AMR criteria are conjunctive",
+        "MVI is not a stand-alone diagnosis",
+        "State unresolved evidence explicitly"
+      ],
+      "visualPlan": "Text-only three-column evidence board: qualifying lesion, antibody-interaction evidence, and serology. A gate labeled all required criteria precedes any category label; a separate uncertainty box says competing cause or missing context. No patient data or histology image."
+    },
+    {
+      "title": "Build the active-lesion column with its exclusions",
+      "narration": "For the active-lesion criterion, Banff permits microvascular inflammation with glomerulitis and/or peritubular capillaritis, intimal or transmural arteritis, or acute thrombotic microangiopathy when another cause is absent. The qualifications matter. The MVI pathway excludes recurrent or de novo glomerulonephritis; when acute T-cell-mediated rejection, borderline infiltrate, or infection is present, peritubular capillaritis alone is not sufficient and the glomerulitis requirement applies. Acute TMA is likewise not specific for AMR. A useful fictional exercise is to list the observed lesion and then list the competing explanations that must be checked before it is used as an AMR criterion. [1]",
+      "teachingLabels": [
+        "Describe the lesion before inferring mechanism",
+        "Check competing causes",
+        "TMA is not specific to AMR"
+      ],
+      "visualPlan": "A text-only branch begins with three possible active-lesion routes. Each route has a conspicuous check before it: recurrent/de novo GN, TCMR or borderline context, infection, and another cause of TMA. No local threshold or treatment protocol is implied."
+    },
+    {
+      "title": "Keep endothelial-interaction evidence separate from serology",
+      "narration": "The second active-AMR criterion can be met through qualifying linear C4d staining, qualifying moderate MVI with its same contextual qualifications, or biopsy transcript diagnostics above a defined threshold if they are thoroughly validated and available. The third criterion is circulating DSA to HLA or other antigens; the reference says C4d from criterion two may substitute for DSA in that specific criterion. Non-HLA antibody results need sufficiently standardized and clinically validated testing for the clinical context. Do not turn this segment into a universal assay checklist: the 2024 report says transcript diagnostics remain limited to a few centers and have unresolved decentralized-validity and context-of-use issues. [1] [2]",
+      "teachingLabels": [
+        "C4d and DSA are not interchangeable shortcuts",
+        "Molecular results require validation and context",
+        "Keep criterion two and criterion three distinct"
+      ],
+      "visualPlan": "Two adjacent text-only cards: antibody-interaction evidence on the left and serology on the right. A narrow arrow shows the criterion-specific C4d substitution rule. A footer reads validated and available are required for transcript diagnostics."
+    },
+    {
+      "title": "Separate chronic injury and DSA-negative/C4d-negative MVI",
+      "narration": "Chronic active AMR still requires all three criteria, but its first criterion is chronic injury. The current reference includes transplant glomerulopathy only after excluding chronic TMA and chronic recurrent or de novo glomerulonephritis, and includes severe peritubular-capillary basement-membrane multilayering that requires electron microscopy. The reference separately defines MVI that is DSA-negative and C4d-negative with its own three requirements: qualifying moderate MVI with the stated exclusions, no linear C4d staining, and no circulating DSA. In a fictional evidence table, these findings should therefore remain a distinct category pathway rather than being relabeled active AMR because the biopsy is inflamed. [1]",
+      "teachingLabels": [
+        "Chronic morphology needs exclusion checks",
+        "EM may be required for severe ptc multilayering",
+        "Negative C4d and DSA MVI has a distinct pathway"
+      ],
+      "visualPlan": "A text-only split panel compares chronic-injury evaluation with the distinct MVI, DSA-negative and C4d-negative pathway. Exclusion checks appear before every endpoint. The fictional table contains only abstract yes/no/unresolved fields."
+    },
+    {
+      "title": "End with transparent evidence and uncertainty",
+      "narration": "A bounded educational endpoint is a short evidence statement: which named criterion is supported, which is not, what competing process is being considered, and what clinical or laboratory context remains unavailable. The Banff 2024 report emphasizes differential diagnostic reasoning and gives guidance for incomplete or mixed phenotypes; it also warns that ambiguous mixed-rejection wording should be qualified by the exact concomitant diagnoses. This chapter does not ask the learner to make a patient diagnosis or select therapy. It directs the learner back to the live reference and qualified local review when evidence is incomplete, mixed, or outside the narrow framework taught here. [1] [2]",
+      "teachingLabels": [
+        "Report evidence and uncertainty",
+        "Mixed phenotypes need qualification",
+        "Use the live reference and local review"
+      ],
+      "visualPlan": "Text-only closing checklist: criterion evidence, competing explanation, missing context, and current-reference check. A final boundary statement says no patient-specific conclusion or management decision."
+    }
+  ]
+}

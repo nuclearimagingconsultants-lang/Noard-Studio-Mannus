@@ -1,0 +1,87 @@
+{
+  "episodeId": "MED-165-EXPLAIN-401",
+  "courseId": "MED-165",
+  "title": "Pediatric EEG reasoning: match the question to the recording",
+  "description": "Staged source-grounded repair proposal for the pending Unit 3 chapter. It preserves the supplied episode identity and unit, does not replace its authored narration, and adds a bounded communication-and-standards layer rather than waveform-recognition or clinical-pathway instruction.",
+  "educationalLimits": "The ILAE–IFCN source is a routine/sleep EEG minimum-standards guideline with low-to-moderate evidence and conditional, consensus-based recommendations whose implementation must be tailored locally. The AES resource is a reference toolkit; it states that its templates are not mandatory society guidelines. Neither source authorizes this chapter to teach acquisition, waveform recognition, EEG interpretation, diagnosis, treatment, or a local referral/escalation pathway.",
+  "coverageGaps": [
+    "This proposal adds no video and zero counted video minutes; it does not resolve the course-recording-hour deficit.",
+    "Human clinical review has not been performed.",
+    "Pediatric EEG acquisition, electrode application, artifact management, normal age-specific patterns, waveform recognition, and professional interpretation remain outside this proposed chapter.",
+    "Neonatal EEG terminology, prolonged/continuous monitoring operations, seizure capture limitations, and condition-specific diagnostic or treatment decisions still require qualified specialty teaching and local processes.",
+    "The proposal does not establish an institution-specific order, monitoring, referral, escalation, or treatment protocol."
+  ],
+  "sourceUrls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10006292/",
+    "https://aesnet.org/clinical-care/eeg-reporting-toolkit"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "e009aa9ed42faf13dd4591a088608d98dfdcb3689b97f86a89cfb7732e30dea1",
+  "visualSha256": "ae137300900548552372a01bfbec41fc031b81b4b54d86785bf6ff4a2f4e1764",
+  "evidenceSelectionSha256": "a16723edcb8144b9ac4fbe207bc9f65ee37c1976e457a84744851e806c1d6fd7",
+  "reviewedAt": "2026-10-27T02:37:39.125326+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10006292/",
+      "textSha256": "dfd5b08031e8647ee092a2f94f6a3e72b7a776bbab637f89af0f839afe91ccfa"
+    },
+    {
+      "url": "https://aesnet.org/clinical-care/eeg-reporting-toolkit",
+      "textSha256": "bdbada592c5a714ee5272052311713795f62f361ceaf6e9ed3e3928719374e94"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "Proposed repair: name the recording context before using the report",
+      "narration": "Begin an EEG discussion by stating which recording context the report concerns. The AES toolkit supplies separate reference templates for routine EEG, long-term monitoring, epilepsy-monitoring-unit EEG, neonatal EEG, and ambulatory EEG. The ILAE–IFCN publication addresses minimum standards for routine and sleep EEG. Those categories are a way to prevent a learner from treating every EEG reference as the same procedure or from assuming that a report from one context automatically answers a question from another. In this chapter, the task is only to name the stated recording context and the clinical question carried into the report. Do not infer unstated technical quality, event capture, or an independent diagnosis. [SRC-1] [SRC-2]",
+      "teachingLabels": [
+        "State the recording context",
+        "Do not generalize across study types"
+      ],
+      "visualPlan": "Text-only decision map: clinical question → stated recording context → report discussion. Include labeled study-context boxes only; show no waveforms, montages, patient data, or patient imagery."
+    },
+    {
+      "title": "Proposed repair: keep information layers distinct",
+      "narration": "Use the AES reporting categories as a communication scaffold. Its reference templates are designed to convey relevant clinical information, technical and procedural details, EEG findings, interpretations, and documentation elements. A learner can practice sorting a report discussion into those layers: why the study was requested, what recording context is documented, what findings are stated, and what interpretation is attributed to the qualified reader. The aim is accurate communication, not recreating or verifying the clinical interpretation. Label this scaffold as a learning organizer rather than a universal report format, because AES states that no universally accepted structure exists for adult and non-neonatal pediatric EEG reports. [SRC-2]",
+      "teachingLabels": [
+        "Report elements are not interchangeable",
+        "Attribute interpretation"
+      ],
+      "visualPlan": "Four clearly separated cards labeled clinical information, procedure/context, stated findings, and attributed interpretation. A boundary line after the final card reads: qualified clinical review remains required."
+    },
+    {
+      "title": "Proposed repair: explain what a minimum standard can and cannot settle",
+      "narration": "The ILAE–IFCN joint group developed 16 consensus-based recommendations spanning indications, technical standards, recording duration, sleep induction, and provocative methods for routine and sleep EEG. The same source reports low-to-moderate evidence overall, conditional recommendations, and a need for local tailoring of implementation. Present that combination together. A minimum-standards source can identify domains that a recording service must consider; it does not let this chapter prescribe a universal pediatric laboratory protocol or determine what should happen for an individual child. The safe learner takeaway is to recognize the difference between a general standard, a local implementation, and a case-specific clinical decision. [SRC-1]",
+      "teachingLabels": [
+        "Conditional recommendations",
+        "Local implementation matters"
+      ],
+      "visualPlan": "Three-level conceptual ladder: evidence and consensus → locally tailored implementation → individual clinical decision. Mark the last two levels as outside this self-study chapter."
+    },
+    {
+      "title": "Proposed repair: use templates as organizers, not mandates",
+      "narration": "AES describes its sample reports as practical reference tools for clinicians and laboratories developing or refining structured documentation. It also expressly says the templates are not official society-sanctioned guidelines or mandatory reporting standards; they are minimum recommended elements and organizational approaches based on committee expert opinion. A proposed self-check therefore asks: which elements are actually stated in this report, and which are absent or require clarification through the qualified local process? It does not ask the learner to grade a laboratory, decide whether the report is valid, or force the report into a template. This distinction protects the chapter from turning a documentation aid into a clinical rule. [SRC-2]",
+      "teachingLabels": [
+        "Reference tool, not mandate",
+        "Clarify through qualified local process"
+      ],
+      "visualPlan": "A document-outline graphic with a visible 'reference organizer—not mandate' banner. No score, checklist compliance rating, or patient-specific example."
+    },
+    {
+      "title": "Proposed repair: fictional communication rehearsal",
+      "narration": "Author-created fictional prompt: a caregiver asks whether a report from a named EEG study answers the question behind several reported spells. The learner does not diagnose the fictional child or interpret a tracing. Instead, the learner identifies the referral question, repeats the recording context as documented, separates stated findings from the attributed interpretation, and names what must be clarified with the qualified interpreting team. The debrief reiterates that routine/sleep standards are conditional and locally tailored, while the AES templates are non-mandatory reference tools. This makes the exercise about communication discipline and uncertainty rather than diagnosis, seizure classification, or treatment. [SRC-1] [SRC-2]",
+      "teachingLabels": [
+        "Fictional exercise",
+        "Clarify what the report states",
+        "No independent interpretation"
+      ],
+      "visualPlan": "Fictional text-message-style question flowing to four labeled report-context cards and then to 'qualified team clarification.' Do not use identifiable details, EEG traces, or patient imagery."
+    }
+  ]
+}

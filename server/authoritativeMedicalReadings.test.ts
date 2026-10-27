@@ -60,11 +60,13 @@ describe("authoritative additive medical readings", () => {
     expect(validateMedicalReading(privateExtra, "MED-058")).toBe(false);
   });
 
-  it("matches every indexed payload and retains fourteen readings plus unchanged backlog", async () => {
+  it("matches every indexed payload and retains twenty-eight readings plus unchanged legacy draft backlog", async () => {
     const index = JSON.parse(
       await fs.readFile(path.join(root, "reading-index.json"), "utf8")
     );
-    expect(index.entries).toHaveLength(14);
+    expect(index.entries).toHaveLength(28);
+    expect(new Set(index.entries.map((entry: { episodeId: string }) => entry.episodeId)).size).toBe(28);
+    expect(index.entries.filter((entry: { episodeId: string }) => entry.episodeId.endsWith("-EXPLAIN-401"))).toHaveLength(14);
     for (const entry of index.entries) {
       const expected = await payload(entry.episodeId, entry.payloadSha256);
       const result = await loadMedicalReadings(entry.courseId);

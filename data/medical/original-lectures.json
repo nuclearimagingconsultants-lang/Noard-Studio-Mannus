@@ -3399,6 +3399,84 @@
         "vtt": "0faec86c603a08bd9fc7463f762949060fc32fa8c831f3ca149895a1fcad583f",
         "transcript": "71535ac094b82ed0aa3eedfcf092add7061b895aa714012385d55feb41b0db18"
       }
+    },
+    {
+      "id": "MED-110-EXPLAIN-401",
+      "title": "Male fertility preservation before gonadotoxic therapy: distinguish sperm banking, retrieval, and experimental tissue preservation",
+      "description": "A distinct, source-bounded Unit 11 chapter on the male fertility-preservation branch. It separates early fertility-risk discussion and postpubertal sperm cryopreservation from specialist sperm-retrieval discussions and experimental prepubertal testicular-tissue cryopreservation. Scripted only; not rendered, measured media, clinical training, or a care protocol.",
+      "status": "ready",
+      "sourceKind": "medical_instruction",
+      "medicalSourceReviewStatus": "passed_automated_source_check",
+      "humanClinicalReviewStatus": "not performed",
+      "programIds": [
+        "med"
+      ],
+      "courseIds": [
+        "MED-110"
+      ],
+      "isInstructional": true,
+      "durationSeconds": 357,
+      "videoUrl": "/manus-storage/MED-110-EXPLAIN-401_7498c6a8.mp4",
+      "captionUrl": "/manus-storage/MED-110-EXPLAIN-401_a2a9a467.vtt",
+      "transcriptUrl": "/manus-storage/MED-110-EXPLAIN-401.transcript_23672256.md",
+      "sourceUrls": [
+        "https://www.asrm.org/practice-guidance/practice-committee-documents/fertility-preservation-in-patients-with-medical-indications-a-committee-opinion-2026/",
+        "https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-men"
+      ],
+      "scriptSha256": "6651bdcc2dcea1e4c9d305f96bf9a23fd1fa558359cce83bc14fb28b47b85177",
+      "visualSha256": "df68b90f6b5536ca9a8894371b473061c26f95c3d95f4eca03ec3b250f8c73d9",
+      "evidenceSelectionSha256": "95b25cd497bdddf4ca1765844748c292376d793e3cd94a3092466f7b4769a784",
+      "renderContentSha256": "cc0dd1854204792765e08684979726079f2b840b3f99b823ad68988e0ec91e16",
+      "localAssetSha256": {
+        "mp4": "4025ccc9091e7510b4169d5177ee6436863a98ace2e9ee7fb83c62fe0e618e58",
+        "vtt": "804a622a7fd919f7d11a34950b9894c7e1a120605d37a7687cd7b8102ed9f864",
+        "transcript": "594920c5179d4dca0f0fb9deb92e2a21a5ff1eb07b6c91ef66f2714f180082a0"
+      },
+      "uploadedAssetSha256": {
+        "mp4": "4025ccc9091e7510b4169d5177ee6436863a98ace2e9ee7fb83c62fe0e618e58",
+        "vtt": "804a622a7fd919f7d11a34950b9894c7e1a120605d37a7687cd7b8102ed9f864",
+        "transcript": "594920c5179d4dca0f0fb9deb92e2a21a5ff1eb07b6c91ef66f2714f180082a0"
+      }
+    },
+    {
+      "id": "MED-059-EXPLAIN-401",
+      "title": "Oncology consult handoff: compare, report, and escalate",
+      "description": "Proposed source-grounded repair of the pending Unit 1 lesson. It frames adult oncology staging/follow-up communication, keeps comparison status explicit, and separates an ordinary report from locally governed enhanced communication. It does not teach site-specific staging or treatment decisions.",
+      "status": "ready",
+      "sourceKind": "medical_instruction",
+      "medicalSourceReviewStatus": "passed_automated_source_check",
+      "humanClinicalReviewStatus": "not performed",
+      "programIds": [
+        "med"
+      ],
+      "courseIds": [
+        "MED-059"
+      ],
+      "isInstructional": true,
+      "durationSeconds": 271,
+      "videoUrl": "/manus-storage/MED-059-EXPLAIN-401_578320f6.mp4",
+      "captionUrl": "/manus-storage/MED-059-EXPLAIN-401_a7d91e44.vtt",
+      "transcriptUrl": "/manus-storage/MED-059-EXPLAIN-401.transcript_e1ae8547.md",
+      "sourceUrls": [
+        "https://gravitas.acr.org/PPTS/GetDocumentView?docId=74",
+        "https://www.dana-farber.org/for-physicians/education-training/fellowships-training-programs/cancer-imaging-program-fellowships",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3292650/",
+        "https://www.acr.org/Clinical-Resources/Clinical-Tools-and-Reference/Practice-Parameters-and-Technical-Standards"
+      ],
+      "scriptSha256": "34d41fa8fc493d2ee1c3be4e1453aaa3e15fef29a9df11473ae4212e26dcac17",
+      "visualSha256": "5094bfb28ad496a1cdd55fac00c6b8bd159840f78e0131196084e5d29b1b63a2",
+      "evidenceSelectionSha256": "4f70af9baec93b4f80f982f04392d9ab4969396324b31f6093e3ffba3e04802b",
+      "renderContentSha256": "bfdffd20ccc8774d645090cc5726506ece6bd1924dfc0984a7f672b62f4a94c5",
+      "localAssetSha256": {
+        "mp4": "353ea548226a5b7d16531a3cb076ca8d09769543a01b711ea62f4ce02b83a1c5",
+        "vtt": "7ed433bd103c398fff47a84403fea3e6a8086bad50fa71cf32e2695823529708",
+        "transcript": "fe53500599b179c4532c31ff6543e4192194d4623fded96b0760a0de98f3b9e2"
+      },
+      "uploadedAssetSha256": {
+        "mp4": "353ea548226a5b7d16531a3cb076ca8d09769543a01b711ea62f4ce02b83a1c5",
+        "vtt": "7ed433bd103c398fff47a84403fea3e6a8086bad50fa71cf32e2695823529708",
+        "transcript": "fe53500599b179c4532c31ff6543e4192194d4623fded96b0760a0de98f3b9e2"
+      }
     }
   ],
   "sourceCoverage": [],

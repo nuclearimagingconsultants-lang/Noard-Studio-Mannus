@@ -1,0 +1,117 @@
+{
+  "episodeId": "MED-X061-EXPLAIN-401",
+  "courseId": "MED-X061",
+  "title": "Compare the Evidence, Not the Modalities: A Cross-Modal Evidence Map",
+  "description": "A source-grounded repair proposal for the pending Unit 12 lesson. It teaches learners to identify what a public overview, device-labeling framework, product label, and jurisdictional guideline can each support before attempting a cross-modal synthesis. It makes no efficacy ranking, patient-specific recommendation, treatment protocol, or regulatory conclusion beyond the cited source boundaries.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility or a passing guarantee.",
+  "coverageGaps": [
+    "The lesson does not compare clinical efficacy, acceptability, safety, cost, access, or treatment sequence across modalities because the inspected sources do not provide a common, current comparative evidence set.",
+    "NIMH's public overview is a high-level educational source. Its grouping of therapies is not a substitute for current product-specific FDA records, local service requirements, or individual assessment.",
+    "The FDA rTMS source is a special-controls labeling framework, not a current instruction-for-use or clearance determination for a particular model.",
+    "The DailyMed source is the SPRAVATO label only. It does not support claims about racemic ketamine, other routes, other products, or comparative ketamine efficacy.",
+    "NICE NG222 is UK guidance. It is not a U.S. label, local law, or universal clinical protocol; it directs readers to separate guidance for TMS and implanted VNS.",
+    "No verified new recording is proposed. This source script contributes zero minutes, and the record's verified-hour deficit remains unresolved pending independently verified, substantive, nonduplicate recordings.",
+    "NICE NG222 excerpt provided does not show ECT‑specific recommendation text or link‑outs to TMS/VNS interventional guidance; those claims remain out of scope without additional excerpts.",
+    "NG222 excerpt does not contain the explicit non‑mandatory disclaimer language; only general shared‑decision and service‑framework statements are supported."
+  ],
+  "sourceUrls": [
+    "https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies",
+    "https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/repetitive-transcranial-magnetic-stimulation-rtms-systems-class-ii-special-controls-guidance",
+    "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+    "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "71adb194e6f887c10f98d5e6e56e6d3a5ae323d26621e560b08fdd6ded2a81f5",
+  "visualSha256": "d7ca35c470fcf03cbac4b3916c97321380c7a4cf8e06b4936a29aa493e32cea5",
+  "evidenceSelectionSha256": "9f9761be71b8999b3a4b0dca1e904862bd902fbcc0a57b78bad9d22b483272b0",
+  "reviewedAt": "2026-10-27T02:41:33.140338+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies",
+      "textSha256": "27dcd6157949edd6522c6cd1816499d7a61c200c5bfdd3f92baf92106fbba126"
+    },
+    {
+      "url": "https://www.fda.gov/medical-devices/guidance-documents-medical-devices-and-radiation-emitting-products/repetitive-transcranial-magnetic-stimulation-rtms-systems-class-ii-special-controls-guidance",
+      "textSha256": "90644556aa9ac20e81f4e6476d9e45ce44dfb4538ba8a530fbdd55c51a63fa9f"
+    },
+    {
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d81a6a79-a74a-44b7-822c-0dfa3036eaed",
+      "textSha256": "4ccf4ce878e5ae62bad2b1e6f016f297bb44b057e91d0f71e4c99f0f19f5fe7b"
+    },
+    {
+      "url": "https://www.nice.org.uk/guidance/ng222/chapter/Recommendations",
+      "textSha256": "d0db5b8d3307d580da00bccb66770a14a7efd875f1e12dff0dd9b83c43823c75"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "Begin with the source question, not a modality leaderboard",
+      "narration": "A cross-modal evidence map should begin by asking what kind of statement is under review. A public overview, a device-labeling framework, a drug label, and a clinical guideline answer different questions. None becomes a head-to-head comparison merely because it mentions more than one intervention. On its public overview, NIMH separates the therapies it lists as FDA-authorized from therapies it calls newer and experimental; it lists ECT, rTMS, and VNS in the first group and magnetic seizure therapy and DBS in the second [S1]. That is a classification used by this overview. It is not a patient-specific selection rule and it does not establish that every intervention in one group is interchangeable with another. Before a conference compares anything, write a neutral question such as: ‘Which source type supports each statement, and what does it leave unaddressed?’",
+      "teachingLabels": [
+        "Classify the claim before comparing it",
+        "A category is not a ranking"
+      ],
+      "visualPlan": "An original four-column map labelled public overview, device-labeling framework, product label, and guideline. A centered banner reads ‘source role before comparison’; no patient imagery or outcome graphics."
+    },
+    {
+      "title": "Keep high-level modality categories high level",
+      "narration": "The NIMH overview also says that treatment plans are based on the individual’s needs and medical situation and that brain-stimulation therapies should be prescribed and monitored by a health care provider with specific training and expertise [S1]. In the map, record this as an overview-level care boundary. Do not silently convert it into a claim that all listed therapies have the same indication, evidence base, supervision requirements, or urgency role. A useful map therefore has two separate cells: one for a source’s stated category and one for its decision boundary. If the source does not give a current product indication, a population, a comparator, or a time horizon, mark that field ‘not supplied by this source.’",
+      "teachingLabels": [
+        "Record absent fields as absent",
+        "Overview is not product labeling"
+      ],
+      "visualPlan": "A source card with separate fields for ‘what it classifies,’ ‘what it says about care context,’ and ‘what it does not establish.’"
+    },
+    {
+      "title": "Read an rTMS safety and labeling source for its actual job",
+      "narration": "FDA’s rTMS special-controls guidance describes what labeling should contain. It calls for an indication for use consistent with the regulation and a description of the clinical-trial population [S2]. It also describes labeling about contraindications, warnings, precautions, adverse events, seizure risk, and situations where safety or effectiveness has not been established [S2]. The guidance says that the therapeutic effects of rTMS require several treatments over time and recommends a label warning against use in acute circumstances [S2]. In an evidence map, these are labeling and risk-context facts for rTMS. They are not a current model-specific instruction for use, a seizure-management lesson, a universal referral clearance, or proof that rTMS is superior or inferior to another modality.",
+      "teachingLabels": [
+        "Labeling framework is not a ranking",
+        "Device-specific review remains necessary"
+      ],
+      "visualPlan": "An original rTMS source card divided into indication, studied population, warning/precaution, and unanswered comparison question. The card is explicitly labelled ‘not an operator manual.’"
+    },
+    {
+      "title": "Do not let a product label become a class-wide claim",
+      "narration": "The current DailyMed record for SPRAVATO identifies adult indications for treatment-resistant depression and for depressive symptoms in adults with MDD with acute suicidal ideation or behavior, with the latter used with an oral antidepressant [S3]. It also states that effectiveness in preventing suicide or reducing suicidal ideation or behavior has not been demonstrated and that use does not preclude hospitalization when clinically warranted [S3]. The same label requires direct supervision and at least two hours of post-administration observation, including respiratory-status monitoring [S3]. On the map, these are product-label facts for SPRAVATO. They cannot be widened into a statement about racemic ketamine, another route, another product, or an entire ‘rapid-acting’ treatment class. They also do not supply a cross-modal efficacy comparison.",
+      "teachingLabels": [
+        "Product-specific evidence stays product-specific",
+        "Improvement does not replace urgent care when indicated"
+      ],
+      "visualPlan": "An original product-label card with scope boundaries around the product name and a red ‘do not generalize beyond this label’ edge marker; no dosing table or patient imagery."
+    },
+    {
+      "title": "Treat a guideline as a jurisdictional recommendation, not a universal label",
+      "narration": "NICE guidance should be mapped as jurisdiction‑specific recommendations and not as a universal label. In NG222, NICE emphasizes shared decision‑making, involvement in treatment choices, and the use of stepped or matched care models within the UK service context [S4]. When you extract from this guideline for the map, record: the UK jurisdiction, the recommendation type (for example, psychological treatments and antidepressants organized by severity), and that NICE sets out service‑delivery frameworks such as stepped or matched care and collaborative care rather than product labels [S4]. Avoid projecting this guideline into non‑UK regulatory or labeling roles, and do not convert it into proof that any particular modality should be chosen for an individual or into a direct comparison with a U.S. product label.",
+      "teachingLabels": [
+        "Guideline, label, and local policy are different source types",
+        "Retain jurisdiction and decision context"
+      ],
+      "visualPlan": "A jurisdiction badge on a guideline card, with arrows from ECT, rTMS, and VNS labels to distinct source boxes rather than a single rank-order line."
+    },
+    {
+      "title": "Worked fictional conference map: four statements, four source roles",
+      "narration": "Use this author-created exercise without inventing a patient or a trial result. The conference receives four statements: ‘NIMH groups these therapies in a public overview’; ‘FDA describes rTMS labeling expectations’; ‘the SPRAVATO label states supervision and observation conditions’; and ‘NICE links TMS and VNS to separate guidance.’ The learners place each statement in one row. For every row, they write the source type, the exact scope, the population or product if named, the jurisdiction if relevant, and at least one unanswered question. The completed map may say that the statements are not directly comparable. That is a valid synthesis result. It is safer than filling gaps with an efficacy claim, an assumed indication, or an individual treatment recommendation.",
+      "teachingLabels": [
+        "Fictional exercise; no patient or trial data",
+        "Not directly comparable is an allowed conclusion"
+      ],
+      "visualPlan": "A fictional four-row conference worksheet with ‘source role,’ ‘supports,’ and ‘does not support’ columns. All examples are text-only and contain no outcome values."
+    },
+    {
+      "title": "Close by naming the remaining evidence work",
+      "narration": "This repaired lesson supports only the skill of preserving source boundaries. It does not supply a common systematic-review question, shared outcomes, matched populations, current device-specific instructions, a local service policy, or a current cross-modality evidence synthesis. Those gaps must remain visible. A later review that seeks to compare outcomes would need current, claim-specific, comparable evidence and qualified clinical interpretation. This episode is scripted educational material only, has not received human clinical review, is not a ready video, and adds zero counted minutes. It therefore cannot resolve the record’s verified-recording deficit.",
+      "teachingLabels": [
+        "Name the remaining evidence work",
+        "Scripted material adds zero video minutes"
+      ],
+      "visualPlan": "A closing evidence-map footer showing unresolved fields: comparable population, comparator, outcome, follow-up, current product instruction, and local policy. It also states ‘scripted; zero video minutes; not human-reviewed.’"
+    }
+  ]
+}

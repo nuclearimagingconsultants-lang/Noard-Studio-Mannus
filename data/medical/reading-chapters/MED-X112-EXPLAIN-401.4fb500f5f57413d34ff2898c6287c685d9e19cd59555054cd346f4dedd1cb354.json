@@ -1,0 +1,101 @@
+{
+  "episodeId": "MED-X112-EXPLAIN-401",
+  "courseId": "MED-X112",
+  "title": "Postpartum positional headache after neuraxial procedures: pattern, differential, and uncertainty",
+  "description": "Staged source-grounded repair for the pending Unit 11 adult-postpartum chapter. It distinguishes a compatible post-dural-puncture pattern from a confirmed classification and keeps the obstetric differential visible. Independent educational self-study; no patient-specific management advice.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility or a passing guarantee.",
+  "coverageGaps": [
+    "This narrow repair does not cover the full pregnancy/postpartum headache differential, diagnostic work-up, treatment guidance, procedure selection, or local escalation pathways.",
+    "ACOG detailed recommendation text was not publicly retrievable without member login; no detailed ACOG recommendation is scripted here.",
+    "A source-supported script is not a recording, has no verified runtime, and adds zero counted video minutes or measured hours.",
+    "Human clinical review was not performed. Current institutional protocols and current guidance require qualified clinical review before any clinical use."
+  ],
+  "sourceUrls": [
+    "https://www.asahq.org/standards-and-practice-parameters/statement-on-post-dural-puncture-headache-management",
+    "https://ichd-3.org/7-headache-attributed-to-non-vascular-intracranial-disorder/7-2-headache-attributed-to-low-cerebrospinal-fluid-pressure/7-2-1-post-dural-puncture-headache/",
+    "https://www.acog.org/clinical/guidance/clinical-practice-guideline/2022/05/headaches-in-pregnancy-and-postpartum/"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "a61bd9d2822e182e76acf88fe3c02d8030cb5d537206d162441b6401d99386e4",
+  "visualSha256": "a2292a00ac9edafa30b7532d4eb8d5cc3a9877d3846313ef99b11547196aa85b",
+  "evidenceSelectionSha256": "7b69701c49014b5bf47ed75f4ec4604b21c97f31b7bdada92f6a6977ab8b6524",
+  "reviewedAt": "2026-10-27T02:33:50.283994+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://www.asahq.org/standards-and-practice-parameters/statement-on-post-dural-puncture-headache-management",
+      "textSha256": "ed937332f25fdd7b7756c6aecc0163a3e59ff375648b0d1208d5c4a6e272dad5"
+    },
+    {
+      "url": "https://ichd-3.org/7-headache-attributed-to-non-vascular-intracranial-disorder/7-2-headache-attributed-to-low-cerebrospinal-fluid-pressure/7-2-1-post-dural-puncture-headache/",
+      "sourceKind": "selected_public_text",
+      "selectedRecordSha256": "88c29c3d40af48e9a85152edb5a172ac40769779527718916dfff6663539376f",
+      "selectedTextSha256": [
+        "39a3525a32098868512d5e90b61ed29ee4c3fa65a7aa48e385aae6da7e1e137c"
+      ],
+      "excerptSha256": "39a3525a32098868512d5e90b61ed29ee4c3fa65a7aa48e385aae6da7e1e137c",
+      "excerptManifestSha256": "3fa3a29b6a99685c245faba2dca3d90a0ccc10bcfeb97b3dc2b71918cf9b3519"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation. Selected-public-text provenance covers retained selected UTF-8 excerpts only; it does not identify whole works or publisher bytes.",
+  "sections": [
+    {
+      "title": "Classify carefully: procedure, timing, and competing explanations",
+      "narration": "The official ICHD-3 description places post-dural-puncture headache after a lumbar puncture, within five days, and attributes it to cerebrospinal-fluid leakage through the dural puncture. Its criteria also require that a dural puncture has been performed and that the headache is not better accounted for by another ICHD-3 diagnosis. [ICHD-3] In this chapter, a recent neuraxial procedure and compatible timing can support suspicion; they do not turn chronology alone into a diagnosis. When the puncture is not established or a competing explanation remains plausible, use calibrated language such as “compatible with a suspected post-dural-puncture pattern,” not a definitive classification.",
+      "teachingLabels": [
+        "Classification requires more than timing",
+        "Compatible is not confirmed"
+      ],
+      "visualPlan": "A three-input diagram labelled procedure evidence, timing, and competing explanation. A note states that all three inform reasoning; no input alone confirms the diagnosis."
+    },
+    {
+      "title": "Posture and documentation are imperfect clues",
+      "narration": "The ASA obstetric statement calls documented dural puncture with severe postural headache the most characteristic clinical presentation, based on a detailed history and physical examination. It also states that a postural component may be absent in up to 5% of post-dural-puncture-headache cases and that an epidural dural puncture may be unrecognized in one third of cases. [ASA] These observations prevent two shortcuts: lack of a postural component does not by itself exclude the pattern, and a procedure record without a recognized puncture does not by itself prove or exclude it. The lesson is to interpret posture and documentation as contextual evidence, not binary gates.",
+      "teachingLabels": [
+        "Most characteristic is not universal",
+        "Documentation can be incomplete"
+      ],
+      "visualPlan": "Two evidence sliders, one for posture and one for procedure documentation, each feeding a “contextual evidence” box rather than a diagnostic stamp."
+    },
+    {
+      "title": "Keep the obstetric differential explicit",
+      "narration": "For a suspected post-dural-puncture headache in an obstetric patient, the ASA statement lists caffeine withdrawal, migraine, meningitis, sinus-related causes, preeclampsia, pneumocephalus, and intracranial pathology including subdural hematoma and posterior reversible encephalopathy syndrome. [ASA] This source list is a reminder to resist anchoring on the neuraxial timeline. It is not a complete differential for every postpartum patient, and it does not diagnose any listed condition. A learner should be able to say what supports the post-dural-puncture pattern, what is atypical, and which competing explanation remains important.",
+      "teachingLabels": [
+        "Procedure exposure is not proof",
+        "Differential is non-exhaustive"
+      ],
+      "visualPlan": "A non-exhaustive differential wheel around “postpartum headache after neuraxial procedure,” with no ranking or testing algorithm."
+    },
+    {
+      "title": "A change in pattern reopens the question",
+      "narration": "ASA states that severe, unexpected, or atypical features warrant full neurological evaluation including neurology consultation and radiological imaging. It also states that a headache that changes in nature, develops neurological signs, has reduced consciousness, is atypical, or persists after two unsuccessful epidural blood patches warrants urgent consideration of further investigation, imaging, and specialist consultation. [ASA] In this educational chapter, those statements support one reasoning habit: do not freeze the first explanation when the clinical picture changes. This is not an individual triage or testing protocol, and it does not select a test or treatment for any person.",
+      "teachingLabels": [
+        "A changing course changes the reasoning",
+        "No bedside algorithm supplied"
+      ],
+      "visualPlan": "A loop: initial working explanation → follow clinical course → atypical/change feature → reopen differential and seek qualified evaluation. No treatment branch is displayed."
+    },
+    {
+      "title": "Fictional calibration exercise",
+      "narration": "Author-created fictional illustration: an adult develops headache after labor epidural analgesia; no dural puncture was recognized. The initial report is worse upright, but later the pattern becomes less clearly positional. A careful learner can say that the procedure context and initial phenotype support a suspected post-dural-puncture pattern, while the absent recognized puncture and evolving pattern prevent certainty. [ASA] The learner should retain alternative explanations and should not state that the ICHD-3 diagnosis is established merely from timing. [ICHD-3] Self-check: Which facts support a pattern? Which facts limit classification? What later change would require the learner to reopen the differential?",
+      "teachingLabels": [
+        "Fictional case",
+        "Pattern is not proof"
+      ],
+      "visualPlan": "A clearly fictional, text-only timeline with “supports pattern,” “limits certainty,” and “reopen differential” callouts. No patient likeness, image, or procedural demonstration."
+    },
+    {
+      "title": "Scope boundary for pregnancy and postpartum guidance",
+      "narration": "ACOG’s public guideline page states that its purpose is evidence-based recommendations for evaluating and treating primary and secondary headaches in pregnancy and postpartum and identifies pregnant and postpartum patients with primary or new secondary headaches as the target population. [ACOG] The detailed recommendation text was not publicly available in this retrieval because the page labels the full text a member benefit. This staged chapter therefore does not paraphrase inaccessible ACOG recommendations. It remains a narrow lesson on uncertainty around a post-dural-puncture pattern and leaves broader pregnancy/postpartum assessment and treatment as an explicit unresolved gap.",
+      "teachingLabels": [
+        "Scope is narrower than the guideline",
+        "No inaccessible recommendation paraphrased"
+      ],
+      "visualPlan": "A scope boundary box: “covered here: narrow PDPH pattern and uncertainty”; “not covered: full pregnancy/postpartum assessment, work-up, and treatment guidance.”"
+    }
+  ]
+}

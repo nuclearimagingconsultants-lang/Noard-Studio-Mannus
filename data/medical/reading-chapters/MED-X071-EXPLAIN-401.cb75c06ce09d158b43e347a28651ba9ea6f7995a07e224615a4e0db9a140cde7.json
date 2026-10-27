@@ -1,0 +1,126 @@
+{
+  "episodeId": "MED-X071-EXPLAIN-401",
+  "courseId": "MED-X071",
+  "title": "Pediatric thyroid nodules: why adult risk shortcuts do not transfer",
+  "description": "Proposed source-grounded repair for the existing pending Unit 12 chapter. It teaches a narrow pediatric evidence-appraisal and case-representation problem: adult ultrasound risk systems and dimensional criteria cannot be silently treated as validated pediatric decision tools. The illustration is fictional, contains no patient recommendation, and is not ready media.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility, or a passing guarantee. No patient-specific threshold, diagnosis, test order, or treatment selection is supplied.",
+  "coverageGaps": [
+    "This repair supports only pediatric nodule framing, adult-risk-system limits, descriptive ultrasound reasoning, the separate cervical-node question, and evidence limits around FNA/FNB and molecular testing.",
+    "It does not provide pediatric ultrasound or FNA/FNB thresholds, a full differential, a treatment algorithm, surgical technique, anesthesia planning, molecular-test selection, surveillance schedule, or a complete pediatric differentiated-thyroid-cancer curriculum.",
+    "The public sources inspected include a 2022 European Thyroid Association guideline and a 2015 American Thyroid Association guideline; later specialty guidance must be checked before any clinical use.",
+    "Human clinical review has not been performed.",
+    "No video was created. This source script contributes zero verified video minutes and does not resolve the record-hours deficit."
+  ],
+  "sourceUrls": [
+    "https://www.cancer.gov/types/thyroid/hp/child-thyroid-treatment-pdq",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC9716393/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4854274/"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "dc970801522ccb66fb22c356d8d53dd4840d2eb223912f6ac7fc98437dcea622",
+  "visualSha256": "bc1b88688677dec9a61d053e3a9e46fd591e5b4e8a36601b997ed599ddd18947",
+  "evidenceSelectionSha256": "60e397554d556afd6c19e6b68b1794ca5b5e9d11d883ddd5517d8977cf50f8e6",
+  "reviewedAt": "2026-10-27T02:33:38.901776+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://www.cancer.gov/types/thyroid/hp/child-thyroid-treatment-pdq",
+      "sourceKind": "selected_public_text",
+      "selectedRecordSha256": "b5fd515ab2ebe3cbdde0af021f3a63f3b2d2310eae2023df253933760485bded",
+      "selectedTextSha256": [
+        "f677de5a75f1656986f243a2b5694e5f9d08261c318d424373a18f9e8f2494fe"
+      ],
+      "excerptSha256": "f677de5a75f1656986f243a2b5694e5f9d08261c318d424373a18f9e8f2494fe",
+      "excerptManifestSha256": "451ec921bff88d1f8ce999adcba084ea52b8b6dbb1670f37f605079d35ec6257"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9716393/",
+      "sourceKind": "selected_public_text",
+      "selectedRecordSha256": "25ba2b6bbbe62d615a4382d8314c05ffbc7e08d6380439cff54a0bbb9bd41d76",
+      "selectedTextSha256": [
+        "79a53367a7be5d09106d3218a832189b9bac65ee68146dc05104d62092e7a44b",
+        "37455855688a429b159cf6dc35ab9da94c6e2fc60ba689f55a1759b0bcfb8528"
+      ],
+      "excerptSha256": "a3b203ff74faf8376b559c7d84f9ed5b10eee479e071a646bfbe9c44a017d04b",
+      "excerptManifestSha256": "ed3dca4bf6e06b63fbe088acdd6aa3ba19e01a9576713457c654975679b0b133"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4854274/",
+      "sourceKind": "selected_public_text",
+      "selectedRecordSha256": "0d5aa23d0e7e1968bf01ff4b14e66f2eb61e9121b3cda25cccd96368dcef68c5",
+      "selectedTextSha256": [
+        "820c9bcbf38ed483bee586df96c9c4a4e15bfe0669d3cf0f374d959de9eb7129",
+        "0fcd7719b3399280e4e491e52a1cd1921eee260cc1ffeedfa9c8ab8163719531"
+      ],
+      "excerptSha256": "4b43e4511f6820c3f0437bc148aa408c49f4c17d983dd8b3fec840bfe19f34dd",
+      "excerptManifestSha256": "cf802d6534019e7eb9ac8c7280c2eeb8fb078bba9418cc1da5a2a409bd342b77"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation. Selected-public-text provenance covers retained selected UTF-8 excerpts only; it does not identify whole works or publisher bytes.",
+  "sections": [
+    {
+      "title": "Start with the pediatric question, not an adult score",
+      "narration": "A thyroid nodule in a child should not be reduced to an adult category by default. The National Cancer Institute PDQ explains that adult ultrasound scoring systems, including TI-RADS, were developed to select adult nodules for fine-needle aspiration. It says that the higher incidence of differentiated thyroid carcinoma in pediatric nodules and the lack of pediatric validation limit extrapolation of those criteria to children. The European Thyroid Association guideline likewise states that ultrasound scoring systems are based on adult populations and have not been validated in children; it specifically cautions that adult dimensional criteria should not be applied to children with smaller thyroid dimensions. The learning task is therefore to preserve age and evidence applicability in the case representation rather than manufacture a pediatric meaning for an adult score. This is an evidence-appraisal point, not a diagnosis or a threshold. [E1] [E2]",
+      "teachingLabels": [
+        "Population applicability",
+        "Adult-system validation limit",
+        "No diagnostic endpoint"
+      ],
+      "visualPlan": "A text-only evidence boundary diagram: adult scoring-system evidence on one side, pediatric nodule question on the other, and a central label reading 'not silently transferable'. No patient image, score, or management endpoint."
+    },
+    {
+      "title": "Describe ultrasound observations before assigning certainty",
+      "narration": "The evidence boundary does not make ultrasound unhelpful. The ATA pediatric guideline explains that size alone is more problematic in children because thyroid volume changes with age and size alone does not predict malignant histology. It identifies clinical context and ultrasound characteristics as the preferred basis for identifying nodules that warrant further evaluation. The same source names hypoechogenicity, irregular margins, increased intranodular blood flow, microcalcifications, and abnormal cervical lymph nodes as features that can increase concern. The European guideline adds an essential qualifier: ultrasound alone cannot definitively distinguish a benign thyroid nodule from thyroid cancer. A learner can therefore practice separating observed descriptors from a conclusion. The lesson must not turn a collection of concerning features into an individual diagnosis. [E2] [E3]",
+      "teachingLabels": [
+        "Describe before concluding",
+        "Size alone is insufficient in children",
+        "Ultrasound has limits"
+      ],
+      "visualPlan": "A neutral observation card with fields for context, nodule descriptors, and uncertainty. A separate conclusion field is deliberately left blank to show that descriptive imaging is not a diagnosis."
+    },
+    {
+      "title": "Keep the cervical-node question visible",
+      "narration": "A thyroid finding and a cervical-node finding should remain separate elements of the case representation. The ATA guideline says that abnormal cervical lymph nodes increase the likelihood of malignancy and that children with a suspicious nodule should have ultrasound evaluation of the cervical lymph nodes. The European guideline recommends complete neck ultrasound across cervical levels for children with thyroid nodules. These statements support a disciplined documentation exercise: first record the thyroid observation, then record the node observation, then state what remains uncertain. They do not authorize the learner to stage a patient, choose a procedure, or infer metastatic disease from a single imaging feature. [E2] [E3]",
+      "teachingLabels": [
+        "Nodule and node are separate questions",
+        "Complete-neck assessment concept",
+        "Uncertainty retained"
+      ],
+      "visualPlan": "A text-only neck map with distinct boxes labelled 'thyroid observation' and 'cervical-node observation', followed by an 'unresolved' box. No anatomy drawing and no patient imagery."
+    },
+    {
+      "title": "A result does not erase the validation boundary",
+      "narration": "The chapter can distinguish the role of a test from a self-contained care pathway without teaching a threshold or a procedure. The European guideline states that, because ultrasound cannot definitively distinguish benign from malignant nodules, fine-needle biopsy is recommended in suspect nodules. The ATA guideline says that molecular studies may complement FNA results but had not been sufficiently validated in children for routine recommendation at the time of that guideline. The appropriate educational inference is narrow: a result has to be interpreted with the population, method, and validation boundary still visible. It is not appropriate to promise that a negative molecular result, a benign-appearing feature, or an adult-derived category settles the fictional case. [E2] [E3]",
+      "teachingLabels": [
+        "Tests answer limited questions",
+        "Molecular evidence has a pediatric validation boundary",
+        "No protocol"
+      ],
+      "visualPlan": "A question-to-evidence map that distinguishes imaging description, cytology or biopsy evidence, molecular evidence, and remaining uncertainty. It contains no test order, cutoff, or treatment branch."
+    },
+    {
+      "title": "Fictional worked illustration: resist the shortcut",
+      "narration": "Consider a fictional adolescent with a newly described thyroid nodule and a separately described lateral-neck finding. The weak educational summary applies an adult ultrasound category and treats the label as the answer. The stronger summary keeps the patient fictional, records age and relevant context, describes the nodule and node separately, and names the evidence limitation: adult ultrasound scoring systems and dimensional criteria have not been validated for children in the cited sources. It then separates what is observed from what remains unknown. The exercise stops there. It supplies no diagnosis, biopsy instruction, treatment plan, or real-patient recommendation. [E1] [E2]",
+      "teachingLabels": [
+        "Fictional case only",
+        "Do not transfer adult labels uncritically",
+        "No patient-specific recommendation"
+      ],
+      "visualPlan": "A fictional text case flows through four steps: preserve age and context; describe nodule; describe node; state the adult-tool limitation. The final panel reads 'clinical decisions require current specialty review'."
+    },
+    {
+      "title": "Close by auditing what the lesson cannot establish",
+      "narration": "A careful chapter should end by auditing its limits. The three public sources support a narrow lesson about pediatric context, observation, and applicability of adult tools. They do not establish a complete pediatric work-up pathway for every setting, do not provide current local protocols, and do not replace multidisciplinary pediatric assessment. The learner should be able to say why an adult shortcut does not transfer, which observations must stay visible, and why uncertainty remains. The learner should not infer competence to make diagnostic, procedural, or treatment decisions. [E1] [E2] [E3]",
+      "teachingLabels": [
+        "Scope audit",
+        "Independent study only",
+        "Script is not media"
+      ],
+      "visualPlan": "A scope card separates 'supported learning outcomes' from 'not taught here', with an explicit zero-minutes media note."
+    }
+  ]
+}

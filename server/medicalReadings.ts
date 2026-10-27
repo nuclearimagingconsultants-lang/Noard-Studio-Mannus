@@ -138,7 +138,10 @@ export function medicalReadingMarkdown(chapter: MedicalReadingChapter) {
     "## Reviewed sources",
     "",
     ...chapter.reviewedSources.map(
-      source => `- ${source.url} — text SHA-256: ${source.textSha256}`
+      source =>
+        source.sourceKind === "selected_public_text"
+          ? `- ${source.url} — retained selected UTF-8 excerpt SHA-256: ${source.selectedTextSha256.join(", ")}; selected record SHA-256: ${source.selectedRecordSha256} (not a whole work or publisher bytes)`
+          : `- ${source.url} — text SHA-256: ${source.textSha256}`
     ),
     "",
     "## Remaining scope",

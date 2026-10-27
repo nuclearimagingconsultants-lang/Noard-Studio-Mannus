@@ -1,0 +1,104 @@
+{
+  "episodeId": "MED-X084-EXPLAIN-401",
+  "courseId": "MED-X084",
+  "title": "Consent Is a Conversation, Not a Signature",
+  "description": "Staged source-grounded repair proposal for the existing pending Unit 1 chapter. It teaches an adult gynecology consent framework: identify the decision, present clinically relevant options and trade-offs, tailor communication and assess voluntariness, use aids only as support, and document the conversation. It does not decide care for any person or supply procedure-specific risk estimates.",
+  "educationalLimits": "Adult informed-consent ethics and communication only. It is not a jurisdiction-specific legal checklist, a substitute for institutional policy, a procedure-specific consent form, patient-specific counseling, or demonstrated consent competence.",
+  "coverageGaps": [
+    "The ACOG source addresses adult patients in clinical practice and ethical obligations; it does not replace state, national, institutional, specialty, or procedure-specific requirements.",
+    "No procedure-specific benefits, risks, probabilities, indications, contraindications, or treatment recommendation is supplied.",
+    "Capacity assessment, interpreter use, surrogate decision-making, emergencies, and documentation must be handled under current local clinical and legal processes.",
+    "The proposed script has not received human clinical review and does not create clinical or operative competence."
+  ],
+  "sourceUrls": [
+    "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2021/02/informed-consent-and-shared-decision-making-in-obstetrics-and-gynecology",
+    "https://code-medical-ethics.ama-assn.org/ethics-opinions/informed-consent"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "3e64d2595c139b53c5667c67996532bdf3bc90cd0597bf67b3fed233c372bcdc",
+  "visualSha256": "720d8ea14e73e3875cca2e0d74aaa172886f447c7db68aec22d82b1eeac341de",
+  "evidenceSelectionSha256": "5fd57d4a549a32d9ca151ed427726f0fb8d91d72ea33dd74278c6154c1eaba82",
+  "reviewedAt": "2026-10-27T02:33:45.195242+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2021/02/informed-consent-and-shared-decision-making-in-obstetrics-and-gynecology",
+      "sourceKind": "selected_public_text",
+      "selectedRecordSha256": "bf5435b9496e41a3323749070f3ec6cbf19b393405207556ba4eca3a9a155278",
+      "selectedTextSha256": [
+        "73540fb9ac37e5fbb2afd43599969bd58348d5f916a5a236caedbd3b355fe4c1",
+        "49609d38d4180e02ecc91772af63ed76cf676aa9ad103f8add0537c64d786fb2",
+        "8d55bb3f091e16d684409d0a27fa7a6465fe59397bc3d359fa53af681a9a7c6d",
+        "cb08c728150e60d2badb1a262a826b5d5f8fe7a39e388f5543d9b583f268d605"
+      ],
+      "excerptSha256": "4d4063ae2378c18d1580394dff1e09257fb9ebe9a1b4a80bd8262297ff0f3b5d",
+      "excerptManifestSha256": "59dbda8efc35a2246338bc00b9dcc1764295a440f0c049f428ee6b84c025e53a"
+    },
+    {
+      "url": "https://code-medical-ethics.ama-assn.org/ethics-opinions/informed-consent",
+      "sourceKind": "selected_public_text",
+      "selectedRecordSha256": "ef56b760f7f03e73ecd0a8edad948a4792d981b934215b419a8a4800c4317619",
+      "selectedTextSha256": [
+        "24265f9e911afc86859fa68f80ba694a56f53c41cede2b9029de3d2af3a5df85",
+        "f9e5606b68051e06926b58ca0e12d339d424d1588dc4198b11e4a2b9cbd81d00"
+      ],
+      "excerptSha256": "30ae7705b345435cba4ab3a58e4be70deaa3ed5414a492e8d80783ab7a94bee8",
+      "excerptManifestSha256": "fe6d525be1ad8ce63a0b9137d94b4159b47e1e5ffef37424bcfedda5342d5a51"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation. Selected-public-text provenance covers retained selected UTF-8 excerpts only; it does not identify whole works or publisher bytes.",
+  "sections": [
+    {
+      "title": "Start with the decision, not the document",
+      "narration": "A consent form does not create the decision that it records. The first teaching task is to name the clinical choice that is actually before an adult patient and to explain why that choice is being considered. ACOG describes informed consent as providing information necessary and relevant to decision making, including the risks and benefits of accepting or declining recommended treatment, while helping the patient identify a course of care. Shared decision making then connects benefits and risks of available options with the patient’s values and priorities. This is an ethical communication framework, not an instruction to choose a treatment or to treat every imaginable option as appropriate.",
+      "teachingLabels": [
+        "Decision before documentation",
+        "Values and priorities matter"
+      ],
+      "visualPlan": "Text-only decision frame: identify the decision; establish the patient’s stated priorities; discuss relevant options; allow questions and deliberation; document the decision. A signature appears last as a record, not first as a goal."
+    },
+    {
+      "title": "Present the relevant choices and consequences",
+      "narration": "The sources support a focused, clinically relevant discussion rather than an exhaustive catalogue. AMA ethics guidance calls for information on the diagnosis when known, the nature and purpose of recommended interventions, and the burdens, risks, and expected benefits of all options, including forgoing treatment. ACOG specifies that a surgical consent conversation should include treatment alternatives, including nonoperative care, and the expected benefits, burdens, and risks of options including no treatment. The lesson should make clear that only the responsible clinical team can decide which options are medically appropriate for a particular person.",
+      "teachingLabels": [
+        "Relevant alternatives",
+        "Nonoperative care for surgical decisions",
+        "Forgoing treatment"
+      ],
+      "visualPlan": "Conceptual three-branch map: recommended intervention, relevant alternatives including nonoperative care where surgery is considered, and forgoing treatment. Each branch receives qualitative prompts for purpose, expected benefit, burden, and risk; no invented probabilities."
+    },
+    {
+      "title": "Make comprehension and voluntariness visible",
+      "narration": "A consent discussion has ethical requirements beyond delivering information. ACOG states that information should be adequate, accurate, and understandable, and that the patient should be able to understand and reason through it, ask questions, and make an intentional voluntary choice that may include refusal. AMA likewise directs physicians to assess the patient’s ability to understand relevant information and treatment alternatives and to make an independent voluntary decision. The amount and complexity of information should be tailored to the individual’s wishes and ability to understand. This does not authorize withholding relevant information, and it is not a universal legal test for capacity.",
+      "teachingLabels": [
+        "Understandable information",
+        "Questions and voluntary choice",
+        "Local process when concerns persist"
+      ],
+      "visualPlan": "Four text checkpoints: understandable information; opportunity for questions; ability to reason about relevant alternatives; independent voluntary decision. Add a footer that capacity and communication concerns follow local processes."
+    },
+    {
+      "title": "Use communication support without outsourcing the conversation",
+      "narration": "ACOG identifies shared decision making as individualized and patient-centered. It also states that decision aids may improve knowledge and understanding of risk, reduce decisional uncertainty, and help align care with patient values, but they complement rather than replace the clinician’s deliberative and supportive responsibilities. The staged lesson should teach learners to treat an aid, form, handout, or visual comparison as support for a conversation rather than proof that informed consent occurred. If language, communication, or other barriers affect the discussion, actual practice must follow current institutional resources and local requirements.",
+      "teachingLabels": [
+        "Decision aids complement discussion",
+        "Individualized communication"
+      ],
+      "visualPlan": "A decision-aid icon sits beside, rather than replacing, a clinician–patient conversation icon. The caption reads: support for discussion, not a substitute for individualized dialogue."
+    },
+    {
+      "title": "Document the conversation and its limits",
+      "narration": "Both sources support documenting the informed-consent conversation and the patient’s or surrogate’s decision in the medical record; written consent, when used, belongs in the record. ACOG explicitly cautions that a signed consent document does not itself show that a patient’s values and priorities were meaningfully considered or that ethical consent requirements were met. The teaching close should therefore distinguish documentation from proof of comprehension or voluntariness. Learners should be reminded that legal standards can vary by state and that institutional requirements apply. Original self-check prompts: What makes an alternative clinically relevant to discuss? Why can a signed form be necessary yet insufficient?",
+      "teachingLabels": [
+        "Document dialogue and decision",
+        "Signed form is not the entire process",
+        "Original self-check prompts"
+      ],
+      "visualPlan": "Three non-identifying documentation fields: information and alternatives discussed; questions, priorities, and support needs; decision and next step. Add a separate signed-form icon labeled record, not proof of a complete process."
+    }
+  ]
+}

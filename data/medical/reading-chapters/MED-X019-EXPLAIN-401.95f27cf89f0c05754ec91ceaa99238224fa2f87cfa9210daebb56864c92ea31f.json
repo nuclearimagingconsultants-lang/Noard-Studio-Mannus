@@ -1,0 +1,91 @@
+{
+  "episodeId": "MED-X019-EXPLAIN-401",
+  "courseId": "MED-X019",
+  "title": "Adult awake language mapping: making task responses interpretable",
+  "description": "Append-only, source-grounded repair proposal for the pending Unit 10 chapter. It narrows teaching to the interpretation of observed adult awake language-mapping task responses in the context of supratentorial tumor surgery. This is original educational script content, not an operative, stimulation, anesthesia, patient-selection, or surgical-action protocol.",
+  "educationalLimits": "Independent educational self-study only. This staged script explains how to describe a task-linked observation and retain source limits. It does not teach direct cortical or subcortical stimulation, stimulation settings, patient selection, anesthesia, intraoperative communication, interpretation of a real patient response, surgical action, diagnosis, prognosis, treatment, local policy, credentialing, licensure, board eligibility, or a passing guarantee. It is not a ready video, adds zero counted media minutes, and is not a substitute for supervised clinical training or current institutional protocols.",
+  "coverageGaps": [
+    "The repair remains limited to adult awake language mapping in the supplied chapter’s supratentorial tumor-surgery context. It does not complete Unit 10’s epilepsy, pediatric, asleep-mapping, or whole-course functional-mapping objectives.",
+    "No stimulation parameter, stimulation timing, patient-selection, anesthesia, monitoring, documentation, task-battery, localization, clinical-alert, or surgical-action instruction is proposed.",
+    "The source review explicitly reports variation in testing and unresolved questions concerning stimulation parameters. No source-based universal threshold, site label, or outcome inference is added.",
+    "No duration-verified, newly qualifying public recording was found for this narrow topic. This source script is not a recording and contributes zero hours to the record-hours deficit.",
+    "Human clinical review has not been performed. Source support does not constitute clinician validation, credentialing, board certification, or authorization to use the script for patient care."
+  ],
+  "sourceUrls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8279835/",
+    "https://braintumorcenter.ucsf.edu/about-brain-tumors/treatment/surgery/awake-brain-mapping-faq"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "2487c10310f80bc7c7fd5d49d15a0af0956ff3eb3b47df2104461bbff1c0c8a8",
+  "visualSha256": "e06a769211ed8a98858f4c54af16673b23a63b8ce7d6f5bd76a49c568989407c",
+  "evidenceSelectionSha256": "6fb9c919eaa27d1f39c1f0ffa8d6dab71a8669dca136c5bca1c9bc45799d6a31",
+  "reviewedAt": "2026-10-27T02:39:19.366002+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8279835/",
+      "textSha256": "55bfb0291fd2c24f205b310dba20326b991a7a4ffb946a906ad9a46000177f1a"
+    },
+    {
+      "url": "https://braintumorcenter.ucsf.edu/about-brain-tumors/treatment/surgery/awake-brain-mapping-faq",
+      "textSha256": "3b9144cd916d9daebd78115a0d574fe61045242a1e85b6034cb61c8ca7741640"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "Keep the observable task response attached to its context",
+      "narration": "This append-only repair is limited to adult awake language mapping around supratentorial tumor surgery. The public UCSF description explains awake brain mapping as asking a patient to perform tasks while particular brain areas are stimulated, with examples including counting and reading. The NIH-hosted review likewise describes short electrical stimulation during a language task and emphasizes that published methods differ. [1] [2] The educational point is therefore modest: record which task was presented, what response was observed, and the stated mapping context before assigning any meaning. A disrupted or unchanged response in a teaching example is not a stand-alone site label, diagnosis, prognosis, or action instruction. This chapter does not tell a learner how to stimulate, how to choose a patient, or how to respond in an operating room.",
+      "teachingLabels": [
+        "Task plus context plus observation",
+        "Task-bounded evidence",
+        "Not a clinical action rule"
+      ],
+      "visualPlan": "Text-only conceptual chain: named task → stated stimulation context → observed behavior → cautious, task-bounded description. Include an explicit “not a localization rule” footer; no patient imagery or operative depiction."
+    },
+    {
+      "title": "A baseline makes the later observation interpretable",
+      "narration": "The review says that preoperative language assessments vary by institution and lists picture naming, reading, spelling, writing, sentence completion, syntax, auditory naming, and responsive naming among commonly used assessments. It also says task selection varies with tumor location, the patient’s baseline performance, and institutional protocol; after baseline testing, an intraoperative battery may be tailored by removing stimuli answered incorrectly. [1] The source-grounded repair should use that information only to explain why an observed response has meaning in relation to the stated task and prior performance. It must not prescribe a battery, a timing, a team role, a patient-specific task choice, or a pass/fail criterion. The safer learning question is: what was this task intended to sample, and was the performance described as reliable before the cited observation?",
+      "teachingLabels": [
+        "Baseline-dependent interpretation",
+        "Institutional variation",
+        "No prescribed task battery"
+      ],
+      "visualPlan": "A neutral three-column schematic labelled “reported baseline,” “named task,” and “observed response.” Add “institutional variation” and “not a task-selection protocol” labels."
+    },
+    {
+      "title": "Describe the behavior before giving it a broad name",
+      "narration": "For picture naming, the review groups reported errors into semantic and phonological paraphasias, circumlocutions, neologisms, performance errors such as slurred or stuttered responses, and no-response errors. [1] It also distinguishes a counting interruption without tongue, larynx, or pharynx movement from an observation accompanied by movement that may be more consistent with motor arrest or dysarthria. [1] This repair uses those examples to teach descriptive precision: name the task, describe the response category, and state associated observations when they are reported. It does not convert any category into a diagnosis, a rule for anatomical localization, a threshold, or a prediction about postoperative language. The content supplies no stimulation settings, no patient vignette that imitates an operative case, and no instruction to make a clinical call.",
+      "teachingLabels": [
+        "Response category",
+        "Associated observation",
+        "Description is not diagnosis"
+      ],
+      "visualPlan": "A text-only observation card with fields for task, response category, associated observation, and source limit. Do not show anatomy, electrodes, or patient data."
+    },
+    {
+      "title": "One task does not make a universal language claim",
+      "narration": "The review lists multiple language tasks, including picture naming, counting, word repetition, reading, writing, and syntax assessment, and reports a lack of consistency in intraoperative testing methods. [1] UCSF similarly describes counting, reading, and naming pictured objects as examples of tasks used during mapping. [2] The proposed chapter should therefore avoid treating one named response as proof that every language function has or has not been assessed. In a fictional teaching illustration, an observed naming response and an observed reading response may be described separately, but the illustration must end at description. It must not infer a patient’s diagnosis, create a functional map, advise the surgical team, or claim that an unaffected task clears an untested function.",
+      "teachingLabels": [
+        "Different task demands",
+        "No universal inference",
+        "Fictional illustration only"
+      ],
+      "visualPlan": "Several labeled task cards—picture naming, reading, repetition, counting—leading to separate observation boxes. Caption: “Different tasks; no universal inference.”"
+    },
+    {
+      "title": "Leave protocol questions and uncertainty visible",
+      "narration": "The review identifies unresolved attention to stimulation parameters such as current intensity, amplitude, duration, and volume of brain stimulated, and asks whether task responses vary with timing and thresholds. [1] It also reports no consensus on the type of naming task to apply intraoperatively. [1] These qualifiers belong in the repair because they prevent a learner from mistaking an educational description for a standard operating method. The closing boundary is explicit: adult awake mapping uses specialized, supervised clinical teams and institutional processes; this script explains source-bounded language about observed task responses only. It does not complete the broader Unit 10 deficits in epilepsy workflows, afterdischarges, pediatric practice, asleep mapping, patient/task prerequisites, or recorded instruction. It is not a video and has no counted runtime.",
+      "teachingLabels": [
+        "Method uncertainty",
+        "No operational protocol",
+        "Partial topic coverage; zero media minutes"
+      ],
+      "visualPlan": "Boundary panel: supported center “task-linked observation language”; outer ring “parameters, protocols, patient selection, epilepsy, pediatric, asleep mapping, real-time decisions—outside this script.”"
+    }
+  ]
+}

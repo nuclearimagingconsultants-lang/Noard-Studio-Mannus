@@ -1,0 +1,88 @@
+{
+  "episodeId": "MED-X026-EXPLAIN-401",
+  "courseId": "MED-X026",
+  "title": "After an opioid poisoning: bridge from acute toxicology to OUD care",
+  "description": "Proposed evidence repair for the existing pending Unit 11 chapter. It preserves the exact pending episode identity and unit, adds only source-grounded teaching segments, and leaves the original author text untouched.",
+  "educationalLimits": "Independent physician self-study only. This staged manuscript is not human-clinician-reviewed clinical training, a treatment protocol, medical advice, licensure or board-eligibility evidence, or a certification/pass guarantee. It is not a ready video and adds zero measured or counted minutes.",
+  "coverageGaps": [
+    "Acute opioid-poisoning resuscitation and naloxone dosing are not taught.",
+    "This proposal does not provide a full DSM-5 interview, a patient-specific diagnosis, medication selection, dosing, induction, withdrawal-management protocol, or monitoring plan.",
+    "Pediatric, pregnancy, incarceration, co-occurring-condition, and jurisdiction-specific pathways remain outside this source-bounded proposal.",
+    "Local referral capacity, insurance access, peer-program availability, and follow-through cannot be inferred from national CDC guidance.",
+    "No new qualifying recording was verified; this script is not a video and adds zero minutes toward any hour floor."
+  ],
+  "sourceUrls": [
+    "https://www.cdc.gov/overdose-prevention/hcp/clinical-care/opioid-use-disorder-diagnosis.html",
+    "https://www.cdc.gov/overdose-prevention/hcp/clinical-guidance/linkage-to-care.html",
+    "https://www.cdc.gov/overdose-prevention/hcp/clinical-care/opioid-use-disorder-treating.html"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "9f487a47718648aed7459bb5721bbf7a195f149343acf678ea116fe7e42b20cc",
+  "visualSha256": "1737a9791de5fb4407d14893b917b22892ce13aa823c12b9efe3a897ae899585",
+  "evidenceSelectionSha256": "7b2b6b0d590799674e427332818e6ade14c7d19726af744f10161f10c90e49e0",
+  "reviewedAt": "2026-10-27T02:39:31.541702+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://www.cdc.gov/overdose-prevention/hcp/clinical-care/opioid-use-disorder-diagnosis.html",
+      "textSha256": "8e60315fb9ab32758fa33b4c781ab7feda61d41acee1ebddaf369ec90bb8fd6a"
+    },
+    {
+      "url": "https://www.cdc.gov/overdose-prevention/hcp/clinical-guidance/linkage-to-care.html",
+      "textSha256": "c5df17d5d5e30ee5d7e53b9a7abb920aabd311ded5b8385540b864129fbc8fd9"
+    },
+    {
+      "url": "https://www.cdc.gov/overdose-prevention/hcp/clinical-care/opioid-use-disorder-treating.html",
+      "textSha256": "f7e441741e6d1c297267aa8e568091cd4ec4e2a9177d1a5892ab496bd7c76329"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "Proposed repair: screen and assess without converting an acute event into a diagnosis",
+      "narration": "A suspected opioid poisoning is an acute toxicology problem. It can create a reason to ask about ongoing opioid-related concerns, but it does not by itself establish opioid use disorder. CDC says that when clinicians are concerned a patient may have OUD, they should discuss those concerns nonjudgmentally and assess for OUD with a DSM-5-based checklist. The CDC diagnostic threshold is at least 2 of 11 criteria within a year, with severity based on how many criteria are met. CDC also qualifies that tolerance and withdrawal do not count when opioids are taken solely under appropriate medical supervision. The teaching point is to preserve two separate tasks: address the acute encounter, then conduct a respectful assessment if OUD is a concern. This segment does not teach a complete diagnostic interview or make an individual diagnosis. [1]",
+      "teachingLabels": [
+        "Acute poisoning is not an OUD diagnosis",
+        "Nonjudgmental discussion",
+        "DSM-5-based assessment"
+      ],
+      "visualPlan": "Two deliberately separate lanes: acute toxicology encounter and conditional OUD assessment. A gate between them is labeled DSM-5-based assessment; an adjacent note states that tolerance/withdrawal have a supervised-medication qualifier."
+    },
+    {
+      "title": "Proposed repair: define linkage as a usable, patient-respectful connection",
+      "narration": "CDC says that care settings can improve linkage to care when care is welcoming, nonjudgmental, respectful, and empathetic. For emergency departments, CDC says screening may identify people who could benefit from medication for OUD and who might not otherwise be screened. Its listed opportunities are a warm handoff to community care, overdose-response training and naloxone before discharge for people at higher overdose risk, and availability of a trained peer recovery coach if the patient wants one. These are linkage practices, not proof that every person accepts services, that every setting has each resource, or that an unassisted referral is equivalent to a connected transition. This proposal does not teach naloxone dosing, peer-workforce operations, or local referral logistics. [2]",
+      "teachingLabels": [
+        "Warm handoff",
+        "Higher overdose risk",
+        "Peer support if desired",
+        "Respectful linkage"
+      ],
+      "visualPlan": "A conditional pathway: respectful conversation → patient choice → warm handoff/community care; a separate branch for higher-overdose-risk education and naloxone; an optional peer-coach node. Label every node as dependent on local availability and patient preference."
+    },
+    {
+      "title": "Proposed repair: frame medication treatment as a continuing-care decision, not a one-size-fits-all acute protocol",
+      "narration": "When OUD is identified and medication treatment is indicated, CDC says clinicians should offer or arrange evidence-based medication treatment. CDC describes medication treatment as associated with reduced overdose risk and overall mortality; that association is not a guarantee for an individual. The FDA-approved medications CDC identifies for OUD are buprenorphine, methadone, and naltrexone. CDC also says that detoxification alone, without medication for OUD, is not recommended for OUD because of increased risks of resumed drug use, overdose, and overdose death. The clinical-learning point is continuity: an acute encounter may lead to an offer or arrangement for ongoing care after assessment, not to a medication choice inferred from the poisoning event. This segment specifies no dose, induction approach, dispensing arrangement, or patient-specific selection. [3]",
+      "teachingLabels": [
+        "Offer or arrange MOUD",
+        "Association is not a guarantee",
+        "Three FDA-approved medications",
+        "Detoxification alone is not OUD treatment"
+      ],
+      "visualPlan": "A continuity-of-care diagram beginning only after assessment identifies OUD and medication is indicated. Show three equal medication labels leading to ongoing care, with a prominent boundary: no dosing, induction, or selection algorithm in this lesson."
+    },
+    {
+      "title": "Proposed repair: retain access and psychosocial-support boundaries without withholding medication",
+      "narration": "CDC notes that psychosocial needs should be assessed and that psychosocial treatment may be offered or arranged with qualified behavioral-health providers based on individual needs. It also states that a person's decision to decline psychosocial treatment, or the absence of available psychosocial treatment, should not preclude or delay medications for OUD. CDC further recommends naloxone and education on proper overdose reversal use for people with OUD and their household members or significant others. In this chapter, those statements support a systems boundary: access questions and supportive services matter, but they should not be turned into a blanket reason to withhold indicated medication treatment. This does not establish that medication is indicated for a particular person, teach naloxone administration, or define care in pregnancy, pediatrics, incarceration, or any local jurisdiction. [3]",
+      "teachingLabels": [
+        "Assess psychosocial needs",
+        "Do not use absent support as a blanket medication barrier",
+        "Naloxone education boundary"
+      ],
+      "visualPlan": "A boundary card: assess psychosocial needs and offer/referral when appropriate; declining or lacking psychosocial care is not a blanket medication barrier. Surround it with out-of-scope icons for dosing, pregnancy, pediatrics, legal requirements, and naloxone administration."
+    }
+  ]
+}

@@ -1,140 +1,145 @@
-# Board Studio — learning and remaining-work guide
+# Board Studio — current medical release snapshot
+
+Prepared 27 October 2026. This snapshot describes the validated medical increment; deployment verification is reported separately after publication.
+
+Open [Medicine on Manus](https://boardstudio-svjffwzx.manus.space/med) or [Medicine on Vercel](https://noardstudiomannus.vercel.app/med). Select a course, then **Chapters** for approved text or **Original → Play ready queue** for available videos.
+
+| Medical release fact | Verified content |
+| --- | --- |
+| Course workspaces | 384, including 333 medical programme/variant records |
+| Approved reading artifacts | 28 across 25 course workspaces; all previous 14 exact payloads retained |
+| Ready original media | 239: 149 base and 90 medical; all previous 237 identities retained |
+| New actual medical films | MED-059-EXPLAIN-401: 271 seconds; MED-110-EXPLAIN-401: 357 seconds |
+| New measured medical runtime | 628 seconds / 10.4667 minutes; not 136 hours |
+| Reading-derived video time | Zero; the 28-reading ZIP contains no videos |
+| Specialty/variant hour floors still unmet | 136 |
+| Legacy EXPLAIN-301 draft reviews | 118 pending and 8 source-unavailable; new EXPLAIN-401 readings do not approve those different drafts |
+| Human clinician review | Not performed |
+| Medical curriculum complete | No |
+
+The new films passed the existing strict automated source/render/upload pipeline. Their cloud-hosted native playback advanced and captions loaded. Both MP4s and supporting assets were checksum-backed up privately in Drive. New production uses temporary local rendering capacity and cloud final storage; Drive does not eliminate the need for a render workspace.
+
+Some new chapters use explicitly limited **retained selected public text**, not whole publisher works, browser captures or source PDFs. The reader shows those limitations and exact source/script/payload identities. A source-approved partial-topic reading is not full-specialty teaching. MED-058 diagnostic-pathway and MED-063 ACEP/medication-defined-policy gaps remain explicit.
+
+Local checks passed: TypeScript, production build, all 91 software tests, all 384 course/workspace endpoints, all 333 medical reader endpoints, all 28 full reading payloads, all 136 legacy development states and exact 239 ready-media identities. The medical implementation also passed a bounded read-only provenance review. These are software/source-boundary checks, not clinical validation or proof of full domain coverage.
+
+The Library adds **28 source-reviewed medical reading chapters — not videos** as a separate bundle while retaining prior downloads. It is 247,439 bytes; SHA-256 `5d0ddef9a3ef30f6f5d17db4e6276062408866f6b45432291b7e276274c897e0`.
+
+This is independent self-study. It provides no institutional affiliation, degree, academic credit, accreditation, licensure, clinical residency/fellowship completion, competence attestation, board eligibility, certification or pass guarantee. The 19 unvalidated practice-metadata items remain withheld.
+
+---
+
+## Archived guide below — historical 9 October snapshots, not current counts
+
+# Board Studio — current learning and remaining-work guide
+
+Updated 9 October 2026 after confirmed publication and live verification.
 
 ## Open the studio
 
-Use [the original medical studio](https://boardstudio-svjffwzx.manus.space/med) or [the Vercel copy](https://noardstudiomannus.vercel.app/med). Choose a programme record, open its workspace, select **Original**, **University** or **All**, then press **Play ready queue**. Native controls provide seeking, speed and captions. Outside providers retain **Open source / Skip** fallbacks when embedding or access is restricted; restrictions are not bypassed.
+- **Manus-hosted studio:** https://boardstudio-svjffwzx.manus.space/med
+- **Independent Vercel copy:** https://noardstudiomannus.vercel.app/med
+- **Public source repository:** https://github.com/nuclearimagingconsultants-lang/Noard-Studio-Mannus
 
-**Transcript** shows original narration. **Source reader** opens the syllabus or lawful PDF. **Self-practice** contains original source-cited questions, not protected board questions or a validated predictor of passing. **Library** provides PDFs, guides, free readings, study boards and scoped downloads. **Coverage** distinguishes plans, measured video, blocked teaching and source/topic gaps.
+The confirmed reader release is Manus **8ddc669** and GitHub/Vercel **c6554bd**. The later CTO-only playback-selector update is published as Manus **5f2c45a** and GitHub/Vercel **08273e3**. The original Manus-hosted website remains available; the public copy retains its Vercel-specific API and public-media routing. This is not automatic two-way synchronization.
 
-## Reconciled production snapshot — 9 October 2026, after the finite passes
+This is independent self-study, not a Harvard, MIT, Johns Hopkins or edX programme, affiliation, degree, academic credit, clinical residency/fellowship, licensure, certification or board-passage guarantee.
 
-| Item | Actual availability |
+## Current verified availability
+
+| Item | Current status |
 | --- | --- |
-| Programmes | AI/CS/CSE, MBA, Finance, CTO and Harvard:John Med |
-| Base modules / study units | 51 / 264 |
-| Medical records | 333 discovered programme/variant records, not 333 distinct board specialties |
-| Course workspaces | 384 |
-| Medical syllabus PDFs | 333, with byte-aware verification and durable upload |
-| Medical records meeting the inclusive measured 36-hour target | 197 |
-| Medical records below target | 136 |
-| Remaining medical deficit | Approximately 2,966.44 record-hours, not schoolwide unique viewing time |
-| Ready base originals | 149 |
-| Ready medical originals | 88 |
-| All ready originals | 237; not 237 completed courses |
-| Base source/orientation manifest entries not ready | 1,019 of 1,168 |
+| Course workspaces | 384: 51 non-medical modules and 333 medical programme/variant records |
+| Medical curriculum/syllabus PDFs | 333 current syllabus PDFs |
+| Ready original videos | 237: 149 AI/MBA/Finance/CTO originals and 88 medical originals |
+| Base original-media manifest | 1,168 entries; 149 ready and 1,019 not ready |
+| Medical measured 36-hour floors | 197 records meet the inclusive measured target; 136 remain below it |
+| Source-checked medical reading chapters | 14 prepared; 12 currently deployed across 11 workspaces and 2 new readings saved privately, not yet deployed |
 | Human clinician review | Not performed |
-| Full PDF-to-video teaching / complete medical curriculum | Unfinished |
+| Entire original teaching library | Incomplete |
 
-These are reconciled canonical-manifest counts after the current finite producers stopped. A new video becomes countable only after genuine production and the applicable source, duration and durable-asset gates. Historical access notes are retained; current measured runtime and the ready queue show current availability.
+The 333 medical records include institutional and programme variants, not 333 distinct certifying-board specialties. Meeting an hour floor does not establish complete domain coverage, board readiness, clinical competence or eligibility.
 
-The new **237-ready** source update was confirmed published as Manus **fd1df9c** and pushed/deployed as GitHub/Vercel **d675f73**. Vercel passed all **384 deployed workspace checks with exact 237-ready identities** and private-read denial. The original Manus browser confirmed the new 237-ready identity hash, all seven additions, the course heading, current Library link, and 22 new video/caption/transcript/index range responses; its all **384 same-origin course checks completed with no errors**. The sampled new medical original played to 21.50 seconds, with 126 caption cues and its 620-second duration loaded; playback was paused after verification. The earlier 230-ready receipts remain historical, not current totals.
+Existing verified outside-lecture maps remain separate from original teaching. The saved non-medical maps report AI 84.67 hours, MBA 47.35 hours, Finance 41.93 hours and CTO 54.05 hours. External sources can change or restrict playback; use the source/open/skip controls when needed. These totals do not mean that the full PDF contents have been taught in originals.
 
-## Latest medical/storage continuation — 08:06 EDT
+## How to study
 
-Nine newly source-qualified external recording links were accepted across Sleep Medicine (MED-102), Renal Pathology (MED-135), Limb Preservation/Wound Care (MED-185), and Thoracic/Pulmonary Pathology (MED-X068), preserving observed runtimes, exact unit mapping and within-course deduplication. Sleep Medicine, Limb Preservation/Wound Care and Thoracic/Pulmonary Pathology now meet the inclusive 36-hour floor. Renal Pathology still lacks 2.8253 hours. Breast Imaging (MED-058) and Orthopaedic Sports Medicine (MED-X074) returned no qualifying additions; inaccessible candidates stay excluded. These are hour-floor changes, not complete clinical or board-domain coverage.
+Open a course, select **Original**, **University** or **All**, then press **Play ready queue**. Native controls provide seeking, speed and captions. Outside providers retain **Open source / Skip** fallbacks; restrictions are not bypassed. **Transcript** shows original narration and **Source reader** opens a syllabus or lawful PDF. **Self-Practice** contains original source-cited questions, not protected board questions or a validated predictor of passing.
 
-The four changed syllabi were compiled, verified and uploaded; the 333-PDF archive and medical workbook/hours index were refreshed. Nine links are external recordings, **not nine original films**. A separate ten-script cached-source audit passed one breast-imaging script (MED-058-EXPLAIN-103) and blocked nine. The passing script remains **source-prepared, not rendered/uploaded, and contributes zero ready minutes**. Originals remain 149 base + 88 medical = 237. The latest static medical update is confirmed published as Manus **85015d8** and GitHub/Vercel **b357dd4**. The Vercel update passed all 384 workspace checks with exact unchanged 237-ready identities. The earlier releases below are historical.
+Guest progress and notes remain local to the browser/device. Authorized Manus sign-in enables user-scoped private storage. Vercel guest study remains local unless separate account services are configured. Marking complete is personal tracking, not a competency attestation.
 
-### Storage status
+## New medical Chapters feature
 
-Two existing large archives, totaling **6.19 GiB**, were copied to a **private Google Drive backup folder** with remote size/MD5 verification and local SHA-256 receipts. All local copies remain; no individual video, caption, transcript, source PDF or cache was deleted. Cloud backup alone does not increase local rendering space. The user explicitly declined deletion: **keep every local copy**. No ZIP cleanup will be performed. The folder remains unshared and owner-only.
+1. Open **Harvard:John Med** and select a course.
+2. Select **Chapters** below the course lesson/PDF area.
+3. An approved reading shows **Read chapter**. Expand it to read the actual source-checked text, source links, scope limitations and review identity.
+4. Use **Download chapter text** for its Markdown copy.
 
-The selected desktop E-drive workspace could not execute file/terminal operations or receive a transfer because its connection lacked the required advertised capabilities. **No E-drive capacity was measured and no file was transferred there.** The 08:14 EDT retry confirmed the same limitation. Restart/update and reconnect the Manus desktop app before another retry. No storage upgrade or purchase was made. Current local capacity is approximately 8.16 GiB with an eight-GiB render reserve.
+Example: https://boardstudio-svjffwzx.manus.space/course/MED-103 — open **Chapters → Functional Mapping Is Not a Seizure-Onset Map**.
 
-## What the preceding continuation produced
+All 136 currently unmet records have corresponding chapter-development status. Unapproved drafts show pending/source-unavailable notices instead of unreviewed teaching. A `source_checked` notice requires the exact validated reading payload to be present. Reading files are hash-bound to reviewed script/evidence identities and cannot be silently reassigned to another course.
 
-### Medical first: five new videos, 49.03 minutes
+**Written chapters contribute zero video minutes.** Automated comparison with retrieved supporting excerpts is not human clinician review or clinical validation. These are source-prepared study readings, not finished video transcripts or proof of full-course coverage.
 
-| Lesson | Subject | Measured duration |
-| --- | --- | ---: |
-| MED-105-EXPLAIN-101 | Primary vaginal carcinoma: establish site, extent and evidence boundaries | 10.33 min |
-| MED-107-EXPLAIN-101 | Previable/periviable PPROM: counselling and evidence map | 7.90 min |
-| MED-108-EXPLAIN-113 | Postpartum headache: keep the differential wider than dural puncture | 8.03 min |
-| MED-110-EXPLAIN-103 | Medically indicated fertility preservation: referral and decision map | 12.15 min |
-| MED-112-EXPLAIN-107 | Risk, prevention, surveillance and transplant-aware questions | 10.62 min |
+## Result of the complete 136-record drafting pass
 
-Five of twelve selected candidates passed; seven remained source-blocked. Verified video/audio/subtitle streams and local-to-upload SHA-256 identities were retained. Medical scripts passed automated source checks only, **not human clinician review**. They are bounded lessons, not complete specialty courses.
+| Outcome | Count |
+| --- | ---: |
+| Programme/variant records processed | 136 |
+| Structurally accepted authored chapter candidates | 128 |
+| Records blocked by insufficient retrievable source evidence | 8 |
+| New candidates passing fresh source checks | 10 |
+| New drafts still awaiting fresh source review | 118 |
+| Approved reading chapters including the four earlier readings | 14; 12 deployed and 2 additive readings not yet deployed |
+| New videos or video minutes from this phase | 0 |
 
-### Then AI and the other programmes
+Unsupported source material was not promoted. The eight source-unavailable records remain blocked. Private author drafts are not the corrected, source-approved readings and must not be treated as teaching or clinical guidance.
 
-- **AI:** `pdf-fc5a449b7974-L004` produced a **24.33-minute** orthogonality, least-squares, QR and Cramer lesson. Fresh bounded and final audits passed. The focused Cramer requirement was corrected against the displayed matrix: its second replacement determinant is 6, giving x₂ = 3. Exact earlier cache bytes were preserved, and changed requirements required fresh audits. The film retains **partial coverage** notes, including the source section-outline limitations and the displayed QR rotation result not expanded into every derivation step.
-- **MBA:** `pdf-0ed56bf06388-L001` produced a **15.10-minute** business-plan foundations and bottom-up market-sizing lesson. Fresh source audit passed. Historical examples remain historical; missing source-list items and absent uncertainty/valuation detail remain disclosed. Its **partial coverage** label is retained.
-- **Finance:** `pdf-561cfda9f205-L001` was blocked because a detailed course roadmap was introduced outside its assigned pages 2–4. No failed narration was promoted.
-- **CTO:** `pdf-3c31f46fee98-L001` was blocked because a business-opportunity assertion was not supported by the bounded preface pages. No failed narration was promoted.
+## Remaining incomplete work
 
-The two latter failures require source-grounded correction and fresh audits, not a weaker gate. Across the medical and base passes, **seven new ready films total 88.47 minutes**. A shared MBA/CTO lesson can contribute to both programme totals, but is one film globally.
+- **136 medical video-hour targets:** saved deficits total about **2,966.44 record-hours**. Variants overlap, so this is not a unique-production-hours estimate.
+- **118 new chapter source reviews**, plus lawful source resolution for the **8 blocked records**.
+- **Medical full-course originals:** produce, audit, narrate, render, measure and upload remaining required teaching with complete captions/transcripts and exact asset/source identity.
+- **1,019 unready base manifest entries:** plans/chunks/orientations, not 1,019 distinct courses. Continue in AI → MBA → Finance → CTO order after medical-first work. Preserve partial-coverage notes. The last Finance candidate introduced a roadmap outside assigned pages 2–4; the CTO candidate introduced an unsupported business-opportunity claim. Both require genuine source-grounded correction and fresh audits, not a weaker gate.
+- **Broad specialty/board-domain completeness:** source-cited curriculum records and practice do not establish exhaustive board coverage. Unverified mappings must remain visibly incomplete. Public institutional directories/internal curriculum limitations prevent a claim of certified exhaustive discovery.
+- **19 unvalidated practice-metadata items:** keep them withheld until valid source/case/domain provenance exists. Do not change answers to manufacture completeness.
+- **Human clinician review:** not performed. Qualified clinical review is separate from automated source checks and has not been supplied.
+- **Blocked source access:** relevant lawful evidence remains necessary. For example, the seven unsupported ACHD companion scripts remain blocked; truncated AHA text cannot support an inferred numeric endpoint. Never bypass restricted access or promote access-challenge pages as evidence.
+- **Production storage:** fresh source acquisition and media rendering are paused at their existing local disk reserve. The latest measurement was approximately **7.86 GiB free**, below the 8 GiB reserve used by those steps.
 
-## Earlier medical recovery preserved
+No credentials, accreditation, board eligibility, clinical authority or guaranteed exam passage can be supplied by completing this self-study portal.
 
-- Dedicated source recovery covered **144 previously under-target records**. Conservative intake accepted **240 recording assignments** and **130 authored chapters**, changing 138 course packets/author files. **42 contradictory or insufficient-access candidates were quarantined**. Reused relevant recordings are not new unique recordings, and historical runtime cannot override a current same-player unavailable result.
-- **96 changed syllabus PDFs** were compiled, checked and uploaded, followed by narrow practice-metadata updates. All 333 current PDFs remain in the syllabus archive.
-- A sixteen-candidate pass produced three medical films and blocked thirteen. A subsequent twelve-candidate pass produced none and blocked twelve. A later twenty-candidate pass produced eight films totaling 78.53 minutes and blocked twelve. Blocks never became ready media.
-- **35 existing transcripts** were corrected to contain actual approved spoken narration instead of rejected upstream author wording. Video/caption/source identities and previous public objects were preserved; transcript maintenance creates neither new films nor clinical validation.
-- Practice-domain labels were recovered only from existing text or exact unit headings. Citation aliases and an explicitly non-case credential question were corrected. **19 questions remain withheld** by strict case-provenance metadata validation.
-- Speech guards prevent observed clinical lexical hyphens becoming subtraction. Access-challenge pages remain unavailable evidence. Full clinical display labels are preserved rather than cut mid-word; the confirmed transplant-label defect was freshly audited and revised without increasing the video count.
+## Downloads and private saving
 
-## Downloads and snapshot boundaries
+The public Library contains the current 333-syllabus archive, medical study workbook/hours index, previous playable-video snapshots, the seven-new-lesson link index, and the **12 source-reviewed reading chapters — not videos** package. Previous media archives are frozen snapshots, not all 237 current originals. The latest additions link index is not an offline MP4 archive. Publisher readings remain lawful links unless redistribution permission is established.
 
-The Library retains the current **333-syllabus archive**, refreshed medical study workbook and measured-hours CSV. An earlier supplement bundles 11 added videos and changed transcripts for 33 existing lessons relative to the preceding 219-ready snapshot. It contains only changed assets; transcript-only entries retain unchanged video/caption URLs and are not 33 new films. A separate 62-lesson supplement contains 50 added and 12 revised clips relative to a 166-file snapshot.
+The twelve approved reading notes and a separately labeled **private 136-record development backup** were saved to your owner-only Google Drive folder. Remote sizes and checksums match. The private draft backup is not a public Library teaching resource.
 
-The latest seven-film additions are available individually through their durable video/caption/transcript URLs. A lightweight latest-additions link index can accompany them; it is **not an offline MP4 archive**. A full new media ZIP was not built because its approximately 613 MB payload would breach the producer's eight-GiB free-disk reserve. Existing uploaded archives and source/media files were preserved; no source or old ready asset was deleted to evade that guard. Publisher readings remain links unless redistribution permission is established.
+**All local copies were kept.** Earlier large archive downloads were reported in progress in Chrome; completed desktop paths have not been verified. No E-drive file was written. No archive, individual video, caption, transcript or source PDF was deleted. No storage purchase or upgrade was made.
 
-## Original four programmes
+Saving or downloading to Drive does not enlarge the sandbox disk. Heavy production needs a usable, authorized desktop production folder or another appropriately sized production environment. Browser access/downloads alone do not provide desktop filesystem or execution access. Do not send passwords, identifiable patient records or protected board questions.
 
-Verified outside lecture totals remain **AI 84.67 hours**, **MBA 47.35**, **Finance 41.93** and **CTO 54.05**, separate from originals. The studio retains source PDFs, free texts/readings, syllabi, assignments, rubrics, lecture maps and editable study boards.
+## Verification of this release
 
-| Programme | All ready original hours | Instructional original hours |
-| --- | ---: | ---: |
-| AI/CS/CSE | 18.99 | 14.93 |
-| MBA | 1.97 | 1.06 |
-| Finance | 2.60 | 1.73 |
-| CTO | 1.19 | 0.51 |
+- Canonical TypeScript checks, production build and **85 software tests** passed for the CTO player update; the preceding medical reader release passed 80.
+- The independent Vercel copy passed TypeScript checks, its actual function build and **89 software tests**; the preceding medical reader release passed 84.
+- Stable local and deployed Vercel checks passed for **all 384 course workspaces** and the exact **237 ready-media identities**; guest private-data requests remained unauthorized.
+- Normal published Manus browser access verified **all 333 medical reading endpoints**, **all 136 development states** and **all 12 approved reading payloads** against exact canonical identity digests.
+- The reading ZIP returned the verified **98,290 bytes** and SHA-256 `811d87009ae206a2d8dc51f6e7849bca49a09f106762ead020bb9148f435b97c`.
+- Native clicks opened the Chapters tab and its full study reading. Its Markdown download returned HTTP 200 with no-video/no-clinician-review boundaries and no private filesystem path.
 
-These totals are not full-PDF coverage. Administration, references and orientations do not satisfy full subject instruction. Reused films can appear in several programmes, so programme-hour sums are not globally deduplicated viewing time. Production priority remains **medical first**, then **AI → MBA → Finance → CTO**. Ready assets are preserved rather than regenerated merely because scratch files or speech versions changed.
+The software release and drafting pass are verified; the entire requested teaching library is **not finished**. Use the current completion ledger and complete 136-record queue rather than older historical snapshots. Automated source checking is not clinician review; conceptual visuals are not patient scans or diagnostic ground truth, and historical sources are not silently current clinical guidance.
 
-## Validation and hosting boundaries
+## CTO-only Drive playback update — 9 October 2026
 
-The current Manus application passed **67 software tests**, TypeScript checking, production build and the stable **384-course endpoint test with exact 237-ready identities**, unknown-course behaviour and anonymous private-progress/notes denial. The base source/speech/retention regressions passed 25 offline tests. Read-only review found stale status text, not weakened source gates; those status notes were corrected.
+353 CTO-exclusive files are checksum-verified in a private Drive backup. Under the exact approval, only the 14 copied CTO MP4s now have link-viewer access; their parent folder and other files remain private. The published player offers Google Drive preview only for matching lesson/course/native-asset identities, with Studio playback as default/fallback. Drive does not report caption, saved-position or ended events to Board Studio: use Next manually and Studio playback for synchronized captions and automatic queue advance.
 
-The public export retains external publisher citations and clinical care-setting prose while removing actual local filesystem locations. It must pass strict media-allowlist, private-path, exact-ready-ID and Vercel-adapter preservation tests; the public copy passed **71 tests**, TypeScript, Vercel build and all 384 deployed endpoint checks with exact 237-ready identities.
+**Drive playback remains unverified:** the embedded preview was blank in the test browser, despite correct link-viewer permissions and reported video metadata. These API responses and iframe-load timing do not establish playable streaming. The cause of the blank preview has not been established. The Studio fallback actually advanced to **25.056 seconds** of the 207.081-second orientation with **30 English caption cues** loaded, and was paused after testing. The Manus-published provider controls and 384-course catalogue were also verified.
 
-The two repositories remain separate. The Manus canonical repository and hosted site are preserved. Validated educational data is explicitly copied to [Noard-Studio-Mannus](https://github.com/nuclearimagingconsultants-lang/Noard-Studio-Mannus) while retaining Vercel-only adapters. No credentials, learner rows, raw evidence cache, private production state or video binaries belong in the public repository. Vercel media still depends on the existing public hosted origin; this is not automatic two-way synchronization.
+**No cleanup ran and no local capacity was reclaimed.** All 353 CTO files and both mixed-program ZIP archives still exist locally. The current tested backup/restore helper is saved privately in Drive and refuses cleanup without a matching actual-Drive-playback proof. AI, medical, shared files, source PDFs, scripts, captions, transcripts and canonical manifests remain untouched. No separate Appendix has been started.
 
-## What remains
+## Preservation update — 9 October 2026
 
-| Outcome | Remaining work |
-| --- | --- |
-| Medical 36-hour minimum | 136 of 333 records remain below the inclusive measured floor. Add relevant accessible duration-evidenced lectures or genuine source-qualified originals, never padding or unknown runtime. |
-| Medical originals and topic coverage | Many recovered manuscripts remain unprocessed or source/preflight-blocked. Hour floors do not prove complete specialty-only teaching, board-domain coverage or competence. |
-| Practice metadata | 19 items await explicit case provenance; authorship alone does not establish fictional patient cases. |
-| Base PDF teaching | 1,019 manifest entries remain not ready. Preserve equations, examples, learner computations and partial-coverage notes; the Finance/CTO failures above need fresh supported repair. |
-| Source access | Lawful retrievable claim-relevant excerpts remain necessary. Seven ACHD companion scripts remain blocked; truncated AHA text cannot support an inferred numeric endpoint. |
-| Institutional discovery | Public-directory and internal-curriculum limitations remain; discovery is not certified exhaustive. |
-| Human clinical review | Not performed. An actual qualified reviewer is necessary before calling material clinician-reviewed. |
-| Downloads | New offline media packaging remains constrained by free-disk reserve. Existing frozen archives are retained. |
+The direct Drive video preview opened in connected Chrome, but remained buffering without an observed advancing timeline. This does not establish working Drive streaming, and its cause is unconfirmed. No cleanup, playback change or new deployment was performed during this follow-up. The working native Studio player remains the default. Exact hashes confirm that both ready-media manifests and all twelve previously approved reading payloads are unchanged; all local archives remain.
 
-**Needed from you for more video rendering:** restore desktop/E-drive access or provide a usable larger production/storage workspace; the proposed local ZIP cleanup was declined and will not be performed. No extra action is needed for using the portals or small-file source research. Lawfully accessible authoritative documents could resolve blocked claims. Do not send passwords, identifiable patient records or protected board questions. Qualified clinician review would require an actual reviewer.
-
-## Study and institutional boundaries
-
-Guest progress/notes stay in the browser/device. Authorized Manus sign-in enables user-scoped private storage. Vercel guest study requires no environment variables and remains local unless separate services are configured. Marking complete is personal tracking, not a competency attestation.
-
-Board Studio is independent and unaffiliated with Harvard, Johns Hopkins, Boston Children's, MIT, edX or other source institutions. It awards no enrolment, credit, degree or institutional certification. It cannot replace medical education, accredited residency/fellowship, supervised cases/procedures, licensure, authorized-user training or board eligibility/certification. **It cannot guarantee passing any or all board examinations.** Automated source comparison is not clinician review. Conceptual visuals are not patient scans or diagnostic ground truth; historical sources are not silently presented as current clinical guidance.
-
-## Continued medical development and private saving — 08:39 EDT
-
-Three additional chapters passed fresh automated source-fidelity checks: MED-059-EXPLAIN-101, MED-063-EXPLAIN-108, and the corrected FDA-report/lay-summary chapter MED-058-EXPLAIN-102. The FDA correction preserves the distinct facility field sets and the actual starting events of its timing examples; prior manuscript bytes were preserved. Together with the previously prepared MED-058-EXPLAIN-103, four chapters are packaged as source-prepared study notes with exact reviewed narration, source links, hashes and remaining gaps. Rejected upstream author wording and full publisher PDFs are excluded.
-
-**These are reading notes and production inputs, not four new films.** No rendering, audio synthesis or ready-media promotion occurred; they add zero measured video minutes. Originals remain exactly 149 base + 88 medical = 237. The medical floor remains 197 met / 136 unmet. Human clinician review remains not performed.
-
-The 37,601-byte ZIP was saved to the existing private Google Drive backup folder with verified remote size/MD5 and owner-only permissions. Its download was requested in your local Chrome at 08:39 EDT. Desktop completion and destination are not verified; the two earlier large archives were reported downloading and were not restarted or deleted. No Desktop/E-drive file write or capacity measurement is claimed. The reading-only Library entry is now confirmed published on both maintained sites: Manus checkpoint 0546f91 and GitHub/Vercel commit 501bfbe. Both browser checks returned HTTP 200 and the exact 37,601-byte ZIP SHA-256 a3aaf1c95a6b6b5779b4eff0d9737634c499e99d6d616c2d029dc5b8f66798b0. All 384 Vercel workspace endpoints passed with exact 237-ready identities; canonical checks passed TypeScript, 67 tests and production build, and the public copy passed 71 tests and its Vercel build. Direct nonbrowser ZIP requests were restricted; ordinary browser checks succeeded without bypassing access controls.
-
-All local copies remain. The sandbox still has only about 8.14 GiB free, so video rendering remains constrained by the eight-GiB reserve. A browser download is a copy, not a larger rendering workspace. Small source research, corrections and private saves can proceed; actual videos require usable production space.
-
-## Latest 136-record chapter-development result
-
-The complete drafting pass processed all 136 unmet medical programme/variant records: 128 authored candidates and eight source-unavailable records. Eight new candidates passed fresh automated source checks. Twelve approved readings total (including the four earlier chapters) are integrated into eleven corresponding course workspaces under the new **Chapters** tab; reading downloads retain exact source/script identity and review limits. Every one of the 136 workspaces also shows its chapter development state separately, without publishing unreviewed draft narration.
-
-120 new drafts still await fresh source review; eight records remain source-blocked. These written chapters add no video hours. All 136 medical video targets remain unmet, and 1,019 base manifest entries remain unready. Human clinician review has not been performed. The reader and twelve-reading download are locally tested but the newest release is not yet confirmed published.
-
-The approved notes and separately labeled draft development backup were saved to owner-only Google Drive with matching remote sizes/checksums. All local copies remain; the desktop destination is not verified. New source acquisition and video rendering remain paused at the existing disk reserve. Source-review drafts are not completed teaching or clinical guidance.
+Two additional source-checked readings were saved as a new, separate private Drive package: MED-058-EXPLAIN-301 (breast-screening scope, not a nipple-discharge diagnostic pathway) and MED-063-EXPLAIN-301 (ACR follow-up imaging variants, not the missing ACEP/medication policy). Their original diagnostic and policy gaps remain explicit. They contribute zero video minutes and are not clinician-reviewed. The new two-chapter addendum is not yet deployed in the course reader; the existing live release is preserved.

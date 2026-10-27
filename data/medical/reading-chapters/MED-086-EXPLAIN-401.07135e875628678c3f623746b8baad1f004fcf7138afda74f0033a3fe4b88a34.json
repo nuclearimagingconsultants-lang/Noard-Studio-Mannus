@@ -1,0 +1,98 @@
+{
+  "episodeId": "MED-086-EXPLAIN-401",
+  "courseId": "MED-086",
+  "title": "Urine sediment in AKI: clues that shift probability, not a verdict",
+  "description": "Staged repair for the pending Unit 2 adult nephrology self-study chapter. It limits instruction to the interpretation boundary supported by three inpatient observational studies and an ASN educational review: granular casts and renal tubular epithelial cells can change diagnostic probability in defined contexts, a score had an association with a composite worsening-AKI outcome in one cohort, and serial examination added information in a selected cohort. It does not teach specimen processing, microscopy performance, a patient workup, treatment, or any individual diagnostic threshold.",
+  "educationalLimits": "Independent educational self-study only; not human-clinician-reviewed, clinical training, licensure, board eligibility or a passing guarantee. Study findings are restricted to their stated inpatient/nephrology-consult populations and definitions. No script segment supplies a treatment or testing directive.",
+  "coverageGaps": [
+    "The retrieved evidence does not support comprehensive urine-sediment morphology, specimen preparation, microscope operation, or hands-on competency; no such instruction is proposed.",
+    "The diagnostic study used clinical final diagnosis rather than biopsy confirmation for ATN, was subject to selection/observer limitations, and involved hospitalized nephrology-consult patients; its performance numbers must not be generalized to outpatients or individual patients.",
+    "The score-to-outcome association used a composite of worsening AKIN stage, in-hospital dialysis, or in-hospital death in a selected cohort. It is not a causal claim, an individual forecast, or a bedside cutoff in this proposal.",
+    "The serial-microscopy study did not repeat examinations uniformly and was enriched for intrinsic AKI/ATI. It cannot establish a universal repeat-testing schedule or generalize to predominantly prerenal populations.",
+    "The ASN review reports method and observer-variability concerns, but this proposal does not validate a local laboratory method or establish comparative operating characteristics.",
+    "No clinician review has been performed, and no actual video or verified media minutes are supplied. The programme's broader content and recording-hour deficits remain unresolved."
+  ],
+  "sourceUrls": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC2572284/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC2827582/",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8741003/",
+    "https://www.kidneynews.org/view/journals/kidney-news/13/7/article-p20_17.xml"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "28baeb5cfc0bc43c427a50c09263983dc5b14c84d024ff281247d58754e9753e",
+  "visualSha256": "fcb1b0391b2a1f702176eddbb6824d0cd305f631c6cec36428c43e96b79619d2",
+  "evidenceSelectionSha256": "19cbaba9e0410f127f0ee9f83ea5cdba82e33030de5cdcfbe5c6f74108222199",
+  "reviewedAt": "2026-10-27T02:35:52.525467+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2572284/",
+      "textSha256": "a194a15cca5f4a3347686a1dead9e9c4ee151025568e624744df43a2455ef1bf"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2827582/",
+      "textSha256": "23e0fa7c28a2e8e7d16749b65f64b326b29cfd12ca9082ac613162d4fa43029a"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8741003/",
+      "textSha256": "3389166967d5a454235da4e8efb09cacabade51c39462924186d2dfddc524a7f"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "State the evidence setting before treating a sediment finding as a signal",
+      "narration": "The first proposed repair is to place the finding inside the study population before drawing any inference. In one cross-sectional study, fresh urine was examined in 267 consecutive hospitalized patients seen by a nephrology consult service; analysis of the diagnostic comparison focused on patients given a final clinical diagnosis of acute tubular necrosis, or ATN, or prerenal AKI. The study did not use biopsy to verify ATN in every case, and its investigators caution that consultation-based selection limits generalization. A granular cast or renal tubular epithelial cell is therefore a reported observation in a specified setting, not a tissue diagnosis and not a transferable conclusion for every person with AKI. [E1]",
+      "teachingLabels": [
+        "Study population matters",
+        "Observation is not tissue diagnosis",
+        "Do not generalize beyond the cohort"
+      ],
+      "visualPlan": "Original text-only context map: ‘hospitalized nephrology-consult cohort’ → ‘microscopy observation’ → ‘probability update in that study context’. Include a visible ‘not tissue confirmation / not universal’ boundary. No patient image or microscopy image."
+    },
+    {
+      "title": "Use the finding to update a prior probability, not to end the differential",
+      "narration": "The second repair makes the pretest condition explicit. In the 2008 cohort, among patients whose initial clinical impression already gave ATN a high pretest probability, any granular casts or renal tubular epithelial cells at score 2 or greater had a positive predictive value of 100% and a negative predictive value of 44% for the study’s final clinical ATN diagnosis. The asymmetry is the lesson: in this defined high-pretest subgroup, the observed elements were supportive when present, while their absence was much less useful for exclusion. These numbers are not presented as universal test characteristics because the reference diagnosis was clinical, the study had selection and observer limitations, and the setting was inpatient nephrology consultation. [E1]",
+      "teachingLabels": [
+        "High pretest subgroup",
+        "Presence and absence are asymmetric",
+        "Probability update, not verdict"
+      ],
+      "visualPlan": "Original two-path probability graphic: ‘high prior ATN probability + elements present’ is labeled ‘supportive in the cited cohort’; ‘elements absent’ is labeled ‘limited exclusion in the cited cohort’. End both paths at ‘differential remains open’. No numerical calculator or patient scenario."
+    },
+    {
+      "title": "Describe a score as an observed association, not an individual forecast",
+      "narration": "A separate prospective inpatient nephrology-consult cohort analyzed 197 people ultimately classified as ATN or prerenal AKI. Its urinary sediment score combined granular casts and renal tubular epithelial cells. The investigators defined ‘worsened AKI’ as a composite of a higher AKIN stage, in-hospital dialysis, or in-hospital death. The observed composite incidence increased from 9.4% at score 0 to 66.7% at score 3 or higher, and the reported relative risk for score 3 or higher versus 0 was 7.3. This segment uses those results only to distinguish an association in a specified cohort from cause, certainty, or an individual prognosis. The score is not offered as a management threshold. [E2]",
+      "teachingLabels": [
+        "Composite outcome",
+        "Dose-dependent association",
+        "Not a patient forecast"
+      ],
+      "visualPlan": "Original association-only ladder with score categories and the study’s composite outcome definition in the legend. Overlay: ‘observational inpatient association; not a causal claim, patient forecast, or action threshold’. No copied study chart."
+    },
+    {
+      "title": "A single examination is a time-limited sample",
+      "narration": "The serial-examination study provides a bounded reason to avoid treating one report as permanently conclusive. In 121 selected patients with at least two microscopic examinations, 20% to 24% revealed evidence of acute tubular injury only after serial examination. The investigators also report that second and third examinations were not uniformly completed, and their population was enriched for intrinsic causes of AKI. The educational point is limited to this: a single sediment observation is tied to its sampling time, while evolving clinical evidence may change an explanatory model. The study does not establish a schedule for repeating microscopy, and this script gives none. [E3]",
+      "teachingLabels": [
+        "Single sample is time-bound",
+        "Serial evidence can differ",
+        "No universal repeat schedule"
+      ],
+      "visualPlan": "Original timeline: ‘first observation’ and ‘later observation’ each feeds a revisable evidence box. A boundary callout reads ‘selected inpatient cohort; incomplete serial sampling; no testing schedule proposed’. No specimen image."
+    },
+    {
+      "title": "Include method and observer limits in the conclusion",
+      "narration": "The final repair makes the measurement chain visible. The ASN educational review reports widespread automated flow cytometry or digital imaging, while stating that manual microscopy performed by an experienced nephrologist is usually better at identifying cellular casts, renal tubular epithelial cells, and acanthocytes. It also notes substantial variability among nephrologists interpreting urine sediment. In the score cohort, a post hoc survey found 65% overall agreement for renal tubular epithelial-cell assessment and 80% for granular-cast assessment. A learner should therefore describe what was reported and by which method when known, then state the uncertainty rather than use a bare ‘negative’ or ‘diagnostic’ label. This chapter does not teach technical microscopy skill or validate any local method. [E2] [E4]",
+      "teachingLabels": [
+        "Method affects reportable elements",
+        "Observer variability",
+        "State uncertainty"
+      ],
+      "visualPlan": "Original measurement-chain schematic: ‘specimen’ → ‘method’ → ‘reported elements’ → ‘interpretation’, with a visible observer-variability marker. Use icons and labels only; do not reproduce any source figure."
+    }
+  ]
+}

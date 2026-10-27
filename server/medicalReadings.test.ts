@@ -8,6 +8,7 @@ import {
   validateMedicalReading,
   validateMedicalReadingDevelopment,
   isPublicReadingSource,
+  selectedPublicTextSourceLimitation,
   type MedicalReadingChapter,
 } from "../shared/medicalReadings";
 
@@ -41,6 +42,20 @@ const fixture: MedicalReadingChapter = {
       title: "Concept",
       narration:
         "Explain the bounded source-backed concept without a clinical action claim.",
+    },
+  ],
+};
+const selectedPublicTextFixture: MedicalReadingChapter = {
+  ...fixture,
+  sourceLimitations: `${fixture.sourceLimitations} ${selectedPublicTextSourceLimitation}`,
+  reviewedSources: [
+    {
+      url: "https://www.fda.gov/medical-devices/example",
+      sourceKind: "selected_public_text",
+      selectedRecordSha256: "e".repeat(64),
+      selectedTextSha256: ["f".repeat(64), "1".repeat(64)],
+      excerptSha256: "2".repeat(64),
+      excerptManifestSha256: "3".repeat(64),
     },
   ],
 };
@@ -92,6 +107,58 @@ describe("medical reading-only source gates", () => {
     expect(medicalReadingMarkdown(fixture)).toContain(
       "Human clinician review has not been performed"
     );
+  });
+  it("loads retained selected public text without calling it a whole source", async () => {
+    expect(validateMedicalReading(selectedPublicTextFixture, "MED-058")).toBe(
+      true
+    );
+    expect(
+      (await loadMedicalReadings("MED-058", await saved(selectedPublicTextFixture)))
+        .chapters
+    ).toEqual([selectedPublicTextFixture]);
+    const markdown = medicalReadingMarkdown(selectedPublicTextFixture);
+    expect(markdown).toContain("retained selected UTF-8 excerpt SHA-256");
+    expect(markdown).toContain("not a whole work or publisher bytes");
+    expect(markdown).not.toContain("text SHA-256:");
+  });
+  it("rejects mixed, malformed, private, uncited, and under-qualified selected identities", () => {
+    expect(validateMedicalReading(selectedPublicTextFixture, "MED-058")).toBe(
+      true
+    );
+    const changes: ((source: Record<string, unknown>) => void)[] = [
+      source => {
+        source.textSha256 = "4".repeat(64);
+      },
+      source => {
+        source.rawSha256 = "5".repeat(64);
+      },
+      source => {
+        source.selectedRecordPath = "/tmp/private-record.json";
+      },
+      source => {
+        source.selectedRecordSha256 = "";
+      },
+      source => {
+        source.selectedTextSha256 = [];
+      },
+      source => {
+        source.selectedTextSha256 = ["not-a-valid-sha256"];
+      },
+      source => {
+        source.sourceKind = "html";
+      },
+      source => {
+        source.url = "https://www.fda.gov/medical-devices/not-cited";
+      },
+    ];
+    for (const change of changes) {
+      const malformed = structuredClone(selectedPublicTextFixture);
+      change(malformed.reviewedSources[0] as Record<string, unknown>);
+      expect(validateMedicalReading(malformed, "MED-058")).toBe(false);
+    }
+    const withoutBoundary = structuredClone(selectedPublicTextFixture);
+    withoutBoundary.sourceLimitations = fixture.sourceLimitations;
+    expect(validateMedicalReading(withoutBoundary, "MED-058")).toBe(false);
   });
   it("withholds a changed payload instead of serving unaudited words", async () => {
     const root = await saved();

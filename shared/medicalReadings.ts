@@ -1,3 +1,28 @@
+export const selectedPublicTextSourceLimitation =
+  "Selected-public-text provenance covers retained selected UTF-8 excerpts only; it does not identify whole works or publisher bytes.";
+
+export type MedicalReadingLegacyReviewedSource = {
+  url: string;
+  textSha256: string;
+  rawSha256?: string;
+  excerptSha256?: string;
+  excerptManifestSha256?: string;
+  sourceKind?: never;
+};
+
+export type MedicalReadingSelectedPublicTextSource = {
+  url: string;
+  sourceKind: "selected_public_text";
+  selectedRecordSha256: string;
+  selectedTextSha256: string[];
+  excerptSha256: string;
+  excerptManifestSha256: string;
+};
+
+export type MedicalReadingReviewedSource =
+  | MedicalReadingLegacyReviewedSource
+  | MedicalReadingSelectedPublicTextSource;
+
 export type MedicalReadingChapter = {
   episodeId: string;
   courseId: string;
@@ -16,13 +41,7 @@ export type MedicalReadingChapter = {
   visualSha256: string;
   evidenceSelectionSha256: string;
   reviewedAt: string;
-  reviewedSources: {
-    url: string;
-    textSha256: string;
-    rawSha256?: string;
-    excerptSha256?: string;
-    excerptManifestSha256?: string;
-  }[];
+  reviewedSources: MedicalReadingReviewedSource[];
   sourceLimitations: string;
   sections: {
     title: string;
@@ -48,6 +67,21 @@ export type MedicalReadingDevelopment = {
 export const medicalCourseIdPattern = /^MED-(?:X)?\d{3}$/;
 export const medicalChapterIdPattern = /^MED-(?:X)?\d{3}-EXPLAIN-\d{3,5}$/;
 const shaPattern = /^[a-f0-9]{64}$/;
+const legacyReviewedSourceKeys = new Set([
+  "url",
+  "textSha256",
+  "rawSha256",
+  "excerptSha256",
+  "excerptManifestSha256",
+]);
+const selectedPublicTextSourceKeys = new Set([
+  "url",
+  "sourceKind",
+  "selectedRecordSha256",
+  "selectedTextSha256",
+  "excerptSha256",
+  "excerptManifestSha256",
+]);
 const privatePath =
   /file:\/\/|(?:^|[\s("'`=:])\/(?:home|tmp|var|root|etc|proc|sys|dev|mnt|opt)\/|(?:^|[\s("'`=:])[A-Z]:[\\/]|\\\\[a-z0-9._-]+\\/i;
 
@@ -127,6 +161,39 @@ export function isPublicReadingSource(value: unknown): value is string {
   } catch {
     return false;
   }
+}
+
+function isSha256(value: unknown): value is string {
+  return typeof value === "string" && shaPattern.test(value);
+}
+
+export function validateMedicalReadingReviewedSource(
+  value: unknown,
+  sourceUrls: readonly string[]
+): value is MedicalReadingReviewedSource {
+  if (!value || typeof value !== "object" || Array.isArray(value))
+    return false;
+  const source = value as Record<string, unknown>;
+  const url = source.url;
+  if (!isPublicReadingSource(url) || !sourceUrls.includes(url)) return false;
+  if (source.sourceKind === "selected_public_text") {
+    return (
+      Object.keys(source).every(key => selectedPublicTextSourceKeys.has(key)) &&
+      isSha256(source.selectedRecordSha256) &&
+      Array.isArray(source.selectedTextSha256) &&
+      source.selectedTextSha256.length > 0 &&
+      source.selectedTextSha256.every(isSha256) &&
+      isSha256(source.excerptSha256) &&
+      isSha256(source.excerptManifestSha256)
+    );
+  }
+  return (
+    Object.keys(source).every(key => legacyReviewedSourceKeys.has(key)) &&
+    isSha256(source.textSha256) &&
+    ["rawSha256", "excerptSha256", "excerptManifestSha256"].every(
+      key => source[key] === undefined || isSha256(source[key])
+    )
+  );
 }
 
 export function validateMedicalReading(
@@ -220,30 +287,18 @@ export function validateMedicalReading(
   if (
     !Array.isArray(item.reviewedSources) ||
     !item.reviewedSources.length ||
-    !item.reviewedSources.every(
-      source =>
-        source &&
-        typeof source === "object" &&
-        Object.keys(source).every(key =>
-          [
-            "url",
-            "textSha256",
-            "rawSha256",
-            "excerptSha256",
-            "excerptManifestSha256",
-          ].includes(key)
-        ) &&
-        isPublicReadingSource(source.url) &&
-        item.sourceUrls instanceof Array &&
-        item.sourceUrls.includes(source.url) &&
-        typeof source.textSha256 === "string" &&
-        shaPattern.test(source.textSha256) &&
-        ["rawSha256", "excerptSha256", "excerptManifestSha256"].every(
-          key =>
-            source[key] === undefined ||
-            (typeof source[key] === "string" && shaPattern.test(source[key]))
-        )
+    !item.reviewedSources.every(source =>
+      validateMedicalReadingReviewedSource(source, item.sourceUrls as string[])
     )
+  )
+    return false;
+  if (
+    item.reviewedSources.some(
+      source =>
+        (source as { sourceKind?: unknown }).sourceKind ===
+        "selected_public_text"
+    ) &&
+    !(item.sourceLimitations as string).includes(selectedPublicTextSourceLimitation)
   )
     return false;
   return (

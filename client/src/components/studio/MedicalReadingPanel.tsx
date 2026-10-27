@@ -5,6 +5,7 @@ import type {
   MedicalReadingDevelopment,
 } from "@shared/medicalReadings";
 import {
+  selectedPublicTextSourceLimitation,
   validateMedicalReading,
   validateMedicalReadingDevelopment,
 } from "@shared/medicalReadings";
@@ -68,10 +69,19 @@ export function MedicalReadingContent({
           <div className="inline-actions">
             {chapter.reviewedSources.map((source, index) => (
               <SourceLink key={source.url} href={source.url}>
-                Source {index + 1}
+                {source.sourceKind === "selected_public_text"
+                  ? `Selected public-text excerpt ${index + 1}`
+                  : `Source ${index + 1}`}
               </SourceLink>
             ))}
           </div>
+          {chapter.reviewedSources.some(
+            source => source.sourceKind === "selected_public_text"
+          ) && (
+            <p className="muted-copy">
+              {selectedPublicTextSourceLimitation}
+            </p>
+          )}
           <h3>Remaining scope</h3>
           <ul>
             {chapter.coverageGaps.map((gap, index) => (

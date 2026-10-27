@@ -1,0 +1,99 @@
+{
+  "episodeId": "MED-X049-EXPLAIN-401",
+  "courseId": "MED-X049",
+  "title": "Free-flap monitoring: interpreting trends rather than a single signal",
+  "description": "Staged repair of the pending Unit 3 draft. The lesson limits itself to serial observation, complementary information from examination and flow-monitoring tools, and disciplined handoff through the treating service's local pathway. It does not teach a schedule, alarm threshold, diagnosis, rescue maneuver, or patient-specific action.",
+  "educationalLimits": "General reconstructive content only. No human clinical review has been performed. A source-supported script is not a rendered video and contributes zero minutes. The cited sources do not establish a universal monitoring interval, alarm threshold, diagnostic rule, or intervention pathway.",
+  "coverageGaps": [
+    "This remains a partial Unit 3 lesson. It does not cover flap selection, microvascular anastomotic technique, donor or recipient-site anatomy, device operation, rescue management, or supervised procedural skill acquisition.",
+    "The sources are general reconstructive/head-and-neck evidence and one institutional protocol; they do not establish a gender-affirming or urogenital free-flap protocol.",
+    "Source variation and examination limitations prevent a universal schedule, device threshold, or action algorithm from being taught here.",
+    "No ready video, measured duration, or counted instructional hour is created by this script."
+  ],
+  "sourceUrls": [
+    "https://iowaprotocols.medicine.uiowa.edu/protocols/free-flap-monitoring-and-salvage",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6408240/",
+    "https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2023.1130566/full"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "dd7a94db373d25fc510cec885be856b69bbe1faf2415c246db7cb8f17bdc06bb",
+  "visualSha256": "c7733ae8252483e3faac0a965d23f0cf3b36dd29a3a31e4b6a243f33f64114ed",
+  "evidenceSelectionSha256": "e5d6ed9abdc03c3b95afc363d2e2b6b5655733f28eb2f0cbe336f56a11090a27",
+  "reviewedAt": "2026-10-27T02:40:14.082238+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://iowaprotocols.medicine.uiowa.edu/protocols/free-flap-monitoring-and-salvage",
+      "textSha256": "f83781eba7742a11ff8aa2401b309009b902d91308ab0ab500b598ce826d6126"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6408240/",
+      "textSha256": "e8916539bd62671720cb911957cf0b06c95aeee90a62452ce1acd6b98ce6cc57"
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/surgery/articles/10.3389/fsurg.2023.1130566/full",
+      "textSha256": "76c28955cb6fa54905332a098ebf2e8c9fa2ec8755365cc5eb3901f0fcec562d"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "What serial monitoring is for",
+      "narration": "Free tissue depends on perfusion through its anastomosed vascular pedicle. In general reconstructive literature, close postoperative observation for possible vascular compromise is a mainstay, and early recognition is important to the opportunity for assessment and salvage [S1] [S2]. This lesson therefore frames monitoring as repeated collection and communication of observations. It does not teach that monitoring identifies a cause, predicts an individual outcome, or replaces evaluation by the responsible clinical service.",
+      "teachingLabels": [
+        "Repeated observation supports early recognition",
+        "A concerning change prompts expert assessment; it is not a diagnosis"
+      ],
+      "visualPlan": "Non-patient schematic of a transferred tissue flap, pedicle, and a sequence of observation points leading to clinician assessment. No operative image, patient image, or action threshold."
+    },
+    {
+      "title": "Establish a comparable bedside picture",
+      "narration": "The University of Iowa's head-and-neck protocol lists color, turgor, capillary refill, pinprick, and Doppler signal in its examination, while the review literature also describes temperature and bleeding characteristics among clinical observations [S1] [S2]. The transferable teaching point is to describe what was observed, when it was observed, and how it differs from the preceding documented picture. The Iowa source also documents variation in monitoring and management protocols. Its timing is therefore not imported as a universal schedule for another flap, service, or patient.",
+      "teachingLabels": [
+        "Use a comparable baseline and trend",
+        "Institution-specific timing is not a universal rule"
+      ],
+      "visualPlan": "Two time-stamped, generic observation cards compare color description, temperature descriptor, turgor, refill observation, and sampled Doppler signal. The graphic has no normal/abnormal scoring or threshold."
+    },
+    {
+      "title": "Treat flow technologies as additional evidence",
+      "narration": "The 2019 review describes clinical assessment as commonly used and notes that no single method beyond it has been universally adopted [S2]. A handheld acoustic Doppler, color duplex ultrasound, and an implantable Doppler supply different kinds of information. The review characterizes color duplex as resource-intensive and commonly adjunctive, while an implantable Doppler supplies continuous information from the monitored vessel but can produce false-positive findings in the evidence summarized there [S2]. The proposal therefore teaches learners to name what a tool sampled and to interpret it with the clinical picture and local expertise, rather than to treat presence or loss of one signal as a standalone verdict.",
+      "teachingLabels": [
+        "Different tools answer different observational questions",
+        "Adjunct data are not standalone clearance tests"
+      ],
+      "visualPlan": "Conceptual evidence stack: bedside examination, handheld Doppler, duplex ultrasound, and implantable Doppler lead to a shared clinician-interpretation box. No brand, device setting, performance claim, or action instruction."
+    },
+    {
+      "title": "Recognize limits of what can be seen and compared",
+      "narration": "The 2023 review identifies clinical examination as an accepted standard but explains that visibility and accessibility can be limited, lighting can alter apparent color, and patient characteristics, inconsistent warning signs, and assessor experience can affect interpretation [S3]. It also recommends a holistic view of the patient's health and comparison of flap appearance with surrounding body parts [S3]. These are reasons to record observations and uncertainty precisely. They do not create a remote diagnostic rule or a substitute for trained bedside judgment.",
+      "teachingLabels": [
+        "Examination has context-sensitive limits",
+        "Document uncertainty rather than overinterpret a sign"
+      ],
+      "visualPlan": "Accessibility-and-context diagram: visible surface, buried or difficult-to-access tissue, lighting, and observer factors surround an observation note. No patient photographs."
+    },
+    {
+      "title": "Fictional handoff: report a mismatch without naming a cause",
+      "narration": "Author-created fictional teaching example: a team member observes that the current documented bedside appearance differs from the prior observation while an audible Doppler signal remains. A careful handoff names the time, the prior and current observations, the sampled signal, and relevant context; it does not call the flap safe solely because a signal is present or assign a complication from the mismatch. The responsible clinical service then interprets the information under its own current pathway. This is an exercise in accurate communication, not a triage algorithm or management instruction.",
+      "teachingLabels": [
+        "Author-created fictional example",
+        "Describe the trend and the source of each observation"
+      ],
+      "visualPlan": "Fictional handoff card with fields for time, baseline, current findings, sampled signal, and receiving service. It ends at 'local clinical assessment' without diagnosis or intervention."
+    },
+    {
+      "title": "Boundaries and self-check",
+      "narration": "This proposed episode is a bounded general-reconstructive framework. It does not establish a schedule, numerical trigger, rescue sequence, or procedure-specific protocol, and it does not establish applicability to gender-affirming or urogenital flaps. Self-check: What information should be communicated when the examination trend and a sampled device signal do not appear to agree? A defensible answer states the observations and their timing, identifies the tool and sampling context, preserves uncertainty, and routes interpretation to the responsible local team.",
+      "teachingLabels": [
+        "No universal threshold or action algorithm",
+        "General reconstructive evidence only"
+      ],
+      "visualPlan": "Boundary diagram distinguishes 'observation and communication' from 'diagnosis, thresholds, and management,' which remain under local expert care."
+    }
+  ]
+}

@@ -826,6 +826,22 @@ function isPublicReadingSource(value) {
     return false;
   }
 }
+function isSha256(value) {
+  return typeof value === "string" && shaPattern.test(value);
+}
+function validateMedicalReadingReviewedSource(value, sourceUrls) {
+  if (!value || typeof value !== "object" || Array.isArray(value))
+    return false;
+  const source = value;
+  const url = source.url;
+  if (!isPublicReadingSource(url) || !sourceUrls.includes(url)) return false;
+  if (source.sourceKind === "selected_public_text") {
+    return Object.keys(source).every((key) => selectedPublicTextSourceKeys.has(key)) && isSha256(source.selectedRecordSha256) && Array.isArray(source.selectedTextSha256) && source.selectedTextSha256.length > 0 && source.selectedTextSha256.every(isSha256) && isSha256(source.excerptSha256) && isSha256(source.excerptManifestSha256);
+  }
+  return Object.keys(source).every((key) => legacyReviewedSourceKeys.has(key)) && isSha256(source.textSha256) && ["rawSha256", "excerptSha256", "excerptManifestSha256"].every(
+    (key) => source[key] === void 0 || isSha256(source[key])
+  );
+}
 function validateMedicalReading(value, courseId) {
   if (!value || typeof value !== "object" || Array.isArray(value) || !medicalCourseIdPattern.test(courseId))
     return false;
@@ -877,18 +893,12 @@ function validateMedicalReading(value, courseId) {
   if (!Array.isArray(item.sourceUrls) || !item.sourceUrls.length || !item.sourceUrls.every(isPublicReadingSource))
     return false;
   if (!Array.isArray(item.reviewedSources) || !item.reviewedSources.length || !item.reviewedSources.every(
-    (source) => source && typeof source === "object" && Object.keys(source).every(
-      (key) => [
-        "url",
-        "textSha256",
-        "rawSha256",
-        "excerptSha256",
-        "excerptManifestSha256"
-      ].includes(key)
-    ) && isPublicReadingSource(source.url) && item.sourceUrls instanceof Array && item.sourceUrls.includes(source.url) && typeof source.textSha256 === "string" && shaPattern.test(source.textSha256) && ["rawSha256", "excerptSha256", "excerptManifestSha256"].every(
-      (key) => source[key] === void 0 || typeof source[key] === "string" && shaPattern.test(source[key])
-    )
+    (source) => validateMedicalReadingReviewedSource(source, item.sourceUrls)
   ))
+    return false;
+  if (item.reviewedSources.some(
+    (source) => source.sourceKind === "selected_public_text"
+  ) && !item.sourceLimitations.includes(selectedPublicTextSourceLimitation))
     return false;
   return Array.isArray(item.sections) && item.sections.length > 0 && item.sections.every(
     (section) => section && typeof section === "object" && Object.keys(section).every(
@@ -898,13 +908,29 @@ function validateMedicalReading(value, courseId) {
     )) && (section.visualPlan === void 0 || typeof section.visualPlan === "string")
   );
 }
-var medicalCourseIdPattern, medicalChapterIdPattern, shaPattern, privatePath;
+var selectedPublicTextSourceLimitation, medicalCourseIdPattern, medicalChapterIdPattern, shaPattern, legacyReviewedSourceKeys, selectedPublicTextSourceKeys, privatePath;
 var init_medicalReadings = __esm({
   "shared/medicalReadings.ts"() {
     "use strict";
+    selectedPublicTextSourceLimitation = "Selected-public-text provenance covers retained selected UTF-8 excerpts only; it does not identify whole works or publisher bytes.";
     medicalCourseIdPattern = /^MED-(?:X)?\d{3}$/;
     medicalChapterIdPattern = /^MED-(?:X)?\d{3}-EXPLAIN-\d{3,5}$/;
     shaPattern = /^[a-f0-9]{64}$/;
+    legacyReviewedSourceKeys = /* @__PURE__ */ new Set([
+      "url",
+      "textSha256",
+      "rawSha256",
+      "excerptSha256",
+      "excerptManifestSha256"
+    ]);
+    selectedPublicTextSourceKeys = /* @__PURE__ */ new Set([
+      "url",
+      "sourceKind",
+      "selectedRecordSha256",
+      "selectedTextSha256",
+      "excerptSha256",
+      "excerptManifestSha256"
+    ]);
     privatePath = /file:\/\/|(?:^|[\s("'`=:])\/(?:home|tmp|var|root|etc|proc|sys|dev|mnt|opt)\/|(?:^|[\s("'`=:])[A-Z]:[\\/]|\\\\[a-z0-9._-]+\\/i;
   }
 });
@@ -998,7 +1024,7 @@ function medicalReadingMarkdown(chapter) {
     "## Reviewed sources",
     "",
     ...chapter.reviewedSources.map(
-      (source) => `- ${source.url} \u2014 text SHA-256: ${source.textSha256}`
+      (source) => source.sourceKind === "selected_public_text" ? `- ${source.url} \u2014 retained selected UTF-8 excerpt SHA-256: ${source.selectedTextSha256.join(", ")}; selected record SHA-256: ${source.selectedRecordSha256} (not a whole work or publisher bytes)` : `- ${source.url} \u2014 text SHA-256: ${source.textSha256}`
     ),
     "",
     "## Remaining scope",

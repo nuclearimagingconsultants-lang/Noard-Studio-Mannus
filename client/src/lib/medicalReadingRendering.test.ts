@@ -5,7 +5,10 @@ import {
   MedicalReadingContent,
   MedicalReadingDevelopmentNotice,
 } from "../components/studio/MedicalReadingPanel";
-import type { MedicalReadingChapter } from "@shared/medicalReadings";
+import {
+  selectedPublicTextSourceLimitation,
+  type MedicalReadingChapter,
+} from "@shared/medicalReadings";
 
 const chapter: MedicalReadingChapter = {
   episodeId: "MED-058-EXPLAIN-301",
@@ -49,6 +52,28 @@ describe("medical chapter reading display", () => {
     expect(html).toContain(
       "/api/content/medical-chapters/MED-058/MED-058-EXPLAIN-301.md"
     );
+  });
+  it("labels retained selected public text without presenting it as a whole work", () => {
+    const selectedPublicText: MedicalReadingChapter = {
+      ...chapter,
+      sourceLimitations: `${chapter.sourceLimitations} ${selectedPublicTextSourceLimitation}`,
+      reviewedSources: [
+        {
+          url: "https://www.fda.gov/example",
+          sourceKind: "selected_public_text",
+          selectedRecordSha256: "e".repeat(64),
+          selectedTextSha256: ["f".repeat(64)],
+          excerptSha256: "1".repeat(64),
+          excerptManifestSha256: "2".repeat(64),
+        },
+      ],
+    };
+    const html = renderToStaticMarkup(
+      createElement(MedicalReadingContent, { chapters: [selectedPublicText] })
+    );
+    expect(html).toContain("Selected public-text excerpt 1");
+    expect(html).toContain(selectedPublicTextSourceLimitation);
+    expect(html).toContain("https://www.fda.gov/example");
   });
   it("renders source prose as literal text, not executable publisher HTML", () => {
     const html = renderToStaticMarkup(

@@ -1,0 +1,85 @@
+{
+  "episodeId": "MED-153-EXPLAIN-401",
+  "courseId": "MED-153",
+  "title": "Fluid accumulation in pediatric AKI: a signal, not a prescription",
+  "description": "Staged source-grounded script proposal for the pending Unit 6 episode. It preserves the pending episode identity and frames recorded fluid balance, kidney-function interpretation, and renal-support evidence as context-dependent reasoning rather than a CRRT order.",
+  "educationalLimits": "Independent physician-level self-study only. This staged script is not human-clinician-reviewed, is not clinical training, and does not provide individual diagnosis, orders, CRRT initiation criteria, fluid-removal targets, device setup, vascular-access instruction, or a substitute for local multidisciplinary assessment and policy. It confers no licensure, fellowship, board eligibility, or passing guarantee.",
+  "coverageGaps": [
+    "The episode is a focused conceptual repair, not complete pediatric AKI teaching. It does not teach AKI staging, electrolyte or acid-base interpretation, diuretic use, renal-replacement prescription, vascular access, circuit operation, anticoagulation, or fluid-removal rates.",
+    "The SCCM 2026 source applies to children with sepsis or septic shock. Its fluid-balance statement requires hemodynamic stability and close monitoring; it does not create a universal fluid-removal rule for all critically ill children.",
+    "The 2024 review is specifically about neonates and children receiving ECMO. Its uncertainty about CRRT timing and rate must not be generalized to non-ECMO PICU care.",
+    "The 2023 CRRT review summarizes mostly retrospective pediatric evidence and explicitly notes that some findings may not be generalizable. It cannot settle an individual child’s timing decision.",
+    "No human clinical review has been performed, and the episode does not resolve the curriculum's broader renal/electrolyte, procedural, or recording-hour deficits."
+  ],
+  "sourceUrls": [
+    "https://sccm.org/survivingsepsiscampaign/guidelines-and-resources/surviving-sepsis-campaign-pediatric-guidelines",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC6215821/",
+    "https://link.springer.com/article/10.1007/s44253-024-00051-4",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC10912166/"
+  ],
+  "status": "source_prepared_not_rendered",
+  "videoProduced": false,
+  "measuredVideoSeconds": null,
+  "countedLectureMinutes": 0,
+  "humanClinicalReviewStatus": "not performed",
+  "sourceReviewStatus": "passed_automated_source_check",
+  "sourceScriptSha256": "a5a62d285a425452c92f5d99b01aaa02bbf9a94be3fb691059c941d80213d943",
+  "visualSha256": "74e9c0436633d16488bf8355ecb839092055f8c3b1f1520340fbb5e2075a4e70",
+  "evidenceSelectionSha256": "3b4a52052fa609779209c238e98b1c084aa299c809998b0f21e1ad22b8b7fcdd",
+  "reviewedAt": "2026-10-27T02:37:26.304165+00:00",
+  "reviewedSources": [
+    {
+      "url": "https://sccm.org/survivingsepsiscampaign/guidelines-and-resources/surviving-sepsis-campaign-pediatric-guidelines",
+      "textSha256": "cb7547c2f6bbf5272a059f3a39043e97e02f541a25a5378e95e5809ecaafb888"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6215821/",
+      "textSha256": "cd940c7237ad47736c3125aa4ef73404da1f9b87f0704446c0e2653d6f66a8f0"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10912166/",
+      "textSha256": "690646e74da079182de58aba87a11fb2150740e05d3aafeefc39e8efd15de355"
+    }
+  ],
+  "sourceLimitations": "Automated source-fidelity review compares the exact rendered script and labels only to retrieved supporting excerpts; it is not whole-book clinical validation and does not replace qualified human clinical validation.",
+  "sections": [
+    {
+      "title": "A recorded balance is an observation before it is an interpretation",
+      "narration": "Begin by stating the observation precisely: a fluid-balance ledger records the documented inputs and outputs over a stated interval. It does not, by itself, establish why the balance changed, where fluid is distributed, whether measurements are complete, or what intervention is appropriate. The pediatric review describes important measurement limits in neonates, including uncertainty in breastmilk intake, losses into diapers or bedsheets, and insensible losses. It also notes that using an ICU admission weight rather than a hospital admission weight can underestimate the degree of fluid overload, and that inconsistent results warrant more research on the most appropriate measurement method. [2] This episode therefore treats the ledger as one input to a clinical interpretation, not as a diagnosis or prescription. State the time window, baseline used, and data-quality concerns before attaching a label to a positive balance.",
+      "teachingLabels": [
+        "Measurement first; interpretation second",
+        "State interval, baseline, and data limits"
+      ],
+      "visualPlan": "Author-created, non-patient schematic showing a time-stamped inputs/outputs ledger on the left and a separate context box on the right labelled interval, baseline, missing measurements, and trajectory. Do not draw a treatment threshold or order pathway."
+    },
+    {
+      "title": "Fluid accumulation can complicate, rather than settle, creatinine interpretation",
+      "narration": "Fluid accumulation and acute kidney injury can make a single laboratory trend harder to interpret. The pediatric review explains that fluid overload can expand the volume of distribution of serum creatinine and can therefore overestimate kidney function and delay AKI recognition. [2] The same review presents an adjustment equation, but immediately qualifies that the commonly used total-body-water constant may be inaccurate across ages and pathological states. [2] The teaching point is not to apply a correction automatically. Instead, recognize the possibility that changing fluid balance may affect how a creatinine trend is read, identify the assumptions that would be required for any adjustment, and retain uncertainty when those assumptions are not secure. A fluid ledger, a creatinine value, and an AKI conclusion are different levels of inference.",
+      "teachingLabels": [
+        "Fluid status can affect creatinine interpretation",
+        "Do not turn a correction equation into an automatic conclusion"
+      ],
+      "visualPlan": "Author-created causal-reasoning diagram: changing fluid balance may affect serum-creatinine concentration; measurement assumptions and clinical context remain separate boxes. Use dashed arrows labelled possible interpretive effect, not causation or treatment instruction."
+    },
+    {
+      "title": "In sepsis, reassessment and stability are explicit boundaries",
+      "narration": "For the narrower setting of pediatric sepsis or septic shock, the 2026 Surviving Sepsis Campaign source says it is reasonable to consider preventing excessive fluid administration, monitoring total fluid intake, and considering active fluid removal when fluid overload is present after hemodynamic stability is achieved. It also requires close monitoring of hemodynamic changes to avoid compromising end-organ perfusion. [1] This is a good-practice statement, not a calculation that produces a patient-specific removal plan. The same source reports that only three of its 61 total statements were based on high or moderate quality of evidence, and it records insufficient evidence for some related extracorporeal blood-purification questions. [1] The episode should therefore teach the scope and qualifiers of the statement: sepsis-specific context, post-stability timing, ongoing monitoring, and evidence limits.",
+      "teachingLabels": [
+        "Sepsis-specific source scope",
+        "After stability; monitor for compromised perfusion",
+        "Good-practice statement, not an individual order"
+      ],
+      "visualPlan": "Author-created scope card with four linked prompts: sepsis or septic shock context; documented fluid concern; hemodynamic stability; monitoring for end-organ perfusion. Mark it as a source-bound reasoning frame, not a protocol or order set."
+    },
+    {
+      "title": "CRRT evidence identifies uncertainty rather than a universal trigger",
+      "narration": "Renal replacement may be discussed in relation to fluid overload, but the available sources do not justify a universal trigger, rate, or device plan. The 2024 review specifically addresses neonates and children on ECMO. It reports no consensus on when to initiate CRRT during ECMO, says precise timing or a fluid threshold were not established in the cited survey, and concludes that further work is needed to understand both when to start CRRT and how fast to remove fluid. [3] A 2023 review similarly describes optimal timing as difficult, notes that CRRT is invasive and may have complications, and cautions that some pediatric timing findings came from single-center retrospective studies that may not be generalizable. [4] Keep the ECMO scope visible, distinguish associations from patient-level causation, and stop before operational CRRT instruction. Self-checks: (1) What does a positive documented balance establish, and what additional facts does it not establish? (2) Which source applies specifically to children with sepsis or septic shock? (3) Why does an association at CRRT initiation not create a universal timing or fluid-removal rule?",
+      "teachingLabels": [
+        "Association is not an individualized trigger",
+        "ECMO evidence has an ECMO boundary",
+        "No CRRT rate, threshold, or operation instruction"
+      ],
+      "visualPlan": "Author-created evidence-boundary diagram with three separate lanes: measurement quality, sepsis-specific guidance after stability, and ECMO-specific CRRT uncertainty. Put a prominent stop marker before any prescription, rate, or device-operation content."
+    }
+  ]
+}
