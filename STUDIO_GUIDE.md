@@ -1,3 +1,19 @@
+# Board Studio — cloud-first medical pilot
+
+Updated 27 October 2026. This three-film increment is locally validated; publication verification is tracked separately.
+
+New medical videos: MED-086 urine-sediment evidence (295 seconds), MED-135 allograft-biopsy evidence (279 seconds), and MED-153 pediatric fluid-accumulation evidence (296.982993 seconds). Total **14.5164 new measured minutes**, not 136 hours. GPT-5 remained the reviewer; no automatic model switch was enabled. Three audit calls used approximately **26.46 model-call credits**; this excludes general agent/hosting/tool overhead.
+
+There are now **242 ready originals: 149 base and 93 medical**, with all prior 239 exact media identities retained. All **28 approved readings** remain immutable, source-limited no-video artifacts. The existing 136 course/variant hour floors are still unmet, with **2,966.03 overlapping record-hours** remaining. The 118 older draft source reviews, 8 source-unavailable records and 19 withheld practice-metadata items remain unresolved. Human clinician review was not performed; medicine is not complete.
+
+The three new films passed automated source review, measured render/audio/caption inspections, full hosted-byte digests, actual native playback and caption checks. Their MP4/WAV and supporting assets were privately backed up to Drive with exact SHA-256/MD5/size verification. Only their new temporary working replicas and two new generated visual caches were offloaded after cloud verification; older study/source/media/archive files remain protected. Cloud storage still requires bounded local render capacity.
+
+Select Medicine → the course → Original → Play ready queue on [Manus](https://boardstudio-svjffwzx.manus.space/med) or [Vercel](https://noardstudiomannus.vercel.app/med) after release verification. These independent self-study materials confer no affiliation, degree, clinical competence, board eligibility/certification or pass guarantee.
+
+---
+
+## Previous verified increments and historical guide
+
 # Board Studio — current medical release snapshot
 
 Prepared 27 October 2026. This snapshot describes the validated medical increment; deployment verification is reported separately after publication.

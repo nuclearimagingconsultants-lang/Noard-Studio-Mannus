@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Read-only exact 28-reading / 239-ready medical increment verification."""
+"""Read-only exact 28-reading release with an optional explicit companion increment."""
 import argparse
 import concurrent.futures
 import hashlib
@@ -14,7 +14,14 @@ def canonical(value):
 parser = argparse.ArgumentParser()
 parser.add_argument('--origin', required=True)
 parser.add_argument('--report', type=Path, required=True)
+parser.add_argument('--companion-ids-file', type=Path, help='Exact unique new EXPLAIN-402 IDs above the protected 239-ready release.')
 args = parser.parse_args()
+companion_ids = set()
+if args.companion_ids_file:
+    chosen = json.loads(args.companion_ids_file.read_text())
+    assert isinstance(chosen, list) and chosen and all(isinstance(ident, str) and ident.startswith('MED-') and ident.endswith('-EXPLAIN-402') for ident in chosen)
+    assert len(chosen) == len(set(chosen))
+    companion_ids = set(chosen)
 origin = args.origin.rstrip('/')
 def get(route):
     with urllib.request.urlopen(origin + route, timeout=40) as response:
@@ -58,13 +65,21 @@ assert seen == expected and seen_states == expected_states
 ready_expected = sorted(row['id'] for filename in ['data/original-lectures.json', 'data/medical/original-lectures.json'] for row in json.loads((ROOT / filename).read_text())['lessons'] if row.get('status') == 'ready')
 media = get('/api/content/media')
 ready_actual = sorted(row['id'] for row in media['lessons'] if row.get('status') == 'ready')
-assert ready_expected == ready_actual and len(ready_actual) == 239
-new_ids = {'MED-059-EXPLAIN-401', 'MED-110-EXPLAIN-401'}
+assert ready_expected == ready_actual and len(ready_actual) == 239 + len(companion_ids)
+legacy_new_ids = {'MED-059-EXPLAIN-401', 'MED-110-EXPLAIN-401'}
+new_ids = legacy_new_ids | companion_ids
 assert new_ids.issubset(ready_actual) and not new_ids.intersection(expected)
 for row in media['lessons']:
     if row['id'] in new_ids:
         assert row['humanClinicalReviewStatus'] == 'not performed' and row['medicalSourceReviewStatus'] == 'passed_automated_source_check'
-assert sum(row['durationSeconds'] for row in media['lessons'] if row['id'] in new_ids) == 628
+assert sum(row['durationSeconds'] for row in media['lessons'] if row['id'] in legacy_new_ids) == 628
+if companion_ids:
+    baseline239 = sorted(set(ready_actual) - companion_ids)
+    assert len(baseline239) == 239 and hashlib.sha256(canonical(baseline239)).hexdigest() == 'c835e3f79d5770c4360b2f967fd075ec01223276483f7aa2d9ae4110ed27377f'
+    local_medical = {row['id']: row for row in json.loads((ROOT / 'data/medical/original-lectures.json').read_text())['lessons']}
+    for row in media['lessons']:
+        if row['id'] in companion_ids:
+            assert row['durationSeconds'] == local_medical[row['id']]['durationSeconds'] and row['durationSeconds'] > 0
 old_ready = sorted(set(ready_actual) - new_ids)
 # Hash of the exact preserved 237-ID baseline, computed by the previous live release.
 assert hashlib.sha256(canonical(old_ready)).hexdigest() == 'da3e0ce46812aa0937bcac78cd47555ebfb8d1ed44e318729e099bb56a05b2f2'
@@ -75,7 +90,9 @@ for bundle_id, digest, size in [('medical-source-reviewed-14-readings-20261026',
     live = next(row for row in catalog['downloads'] if row['id'] == bundle_id)
     assert local['sha256'] == digest and local['bytes'] == size
     assert all(live.get(key) == local[key] for key in ['id', 'title', 'kind', 'url'])
-report = {'status': 'PASS', 'origin': origin, 'medicalReadingEndpoints': 333, 'exactFullPayloads': 28, 'legacyDevelopmentStates': 136, 'legacySourceReviewsPending': sum(row['status'] == 'source_review_pending' for row in seen_states.values()), 'legacySourceUnavailable': sum(row['status'] == 'source_unavailable' for row in seen_states.values()), 'readyMediaIdentities': 239, 'preservedPreviousReadyIdentities': 237, 'newMeasuredVideos': 2, 'newMeasuredSeconds': 628, 'newMeasuredMinutes': 628 / 60, 'readyIdentitySha256': hashlib.sha256(canonical(ready_actual)).hexdigest(), 'fullPayloadsSha256': hashlib.sha256(canonical(seen)).hexdigest(), 'developmentStatesSha256': hashlib.sha256(canonical(seen_states)).hexdigest(), 'readingsAddZeroVideoMinutes': True, 'clinicianReviewNotPerformed': True, 'bothOldAndNewLibraryBundlesPassed': True, 'courses': results}
+increment_ids = companion_ids or legacy_new_ids
+increment_seconds = sum(row['durationSeconds'] for row in media['lessons'] if row['id'] in increment_ids)
+report = {'status': 'PASS', 'origin': origin, 'medicalReadingEndpoints': 333, 'exactFullPayloads': 28, 'legacyDevelopmentStates': 136, 'legacySourceReviewsPending': sum(row['status'] == 'source_review_pending' for row in seen_states.values()), 'legacySourceUnavailable': sum(row['status'] == 'source_unavailable' for row in seen_states.values()), 'readyMediaIdentities': len(ready_actual), 'preservedPreviousReadyIdentities': 239 if companion_ids else 237, 'protectedLegacy237Identities': 237, 'newMeasuredVideos': len(increment_ids), 'newMeasuredSeconds': increment_seconds, 'newMeasuredMinutes': increment_seconds / 60, 'readyIdentitySha256': hashlib.sha256(canonical(ready_actual)).hexdigest(), 'fullPayloadsSha256': hashlib.sha256(canonical(seen)).hexdigest(), 'developmentStatesSha256': hashlib.sha256(canonical(seen_states)).hexdigest(), 'readingsAddZeroVideoMinutes': True, 'clinicianReviewNotPerformed': True, 'bothOldAndNewLibraryBundlesPassed': True, 'courses': results}
 assert report['legacySourceReviewsPending'] == 118 and report['legacySourceUnavailable'] == 8
 args.report.parent.mkdir(parents=True, exist_ok=True)
 args.report.write_text(json.dumps(report, indent=2) + '\n')

@@ -3477,8 +3477,126 @@
         "vtt": "7ed433bd103c398fff47a84403fea3e6a8086bad50fa71cf32e2695823529708",
         "transcript": "fe53500599b179c4532c31ff6543e4192194d4623fded96b0760a0de98f3b9e2"
       }
+    },
+    {
+      "id": "MED-086-EXPLAIN-402",
+      "title": "Urine sediment in AKI: clues that shift probability, not a verdict",
+      "description": "Staged repair for the pending Unit 2 adult nephrology self-study chapter. It limits instruction to the interpretation boundary supported by three inpatient observational studies and an ASN educational review: granular casts and renal tubular epithelial cells can change diagnostic probability in defined contexts, a score had an association with a composite worsening-AKI outcome in one cohort, and serial examination added information in a selected cohort. It does not teach specimen processing, microscopy performance, a patient workup, treatment, or any individual diagnostic threshold.",
+      "status": "ready",
+      "sourceKind": "medical_instruction",
+      "medicalSourceReviewStatus": "passed_automated_source_check",
+      "humanClinicalReviewStatus": "not performed",
+      "programIds": [
+        "med"
+      ],
+      "courseIds": [
+        "MED-086"
+      ],
+      "isInstructional": true,
+      "durationSeconds": 295,
+      "videoUrl": "/manus-storage/MED-086-EXPLAIN-402_c5a74a1d.mp4",
+      "captionUrl": "/manus-storage/MED-086-EXPLAIN-402_02c124a2.vtt",
+      "transcriptUrl": "/manus-storage/MED-086-EXPLAIN-402.transcript_d532823c.md",
+      "sourceUrls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2572284/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2827582/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8741003/",
+        "https://www.kidneynews.org/view/journals/kidney-news/13/7/article-p20_17.xml"
+      ],
+      "scriptSha256": "be485b65fca93afc244c170c5327127a2543923a0076b6d17780ece9df2ad6ee",
+      "visualSha256": "fcb1b0391b2a1f702176eddbb6824d0cd305f631c6cec36428c43e96b79619d2",
+      "evidenceSelectionSha256": "52c63d1bcd4b9d9ddc64271325c7b14033afa76542c98ac13bd0bcb967f9083f",
+      "renderContentSha256": "c0bf97528b275e55838905f221c9226883dceb262e2ddacf87c06e332ed6f86a",
+      "localAssetSha256": {
+        "mp4": "ecd728f2a6ec916fa61bda1513ef7e5773f139dbec00446d72d6493f156e0b91",
+        "vtt": "077f055c673a4ae742309b7e80dfc8a3650534643e55ae6d740b8ae70213f029",
+        "transcript": "73e33e91a3d6b5cf2744a5d65653cc3e9d39566a924edef2c5c1dbb8be212284"
+      },
+      "uploadedAssetSha256": {
+        "mp4": "ecd728f2a6ec916fa61bda1513ef7e5773f139dbec00446d72d6493f156e0b91",
+        "vtt": "077f055c673a4ae742309b7e80dfc8a3650534643e55ae6d740b8ae70213f029",
+        "transcript": "73e33e91a3d6b5cf2744a5d65653cc3e9d39566a924edef2c5c1dbb8be212284"
+      }
+    },
+    {
+      "id": "MED-135-EXPLAIN-402",
+      "title": "Kidney Allograft AMR: Reasoning Across MVI, C4d, and DSA",
+      "description": "Proposed source-grounded repair for the pending Unit 10 chapter. It uses the live Banff renal-transplant reference and the Banff 2024 meeting report to teach a bounded evidence-integration approach to AMR/MVI categories. A fictional text-only evidence table illustrates uncertainty; it does not supply patient care advice or diagnostic sign-out.",
+      "status": "ready",
+      "sourceKind": "medical_instruction",
+      "medicalSourceReviewStatus": "passed_automated_source_check",
+      "humanClinicalReviewStatus": "not performed",
+      "programIds": [
+        "med"
+      ],
+      "courseIds": [
+        "MED-135"
+      ],
+      "isInstructional": true,
+      "durationSeconds": 279,
+      "videoUrl": "/manus-storage/MED-135-EXPLAIN-402_6bfd8041.mp4",
+      "captionUrl": "/manus-storage/MED-135-EXPLAIN-402_efd59ceb.vtt",
+      "transcriptUrl": "/manus-storage/MED-135-EXPLAIN-402.transcript_79ab5430.md",
+      "sourceUrls": [
+        "https://banfffoundation.org/central-repository-for-banff-classification-resources-3/",
+        "https://www.amjtransplant.org/article/S1600-6135(26)00040-7/fulltext"
+      ],
+      "scriptSha256": "241f77489626cb1361dd1918d193b72f1244d7690c5ee1d53540f0af04790434",
+      "visualSha256": "933b8fa9d67da45f81ab762bc92ab0215be0b2b0d00f90798d708cd0c3c8c77b",
+      "evidenceSelectionSha256": "8ac7c02a4c630f4f4dfa6e4ffd5f8025148cf4e8d14c2334b8d45c21597e639b",
+      "renderContentSha256": "c9c3af790bb47d4282ae7c93cfd9877d5e6d823558cd991c17edfd90426a3703",
+      "localAssetSha256": {
+        "mp4": "1e9def6319055ed57de4b9cc30760765b7525279d9f670fde4998d9f13f773dc",
+        "vtt": "9781a9ca8f26b15814133f3db2ed156b69e25696d696b62ae7d1e66b656c9ebe",
+        "transcript": "7facc40ffed47667defbd71481293ffc3a18d88b2a09cd04c4da8b588650299e"
+      },
+      "uploadedAssetSha256": {
+        "mp4": "1e9def6319055ed57de4b9cc30760765b7525279d9f670fde4998d9f13f773dc",
+        "vtt": "9781a9ca8f26b15814133f3db2ed156b69e25696d696b62ae7d1e66b656c9ebe",
+        "transcript": "7facc40ffed47667defbd71481293ffc3a18d88b2a09cd04c4da8b588650299e"
+      }
+    },
+    {
+      "id": "MED-153-EXPLAIN-402",
+      "title": "Fluid accumulation in pediatric AKI: a signal, not a prescription",
+      "description": "Staged source-grounded script proposal for the pending Unit 6 episode. It preserves the pending episode identity and frames recorded fluid balance, kidney-function interpretation, and renal-support evidence as context-dependent reasoning rather than a CRRT order.",
+      "status": "ready",
+      "sourceKind": "medical_instruction",
+      "medicalSourceReviewStatus": "passed_automated_source_check",
+      "humanClinicalReviewStatus": "not performed",
+      "programIds": [
+        "med"
+      ],
+      "courseIds": [
+        "MED-153"
+      ],
+      "isInstructional": true,
+      "durationSeconds": 296.982993,
+      "videoUrl": "/manus-storage/MED-153-EXPLAIN-402_c6c4d580.mp4",
+      "captionUrl": "/manus-storage/MED-153-EXPLAIN-402_12607c99.vtt",
+      "transcriptUrl": "/manus-storage/MED-153-EXPLAIN-402.transcript_723c523b.md",
+      "sourceUrls": [
+        "https://sccm.org/survivingsepsiscampaign/guidelines-and-resources/surviving-sepsis-campaign-pediatric-guidelines",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6215821/",
+        "https://link.springer.com/article/10.1007/s44253-024-00051-4",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10912166/"
+      ],
+      "scriptSha256": "9084750c1d456dbbd00caad947df266a3c39a62686cd4f5bfe93e9ed5fb251b3",
+      "visualSha256": "74e9c0436633d16488bf8355ecb839092055f8c3b1f1520340fbb5e2075a4e70",
+      "evidenceSelectionSha256": "7009a6a9e2d551b0be0067f75e7a3c24d5f291226d61e5b8e1c780cad1f28ae4",
+      "renderContentSha256": "9284275c7b682889875d61983ec73580521c1779860c0a895fd74b7cd341baba",
+      "localAssetSha256": {
+        "mp4": "1ba73da82a1df7ae3cb36b1b9f90e56505f933613e48375b2c91266a31fcb3ba",
+        "vtt": "326216d71f5fdf17eac9c7f071112c83e2d519264c9dbc22c7dda4e73fbdd973",
+        "transcript": "5f4858c9d90b8e0c6c72bd6c6fed962c53f00d93f0a9511f3e2ae4ed8e962ff0"
+      },
+      "uploadedAssetSha256": {
+        "mp4": "1ba73da82a1df7ae3cb36b1b9f90e56505f933613e48375b2c91266a31fcb3ba",
+        "vtt": "326216d71f5fdf17eac9c7f071112c83e2d519264c9dbc22c7dda4e73fbdd973",
+        "transcript": "5f4858c9d90b8e0c6c72bd6c6fed962c53f00d93f0a9511f3e2ae4ed8e962ff0"
+      }
     }
   ],
   "sourceCoverage": [],
-  "productionState": "complete_with_blocks"
+  "productionState": "partial_source_qualified_series"
 }
