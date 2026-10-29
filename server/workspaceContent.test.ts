@@ -237,3 +237,29 @@ describe("index-assisted workspace content", () => {
     );
   }, 30_000);
 });
+
+describe("selected medical bibliography projection", () => {
+  it("integrates references only into selected in-scope courses, never directory or compact peers", async () => {
+    const loader = createWorkspaceContentLoader();
+    const directory = await loader.getDirectoryContent();
+    expect(directory.courses.every(c => c.researchSources === undefined)).toBe(true);
+    const workspace = await loader.getCourseWorkspace("MED-209", "program");
+    const selected = workspace.catalog.courses.find(c => c.id === "MED-209")!;
+    expect(selected.researchSources?.references).toHaveLength(3);
+    expect(selected.researchSources?.countedLectureMinutes).toBe(0);
+    expect(workspace.catalog.courses.filter(c => c.id !== "MED-209").every(c => c.researchSources === undefined)).toBe(true);
+    const nonMedical = directory.courses.find(c => c.programId !== "med")!;
+    const base = await loader.getCourseWorkspace(nonMedical.id);
+    expect(base.catalog.courses[0].researchSources).toBeUndefined();
+  });
+  it("keeps existing course media and curriculum available if bibliography loading fails", async () => {
+    const loader = createWorkspaceContentLoader({ getCourseSources: async () => { throw new Error("simulated bibliography failure"); } });
+    const workspace = await loader.getCourseWorkspace("MED-209");
+    const selected = workspace.catalog.courses[0];
+    expect(selected.id).toBe("MED-209");
+    expect(selected.lectures!.length).toBeGreaterThan(0);
+    expect(selected.units).toBeTruthy();
+    expect(selected.researchSources?.status).toBe("unavailable");
+    expect(selected.researchSources?.references).toEqual([]);
+  });
+});

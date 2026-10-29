@@ -2437,7 +2437,7 @@ a {
 }
 .medical-reference-list li {
   padding: 0.75rem 0;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--line);
   overflow-wrap: anywhere;
 }
 .medical-reference-list li:last-child {
@@ -2446,4 +2446,29 @@ a {
 .medical-reference-list p {
   margin: 0.35rem 0 0;
   line-height: 1.6;
+}
+
+.medical-unit-sources {
+  margin-top: 0.8rem;
+  padding-top: 0.6rem;
+  border-top: 1px solid var(--line);
+}
+.medical-unit-sources ul {
+  display: block;
+  padding-left: 1.1rem;
+  margin-top: 0.35rem;
+}
+.medical-unit-sources ul li {
+  display: list-item;
+  padding: 0.2rem 0;
+  border: 0;
+}
+.medical-reference-list details {
+  margin-top: 0.5rem;
+}
+.medical-reference-list .source-link,
+.medical-unit-sources .source-link {
+  display: inline;
+  white-space: normal;
+  overflow-wrap: anywhere;
 }

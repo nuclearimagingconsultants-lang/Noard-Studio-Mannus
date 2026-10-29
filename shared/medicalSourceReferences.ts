@@ -1,5 +1,5 @@
 export const MEDICAL_SOURCE_REFERENCE_ASSET =
-  "/medical-source-references.5c80242c04f4ecd5.json";
+  "/medical-source-references.8d2de4d25db32098.json";
 
 export type MedicalSourceReference = {
   id: string;

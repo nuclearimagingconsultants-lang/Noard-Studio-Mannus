@@ -1,3 +1,5 @@
+import type { MedicalCourseResearchSources } from "./medicalCourseSources";
+
 export type FlexibleField =
   | string
   | unknown[]
@@ -183,6 +185,8 @@ export type CourseRecord = {
   practiceQuestions?: MedicalPracticeQuestion[];
   /** Genuine full-record validation outcome retained by selectCatalogDirectory. */
   directoryMedicalValidation?: MedicalDirectoryValidation;
+  /** Reference-only selected-workspace data; never teaching approval or measured time. */
+  researchSources?: MedicalCourseResearchSources;
   /** Optional nested equivalent accepted for research packet compatibility. */
   medical?: MedicalCourseMetadata;
 };

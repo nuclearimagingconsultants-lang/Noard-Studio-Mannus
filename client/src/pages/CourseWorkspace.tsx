@@ -35,7 +35,10 @@ import {
 } from "@/components/studio/MedicalCourseDetails";
 import { MediaPlayer } from "@/components/studio/MediaPlayer";
 import { MedicalReadingPanel } from "@/components/studio/MedicalReadingPanel";
-import { MedicalSourceReferencePanel } from "@/components/studio/MedicalSourceReferencePanel";
+import {
+  MedicalSourceReferencePanel,
+  MedicalUnitSourceLinks,
+} from "@/components/studio/MedicalSourceReferencePanel";
 import { SourceReader } from "@/components/studio/SourceReader";
 import {
   CourseBadge,
@@ -650,6 +653,10 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
                               {unit.uncoveredTopics.join(" · ")}
                             </small>
                           ) : null}
+                          {medicalCourse && <MedicalUnitSourceLinks
+                            sources={activeCourse.researchSources}
+                            unitNumber={unit.number}
+                          />}
                         </div>
                       </li>
                     ))}
@@ -681,6 +688,15 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
                     </SourceLink>
                   ))}
                 </div>
+                {medicalCourse && activeCourse.researchSources && (
+                  <>
+                    <h3>Suggested source reading — not approved chapters</h3>
+                    <MedicalSourceReferencePanel
+                      courseId={activeCourse.id}
+                      researchSources={activeCourse.researchSources}
+                    />
+                  </>
+                )}
               </>
             )}
             {panel === "chapters" && medicalCourse && (
@@ -698,7 +714,10 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
             {panel === "references" && medicalCourse && (
               <>
                 <h2><BookOpen size={18} aria-hidden="true" /> Research references</h2>
-                <MedicalSourceReferencePanel courseId={activeCourse.id} />
+                <MedicalSourceReferencePanel
+                  courseId={activeCourse.id}
+                  researchSources={activeCourse.researchSources}
+                />
               </>
             )}
             {panel === "assessment" && (

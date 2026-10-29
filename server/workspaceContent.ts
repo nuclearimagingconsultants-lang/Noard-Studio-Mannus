@@ -12,6 +12,12 @@ import {
 } from "@shared/catalogDirectory";
 import type { WorkspaceScope } from "@shared/courseWorkspace";
 import {
+  MEDICAL_COURSE_SOURCE_DATA_FILE,
+  parseMedicalCourseSourceData,
+  withMedicalResearchSources,
+  type MedicalCourseSourceData,
+} from "@shared/medicalCourseSources";
+import {
   getMedicalOriginalLecturesContent,
   getOriginalLecturesContent,
   mergeCatalogContent,
@@ -56,6 +62,8 @@ export type WorkspaceContentLoaderOptions = {
   getOriginalLectures?: () => Promise<OriginalLecturesData>;
   /** Medical generated hours must never be measured from the base programme feed. */
   getMedicalOriginalLectures?: () => Promise<OriginalLecturesData>;
+  /** Test override; bibliography failure must not break a course or authorize sources. */
+  getCourseSources?: () => Promise<MedicalCourseSourceData | undefined>;
 };
 
 function isObject(value: unknown): value is JsonObject {
@@ -247,6 +255,18 @@ export function createWorkspaceContentLoader(
     }
   }
 
+  async function readCourseSources(): Promise<MedicalCourseSourceData | undefined> {
+    try {
+      if (options.getCourseSources) return await options.getCourseSources();
+      const file = await readJsonFile(MEDICAL_COURSE_SOURCE_DATA_FILE);
+      return parseMedicalCourseSourceData(file.value);
+    } catch {
+      // Bibliography is supplemental: fail closed without leaking file paths or
+      // blocking existing lectures, readings, private progress, or PDF sources.
+      return undefined;
+    }
+  }
+
   async function getCompactDirectory(): Promise<CompactDirectory> {
     const [baseFile, indexFile] = await Promise.all([
       readJsonFile("catalog.json"),
@@ -351,16 +371,19 @@ export function createWorkspaceContentLoader(
       { ...directory.catalog, courses: [selectedSource] },
       medicalMedia
     ).courses[0]!;
+    const selectedWithSources = selectedNormalized.programId === "med"
+      ? withMedicalResearchSources(selectedNormalized, await readCourseSources())
+      : selectedNormalized;
     const queueCourses =
       scope === "program"
         ? directory.catalog.courses
             .filter(course => course.programId === selectedNormalized.programId)
             .map(course =>
               course.id === selectedNormalized.id
-                ? selectedNormalized
+                ? selectedWithSources
                 : selectCourseForProgramQueue(course)
             )
-        : [selectedNormalized];
+        : [selectedWithSources];
 
     const selectedLessonIds = new Set([selectedNormalized.id]);
     const selectedProgramIds = new Set([selectedNormalized.programId]);

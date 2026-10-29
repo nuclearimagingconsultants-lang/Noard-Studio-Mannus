@@ -16,14 +16,14 @@ const index = parseMedicalSourceReferenceIndex(actual);
 const clone = () => structuredClone(actual);
 
 describe("bounded citation-only medical source map", () => {
-  it("validates all131exact course records and371reference assignments with zero time and no approval", () => {
+  it("validates all131exact course records and377reference assignments with zero time and no approval", () => {
     expect(index.courseCount).toBe(131);
-    expect(index.referenceCount).toBe(371);
+    expect(index.referenceCount).toBe(377);
     expect(index.countedLectureMinutes).toBe(0);
     expect(index.approvedReading).toBe(false);
     expect(index.topicsComplete).toBe(false);
     expect(index.humanClinicalReviewStatus).toBe("not performed");
-    expect(Object.values(index.courses).filter(v => v.references.length)).toHaveLength(129);
+    expect(Object.values(index.courses).filter(v => v.references.length)).toHaveLength(131);
   });
   it("selects only the exact course and rejects inherited properties", () => {
     expect(medicalReferenceCourse(index, "MED-058")?.courseId).toBe("MED-058");
@@ -70,8 +70,10 @@ describe("reference-only course display", () => {
     expect(html).not.toContain("Download chapter");
   });
   it("distinguishes a mapped record without sources from a record outside the pass", () => {
+    const emptyCourse = structuredClone(index.courses["MED-209"]);
+    emptyCourse.references = [];
     const empty = renderToStaticMarkup(createElement(MedicalSourceReferenceContent, {
-      course: medicalReferenceCourse(index, "MED-209"), indexedDate: index.indexedDate,
+      course: emptyCourse, indexedDate: index.indexedDate,
     }));
     expect(empty).toContain("No usable source-reference links");
     const absent = renderToStaticMarkup(createElement(MedicalSourceReferenceContent, { indexedDate: index.indexedDate }));
