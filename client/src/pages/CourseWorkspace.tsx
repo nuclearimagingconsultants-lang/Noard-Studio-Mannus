@@ -416,8 +416,57 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
     const previous = priorDetailPanel.current;
     setPanel(panels.includes(previous) ? previous : "objectives");
   };
+  // One editor, with the same controlled draft and private save behavior.
+  const studyMargin = (
+    <aside className="note-panel" aria-label="Study margin">
+      <div>
+        <span className="eyebrow">
+          <StickyNote size={13} aria-hidden="true" /> Private note
+        </span>
+        <h2>Study margin</h2>
+        <p>
+          {study.auth.isAuthenticated
+            ? "Saved privately to your signed-in account."
+            : "Guest note — saved only on this device. Sign in to start account sync."}
+        </p>
+      </div>
+      <textarea
+        aria-label="Private course note"
+        value={note}
+        placeholder="Questions, connections, formulas, next actions…"
+        onChange={event => {
+          const nextNote = event.target.value;
+          noteDirtyRef.current = true;
+          noteRef.current = nextNote;
+          setNote(nextNote);
+        }}
+        onBlur={() => void saveCurrentNote()}
+      />
+      <div>
+        <button
+          className="button button-quiet"
+          onClick={() => void saveCurrentNote()}
+          disabled={study.isSaving}
+        >
+          <StickyNote size={15} aria-hidden="true" />{" "}
+          {study.isSaving ? "Saving…" : "Save private note"}
+        </button>
+        {selected && (
+          <button
+            className="icon-action"
+            onClick={() => {
+              saveLesson("complete", selectedProgress?.positionSeconds ?? 0);
+              void nextLesson();
+            }}
+          >
+            <SkipForward size={15} aria-hidden="true" /> Complete & next
+          </button>
+        )}
+      </div>
+    </aside>
+  );
   return (
-    <div className="course-workspace">
+    <div className={`course-workspace${medicalCourse ? " course-workspace--wide" : ""}`}>
       <header className="course-header">
         <div>
           <Link
@@ -585,6 +634,7 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
               onFollowChange={pageCues.length ? changePageFollow : undefined}
             />
           </section>
+          {medicalCourse && studyMargin}
         </aside>
       </section>
       <section className={`details-grid${medicalCourse && panel === "teaching" ? " is-teaching-studio" : ""}`}>
@@ -799,55 +849,7 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
             )}
           </div>
         </div>
-        <aside className="note-panel">
-          <div>
-            <span className="eyebrow">
-              <StickyNote size={13} aria-hidden="true" /> Private note
-            </span>
-            <h2>Study margin</h2>
-            <p>
-              {study.auth.isAuthenticated
-                ? "Saved privately to your signed-in account."
-                : "Guest note — saved only on this device. Sign in to start account sync."}
-            </p>
-          </div>
-          <textarea
-            aria-label="Private course note"
-            value={note}
-            placeholder="Questions, connections, formulas, next actions…"
-            onChange={event => {
-              const nextNote = event.target.value;
-              noteDirtyRef.current = true;
-              noteRef.current = nextNote;
-              setNote(nextNote);
-            }}
-            onBlur={() => void saveCurrentNote()}
-          />
-          <div>
-            <button
-              className="button button-quiet"
-              onClick={() => void saveCurrentNote()}
-              disabled={study.isSaving}
-            >
-              <StickyNote size={15} aria-hidden="true" />{" "}
-              {study.isSaving ? "Saving…" : "Save private note"}
-            </button>
-            {selected && (
-              <button
-                className="icon-action"
-                onClick={() => {
-                  saveLesson(
-                    "complete",
-                    selectedProgress?.positionSeconds ?? 0
-                  );
-                  void nextLesson();
-                }}
-              >
-                <SkipForward size={15} aria-hidden="true" /> Complete & next
-              </button>
-            )}
-          </div>
-        </aside>
+        {!medicalCourse && studyMargin}
       </section>
     </div>
   );

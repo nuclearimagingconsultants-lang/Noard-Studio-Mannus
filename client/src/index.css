@@ -2473,6 +2473,28 @@ a {
   overflow-wrap: anywhere;
 }
 
+/* Medical workspaces use the space beside the rail, not a centered narrow page. */
+.studio-main:has(.course-workspace--wide) {
+  max-width: none;
+  margin-inline: 0;
+  padding-inline: 12px;
+  min-width: 0;
+}
+.course-workspace--wide .details-grid {
+  grid-template-columns: minmax(0, 1fr);
+}
+.course-workspace--wide .detail-panel {
+  min-width: 0;
+}
+.course-workspace--wide .course-side {
+  display: grid;
+  gap: 20px;
+  align-self: start;
+}
+.course-workspace--wide .source-panel {
+  height: auto;
+}
+
 /* User-owned Teaching Studio: inline, never a replacement for the course. */
 .details-grid.is-teaching-studio > .detail-panel,
 .details-grid.is-teaching-studio > .note-panel {
@@ -2512,16 +2534,65 @@ a {
 .teaching-studio-status:not(:empty) {
   margin-bottom: 10px;
 }
+.teaching-studio-size-hint {
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-size: 11px;
+}
+.teaching-studio-size-hint span {
+  display: block;
+  margin-top: 3px;
+}
+.teaching-studio-viewport {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  overflow: auto;
+  overscroll-behavior-x: contain;
+}
+.teaching-studio-canvas {
+  position: relative;
+  min-width: 0;
+  max-width: none;
+}
 .teaching-studio-frame {
   display: block;
   width: 100%;
   height: clamp(620px, 78vh, 960px);
+  min-height: 320px;
+  max-height: none;
   border: 1px solid var(--line);
   background: #fff;
   border-radius: 3px;
 }
-.teaching-studio--tall .teaching-studio-frame {
-  height: max(100vh, 1050px);
+.teaching-studio-canvas.is-resizing .teaching-studio-frame {
+  pointer-events: none;
+}
+.teaching-studio-resize-handle {
+  width: 100%;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-top: 0;
+  background: var(--paper-2);
+  color: var(--ink);
+  font-size: 11px;
+  font-weight: 700;
+  cursor: nwse-resize;
+  touch-action: none;
+  user-select: none;
+}
+.teaching-studio-resize-handle:hover {
+  background: #e9ddc9;
+}
+.teaching-studio-grip {
+  width: 26px;
+  height: 6px;
+  border-block: 2px solid #9c927f;
 }
 .teaching-studio-help {
   margin-top: 12px;
@@ -2544,8 +2615,5 @@ a {
   }
   .teaching-studio-frame {
     height: max(70vh, 580px);
-  }
-  .teaching-studio--tall .teaching-studio-frame {
-    height: max(100vh, 950px);
   }
 }
