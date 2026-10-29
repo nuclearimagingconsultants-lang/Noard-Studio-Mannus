@@ -1,3 +1,16 @@
+# Board Studio — verified medical lecture update, 29 October 2026
+
+Three strictly source-qualified external lecture assignments add **2.024402 course-assigned hours** across Breast Imaging, Molecular Imaging and Skull Base. Two genuinely new catalogue recordings add **1.366624 unique-video hours**. The mammography recording already existed in Diagnostic Radiology; its now-observed later acquisition-physics slide supports a narrow new Breast Imaging Unit 2 association, not new unique video or full-unit completion.
+
+**201 of 333 medical records meet their measured lecture floors; 132 remain below target**, with **2,878.717507 overlapping record-hours remaining**. No additional floor closes in this increment. Skull Base remains 0.726832 hours below target; Breast Imaging remains 1.846975 hours below. Laboratory Genetics adds zero hours because none of its checked players demonstrated qualifying playback. The alternate-URL Skull Base tumor recording remains held: its fresh 3463.906-second runtime differs from the existing 3464-second catalogue evidence; neither value has been padded or overwritten. The intracranial cyst lecture now has actual later substantive teaching evidence, not agenda-only support.
+
+Medicine remains **incomplete**. Full topic coverage is unvalidated; 118 legacy source reviews, eight source-unavailable records and 19 withheld practice items remain. Clinician review is excluded from the requested independent-study scope and remains **not performed**. Preserve all 242 ready original-media identities, 28 immutable readings, 136 development states, both original-media manifests, native/auth behaviour, downloads and every local study copy. No new original film, publisher-video copy, local deletion, cloud-sharing change, model migration or Technology Leadership work occurs here.
+
+The purchased Cloud Computer is online, but this task still reports a routing lock. Sandbox space remains below the unchanged 8 GiB-plus-margin source/render reserve. Private cloud archive quota does not increase that temporary workspace; no new original source-audit or rendering batch has run. External publisher lectures remain at their lawful original public sources. A floor being met is not proof of all-topic completion, clinical competence, board eligibility/certification, accreditation, institutional affiliation or a board-pass guarantee. Both deployment identities and exact live results are recorded separately after publication.
+
+---
+## Earlier snapshots — historical, not current totals
+
 # Board Studio — another verified medical lecture-hour floor met
 
 Updated 27 October 2026. Two source-qualified external assignments add **1.9188 course-assigned hours**. MED-167 Pediatric Ophthalmology and Adult Strabismus now has **37.237033 measured hours** and meets its lecture-hour floor only; topic coverage remains unvalidated. The new amblyopia recording is **1.3635 hours of genuinely new catalogue video**. Breast Interventions was already catalogued in Diagnostic Radiology and is newly assigned to MED-058 Breast Imaging with supported intervention/pathology-correlation associations; it is not counted again as new unique video.

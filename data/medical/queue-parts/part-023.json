@@ -3558,6 +3558,15 @@
         "durationSeconds": 4180,
         "sourceUrl": "https://cybersight.org/library/lecture-neuroimaging-in-ophthalmology/",
         "accessVerified": true
+      },
+      {
+        "id": "MED-X057-EXT-20261029-002",
+        "title": "Surgical Management of Intracranial Dermoid/Epidermoid Cysts and Teratomas",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/1_8hac4gyo",
+        "provider": "University of Utah Health HSC MediaSpace (Kaltura)",
+        "durationSeconds": 3442.846,
+        "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/1_8hac4gyo",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -3700,7 +3709,8 @@
           "YT-UihBiCQSx7c",
           "YT-pMkFH13URS8",
           "YT-UDMw87ofhy8",
-          "MED-X057-EXT-20261027B-004"
+          "MED-X057-EXT-20261027B-004",
+          "MED-X057-EXT-20261029-002"
         ]
       },
       {
@@ -3767,10 +3777,10 @@
     "boardStatus": "As checked 2026-10-07: CAST publishes skull-base fellowship programme requirements and lists Mass General Brigham among CAST-accredited programme entries. ABNS describes one general neurological-surgery certification pathway and an oral Tumor focus that includes skull-base tumors/endoscopic surgery. It does not publish a separate Skull Base board exam or individual skull-base certificate. NASBS match is administrative selection, distinct from both. No fellowship-specific ABNS exam blueprint or exam weighting was located; course alignment is only to public CAST education requirements and ABNS broad domains, not a formal blueprint.",
     "boardEligibilityNotice": "MGB states candidates must have completed or be in their senior year of an ACGME-accredited programme or equivalent in their home country; CAST standards for a CAST-accredited post-residency fellowship require satisfactory completion of an ACGME or foreign-equivalent accredited neurological-surgery residency. A NASBS-listed BWH programme has distinct published match fields and eligibility details; verify directly with each programme. ABNS board eligibility depends on ABNS requirements and the individual’s training/certification trajectory, not on this fellowship or course. Current rules can change. Independent self-study grants no board eligibility, exam credit, licence, fellowship appointment or operative competence.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 34.31682167333335,
-    "verifiedSpecialtyHours": 30.04682167333335,
+    "verifiedExternalHours": 35.27316778444447,
+    "verifiedSpecialtyHours": 31.003167784444464,
     "verifiedFoundationHours": 4.27,
-    "hoursGap": 1.6831783266666491,
+    "hoursGap": 0.7268322155555325,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

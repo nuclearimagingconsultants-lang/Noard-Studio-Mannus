@@ -4611,6 +4611,15 @@
         "durationSeconds": 3566.769211,
         "sourceUrl": "https://www.iaea.org/resources/webinar/radionuclide-therapy-events-what-we-can-learn-and-what-to-do",
         "accessVerified": true
+      },
+      {
+        "id": "MED-069-EXT-20261029-001",
+        "title": "USRP 2024 - Biological Multiplexing with Positron Emission Tomography",
+        "url": "https://biox.stanford.edu/video/usrp-2024-biological-multiplexing-positron-emission-tomography",
+        "provider": "Stanford Bio-X, Stanford University",
+        "durationSeconds": 1477,
+        "sourceUrl": "https://biox.stanford.edu/video/usrp-2024-biological-multiplexing-positron-emission-tomography",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -4642,7 +4651,8 @@
           "MED069-HM-NUCLEAR-CARDIOLOGY-01",
           "MED069-IAC-CARDIAC-PET-01",
           "MED-069-EXT-20261027-002",
-          "MED-069-EXT-20261027-003"
+          "MED-069-EXT-20261027-003",
+          "MED-069-EXT-20261029-001"
         ]
       },
       {
@@ -4776,10 +4786,10 @@
     "boardStatus": "Emory’s current public MIM page describes a combined diagnostic radiology and nuclear medicine residency track, with a stated goal of dual ABR/ABNM board eligibility/certification. The current ABNM rules allow an integrated diagnostic radiology route with 16 months (64 weeks) of nuclear medicine training during a four-year DR residency, subject to all requirements and board review. The ABR and ABNM are separate certifying boards and separate examinations/certifications. ABR exam format is in transition: the ABR page describes computer-based Certifying Exams in 2026–2027 and an oral exam after 2027. Individual eligibility is determined by the boards and accredited training, not by this course.",
     "boardEligibilityNotice": "This independent self-study course confers no ABR/ABNM eligibility, ACGME training credit, medical licensure, board certification, supervised interpretation/procedure competence, clinical case logs, NRC authorized-user status, radiation-safety authorization or institutional credentialing. The ABNM/NRC pathway requires supervised hands-on work, specified experience and attestation; online learning cannot supply these. Confirm current eligibility and requirements directly with ABR, ABNM, ACGME, the programme and applicable regulators. No exam pass or readiness is promised.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 27.86751366972223,
+    "verifiedExternalHours": 28.277791447500004,
     "verifiedSpecialtyHours": 19.1618914475,
-    "verifiedFoundationHours": 8.705622222222221,
-    "hoursGap": 8.132486330277771,
+    "verifiedFoundationHours": 9.1159,
+    "hoursGap": 7.722208552499996,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

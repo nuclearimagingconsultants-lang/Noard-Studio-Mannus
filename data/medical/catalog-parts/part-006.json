@@ -22528,7 +22528,8 @@
           "MED069-HM-NUCLEAR-CARDIOLOGY-01",
           "MED069-IAC-CARDIAC-PET-01",
           "MED-069-EXT-20261027-002",
-          "MED-069-EXT-20261027-003"
+          "MED-069-EXT-20261027-003",
+          "MED-069-EXT-20261029-001"
         ],
         "casePractice": "Compare IAEA-described artifacts and gallery cases; no equipment use or patient-specific protocoling.",
         "assessment": "Annotate a conceptual artifact/QC decision tree; Q2 and Q3."
@@ -23840,6 +23841,45 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Direct IAEA public media played in the browser's native player. Link to IAEA only; no rehosting. Educational safety/QM discussion does not authorize therapy work, incident handling, patient-specific treatment, or quality-management implementation."
+      },
+      {
+        "durationEvidenceUrl": "https://biox.stanford.edu/video/usrp-2024-biological-multiplexing-positron-emission-tomography",
+        "humanClinicalReviewStatus": "not performed",
+        "channel": "Stanford Bio-X",
+        "id": "MED-069-EXT-20261029-001",
+        "rightsStatus": "Public viewing observed only; downloading, copying, rehosting, redistribution, and embedding permissions were not established.",
+        "coverageUnits": [
+          2
+        ],
+        "freeAccessStatus": "Public access verified on the Stanford Bio-X page: no account, sign-in, registration, payment, or credential prompt was encountered while the visible player and its Transcript control were used.",
+        "category": "foundation",
+        "title": "USRP 2024 - Biological Multiplexing with Positron Emission Tomography",
+        "provider": "Stanford Bio-X, Stanford University",
+        "url": "https://biox.stanford.edu/video/usrp-2024-biological-multiplexing-positron-emission-tomography",
+        "accessEmbeddingNotes": "Public viewing through the Stanford page's embedded Vimeo player was observed. No embedding, copying, download, rehosting, or redistribution permission is assumed; use the original source. This is a narrow source-backed association, not complete unit coverage.",
+        "relevanceEvidence": [
+          {
+            "url": "https://biox.stanford.edu/video/usrp-2024-biological-multiplexing-positron-emission-tomography",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nVisible public-player transcript excerpt: “So we surround the patient with these, uh, two photon emission detectors. So we're gonna collect two photon pairs of photons, uh, millions of times in order to make an image.”\nSeparate source-checker narrow association explanation:\nThe retained transcript explicitly teaches PET detector configuration and photon-pair collection for image formation. This narrowly supports Unit 2 (Instrumentation, hybrid imaging, physics and quality control), specifically its detector/acquisition basics objective. It does not establish reconstruction, QC, artifacts, or complete Unit 2 coverage."
+          }
+        ],
+        "observedDurationSeconds": 1477,
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0,
+          "afterTimeSeconds": 18,
+          "normalControl": "Ordinary visible public embedded-player Play control was clicked and visibly changed to Pause during normal playback; no seek was used between the before and after time observations.",
+          "observedAtUtc": "2026-10-29T13:18:45Z",
+          "durationSeconds": 1477
+        },
+        "durationEvidenceMethod": "On the same visible public embedded Vimeo player, the normal control bar displayed 00:00 and finite total 24:37 before play. After the ordinary visible Play control was used, the same player showed elapsed 00:18 with the control rendered as Pause; no seek occurred between the two observations. 24:37 equals 1477 seconds.",
+        "accessVerified": true,
+        "sourceUrl": "https://biox.stanford.edu/video/usrp-2024-biological-multiplexing-positron-emission-tomography",
+        "durationSeconds": 1477,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public viewing through the Stanford page's embedded Vimeo player was observed. No embedding, copying, download, rehosting, or redistribution permission is assumed; use the original source. This is a narrow source-backed association, not complete unit coverage."
       }
     ],
     "unitMap": [
@@ -23874,7 +23914,8 @@
           "MED069-HM-NUCLEAR-CARDIOLOGY-01",
           "MED069-IAC-CARDIAC-PET-01",
           "MED-069-EXT-20261027-002",
-          "MED-069-EXT-20261027-003"
+          "MED-069-EXT-20261027-003",
+          "MED-069-EXT-20261029-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -24046,7 +24087,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 8.132,
+      "hoursToTarget": 7.722,
       "topicGaps": [
         "Public verified specialty recordings now include only a pediatric PET/CT pitfalls webinar and a conceptual radiotracer-development webinar (1.4081 specialty hours total); most of the clinical curriculum remains without measured recorded teaching time.",
         "No complete public Emory MIM lecture archive, rotation-by-rotation schedule, case volumes or exact didactic totals were located. Do not infer access to the named Nuclear Medicine and Molecular Imaging Lecture Series from its appearance on the programme page.",
@@ -24537,10 +24578,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 27.86751366972223,
+      "verifiedExternalHours": 28.277791447500004,
       "verifiedSpecialtyHours": 19.1618914475,
-      "verifiedFoundationHours": 8.705622222222221,
-      "hoursGap": 8.132486330277771,
+      "verifiedFoundationHours": 9.1159,
+      "hoursGap": 7.722208552499996,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [

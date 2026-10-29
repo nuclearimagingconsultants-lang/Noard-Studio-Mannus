@@ -22193,7 +22193,8 @@
           "YT-UXOuer1cINU",
           "YT-v194F3rQgqg",
           "YT-RKi9Xm33ZcQ",
-          "MED-058-EXT-20261027C-001"
+          "MED-058-EXT-20261027C-001",
+          "MED-058-EXT-20261029-001"
         ],
         "casePractice": "Using linked-only CBIS-DDSM cases, record a structured technical/observation note without copying image pixels or exporting patient data.",
         "assessment": "Ten-item image-quality and workflow checklist with a one-sentence reason for each item; peer compare against the ACR practice parameter."
@@ -23753,6 +23754,45 @@
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
         "coverageNote": "embed unverified; source fallback is the ordinary public AAR watch page; no copying rights."
+      },
+      {
+        "durationEvidenceUrl": "https://radiologyresidentcorelectures.com/3103-eby/",
+        "humanClinicalReviewStatus": "not performed",
+        "channel": "Radiology Resident Core Lecture Series",
+        "id": "MED-058-EXT-20261029-001",
+        "rightsStatus": "Public viewing was observed; download, embedding, copying, rehosting, and redistribution rights are not established.",
+        "coverageUnits": [
+          2
+        ],
+        "freeAccessStatus": "Public page and native player were opened and played normally without a login, registration, payment, token, or download step being encountered.",
+        "category": "specialty",
+        "title": "Clinical Physics of Breast Imaging: Mammography - Peter Eby, MD, FACR, FSBI",
+        "provider": "Virginia Mason",
+        "url": "https://radiologyresidentcorelectures.com/3103-eby/",
+        "accessEmbeddingNotes": "Public source playback was observed. No in-app embedding, copying, downloading, rehosting, or redistribution permission was verified; open the original source URL. This is a narrow educational association, not complete unit coverage.",
+        "relevanceEvidence": [
+          {
+            "url": "https://radiologyresidentcorelectures.com/3103-eby/",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nSpecial Source Materials\nBreast Thickness: Thin | Medium | Thick | Thickest\nAnode: Mo | Mo | Rh | Rh\nFilter: Mo | Rh | Rh | Ag\nSeparate source-checker narrow association explanation:\nNarrowly maps to unit 2 because the slide explicitly relates breast thickness to anode/filter selection, supporting the unit's acquisition/exposure and image-quality objective. It does not substantiate positioning, prior comparison, DBT slice review, or complete unit coverage."
+          }
+        ],
+        "observedDurationSeconds": 2368,
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0,
+          "afterTimeSeconds": 19,
+          "normalControl": "The visible native public-player Play control was clicked at 00:00; its visible label changed to Pause, and the same player later visibly displayed 00:19. No seek occurred between these before/after observations.",
+          "observedAtUtc": "2026-10-29T13:18:51Z",
+          "durationSeconds": 2368
+        },
+        "durationEvidenceMethod": "The native visible public player showed 00:00 and a finite total of 39:28 before playback; 39 minutes 28 seconds equals 2368 seconds. This total was observed on the same player used for the playback observation, not taken from listed metadata.",
+        "accessVerified": true,
+        "sourceUrl": "https://radiologyresidentcorelectures.com/3103-eby/",
+        "durationSeconds": 2368,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source playback was observed. No in-app embedding, copying, downloading, rehosting, or redistribution permission was verified; open the original source URL. This is a narrow educational association, not complete unit coverage."
       }
     ],
     "unitMap": [
@@ -23792,7 +23832,8 @@
           "YT-UXOuer1cINU",
           "YT-v194F3rQgqg",
           "YT-RKi9Xm33ZcQ",
-          "MED-058-EXT-20261027C-001"
+          "MED-058-EXT-20261027C-001",
+          "MED-058-EXT-20261029-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -24055,7 +24096,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 2.95,
+      "hoursToTarget": 2.292,
       "topicGaps": [
         "No current, complete, free, verified 36-hour lecture sequence was found: 12.5058 observed specialty hours are ready and 23.4942 hours remain; original scripts/plans do not count as rendered media.",
         "Free recordings remain uneven by domain. The largest gaps are current MQSA quality/audit operations, pathology concordance, multidisciplinary workflow, CEM evidence/technical interpretation, and source-current screening strategy; recordings are supplementary and several are dated.",
@@ -24648,10 +24689,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 33.04972222222222,
-      "verifiedSpecialtyHours": 30.349166666666665,
+      "verifiedExternalHours": 33.7075,
+      "verifiedSpecialtyHours": 31.006944444444443,
       "verifiedFoundationHours": 2.7005555555555554,
-      "hoursGap": 2.950277777777778,
+      "hoursGap": 2.292499999999997,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [

@@ -22617,7 +22617,8 @@
           "YT-UihBiCQSx7c",
           "YT-pMkFH13URS8",
           "YT-UDMw87ofhy8",
-          "MED-X057-EXT-20261027B-004"
+          "MED-X057-EXT-20261027B-004",
+          "MED-X057-EXT-20261029-002"
         ],
         "casePractice": "Use public links to compare an authentic published lesion with a fictional educational scenario; no images are extracted.",
         "assessment": "Differential viva with explicit source and “what is not known” statement."
@@ -23855,6 +23856,45 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Public source link and ordinary public player were verified. Embedding/licensing beyond viewing is unverified; no copying or download licence is asserted."
+      },
+      {
+        "durationEvidenceUrl": "https://hsc.mediaspace.utah.edu/media/t/1_8hac4gyo",
+        "humanClinicalReviewStatus": "not performed",
+        "channel": "Neurosurgery Grand Rounds",
+        "id": "MED-X057-EXT-20261029-002",
+        "rightsStatus": "Public viewing observed; no license or permission for download, embedding, copying, rehosting, or redistribution verified.",
+        "coverageUnits": [
+          8
+        ],
+        "freeAccessStatus": "Anonymous Guest public-player playback and natural time advance observed directly.",
+        "category": "specialty",
+        "title": "Surgical Management of Intracranial Dermoid/Epidermoid Cysts and Teratomas",
+        "provider": "University of Utah Health HSC MediaSpace (Kaltura)",
+        "url": "https://hsc.mediaspace.utah.edu/media/t/1_8hac4gyo",
+        "accessEmbeddingNotes": "Public playback was observed on the original page. No embed, copy, download, rehosting, or redistribution permission is assumed.",
+        "relevanceEvidence": [
+          {
+            "url": "https://hsc.mediaspace.utah.edu/media/t/1_8hac4gyo",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nAt 28:45, the visible slide headed ‘Intracranial Dermoid: Pathophysiology’ states ‘Associated with congenital anomalies ~50% of cases.’\nSeparate source-checker narrow association explanation:\nThis directly supports only the congenital-disease lesion-category component of MED-X057 Unit 8 through a dermoid pathology/congenital-anomaly association. It does not establish coverage of the unit’s other lesion categories or clinical-workup objectives."
+          }
+        ],
+        "observedDurationSeconds": 3442.846,
+        "playbackEvidence": {
+          "beforeTimeSeconds": 11,
+          "afterTimeSeconds": 20,
+          "normalControl": "Visible native public Kaltura control: ordinary labelled Play was clicked at 00:11 after pausing; it rendered Pause and advanced naturally to 00:20 without a seek between observations.",
+          "observedAtUtc": "2026-10-29T13:22:26Z",
+          "durationSeconds": 3442.846
+        },
+        "durationEvidenceMethod": "Visible public Kaltura player showed 57:22; same active player duration state observed as 3442.846 seconds after normal playback.",
+        "accessVerified": true,
+        "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/1_8hac4gyo",
+        "durationSeconds": 3442.846,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public playback was observed on the original page. No embed, copy, download, rehosting, or redistribution permission is assumed."
       }
     ],
     "unitMap": [
@@ -24024,7 +24064,8 @@
           "YT-UihBiCQSx7c",
           "YT-pMkFH13URS8",
           "YT-UDMw87ofhy8",
-          "MED-X057-EXT-20261027B-004"
+          "MED-X057-EXT-20261027B-004",
+          "MED-X057-EXT-20261029-002"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -24106,7 +24147,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 1.683,
+      "hoursToTarget": 0.727,
       "topicGaps": [
         "Observed free public recording ledger now totals 14.0975 hours across 24 unique videos, including 2 newly appended recordings and 1 previously listed ACNS recording reclassified after duration verification. The 36-hour floor remains unmet by 21.9025 hours; no script, plan, source reading, or supervised clinical activity is counted as rendered video.",
         "The added EANS/ACNS material improves parasellar/cavernous-sinus, lab-to-OR anatomy, approach-comparison, and complication discussion, but overall viewing remains weighted toward anatomy, approaches, and selected cases.",
@@ -24942,10 +24983,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 34.31682167333335,
-      "verifiedSpecialtyHours": 30.04682167333335,
+      "verifiedExternalHours": 35.27316778444447,
+      "verifiedSpecialtyHours": 31.003167784444464,
       "verifiedFoundationHours": 4.27,
-      "hoursGap": 1.6831783266666491,
+      "hoursGap": 0.7268322155555325,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
