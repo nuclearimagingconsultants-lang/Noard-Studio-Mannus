@@ -19696,7 +19696,8 @@
           "https://echo.anesthesia.med.utah.edu/pocus-content/"
         ],
         "lectureIds": [
-          "UTAH-0_09zlilug"
+          "UTAH-0_09zlilug",
+          "MED-X045-EXT-FULL131-001"
         ],
         "casePractice": "Annotated concept image using instructor-provided schematic only; no patient image copies.",
         "assessment": "Image-optimization rubric: correct control, reason, expected change, artifact caveat.",
@@ -20515,6 +20516,44 @@
         "origin": "external",
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "coverageNote": "Individual public University of Utah rescue-lecture page embeds the Kaltura entry 1_ipg0ftoq; the rescue-series index describes the lecture topic. Metadata was observed only; no fresh playback was claimed."
+      },
+      {
+        "observedDurationSeconds": 1773.356273,
+        "sourceUrl": "https://medicine.utah.edu/anesthesiology/echo/lecture-series/video?video=1_sqndnexo",
+        "channel": "Echo lecture series",
+        "accessEmbeddingNotes": "Public source page is linked only. Playback was verified in the source page's ordinary Kaltura player; no permission to embed elsewhere was established, and no media, captions, figures, or slides were downloaded, copied, rehosted, or uploaded.",
+        "durationEvidenceMethod": "After the normal visible on-page Kaltura control labeled 'Play Video' was clicked once, the same public player visibly displayed 29:33. Read-only HTML5 video observation reported finite duration 1773.356273 seconds while playing; no duration was taken from search metadata, API metadata, or a download link.",
+        "coverageUnits": [
+          2
+        ],
+        "durationEvidenceUrl": "https://medicine.utah.edu/anesthesiology/echo/lecture-series/video?video=1_sqndnexo",
+        "url": "https://medicine.utah.edu/anesthesiology/echo/lecture-series/video?video=1_sqndnexo",
+        "freeAccessStatus": "public_playback_verified",
+        "provider": "University of Utah Health, Department of Anesthesiology",
+        "accessVerified": true,
+        "playbackEvidence": {
+          "beforeTimeSeconds": 10.965795,
+          "afterTimeSeconds": 26.208387,
+          "normalControl": "The visible on-page Kaltura button labeled 'Play Video' was clicked once at approximately 2026-10-29T16:28:55Z. No seek, script play, currentTime setting, stream interception, or download was used.",
+          "observedAtUtc": "2026-10-29T16:29:20.446Z",
+          "durationSeconds": 1773.356273
+        },
+        "humanClinicalReviewStatus": "not performed",
+        "title": "ECHO Lectures - Abdominal Ultrasound 4-28-22",
+        "id": "MED-X045-EXT-FULL131-001",
+        "relevanceEvidence": [
+          {
+            "url": "https://medicine.utah.edu/anesthesiology/echo/lecture-series/video?video=1_sqndnexo",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nProbe — Most patients: Curvilinear probe (2-5 mHz); Children <30 kg: linear probe (5-12 mHz).\nSeparate source-checker narrow association explanation:\nThe observed slide explicitly connects probe selection and frequency range, supporting only the corresponding narrow unit-2 objective component."
+          }
+        ],
+        "category": "foundation",
+        "durationSeconds": 1773.356273,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source page is linked only. Playback was verified in the source page's ordinary Kaltura player; no permission to embed elsewhere was established, and no media, captions, figures, or slides were downloaded, copied, rehosted, or uploaded."
       }
     ],
     "unitMap": [
@@ -20532,7 +20571,8 @@
         "number": 2,
         "text": "Ultrasound physics, image formation, and artifacts",
         "lectureIds": [
-          "UTAH-0_09zlilug"
+          "UTAH-0_09zlilug",
+          "MED-X045-EXT-FULL131-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -20670,7 +20710,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 29.211,
+      "hoursToTarget": 28.718,
       "topicGaps": [
         "Verified free external recording time remains 4.66 hours (unique observed-duration ledger); 31.34 hours remain to the 36-hour target. Newly inspected OpenAnesthesia POCUS vodcasts have relevant topics but no accessible observed duration in this audit; they are uncounted.",
         "No verified BWH-specific didactic sequence or detailed public curriculum.",
@@ -21961,10 +22001,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 6.789444444444444,
+      "verifiedExternalHours": 7.282043409166667,
       "verifiedSpecialtyHours": 5.344166666666666,
-      "verifiedFoundationHours": 1.4452777777777779,
-      "hoursGap": 29.210555555555555,
+      "verifiedFoundationHours": 1.9378767425,
+      "hoursGap": 28.71795659083333,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [

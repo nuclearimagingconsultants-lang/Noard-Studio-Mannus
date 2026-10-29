@@ -35,6 +35,7 @@ import {
 } from "@/components/studio/MedicalCourseDetails";
 import { MediaPlayer } from "@/components/studio/MediaPlayer";
 import { MedicalReadingPanel } from "@/components/studio/MedicalReadingPanel";
+import { MedicalSourceReferencePanel } from "@/components/studio/MedicalSourceReferencePanel";
 import { SourceReader } from "@/components/studio/SourceReader";
 import {
   CourseBadge,
@@ -52,6 +53,7 @@ type DetailPanel =
   | "units"
   | "reading"
   | "chapters"
+  | "references"
   | "assessment"
   | "practice"
   | "transcript";
@@ -257,7 +259,7 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
   useEffect(() => {
     if (!originalLesson && panel === "transcript") setPanel("objectives");
     if (
-      panel === "chapters" &&
+      (panel === "chapters" || panel === "references") &&
       (!activeCourse || !isMedicalCourse(activeCourse))
     )
       setPanel("objectives");
@@ -401,7 +403,7 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
     "units",
     "reading",
     "assessment",
-    ...(medicalCourse ? ["chapters" as const, "practice" as const] : []),
+    ...(medicalCourse ? ["chapters" as const, "references" as const, "practice" as const] : []),
     ...(originalLesson ? ["transcript" as const] : []),
   ];
   return (
@@ -691,6 +693,12 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
                   key={activeCourse.id}
                   courseId={activeCourse.id}
                 />
+              </>
+            )}
+            {panel === "references" && medicalCourse && (
+              <>
+                <h2><BookOpen size={18} aria-hidden="true" /> Research references</h2>
+                <MedicalSourceReferencePanel courseId={activeCourse.id} />
               </>
             )}
             {panel === "assessment" && (

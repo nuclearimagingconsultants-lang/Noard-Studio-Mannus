@@ -2816,6 +2816,15 @@
         "durationSeconds": 4650,
         "sourceUrl": "https://cybersight.org/library/lecture-a-to-z-of-ocular-surface-squamous-neoplasia/",
         "accessVerified": true
+      },
+      {
+        "id": "MED-X115-EXT-FULL131-001",
+        "title": "Retinoblastoma: Intra-arterial Chemotherapy: Evidence and Hype - Dr. Brenda Gallie",
+        "url": "https://vimeo.com/218814825",
+        "provider": "Vimeo",
+        "durationSeconds": 709.0000000000009,
+        "sourceUrl": "https://vimeo.com/218814825",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -2876,7 +2885,8 @@
         "text": "Retinoblastoma treatment principles and multidisciplinary planning",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "MED-X115-EXT-CYBERSIGHT-3JW6KZ3tG3Q"
+          "MED-X115-EXT-CYBERSIGHT-3JW6KZ3tG3Q",
+          "MED-X115-EXT-FULL131-001"
         ]
       },
       {
@@ -2908,10 +2918,10 @@
     "boardStatus": "Ocular oncology is a clinical physician subspecialty fellowship in the official directory packet. ABO's public certification pathway describes general ophthalmology written and oral examinations following accredited ophthalmology residency; no separate ocular-oncology board examination was identified. This is not a claim of ACGME status.",
     "boardEligibilityNotice": "This independent course confers no board eligibility. ABO eligibility requires qualifying accredited ophthalmology training, required documentation and licensure; confirm current individual eligibility with ABO. No course completion confers certification.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 2.2005555555555554,
-    "verifiedSpecialtyHours": 2.2005555555555554,
+    "verifiedExternalHours": 2.3975,
+    "verifiedSpecialtyHours": 2.3975,
     "verifiedFoundationHours": 0,
-    "hoursGap": 33.79944444444445,
+    "hoursGap": 33.6025,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

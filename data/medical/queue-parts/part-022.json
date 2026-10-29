@@ -3359,6 +3359,15 @@
         "durationSeconds": 1319,
         "sourceUrl": "https://echo.anesthesia.med.utah.edu/focus-for-tamponade/",
         "accessVerified": true
+      },
+      {
+        "id": "MED-X045-EXT-FULL131-001",
+        "title": "ECHO Lectures - Abdominal Ultrasound 4-28-22",
+        "url": "https://medicine.utah.edu/anesthesiology/echo/lecture-series/video?video=1_sqndnexo",
+        "provider": "University of Utah Health, Department of Anesthesiology",
+        "durationSeconds": 1773.356273,
+        "sourceUrl": "https://medicine.utah.edu/anesthesiology/echo/lecture-series/video?video=1_sqndnexo",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -3373,7 +3382,8 @@
         "text": "Ultrasound physics, image formation, and artifacts",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "UTAH-0_09zlilug"
+          "UTAH-0_09zlilug",
+          "MED-X045-EXT-FULL131-001"
         ]
       },
       {
@@ -3472,10 +3482,10 @@
     "boardStatus": "A separately named perioperative ultrasound board subspecialty is not listed by ABA or ACGME in the authoritative current pages reviewed. The course maps relevant anesthesia judgment domains rather than a proprietary/fellowship-specific board blueprint.",
     "boardEligibilityNotice": "No separate ABA board examination or board subspecialty named Perioperative Ultrasound is listed on the current ABA subspecialty exams page as reviewed 2026-10-07. The ABA page lists other subspecialties. The named BWH fellowship is not thereby an ABA board credential, ACGME-accredited program, or board-eligibility pathway. Basic/Advanced/Applied refer to core anesthesiology certification, not this fellowship. Verify any current credential or individual eligibility directly with ABA, ACGME and BWH.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 6.789444444444444,
+    "verifiedExternalHours": 7.282043409166667,
     "verifiedSpecialtyHours": 5.344166666666666,
-    "verifiedFoundationHours": 1.4452777777777779,
-    "hoursGap": 29.210555555555555,
+    "verifiedFoundationHours": 1.9378767425,
+    "hoursGap": 28.71795659083333,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [

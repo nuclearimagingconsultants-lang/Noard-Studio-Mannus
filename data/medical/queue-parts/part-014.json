@@ -5891,6 +5891,15 @@
         "durationSeconds": 4185,
         "sourceUrl": "https://cybersight.org/library/lecture-acquired-esotropia-whats-new-in-2023/",
         "accessVerified": true
+      },
+      {
+        "id": "MED-168-EXT-FULL131-001",
+        "title": "Lecture: Diagnosis and Management of Amblyopia",
+        "url": "https://cybersight.org/library/lecture-diagnosis-and-management-of-amblyopia/",
+        "provider": "Cybersight",
+        "durationSeconds": 4908.767,
+        "sourceUrl": "https://cybersight.org/library/lecture-diagnosis-and-management-of-amblyopia/",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -5917,7 +5926,8 @@
         "text": "Amblyopia mechanisms and evidence-informed treatment",
         "coverage": "mapped, not verified complete",
         "lectureIds": [
-          "MED168-V03"
+          "MED168-V03",
+          "MED-168-EXT-FULL131-001"
         ]
       },
       {
@@ -6018,10 +6028,10 @@
     "boardStatus": "A pediatric ophthalmology/strabismus fellowship is a clinical physician subspecialty training track. It is not a separate ABMS board specialty or subspecialty certificate in the reviewed ABMS directory; ABO certifies ophthalmology with written and oral examinations.",
     "boardEligibilityNotice": "This course is independent education and grants no institutional affiliation, accredited training, licensure, clinical competence, procedure competence, ABMS/ABO eligibility, AAPOS membership or certification. ABO certification is primary ophthalmology certification and requires its own qualifying training and written/oral examinations. As checked 2026-10-07, the ABMS certificate directory lists Ophthalmology under ABO and “No Subspecialties”; no separate ABMS/ABO pediatric ophthalmology/strabismus board exam or certificate was identified. AAPOS membership and AUPO FCC-approved fellowship status are separate association/program designations, not board certification. Verify current board and fellowship rules directly.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 4.9625475,
-    "verifiedSpecialtyHours": 4.201075277777777,
+    "verifiedExternalHours": 6.32609388888889,
+    "verifiedSpecialtyHours": 5.564621666666667,
     "verifiedFoundationHours": 0.7614722222222223,
-    "hoursGap": 31.0374525,
+    "hoursGap": 29.67390611111111,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
