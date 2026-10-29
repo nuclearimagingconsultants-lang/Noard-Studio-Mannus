@@ -1,3 +1,18 @@
+# Board Studio — verified NIH Molecular Imaging increment, 29 October 2026
+
+MED-069 Molecular Imaging now includes one source-hosted NIH Clinical Center Grand Rounds recording on targeted radionuclide imaging and therapy, narrowly associated with existing Unit 10, Radionuclide therapy, theranostics and post-therapy assessment. The actual public player was observed advancing naturally after a normal visible Play click. Its measured runtime is **3505.433333 seconds — 0.973731 hours**. A later actual learning-objectives slide explicitly describes anti-PSMA targeted radioligands used in cancer imaging and treatment. This is a lecture dated 30 January 2019, not a current clinical-policy or labeling/guideline update. It does not validate the whole unit or any treatment competence.
+
+This adds one new global catalogue recording and one course assignment, without counting an existing/shared asset twice. **MED-069 still has 6.748477 hours below its measured floor.** No additional course floor closes in this increment. **202 of 333 medical records meet measured lecture floors; 131 remain below target**, with **2,877.016943 overlapping record-hours remaining**. These are overlapping course requirements, not a claim of unique video hours or complete topic coverage.
+
+All previous 99 verified external-assignment payloads remain unchanged. All 242 ready original-media identities, 28 immutable approved readings, 136 development states, both original-media manifests, native player, authentication, existing downloads and every local study copy are preserved. There is no new original film, reading, source-audit approval, clinician review, publisher-media copy, cloud-sharing change, local deletion, model migration, purchase or Technology Leadership work. The publisher video remains at its original NIH source; source playback is verified, in-app embedding and copying/rehosting rights are not established.
+
+Medicine remains incomplete: full topic coverage is unvalidated, 118 legacy source reviews remain pending, eight source-unavailable records remain and 19 practice metadata items remain withheld. Clinician review is excluded from the requested independent self-study scope and remains **not performed**. Independent self-study does not confer Harvard/Johns Hopkins/MIT affiliation, enrollment, academic credit, accreditation, clinical competence, board eligibility/certification, residency/fellowship completion or a board-pass guarantee.
+
+A standard local browser now retains page context and can inspect normally rendered NIH players after sufficient loading time. This does not repair the Manus browser-tool context fault or the purchased Cloud Computer's task-routing lock. Original production stays paused below the unchanged 8 GiB-plus-margin local source/render reserve; cloud archive storage does not increase that temporary disk. Exact deployment versions and live results are recorded only after publication, separately from this prepared snapshot.
+
+---
+## Earlier snapshots — historical, not current totals
+
 # Board Studio — Skull Base lecture floor met, 29 October 2026
 
 MED-X057 Skull Base now has **36.048168 measured lecture hours**, meeting its 36-hour floor only. Its topic coverage remains **unvalidated**; this is not completion of a fellowship, medical curriculum or board preparation. The source-qualified 46:30 lecture, Normal Variants and Lesions of the Skull Base, is narrowly associated with the existing clinical evaluation/imaging Unit 3 using actual public-player objectives and naturally advancing playback. It was already catalogued in Diagnostic Radiology and adds **0.775 course-assigned hours, zero new unique global video**. No publisher video is copied or uploaded.

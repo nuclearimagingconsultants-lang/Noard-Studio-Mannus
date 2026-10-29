@@ -22762,7 +22762,8 @@
           "MED069-IAEA-RP-NEW-RNT-01",
           "MED-069-EXT-20261027-003",
           "MED-069-EXT-20261027-004",
-          "MED-069-EXT-20261027-005"
+          "MED-069-EXT-20261027-005",
+          "MED-069-EXT-20261029-NIHCLIN-001"
         ],
         "casePractice": "IAEA therapy education pages are references only; no patient treatment selection, activity or administration instruction.",
         "assessment": "For a fictional scenario, distinguish evidence needed for selection from what imaging alone cannot establish; Q7 and Q12."
@@ -23880,6 +23881,45 @@
         "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
         "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
         "coverageNote": "Public viewing through the Stanford page's embedded Vimeo player was observed. No embedding, copying, download, rehosting, or redistribution permission is assumed; use the original source. This is a narrow source-backed association, not complete unit coverage."
+      },
+      {
+        "rightsStatus": "Public viewing is not copying permission",
+        "freeAccessStatus": "Public NIH VideoCast viewing was observed without sign-in. The rendered player loaded normally and advanced after an ordinary visible Play click; availability may change.",
+        "sourceUrl": "https://videocast.nih.gov/watch/b76a1efd-d5db-11f0-9cf9-12c45c580ad9",
+        "relevanceEvidence": [
+          {
+            "url": "https://videocast.nih.gov/watch/b76a1efd-d5db-11f0-9cf9-12c45c580ad9",
+            "text": "Retained selected source content excerpt (not a full publisher work):\nDescribe anti-PSMA targeted radioligands used in cancer imaging and treatment\nSeparate source-checker narrow association explanation:\nNarrowly supports Unit 10, 'Radionuclide therapy, theranostics and post-therapy assessment,' and its objective to differentiate diagnostic radiopharmaceutical use from therapeutic administration and post-therapy imaging: the observed objective explicitly pairs anti-PSMA targeted radioligands with cancer imaging and treatment. It does not establish broader unit or curriculum coverage."
+          }
+        ],
+        "humanClinicalReviewStatus": "not performed",
+        "playbackEvidence": {
+          "beforeTimeSeconds": 0.033222,
+          "afterTimeSeconds": 20.016458,
+          "normalControl": "actual visible 'Play (k)' control and natural advancement observation",
+          "observedAtUtc": "2026-10-29T14:45:29.450942+00:00",
+          "durationSeconds": 3505.433333
+        },
+        "accessVerified": true,
+        "coverageUnits": [
+          10
+        ],
+        "url": "https://videocast.nih.gov/watch/b76a1efd-d5db-11f0-9cf9-12c45c580ad9",
+        "observedDurationSeconds": 3505.433333,
+        "category": "specialty",
+        "durationEvidenceMethod": "Observed from the rendered public NIH VideoCast HTML5 player after a 60-second normal page/player load; the visible player reported finite duration 3505.433333 seconds and then advanced naturally after an actual visible Play control click.",
+        "durationEvidenceUrl": "https://videocast.nih.gov/watch/b76a1efd-d5db-11f0-9cf9-12c45c580ad9",
+        "id": "MED-069-EXT-20261029-NIHCLIN-001",
+        "provider": "NIH VideoCast / National Institutes of Health",
+        "title": "CC Grand Rounds: 1) Back to the Future: Targeted Radionuclides for Imaging and Therapy and 2) Systemic Targeted Radionuclide Therapy in Prostate and other Malignancies: Clinical Perspective",
+        "channel": "Clinical Center Grand Rounds",
+        "accessEmbeddingNotes": "Public source-hosted playback observed; embedding not verified; copying/rehosting rights not established",
+        "durationSeconds": 3505.433333,
+        "countedInVerifiedHours": true,
+        "origin": "external",
+        "rightsNotice": "Observed free viewing is not permission to mirror, redistribute, or rehost publisher media.",
+        "publicationDateNote": "Publication date unknown; no date is asserted or inferred.",
+        "coverageNote": "Public source-hosted playback observed; embedding not verified; copying/rehosting rights not established"
       }
     ],
     "unitMap": [
@@ -24051,7 +24091,8 @@
           "MED069-IAEA-RP-NEW-RNT-01",
           "MED-069-EXT-20261027-003",
           "MED-069-EXT-20261027-004",
-          "MED-069-EXT-20261027-005"
+          "MED-069-EXT-20261027-005",
+          "MED-069-EXT-20261029-NIHCLIN-001"
         ],
         "coverage": "mapped, not verified complete",
         "coveredTopics": [
@@ -24087,7 +24128,7 @@
     ],
     "coverageStatus": "incomplete_lecture_hours",
     "remainingGaps": {
-      "hoursToTarget": 7.722,
+      "hoursToTarget": 6.748,
       "topicGaps": [
         "Public verified specialty recordings now include only a pediatric PET/CT pitfalls webinar and a conceptual radiotracer-development webinar (1.4081 specialty hours total); most of the clinical curriculum remains without measured recorded teaching time.",
         "No complete public Emory MIM lecture archive, rotation-by-rotation schedule, case volumes or exact didactic totals were located. Do not infer access to the named Nuclear Medicine and Molecular Imaging Lecture Series from its appearance on the programme page.",
@@ -24578,10 +24619,10 @@
       "humanClinicalReviewStatus": "not performed",
       "dateChecked": "2026-10-07",
       "targetVideoHours": 36,
-      "verifiedExternalHours": 28.277791447500004,
-      "verifiedSpecialtyHours": 19.1618914475,
+      "verifiedExternalHours": 29.251522928888892,
+      "verifiedSpecialtyHours": 20.135622928888885,
       "verifiedFoundationHours": 9.1159,
-      "hoursGap": 7.722208552499996,
+      "hoursGap": 6.7484770711111075,
       "unknownDurationItems": [],
       "clinicalTrainingNotReplaced": true,
       "topicGaps": [
