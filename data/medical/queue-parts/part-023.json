@@ -3174,7 +3174,7 @@
     "studyHours": {
       "status": "Transparent independent-study plan, not training equivalence: 12 units × approximately 3–5 hours independent reading/viewing/case discussion (36–60 study hours) plus capstone 8–12 hours. This is a planning range, not observed video time, supervised clinical time, or a programme duration. Video-only target remains 36 hours."
     },
-    "coverageStatus": "incomplete_lecture_hours",
+    "coverageStatus": "lecture_floor_met_topics_unvalidated",
     "syllabusUrl": "/manus-storage/MED-X057_89f25e8e.pdf",
     "pdfIds": [
       "med-syllabus-MED-X057",
@@ -3567,6 +3567,15 @@
         "durationSeconds": 3442.846,
         "sourceUrl": "https://hsc.mediaspace.utah.edu/media/t/1_8hac4gyo",
         "accessVerified": true
+      },
+      {
+        "id": "MED-X057-EXT-20261029-CLOSE-001",
+        "title": "Normal Variants and Lesions of the Skull Base — Tanya Rath, MD",
+        "url": "https://radiologyresidentcorelectures.com/2136-rath/",
+        "provider": "Radiology Resident Core Lecture Series / Mayo Clinic College of Medicine and Science",
+        "durationSeconds": 2790,
+        "sourceUrl": "https://radiologyresidentcorelectures.com/2136-rath/",
+        "accessVerified": true
       }
     ],
     "unitMap": [
@@ -3616,7 +3625,8 @@
           "YT-UDMw87ofhy8",
           "MED-X057-EXT-20261027B-003",
           "MED-X057-EXT-20261027B-004",
-          "MED-X057-EXT-20261027C-001"
+          "MED-X057-EXT-20261027C-001",
+          "MED-X057-EXT-20261029-CLOSE-001"
         ]
       },
       {
@@ -3777,10 +3787,10 @@
     "boardStatus": "As checked 2026-10-07: CAST publishes skull-base fellowship programme requirements and lists Mass General Brigham among CAST-accredited programme entries. ABNS describes one general neurological-surgery certification pathway and an oral Tumor focus that includes skull-base tumors/endoscopic surgery. It does not publish a separate Skull Base board exam or individual skull-base certificate. NASBS match is administrative selection, distinct from both. No fellowship-specific ABNS exam blueprint or exam weighting was located; course alignment is only to public CAST education requirements and ABNS broad domains, not a formal blueprint.",
     "boardEligibilityNotice": "MGB states candidates must have completed or be in their senior year of an ACGME-accredited programme or equivalent in their home country; CAST standards for a CAST-accredited post-residency fellowship require satisfactory completion of an ACGME or foreign-equivalent accredited neurological-surgery residency. A NASBS-listed BWH programme has distinct published match fields and eligibility details; verify directly with each programme. ABNS board eligibility depends on ABNS requirements and the individual’s training/certification trajectory, not on this fellowship or course. Current rules can change. Independent self-study grants no board eligibility, exam credit, licence, fellowship appointment or operative competence.",
     "targetVideoHours": 36,
-    "verifiedExternalHours": 35.27316778444447,
-    "verifiedSpecialtyHours": 31.003167784444464,
+    "verifiedExternalHours": 36.048167784444466,
+    "verifiedSpecialtyHours": 31.778167784444467,
     "verifiedFoundationHours": 4.27,
-    "hoursGap": 0.7268322155555325,
+    "hoursGap": 0,
     "clinicalTrainingNotReplaced": true,
     "humanClinicalReviewStatus": "not performed",
     "officialProgrammes": [
@@ -3795,7 +3805,7 @@
       "unknownDurationCount": 0,
       "lectureEvidenceValid": true,
       "hasExternalLectureEvidence": true,
-      "isReady": false
+      "isReady": true
     }
   },
   {

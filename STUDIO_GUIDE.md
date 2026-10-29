@@ -1,3 +1,16 @@
+# Board Studio — Skull Base lecture floor met, 29 October 2026
+
+MED-X057 Skull Base now has **36.048168 measured lecture hours**, meeting its 36-hour floor only. Its topic coverage remains **unvalidated**; this is not completion of a fellowship, medical curriculum or board preparation. The source-qualified 46:30 lecture, Normal Variants and Lesions of the Skull Base, is narrowly associated with the existing clinical evaluation/imaging Unit 3 using actual public-player objectives and naturally advancing playback. It was already catalogued in Diagnostic Radiology and adds **0.775 course-assigned hours, zero new unique global video**. No publisher video is copied or uploaded.
+
+**202 of 333 medical records meet measured lecture floors; 131 remain below target**, with **2,877.990675 overlapping record-hours remaining**. This increment reduces the capped remaining deficit by 0.726832 hours; the part beyond the floor is not subtracted again from other records. The preceding three source-qualified assignments and all earlier content remain exact. The unrelated Skull Base Kaltura alias with conflicting 3463.906/3464-second runtime evidence remains withheld; it was not needed or silently reconciled.
+
+Medicine remains incomplete. Full topic coverage is unvalidated; 118 legacy source reviews, eight source-unavailable records and 19 withheld practice items remain. Clinician review is excluded from the requested independent self-study scope and remains **not performed**. All 242 ready original-media identities, 28 immutable readings, 136 development states, both original-media manifests, native player/auth, downloads and every existing local study copy are preserved. There is no new original film, reading, clinical review, source-audit batch, publisher-video copy, cloud-sharing change, local deletion, model migration or Technology Leadership work.
+
+The purchased Cloud Computer is online, but this task still reports a routing lock. Local sandbox free space remains below the unchanged 8 GiB-plus-margin source/render reserve; private cloud archive quota does not increase that working disk. Independent self-study does not confer institutional affiliation, enrolment, academic credit, accreditation, clinical competence, board eligibility/certification or a board-pass guarantee. Actual deployment versions and exact live results are recorded separately after publication, not assumed in this prepared snapshot.
+
+---
+## Earlier snapshots — historical, not current totals
+
 # Board Studio — verified medical lecture update, 29 October 2026
 
 Three strictly source-qualified external lecture assignments add **2.024402 course-assigned hours** across Breast Imaging, Molecular Imaging and Skull Base. Two genuinely new catalogue recordings add **1.366624 unique-video hours**. The mammography recording already existed in Diagnostic Radiology; its now-observed later acquisition-physics slide supports a narrow new Breast Imaging Unit 2 association, not new unique video or full-unit completion.
