@@ -35,6 +35,7 @@ import {
 } from "@/components/studio/MedicalCourseDetails";
 import { MediaPlayer } from "@/components/studio/MediaPlayer";
 import { MedicalReadingPanel } from "@/components/studio/MedicalReadingPanel";
+import { TeachingStudioPanel } from "@/components/studio/TeachingStudioPanel";
 import {
   MedicalSourceReferencePanel,
   MedicalUnitSourceLinks,
@@ -59,6 +60,7 @@ type DetailPanel =
   | "references"
   | "assessment"
   | "practice"
+  | "teaching"
   | "transcript";
 
 /**
@@ -140,6 +142,7 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
   const [selectedId, setSelectedId] = useState<string>();
   const [queueActive, setQueueActive] = useState(false);
   const [panel, setPanel] = useState<DetailPanel>("objectives");
+  const priorDetailPanel = useRef<Exclude<DetailPanel, "teaching">>("objectives");
   const [note, setNote] = useState("");
   const noteRef = useRef("");
   const noteCourseIdRef = useRef<string | undefined>(undefined);
@@ -262,7 +265,7 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
   useEffect(() => {
     if (!originalLesson && panel === "transcript") setPanel("objectives");
     if (
-      (panel === "chapters" || panel === "references") &&
+      (panel === "chapters" || panel === "references" || panel === "teaching") &&
       (!activeCourse || !isMedicalCourse(activeCourse))
     )
       setPanel("objectives");
@@ -406,9 +409,13 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
     "units",
     "reading",
     "assessment",
-    ...(medicalCourse ? ["chapters" as const, "references" as const, "practice" as const] : []),
+    ...(medicalCourse ? ["chapters" as const, "references" as const, "practice" as const, "teaching" as const] : []),
     ...(originalLesson ? ["transcript" as const] : []),
   ];
+  const closeTeachingStudio = () => {
+    const previous = priorDetailPanel.current;
+    setPanel(panels.includes(previous) ? previous : "objectives");
+  };
   return (
     <div className="course-workspace">
       <header className="course-header">
@@ -580,7 +587,7 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
           </section>
         </aside>
       </section>
-      <section className="details-grid">
+      <section className={`details-grid${medicalCourse && panel === "teaching" ? " is-teaching-studio" : ""}`}>
         <div className="detail-panel">
           <div
             className="detail-tabs"
@@ -592,14 +599,26 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
                 key={item}
                 role="tab"
                 aria-selected={panel === item}
+                aria-expanded={item === "teaching" ? panel === item : undefined}
+                aria-controls={item === "teaching" ? "teaching-studio-window" : undefined}
                 className={panel === item ? "is-active" : ""}
-                onClick={() => setPanel(item)}
+                onClick={() => {
+                  if (item === "teaching") {
+                    if (panel === "teaching") closeTeachingStudio();
+                    else {
+                      priorDetailPanel.current = panel;
+                      setPanel("teaching");
+                    }
+                  } else setPanel(item);
+                }}
               >
                 {item === "assessment"
                   ? "Assignment & rubric"
                   : item === "practice"
                     ? "Self-practice"
-                    : item}
+                    : item === "teaching"
+                      ? "Teaching Studio"
+                      : item}
               </button>
             ))}
           </div>
@@ -771,6 +790,12 @@ export default function CourseWorkspace({ snapshot, study, courseId }: Props) {
                   </>
                 )}
               </>
+            )}
+            {medicalCourse && (
+              <TeachingStudioPanel
+                active={panel === "teaching"}
+                onClose={closeTeachingStudio}
+              />
             )}
           </div>
         </div>
